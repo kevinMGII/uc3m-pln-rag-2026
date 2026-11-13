@@ -1,0 +1,44 @@
+{
+  "titulo": "X-15 Flight 3-65-97",
+  "titulo_wikipedia_en": "X-15 Flight 3-65-97",
+  "fecha_lanzamiento": "1967-11-15",
+  "año_lanzamiento": 1967,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/X-15_Flight_3-65-97",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Vuelo de ensayo",
+    "Duración de la misión": "10 minutos, 35 segundos",
+    "Apogeo suborbital": "266000 pies",
+    "Nave": "X-15 56-6672",
+    "Fecha de lanzamiento": "15 de noviembre de 1967, 18:30:07 HUC",
+    "Lugar de lanzamiento": "Bola 8, Edwards\nCayó sobre el lago seco Delamar",
+    "Destrucción": "UTC\nRompió en Randsburg, California",
+    "Tripulación": "Michael J. Adams"
+  },
+  "resumen": "X-15 El vuelo 3-65-97, también conocido como X-15 Vuelo 191 (siendo el 191o vuelo libre del X-15), fue un vuelo espacial sub-orbital del avión espacial experimental X-15 de América del Norte, llevando siete experimentos a una altitud máxima de 266.000 pies, por encima de la definición de NASA del inicio del espacio a 50 millas pero por debajo de la definición de línea Kármán a 100 km. El vuelo, el 15 de noviembre de 1967, terminó cuando el avión se rompió durante su descenso debido a dificultades técnicas, matando al piloto Michael J. Adams y destruir el avión.",
+  "secciones": [
+    {
+      "titulo": "Sinopsis de la misión",
+      "nivel": 2,
+      "texto": "El séptimo vuelo X-15 de Adams tuvo lugar el 15 de noviembre de 1967, en el número tres. A las 10:30 de la mañana del 15 de noviembre, el X-15-3 fue liberado del ala de la nave nodriza NB-52B a 45.000 pies sobre el lago seco Delamar.\nLos experimentos y pruebas en este vuelo a 266.000 pies fueron:\nImpulsar el experimento de orientación\nMedición del espectro solar\nDetección de penacho ultravioleta\nColección de micrometeoritas\nFotografía de desviación de la cápsula de la ala\nPrueba de aislamiento de refuerzo de Saturno V en la reentrada X-15\nPrueba de la sonda de cruce en una vaina experimental de punta de ala\nMientras que en el vuelo propulsado, una perturbación eléctrica distrajo a Adams y degradó ligeramente el control de la aeronave; teniendo controles de respaldo adecuados, Adams continuó. A las 10:33, alcanzó una altura máxima de 266.000 pies. En la sala de control de la NASA 1, el controlador de la misión Pete Knight supervisó la misión con un equipo de ingenieros.\nA medida que el X-15 subía, Adams comenzó una maniobra planeada de aleteo (rolling) para que una cámara a bordo pudiera escanear el horizonte. A la conclusión de la porción de aleteo de la subida, el X-15 había comenzado una lenta deriva en la dirección; 40 segundos más tarde, cuando el avión había alcanzado su altitud máxima, se desvió en dirección 15 grados a la izquierda. Cuando Adams llegó a la cima, la deriva brevemente se detuvo mientras la nariz de la aeronave devolvía 15 grados a la actitud correcta. Entonces la deriva hacia la izquierda comenzó de nuevo; dentro de 30 segundos, la trayectoria de vuelo descendente de Adams estaba en un ángulo recto con respecto a la actitud del avión. A 230.000 pies, mientras descendía hacia la densidad de la atmósfera, el X-15 entró en un giro de 5 Mach.\nEn la sala de control de la NASA 1, no había manera de monitorear el rumbo de la aeronave, por lo que la situación era desconocida para los ingenieros que vigilaban el vuelo. La conversación normal continuó entre Knight y Adams, con Knight aconsejando a Adams que era \"un poco alto\", pero en \"buena forma\". Adams radioemitió que el avión \"[parecía] ardilla\", y momentos después le dijo repetidamente a Knight que había entrado en una vuelta. Los controladores de tierra buscaban enderezar el X-15, pero no había una técnica de recuperación de giro recomendada para el X-15, y los ingenieros no sabían nada sobre las tendencias de giro supersónico del avión. Los pilotos de persecución, al darse cuenta de que la X-15 nunca haría Rogers Dry Lake, se dirigió a los lagos de emergencia, Ballarat y Cuddeback, en caso de que Adams intentó un aterrizaje de emergencia.\nAdams mantuvo los controles de la X-15 contra el giro, usando tanto los controles de vuelo como los chorros de control de reacción en la nariz y las alas. Se las arregló para recuperarse del giro a 118000 pies y entró en una inmersión invertida de 4.7 Mach en un ángulo entre 40 y 45 grados. En teoría, Adams estaba en una buena posición para rodar en posición vertical, salir de la inmersión y establecer un aterrizaje. Sin embargo, debido a la alta ganancia en el sistema de control adaptativo, el X-15 entró en oscilaciones del ciclo de límite con un movimiento de lanzamiento rápido de gravedad creciente, todavía en una inmersión a 160000 pies por minuto. A medida que el X-15 se acercaba a los 65.000 pies, buceaba a 3,93 Mach y experimentaba más de 15 g0 verticalmente, y 8 g0 lateralmente.\nEl avión se separó al noreste del pequeño asentamiento californiano de Johannesburgo 10 minutos y 35 segundos después del lanzamiento. Un piloto de la Fuerza Aérea, que estaba reemplazando a otro piloto de persecución, vio los principales restos al noroeste del lago Cuddeback. El avión fue destruido, y Adams murió.\nDespués de la muerte de Adams, varios pilotos e ingenieros abandonaron el programa, incluyendo a John A. Manke en 1967."
+    },
+    {
+      "titulo": "Investigación",
+      "nivel": 2,
+      "texto": "La NASA y la Fuerza Aérea convocaron una junta de accidentes. Presidido por Donald R. Bellman, el consejo tardó dos meses en preparar su informe. Fiestas terrestres recorrían el campo buscando restos, específicamente la película de la cámara de la cabina. El fin de semana después del accidente, un grupo no oficial de búsqueda del Centro de Investigación de Vuelo (FRC) de la NASA encontró la cámara, pero no pudo encontrar el cartucho de la película. El ingeniero de FRC Victor W. Horton organizó una búsqueda y el 29 de noviembre, durante el primer paso sobre la zona, Willard E. Dives encontró el cassette.\nLa tabla de accidentes encontró que la instrumentación de la cabina había estado funcionando correctamente, y concluyó que Adams había perdido el control de la X-15 como resultado de una combinación de distracción, mala interpretación de su pantalla de instrumentación, y posible vértigo. Las perturbaciones eléctricas que se produjeron al comienzo del vuelo degradaron la eficacia general del sistema de control de la aeronave y aumentaron la carga de trabajo del piloto.\nLa junta hizo dos recomendaciones principales: instalar un indicador de rumbo telemétrico en la sala de control, visible para el controlador de vuelo; y examinar médicamente a los pilotos X-15 candidatos para la sensibilidad al laberinto (vértigo). Como resultado de la caída de la X-15, el FRC añadió un indicador de actitud basado en tierra \"8 bola\" en la sala de control para proporcionar controladores de misión con tono en tiempo real, rollo, yau, rumbo, ángulo de ataque, e información de desplazamiento lateral."
+    },
+    {
+      "titulo": "Memoriales",
+      "nivel": 2,
+      "texto": "Adams recibió alas de astronauta póstumamente. Su nombre aparece en el Memorial del Espejo Espacial."
+    }
+  ],
+  "num_palabras": 1044
+}

@@ -1,0 +1,38 @@
+{
+  "titulo": "Luna E-8-5 No. 402",
+  "titulo_wikipedia_en": "Luna E-8-5 No. 402",
+  "fecha_lanzamiento": "1969-06-14",
+  "año_lanzamiento": 1969,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración lunar"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Luna_E-8-5_No._402",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Tierras lunares\nRetorno de la muestra",
+    "Operador": "Programa espacial soviético",
+    "Duración de la misión": "Falló a la órbita",
+    "Tipo de nave": "E-8-5",
+    "Fabricante": "NPO Lavochkin",
+    "Masa en el lanzamiento": "5600 kg",
+    "Fecha de lanzamiento": "14 de junio de 1969, 04:00:47 HUC",
+    "Vehículo de lanzamiento": "Proton-K/D s/n 238-01",
+    "Lugar de lanzamiento": "Baikonur 81/24",
+    "Programa": "Programa Luna",
+    "Misión anterior": "Luna 1969A",
+    "Misión siguiente": "Luna 15"
+  },
+  "resumen": "Luna E-8-5 No.402, también conocida como Luna Ye-8-5 No.402, y a veces identificada por la NASA como Luna 1969C, fue una nave espacial soviética bajo el programa Luna que se perdió en un fallo de lanzamiento en 1969. Fue una nave espacial Luna E-8-5 de 5.600 kilogramos, la primera de al menos once en ser lanzada. Tenía la intención de realizar un aterrizaje suave en la Luna, recoger una muestra de suelo lunar, y devolverlo a la Tierra. Fue, junto con Luna 15, una de las dos misiones infructuosas que había sido lanzada por la Unión Soviética en un último intento de subir al escenario del aterrizaje del Apolo 11 bajo la carrera de la Luna.",
+  "secciones": [
+    {
+      "titulo": "Histórico",
+      "nivel": 2,
+      "texto": "Luna E-8-5 No.402 fue lanzada a las 04:00:07 UTC el 14 de junio de 1969 en la cima de un cohete portador Proton-K 8K78K con una etapa superior Blok D, volando desde el Sitio 81/24 en el Cosmodrome de Baikonur. La etapa superior no se encendió, y en consecuencia la nave espacial no logró alcanzar la órbita.\nAntes de la publicación de información sobre su misión, la NASA identificó correctamente que se trataba de una misión de retorno de muestra. Sin embargo, creían que se había hecho un intento anterior, utilizando una nave espacial lanzada el 30 de abril, que también se había perdido en un fallo en el lanzamiento. Designaron ese intento como Luna 1969B. Ninguna nave espacial Luna o cohete Proton fue lanzada en esa fecha."
+    }
+  ],
+  "num_palabras": 244
+}

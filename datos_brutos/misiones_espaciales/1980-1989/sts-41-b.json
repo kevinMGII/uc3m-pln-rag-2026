@@ -1,0 +1,41 @@
+{
+  "titulo": "STS-41-B",
+  "titulo_wikipedia_en": "STS-41-B",
+  "fecha_lanzamiento": "1984-02-03",
+  "año_lanzamiento": 1984,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/STS-41-B",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Lugar de lanzamiento": "KSC LC-39A",
+    "Fecha de lanzamiento": "3 de febrero de 1984 13:00:00 UTC",
+    "Nave": "Challenger",
+    "Fecha de aterrizaje": "11 de febrero de 1984 12:15:55 UTC Centro Espacial Kennedy",
+    "Duración de la misión": "7 días, 23 horas, 15 min y 55 s",
+    "Inclinación orbital": "28.5 grados",
+    "Distancia recorrida": "5,329,150 kilómetros",
+    "Misión anterior": "STS-9",
+    "Misión siguiente": "STS-41-C",
+    "Programa": "Programa del Transbordador Espacial"
+  },
+  "resumen": "STS-41-B fue la décima misión del programa STS y la cuarta del transbordador Challenger. Después de la misión STS-9, la numeración de los vuelos fue cambiada, de esta manera el que hubiese sido el STS-11 se convirtió en el STS-41-B (la misión STS-10 había sido cancelada). Entre los objetivos de la misión se encontraba el lanzamiento de un satélite WESTAR y de otro tipo Palapa, la realización de un paseo espacial usando una mochila propulsora y el primer aterrizaje de una misión en el Centro Espacial Kennedy.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Vance D. Brand (3) - Comandante\nRobert L. Gibson (1) - Piloto\nBruce McCandless II (1) - Especialista de misión\nRonald E. McNair (1) - Especialista de misión\nRobert L. Stewart (1) - Especialista de misión\nEntre paréntesis número de vuelos realizados incluido el STS-41-B."
+    },
+    {
+      "titulo": "Parámetros de la misión",
+      "nivel": 2,
+      "texto": "Masa:\nOrbitador al despegue: 113,527 kg\nOrbitador al aterrizaje: 91,278 kg\nCarga: 15,362 kg\nPerigeo: 307 km\nApogeo: 316 km\nInclinación: 28.5°\nPeriodo: 90.8 min"
+    }
+  ],
+  "num_palabras": 157
+}

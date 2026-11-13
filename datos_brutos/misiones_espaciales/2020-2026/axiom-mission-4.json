@@ -1,0 +1,46 @@
+{
+  "titulo": "Axiom Mission 4",
+  "titulo_wikipedia_en": "Axiom Mission 4",
+  "fecha_lanzamiento": "2025-06-25",
+  "año_lanzamiento": 2025,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Axiom_Mission_4",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Turismo espacial a la ISS",
+    "Tipo de nave": "Crew Dragon",
+    "Fabricante": "SpaceX",
+    "Tripulación": "Peggy Whitson; Shubhanshu Shukla; Sławosz Uznański; Tibor Kapu",
+    "Fecha de lanzamiento": "23 de junio de 2025",
+    "Vehículo de lanzamiento": "Falcon 9 Block 5",
+    "Lugar de lanzamiento": "Kennedy, LC-39A",
+    "Contratista del lanzamiento": "SpaceX",
+    "Fecha de aterrizaje": "15 de julio de 2025",
+    "Lugar de aterrizaje": "Océano Atlántico",
+    "Sistema de referencia orbital": "Órbita geocéntrica",
+    "Régimen orbital": "Órbita terrestre baja",
+    "Inclinación orbital": "51.6°",
+    "Programa": "Crew Dragon",
+    "Misión anterior": "Fram2",
+    "Misión siguiente": "SpaceX Crew-11",
+    "Programa (2)": "Misiones de Axiom",
+    "Misión anterior (2)": "Axiom-3",
+    "Misión siguiente (2)": "Axiom-5",
+    "Acoplamiento": "tipo acople: acople | objetivo acople: ISS | puerto acople: Harmony PMA/IDA frontal o cénit"
+  },
+  "resumen": "Axiom Mission 4 (o Ax-4) es un vuelo espacial privado a la Estación Espacial Internacional. El vuelo se lanzará no antes de la primavera boreal de 2025 y durará unos 14 días. Será operado por Axiom Space y utilizará una nave espacial Crew Dragon.\nEl vuelo despegará del Centro Espacial Kennedy LC-39A en Florida en un cohete Falcon 9.\nEl vuelo está organizado en colaboración con la NASA y será el cuarto vuelo de Axiom Space después de Axiom Mission 1, Axiom Mission 2 y Axiom Mission 3.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "La tripulación de vuelo incluirá a la veterana astronauta Peggy Whitson, al astronauta de ISRO Shubhanshu Shukla, al astronauta polaco Sławosz Uznański y al astronauta húngaro Tibor Kapu."
+    }
+  ],
+  "num_palabras": 116
+}

@@ -1,0 +1,36 @@
+{
+  "titulo": "STS-123",
+  "titulo_wikipedia_en": "STS-123",
+  "fecha_lanzamiento": "2008-03-11",
+  "año_lanzamiento": 2008,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/STS-123",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Lugar de lanzamiento": "KSC LC-39A",
+    "Fecha de lanzamiento": "11 de marzo de 2008",
+    "Nave": "Endeavour",
+    "Fecha de aterrizaje": "26 de marzo de 2008",
+    "Inclinación orbital": "51,6 grados",
+    "Órbitas completadas": "TBD",
+    "Distancia recorrida": "TBD",
+    "Misión anterior": "STS-122",
+    "Misión siguiente": "STS-124",
+    "Programa": "Programa del Transbordador Espacial"
+  },
+  "resumen": "STS-123 fue una misión de la NASA con el transbordador espacial Endeavour, dando continuidad a la construcción de la Estación Espacial Internacional, siendo la 25ª misión destinada a la EEI, y la 122ª del programa del transbordador espacial, siendo también denominada como misión 1J/A para el montaje de la EEI.\nLa fecha original prevista para su lanzamiento era la del 14 de febrero de 2008, aunque debido a los continuos retrasos de la misión STS-122, el lanzamiento se produjo el 11 de marzo de 2008. Retornó a la Tierra el 26 de marzo de 2008.\nLos principales objetivos de la STS-123 eran: acoplar el primero de los módulos del Laboratorio japonés Kibo y ampliar el brazo robótico de la EEI (Canadarm 2) con la instalación del Special Purpose Dexterous Manipulator (SPDM).",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Dominic Gorie (4) - Comandante\nGregory H. Johnson (1) - Piloto\nRobert L. Behnken (1) - Especialista de la Misión 1\nMichael Foreman (1) - Especialista de la Misión 2\nRichard M. Linnehan (4) - Especialista de la Misión 3\nTakao Doi (2) - Especialista de la Misión 4 - (JAXA)\nLlevado a la ISS Expedición 16\nGarrett Reisman (2) - Ingeniero de vuelo\nTraído de la ISS Expedición 16\nLéopold Eyharts (2) - Ingeniero de vuelo - (ESA)\nEntre paréntesis número de vuelos de cada uno antes de esta misión."
+    }
+  ],
+  "num_palabras": 222
+}

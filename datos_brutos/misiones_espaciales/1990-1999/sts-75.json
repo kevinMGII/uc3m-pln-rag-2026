@@ -1,0 +1,71 @@
+{
+  "titulo": "STS-75",
+  "titulo_wikipedia_en": "STS-75",
+  "fecha_lanzamiento": "1996-02-22",
+  "año_lanzamiento": 1996,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/STS-75",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Investigación sobre la microgravedad\nDesarrollo tecnológico",
+    "Operador": "NASA",
+    "Órbitas completadas": "252",
+    "Distancia recorrida": "6500000 mi",
+    "Duración de la misión": "15 días, 17 horas, 40 minutos, 22 segundos",
+    "Masa de la carga útil": "10592 kg",
+    "Lugar de lanzamiento": "Kennedy, LC-39B",
+    "Fecha de lanzamiento": "22 de febrero de 1996, 20:18:00 HUC",
+    "Fecha de aterrizaje": "9 de marzo de 1996, 13:58:22 UTC",
+    "Lugar de aterrizaje": "Kennedy, SLF Runway 33",
+    "Tripulación": "Andrew M. Allen; Scott J. Horowitz; Jeffrey A. Hoffman; Maurizio Cheli; Claude Nicollier; Franklin R. Chang-Diaz; Umberto Guidoni",
+    "Sistema de referencia orbital": "Geocéntrico",
+    "Régimen orbital": "Órbita terrestre baja",
+    "Periapsis": "277 km",
+    "Apoapsis": "320 km",
+    "Periodo orbital": "90,5 minutos",
+    "Inclinación orbital": "28,45 grados",
+    "Programa": "Programa de transporte espacial",
+    "Misión anterior": "STS-72 (74)",
+    "Misión siguiente": "STS-76 (76)"
+  },
+  "resumen": "STS-75 fue una misión del transbordador espacial de la NASA en 1996, la 19a misión del orbitador.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Objetivo de la misión",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Sistema de satélites atados",
+      "nivel": 3,
+      "texto": "El objetivo principal de STS-75 era llevar el Reflight del Sistema de Satélites Tethered (TSS-1R) a la órbita y desplegarlo hacia el espacio en una atadura conductora. La misión también voló la carga útil de microgravedad de los Estados Unidos (USMP-3) diseñada para investigar la ciencia de materiales y la física de la materia condensada.\nLa misión TSS-1R fue un revuelo de TSS-1 que fue transportado a bordo del transbordador espacial Atlantis en STS-46 en julio/agosto de 1992. El Sistema de Satélites de Tether rodeó la Tierra a una altitud de 296 kilómetros, colocando el sistema de ataduras dentro de la capa de carga eléctrica enrarecida de la atmósfera conocida como la ionosfera.\nLos científicos de la misión STS-75 esperaban desplegar la atadura a una distancia de 20,7 km. Más de 19 km de la atadura se desplegó (en un período de 5 horas) antes de que se rompiera la atadura. Muchos pedazos de desechos flotantes fueron producidos por la descarga de plasma y la ruptura de la atadura, y algunos chocaron con ella. El satélite permaneció en órbita durante varias semanas y fue fácilmente visible desde tierra.\n[ ]\nEl conductor eléctrico de la correa era una trenza de cobre herida alrededor de una cuerda de nylon (Nomex). Estaba encapsulado en aislamiento de teflón, con una cubierta exterior de kevlar, dentro de una funda de nylon (Nomex). El culpable resultó ser el núcleo más interior, hecho de un material poroso que, durante su fabricación, atrapó muchas burbujas de aire a presión atmosférica.\nMás tarde, los experimentos de cámara de vacío sugirieron que el desenrollamiento del carrete descubrió los agujeros en el aislamiento. Eso en sí mismo no habría causado un problema importante, porque la ionosfera alrededor de la atadura, bajo circunstancias normales, estaba demasiado enrarecido para desviar gran parte de la corriente. Sin embargo, el aire atrapado en el aislamiento cambió eso. A medida que el aire salía de los alfileres, el alto voltaje de la atadura cercana, unos 3500 voltios, lo convirtió en un plasma relativamente denso (similar al encendido de un tubo fluorescente), y por lo tanto hizo que la atadura fuera un conductor mucho mejor de electricidad. Este plasma se desvió al metal de la lanzadera y de allí al circuito de retorno ionosférico. Esa corriente era suficiente para derretir el cable.\nLos objetivos específicos de la misión de TSS-1R fueron: caracterizar la respuesta de corriente-tensión del sistema de orbitador de TSS, caracterizar la estructura de vaina de alta tensión del satélite y el proceso de recolección de corriente, demostrar la generación de energía eléctrica, verificar las leyes de control de ataduras y la dinámica básica de ataduras, demostrar el efecto del gas neutro en la vaina de plasma y la recogida de corriente, caracterizar la frecuencia de radio de TSS y las emisiones de onda de plasma y caracterizar el acoplamiento dinámico-electrodinámico de TSS.\nLas investigaciones científicas de TSS-1R incluyeron: equipo básico de despliegue de TSS y equipo básico de satélite (DCORE/SCORE), investigación sobre electrodinámica del plasma orbital (ROPE), investigación sobre efectos de tetera electrodinámica (RETE), experimento de campo magnético para misiones de TSS (TEMAG), sistema de tetera electrodinámica de lanzadera (SETS), experimento de potencial de lanzadera y electrón de retorno (SPREE), experimento de fenomenos ópticos de tetera (TOP), investigación de emisiones electromagnéticas por tetera electrodinámica (EMET), observaciones en la superficie terrestre de las emisiones electromagnéticas por TSS (OESSE), investigación y medición del ruido dinámico en el TSS (IMDN), investigación teórica y experimental de la dinámica de TSS (TEID) y teoría y modelización en apoyo de aplicaciones de satélites tethered (TMST)."
+    },
+    {
+      "titulo": "Otros objetivos de la misión",
+      "nivel": 3,
+      "texto": "La carga útil del USMP-3 consistió en cuatro experimentos importantes montados en dos estructuras de soporte de experimento Peculiar de la Misión (MPESS) y tres experimentos de medio piso de Shuttle. Los experimentos fueron: Horno de Solidación Automatizada Avanzada (AADSF), Material pour l'Etude des Phenomenes Interessant la Solidification sur Terre et en Orbite (MEPHISTO), Sistema de Medición de Aceleración del Espacio (SAMS), Experimento de Investigación de Aceleración Orbital (OARE), Experimento de Dispersión de Luz Líquida Crítica (ZENO) y Experimento de Crecimiento Dentrítico Isotérmico (IDGE)."
+    },
+    {
+      "titulo": "Uso alternativo de literas",
+      "nivel": 2,
+      "texto": "Los astronautas judíos Jeffrey A. Hoffman y Scott J. Horowitz alternaba el uso de la misma litera. A petición de Horowitz, Hoffman asoció una mezuzah usando Velcro."
+    },
+    {
+      "titulo": "Misión ficcional STS-75",
+      "nivel": 2,
+      "texto": "STS-75 fue la misión de lanzadera descrita en el ficticia Documento 12-571-3570 de la NASA, aunque este documento se difundió varios años antes del lanzamiento de STS-75. El documento pretende informar sobre experimentos para determinar posiciones sexuales efectivas en la microgravedad. El astrónomo y escritor científico Pierre Kohler confundió este documento con hechos y es responsable de un aumento importante en su redistribución a principios del siglo XXI. Las teorías de conspiración hechas por primera vez en los comienzos de la era de Shuttle del sexo en el espacio se hicieron repentinamente rampantes de nuevo, causando una debacle de prensa menor entre los tabloides."
+    }
+  ],
+  "num_palabras": 828
+}

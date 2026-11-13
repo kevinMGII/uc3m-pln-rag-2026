@@ -1,0 +1,29 @@
+{
+  "titulo": "BeppoSAX",
+  "titulo_wikipedia_en": "BeppoSAX",
+  "fecha_lanzamiento": "1996-04-30",
+  "año_lanzamiento": 1996,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Telescopio espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/BeppoSAX",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Reentrado en la atmósfera",
+    "Tipo de misión": "Observatorio espacial",
+    "Fecha de lanzamiento": "30 de abril de 1996",
+    "Lugar de lanzamiento": "Cabo Cañaveral",
+    "Vehículo de lanzamiento": "Atlas",
+    "ID NSSDC": "1996-027A",
+    "Masa en el lanzamiento": "900 kg",
+    "Tipo de fin de misión": "reingreso",
+    "Fecha de reentrada": "Reingreso = 29 de abril de 2003"
+  },
+  "resumen": "BeppoSAX fue un observatorio espacial de rayos X fruto de la colaboración entre los Países Bajos e Italia. Originalmente denominado SAX (Satellite per Astronomia X, en italiano), fue renombrado BeppoSAX en honor a Giuseppe \"Beppo\" Occhialini, físico italiano. El observatorio fue lanzado el 30 de abril de 1996 mediante un cohete Atlas desde Cabo Cañaveral. Al final de su misión reentró en la atmósfera, el 29 de abril de 2003.\nLa misión de BeppoSAX fue realizar estudios espectroscópicos y de variabilidad temporal de fuentes celestes de rayos X en la banda de energías entre 1 y 200 keV, incluyendo una monitorización completa del cielo para la detección de eventos transitorios en el rango entre 2 a 30 keV.\nEntre la instrumentación, el satélite portaba cuatro concentradores de rayos X sensibles a energías entre 1 y 10 keV (con uno de ellos capaz de detectar energías tan bajas como 0,1 keV), un centelleador de gas sensible a entre 3 y 12 keV y un centelleador de cristal de ioduro de sodio para energías entre 15 y 200 keV.",
+  "secciones": [],
+  "num_palabras": 177
+}

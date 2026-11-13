@@ -1,0 +1,58 @@
+{
+  "titulo": "STS-77",
+  "titulo_wikipedia_en": "STS-77",
+  "fecha_lanzamiento": "1996-05-19",
+  "año_lanzamiento": 1996,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/STS-77",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Investigación sobre la microgravedad",
+    "Operador": "NASA",
+    "Órbitas completadas": "161",
+    "Distancia recorrida": "4100000 mi",
+    "Duración de la misión": "10 días, 40 minutos, 10 segundos",
+    "Masa en el lanzamiento": "115456 kg",
+    "Masa en el aterrizaje": "92701 kg",
+    "Masa de la carga útil": "12233 kg",
+    "Lugar de lanzamiento": "Kennedy, LC-39B",
+    "Fecha de lanzamiento": "19 de mayo de 1996, 10:30:00.066 UTC",
+    "Fecha de aterrizaje": "29 de mayo de 1996, 11:09:18 UTC",
+    "Lugar de aterrizaje": "Kennedy, SLF Runway 33",
+    "Tripulación": "John H. Casper; Curtis L. Brown, hijo; Andrew S. Thomas; Daniel W. Bursch; Mario Runco, hijo; Marc Garneau",
+    "Sistema de referencia orbital": "Geocéntrico",
+    "Régimen orbital": "Órbita terrestre baja",
+    "Periapsis": "278 km",
+    "Apoapsis": "287 km",
+    "Periodo orbital": "90,1 min",
+    "Inclinación orbital": "39,0 grados",
+    "Programa": "Programa de transporte espacial",
+    "Misión anterior": "STS-76",
+    "Misión siguiente": "STS-78"
+  },
+  "resumen": "STS-77 fue la 77a misión del transbordador espacial y la 11a misión del transbordador espacial Endeavour. La misión comenzó desde la plataforma de lanzamiento 39B desde el Kennedy Space Center, Florida, el 19 de mayo de 1996, durando 10 días y 40 minutos y completando 161 revoluciones antes de aterrizar en la pista 33. La empresa de defensa y tecnología aeroespacial L'Garde fue responsable del diseño y fabricación de la antena en el experimento de antena inflable, un componente clave de la misión STS-77.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Aspectos destacados de la misión",
+      "nivel": 2,
+      "texto": "El vuelo de lanzadera de la NASA Endeavour se dedicó a abrir la frontera espacial comercial. Durante el vuelo la tripulación realizó una investigación de microgravedad a bordo del módulo SPACEHAB de propiedad comercial y operado. La misión también desplegó y recuperó el satélite Spartan-207/IAE (Experimento de Antena Inflable) y se reunió con un satélite de ensayo. Un conjunto de cuatro experimentos tecnológicos conocidos como los Experimentos de Tecnología para la Promoción de Misiones en el Espacio (TEAMS) también voló en la bahía de carga útil del transbordador.\nEl módulo único SPACEHAB contenía casi 1400 kg de experimentos y equipo de apoyo para 12 cargas útiles para el desarrollo de productos espaciales comerciales en las esferas de la biotecnología, los materiales electrónicos, los polímeros y la agricultura, así como varios experimentos para otras organizaciones de carga útil de la NASA. Uno de ellos, el Centro Comercial de Zona Flotante (CFZF) fue desarrollado a través de la colaboración internacional entre Estados Unidos, Canadá y Alemania. Caldeó varias muestras de material electrónico y semiconductor a través de la técnica de zona flotante. Otra instalación en SPACEHAB fue la instalación de experimentos espaciales (SEF) que creció cristales por difusión de vapor.\nEl satélite Spartan-207 del Centro de Vuelo Espacial Goddard (GSFC) se utilizó para implementar y probar el Experimento de Antena Inflable (IAE), que sentó las bases para el futuro desarrollo de tecnología en estructuras espaciales inflables. Probó el rendimiento de una gran antena inflable durante una misión de noventa minutos. La estructura de la antena fue desechada y la nave espacial SPARTAN-207 se recuperó al final de la misión.\nDentro de la bahía de carga de Endeavour, los cuatro experimentos TEAMS operaron durante toda la misión. Entre ellos figuraban el Experimento de Actitud y Navegación (GANE) del Sistema Mundial de Posicionamiento (GPS) para determinar la exactitud con que el sistema GPS puede suministrar información de actitud a un vehículo espacial; el Experimento de Reabastecimiento de Tanques Ventados (VTRE) para probar métodos mejorados de reabastecimiento en el espacio; el Experimento Termal de Metal Líquido (LMTE) para evaluar el rendimiento de tuberías de calor de metal líquido en condiciones de microgravedad, y la carga útil pasiva de satélites con amortiguación magnética estabilizada aerodinámicamente (PAMS) para demostrar la tecnología del principio de estabilización aerodinámica en la atmósfera superior. Las cámaras de la lanzadera grabaron el satélite PAMS cuando fue desplegado y rastrearon sus movimientos.\nLos experimentos secundarios en el vuelo incluyeron el Brillante Eyes Ten Kelvin Sorption Cryocooler Experiment (BETSCE), la instalación de investigación acuática (ARF) y el experimento de investigación biológica en un recipiente (BRIC).\nTambién a bordo se encontraba el Aparato de Bioprocesamiento Planta-Generic (P-GBA) diseñado por BioServe Space Technologies. Varias especies de plantas fueron voladas en esta cámara de crecimiento de planta configurada de doble cubierta central. Se llevaron a cabo con éxito investigaciones sobre el crecimiento de las plantas en microgravedad, así como investigaciones sobre la viabilidad de la agricultura en el espacio.\nSe desarrolló un dispensador de fuentes Coca-Cola (oficialmente un aparato de bioprocesamiento genérico de fluidos-2 o FGBA-2) para su uso en STS-77 como banco de pruebas para determinar si las bebidas carbonatadas pueden producirse a partir de dióxido de carbono, agua y jarabes aromatizados almacenados por separado y determinar si los fluidos resultantes pueden ponerse a disposición para su consumo sin nucleación de burbujas y la formación de espuma resultante. La unidad contenía 1,65 litros de Coca-Cola y Coca-Cola Dietética. El FGBA original voló en STS-63."
+    },
+    {
+      "titulo": "Mission insignia",
+      "nivel": 2,
+      "texto": "Las dos porciones rojas del logo de la NASA a la izquierda de la insignia simbolizan la designación numérica del vuelo en la secuencia de misión del Sistema de Transporte Espacial."
+    }
+  ],
+  "num_palabras": 693
+}

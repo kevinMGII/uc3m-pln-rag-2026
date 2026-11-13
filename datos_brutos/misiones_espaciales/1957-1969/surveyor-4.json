@@ -1,0 +1,36 @@
+{
+  "titulo": "Surveyor 4",
+  "titulo_wikipedia_en": "Surveyor 4",
+  "fecha_lanzamiento": "1967-07-14",
+  "año_lanzamiento": 1967,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración lunar",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Surveyor_4",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Lunar Lander",
+    "Operador": "NASA",
+    "Fabricante": "Hughes Aircraft",
+    "Fecha de lanzamiento": "14 de julio de 1967",
+    "Vehículo de lanzamiento": "Atlas SLV-3C Centaur-D",
+    "Duración de la misión": "65 horas (fallo y perdida del lander en el alunizaje)",
+    "ID NSSDC": "1967-068A",
+    "Masa en el lanzamiento": "282 kilogramos (alunizaje)",
+    "Datos interplanetarios": "tipo: orbitador | objeto: Luna"
+  },
+  "resumen": "El Surveyor 4 fue el cuarto lander lunar en el Programa Surveyor no tripulado enviado para explorar la superficie de la Luna. Esta nave espacial se estrelló después de una misión por lo demás impecable; el contacto de telemetría se perdió 2,5 minutos antes de la toma de contacto. El objetivo de aterrizaje planificado fue Sinus Medii a 0,4 ° de latitud norte y 1,33 ° de longitud oeste. Se estrelló a 0° 27′ 0″ N, 1° 23′ 24″ W.",
+  "secciones": [
+    {
+      "titulo": "Equipo",
+      "nivel": 2,
+      "texto": "Esta nave espacial fue la cuarta de una serie diseñada para lograr un aterrizaje suave en la Luna y para devolver fotografías de la superficie lunar para determinar las características del terreno lunar para las misiones de aterrizaje lunares del Apolo. El equipo a bordo incluía una cámara de televisión y espejos auxiliares, un muestreador de superficie para mecánicos del suelo, medidores de tensión en las patas de aterrizaje de la nave espacial y numerosos sensores de ingeniería. Al igual que el Surveyor 3, Surveyor 4 también estaba equipado con una garra de superficie (con un imán en la garra) para detectar y medir elementos ferrosos en la superficie lunar.\nDespués de un vuelo impecable a la Luna, las señales de radio de la nave espacial cesaron durante la fase de descenso de la terminal a las 02:03 TU el 17 de julio de 1967, aproximadamente 2,5 minutos antes del aterrizaje. El contacto con la nave espacial nunca se restableció, y la misión no tuvo éxito. El retro-cohete de combustible sólido puede haber explotado cerca del final de su quema programada."
+    }
+  ],
+  "num_palabras": 261
+}

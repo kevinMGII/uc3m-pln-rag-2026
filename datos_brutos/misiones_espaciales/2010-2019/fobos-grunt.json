@@ -1,0 +1,100 @@
+{
+  "titulo": "Fobos-Grunt",
+  "titulo_wikipedia_en": "Fobos-Grunt",
+  "fecha_lanzamiento": "2011-11-08",
+  "año_lanzamiento": 2011,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración de Marte",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Fobos-Grunt",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Principal: recogida de muestras y regreso a la Tierra\nSecundarias: 1 aterrizador en Fobos\nYinghuo: orbitador de Marte",
+    "Operador": "Roscosmos (Rusia)",
+    "Coste": "1.500 millones de rublos\n(64'4 millones de dólares)",
+    "Duración planificada": "(prevista) 1 año terrestre",
+    "Masa en el lanzamiento": "Total:11.100 kg (total)\n2.104 kg (sin combustible)\nEtapa de regreso: 148 kg (total)\nYinghuo-1: 115 kg",
+    "Fecha de lanzamiento": "8 de noviembre de 2011, Baikonur",
+    "Vehículo de lanzamiento": "Zenit",
+    "Fin declarado": "2014 (previsto)"
+  },
+  "resumen": "La sonda Fobos-Grunt (en ruso: Фобос-Грунт) fue una misión planeada por Rusia con el objetivo principal de explorar el satélite Fobos del planeta Marte. Por su parte Grunt se refiere a suelo o tierra, ya que la sonda pretendía recoger una muestra de la superficie del satélite y regresar con ella a la Tierra. En inglés es frecuente encontrar a esta misión con otros nombres, especialmente como Phobos-Grunt pero también como Fobos Explorer y Phobos Sample Return Mission.\nFue la segunda misión a Marte de la Roscosmos tras la fracasada Mars 96. En el proyecto participó también China, que construyó un orbitador, así como colaboraciones menores de otros países.\nLa Fobos-Grunt propiamente dicha se componía de dos módulos, estando previsto que ambos aterrizaran en Fobos. El más pequeño, cargado con las muestras, volvería a la Tierra en el 2012. El más grande, que permanecería en la superficie del satélite durante un año, estudiaría el medio ambiente de Marte, incluyendo su atmósfera, las tempestades de arena, el plasma y la radiación y también serviría de enlace de comunicaciones con las estaciones finlandesas.\nEl desarrollo de la sonda se inició en 2001 y los diseños iniciales finalizaron en 2004. Se preveía que la misión sería lanzada en octubre de 2009, utilizando un vehículo lanzador Soyuz, pero la misma fue aplazada para mediados de 2011 reemplazándose el vector por un lanzador Zenit.",
+  "secciones": [
+    {
+      "titulo": "Objetivos de la misión",
+      "nivel": 2,
+      "texto": "Recolectar muestras de suelo (regolito) de Fobos y regresar con ellas a la Tierra\nEstudio in situ de las propiedades físicas y químicas de la superficie de Fobos.\nEstudio de la estructura interna de Fobos.\nAnálisis de los movimientos de Fobos.\nMonitoreo de la atmósfera de Marte, incluyendo la dinámica de las tormentas de polvo y los cambios estacionales.\nEstudiar el entorno marciano, como el nivel de radiación, plasma y polvo planetario."
+    },
+    {
+      "titulo": "Desarrollo del proyecto",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Inicios",
+      "nivel": 3,
+      "texto": "La misión se concibió en 1999 pero, debido a la profunda crisis económica rusa, no tuvo asignación presupuestaria hasta el 2004. Los retrasos hicieron que la fecha inicial de lanzamiento -2007- resultara demasiado precipitada, así que se postergó para el 2009, y posteriormente para 2011. Al mismo tiempo, para abaratar costes, se redujo el tamaño de la sonda que pasó de lanzarse con un Protón al más pequeño y económico Soyuz.\nLa construcción, a cargo de NPO Lavochkin, comenzó en el 2006. De la parte científica se encargaron el IKI (Instituto de Investigaciones Espaciales) y el Instituto Vernadsky de Geoquímica y Química Analítica. El Instituto Keldysh de Matemática Aplicada (conocido en inglés como KIAM) fue el responsable del cálculo de trayectorias. Por su parte el Centro Pilyugin (con la colaboración del KIAM) desarrolló el sistema de control de navegación de la sonda.\nLa inclusión de la sonda china Yinghuo-1 excedía las capacidades de carga del Soyuz, por lo que se decidió cambiar el cohete lanzador por el Zenit, lo que permitiría también el lanzamiento en el 2011 a pesar de que las condiciones eran menos favorables.\nInicialmente se estudió la posibilidad de incorporar propulsión iónica a la sonda, concretamente unos impulsores SPT-140 construidos por la OKB Fakel. Sin embargo, en la documentación presentada por NPO Lavochkin en el MAKS de 2007 no se mencionaban, lo que hace pensar que esta opción fue descartada en favor de motores químicos, probablemente debido a las dificultades que plantea para el sistema de navegación."
+    },
+    {
+      "titulo": "Dificultades",
+      "nivel": 3,
+      "texto": "A fecha de mayo de 2008 se habían construido varios elementos de la sonda pero faltaban bastantes por terminar. De hecho muchos observadores independientes indicaron que la construcción de la Fobos-Grunt estaba encontrando retrasos, afirmando que el lanzamiento deberá retrasarse al 2011. En concreto, según dichas fuentes, hasta esa fecha habían aparecido los siguientes problemas:\nLa carencia de personal especializado tras años de inactividad.\nLa integración de la sonda china Yinghuo-1.\nLa restauración de las estaciones de seguimiento terrestres (abandonadas desde el lanzamiento de la Mars 96).\nLa construcción del instrumental científico.\nEl hardware de la sonda no cumplía los requisitos técnicos ni tenía suficiente fiabilidad. Se citan especialmente:\nVálvulas de combustible\nControl térmico\nSistema eléctrico\nSistema de control de vuelo\nSistema de control del instrumental científico\nAlgunos críticos afirmaron que semejante cantidad obedecía también al hecho de que los rusos no confiaban en que el retorno de las muestras tuviera éxito, por lo que al menos intentarían recoger la mayor cantidad posible de datos de Fobos y de Marte. Algunos analistas consideraban que la elección del Zenit como lanzador era poco fiable ya que este cohete nunca ha lanzado un objeto más allá de órbita terrestre; por este motivo consideraban posible que finalmente se utilizara el Protón.\nA pesar de todo esto el director general de NPO Lavochkin insistió en que la construcción avanzaba según lo previsto y que, a diferencia de la Mars 96, se contaba con presupuesto suficiente, por lo que el lanzamiento no sufriría retrasos."
+    },
+    {
+      "titulo": "Propulsión",
+      "nivel": 2,
+      "texto": "El desarrollo de la propulsión corrió a cargo de NIIMASH."
+    },
+    {
+      "titulo": "Etapa de crucero y aterrizador",
+      "nivel": 3,
+      "texto": "Utilizaba 4 motores de tipo 11D458F, que emplea propergoles hipergólicos (óxido de nitrógeno+dimetalhidracina asimétrica). El motor pesa 3 kg, su empuje máximo es de 392'4 N y la velocidad de eyección de los gases 2960 m/s.\nPara orientarse cuenta con 4 propulsores de tipo 11D457F, que también emplean los mismos propergoles (NTO/UDMH). El empuje de cada motor es de 53'9 N, la masa de 1'2 kg y la velocidad de eyección de los gases 2842 m/s y pueden encenderse en intervalos comprendidos entre 0,03 y 200 s. Además de la orientación este sistema es el responsable de realizar las maniobras de descenso sobre Fobos."
+    },
+    {
+      "titulo": "Etapa de retorno",
+      "nivel": 3,
+      "texto": "El motor principal tiene 130,5 N de empuje y utiliza también óxido de nitrógeno+dimetalhidracina asimétrica. El sistema se completa con cuatro tanques para los elementos hipergólicos.\nPara presurizar los tanques de combustible y asegurar la orientación de la sonda cuenta con 16 propulsores de 0,8 N de empuje cada uno, que utilizan nitrógeno como impulsor. Este nitrógeno se almacena en dos depósitos."
+    },
+    {
+      "titulo": "Instrumental científico",
+      "nivel": 2,
+      "texto": "La misión tiene alrededor de 20 instrumentos científicos que pesan un total de 50 kg. Todos ellos deberían ser entregados al constructor (NPO Lavochkin) entre finales del 2008 y principios del 2009. La lista del instrumental es:\nInstrumentos ópticos: la sonda lleva dos pares de cámaras, a cada lado del aterrizador, capaces de tomar imágenes estereográficas.\nCámaras de gran angular (ShTK): se usarán para estudiar la superficie de Fobos, determinar la altura, seleccionar el lugar de descenso y tomar imágenes durante el mismo. A una altura de 1 km podrán obtener imágenes con una resolución de 0,4 m, momento en el que la sonda, de forma automática, escogerá el lugar de aterrizaje (se optará por la zona que presente menores contrastes, señal de que se trata de una zona poco accidentada). El proceso se repetirá hasta unos 15 m de altura, momento en el que se procederá a la maniobra final de aterrizaje. Una vez la sonda haya aterrizado se podrán obtener imágenes del entorno con una resolución de 1 mm\nCámaras de pequeño angular (UTK): se usarán para fotografiar Fobos con alta resolución (a 30 km la resolución será de 0,5 m/píxel).\nEspectrómetro Fourier: análisis de los componentes menores de la atmósfera marciana.\nEstructura y composición de Fobos:\nPaquete de análisis de gases: desarrollado conjuntamente entre el CNES francés y el IKI ruso. Su principal objetivo es el análisis molecular de la superficie de Fobos. Cuenta con varios instrumentos.\nAnalizador termodiferencial\nCromatógrafo de gases: analizará los gases a partir de su conductividad térmica. Se trata de una adaptación del instrumento que ha desarrollado el CNES para la Mars Science Laboratory de la NASA.\nEspectrómetro láser de diodo sintonizable: intentará detectar la presencia de moléculas de agua, dióxido de carbono y metano.\nEspectrómetro de masas: combinado con el cromatógrafo de gases, permitirá determinar las moléculas detectadas.\nEspectrómetro Mossbauer: búsqueda de hierro en la superficie de Fobos. Versión mejorada del MIMOS II que llevan los todoterrenos Spirit y Opportunity.\nEspectómetro de neutrones (NS HEND): basado en el HEND, llevado por la Mars Odyssey.\nEspectómetro de rayos gamma: completa el NS HEND.\nEspectrómetro infrarrojo: dedicado al estudio mineralógico.\nEspectrómetro láser: dedicado al estudio mineralógico.\nEspectómetro de masas de iones secundarios: dedicado al estudio mineralógico.\nRadar de onda larga: estudio de la estructura interior de Fobos y características eléctricas del mismo.\nSismómetro: estudio del interior de Fobos y gravimetría.\nSonda térmica: determinación de las características térmicas del regolito.\nBrazo robótico: brazo para la recogida de muestras. Lleva, además, una microcámara y otros instrumentos.\nSistema de recogida de muestras:\nPlasma y campo magnético\nEspectómetro de electrones:\nEspectómetro de iones:\nMagnetómetro:\nMecánica celeste\nSensor solar: la sonda lleva dos, ubicados en la etapa de regreso, junto a la cápsula con las muestras. Se usarán para mantener los paneles solares orientados hacia nuestra estrella. Es posible que, finalmente, también se equipe a la etapa de crucero con estos sensores.\nSensor estelar (BOKZ-MF): la sonda lleva dos, situados en la etapa de crucero. Se usarán, además de para la navegación de la sonda, para el estudio de la libración de Phobos.\nOscilador ultraestable: experimento de mecánica celeste.\nPolvo\nContador de polvo: estudio del polvo en torno a Marte y en las proximidades y órbita de Fobos.\nDetector de micrometeoritos: monitoreo de micrometeoritos.\nBiología\nLIFE (Living Interplanetary Flight Experiment): experimento de la Sociedad Planetaria que consiste en enviar junto a la sonda pequeñas muestras de microorganismos. Estarán representadas las arqueas, las bacterias y células eucariotass. Al regreso de la Fobos-Grunt se comprobará cómo les ha afectado el viaje interplanetario. Uno de los objetivos del experimentos es determinar si es posible que la vida, usando meteoritos como vehículo, viaje de un planeta a otro."
+    },
+    {
+      "titulo": "Desarrollo de la misión",
+      "nivel": 2,
+      "texto": "La sonda usará una etapa Fregat para escapar de la gravedad terrestre y dirigirse hacia Marte. Sin embargo la extraña configuración de la misión (la Yinghuo-1 irá instalada debajo de la Fobos-Grunt, por lo que esta no podrá usar sus motores principales en el viaje) hace que la Fregat acompañe al conjunto hasta su llegada a Marte. Una vez allí, tras un último encendido de la Fregat para colocar al conjunto Fobos-Grunt+Yinghuo-1 en órbita marciana, se desechará la etapa. Tras esto, se separará la Yinghuo-1 de la Fobos-Grunt.\nUna vez en solitario, la Fobos-Grunt estará sólo compuesta por la etapa de crucero/aterrizaje (1480 kg) y la de regreso (210 kg). Tras la captura inicial, se irá reduciendo la órbita para aproximarse paulatinamente a la de Fobos. Finalmente, la sonda se aproximará al satélite, procediendo al aterrizaje.\nDada la baja gravedad de Fobos se corre el riesgo de que la sonda rebote al posarse. Para evitarlo unos motores «empujarán» la sonda hacia abajo una vez toque suelo (un procedimiento similar al que se pretendió usar en las misiones lunares tripuladas LK).\nInicialmente se pensó en instalar un taladro que penetrara en el subsuelo para recoger muestras. Sin embargo, dada la baja gravedad de Fobos, esta opción se ha desestimado que ya si hace demasiada fuerza hacia abajo se corre el peligro de que vuelque la sonda. Así pues finalmente se optó por instalar en su lugar una pala. El hecho de recoger sólo muestras de la superficie (la pala no penetrará más de unos 25 mm) no parece ser un problema ya que en los penetradores del Programa Luna no se observó gran diferencia entre el terreno de superficie y el subsuelo. Sin embargo sí que se considera crítico obtener muestras de piedras, ya que el polvo será material reprocesado una y otra vez y probablemente refleje más la composición de los meteoritos que han ido cayendo en Fobos que no del propio satélite. La pala puede recoger muestras de hasta 1,25 cm de diámetro. Se espera que se efectúen unas 15-20 recolecciones, con un total de 150 g de suelo. Tras cada extracción una tubería llevará las muestras a un contenedor especial situado en la cápsula de regreso. La recolección durará entre dos días y una semana.\nLa etapa de retorno despegará de la luna, quedando inicialmente en órbita de Marte. Tras diversas maniobras, abandonará el planeta para dirigirse a la Tierra. Mientras tanto el grueso de la sonda permanecerá en Fobos, monitorizando Marte y sirviendo de enlace de comunicaciones con otras misiones.\nPoco antes de reentrar en la atmósfera terrestre, la cápsula con las muestras (10 kg) se separará de la etapa que la ha llevado hasta allí. La cápsula tiene una forma parecida a la de las naves Soyuz y no aterrizará mediante paracaídas o retrocohetes sino por impacto directo. Para facilitar su localización está dotada de una radiobaliza."
+    },
+    {
+      "titulo": "Participación china",
+      "nivel": 2,
+      "texto": "En la misión colabora China, que tiene previsto enviar junto con la Fobos-Grunt la pequeña sonda (unos 110 kg) Yinghuo-1, que entrará en órbita de Marte para estudiar el entorno del planeta. Además, la Universidad Politécnica de Hong Kong desarrolla equipos para la sonda que aterrizará en Fobos.\nLa sonda permanecerá adosada a la Fobos-Grunt y se separará de ella cuando la rusa haya efectuado la maniobra de frenado para entrar en órbita marciana. La Yinghuo-1 quedará en una órbita elíptica de 800 × 80 000 km y una inclinación de 5 ° tardando 3 días en completar una revolución a Marte y no lleva combustible para cambiar de órbita. Se espera que esté funcionando al menos un año terrestre."
+    },
+    {
+      "titulo": "Participación finlandesa",
+      "nivel": 2,
+      "texto": "Finlandia desarrolló unas pequeñas estaciones de aterrizaje (llamadas MetNet) para estudiar el tiempo marciano. Las fuentes rusas hablaron de una sola MetNet a bordo de la Fobos-Grunt, mientras que las finlandesas hablaron de dos. La colaboración entre las dos naciones se producía como forma de pago de la deuda que tenía contraída Rusia con Finlandia. Sin embargo, las sondas no pudieron ser incorporadas a la misión debido a la sobrecarga de peso."
+    },
+    {
+      "titulo": "Desarrollo de la misión",
+      "nivel": 3,
+      "texto": "Los lugares de aterrizaje previstos para la Fobos-Grunt no han sido anunciados, si bien se tiene preferencia por:\nEstudiar zonas científicamente interesantes como los polos, Hellas Planitia o Tharsis, entre otras.\nEstudiar zonas ya caracterizadas con anterioridad (lugares de aterrizaje de las Viking y Mars Pathfinder).\nPara la Mars MetNet, crear una red de unas 5 estaciones relativamente cercanas entre sí.\nLas sondas se protegerán del calor de la reentrada mediante un escudo inflable. Una vez la velocidad haya decaído hasta mach 0,8, cuando se abrirá un nuevo escudo inflable. La velocidad de impacto sobre la superficie marciana será de unos 45-55 m/s (160-200 km/h) y la deceleración máxima unos 500 g. Unos dos o tres semanas después del aterrizaje, una vez comprobado el estado de las sondas, comenzarán las operaciones rutinarias."
+    },
+    {
+      "titulo": "Posible relé para ExoMars",
+      "nivel": 2,
+      "texto": "Se había especulado la posibilidad de que la Fobos-Grunt sirviera como enlace de comunicaciones para la misión ExoMars de la Agencia Espacial Europea, cuyo lanzamiento estaba previsto para el 2013."
+    },
+    {
+      "titulo": "Fallo de lanzamiento",
+      "nivel": 2,
+      "texto": "Después de su lanzamiento el 8 de noviembre de 2011, un fallo aún no esclarecido impidió que la sonda Fobos-Grunt tomara rumbo a Marte y los especialistas intentaban restablecer comunicación con el aparato, que quedó en órbita terrestre. Según algunas fuentes, el fallo podría haberse debido a interferencias provocadas por radares en tierra de EE. UU.\nEstaba inicialmente prevista su reentrada en la atmósfera terrestre en algún momento entre finales de noviembre y mediados de diciembre. Según las fuentes rusas, el aparato podría caer sobre la Tierra a partir del 3 de diciembre A finales de noviembre, la ESA consiguió captar señales de la sonda en órbita terrestre, por lo que las posibilidades de recuperar la misión, si bien escasas, no son imposibles. Dado que la última fecha para que la sonda pusiera rumbo a Marte aprovechando la ventana de lanzamiento era el lunes 21 de noviembre, según Alexander Zakharov, científico vinculado al proyecto, si conseguía ser recuperada tendría que ser destinada a otra misión, como la exploración de algún asteroide o de la Luna. Finalmente, la Agencia Espacial Rusa anunció la caída de la sonda para el domingo 15 de enero a las 21.51 hora de Moscú (17.51 GMT) en el Pacífico junto a las costas chilenas.\nLa reentrada se produjo el 15 de enero de 2012 a las 17:46 GMT, a una altura de 80 km sobre las coordenadas 46°S y 87°O, cerca de la costa de Sudamérica, aproximadamente a 1,250 km al oeste de la isla de Wellington (Chile)."
+    }
+  ],
+  "num_palabras": 2678
+}

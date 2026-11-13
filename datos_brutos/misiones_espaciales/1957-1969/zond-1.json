@@ -1,0 +1,31 @@
+{
+  "titulo": "Zond 1",
+  "titulo_wikipedia_en": "Zond 1",
+  "fecha_lanzamiento": "1964-04-02",
+  "año_lanzamiento": 1964,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración de Venus",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Zond_1",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {},
+  "resumen": "Zond 1 fue el primer miembro del programa espacial soviético Zond, y el segundo ingenio soviético en acercarse a Venus tras la Venera 1, lanzado el 2 de abril de 1964 a las 02:52:00 UTC desde Tyuratam (Cosmódromo de Baikonur).",
+  "secciones": [
+    {
+      "titulo": "La sonda",
+      "nivel": 2,
+      "texto": "La nave Zond 1, con un diseño Venera 3MV-1, estaba constituida por dos componentes, una sonda nodriza y una cápsula de aterrizaje.\nLa sonda nodriza llevaba a bordo un magnetómetro, un sensor de micrometeoritos, un detector de radiación cósmica (rayos cósmicos), un espectrómetro y un sensor de iones.\nLa cápsula de aterrizaje era una esfera de 90 cm destinada a investigar la atmósfera de Venus en su hemisferio nocturno, la cual contenía experimentos para el análisis químico de la atmósfera, toma de registros de rayos gamma en la superficie, un fotómetro, medidores de temperatura, densidad y presión, un analizador de las características químicas y de conductividad del gas y sensores para el hipotético caso de que cayese sobre una superficie líquida.\nLa masa en órbita de la sonda sin carburante era de 890 kg."
+    },
+    {
+      "titulo": "La misión",
+      "nivel": 2,
+      "texto": "Poco después del lanzamiento la sonda comenzó a perder presión en el módulo orbital. Debido al ligero empuje causado por la fuga de gas, y del progresivo avance programado de la sonda, se calculó y determinó que la pérdida provenía de la zona de una de las ventanillas de los sensores de navegación. Los sistemas del módulo orbital (nodriza) habrían, en cualquier caso, podido funcionar durante la totalidad del viaje interplanetario, pero un comando inoportuno mandado desde los sistemas de control en la Tierra provocó la activación de los sistemas de radio a destiempo, lo que hizo que se dañara la parte electrónica. Las comunicaciones, a pesar de todo, continuaron, utilizando el transmisor situado en el módulo de aterrizaje.\nLa telemetría fue correctamente transmitida desde el 2 de abril hasta el 16 de mayo. Dos correcciones en la ruta fueron transmitidas desde la Tierra el 14 de mayo, cuando la sonda se encontraba a una distancia de 13 millones de km de la Tierra, pero el intento de realizar una última corrección el 30 de mayo no tuvo éxito, perdiéndose el contacto con la sonda.\nCálculos posteriores realizados por los expertos soviéticos la situaron pasando a 100 000 km de Venus el 14 de julio del mismo año y entrando posteriormente en órbita heliocéntrica."
+    }
+  ],
+  "num_palabras": 388
+}

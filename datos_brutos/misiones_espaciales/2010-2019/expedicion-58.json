@@ -1,0 +1,40 @@
+{
+  "titulo": "Expedición 58",
+  "titulo_wikipedia_en": "Expedition 58",
+  "fecha_lanzamiento": "2018-12-20",
+  "año_lanzamiento": 2018,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Expedición_58",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Finalizada",
+    "Fecha de inicio": "20 de diciembre de 2018, 01:40 UTC",
+    "Fecha de fin": "15 de marzo de 2019, 01:01 UTC",
+    "Nave de llegada": "Soyuz MS-12",
+    "Misión anterior": "Expedición 57",
+    "Misión siguiente": "Expedición 59",
+    "Programa": "Programa de la ISS",
+    "Estación espacial": "Estación Espacial Internacional",
+    "Tipo de misión": "Expedición a la ISS"
+  },
+  "resumen": "La Expedición 58 fue la 58.ª expedición a la ISS, que comenzó el 20 de diciembre de 2018 con la partida de la tripulación de la Expedición 57 bordo de la Soyuz MS-09. Es comandada por el cosmonauta Oleg Kononenko, con los astronautas Anne McClain y David Saint-Jacques como ingenieros de vuelo; el trío se lanzó a bordo de la Soyuz MS-11 el 3 de diciembre de 2018, marcando el lanzamiento orbital número 100 del año, que fue adelantado después del fallo en el lanzamiento de la Soyuz MS-10 en octubre de 2018 con Ovchinin y Hague a bordo que deberían haber formado parte de la expedición anterior. Kononenko, McClain y Saint-Jacques se transfirieron posteriormente a la Expedición 59 en febrero de 2019, cuando Aleksey Ovchinin, Nick Hague y Christina Koch lleguen a bordo del Soyuz MS-12 el 14 de marzo de 2019.",
+  "secciones": [
+    {
+      "titulo": "Historia",
+      "nivel": 2,
+      "texto": "Durante la planificación temprana, la expedición estaba programada para incluir al cosmonauta novato Nikolai Tikhonov como tercer tripulante de la Soyuz MS-10. Sin embargo, la asignación de Tikhonov se pospuso (por segunda vez, ya que también estuvo asignado a la Soyuz MS-04) debido a retrasos en el lanzamiento del módulo multipropósito ruso Nauka.\nTikhonov fue reasignado al vuelo Soyuz MS-16 programado para abril de 2020, pero posteriormente por una lesión fortuita en un ojo, se le cambio como comandante de la tripulación de la Soyuz MS-17, también debido al retraso del lanzamiento del módulo Nauka a finales del año 2020 o principios del 2021.\nA partir de octubre de 2018, los planes exigían que la expedición contara con una tripulación de cinco personas: el cosmonauta Aleksey Ovchinin y el astronauta Nick Hague se habrían unido a la tripulación de la Expedición 57 en octubre de 2018, y posteriormente serían transferidos a la Expedición 58; habrían sido acompañados por Kononenko, McClain y Saint-Jacques en diciembre de 2018. Ovchinin y Hague habrían regresado a la Tierra en abril de 2019. Posteriormente, la misión de la Expedición 59 habría comenzado con Kononenko como comandante. Sin embargo, la nave espacial Soyuz MS-10 que transportaba Ocvhinin y Hague se abortó durante su lanzamiento el 11 de octubre de 2018; los dos tripulantes regresaron sanos y salvos a la Tierra.\nTras el aborto de Soyuz MS-10, el administrador de la NASA Jim Bridenstine anunció el 23 de octubre de 2018 que se esperaba que los vuelos de Soyuz a la ISS se reanudaran en diciembre de 2018. Al principio, se asumió que la Expedición 58 inicialmente consistiría de tres miembros de la tripulación a los que luego se uniría la tripulación de Soyuz MS-12, lo que elevaría a la tripulación a seis. Sin embargo, en la conferencia de prensa posterior al lanzamiento para Soyuz MS-11, la NASA anunció que el equipo de Soyuz MS-12 se convertiría en el equipo de la estación de la Expedición 59/60. La expedición 58 fue por lo tanto compuesta de solo de tres personas."
+    },
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Saint-Jacques es el primer residente canadiense en la estación espacial desde que Chris Hadfield se desempeñó como comandante de la Expedición 35, que terminó el 13 de mayo de 2013, casi seis años antes."
+    }
+  ],
+  "num_palabras": 520
+}

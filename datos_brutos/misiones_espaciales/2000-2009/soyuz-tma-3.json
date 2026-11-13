@@ -1,0 +1,64 @@
+{
+  "titulo": "Soyuz TMA-3",
+  "titulo_wikipedia_en": "Soyuz TMA-3",
+  "fecha_lanzamiento": "2003-10-18",
+  "año_lanzamiento": 2003,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Soyuz_TMA-3",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Indicativo": "Ingul",
+    "Fecha de lanzamiento": "18 de octubre de 2003 05:38:03 UTC",
+    "Nave": "Soyuz TMA",
+    "Fecha de aterrizaje": "30 de abril de 2004 00:11:15 UTC\n50.38° N, 67.20° E",
+    "Duración de la misión": "194 días, 18 horas, 33 minutos, 12 segundos",
+    "Periodo orbital": "88,6 min",
+    "Inclinación orbital": "51,67°",
+    "Órbitas completadas": "~3.170",
+    "Apoapsis": "227 km",
+    "Periapsis": "193 km",
+    "Programa": "Programa Soyuz",
+    "Misión anterior": "Soyuz TMA-2",
+    "Misión siguiente": "Soyuz TMA-4"
+  },
+  "resumen": "La Soyuz TMA-3 (en ruso Союз ТМА-3, Unión TMA-3) fue una misión Soyuz a la Estación Espacial Internacional (EEI) lanzada por una lanzadera espacial Soyuz FG el 18 de octubre de 2003 desde la Plataforma Gagarin. El tercer vuelo de la modificación TMA de la nave Soyuz, y el séptimo vuelo de una Soyuz a la EEI.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Despegaron y aterrizaron tripulación de la EEI Expedición 8",
+      "nivel": 3,
+      "texto": "Aleksandr Kaleri (4) -\nMichael Foale (6) -"
+    },
+    {
+      "titulo": "Despegaron",
+      "nivel": 3,
+      "texto": "Pedro Duque (2) - ESA"
+    },
+    {
+      "titulo": "Aterrizaron",
+      "nivel": 3,
+      "texto": "André Kuipers (1) - ESA\n(1) número de vuelos espaciales completados por cada tripulante, incluyendo esta misión."
+    },
+    {
+      "titulo": "Acoplamiento con la EEI",
+      "nivel": 3,
+      "texto": "Acoplado a la ISS: 20 de octubre de 2003, 07:16 UTC (al módulo Pirs)\nDesacoplado de la ISS: 29 de abril de 2004, 20:52 UTC (desde el módulo Pirs)"
+    },
+    {
+      "titulo": "Misión",
+      "nivel": 2,
+      "texto": "El comandante de la Soyuz fue Aleksandr Kaleri (Rusia). El ingeniero de vuelo fue Michael Foale (EUA), y Pedro Duque de España sirvió como segundo ingeniero de vuelo. Después del acoplamiento con la EEI relevaron a la tripulación de la EEI y se convirtieron en la octava tripulación de la estación.\nDurante la estancia en la estación Michael Foale fue el comandante de la EEI, mientras que Alexander Kaleri fue el ingeniero. Foale fue el primer americano en haber servido tanto en la Mir como en la EEI. Pedro Duque llevó a cabo algunos experimentos científicos de la ESA bajo el nombre de misión Cervantes, y luego regresaron con la tripulación 7 de la EEI en la Soyuz TMA-2.\nLa tripulación de reserva fue William McArthur, Valery Tokarev y André Kuipers.\nFoale y Kaleri junto con André Kuipers, el tercer pasajero de la TMA-4 aterrizaron el 29 de abril de 2004, cerca de Arkalyk, Kazajistán. Hubo una pequeña perdida de helio que no afectó a la misión."
+    }
+  ],
+  "num_palabras": 283
+}

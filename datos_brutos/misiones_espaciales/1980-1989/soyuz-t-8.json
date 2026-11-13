@@ -1,0 +1,39 @@
+{
+  "titulo": "Soyuz T-8",
+  "titulo_wikipedia_en": "Soyuz T-8",
+  "fecha_lanzamiento": "1983-04-20",
+  "año_lanzamiento": 1983,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Soyuz_T-8",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Masa en el lanzamiento": "6850 kg",
+    "Fecha de lanzamiento": "20 de abril de 1983",
+    "Nave": "Soyuz T",
+    "Fecha de aterrizaje": "22 de abril de 1983",
+    "Duración de la misión": "2,01 días",
+    "Programa": "Programa Soyuz",
+    "Misión anterior": "Soyuz T-7",
+    "Misión siguiente": "Soyuz T-9"
+  },
+  "resumen": "Soyuz T-8 fue una misión espacial soviética tripulada realizada en una nave Soyuz T. Fue lanzada el 20 de abril de 1983 desde el cosmódromo de Baikonur mediante un cohete Soyuz hacia la estación Salyut 7 con tres cosmonautas a bordo.\nLa misión fracasó debido al fallo en el sistema de atraque automático de la Soyuz T. Fue el primer fallo de acoplamiento a una estación desde la misión Soyuz 33 en 1979. La causa del fallo estuvo en el despliegue incompleto de la antena de radar de la Soyuz T y el fracaso de todos los intentos de despliegue. La tripulación intentó realizar el acoplamiento a la estación a simple vista y utilizando datos proporcionados desde los radares de tierra, pero durante la aproximación final (realizada en la oscuridad) el comandante Titov estimó que la velocidad de aproximación era demasiado elevada y realizó una maniobra de evasión para impedir un impacto entre las dos naves. No se hicieron intentos posteriores debido a la necesidad de conservar el propelente necesario para la deorbitación y a que la maniobra de evasión consumió mucho combustible. La investigación posterior determinó que la antena se rompió durante la eyección de la cofia que protegió a la Soyuz T durante el lanzamiento.\nLa cápsula de retorno aterrizó sin novedad el 22 de abril de 1983, a las 13:29 GMT, a 113 km al sureste de la ciudad de Arkalyk.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Vladimir Titov (Comandante)\nGennady Strekalov (Ingeniero de vuelo)\nAleksandr Serebrov (Especialista científico)"
+    },
+    {
+      "titulo": "Tripulación de respaldo",
+      "nivel": 3,
+      "texto": "Vladimir Lyakhov (Comandante)\nAleksandr Aleksandrov (Ingeniero de vuelo)\nViktor Savinykh (Especialista científico)"
+    }
+  ],
+  "num_palabras": 258
+}

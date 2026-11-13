@@ -1,0 +1,43 @@
+{
+  "titulo": "Mars 2M No.521",
+  "titulo_wikipedia_en": "Mars 2M No.521",
+  "fecha_lanzamiento": "1969-03-27",
+  "año_lanzamiento": 1969,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración de Marte",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Mars_2M_No.521",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "orbitador de Marte",
+    "Duración de la misión": "Falló a la órbita",
+    "Tipo de nave": "2M",
+    "Fabricante": "NPO Lavochkin",
+    "Masa en el lanzamiento": "4850 kg",
+    "Fecha de lanzamiento": "27 de marzo de 1969, 10:40:45 UTC",
+    "Vehículo de lanzamiento": "Proton-K/D s/n 240-01",
+    "Lugar de lanzamiento": "Baikonur 81/23",
+    "Programa": "Programa Marte",
+    "Misión anterior": "Sputnik 24",
+    "Misión siguiente": "Mars 1969B"
+  },
+  "resumen": "Mars 2M No.521, también conocido como Mars M-69 No.521 y a veces identificado por la NASA como Marte 1969A, fue una nave espacial soviética que se perdió en un fallo de lanzamiento en 1969. Consistió en un orbitador. La nave espacial tenía la intención de imaginar la superficie de Marte utilizando tres cámaras, con imágenes codificadas para su transmisión de vuelta a la Tierra como señales de televisión. También llevaba un radiómetro, una serie de espectrómetros y un instrumento para detectar vapor de agua en la atmósfera de Marte. Fue una de dos naves espaciales Mars 2M, junto con Mars 2M No.522, que fue lanzada en 1969 como parte del programa de Marte. Ninguno de los dos lanzamientos tuvo éxito.\nLas sondas Mars 2M estaban pensadas originalmente para consistir tanto en un orbitador como en un aterrizador. Las limitaciones de tiempo no permitieron el desarrollo de un aterrizaje suave, por lo que los ingenieros decidieron simplemente usar un aterrizaje duro que chocaría contra la superficie marciana pero recoger datos durante su descenso. Al principio, un autobús modificado Luna E-8 iba a ser utilizado para la nave espacial, sin embargo, tenía una serie de limitaciones que lo hicieron inadecuado para el largo viaje a Marte. A mitad del proyecto, el jefe de diseño de Lavochkin Bureau, Georgi Babakin, decidió simplemente desechar la sonda derivada de Luna E-8 y diseñar una completamente nueva desde cero.\nSin embargo, las sondas 2M terminaron significativamente más pesadas de lo previsto y los ingenieros también se quedaron sin tiempo para realizar pruebas de caída del módulo de aterrizaje, por lo que la parte fue abandonada que dejó sólo el orbitador. Si tuviera éxito, esto seguiría siendo un gran éxito propagandístico para los soviéticos ya que la NASA estaba a casi tres años de intentar un orbitador de Marte.\nA medida que se acercaba el fin de 1968, el proyecto iba a la zaga y los EE.UU. también estaban logrando avances significativos en la carrera espacial con Mariner 6 y 7 programada para lanzar a Marte a principios del próximo año y Apollo 8 llevando a los astronautas a la órbita lunar. El Kremlin quería que las sondas de Marte se prepararan lo antes posible y la segunda de las dos se completó a mediados de enero. A pesar de las dudas de que las sondas estuvieran listas para volar, fueron entregadas a Baikonour.",
+  "secciones": [
+    {
+      "titulo": "Lanzamiento",
+      "nivel": 2,
+      "texto": "Mars 2M No.521 fue lanzado a las 10:40:45 UTC el 27 de marzo de 1969, en la cima de un cohete portador Proton-K 8K78K con una etapa superior Blok D, volando desde el sitio del cosmódromo de Baikonur 81/23. La primera y la segunda etapa de quemadura fue normal, seguido de carga útil shroud jettison. Sin embargo, la ignición de la tercera etapa no se produjo a tiempo y los informes filtrados de vuelta al centro de lanzamiento que el impulsor había explotado. La investigación encontró que un rotor desequilibrado en la tercera etapa de oxidante turbobomba había iniciado un incendio, que llevó a la pérdida de empuje y la ruptura del vehículo. Los restos de la tercera etapa y la sonda impactaron en las montañas Altai. Aún más difícil para los ingenieros soviéticos fue la noticia de que Mariner 7 había sido lanzado con éxito desde Cabo Cañaveral unos días antes, y su próximo lanzamiento en Marte también fracasó unos días después."
+    },
+    {
+      "titulo": "Instrumentos científicos",
+      "nivel": 2,
+      "texto": "Los instrumentos científicos fueron:\nRadiometro\nInstrumento para medir los niveles de vapor de agua\nEspectrómetro ultravioleta\nEspectrómetro gamma\nEspectrómetro de masas de hidrógeno\nEspectrómetro de masas de helio\nEspectrómetro\nEspectrómetro de iones de baja energía\nSistema de imágenes (con tres cámaras a bordo)"
+    }
+  ],
+  "num_palabras": 603
+}

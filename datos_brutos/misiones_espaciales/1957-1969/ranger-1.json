@@ -1,0 +1,65 @@
+{
+  "titulo": "Ranger 1",
+  "titulo_wikipedia_en": "Ranger 1",
+  "fecha_lanzamiento": "1961-08-23",
+  "año_lanzamiento": 1961,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Ranger_1",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Tecnología",
+    "Operador": "NASA",
+    "Designación Harvard": "1961 Phi 1",
+    "Nº SATCAT": "173",
+    "Duración de la misión": "7 días",
+    "Fabricante": "Laboratorio de Propulsión Jet",
+    "Masa en el lanzamiento": "306,2 kg",
+    "Potencia": "150.0 W",
+    "Fecha de lanzamiento": "23 de agosto de 1961, 10:04:10 UTC",
+    "Vehículo de lanzamiento": "Atlas LV-3 Agena-B",
+    "Lugar de lanzamiento": "Cabo Cañaveral LC-12",
+    "Régimen orbital": "Tierra baja\n(Alta Tierra planeada)",
+    "Sistema de referencia orbital": "Geocéntrico",
+    "Periapsis": "179 km",
+    "Apoapsis": "446 km",
+    "Inclinación orbital": "32,9 grados",
+    "Periodo orbital": "91,1 minutos",
+    "Semieje mayor": "6690,3 km",
+    "Excentricidad": "0.019939",
+    "Órbita número revolución": "110",
+    "Instrumentos": "Telescopio Lyman-Alpha Magnetómetro Analizador Electrostático 2 Partículas cargadas Rayo cósmico Polvo Cósmico Contadores de centelleo de rayos X",
+    "Programa": "Ranger",
+    "Misión anterior": "Ninguno",
+    "Misión siguiente": "Ranger 2"
+  },
+  "resumen": "Ranger 1 fue un prototipo de nave espacial lanzado como parte del programa Ranger de misiones espaciales no descremadas. Su misión principal era probar el desempeño de esas funciones y piezas necesarias para llevar a cabo misiones lunares y planetarias posteriores; un objetivo secundario era estudiar la naturaleza de las partículas y los campos en el entorno espacial. Debido a un mal funcionamiento del vehículo de lanzamiento, la nave espacial sólo podía alcanzar la órbita terrestre baja, en lugar de la órbita terrestre alta que se había planeado, y sólo podía completar parte de su misión.",
+  "secciones": [
+    {
+      "titulo": "Diseño de naves espaciales",
+      "nivel": 2,
+      "texto": "La nave espacial era del diseño Ranger Block I y consistía en una base hexagonal de 1,5 metros (4 pies 11 pulgadas) de ancho sobre la que se montaba una torre de 4 metros (13 pies) de altura con forma de cono de puntales y frenos de aluminio. Dos alas de paneles solares de 5,2 metros (17 pies) de punta a punta extendidas desde la base. Una antena de antena direccional de alta ganancia fue conectada a la parte inferior de la base. Se montaron experimentos con naves espaciales y otros equipos en la base y la torre. Los instrumentos a bordo de la nave espacial incluían un telescopio Lyman-alpha, un magnetómetro rubidium-vapor, analizadores electrostáticos, detectores de partículas de rango de energía medio, dos telescopios de triple coincidencia, una cámara de ionización integrada por rayos cósmicos, detectores de polvo cósmicos y contadores de centelleo de rayos X solares. No había cámara ni motor de corrección a mitad de camino en la nave espacial Bloque I.\nEl sistema de comunicaciones incluía la antena de alta ganancia y una antena de media ganancia omnidireccional y dos transmisores, uno a 960.1 MHz con salida de potencia de 0,25 vatios y el otro a 960.05 MHz con salida de potencia de 3 vatios. La energía debía ser proporcionada por 8680 células solares en los dos paneles, una batería de plata-cinc de 57 kilogramos (126 libras) y baterías más pequeñas en algunos de los experimentos. El control de la actitud fue proporcionado por un controlador de tiempo de estado sólido, sensores del Sol y la Tierra, y chorros de lanzamiento y rollo. La temperatura fue controlada pasivamente por superficies de oro, pintura blanca y aluminio pulido."
+    },
+    {
+      "titulo": "Misión",
+      "nivel": 2,
+      "texto": "La nave espacial Ranger 1 fue diseñada para entrar en una órbita de estacionamiento terrestre y luego moverse a una órbita terrestre de 60.000 por 1.100.000 kilómetros (37.000 por 684.000 millas). El propósito de la misión fue principalmente como una prueba de ingeniería para verificar la funcionalidad del hardware Ranger."
+    },
+    {
+      "titulo": "Retrasos en el lanzamiento",
+      "nivel": 3,
+      "texto": "Retraso de la primera cuenta regresiva\nJulio 26: La información de trayectoria requerida por el Oficial de Seguridad de Range fue retrasada.\nJulio 27: Un mal funcionamiento del sistema de guía en el booster Atlas.\n28 de julio: Los ingenieros encontraron que el programa de orientación para ser introducido en la computadora Cape contenía un error.\nPrimera cuenta regresiva. 29 de julio.\n83 minutos antes del lanzamiento: Se produjeron interrupciones de energía, lo que requiere que todas las estaciones se mantengan momentáneas para poder comprobar y recuperarse.\n28 minutos antes del lanzamiento: La energía eléctrica comercial falló. No se habían tenido suficientemente en cuenta los cambios en la separación de cables causados por las variaciones de temperatura en los nuevos postes eléctricos recientemente instalados en la estación de la Fuerza Aérea del Cabo Cañaveral.\nSegunda cuenta regresiva. 30 de julio. Los ingenieros descubrieron una fuga en el sistema de control de actitud de Ranger.\nTercera cuenta regresiva. 31 de julio. Un sello de regulador de presión de tanque LOX desarrolló una fuga debido a los daños resultantes de un manejo inadecuado.\nCuarta cuenta regresiva. 1 de agosto. Controladores terrestres activaron un comando de naves espaciales aplicando alta tensión a los experimentos científicos con fines de calibración. Inmediatamente todas las estaciones informaron de un fallo importante de la nave espacial. Un mal funcionamiento eléctrico había disparado múltiples comandos desde el temporizador central del reloj, y Ranger 1 \"encendió\" como había sido programado para hacer en órbita. Los pichones explosivos dispararon, los paneles solares se extendieron dentro del sudario, y todos los experimentos comenzaron a funcionar. Los ingenieros del proyecto desconectaron al Ranger 1 del Agena y lo devolvieron apresuradamente al Hangar AE. Mientras tanto, el lanzamiento fue reprogramado para el 22 de agosto, la próxima oportunidad disponible. Pruebas e investigaciones posteriores determinaron que el mecanismo de activación había sido una descarga de tensión en el marco de la nave espacial; aunque los ingenieros sospechaban que uno o dos de los instrumentos científicos, no podían determinar con certeza la fuente precisa de la descarga. En los días siguientes, reemplazaron y recalificaron las partes dañadas y modificaron los circuitos para evitar una recurrencia de este tipo de fallas."
+    },
+    {
+      "titulo": "Lanzamiento",
+      "nivel": 3,
+      "texto": "Durante el primer semestre de 1961, Lockheed introdujo la nueva etapa de Agena B que reemplazó al modelo de prueba Agena A de 1959-60. Agena B era más potente y tenía capacidad de reinicio en órbita. Su primer vuelo con el lanzamiento de Midas 3 el 24 de julio fue exitoso. Se produjeron varios retrasos frustrantes en el lanzamiento del Ranger 1, incluido un episodio en el que el temporizador de la nave se activó inadvertidamente en la plataforma, causando que los paneles solares se desplegaran dentro del sudario de carga útil. Después de retirar el Ranger 1 y repararlo, el lanzamiento se llevó a cabo a las 6:04 AM EST el 23 de agosto. Todo fue bien hasta la inyección orbital, pero el reinicio planeado de Agena salió mal cuando el motor se apagó después de sólo unos segundos, poniendo la sonda en una pista de 312x105 millas. La investigación posterior concluyó que un circuito eléctrico en el Agena se había sobrecalentado por la exposición al Sol. La órbita no deseada dificultaba el funcionamiento correcto de los sistemas de Ranger 1, aunque los controladores de tierra intentaron trabajar a su alrededor. El principal problema que enfrentaron fue con los paneles solares; el Ranger 1 experimentaría 90 minutos de oscuridad mientras pasaba por el lado nocturno de la Tierra. Además, las antenas de las diversas estaciones de rastreo de la NASA tuvieron dificultades para bloquearse en la sonda debido a su plano orbital. Durante este tiempo, el sistema informático disparó repetidamente los chorros de control de actitud en un vano intento de bloquearse en el Sol con el efecto de que sólo un día después del lanzamiento, la sonda se quedó sin gas de control de actitud. En este punto, no se pudo estabilizar y los paneles solares perdieron su bloqueo en el Sol. El Ranger 1 volvió a la batería y continuó transmitiendo hasta que las baterías se agotaron el 27 de agosto y todas las señales de la sonda cesaron. No fue una pérdida total; los sistemas de naves espaciales habían funcionado bien y algunos datos sobre los rayos cósmicos y la radiación fueron devueltos, sin embargo la órbita baja impidió el uso del magnetómetro. Después de cuatro días y 111 órbitas, el Ranger 1 volvió a entrar y se quemó sobre el Golfo de México."
+    }
+  ],
+  "num_palabras": 1180
+}

@@ -1,0 +1,53 @@
+{
+  "titulo": "SpaceX Crew-3",
+  "titulo_wikipedia_en": "SpaceX Crew-3",
+  "fecha_lanzamiento": "2021-11-11",
+  "año_lanzamiento": 2021,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/SpaceX_Crew-3",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Rotación de tripulación de la ISS",
+    "Operador": "SpaceX",
+    "Nave": "Crew Dragon C210 Endurance",
+    "Fabricante": "SpaceX",
+    "Masa en el lanzamiento": "6000 kg",
+    "Masa en el aterrizaje": "3000 kg",
+    "Tripulación": "Raja Chari\nThomas Marshburn\nKayla Barron\nMatthias Maurer",
+    "Fecha de lanzamiento": "02:03 UTC",
+    "Vehículo de lanzamiento": "Falcon 9 Block 5",
+    "Lugar de lanzamiento": "Kennedy, LC-39A",
+    "Contratista del lanzamiento": "SpaceX",
+    "Lugar de aterrizaje": "Océano Atlántico",
+    "Sistema de referencia orbital": "Geocéntrica",
+    "Régimen orbital": "Órbita baja terrestre",
+    "Inclinación orbital": "51.66°",
+    "Programa": "Programa de Tripulación Comercial",
+    "Misión anterior": "SpaceX Crew-2",
+    "Misión siguiente": "SpaceX Crew-4",
+    "Programa (2)": "Crew Dragon",
+    "Misión anterior (2)": "Inspiration4",
+    "Misión siguiente (2)": "Ax-1",
+    "Acoplamiento": "tipo acople: acople | objetivo acople: ISS | puerto acople: Harmony PMA/IDA frontal o zénit | fecha acople: 11 de noviembre 23:32 UTC | fecha desacople: 5 de mayo 05:20 UTC"
+  },
+  "resumen": "SpaceX Crew-3 fue la tercera misión operacional tripulada de una nave Crew Dragon, que llevó tripulación a la ISS dentro del programa COTS de la NASA y el quinto vuelo tripulado en general de la Crew Dragon.\nLa misión estaba planeada para ser lanzada el 31 de octubre, pero debido a inclemencias del tiempo en las zonas de caída en caso de emergencia durante el lanzamiento y razones médicas con uno de los astronautas se retrasó hasta el 11 de noviembre. Anteriormente en una rueda de prensa de la NASA el, Benji Reed, director sénior de los programas tripulados de SpaceX, dijo que la fecha final de lanzamiento de la Crew-3 sería determinada por la rehabilitación de la nave Resilience tras el regreso de la SpaceX Crew Dragon-1, pero posteriormente se asigno la nave Resilience a la misión Inspiration4 y a esta misión se asigno la nave C210 en su primer vuelo, y que posteriormente fue nombrada como Endurence.\nLa misión Crew-3 llevó a cuatro miembros de la Expedición 66/67 a la Estación Espacial Internacional, tres pertenecientes a la NASA y al astronauta Matthias Maurer de la ESA en su primera misión europea Cosmic Kiss.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Michal Vaclavik, representante checo en la Agencia Espacial Europea, confirmó vía Twitter que la misión Crew-3 estaba programada para septiembre de 2021. La misión cuenta con el astronauta de la ESA Matthias Maurer, nacido en Sankt Wendel, Alemania. Una nota de prensa posterior, publicada en diciembre de 2020 por la ESA, confirmó a los astronautas Raja Chari como comandante y Thomas Marshburn como piloto además de Matthias Maurer. El cuarto asiento fue asignado a Kayla Barron en mayo de 2021."
+    },
+    {
+      "titulo": "Misión",
+      "nivel": 2,
+      "texto": "Es la tercera misión operacional de SpaceX dentro del Programa de Tripulación Comercial que llevará a parte de la tripulación de la Expedición 66 originalmente programada para lanzarse a partir del 5 de octubre de 2021. Siendo finalmente lanzada el 11 de noviembre de 2021."
+    }
+  ],
+  "num_palabras": 320
+}

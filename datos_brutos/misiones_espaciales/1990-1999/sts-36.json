@@ -1,0 +1,60 @@
+{
+  "titulo": "STS-36",
+  "titulo_wikipedia_en": "STS-36",
+  "fecha_lanzamiento": "1990-02-28",
+  "año_lanzamiento": 1990,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/STS-36",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Otros nombres": "Sistema de Transporte Espacial-36\nSTS-36",
+    "Tipo de misión": "Despliegue de satélites del Departamento de Defensa",
+    "Operador": "NASA",
+    "Distancia recorrida": "2957913 km",
+    "Órbitas completadas": "72",
+    "Masa en el lanzamiento": "2.044.469 kg",
+    "Masa en el aterrizaje": "84.912 kg",
+    "Masa de la carga útil": "19600 kg",
+    "Tripulación": "John Oliver Creighton; John Casper; Pierre J. Thuot; David C. Hilmers; Mike Mullane",
+    "Fecha de lanzamiento": "28 de febrero de 1990, 07:50:22 UTC (2:50:22 am EST)",
+    "Lugar de lanzamiento": "Kennedy, LC-39A",
+    "Contratista del lanzamiento": "Rockwell Internacional",
+    "Fecha de aterrizaje": "4 de marzo de 1990, 18:08:44 UTC (10:08:44 am PST)",
+    "Lugar de aterrizaje": "Edwards, Pista 23",
+    "Sistema de referencia orbital": "Órbita geocéntrica",
+    "Régimen orbital": "Órbita terrestre baja",
+    "Periapsis": "198 km",
+    "Apoapsis": "204 km",
+    "Inclinación orbital": "62°",
+    "Periodo orbital": "88,5 minutos",
+    "Instrumentos": "Distribución de la dosis de radiación en vuelo (IDRD)",
+    "Programa": "Programa de transporte espacial",
+    "Misión anterior": "STS-32 (33)",
+    "Misión siguiente": "STS-31 (35)"
+  },
+  "resumen": "STS-36 fue una misión del transbordador espacial de la NASA, durante la cual el transbordador espacial Atlantis llevó una carga útil clasificada para el Departamento de Defensa de EE.UU. (se cree que fue un satélite de reconocimiento Misty) a la órbita. STS-36 fue la 34a misión del transbordador en general, el sexto vuelo para Atlantis, y el lanzamiento de la cuarta noche del programa del transbordador. Se lanzó desde el Kennedy Space Center, Florida, el 28 de febrero de 1990, y aterrizó el 4 de marzo de 1990.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Resumen de la misión",
+      "nivel": 2,
+      "texto": "Atlantis se lanzó en la misión STS-36 el 28 de febrero de 1990, a las 07:50:22 UTC (2:50:22 am EST, hora local en el sitio de lanzamiento). El lanzamiento fue fijado originalmente para el 22 de febrero de 1990, pero fue pospuesto repetidamente debido a la enfermedad del comandante de la tripulación y las malas condiciones climáticas. Esta fue la primera vez desde Apollo 13 en 1970 que una misión espacial tripulada fue afectada por la enfermedad de un miembro de la tripulación. El primer intento de lanzamiento reprogramado, fijado para el 25 de febrero de 1990, fue borrado en T-31 segundos debido a un mal funcionamiento de la computadora de seguridad de alcance. Otro intento, programado para el 26 de febrero de 1990, fue depurado durante el período de espera de T-9 minutos debido a las condiciones climáticas. El exitoso lanzamiento el 28 de febrero de 1990 se fijó para una ventana de lanzamiento clasificada, que se encuentra dentro de un período de lanzamiento que se extiende de 00:00 a 04:00 EST. El peso de lanzamiento de esta misión fue clasificado.\nLa trayectoria de lanzamiento fue única de este vuelo y permitió que la misión alcanzara una inclinación orbital de 62°, la órbita de despliegue de su carga útil, la inclinación máxima normal para un vuelo de lanzadera era de 57°. Esta llamada trayectoria de \"perro-pierna\" vio a Atlantis volar en un azimut de lanzamiento normal y luego maniobrar hacia un azimut de lanzamiento más alto una vez sobre el agua. Aunque la maniobra resultó en una reducción del rendimiento del vehículo, fue la única manera de alcanzar la órbita de despliegue requerida desde el Kennedy Space Center (originalmente, el vuelo había sido programado para ser lanzado desde la Base de la Fuerza Aérea Vandenberg en California, hasta que el programa de lanzamiento de lanzadera allí fue cancelado). Debido a la importancia de la carga útil para la defensa nacional, las reglas normales de seguridad de rango fueron eximidas, permitiendo que la lanzadera volara sobre o cerca de Cape Hatteras, Cape Cod, y partes de Canadá.\nComo operación del Departamento de Defensa, la carga útil de STS-36 permanece oficialmente clasificada y no se publicaron muchas fotos de ella. STS-36 lanzó un único satélite, también descrito como AFP-731. Según se informa, otros objetos (1990-019C-G) aparecieron en órbita tras su despliegue.\nSe informó de que USA-53 era un satélite avanzado de reconocimiento fotográfico KH-11, utilizando un sistema de imágenes totalmente digital para devolver imágenes. Se cree que los satélites KH-11 se asemejan al Telescopio Espacial Hubble en tamaño y forma, ya que los satélites fueron enviados en contenedores similares y tenían diámetros de espejo primarios comparables. USA-53, apodado \"Misty\", fue rastreado brevemente por observadores de satélites aficionados en octubre y noviembre de 1990.\nLa misión marcó otro vuelo de un cráneo humano de 5 kg, que sirvió como el elemento principal de \"Objetivo secundario detallado 469\", también conocido como el \"Experimento de Distribución de la Dosis de Radiación en Vuelo\" (IDRD). Este experimento conjunto NASA/DoD fue diseñado para examinar la penetración de la radiación en el cráneo humano durante los vuelos espaciales. El cráneo femenino estaba sentado en una matriz plástica, representativa del tejido, y cortado en diez capas. Cientos de dosímetros termoluminiscentes fueron montados en las capas del cráneo para registrar los niveles de radiación a múltiples profundidades. Este experimento, que también voló en STS-28 y STS-31, fue localizado en las taquillas de la lanzadera en los tres vuelos, registrando niveles de radiación en diferentes inclinaciones orbitales.\nAtlantis aterrizó a las 18:08:44 UTC (10:08:44 am PST, hora local en el lugar de aterrizaje) el 4 de marzo de 1990, en la Base de la Fuerza Aérea Edwards, California, en la pista lacustres seca 23 que termina el STS-36. Esta fue la misión final para terminar en la pista 23, que se utilizó por primera vez para el aterrizaje de la primera misión de transbordador espacial, STS-1. La distancia de despliegue del orbitador fue de 2,41 km. Atlantis fue remolcado a la\nMate-Demasiado Demasiado alrededor de 15:00 PST.\nCerca de 62 impactos en las baldosas del Sistema de Protección Térmica del transbordador (TPS) fueron contados por el equipo de desechos después de la misión. Los ingenieros de tejas informaron de que sólo una teja necesitaba ser reemplazada. Los frenos y neumáticos se realizaron nominalmente. Se observaron gotas de fluido hidráulico en la rueda principal derecha del tren de aterrizaje, la cavidad de desconexión de hidrógeno líquido de 43 cm y posiblemente alrededor de dos de los motores principales."
+    },
+    {
+      "titulo": "Mission insignia",
+      "nivel": 2,
+      "texto": "Las treinta y seis estrellas de la insignia simbolizan la designación numérica del vuelo en la secuencia de la misión del Sistema de Transporte Espacial; las estrellas también forman parte de una bandera americana estilizada, formando el fondo de una imagen de un águila calva, el pájaro nacional americano."
+    }
+  ],
+  "num_palabras": 894
+}

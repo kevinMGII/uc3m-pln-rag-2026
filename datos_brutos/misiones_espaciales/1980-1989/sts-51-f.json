@@ -1,0 +1,66 @@
+{
+  "titulo": "STS-51-F",
+  "titulo_wikipedia_en": "STS-51-F",
+  "fecha_lanzamiento": "1985-07-29",
+  "año_lanzamiento": 1985,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/STS-51-F",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Lugar de lanzamiento": "39A",
+    "Fecha de lanzamiento": "29 de julio de 1985, 21:00:00 UTC",
+    "Nave": "Challenger",
+    "Fecha de aterrizaje": "6 de agosto de 1985, 19:45:26 UTC\nEdwards AFB, Pista 23",
+    "Duración de la misión": "7d/22:45:26",
+    "Inclinación orbital": "49,5°",
+    "Distancia recorrida": "5.284.350 km",
+    "Misión anterior": "STS-51-G",
+    "Misión siguiente": "STS-51-I",
+    "Programa": "Programa del Transbordador Espacial"
+  },
+  "resumen": "La misión STS-51-F (Spacelab 2) fue el octavo vuelo del Transbordador espacial Challenger, y el decimonoveno de la flota de transbordadores.\nLa carga útil con más propaganda fue el Carbonated Beverage Dispenser Evaluation, que era un experimento donde tanto Coca-Cola como Pepsi intentaron hacer sus bebidas disponibles para los astronautas. Ambas burbujeaban excesivamente en microgravedad.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "El número entre paréntesis indica el número de vuelos espaciales de cada uno anteriores a e incluyendo esta misión.\nC. Gordon Fullerton (2) - Comandante\nRoy D. Bridges, Jr. (1) - Piloto\nF. Story Musgrave (2) - Especialista de la misión\nAnthony W. England (1) - Especialista de la misión\nKarl G. Henize (1) - Especialista de la misión\nLoren W. Acton (1) - Especialista de la carga\nJohn-David F. Bartoe (1) - Especialista de la carga"
+    },
+    {
+      "titulo": "Tripulación de reserva",
+      "nivel": 3,
+      "texto": "George W. Simon - Especialista de la carga\nDiane K. Prinz - Especialista de la carga"
+    },
+    {
+      "titulo": "Parámetros de la misión",
+      "nivel": 2,
+      "texto": "Masa:\ndel Orbitador al despegue: 114.590 kg\ndel Orbitador al aterrizaje: 98.307 kg\nde la carga: 15.603 kg\nPerigeo: 203 km\nApogeo: 337 km\nInclinación: 49,5°\nPeriodo: 89,9 min"
+    },
+    {
+      "titulo": "Resumen de la misión",
+      "nivel": 2,
+      "texto": "La carga principal era el Spacelab-2. A pesar de un aborto a órbita, que exigió el replanteamiento de la misión, esta fue declarada un éxito. Una parte especial del sistema modular del Spacelab, el iglú, localizado en la cabeza de una serie de tres paletas, proveyendo apoyo en el lugar para los instrumentos montados en las paletas. El objetivo principal de la misión fue verificar el rendimiento de los sistemas del Spacelab, determinar las capacidades de la interfaz del orbitador, y medir el entorno creado por la nave. Los experimentos cubrieron áreas de biología, física de plasma, astronomía, astrofísica de altas energías, física solar, física atmosférica y tecnologías de la investigación.\nEl vuelo supuso la primera vez que el instrumentos de la ESA Instrument Pointing System (IPS) fue probado en órbita. Este instrumento único de señalización fue diseñado con una precisión de un minuto de arco. Inicialmente, se experimentaron algunos problemas cuando se le pidió que rastreara el Sol, pero con una serie de parches en el software se consiguió corregir el problema.\nAdemás, Tony England se convirtió en el segundo radioaficionado en transmitir desde el espacio durante una misión."
+    },
+    {
+      "titulo": "Lanzamiento",
+      "nivel": 2,
+      "texto": "El lanzamiento tuvo lugar el 29 de julio de 1985 a las 5:00:00 p. m. EDT. La cuenta atrás del 12 de julio había sido parada a los T-3 segundos después de la ignición del motor principal cuando un problema en la válvula del refrigerante del motor dos principal (SSME) causó el apagado de los tres motores principales. El lanzamiento fue retrasado una hora, 37 minutos debido a un problema con la table maintenance block update uplink. A los cinco minutos y 45 segundos del despegue, durante el ascenso, el motor principal número uno se apagó prematuramente debido a un fallo en el sensor de alta temperatura. Hasta la fecha, este ha sido el único fallo de los motores principales en vuelo del programa del transbordador. Más o menos al mismo tiempo, un segundo motor principal casi se apaga debido a un problema similar, pero este fue observado e inhibido por la rápida actuación de los controladores de vuelo. El fallo del SSME acabó en una trayectoria de Aborto a órbita, a través del cual el transbordador alcanzó una altitud orbital más baja de la planeada. El peso del orbitador en el lanzamiento era de 252.855 lb (114,693 t)."
+    },
+    {
+      "titulo": "Aterrizaje",
+      "nivel": 2,
+      "texto": "El 6 de agosto de 1985, a las 12:45:26 p. m. PDT, el Challenger aterrizó en la base Edwards AFB, California. La distancia de estreno fue de 8.569 ft (2,612 km).La misión se extendió a 17 órbitas para actividades adicionales debido al aborto a órbita. El peso durante el aterrizaje era de 216.735 lb (98,309 t). El orbitador regresó al Centro Espacial Kennedy el 11 de agosto de 1985."
+    },
+    {
+      "titulo": "Insignia de la misión",
+      "nivel": 2,
+      "texto": "La insignia de la misión fue diseñada por el artista Skip Bradley de Houston. El Transbordador espacial Challenger está representado ascendiendo hacia los cielos en la búsqueda del nuevo conocimiento en el campo de la astronomía solar y estelar, con su Spacelab 2 como carga útil. Las constelaciones de Leo y Orión están en las posiciones, relativas al Sol, que estarían durante el vuelo. Las diecinueve estrellas significan que este es el vuelo número 19 del programa STS."
+    }
+  ],
+  "num_palabras": 713
+}

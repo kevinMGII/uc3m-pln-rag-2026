@@ -1,0 +1,51 @@
+{
+  "titulo": "STS-41-D",
+  "titulo_wikipedia_en": "STS-41-D",
+  "fecha_lanzamiento": "1984-08-30",
+  "año_lanzamiento": 1984,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/STS-41-D",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Lugar de lanzamiento": "KSC LC-39A",
+    "Fecha de lanzamiento": "30 de agosto de 1984, 8:41:50 EDT",
+    "Nave": "Discovery",
+    "Fecha de aterrizaje": "5 de septiembre de 1984, 8:37:54 PDT, Edwards AFB",
+    "Duración de la misión": "6/00:56:04",
+    "Inclinación orbital": "28,5 grados",
+    "Distancia recorrida": "2.490.000 millas (4.007.000 km)",
+    "Misión anterior": "STS-41-C",
+    "Misión siguiente": "STS-41-G",
+    "Programa": "Programa del Transbordador Espacial"
+  },
+  "resumen": "La STS-41-D fue una misión del transbordador espacial de la NASA usando el transbordador espacial Discovery. Fue la duodécima misión del transbordador, y el primer vuelo del Discovery.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Henry Hartsfield (2), Jr., Comandante\nMichael Coats (1), Piloto\nJudith Resnik (1), Especialista de la misión 1\nSteven Hawley (1), Especialista de la misión 2\nRichard Mullane (1), Especialista de la misión 3\nCharles Walker (1), Especialista del cargamento 1\n(1) número de vuelos espaciales hechos por cada miembro de la tripulación, hasta la fecha inclusive esta misión."
+    },
+    {
+      "titulo": "Parámetros de la misión",
+      "nivel": 2,
+      "texto": "Masa:\nOrbitador al despegue: 119.511 kg\nOrbitador al aterrizaje: 91.476 kg\nCarga: 21.552 kg\nPerigeo: 300 km\nApogeo: 307 km\nInclinación: 28,5°\nPeríodo: 90,6 min"
+    },
+    {
+      "titulo": "Lo más destacado de la misión",
+      "nivel": 2,
+      "texto": "El orbitador Discovery fue lanzado en su vuelo inaugural (el n.º 12 en el programa) el 30 de agosto de 1984. Fue el tercero construido y fue el más ligero de todos de lejos por el bajo peso de los materiales de su escudo térmico.\nLa misión en un principio estaba planeada para el 25 de junio, pero por diversos problemas técnicos, incluyendo el traslado al VAB para reemplazar un motor principal, el lanzamiento se llevó a cabo hasta las 8:41 a. m.\nEDT, el 30 de agosto, después de un retraso de 6 minutos y 50 segundos por la entrada de un avión privado en el espacio aéreo restringido, cerca de la plataforma de despegue. Fue al cuarto intento de lanzamiento para el Discovery. El intento de lanzamiento de junio significó ser la primera vez que una nave espacial tripulada sufría el apagado de sus motores justo antes del lanzamiento, desde el Gemini 6A.\nPor el retraso de dos meses, se canceló la misión STS 41-F (la STS 41-E ya estaba cancelada) y su carga útil principal se incluyó al vuelo STS 41-D. En total la carga sobrepaso las 47.000 lb (21.000 kg), un récord para el transbordador hasta la fecha.\nLos seis tripulantes de la tripulación eran Henry W. Hartsfield Jr., comandante, en su segunda misión en el transbordador; el piloto Michael L. Coats; los tres especialistas de la misión: — Judith A. Resnik, Richard M. Mullane y Steven A. Hawley; y un especialista de la carga, Charles D. Walker, un empleado de la corporación McDonnell Douglas. Walker fue el primer especialista de carga con un patrocinador en volar a bordo del transbordador.\nLa carga primaria consistía en tres satélites de comunicaciones, SBS-D para Satellite Business Systems, Telstar 3-C para Telesat (Canadá) y el SYNCOM IV-2, o Leasat-2, un enorme satélite arrendado a la Marina. El Leasat-2 fue el primer gran satélite de comunicaciones diseñado específicamente para ser desplegado por el transbordador espacial. Los tres satélites se fueron desplegados sin problemas y quedaron operativos.\nOtra carga que llevaba fue el panel solar OAST-l, un dispositivo de 13 pies (4 m) de ancho, y 102 pies (31 m) de alto, plegado en un paquete de 7 pulgadas (180 mm) de profundidad. El ala portaba diferentes tipos de células fotovoltaicas experimentales y varias veces fue extendida hasta su mayor amplitud. Con lo que se convirtió en la estructura más grande jamás extendida desde un vehículo tripulado y,\ndemostró la viabilidad los grandes paneles solares ligeros para futuras aplicaciones en instalaciones de gran envergadura como la Estación espacial.\nEl experimento Continuous Flow Electrophoresis System (CFES) patrocinado por McDonnell Douglas, usando células vivas, fue más elaborado que su antecesor y el especialista de carga Walker lo dirigió más de 100 horas durante el vuelo. Se realizó el experimento de un estudiante para estudiar el crecimiento de los cristales en microgravedad. Con una cámara IMAX se filmaron los mejores momentos de la misión, que luego se pudieron ver en la película The Dream is Alive.\nLa misión duró 6 días, 56 minutos, con el aterrizaje en la pista 17 de la Edwards AFB, a las 8:37 a. m. PDT, el 5 de septiembre. Viajó 2,21 millones de millas (3,6 millones de km) e hizo 97 órbitas. El 10 de septiembre fue transportado de regreso al KSC."
+    },
+    {
+      "titulo": "Insignia de la misión",
+      "nivel": 2,
+      "texto": "Las doce estrellas de la insignia de la misión simbolizan la designación numérica del vuelo en la secuencia de misiones del Sistema de Transporte Espacial."
+    }
+  ],
+  "num_palabras": 689
+}

@@ -1,0 +1,64 @@
+{
+  "titulo": "Neutron Star Interior Composition Explorer",
+  "titulo_wikipedia_en": "Neutron Star Interior Composition Explorer",
+  "fecha_lanzamiento": "2017-06-03",
+  "año_lanzamiento": 2017,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Telescopio espacial"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Neutron_Star_Interior_Composition_Explorer",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Astrofísica de estrellas de neutrones",
+    "Operador": "NASA / GSFC / MIT",
+    "Duración de la misión": "18 meses (previstos)\n(en curso)",
+    "Masa en el lanzamiento": "372 kg",
+    "Fecha de lanzamiento": "3 de junio de 2017, 21:07:38 UTC",
+    "Vehículo de lanzamiento": "Falcon 9 Full Thrust, B1035.1",
+    "Lugar de lanzamiento": "Centro Espacial Kennedy, LC-39A",
+    "Contratista del lanzamiento": "SpaceX",
+    "Sistema de referencia orbital": "Órbita geocéntrica",
+    "Régimen orbital": "Órbita terrestre baja",
+    "Periapsis": "402 km",
+    "Apoapsis": "407 km",
+    "Inclinación orbital": "51.64°",
+    "Periodo orbital": "92,66 minutos",
+    "Instrumentos": "Instrumento de sincronización de rayos X (XTI)",
+    "Programa": "Programa Explorer",
+    "Misión anterior": "ASTRO-H (NeXT)",
+    "Misión siguiente": "SES-14 (ORO)"
+  },
+  "resumen": "El Neutron Star Interior Composition Explorer (NICER) es un telescopio de la NASA en la Estación Espacial Internacional, diseñado y dedicado al estudio de los extraordinarios entornos gravitacionales, electromagnéticos y de física nuclear encarnados por las estrellas de neutrones, explorando los exóticos estados de la materia donde la densidad y la presión son más altas que en los núcleos atómicos. Como parte del programa Explorador de la NASA, NICER permitió la espectroscopia de rotación-resuelta de las emisiones térmicas y no térmicas de las estrellas de neutrones en la banda de rayos X blandos (0.2-12 keV) con sensibilidad sin precedentes, estructura interior de sondeo, los orígenes de fenómenos dinámicos, y los mecanismos que subyacen a los aceleradores de partículas cósmicas más poderosos conocidos. El NICER logró estos objetivos mediante el despliegue, después del lanzamiento, y la activación de los instrumentos de cronometría de rayos X y espectroscopia. El NICER fue seleccionado por la NASA para pasar a la fase de formulación en abril de 2013.\nNECER-SEXTANT utiliza el mismo instrumento para probar el tiempo de rayos X para el posicionamiento y la navegación, y MXS es una prueba de comunicación de tiempos de rayos X. En enero de 2018, la navegación por rayos X se demostró utilizando el sistema NICER en ISS.\nEn mayo de 2023, los escudos térmicos de NICER desarrollaron una fuga que permitió que la luz perdida entrara en el telescopio. En agosto de 2024, la misión de reabastecimiento Cygnus NG-21 entregó a la estación un kit de reparación que contenía parches especializados, y Nick Hague lo aplicó en una caminata espacial del 16 de enero de 2025.\nEl equipo de NICER suspendió las observaciones científicas el 17 de junio de 2025 debido a un problema con el motor utilizado para apuntar el telescopio.",
+  "secciones": [
+    {
+      "titulo": "Lanzamiento",
+      "nivel": 2,
+      "texto": "En mayo de 2015, NICER estaba en camino para un lanzamiento de 2016, habiendo pasado su crítica revisión de diseño (CDR) y resuelto un problema con la energía que es suministrada por la ISS. Tras la pérdida de SpaceX CRS-7 en junio de 2015, que retrasó misiones futuras por varios meses, el 3 de junio de 2017 finalmente se lanzó el NECER, con la misión de reabastecimiento SpaceX CRS-11 ISS a bordo de un vehículo de lanzamiento Falcon 9 v1.2."
+    },
+    {
+      "titulo": "Instrumento científico",
+      "nivel": 2,
+      "texto": "El instrumento de ciencia primaria de NICER, llamado Instrumento de sincronización de rayos X (XTI), es un conjunto de 56 detectores de fotones de rayos X. Estos detectores registran las energías de los fotones recogidos, así como su hora de llegada. Un receptor del Sistema Mundial de Posicionamiento (GPS) permite medir con precisión el tiempo y el posicionamiento. Los fotones de rayos X se pueden marcar con una precisión de menos de 300 ns. En agosto de 2022 se inició un programa de seguimiento rápido de rayos X con el instrumento MAXI llamado \"OHMAN (On-orbit Hookup of MAXI and NECER)\" para detectar estallidos repentinos en fenómenos de rayos X.\nDurante cada órbita de la Estación Espacial Internacional, NIER observará de dos a cuatro objetivos. Gimbaling y un rastreador estelar permiten a NECER rastrear objetivos específicos mientras recoge datos científicos. Con el fin de lograr sus objetivos científicos, el NICER tomará más de 15 millones de segundos de exposiciones durante un período de 18 meses."
+    },
+    {
+      "titulo": "Experimentos de navegación y comunicación por rayos X",
+      "nivel": 2,
+      "texto": "Una mejora de la misión de NECER, el Explorador de la Estación para la tecnología de tiempo y navegación de rayos X (SEXTANT), actuará como un demostrador de tecnología para las técnicas de navegación basadas en rayos X pulsar (XNAV) que un día se puede utilizar para la navegación en el espacio profundo."
+    },
+    {
+      "titulo": "XCOM",
+      "nivel": 3,
+      "texto": "Como parte de las pruebas de NICER, se desarrolló un dispositivo de rayos X de modulación rápida llamado Fuente de rayos X Modulada (MXS), que se está utilizando para crear un sistema de comunicación de rayos X (XCOM). Si se aprueba e instala en la ISS, XCOM transmitirá datos codificados en ráfagas de rayos X a la plataforma de NECER, lo que puede llevar al desarrollo de tecnologías que permitan la comunicación de ancho de banda de gigabit en todo el Sistema Solar. A partir de febrero de 2019 la prueba XCOM está programada para la primavera de 2019. XCOM (inc MXS) fue entregado a la ISS en mayo de 2019. Una vez que la prueba fue completada XCOM y la carga útil STP-H6 falló en septiembre de 2021. Fue retirado en noviembre de 2021 y eliminado en Cygnus NG-16."
+    },
+    {
+      "titulo": "Resultados seleccionados",
+      "nivel": 2,
+      "texto": "En mayo de 2018, NICER descubrió un pulsar de rayos X en la órbita estelar más rápida que se ha descubierto. El pulsar y su estrella compañera se encontraron orbitando unos a otros cada 38 minutos.\nEl 21 de agosto de 2019 (UTC; 20 de agosto en los EE.UU.), NICER vio la explosión de rayos X más brillante observada hasta ahora. Provenía de la estrella de neutrones SAX J1808.4−3658 a unos 11.000 años luz de la Tierra en la constelación de Sagitario.\nLos astrónomos que utilizaban NIER encontraron evidencia de que una estrella de neutrones de un binario de rayos X de baja masa en NGC 6624 está girando a 716 Hz (tiempos por segundo), o 42.960 revoluciones por minuto, la misma velocidad que la estrella de neutrones de giro más rápida conocida PSR J1748-2446ad y la única en un sistema binario de este tipo."
+    }
+  ],
+  "num_palabras": 878
+}

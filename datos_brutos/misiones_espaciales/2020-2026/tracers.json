@@ -1,0 +1,51 @@
+{
+  "titulo": "TRACERS",
+  "titulo_wikipedia_en": "TRACERS",
+  "fecha_lanzamiento": "2025-07-23",
+  "año_lanzamiento": 2025,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión heliofísica"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/TRACERS",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Otros nombres": "TRACERS",
+    "Tipo de misión": "Heliofísica",
+    "Operador": "NASA",
+    "Nave": "TRACERS",
+    "Tipo de nave": "Orbitadores (2)",
+    "Fabricante": "Sistemas espaciales del Milenio",
+    "Fecha de lanzamiento": "23 de julio de 2025 18:13 UTC (11:13 am PDT)",
+    "Vehículo de lanzamiento": "Falcon 9 Bloque 5",
+    "Lugar de lanzamiento": "Complejo de Lanzamiento Espacial Vandenberg 4",
+    "Contratista del lanzamiento": "SpaceX",
+    "Sistema de referencia orbital": "Órbita geocéntrica",
+    "Régimen orbital": "Órbita terrestre baja\nPolar",
+    "Programa": "Programa Small Explorer (SMEX)",
+    "Misión anterior": "SMEX 15",
+    "Misión siguiente": "SMEX 17"
+  },
+  "resumen": "Tandem Reconnection and Cusp Electrodynamics Reconnaissance Satellites (TRACERS) es una misión orbital encargada de estudiar los orígenes del viento solar y cómo afecta a la Tierra. TRACERS fue propuesto por Craig A. Kletzing en la Universidad de Iowa que sirvió como Investigador Principal hasta su muerte en 2023. David M. Miles en la Universidad de Iowa fue nombrado como investigador principal en su lugar. La misión TRACERS recibió 115 millones de dólares en fondos de la NASA.",
+  "secciones": [
+    {
+      "titulo": "Sinopsis",
+      "nivel": 2,
+      "texto": "TRACERS es una misión de la NASA que tiene como objetivo responder a preguntas de larga data críticas para entender el Sistema Sol-Tierra. TRACERS es un par de naves espaciales giratorias con instrumentos idénticos que estudiarán cómo el viento solar del Sol interactúa con la magnetosfera de la Tierra. Inicialmente se planeó el lanzamiento de TRACERS como misión secundaria a otro orbitador, el Polarímetro para Unificar la Corona y la Heliosfera (PUNCH). PUNCH estudiará el viento solar, una corriente de partículas cargadas que emanan del Sol, mientras que TRACERS estudiará la respuesta de la Tierra.\nTRACERS observa partículas solares interactuando con el campo magnético de la Tierra en la región cúspide magnética norteña. En la cúspide, las líneas de campo actúan como una guía para las partículas que se mueven desde el límite entre el campo magnético de la Tierra hacia la atmósfera. En un proceso conocido como reconexión magnética, las líneas de campo se reconfiguran violentamente, enviando partículas a velocidades que pueden acercarse a la velocidad de la luz. Algunas de estas partículas serán guiadas por el campo de la Tierra hacia la región donde los TRACERS pueden observarlas. TRACERS estudia una pregunta de larga data sobre dónde ocurre la reconexión en la magnetopausa y cómo el viento solar afecta su lugar y tiempo, ayudando a NASA a predecir mejor la entrada de partículas energéticas en el campo magnético de la Tierra que tiene el potencial de interrumpir la red eléctrica y las comunicaciones por satélite. TRACERS y PUNCH trabajarán junto con la otra nave espacial heliofísica existente."
+    },
+    {
+      "titulo": "Histórico",
+      "nivel": 2,
+      "texto": "El 20 de junio de 2019, la NASA anunció que PUNCH y TRACERS eran los candidatos ganadores para convertirse en las próximas misiones en el programa Small Explorer de la agencia. El 29 de septiembre de 2023, el Programa de Servicios de Lanzamiento de la NASA seleccionó el cohete SpaceX Falcon 9 para proporcionar el servicio de lanzamiento para el lanzamiento de TRACERS a través del programa de Adquisición de Clase Venture de Dedicated and Rideshare (VADR).\nTRACERS fue lanzado el 23 de julio de 2025 a las 18:13 UTC desde la base de Vandenberg Space Force en California. Ambos vehículos espaciales 1 y 2 fueron desplegados con éxito en T+01:35:02 y T+01:39:37. Los instrumentos se activarán lentamente durante las semanas siguientes.\nEl 25 de julio de 2025, la NASA anunció que la puesta en marcha de la nave espacial TRACERS se detendría mientras los equipos investigan por qué los \"ajustes rutinarios del subsistema de energía\" no lograron los \"resultados deseados\" en uno de los dos satélites.\nEl 11 de septiembre de 2025, la NASA confirmó que se había restablecido la comunicación con SV1, uno de los dos satélites TRACERS, que tenía un problema de subsistema de energía dos días después del lanzamiento. La otra nave espacial, SV2, completó la puesta en servicio después del lanzamiento sin problemas."
+    },
+    {
+      "titulo": "Instrumentos",
+      "nivel": 2,
+      "texto": "DC Magnetómetro (MAG) un magnetómetro de flowgate que proporciona mediciones del campo magnético de fondo de hasta 5 Hz será proporcionado por la Universidad de California, Los Ángeles.\nEl magnetómetro de bobinas de búsqueda (MSC) una bobina de búsqueda magnética de tres ejes para medir el campo magnético AC de 2 Hz hasta 1 kHz será proporcionada por la Universidad de Iowa.\nInstrumento de Campo Eléctrico (EFI) un experimento de campo eléctrico de dos ejes para medir campos eléctricos de 1 Hz a 1 kHz. será proporcionado por la Universidad de California, Berkeley.\nUn analizador electrostático para medir electrones cusp de 40 eV a 10 keV será proporcionado por la Universidad de Iowa.\nEl analizador de iones Cusp (ACI) es un analizador electrostático para medir iones cusp de 50 eV a 10 keV.\nUna demostración de tecnología, Magnetómetros para la Innovación y Capacidad (MAGIC), se añadió en 2020 con el objetivo de probar prototipos de instrumentos de campo magnético."
+    }
+  ],
+  "num_palabras": 713
+}

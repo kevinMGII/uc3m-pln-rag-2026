@@ -1,0 +1,44 @@
+{
+  "titulo": "Soyuz 15",
+  "titulo_wikipedia_en": "Soyuz 15",
+  "fecha_lanzamiento": "1974-08-26",
+  "año_lanzamiento": 1974,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Soyuz_15",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Masa en el lanzamiento": "6760 kg",
+    "Fecha de lanzamiento": "26 de agosto de 1974",
+    "Nave": "Soyuz 7K-T/A9",
+    "Fecha de aterrizaje": "28 de agosto de 1974",
+    "Duración de la misión": "2,01 días",
+    "Programa": "Programa Soyuz",
+    "Misión anterior": "Soyuz 14",
+    "Misión siguiente": "Soyuz 16"
+  },
+  "resumen": "Soyuz 15 fue una misión de una nave Soyuz 7K-T modificada (Soyuz 7K-T/A9) lanzada el 26 de agosto de 1974 desde el cosmódromo de Baikonur con dos cosmonautas a bordo.\nSoyuz 15 fue la segunda misión de una Soyuz a la estación espacial Almaz 2 (también denominada Salyut 3). En el momento del acoplamiento el sistema de acoplamiento automático Igla falló y la nave no consiguió acoplarse. La tripulación tuvo que regresar y fue recuperada el 27 de agosto de 1974 a las 20:10 GMT.\nUna investigación posterior concluyó que el sistema Igla necesitaba modificaciones.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Gennadi Sarafanov (Comandante)\nLev Diomin (Ingeniero de vuelo)"
+    },
+    {
+      "titulo": "Tripulación de respaldo",
+      "nivel": 2,
+      "texto": "Borís Volinov (Comandante)\nVitaliy Zholobov (Ingeniero de vuelo)"
+    },
+    {
+      "titulo": "Tripulación de reserva",
+      "nivel": 2,
+      "texto": "Vyacheslav Zudov (Comandante)\nValeri Rozhdestvensky (Ingeniero de vuelo)"
+    }
+  ],
+  "num_palabras": 119
+}

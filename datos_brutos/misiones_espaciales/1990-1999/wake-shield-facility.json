@@ -1,0 +1,19 @@
+{
+  "titulo": "Wake Shield Facility",
+  "titulo_wikipedia_en": "Wake Shield Facility",
+  "fecha_lanzamiento": "1994",
+  "año_lanzamiento": 1994,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Wake_Shield_Facility",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {},
+  "resumen": "Wake Shield Facility (WSF) fue una plataforma científica experimental de la NASA que fue colocada en órbita terrestre baja por el transbordador espacial. Era un disco de 3,7 m de diámetro, de acero inoxidable.\nEl FSM fue desplegado usando el Transbordador Espacial Canadarm. El FSM entonces usó propulsores de gas nitrógeno para posicionarse a unos 55 km detrás del transbordador espacial, que estaba a una altitud orbital de más de 300 km, dentro de la termosfera, donde la atmósfera es extremadamente tenue. La velocidad orbital del FSM fue por lo menos tres a cuatro veces más rápida que la velocidad de las moléculas de gas termosférico en el área, lo que resultó en un cono detrás del FSM que estaba completamente libre de moléculas de gas. El FSM creó así un vacío ultraalto en su estela. El vacío resultante se utilizó para estudiar el crecimiento de la película epitaxial. El FSM operaba a una distancia del transbordador espacial para evitar la contaminación de los propulsores de cohetes del transbordador y el agua descargada por la borda del sistema de recogida de desechos del transbordador (váteres espaciales). Después de dos días, el transbordador espacial se reuniría con el FSM y de nuevo usaría su brazo robótico para recoger el FSM y almacenarlo en la bahía de carga útil del transbordador para regresar a la Tierra.\nEl FSM fue llevado al espacio tres veces, a bordo de los vuelos STS-60 (WSF-1), STS-69 (WSF-2) y STS-80 (WSF-3). Durante STS-60, algunos problemas de hardware fueron experimentados, y como resultado, el FSM-1 fue desplegado sólo al final del Canadá del transbordador. Durante las misiones posteriores, el FSM fue desplegado como una plataforma de vuelo libre a raíz del transbordador.\nEstos vuelos probaron el concepto de vela al vacío y realizaron el concepto de epitaxia espacial mediante el crecimiento de las primeras películas delgadas de semiconductores cristalinas en el vacío del espacio. Estos incluyeron depósitos de arsenuro de galio (GaAs) y arsenuro de galio de aluminio (AlGaAs). Estos experimentos se han utilizado para desarrollar mejores fotocélulas y películas delgadas. Entre las posibles aplicaciones resultantes están las retinas artificiales hechas de pequeños detectores de cerámica.\nLos cálculos previos al vuelo sugerían que la presión en el lado de la estela podría disminuir en unos 6 órdenes de magnitud sobre la presión ambiente en órbita terrestre baja (de Torr). El análisis de los datos de presión y temperatura obtenidos de los dos vuelos concluyó que la disminución fue de aproximadamente 2 órdenes de magnitud (4 órdenes de magnitud inferiores a lo esperado).\nEl FSM fue patrocinado por la División de Procesamiento Espacial de la Oficina de Ciencias de la Vida y la Microgravedad y Aplicaciones de la NASA. Fue diseñado, construido y operado por el Space Vacuum Epitaxy Center, desde que pasó a llamarse Centro de Materiales Avanzados, en la Universidad de Houston, un Centro Espacial Comercial de la NASA junto con su socio industrial, Space Industries, Inc., también en Houston, Texas.\nc. 2012, la nave espacial Wake Shield Facility está siendo preservada en el Centro de Materiales Avanzados.",
+  "secciones": [],
+  "num_palabras": 511
+}

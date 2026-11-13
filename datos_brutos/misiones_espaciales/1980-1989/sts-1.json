@@ -1,0 +1,56 @@
+{
+  "titulo": "STS-1",
+  "titulo_wikipedia_en": "STS-1",
+  "fecha_lanzamiento": "1981-04-12",
+  "año_lanzamiento": 1981,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/STS-1",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Lugar de lanzamiento": "39-A",
+    "Fecha de lanzamiento": "12 de abril de 1981 6:00:03 a. m. CST (12:00:03 UTC)",
+    "Nave": "Columbia",
+    "Fecha de aterrizaje": "14 de abril de 1981\n12:20:57 p. m. CST (18:20:57 UTC), Base de la Fuerza Aérea de Edwards, Pista 23",
+    "Duración de la misión": "2 días 6:20:53",
+    "Inclinación orbital": "40,3 grados",
+    "Órbitas completadas": "36",
+    "Distancia recorrida": "1,074 millones de millas (1,728 millones de km)",
+    "Misión siguiente": "STS-2",
+    "Programa": "Programa del Transbordador Espacial"
+  },
+  "resumen": "La primera misión del Transbordador Espacial, la STS-1, fue lanzada el 12 de abril de 1981, y regresó el 14 de abril. El Transbordador espacial Columbia orbitó la Tierra 36 veces en su misión de 54 horas y media. Fue el primer vuelo espacial tripulado de los Estados Unidos desde el proyecto de prueba Apolo-Soyuz el 15 de julio de 1975.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "John W. Young (5), Comandante\nRobert L. Crippen (1), Piloto\n(1) número de vuelos espaciales hechos por cada miembro de la tripulación, hasta la fecha inclusive esta misión.\nLa tripulación de la STS-2 sirvió de reserva para esta misión.\nComandante en reserva: Joe Engle\nPiloto en reserva: Richard Truly"
+    },
+    {
+      "titulo": "Parámetros de la misión",
+      "nivel": 2,
+      "texto": "Masa:\nOrbitador al despegue: 219.256 lb (99.453 kg)\nOrbitador al aterrizaje: 195.466 lb (88,662 kg)\ncarga DFI: 10.822 lb (4.909 kg)\nPerigeo: 149 mi (240 km)\nApogeo: 156 mi (251 km)\nInclinación: 40,3°\nPeríodo: 89,4 min"
+    },
+    {
+      "titulo": "Lo más destacado de la misión",
+      "nivel": 2,
+      "texto": "El primer lanzamiento del transbordador espacial sucedió el 12 de abril de 1981, exactamente 20 años después del primer vuelo espacial tripulado, cuando el orbitador Columbia, con sus dos miembros de la tripulación, los astronautas John W. Young, comandante, y Robert L. Crippen, piloto, despegó de la plataforma de lanzamiento A, Complejo 39, en el centro espacial John F. Kennedy — el primero de 24 lanzamientos desde la plataforma A-. Fue exactamente a las 7 a. m. EST. Dos días antes un intento de lanzamiento se abortó a causa de problemas de encendido en uno de los ordenadores de propósito general del Columbia.\nNo solo fue este el primer lanzamiento del transbordador espacial, sino que también marcó la primera vez que se usaron en lanzamientos tripulados los cohetes de combustible sólido en los EE. UU. También fue el primer vehículo espacial que los EE. UU. lanzaron sin un vuelo de prueba propulsado sin tripulación. El transbordador de la misión STS-1, el Columbia, además tiene el récord del mayor tiempo empleado en la fábrica de procesamiento del transbordador (OPF) antes del lanzamiento — 610 días, fue el tiempo necesitado para el reemplazo de muchos de sus losetas de protección térmica.\nLos objetivos principales de la misión del vuelo inaugural fueron verificar el sistema del transbordador en conjunto, conseguir un ascenso sin percances hasta la órbita y regresar a la tierra para aterrizar sin problemas. Todos los objetivos se cumplieron, y se comprobó la navegabilidad del transbordador como vehículo espacial.\nLa única carga que llevó en la misión fue un paquete de instrumentación de desarrollo del vuelo (DFI) que contenía sensores y dispositivos de medida para registrar el rendimiento del orbitador y las tensiones que ocurrieron durante el lanzamiento, ascenso, vuelo orbital, descenso y aterrizaje.\nEl transbordador regresó a la tierra tras la órbita 36, después de 933.757 millas de vuelo durante 2 días, 6 horas, 20 minutos y 32 segundos. El aterrizaje tuvo lugar en la pista 23 de la base de la Fuerza Aérea de Edwards, California el 14 de abril a las 10:21 a. m. PST.\nEl Columbia regresó al centro espacial John F. Kennedy desde California el 28 de abril sobre un Boeing 747, uno de los aviones portadores del transbordador."
+    },
+    {
+      "titulo": "Insignia de la misión",
+      "nivel": 2,
+      "texto": "La insignia oficial de la misión fue diseñada por el artista Robert McCall. Es una representación simbólica del transbordador. La imagen no representa las raíces del ala mostrada en el transbordador real."
+    },
+    {
+      "titulo": "Aniversario",
+      "nivel": 2,
+      "texto": "La noche de Yuri es una fiesta internacional que se celebra cada año el 12 de abril para conmemorar el primer humano en el espacio y el primer lanzamiento del transbordador espacial.\nComo tributo al 25 aniversario del primer vuelo del transbordador, la firing room 1 en el Centro de control de lanzamiento de centro espacial John F. Kennedy fue renombrada al Young-Crippen Firing Room, dedicada al firing room que lanzó el vuelo histórico y a la tripulación de la misión STS-1.\nLa NASA describió la misión como: \"La prueba de vuelo más valiente de la historia\"."
+    }
+  ],
+  "num_palabras": 648
+}

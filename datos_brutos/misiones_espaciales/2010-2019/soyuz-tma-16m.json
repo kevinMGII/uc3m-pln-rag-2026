@@ -1,0 +1,27 @@
+{
+  "titulo": "Soyuz TMA-16M",
+  "titulo_wikipedia_en": "Soyuz TMA-16M",
+  "fecha_lanzamiento": "2015-03-27",
+  "año_lanzamiento": 2015,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Soyuz_TMA-16M",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Vehículo de lanzamiento": "Cosmódromo de Baikonur",
+    "Fecha de lanzamiento": "marzo de 2015",
+    "Nave": "Soyuz-FG",
+    "Fecha de aterrizaje": "octubre de 2015",
+    "Programa": "Programa Soyuz",
+    "Misión anterior": "Soyuz TMA-15M",
+    "Misión siguiente": "Soyuz TMA-17M"
+  },
+  "resumen": "Soyuz TMA-16M es un vuelo realizado en el 2015 a la Estación Espacial Internacional. Transportó a tres miembros de la Expedición 43 a la Estación Espacial Internacional. TMA-16M fue el vuelo número 125 de la Soyuz, el primer vuelo de su lanzamiento en 1967. La Soyuz seguirá probablemente a bordo de la estación espacial para el incremento de la Expedición 44 para servir como vehículo de escape de emergencia. Kelly y Korniyenko realizarán la primera estancia de casi un año en la ISS, regresando en la Soyuz TMA-18M.",
+  "secciones": [],
+  "num_palabras": 88
+}

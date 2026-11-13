@@ -1,0 +1,56 @@
+{
+  "titulo": "UVEX",
+  "titulo_wikipedia_en": "UVEX",
+  "fecha_lanzamiento": "2030",
+  "año_lanzamiento": 2030,
+  "estado": "programada",
+  "tipo_mision": [
+    "Telescopio espacial"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/UVEX",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Astronomía ultravioleta",
+    "Operador": "NASA / Goddard, Caltech",
+    "Duración de la misión": "2 años (previsto)",
+    "Fecha de lanzamiento": "2030 (prevista)",
+    "Sistema de referencia orbital": "Órbita geocéntrica",
+    "Régimen orbital": "Órbita altamente elíptica",
+    "Periapsis": "104000 km",
+    "Apoapsis": "396000 km",
+    "Periodo orbital": "13,7 días",
+    "Instrumentos": "Telescopio ultravioleta",
+    "Tipo de telescopio": "Anastigmat de tres espejos",
+    "Diámetro del telescopio": "75 cm",
+    "Distancia focal": "f/2.7",
+    "Resolución del telescopio": "2,25 segundos de arco (imagen)\nR ≥ 1000 (espectrograma)",
+    "Longitudes de onda": "139-190 nm (imagen fuv)\n203–270 nm (imagen NUV)\n115–265 nm (espectrograma)"
+  },
+  "resumen": "El Explorador Ultravioleta (UVEX) es un telescopio espacial ultravioleta de campo amplio de la NASA que se lanzará en 2030. UVEX se basará en telescopios espaciales ultravioletas anteriores, específicamente GALEX, llevando a cabo estudios de todo el cielo con luz ultravioleta tanto cercana como lejana. UVEX estudiará la evolución de las estrellas de baja metalicidad y cómo afectan a la evolución de las galaxias de baja metalicidad y de baja masa. La sonda también se puede utilizar para la observación rápida de eventos cósmicos, como la fusión de estrellas. Los datos de UVEX serán capaces de complementar otros programas de encuestas de todo el cielo en diferentes longitudes de onda de la luz, especialmente los de la Vera C. El Observatorio Rubin, el Telescopio Espacial Romano Nancy Grace y Euclides. En comparación con los telescopios espaciales ultravioleta anteriores, UVEX contará con instrumentación más capaz y un espejo más grande, lo que le permitirá obtener datos de mayor resolución y observar objetos más débiles.",
+  "secciones": [
+    {
+      "titulo": "Vehículo espacial",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Carga útil científica",
+      "nivel": 3,
+      "texto": "UVEX contendrá un instrumento, consistente en el conjunto de telescopios ópticos optimizados con rayos UV (OTA) y el módulo de instrumentos UV (UVIM). El OTA consiste en un espejo primario de 75 cm de diámetro en una configuración de anastigmat de tres espejos que captura y redirige la luz a tres sensores diferentes.\nDos de ellos pertenecen al imager, con uno con recubrimientos que sólo aceptan luz casi ultravioleta (NUV), y su contraparte acepta sólo luz ultra-ultravioleta (LUV). Ambos sensores, cada uno de los cuales consta de nueve detectores CMOS de 4k x 4k dispuestos en un patrón de 3 x 3, son idénticos aparte de sus recubrimientos y recibirán luz de un dicroico, que divide el haz de luz de la OTA para enviar a cada sensor sus longitudes de onda de luz correspondientes. El dicroico permite que ambos conjuntos de sensores se impriman simultáneamente. Debido a la baja relación focal de la OTA y los grandes sensores, el imager puede capturar imágenes de 3,5 ° x 3,5 ° del cielo a la vez.\nEl tercer sensor, un solo detector de 4k x 4k, pertenece al espectrógrafo de larga luz. La luz de la OTA alcanzaría el detector mediante el bypass del dicroico y pasando a través de la ranura y la rejilla. El espectrógrafo tiene una longitud de 2° y puede alcanzar una potencia de resolución máxima de aproximadamente R = 3500."
+    },
+    {
+      "titulo": "Misión",
+      "nivel": 2,
+      "texto": "UVEX está clasificado como un Explorador de Clase Media (MIDEX) en el Programa de Exploradores de la NASA y está previsto su lanzamiento en 2030. Después de un período de correcciones orbitales y puesta en marcha de instrumentos, la sonda comenzará una serie de dos años de estudios de cielo completo. Debido a su espejo primario más grande, que puede capturar más luz a la vez que los espejos más pequeños de sus predecesores, UVEX observará dimmer y otros objetos. La sonda alcanzará magnitudes de AB superiores a 25.8, comparables a la Vera C en tierra. Observatorio Rubin. UVEX también realizará encuestas semanales de las Nubes de Magallanes, algo con lo que sus predecesores lucharon por su brillo.\nLos objetivos científicos de UVEX se dividen en tres \"pilares:\"\nEstudie las estrellas de baja metalicidad y sus efectos en la evolución de sus galaxias anfitrionas. Las galaxias de baja masa de baja metalicidad constituyen aproximadamente la mitad de la masa del universo, y se cree que son muy similares a las primeras galaxias que se formaron. Estudiar estos objetos puede dar una idea de cómo se formaron las primeras estrellas y galaxias justo después del Big Bang\nEstudie eventos en curso y nuevos en el universo con encuestas de dominio del tiempo, permitiendo un rápido seguimiento de eventos repentinos como fusiones estelares. Esto proporcionará datos adicionales a los estudios en curso de las ondas gravitacionales.\nCrear un conjunto de datos de estudios ultravioletas todo-cielo para su uso por los científicos actuales y futuros, complementando estudios similares por telescopios en otras longitudes de onda de la luz (principalmente infrarrojo y luz visible)"
+    },
+    {
+      "titulo": "Orbit",
+      "nivel": 3,
+      "texto": "UVEX operará en una órbita de resonancia lunar altamente elíptica llamada P/2. Este tipo de órbita es actualmente utilizado por la nave espacial TESS, que también está realizando estudios de todo el cielo, aunque TESS está buscando principalmente exoplanetas. La órbita P/2 está en una resonancia 2:1 con la Luna, lo que significa que la nave espacial completa dos órbitas de la Tierra por cada órbita de la Luna. Debido a esta resonancia, que permite interacciones gravitacionales ocasionales con la Luna, la órbita es extremadamente estable. Además, la órbita evita por completo los cinturones Van Allen, reduciendo drásticamente el desgaste en los componentes de las naves espaciales. Debido a su gran altitud y excentricidad, UVEX tomará 13,7 días para completar una órbita."
+    }
+  ],
+  "num_palabras": 789
+}

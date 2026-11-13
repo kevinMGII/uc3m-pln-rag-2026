@@ -1,0 +1,49 @@
+{
+  "titulo": "Mars Orbiter Mission",
+  "titulo_wikipedia_en": "Mars Orbiter Mission",
+  "fecha_lanzamiento": "2013-11-05",
+  "año_lanzamiento": 2013,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración de Marte",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Mars_Orbiter_Mission",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Orbitador",
+    "Operador": "ISRO",
+    "Fabricante": "ISAC",
+    "Fecha de lanzamiento": "5 de noviembre de 2013, 09:08 UTC",
+    "Vehículo de lanzamiento": "PSLV-XL C25",
+    "Duración de la misión": "300 días terrestres",
+    "Masa en el lanzamiento": "1340 kg (con combustible) 501 kg (sin combustible)",
+    "Dimensiones": "1.5 m cube",
+    "Potencia": "840 vatios",
+    "Periapsis": "427 km",
+    "Inclinación orbital": "150 °",
+    "Datos interplanetarios": "tipo: orbitador | objeto: Marte | fecha llegada: 24 de septiembre de 2014, 02:00 UTC"
+  },
+  "resumen": "La Mars Orbiter Mission (MOM), informalmente llamada Mangalyaan (मंगलयान, Mars-craft) por los medios, es una sonda espacial cuyo lanzamiento se llevó a cabo con éxito el 5 de noviembre de 2013, a cargo de la Indian Space Research Organisation (ISRO). La misión es una prueba tecnológica, de cara al diseño y desarrollo de posteriores misiones interplanetarias.\nDespués de 15 meses de diseño y fabricación, el lanzamiento de la Mars Orbiter Mission se produjo desde Sriharikota, a bordo de un cohete Polar Satellite Launch Vehicle (PSLV) PSLV C-25. Su inserción orbital se produjo exitosamente el 24 de septiembre acorde a lo planeado. De esta manera India se suma al selecto club de países exploradores de Marte junto a Estados Unidos, la antigua URSS, China, Emiratos Árabes Unidos y Europa. Con este logro la ISRO también consigue convertirse en la primera agencia espacial en la historia que llega a Marte en su primer intento.",
+  "secciones": [
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "El objetivo principal de la Mars Orbiter Mission es dar a conocer los sistemas de lanzamiento de cohetes de la India, su capacidad de construcción y operación de naves espaciales. El objetivo secundario es explorar algunas de las características de Marte: la superficie, la morfología, la mineralogía y la atmósfera de Marte, utilizando instrumentos científicos propios. El objetivo general de esta primera misión india a Marte es desarrollar las tecnologías necesarias para el diseño, la planificación, la gestión y operación de una misión interplanetaria, que comprende las siguientes tareas principales:\nDiseño y realización de un orbitador de Marte con capacidad para realizar maniobras, fase de crucero de 300 días, inserción en la órbita de Marte y la fase en órbita alrededor de Marte.\nComunicación de espacio profundo, navegación, planificación y gestión de la misión.\nIncorporar funciones autónomas para manejar situaciones de emergencia."
+    },
+    {
+      "titulo": "Órbita inicial previa al viaje a Marte",
+      "nivel": 2,
+      "texto": "Por razones de ahorro de combustible y peso de la sonda, y especialmente debido a que la potencia del cohete utilizado es pequeña, se decidió que la trayectoria óptima hacia Marte incluyera seis órbitas iniciales a la Tierra. En cada órbita se aumentó la distancia al apogeo. Para lograr este aumento gradual de la órbita, la sonda encendió su motor durante unos segundos cuando se encontraba en el perigeo. De esta forma, con un mínimo de combustible la sonda fue ganando velocidad y distancia de apogeo.\nFinalmente cuando la sonda pasó por sexta vez por el perigeo, el motor dio el impulso necesario para ponerse en trayectoria hiperbólica en dirección al planeta Marte. Esto fue realizado el 30 de noviembre de 2013."
+    },
+    {
+      "titulo": "Instrumentos",
+      "nivel": 2,
+      "texto": "La carga útil de 15 kg está integrada por 5 instrumentos:\nMars Exospheric Neutral Composition Analyzer (MENCA) – Instrumento para análisis de la atmósfera.\nMethane Sensor For Mars (MSM) – Instrumento para análisis de la atmósfera.\nMars Color Camera (MCC) – Cámara en color.\nProbe For Infrared Spectroscopy for Mars (PRISM) – Cámara de infrarrojos.\nLyman-alpha photometer – Instrumento para la medición del hidrógeno en la atmósfera marciana."
+    }
+  ],
+  "num_palabras": 484
+}

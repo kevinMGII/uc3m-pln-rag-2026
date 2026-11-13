@@ -1,0 +1,77 @@
+{
+  "titulo": "STS-82",
+  "titulo_wikipedia_en": "STS-82",
+  "fecha_lanzamiento": "1997-02-11",
+  "año_lanzamiento": 1997,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/STS-82",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Otros nombres": "Sistema de Transporte Espacial-82",
+    "Tipo de misión": "Servicio Hubble",
+    "Operador": "NASA",
+    "Órbitas completadas": "149",
+    "Distancia recorrida": "3800000 mi",
+    "Duración de la misión": "9 días, 23 horas, 38 minutos, 9 segundos",
+    "Masa en el lanzamiento": "116884 kg",
+    "Masa de la carga útil": "83122 kg",
+    "Lugar de lanzamiento": "Kennedy, LC-39A",
+    "Fecha de lanzamiento": "11 de febrero de 1997, 08:55:17 UTC",
+    "Fecha de aterrizaje": "21 de febrero de 1997, 08:32 UTC",
+    "Lugar de aterrizaje": "Kennedy, SLF Runway 15",
+    "Tripulación": "Kenneth D. Bowersox; Scott J. Horowitz; Joseph R. Tanner; Steven A. Hawley; Gregory J. Harbaugh; Mark C. Lee; Steven L. Smith",
+    "Acoplamiento": "destino de acoplamiento: Hubble | tipo de acoplamiento: captura | tipo de anulación: amarre | fecha de captura: 13 de febrero de 1997, 08:34 UTC | fecha de lanzamiento: 19 de febrero de 1997, 06:41 UTC",
+    "Sistema de referencia orbital": "Geocéntrico",
+    "Régimen orbital": "Órbita terrestre baja",
+    "Periapsis": "475 km",
+    "Apoapsis": "574 km",
+    "Periodo orbital": "95,2 min",
+    "Inclinación orbital": "28.4698 grados",
+    "Programa": "Programa de transporte espacial",
+    "Misión anterior": "STS-81",
+    "Misión siguiente": "STS-83",
+    "Programa (2)": "Misiones del telescopio espacial Hubble",
+    "Misión anterior (2)": "STS-61 (SM1; Misión de prestación de servicios 1)",
+    "Misión siguiente (2)": "STS-103 (SM3A; Misión de Servicios 3A)"
+  },
+  "resumen": "STS-82 fue el 22o vuelo del Space Shuttle Discovery y la 82a misión del programa Space Shuttle. Fue la segunda misión de la NASA para el servicio del Telescopio Espacial Hubble, durante el cual la tripulación de Discovery reparó y actualizó los instrumentos científicos del telescopio, aumentando sus capacidades de investigación. Descubrimiento lanzado desde el Centro Espacial Kennedy, Florida, el 11 de febrero de 1997, regresando a la Tierra el 21 de febrero de 1997, en el Centro Espacial Kennedy.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Discovery fue tripulado por un equipo de siete personas para la misión STS-82."
+    },
+    {
+      "titulo": "Paseos espaciales",
+      "nivel": 3,
+      "texto": "EVA 1 Lee y Smith\nInicio: 14 de febrero de 1997 – 04:34 UTC\nFin: 14 de febrero de 1997 – 11:16 UTC\nDuración: 6 horas, 42 minutos\nEVA 2 Harbaugh y Tanner\nInicio: 15 de febrero de 1997 – 03:25 UTC\nFin: 15 de febrero de 1997 – 10:52 UTC\nDuración: 7 horas, 27 minutos\nEVA 3 Lee y Smith\nInicio: 16 de febrero de 1997 – 02:53 UTC\nFin: 16 de febrero de 1997 – 10:04 UTC\nDuración: 7 horas, 11 minutos\nEVA 4 Harbaugh y Tanner\nInicio: 17 de febrero de 1997 – 03:45 UTC\nFin: 17 de febrero de 1997 – 10:19 UTC\nDuración: 6 horas, 34 minutos\nEVA 5 Lee y Smith\nInicio: 18 de febrero de 1997 – 03:15 UTC\nFin: 18 de febrero de 1997 – 08:32 UTC\nDuración: 5 horas, 17 minutos"
+    },
+    {
+      "titulo": "Objetivos de la misión",
+      "nivel": 2,
+      "texto": "La misión STS-82 fue la segunda de una serie de misiones de servicio planificadas para el Telescopio Espacial Hubble en órbita (\"HST\"), que había sido colocado en órbita el 24 de abril de 1990, por Discovery durante el STS-31. La primera misión de servicio fue realizada por el transbordador espacial Endeavour en STS-61. El trabajo realizado por la tripulación de Discovery mejoró significativamente la capacidad científica del HST y ayudó a mantener el funcionamiento del telescopio sin problemas hasta las próximas misiones de servicio programadas, que fueron STS-103 en 1999 y STS-109 en 2002.\nEn el tercer día de la misión, el equipo de siete miembros de Discovery dirigió la primera de cuatro caminatas espaciales (también llamadas Actividades Extravehiculares o \"EVAs\") para quitar dos instrumentos antiguos e instalar dos nuevos instrumentos de astronomía, así como realizar otras tareas de servicio. Los dos instrumentos antiguos que fueron reemplazados fueron el espectrógrafo de alta resolución Goddard y el espectrógrafo de objetos débiles, intercambiados por el espectrógrafo de imágenes del telescopio espacial (STIS) y la cámara infrarroja cercana y el espectrómetro multiobjeto (NICMOS), respectivamente.\nAdemás de instalar los nuevos instrumentos, los astronautas reemplazaron otros equipos existentes con mejoras y repuestos. Hubble recibió un Sensor de Orientación Fine reformado, un dispositivo óptico utilizado para proporcionar información de apuntamiento para el telescopio y como un instrumento científico para la ciencia astrométrica. El registrador de estado sólido (SSR) sustituyó a uno de los tres grabadores de cinta de ciencia de ingeniería de HST (ESTR). Un ESTR es un grabador de cinta de carrete a carrete. La SSR, en comparación con un ESTR, puede realizar la grabación y reproducción simultáneas de datos, y almacenar diez veces más datos. También se reemplazó otro ESTR, pero con una unidad ESTR de repuesto. Uno de los cuatro conjuntos de ruedas de reacción del Hubble (RWA) -- parte del subsistema de control de apuntamiento del telescopio -- fue reemplazado por un repuesto reformado. Los RWA utilizan el impulso angular para mover y mantener el telescopio en la posición deseada. Los ejes de la rueda están orientados para que el telescopio pueda proporcionar a la ciencia con sólo tres ruedas que funcionan, si es necesario. El estudio del mecanismo de retorno brindó una oportunidad rara para estudiar equipos que habían sido sometidos a un servicio a largo plazo (7 años) en el espacio, especialmente para los efectos del vacío en lubricantes que se encontraban en \"excelente condición\"."
+    },
+    {
+      "titulo": "Resultados de la misión",
+      "nivel": 2,
+      "texto": "STS-82 demostró de nuevo la capacidad del transbordador espacial para prestar servicio en órbita a las naves espaciales. La tripulación de Discovery completó el servicio y la actualización del Telescopio Espacial Hubble durante cuatro EVAs planeados, realizando posteriormente una quinta caminata espacial no programada para reparar el aislamiento del telescopio.\nEl Telescopio Espacial Hubble fue desplegado en abril de 1990 durante el STS-31. Fue diseñado para ser objeto de servicios periódicos y mejoras durante su período de vida previsto de 15 años, con los primeros servicios prestados durante el período STS-61 en diciembre de 1993. Hawley, quien originalmente desplegó el telescopio, operó el brazo del Sistema Remoto de Manipulador orbitador en STS-82 para recuperar el telescopio para su segundo servicio a las 3:34 am EST, 13 de febrero, y lo colocó sobre la bahía de carga útil de Discovery menos de media hora después.\nBasándose en más de 150 herramientas y ayudantes de tripulación, Lee y Smith realizaron EVAs 1, 3 y 5, con Harbaugh y Tanner realizando EVAs 2 y 4. EVA 1 comenzó a las 11:34 pm EST, 13 de febrero, y duró seis horas, 42 minutos. Uno de los conjuntos solares de Hubble fue inesperadamente perturbado por una ráfaga de aire de la esclusa de aire de Discovery cuando fue despresurizado, pero no fue dañado. Lee y Smith quitaron dos instrumentos científicos del Hubble, el espectrógrafo de alta resolución Goddard (GHRS) y el espectrógrafo de objetos débiles (FOS), y los reemplazaron con el espectrógrafo de imágenes del telescopio espacial (STIS) y la cámara infrarroja cercana y el espectrómetro multiobjeto (NICMOS), respectivamente. STIS esperaba arrojar más luz sobre los agujeros negros supermasivos. NICMOS cuenta con detectores infrarrojos más capaces y dio a los astrónomos su primera vista clara del universo en longitudes de onda próximas al infrarrojo entre 0,8 y 2,5 micrómetros.\nEVA 2 comenzó a las 10:25 pm, 14 de febrero, y duró siete horas, 27 minutos. Harbaugh y Tanner reemplazaron un sensor de guía fina degradado y una grabadora de cinta de ingeniería y ciencia fallida con nuevos repuestos. También se instaló una nueva unidad llamada Optical Control Electronics Enhancement Kit, que aumentó aún más la capacidad del Sensor de Orientación Fina. Durante este EVA los astronautas observaron grietas y desgaste en el aislamiento térmico en el lado de HST frente al sol y en la dirección de viaje.\nEVA 3 comenzó a las 9:53 pm, 15 de febrero, y duró siete horas, 11 minutos. Lee y Smith eliminaron y reemplazaron una unidad de interfaz de datos en Hubble, así como una grabadora de cinta de ingeniería y ciencia de carrete a carrete con una nueva grabadora de estado sólido digital (SSR) que permitió la grabación y reproducción simultáneas de datos. También cambió una de las cuatro unidades de montaje de rueda de reacción que utilizan el impulso de giro para mover el telescopio hacia un objetivo y mantenerlo en una posición estable. Después de este EVA, los directores de misión decidieron añadir EVA 5 para reparar el aislamiento térmico en HST.\nEVA 4 comenzó a las 10:45 pm, 16 de febrero, y duró seis horas, 34 minutos. Harbaugh y Tanner reemplazaron un paquete de Solar Array Drive Electronics que controla el posicionamiento de los conjuntos solares de Hubble. También se reemplazaron las cubiertas sobre los magnetómetros de Hubble y se colocaron mantas térmicas de material multicapa en dos áreas de aislamiento degradado alrededor de la parte del escudo de luz del telescopio justo debajo de la parte superior del observatorio. Mientras tanto, dentro de Discovery Horowitz y Lee trabajaron en el centro de la cubierta para fabricar nuevas mantas aislantes para HST.\nLa última caminata espacial, EVA 5, duró cinco horas, 17 minutos. Lee y Smith adjuntaron varias mantas de aislamiento térmico a tres compartimentos de equipos en la parte superior de la sección del módulo de sistemas de soporte del telescopio que contienen paquetes clave de procesamiento de datos, electrónica y telemetría de instrumentos científicos. STS-82 EVA total de 33 horas, 11 minutos es aproximadamente dos horas antes del tiempo total de EVA registrado en la primera misión de servicio.\nLos aviones de maniobra de Discovery dispararon varias veces durante la misión para reiniciar la órbita del telescopio por ocho millas náuticas. Hubble fue redesplegado el 19 de febrero a las 1:41 am, en una órbita de 335 nmi por 321 nmi. La comprobación inicial de nuevos instrumentos y equipo durante la misión mostró que todos estaban funcionando nominalmente. La calibración de los dos nuevos instrumentos científicos tuvo lugar durante varias semanas, con las primeras imágenes y datos previstos en unas ocho a diez semanas."
+    },
+    {
+      "titulo": "Llamadas de atención",
+      "nivel": 2,
+      "texto": "La NASA comenzó una tradición de tocar música a los astronautas durante el programa Gemini, que se utilizó por primera vez para despertar a una tripulación de vuelo durante el Apollo 15.\nCada pista es especialmente elegida, a menudo por sus familias, y generalmente tiene un significado especial para un miembro individual de la tripulación, o es aplicable a sus actividades diarias."
+    },
+    {
+      "titulo": "Resumen del intercambio de instrumentos",
+      "nivel": 2,
+      "texto": "Cámara infrarroja cercana y espectrómetro multiobjeto (NICMOS) reemplaza al espectrógrafo de alta resolución Goddard (GHRS)\nEspectrógrafo de Imágenes de Telescopio Espacial (STIS) sustituido por Espectrógrafo de Objetos Desmayos (FOS)"
+    }
+  ],
+  "num_palabras": 1500
+}

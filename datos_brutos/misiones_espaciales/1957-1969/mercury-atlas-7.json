@@ -1,0 +1,25 @@
+{
+  "titulo": "Mercury Atlas 7",
+  "titulo_wikipedia_en": "Mercury-Atlas 7",
+  "fecha_lanzamiento": "1962-05-24",
+  "año_lanzamiento": 1962,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Mercury_Atlas_7",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {},
+  "resumen": "El Mercury-Atlas 7 fue una misión tripulada del programa Mercury de Estados Unidos, lanzada el 24 de mayo de 1962 usando un cohete Atlas. La cápsula fue llamada Aurora 7, y estaba pilotada por el astronauta Scott Carpenter.\nEl vuelo de Carpenter en la cápsula Aurora 7 fue un reto. El combustible para maniobrar los propulsores se agotó con tal rapidez que el control de la misión dio orden de terminar el vuelo tras completar la segunda órbita.",
+  "secciones": [
+    {
+      "titulo": "Datos",
+      "nivel": 2,
+      "texto": "Fecha: 24 de mayo de 1962\nMasa: 1350 kg\nNúmero de órbitas: 3\nApogeo: 260 km\nPerigeo: 154 km\nInclinación: 32.5°\nPeriodo orbital: 88,3 min\nTripulación: 1"
+    }
+  ],
+  "num_palabras": 105
+}

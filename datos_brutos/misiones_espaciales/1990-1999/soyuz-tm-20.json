@@ -1,0 +1,55 @@
+{
+  "titulo": "Soyuz TM-20",
+  "titulo_wikipedia_en": "Soyuz TM-20",
+  "fecha_lanzamiento": "1994-10-03",
+  "año_lanzamiento": 1994,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Soyuz_TM-20",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Transporte de la tripulación de Mir",
+    "Operador": "Rosaviakosmos",
+    "ID COSPAR": "1994-063A",
+    "Nº SATCAT": "23288",
+    "Duración de la misión": "169 días, 5 horas, 21 minutos, 35 segundos",
+    "Órbitas completadas": "~2,760",
+    "Nave": "Soyuz 7K-STM No.69",
+    "Tipo de nave": "Soyuz-TM",
+    "Fabricante": "RKK Energia",
+    "Masa en el lanzamiento": "7170 kg",
+    "Fecha de lanzamiento": "3 de octubre de 1994, 22:42:30 UTC",
+    "Vehículo de lanzamiento": "Soyuz-U2",
+    "Lugar de lanzamiento": "Baikonur 1/5",
+    "Fecha de aterrizaje": "22 de marzo de 1995, 04:04:05 UTC",
+    "Tripulación": "Aleksandr Viktorenko\nYelena Kondakova",
+    "Tripulación en el lanzamiento": "Ulf Merbold",
+    "Tripulación en el aterrizaje": "Valeri Polyakov",
+    "Indicativo": "| (Vityaz' – Knight)",
+    "Época": "3 de noviembre de 1994",
+    "Sistema de referencia orbital": "Geocéntrico",
+    "Régimen orbital": "Órbita terrestre baja",
+    "Periapsis": "392 km",
+    "Apoapsis": "394 km",
+    "Inclinación orbital": "51,6 grados",
+    "Periodo orbital": "92,42 minutos",
+    "Acoplamiento": "target de acoplamiento: Mir | tipo de acoplamiento: dock | puerto de acoplamiento: Core forward | fecha de acoplamiento: 6 de octubre de 1994, 00:28:15 UTC | fecha de acoplamiento: 22 de marzo de 1995, 00:43:08 UTC",
+    "Misión anterior": "Soyuz TM-19",
+    "Misión siguiente": "Soyuz TM-21",
+    "Programa": "Programa Soyuz\n(Misiones decretadas)"
+  },
+  "resumen": "Soyuz TM-20 fue la 20a expedición a la Estación Espacial Rusa Mir. Lanzó a los cosmonautas rusos Aleksandr Viktorenko, Yelena Kondakova y el cosmonauta alemán Ulf Merbold.",
+  "secciones": [
+    {
+      "titulo": "Aspectos destacados de la misión",
+      "nivel": 2,
+      "texto": "El vuelo transportaba 10 kg de equipo para ser utilizado por Merbold en el Euromir de la AEE durante un mes\nPrograma de experimentos 94. Durante la aproximación automática al puerto delantero de Mir, el\nLa nave espacial lanzó inesperadamente. Viktorenko completó un acoplamiento manual\nsin incidentes adicionales."
+    }
+  ],
+  "num_palabras": 75
+}

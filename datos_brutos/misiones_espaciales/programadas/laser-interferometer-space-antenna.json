@@ -1,0 +1,36 @@
+{
+  "titulo": "Laser Interferometer Space Antenna",
+  "titulo_wikipedia_en": "Laser Interferometer Space Antenna",
+  "fecha_lanzamiento": "2035",
+  "año_lanzamiento": 2035,
+  "estado": "programada",
+  "tipo_mision": [
+    "Telescopio espacial",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Laser_Interferometer_Space_Antenna",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {},
+  "resumen": "Laser Interferometer Space Antenna, (LISA) es un proyecto conjunto de la ESA y la NASA para medir ondas gravitacionales, una de las predicciones de la Relatividad general propuesta por Albert Einstein. El estudio de este fenómeno ayudará a contestar preguntas sobre el comienzo del universo, su hipotético fin o sus límites.",
+  "secciones": [
+    {
+      "titulo": "Datos de la estructura de la misión",
+      "nivel": 2,
+      "texto": "LISA consta de tres naves espaciales, con forma de discos de hockey, orbitando a cinco millones de kilómetros entre sí, formando un triángulo equilátero. Cada nave espacial transporta instrumentos que le permitirán rastrearse entre sí y actúan conjuntamente para medir las ondas gravitacionales que pasan cerca. LISA captará variaciones de longitud de onda de apenas unas décimas del tamaño de un átomo.\nComo método matemático utilizarán la trilateración para determinar las posiciones relativas de objetos usando la geometría de triángulos."
+    },
+    {
+      "titulo": "Datos de las naves",
+      "nivel": 2,
+      "texto": "Cada nave espacial tiene forma cilíndrica, de 1,8 metros de diámetro y 0,48 metros de largo, con forma de «disco de hockey», poseen paneles solares que funcionan como alimentación extra para las naves. El equipo de telecomunicaciones consta de dos antenas de radio de banda X de 30 centímetros de diámetro, para comunicarse con las estaciones terrestres."
+    },
+    {
+      "titulo": "Prueba tecnológica",
+      "nivel": 2,
+      "texto": "Debido a la complejidad tecnológica que necesita esta misión, sobre todo en lo que refiere a la precisión de la tecnología interferométrica, la ESA ha decidido lanzar un precursor de la misión con el propósito de comprobar que se pueden alcanzar los requisitos tecnológicos de LISA. Esta misión se denomina LISA Pathfinder (LPF), su lanzamiento fue efectuado en diciembre de 2015 y en ella participan científicos de varios países europeos, incluido España."
+    }
+  ],
+  "num_palabras": 260
+}

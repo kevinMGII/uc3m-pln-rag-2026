@@ -1,0 +1,58 @@
+{
+  "titulo": "Hakuto-R M1",
+  "titulo_wikipedia_en": "Hakuto-R Mission 1",
+  "fecha_lanzamiento": "2022-12-11",
+  "año_lanzamiento": 2022,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración lunar",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Hakuto-R_M1",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Finalizada",
+    "Tipo de misión": "Alunizaje",
+    "Operador": "ispace",
+    "ID COSPAR": "2022-168A",
+    "Nº SATCAT": "54696",
+    "Nave": "Hakuto-R",
+    "Tipo de nave": "Alunizador",
+    "Masa en el lanzamiento": "~1000 kilogramos",
+    "Masa en seco": "340 kilogramos",
+    "Dimensiones": "2.3 x 2.6 metros",
+    "Fecha de lanzamiento": "11 de diciembre de 2022, 07:38 UTC",
+    "Lugar de lanzamiento": "Cabo Cañaveral 39A",
+    "Vehículo de lanzamiento": "Falcon 9 Block 5",
+    "Datos interplanetarios": "tipo: impacto_aterrizador | objeto: Luna | fecha llegada: 25 de abril de 2025, 16:40 UTC | localización: Cráter Atlas",
+    "Programa": "Hakuto-R",
+    "Misión siguiente": "Hakuto-R M2"
+  },
+  "resumen": "Hakuto-R Mission 1 fue una fallida misión privada japonesa de alunizaje sin tripulación que se lanzó en diciembre de 2022 y finalizó en abril de 2023. Principalmente un demostrador tecnológico, el módulo de aterrizaje fue construido y operado por ispace y llevaba la Misión Lunar de los Emiratos. Recorriendo aproximadamente 1.400.000 kilómetros, es lo más lejos que ha viajado una nave espacial con financiación privada. Se perdió la comunicación con el módulo de aterrizaje durante los últimos segundos de su descenso en abril de 2023.",
+  "secciones": [
+    {
+      "titulo": "Antecedentes",
+      "nivel": 2,
+      "texto": "El proyecto comenzó con el ingeniero Andrew Barton en 2008, quien buscó ganar el premio Google Lunar X al aterrizar un rover privado en la Luna y reunió a un grupo internacional de profesionales para crear White Label Space. Takeshi Hakamada fundaría ispace en 2010 como una rama japonesa de White Label Space. Muchos de los profesionales abandonaron el proyecto en 2013, aunque un grupo de miembros japoneses trató de continuar con el proyecto, que cambió su nombre de White Label Space a Hakuto, basado en un conejo blanco mitológico japonés. Para 2017, ispace había asegurado 90 millones de dólares en fondos y, aunque ningún equipo en el Google Lunar X Prize se lanzó antes de la fecha límite de 2018, el equipo de Hakuto continuaría. En abril de 2022, iSpace se colocó en la Bolsa de Valores de Tokio y recibió un aumento del 65 % en el precio de sus acciones en dos semanas."
+    },
+    {
+      "titulo": "Especificaciones del módulo de aterrizaje",
+      "nivel": 2,
+      "texto": "El módulo de aterrizaje Hakuto-R se tenía 2,3 metros de alto por 2,6 metros de ancho, con un peso total de aproximadamente 1000 kilogramos con su carga útil y combustible. Para realizar un aterrizaje estable, el módulo de aterrizaje estaba equipado con cuatro patas de aterrizaje y un propulsor principal."
+    },
+    {
+      "titulo": "Misión",
+      "nivel": 2,
+      "texto": "Hakuto-R Mission 1 se lanzó el 11 de diciembre de 2022 a bordo de un cohete Falcon 9, separándose del cohete 47 minutos después a una distancia de unos 970 kilómetros de la Tierra. Dentro de la nave espacial, la carga útil principal era el rover Rashid de la Misión Lunar de los Emiratos en asociación con el Centro Espacial Mohammed bin Rashid (MBRSC), junto con el robot lunar transformable SORA-Q, desarrollado por la compañía Tomy y la JAXA. El módulo de aterrizaje también albergaba otra carga útil, un disco de música con la canción \"SORATO\" de la banda de rock japonesa Sakanaction, que se lanzó inicialmente en 2018 como parte de la campaña Team Hakuto para Google Lunar X Prize.\nUtilizando los datos recopilados de una misión de exploración lunar anterior, ispace determinó que la misión intentaría aterrizar en el cráter Atlas en la región Mare Frigoris de la Luna; Se seleccionaron otras tres ubicaciones de respaldo, como las de Lacus Somniorum, Sinus Iridum y Oceanus Procellarum, entre otras. En un esfuerzo por conservar combustible, la misión utilizó un camino más lento para acercarse a la Luna y entró en órbita lunar en marzo de 2023."
+    },
+    {
+      "titulo": "Intento de aterrizaje",
+      "nivel": 2,
+      "texto": "Después de un tiempo de viaje de cinco meses, la misión viajó 1 400 000 kilómetros, más que cualquier nave espacial de financiación privada, para intentar un aterrizaje lunar el 25 de abril de 2023.\nDurante la transmisión en vivo oficial, entre los cuatro posibles lugares de aterrizaje, el sitio en Lacus Somniorum se mostró inicialmente en la animación, diciendo que se basó en la telemetría en tiempo real del módulo de aterrizaje; eso más tarde resultó ser engañoso, ya que la telemetría proveniente del módulo de aterrizaje no era confiable, y el lugar real del intento de aterrizaje estaba cerca del cráter Atlas, como se decidió inicialmente.\nLa comunicación con Hakuto-R Mission 1 se perdió durante los momentos finales del descenso a la superficie lunar a las 16:40 UTC (00:40 JST) del 25 de abril. El equipo de iSpace confirmó que la nave espacial de 90 millones de dólares probablemente se estrelló durante su aterrizaje en la luna. El análisis determinó que una pérdida de propulsor en la etapa final del aterrizaje provocó un descenso rápido y un aterrizaje forzoso en la superficie lunar, junto con un error de software al determinar la altitud actual desde el suelo. El lugar del accidente fue identificado más tarde por el equipo de Lunar Reconnaissance Orbiter de la NASA."
+    }
+  ],
+  "num_palabras": 705
+}

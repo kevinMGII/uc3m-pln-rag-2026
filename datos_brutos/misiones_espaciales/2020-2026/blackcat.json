@@ -1,0 +1,32 @@
+{
+  "titulo": "BlackCAT",
+  "titulo_wikipedia_en": "BlackCAT",
+  "fecha_lanzamiento": "2026-01-11",
+  "año_lanzamiento": 2026,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Telescopio espacial"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/BlackCAT",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Telescopio espacial (Astrofísica)",
+    "Operador": "NASA",
+    "ID COSPAR": "2026-004?",
+    "Nº SATCAT": "673??",
+    "Duración de la misión": "14 meses (previstos)\n(en curso)",
+    "Fabricante": "Estado de Penn",
+    "Fecha de lanzamiento": "11 de enero de 2026, 13:44:50 UTC",
+    "Vehículo de lanzamiento": "Falcon 9 (aumento 1097)",
+    "Lugar de lanzamiento": "Complejo de Lanzamiento Espacial Vandenberg 4",
+    "Contratista del lanzamiento": "SpaceX",
+    "Sistema de referencia orbital": "Geocéntrico",
+    "Régimen orbital": "Amanecer/ocaso órbita síncrona solar"
+  },
+  "resumen": "BlackCAT (Black Hole Coded Aperture Telescope) es un pequeño telescopio espacial de rayos X en forma de 6U CubeSat desarrollado por la NASA y Penn State. Su objetivo es observar ráfagas de rayos gamma, contrapartes a eventos multi-mensajero, y otros eventos astronómicos transitorios de alta energía. La nave espacial se lanzó el 11 de enero de 2026 en una misión de reparto de Falcon 9 \"Crepúsculo\" junto con otra misión de astronomía de la NASA: Pandora y SPARCS. Se espera que la nave espacial se someta a dos meses de puesta en marcha en órbita seguida de una misión científica de un año. Se espera que su vida orbital sea de aproximadamente 10 años.",
+  "secciones": [],
+  "num_palabras": 114
+}

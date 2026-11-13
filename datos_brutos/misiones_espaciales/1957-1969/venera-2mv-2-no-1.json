@@ -1,0 +1,71 @@
+{
+  "titulo": "Venera 2MV-2 No.1",
+  "titulo_wikipedia_en": "Venera 2MV-2 No.1",
+  "fecha_lanzamiento": "1962-09-12",
+  "año_lanzamiento": 1962,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración de Venus",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Venera_2MV-2_No.1",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Venus vuela",
+    "Operador": "OKB-1",
+    "Designación Harvard": "1962 Alpha Phi 1",
+    "ID COSPAR": "1962-045A",
+    "Nº SATCAT": "389",
+    "Duración de la misión": "Fallo de lanzamiento",
+    "Tipo de nave": "2MV-2",
+    "Fabricante": "OKB-1",
+    "Masa en el lanzamiento": "6500 kg",
+    "Fecha de lanzamiento": "12 de septiembre de 1962, 00:59:13 UTC",
+    "Vehículo de lanzamiento": "Molniya 8K78 s/n T103-14",
+    "Lugar de lanzamiento": "Baikonur 1/5",
+    "Época": "1962-09-11, 21:40:00 UTC",
+    "Sistema de referencia orbital": "Geocéntrico",
+    "Régimen orbital": "Tierra baja (conseguida)\nHeliocéntrico (previsto)",
+    "Semieje mayor": "6550 km",
+    "Excentricidad": "0.02977",
+    "Periapsis": "163 km",
+    "Apoapsis": "195 km",
+    "Inclinación orbital": "64,8 grados",
+    "Periodo orbital": "88,07 minutos",
+    "Programa": "Venera",
+    "Misión anterior": "Venera 2MV-1 No.2",
+    "Misión siguiente": "Kosmos 21"
+  },
+  "resumen": "Venera 2MV-2 No.1, también conocido como Sputnik 21 en el oeste, fue una nave espacial soviética, que fue lanzada en 1962 como parte del programa Venera, y tenía la intención de hacer un vuelo de Venus. Debido a un problema con el cohete que lo lanzó, no pudo salir de la órbita terrestre baja, y volvió a entrar en la atmósfera unos días después. Fue la única nave espacial Venera 2MV-2 jamás lanzada.",
+  "secciones": [
+    {
+      "titulo": "Lanzamiento",
+      "nivel": 2,
+      "texto": "Venera 2MV-2 No.1 fue lanzado a las 00:59:13 UTC el 12 de septiembre de 1962, sobre un cohete portador Molniya 8K78 que volaba desde el Sitio 1/5 en el cosmódromo de Baikonur. El cohete se realizó nominalmente hasta el corte de la etapa Blok I, después de la inyección en una órbita terrestre baja. Tras el corte, una de las válvulas oxidantes no se cerró, y se permitió que el oxígeno líquido fluyera a la cámara de combustión de uno de los propulsores vernier. El propulsor de Vernier explotó en T+531 segundos, haciendo que el cohete cayera fuera de control. Esto llevó a la formación de burbujas en la bomba oxidante de la etapa superior, lo que hizo que el motor de la etapa superior fallara menos de un segundo después de la ignición. Volvió a entrar en la atmósfera el 14 de septiembre de 1962, dos días después de su lanzamiento."
+    },
+    {
+      "titulo": "Instrumentos científicos",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Autobús de naves espaciales",
+      "nivel": 3,
+      "texto": "Fuente:\nMagnetómetro\nContador de centelleo\nContadores Geiger de descarga de gas\nDetector Cherenkov\nTrampas de iones\nDetector de ondas cósmicas\nDetector de micrometeoroides"
+    },
+    {
+      "titulo": "Módulo de instrumentos",
+      "nivel": 3,
+      "texto": "Fuente:\nSistema de imágenes\nEspectrómetro ultravioleta\nEspectrómetro infrarrojo"
+    },
+    {
+      "titulo": "Designación de la nave espacial",
+      "nivel": 2,
+      "texto": "Las designaciones Sputnik 25, y posteriormente Sputnik 21, fueron utilizadas por el Comando Espacial Naval de los Estados Unidos para identificar la nave espacial en sus documentos Resumen de Situación Satelital, ya que la Unión Soviética no difundió las designaciones internas de su nave espacial en ese momento, y no le había asignado un nombre oficial debido a que no había salido de la órbita geocéntrica."
+    }
+  ],
+  "num_palabras": 322
+}

@@ -1,0 +1,40 @@
+{
+  "titulo": "Tianwen-3",
+  "titulo_wikipedia_en": "Tianwen-3",
+  "fecha_lanzamiento": "2028",
+  "año_lanzamiento": 2028,
+  "estado": "programada",
+  "tipo_mision": [
+    "Exploración de Marte"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Tianwen-3",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Retorno de muestras en Marte",
+    "Operador": "CNSA",
+    "Fabricante": "CAST",
+    "Fecha de lanzamiento": "2028 (previsto)",
+    "Vehículo de lanzamiento": "Orbitador/Retorno a la Tierra: Larga Marcha 5\nMódulo de aterrizaje/ascenso: Larga Marcha 5",
+    "Lugar de lanzamiento": "Wenchang",
+    "Programa (2)": "Programa Tianwen",
+    "Misión anterior (2)": "Tianwen-2",
+    "Misión siguiente (2)": "Tianwen-4"
+  },
+  "resumen": "Tianwen-3 (chino: 天问三号) es una misión robótica de retorno de muestras en Marte planificada por la Administración Nacional del Espacio de China, prevista para lanzarse en 2028, y regresar a la Tierra para 2031.\nLa misión se centra en identificar biofirmas que indican vida en Marte. El perfil de la misión utiliza 2 naves espaciales, un orbitador/retornador terrestre y un módulo de aterrizaje/vehículo de ascenso, similar a las misiones chinas de retorno de muestras lunares Chang'e 5 y Chang'e 6. A diferencia de esas misiones, los vehículos usarán 2 lanzamientos separados a Marte, cada uno a bordo de un cohete Larga Marcha 5 desde el sitio de lanzamiento espacial de Wenchang. Está previsto utilizar la ventana de lanzamiento a Marte de diciembre de 2028 a enero de 2029. Si tiene éxito, sería el primer retorno de muestra marciano en el mundo; el estado del retorno de muestras de Marte NASA-ESA sigue siendo incierto. La misión incluiría medidas de protección planetaria para prevenir la contaminación frontal. Los primeros planes también contemplaban un helicóptero y un robot rastrero, que aún no están confirmados.\nTianwen-3 será la tercera misión a Marte del programa espacial chino, tras el fallido orbitador Yinghuo-1 (2011) y el exitoso orbitador, módulo y rover Tianwen-1 (2020-presente). Es la tercera misión del programa de Exploración Planetaria de China, después de Tianwen-2, una misión de asteroides y cometas.",
+  "secciones": [
+    {
+      "titulo": "Resumen",
+      "nivel": 2,
+      "texto": "En el verano de 2022, durante un foro de tecnología de exploración espacial profunda celebrado en la Universidad de Nankín, Sun Zhezhou, diseñador jefe de la misión Tianwen-1, detalló los planes basados en una arquitectura de 2 lanzamientos. La misión forma parte de la serie de misiones espaciales Tianwen.\nLa arquitectura actual de la misión prevé 2 lanzamientos alrededor de 2028 por el cohete portador Larga Marcha 5. Un lanzamiento enviará un orbitador/vehículo de retorno. Un segundo lanzamiento enviará un módulo de aterrizaje/vehículo de ascenso.\nUna vez que el módulo de aterrizaje llegue a la superficie marciana, recogerá muestras superficiales, mediante un taladro en el módulo y posiblemente un robot móvil autónomo con múltiples patas. Tras varios meses en la superficie marciana y tras almacenar las muestras recogidas por el módulo de aterrizaje y el robot móvil, el vehículo de ascenso despegará desde lo alto del módulo y se reunirá con el orbitador que espera. El vehículo de ascenso transferirá las muestras recogidas al orbitador/vehículo de regreso, que partirá hacia la Tierra. Las muestras serán devueltas a la Tierra mediante un vehículo de reentrada atmosférica.\nEl objetivo principal de la misión es buscar firmas de vida. En 2024, los científicos identificaron 51 posibles lugares de aterrizaje conforme a las restricciones de ingeniería actuales de la misión (altitudes inferiores -3km, latitudes de 17ºN a 30ºN, pendientes inferiores a 8º y 'abundancia de roca' inferior al 10%): 1 en Amazonas Planitia, 12 en Utopía Planitia y 38 en Chryse Planitia o Arabia Terra."
+    },
+    {
+      "titulo": "Colaboración internacional",
+      "nivel": 2,
+      "texto": "El 11 de marzo de 2025, el CNSA abrió la misión de devolución de muestras Tianwen-3 a Marte a posibles socios internacionales. Los equipos internacionales pueden proponer \"cargas útiles que requieran apoyo de la nave Tianwen-3 o instrumentos científicos independientes\" para su inclusión en la nave. Se han asignado 15 kilogramos de masa en la nave Tianwen-3 de retorno a la Tierra para posibles cargas científicas internacionales y otros 5 kilogramos están disponibles para carga útiles compañeras en el orbitador marciano. Las partes interesadas pueden presentar propuestas antes del 30 de junio de 2025, con una selección final prevista para octubre de 2025. El hardware de vuelo para las cargas útiles seleccionadas se entregará en 2027."
+    }
+  ],
+  "num_palabras": 594
+}

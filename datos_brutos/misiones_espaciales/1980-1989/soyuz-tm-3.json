@@ -1,0 +1,53 @@
+{
+  "titulo": "Soyuz TM-3",
+  "titulo_wikipedia_en": "Soyuz TM-3",
+  "fecha_lanzamiento": "1987-07-22",
+  "año_lanzamiento": 1987,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Soyuz_TM-3",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "ID COSPAR": "1987-063A",
+    "Nº SATCAT": "18222",
+    "Duración de la misión": "160 días, 7 horas, 25 minutos, 56 segundos",
+    "Órbitas completadas": "~2,580",
+    "Nave": "Soyuz 7K-STM No. 53",
+    "Tipo de nave": "Soyuz-TM",
+    "Fabricante": "NPO Energia",
+    "Masa en el lanzamiento": "7100 kg",
+    "Fecha de lanzamiento": "22 de julio de 1987, 01:59:17 HUC",
+    "Vehículo de lanzamiento": "Soyuz-U2",
+    "Lugar de lanzamiento": "Baikonur 1/5",
+    "Fecha de aterrizaje": "29 de diciembre de 1987, 09:16:15 HUC",
+    "Lugar de aterrizaje": "140 km NE de Arkalyk",
+    "Tripulación": "Aleksandr Pavlovich Aleksandrov",
+    "Tripulación en el lanzamiento": "Aleksandr Viktorenko\nMuhammed Faris",
+    "Tripulación en el aterrizaje": "Yuri Romanenko\nAnatoli Levchenko",
+    "Indicativo": "Vityaz (caballero)",
+    "Sistema de referencia orbital": "Geocéntrico",
+    "Régimen orbital": "Órbita terrestre baja",
+    "Periapsis": "297 km",
+    "Apoapsis": "353 km",
+    "Inclinación orbital": "51,6 grados",
+    "Periodo orbital": "91,0 minutos",
+    "Acoplamiento": "Fecha de atraque: 24 de julio de 1987, 03:31:23 UTC | fecha de atraque: 29 de diciembre de 1987, 05:58:00 UTC",
+    "Misión anterior": "Soyuz TM-2",
+    "Misión siguiente": "Soyuz TM-4",
+    "Programa": "Programa Soyuz\n(Misiones decretadas)"
+  },
+  "resumen": "Soyuz TM-3 fue el tercer vuelo espacial tripulado que visitó la estación espacial soviética Mir, siguiendo a Soyuz T-15 y Soyuz TM-2. Fue lanzado en julio de 1987, durante la expedición de larga duración Mir EO-2, y actuó como un bote salvavidas para el segundo segmento de esa expedición. Había tres personas a bordo de la nave espacial en el lanzamiento, incluyendo a los dos tripulantes de la semana de misión Mir EP-1, que consistía en el cosmonauta soviético Aleksandr Viktorenko y el sirio Muhammed Faris. Faris fue el primer sirio en viajar al espacio, y a partir de julio de 2025, el único. El tercer cosmonauta lanzado fue Aleksandr Aleksandrov, quien reemplazaría a uno de los miembros de larga duración de la tripulación Aleksandr Laveykin de Mir EO-2. Laveykin había sido diagnosticado por médicos terrestres para tener problemas cardíacos menores, por lo que regresó a la Tierra con la tripulación EP-1 en Soyuz TM-2.\nSoyuz TM-3 aterrizó cerca de finales de diciembre de 1987, desembarcando a ambos miembros de la tripulación de la EO-2, así como al piloto potencial de Buran Anatoli Levchenko, quien había sido lanzado a Mir una semana antes a bordo de Soyuz TM-4.",
+  "secciones": [
+    {
+      "titulo": "Parámetros de la misión",
+      "nivel": 2,
+      "texto": "Masa: 7100 kg\nPerigeo: 297 km\nApogeo: 353 km\nInclinación: 51,6°\nPeríodo: 91,0 minutos"
+    }
+  ],
+  "num_palabras": 212
+}

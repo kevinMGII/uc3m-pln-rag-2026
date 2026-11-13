@@ -1,0 +1,26 @@
+{
+  "titulo": "Soyuz MS-02",
+  "titulo_wikipedia_en": "Soyuz MS-02",
+  "fecha_lanzamiento": "2016-10-19",
+  "año_lanzamiento": 2016,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Soyuz_MS-02",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Vehículo de lanzamiento": "Soyuz-FG",
+    "Fecha de lanzamiento": "Septiembre de 2016",
+    "Nave": "Soyuz MS 11F747",
+    "Programa": "Programa Soyuz",
+    "Misión anterior": "Soyuz MS-01",
+    "Misión siguiente": "Soyuz MS-03"
+  },
+  "resumen": "Soyuz MS-02 es un vuelo espacial del Soyuz que fue planeado para el 23 de septiembre de 2016, pero que debido a dificultades técnicas se lanzó el 19 de octubre de 2016. Transportó a tres miembros de los tripulación de la Expedición 49 de la Estación Espacial Internacional. La nave MS-02 fue el vuelo N° 131 de una nave Soyuz tripulada. La tripulación se compuso del comandante y un ingeniero de vuelo rusos, así como un ingeniero de vuelo estadounidense.",
+  "secciones": [],
+  "num_palabras": 80
+}

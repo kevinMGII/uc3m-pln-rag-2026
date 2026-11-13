@@ -1,0 +1,43 @@
+{
+  "titulo": "Blue Origin NS-26",
+  "titulo_wikipedia_en": "Blue Origin NS-26",
+  "fecha_lanzamiento": "2024",
+  "año_lanzamiento": 2024,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Blue_Origin_NS-26",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Vuelo espacial humano suborbital",
+    "Apogeo suborbital": "105 km",
+    "Nave": "RSS Primer paso",
+    "Fabricante": "Origen azul",
+    "Tripulación": "Efraín Rabin; Nicolina Elrick; Eugene Grin; Rob Ferl; Karsen Kitchen; Eiman Jahangir",
+    "Vehículo de lanzamiento": "Nuevo Shepard (NS4)",
+    "Lugar de lanzamiento": "Corn Ranch, LS-1",
+    "Contratista del lanzamiento": "Origen azul",
+    "Lugar de aterrizaje": "Rancho de maíz",
+    "Programa": "Vuelos nuevos de Shepard",
+    "Misión anterior": "Origen azul NS-25",
+    "Misión siguiente": "Origen azul NS-27"
+  },
+  "resumen": "Blue Origin NS-26 fue una misión suborbital de vuelos espaciales, operada por Blue Origin, lanzada el 29 de agosto de 2024, utilizando el cohete New Shepard.",
+  "secciones": [
+    {
+      "titulo": "Pasajeros",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Detalles",
+      "nivel": 3,
+      "texto": "Los pasajeros del vuelo incluyeron al científico Rob Ferl, financiado por la NASA, que es profesor en la Universidad de Florida. Durante el vuelo, realizó experimentos estudiando el cambio de expresión génica en un tipo de planta cuando la planta fue expuesta a la microgravedad y a otras diferentes fases de vuelo. El profesor Ferl fue el primer investigador financiado por la NASA que voló a bordo de New Shepard (o, de hecho, a bordo de cualquiera de los vehículos espaciales suborbitales comerciales del siglo XXI). Su vuelo y experimentos fueron financiados por el programa de oportunidades de vuelo de la NASA.\nNicolina Elrick es una empresaria. Es ciudadana británica de Escocia y también residente permanente de Singapur, y tiene la intención de convertirse en ciudadana de Singapur.\nEl vuelo de Eiman Jahangir fue patrocinado por la organización aceleradora de vuelos espaciales MoonDAO. Antes y después de su vuelo participó en dos estudios de investigación científica: Hematopoyesis clonal de Vanderbilt e Inflamación en el registro y biorrepositorio de Vasculature (CHIVE), y el estudio de Omics espaciales y Atlas médico (SOMA) en la Universidad Cornell.\nKarsen Kitchen se convirtió en la mujer más joven y más joven estadounidense en cruzar la línea Kármán (100 km) a los 21 años de edad. Anastatia Mayers era en ese momento la mujer más joven en volar al espacio (a más de 50 millas de altitud, definición estadounidense del espacio) y se mantuvo así después del vuelo de Karsen Kitchen."
+    }
+  ],
+  "num_palabras": 271
+}

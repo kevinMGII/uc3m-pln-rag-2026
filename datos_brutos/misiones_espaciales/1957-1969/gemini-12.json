@@ -1,0 +1,53 @@
+{
+  "titulo": "Gemini 12",
+  "titulo_wikipedia_en": "Gemini 12",
+  "fecha_lanzamiento": "1966-11-11",
+  "año_lanzamiento": 1966,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Gemini_12",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Lugar de lanzamiento": "Centro Espacial Kennedy, Florida\nLC 19",
+    "Masa en el lanzamiento": "3.762,1 kg",
+    "Fecha de lanzamiento": "11 de noviembre de 1966\n20:46:33.419 UTC",
+    "Fecha de aterrizaje": "15 de noviembre de 1966\n19:21:04 UTC",
+    "Duración de la misión": "3 días 22 h 34 min 31 s",
+    "Periodo orbital": "88,87 min",
+    "Inclinación orbital": "28,87°",
+    "Órbitas completadas": "59",
+    "Apoapsis": "270,6 km",
+    "Periapsis": "160,8 km",
+    "Misión anterior": "Gemini 11",
+    "Programa": "Programa Gemini"
+  },
+  "resumen": "Gemini 12 (oficialmente Gemini XII) fue un vuelo espacial tripulado de 1966 en el Proyecto Gemini de la NASA. Fue el décimo y último vuelo tripulado de Gemini, el décimo octavo vuelo espacial estadounidense tripulado y el vigésimo sexto vuelo espacial de todos los tiempos, incluidos los vuelos X-15 a lo largo de 100 kilómetros (54 millas náuticas). Dirigido por el veterano de Gemini VII James A. Lovell, el vuelo presentó tres períodos de actividad extravehicular (EVA) por el novato Edwin \"Buzz\" Aldrin, con una duración total de 5 horas y 30 minutos. También logró el quinto encuentro y el cuarto acoplamiento con un vehículo objetivo de Agena.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "James A. Lovell, Comandante\nEdwin Aldrin, Piloto"
+    },
+    {
+      "titulo": "Tripulación de reemplazo",
+      "nivel": 3,
+      "texto": "L. Gordon Cooper, Jr.\nEugene A. Cernan"
+    },
+    {
+      "titulo": "Parámetros de misión",
+      "nivel": 2,
+      "texto": "Masa: 3,762.1 kilogramos\nPerigeo: 160.8 kilómetros\nApogeo: 270.6 kilómetros\nInclinación: 28.87 °\nPeriodo: 88.87 min."
+    },
+    {
+      "titulo": "Acoplamiento",
+      "nivel": 3,
+      "texto": "Acoplado: 11\nde noviembre de 1966 - 01:06:00 UTC\nNo acoplados: 13 de noviembre de 1966 - 20:18:00 UTC"
+    }
+  ],
+  "num_palabras": 156
+}

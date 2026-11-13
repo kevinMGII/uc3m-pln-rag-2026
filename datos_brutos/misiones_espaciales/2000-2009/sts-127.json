@@ -1,0 +1,77 @@
+{
+  "titulo": "STS-127",
+  "titulo_wikipedia_en": "STS-127",
+  "fecha_lanzamiento": "2009-07-15",
+  "año_lanzamiento": 2009,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/STS-127",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Lugar de lanzamiento": "LC-39A",
+    "Fecha de lanzamiento": "15 de julio de 2009 6:03 p. m. EDT",
+    "Nave": "Endeavour",
+    "Fecha de aterrizaje": "31 de julio de 2009 10:48: a. m. EDT",
+    "Duración de la misión": "15 días, 16 horas, 44 minutos, 58 segundos",
+    "Inclinación orbital": "51,6 grados",
+    "Órbitas completadas": "248",
+    "Distancia recorrida": "6.5 millones de millas",
+    "Misión anterior": "STS-125",
+    "Misión siguiente": "STS-128",
+    "Programa": "Programa del Transbordador Espacial"
+  },
+  "resumen": "STS-127 fue una misión del transbordador Endeavour a la Estación Espacial Internacional (EEI). El lanzamiento fue el 15 de julio de 2009 a las 6:03 p. m. EDT. El principal objetivo de la misión STS-127 fue entregar e instalar los dos últimos componentes del módulo experimental japonés Kibo: el Fondo Expuesto (JEM EF), y la sección expuesta del módulo logístico experimental (ELM-ES).",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Mark L. Polansky (3) - Comandante\nDouglas G. Hurley (1) - Piloto\nChristopher J. Cassidy (1) - Especialista 1 de misión\nJulie Payette (2) - Especialista 2 de misión\nDavid A. Wolf (4) - Especialista 3 de misión\nThomas H. Marshburn (1) - Especialista 4 de misión"
+    },
+    {
+      "titulo": "Llevado a la EEI Expedición 20",
+      "nivel": 3,
+      "texto": "Timothy Kopra (1) - Ingeniero de vuelo 2"
+    },
+    {
+      "titulo": "Traído de la EEI Expedición 20",
+      "nivel": 3,
+      "texto": "Koichi Wakata (3) - Ingeniero de vuelo 2"
+    },
+    {
+      "titulo": "Carga útil de la Misión",
+      "nivel": 2,
+      "texto": "Fondo expuesto del Módulo experimental japonés Kibo (JEM FI)\nSección Expuesta del módulo Experimental japonés Kibo Módulo de Logística - (ELM-ES). Una vez que su contenido se transfiera a la JEM EF, el ELM-ES será devuelto a la bahía de carga útil del transbordador.\nIntegrado de carga vertical-Luz de despliegue (ICC-VLD), que contiene:\nSeis baterías nuevas para la instalación de la viga P6. Estas se colocan sobre la CPI-VLD para el retorno a la Tierra.\nLDU (unidad de accionamiento lineal), PM-2 (módulo de la bomba-2), y el SGANT (Antenas espacio-tierra) - todos los cuales serán transferidos al exterior de la plataforma estiba 3(ESP-3) durante una EVA.\nCarga útil DRAGONSAT - Demostrador de GPS para estudiantes de la NASA con doble Picosatellites construidos por Texas A & M University y la Universidad de Texas.\nCarga ANDE-2 - satélites esféricos diseñados por EE. UU. Naval Research Laboratory para medir la densidad y la composición de la atmósfera. Uno de los satélites, Pollux, está ejecutando bibliotecas Arduino, con su carga útil programada y construida por los estudiantes."
+    },
+    {
+      "titulo": "Fuga de gases de hidrógeno posponen el lanzamiento",
+      "nivel": 2,
+      "texto": "El lanzamiento del transbordador espacial Endeavour de la misión STS-127 a la Estación Espacial Internacional se pospuso debido a fugas asociadas a la ventilación del sistema de hidrógeno gaseoso fuera del tanque de combustible externo. El sábado 13 de junio de 2009 a las EDT, Los administradores de la Nasa confirmaron que el lanzamiento se pospondría al menos 96 horas. Los directores de la misión se reunieron el domingo 14 de junio a las a fin de discutir las opciones de reparación y los intentos de lanzamiento del Endeavour. Al término de la reunión hubo una conferencia de prensa y se optó por lanzar el Endeavour el miércoles 17 de junio de 2009 a las EDT.\nLlegada esta fecha, ocurrió lo mismo que el sábado 13 de junio: Las mismas fugas de gases de hidrógeno fueron encontradas en el Endeavour, por lo que LeRoy Cain, el mánager adjunto del programa STS, informó que se usarán los mismos métodos, usados en la STS-119 para solucionar el problema en el ET (tanque externo) del Endeavour. La investigación y la reparación servirá de paso para investigar el por qué se producen estas pérdidas."
+    },
+    {
+      "titulo": "Proceso de investigación y reparación del ET",
+      "nivel": 2,
+      "texto": "Tras un par de semanas de investigación y arduo trabajo por fin se pudo realizar el test de carga de combustible al ET del Endeavour, que fue iniciado el 1 de julio de 2009 a las 6:52 a. m. EDT en el Centro Espacial Kennedy en Florida. Tras su desarrollo no se detectó ninguna fuga de hidrógeno gaseoso, completando un trabajo exitoso, y dictando el 11 de julio de 2009 como fecha del lanzamiento del Endeavour. A las 9 a. m. EDT, el Tanque Externo fue llenado a un 98 % sin fugas detectadas. NASA Televisión transmitió en directo una conferencia de prensa a la 1 p. m. EDT con el administrador integrador del programa STS, Mike Moses y el director del lanzamiento de la STS-127 Pete Nickolenko, quienes confirmaron la noticia y reiteraron que el 11 de julio de 2009, sería lanzado el Endeavour en su misión STS-127."
+    },
+    {
+      "titulo": "Tres intentos fallidos",
+      "nivel": 2,
+      "texto": "El primer intento de lanzamiento de Endeavour luego de las fugas de hidrógeno, fue el 11 de julio, a las EDT y fue cancelado por mal tiempo.\nEl segundo intento de lanzamiento de Endeavour luego de las fugas de hidrógeno, fue el 12 de julio a las EDT y fue cancelado por mal tiempo.\nEl tercer intento de lanzamiento de Endeavour luego de las fugas de hidrógeno, fue el 13 de julio a las EDT y fue cancelado por mal tiempo."
+    },
+    {
+      "titulo": "Sexta y Exitosa oportunidad de lanzamiento de Endeavour",
+      "nivel": 2,
+      "texto": "El transbordador espacial Endeavour, tras 5 oportunidades fallidas de lanzamiento, despegó por fin desde el Centro Espacial Kennedy, en Florida, el miércoles 15 de julio de 2009 a las 6:03 p. m. EDT.\nLa expectativa sobre el dinamismo del clima era muy grande, pero al final todo salió bien y Endeavour despegó desde la plataforma de lanzamiento 39A."
+    },
+    {
+      "titulo": "Aterrizaje de Endeavour",
+      "nivel": 2,
+      "texto": "Luego de casi 16 días en órbita, el Endeavour, regresó al Centro Espacial Kennedy en florida en un aterrizaje perfecto a las EDT, tras cumplir su misión STS-127. Koichi Wakata regresó a la tierra tras 4 meses de estadía en la EEI."
+    }
+  ],
+  "num_palabras": 819
+}

@@ -1,0 +1,36 @@
+{
+  "titulo": "Mars Polar Lander",
+  "titulo_wikipedia_en": "Mars Polar Lander",
+  "fecha_lanzamiento": "1999-01-03",
+  "año_lanzamiento": 1999,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración de Marte",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Mars_Polar_Lander",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {},
+  "resumen": "La Mars Polar Lander (MPL) fue una sonda espacial estadounidense. Fue lanzada por un cohete Delta II 7425 el 3 de enero de 1999 y llegó a Marte el 3 de diciembre de 1999. Era la primera tentativa de aterrizaje en el planeta desde la misión Mars Pathfinder de 1996.\nLa MPL formaba junto a la Mars Climate Orbiter la misión Mars Surveyor '98.\nLa sonda transportaba tres módulos de descenso, la sonda principal, Mars Polar Lander y dos microsondas del experimento Deep Space 2.",
+  "secciones": [
+    {
+      "titulo": "Desarrollo de la misión",
+      "nivel": 2,
+      "texto": "La sonda llegó en buen estado a Marte. Minutos antes de su entrada en la atmósfera, la etapa propulsora que transportaba los módulos de descenso fue eyectada, iniciando la sonda, dentro de una cápsula térmico-mecánica protectora el descenso. Igualmente las dos microsondas Deep Space 2 se desconectaron de la etapa propulsora, iniciando su descenso independientemente de la cápsula principal. Las dos microsondas tenían por nombre Amundsen y Scott, en homenaje a los dos primeros exploradores del polo sur de la Tierra.\nEl punto de aterrizaje de la sonda MPL principal estaba próximo al polo sur marciano, entre 74° sur y 78° sur, a menos de 1000 km de distancia del polo. Esta área es una región en la que la capa de hielo polar avanza y retrocede en función de las estaciones del año marciano.\nEl 3 de diciembre de 1999, diez minutos antes de aterrizar, se perdió el contacto."
+    },
+    {
+      "titulo": "Causa de la pérdida de la misión",
+      "nivel": 2,
+      "texto": "Durante largo tiempo la empresa constructora de la sonda afirmó que esta podría haberse estrellado o ser incapaz de comunicarse con la Tierra a causa de una incorrecta elección del lugar de aterrizaje, a su juicio demasiado accidentado. No obstante, a raíz de investigaciones posteriores esta hipótesis se considera poco creíble.\nTras la embarazosa pérdida de la Mars Climate Orbiter en septiembre del mismo año, la NASA había iniciado una investigación sobre la gestión de su programa marciano. Pocos días antes de la llegada a Marte de la Mars Polar Lander se encontró un error potencialmente catastrófico: el motor de descenso no se había probado a las temperaturas que se encontraría durante el descenso. Según la NASA eso no era preciso, puesto que el motor había volado en otras ocasiones y había funcionado perfectamente. Sin embargo, ante los requerimientos de más información, no se ofrecieron explicaciones de cuáles habían sido esas misiones. Debido a esto se considera probable que el motor no actuara debidamente y la sonda se estrellara contra la superficie marciana.\nInvestigaciones posteriores encontraron otra posible causa que podría haber causado que la sonda se estrellara incluso aunque el motor hubiera funcionado. Durante el descenso la apertura de las patas de aterrizaje era tan brusca que podría haber activado los sensores que indicaban que se había tocado suelo, responsables de parar el motor. Así, la sonda habría parado su motor en pleno vuelo, estrellándose fatalmente contra el suelo.\nEntre 1999 y 2000 se buscó los restos de la Mars Polar Lander usando imágenes de la Mars Global Surveyor. Estos intentos, tras algunas falsas expectativas, resultaron infructuosos. Se espera que la cámara de la Mars Reconnaissance Orbiter, de mayor resolución, pueda finalmente localizar los restos de la sonda.\nNo se conoce la causa exacta de la pérdida de las Deep Space 2. Las posibles causas identificadas son:\nEl transmisor no sobreviviera al impacto.\nEl impacto se efectuara en un terreno demasiado duro.\nLas baterías, que no se habían revisado desde el lanzamiento, podrían haber perdido energía."
+    },
+    {
+      "titulo": "Consecuencias",
+      "nivel": 2,
+      "texto": "Tras el fracaso de la misión se canceló una similar para el año 2001. Esta finalmente ha llegado a volar, con el nombre de Phoenix, lanzada en 2007."
+    }
+  ],
+  "num_palabras": 600
+}

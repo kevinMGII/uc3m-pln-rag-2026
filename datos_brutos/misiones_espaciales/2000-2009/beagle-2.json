@@ -1,0 +1,66 @@
+{
+  "titulo": "Beagle 2",
+  "titulo_wikipedia_en": "Beagle 2",
+  "fecha_lanzamiento": "2003-06-02",
+  "año_lanzamiento": 2003,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración de Marte",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Beagle_2",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Aterrizador",
+    "Operador": "Agencia Espacial Europea",
+    "Fabricante": "EADS Astrium",
+    "Fecha de lanzamiento": "2 de junio de 2003 17:45:00 UTC",
+    "Lugar de lanzamiento": "Cosmódromo de Baikonur\nKazajistán",
+    "Vehículo de lanzamiento": "Soyuz-FG/Fregat",
+    "Duración de la misión": "25-12-2003 03:54:00 UTC\nFallo de la misión el día 206",
+    "ID NSSDC": "2003-022C",
+    "Masa en el lanzamiento": "33,2 kg"
+  },
+  "resumen": "La Beagle 2 es una sonda espacial, que forma parte de la misión Mars Express de la Agencia Espacial Europea. Debía aterrizar en el planeta Marte el 25 de diciembre de 2003. Fue transportada por la sonda Mars Express, lanzada el 2 de junio de 2003, de la que se separó el 19 de diciembre de ese mismo año. Tras muchos infructuosos intentos de establecer comunicación con la sonda, fue declarada oficialmente perdida el 6 de febrero de 2004. El 16 de enero de 2015, fue encontrada su posición en la superficie del planeta usando imágenes tomadas por la cámara HIRISE del Orbitador Mars Reconnaissance Orbiter (MRO) de la NASA.",
+  "secciones": [
+    {
+      "titulo": "Origen",
+      "nivel": 2,
+      "texto": "La sonda Beagle 2 fue concebida y construida por universitarios británicos dirigidos por el profesor Colin Pillinger de la Open University. Los objetivos de Beagle 2 eran la búsqueda de signos de vida en Marte, determinar la composición química y geológica del lugar de aterrizaje y el estudio del clima marciano. Su nombre hace referencia al barco HMS Beagle sobre el cual hizo su viaje Charles Darwin, que revolucionó el conocimiento humano de la vida en la Tierra. En palabras del profesor Pillinger:\nSe seleccionó el lugar de aterrizaje en las coordenadas 10.6°N, 270°W, en Isidis Planitia, una extensa cuenca sedimentaria situada a caballo entre las tierras altas y las planicies del norte de Marte. El aterrizador fue diseñado para operar durante 180 días, aunque se consideraba posible que funcionase durante un año marciano completo (687 días terrestres)."
+    },
+    {
+      "titulo": "Progreso de la misión",
+      "nivel": 2,
+      "texto": "Beagle 2 se separó con éxito de Mars Express el 19 de diciembre de 2003 a las 8:31 UTC. Estaba previsto que la Beagle 2 entrara en la atmósfera marciana a las 2:47 UTC del 25 de diciembre de 2003 a una velocidad de 20.000 km/h. En una primera fase la fricción frenaría a la sonda en su caída libre; aproximadamente a 1 km de la superficie, cuando la velocidad se hubiera reducido a 1.600 km/h, se abrirían unos paracaídas y finalmente se inflarían unos airbags que amortiguarían el impacto con la superficie marciana. El aterrizaje estaba previsto que concluyera a las 2:54 UTC. Una vez en la superficie, los airbags se desinflarían y la sonda, con forma de reloj de bolsillo, se abriría, desplegando sus paneles fotovoltaicos y el brazo robótico.\nA las 5:30 UTC el satélite de la NASA Mars Odyssey sobrevolaría la zona del aterrizaje, siendo ésta la primera oportunidad de contactar con la Beagle 2. Los distintos intentos realizados para intentar contactar con la sonda Beagle 2 fracasaron. Luego se intentó el contacto desde la Tierra desde el observatorio Jodrell Bank (Reino Unido), con el mismo resultado. Entre enero y febrero de 2004 hubo varios intentos de establecer comunicación a través de la Mars Express, que tampoco tuvieron éxito. A pesar de todos los intentos, no se tuvo confirmación del aterrizaje sobre la superficie marciana y la misión se dio por perdida."
+    },
+    {
+      "titulo": "Diseño del aterrizador",
+      "nivel": 2,
+      "texto": "El aterrizador tenía forma de reloj de bolsillo, con altura de 230 mm. La\nbase central contenía la antena de comunicaciones, la otra base contenía\nlos equipos electrónicos, cableado, el brazo robótico, sensores ambientales,\nabsorbedor, y el resto era 4 paneles solares. La masa por separado era de\n68,8 kg, y el aterrizador 33,2 kg, de los cuales 11,4 kg eran de instrumentos\ncientíficos.\nEl control térmico usaba una carcasa de fibra de carbono para absorber\ncalor a la sonda por medio de 1 a 40 °C, aislantes porque los equipos se\nmantienen uno encima de otro. Varias capas envolvían los equipos por toda\nla sonda.\nLas comunicaciones con la sonda usaba un transpondedor de 437 y\n401 MHz, usando una antena UHF en la parte central de la sonda para la\ncomunicación con la nave Mars Express. La velocidad de transmisión es de\n2,8 y 128 kbit/s y los datos eran enviados diariamente entre 0,5 y 5 GB.\nLa electricidad era obtenida por cuatro paneles solares desplegables con\ncélulas de arseniuro de galio. Los cuatro paneles solares se desplegaban\ndesde el centro de la nave. Su superficie total es de 1m. La electricidad\nera almacenada en una batería de Li-Ion con capacidad de 160 Wh. La sonda necesitaba 87 W para operar.\nLa electrónica era para el control de la sonda. El software servía para\nlas funciones, y administración de la sonda y su funcionamiento. Un\nprocesador de 32 bits se usaba para el manejo de datos y control a bordo.\nLos datos se almacenaban en una memoria interna de 1,28 Gb para su posterior transmisión.\nLos instrumentos científicos eran: Un par de cámaras estereoscópicas, un espectrómetro Mössbauer, un espectrómetro de rayos X, un taladro, un microscopio, un espectrómetro de masas, y un sensor de UV, temperatura, viento, presión y polvo. Los instrumentos ópticos estaban\nen un brazo robótico y los ambientales en distintas partes de la sonda."
+    },
+    {
+      "titulo": "Informe de investigación de ESA/Reino Unido e hipótesis sobre su pérdida",
+      "nivel": 2,
+      "texto": "El 11 de febrero de 2004 el gobierno de Reino Unido y la Agencia Espacial Europea anunciaron el inicio de una investigación para tratar de determinar las causas del fracaso de la misión de Beagle 2 y extraer las lecciones oportunas de la experiencia. La comisión de investigación seguiría los procedimientos normales de la ESA e informaría al Director General de esta agencia y al Ministro de Ciencias de Reino Unido Lord Sainsbury.\nEsta comisión de investigación, formada por personas no implicadas directamente en la misión Beagle 2, no encontró una causa única del fracaso de la misión, pero sí diversos factores que aumentaron el riesgo de ésta:"
+    },
+    {
+      "titulo": "Factores programáticos",
+      "nivel": 3,
+      "texto": "Haber tratado Beagle 2 como un instrumento científico en lugar de una compleja e innovadora nave espacial.\nEscasez de fondos garantizados para el desarrollo en las fases iniciales.\nEl abandono del proyecto por parte de la empresa Martin Baker Aircraft (MBA), diseñadores del sistema de entrada, descenso y aterrizaje.\nFalta de una organización de gestión adecuada con experiencia.\nFalta de márgenes adecuados para la gestión y mitigación de riesgos."
+    },
+    {
+      "titulo": "Factores técnicos",
+      "nivel": 3,
+      "texto": "Falta de robustez en el diseño de los airbags y programa de pruebas insuficiente.\nRiesgo de colisión entre la cubierta de la sonda y el paracaídas principal.\nPosible rebote del conjunto sonda-airbag dentro del paracaídas principal.\nPosible soltado prematuro de los airbags de la sonda.\nLa comisión de investigación presentó en su informe una lista de 19 recomendaciones, de las cuales se pueden destacar:\nLas misiones deben estar bajo la responsabilidad de una agencia con recursos y capacidades suficientes para gestionarla. El conjunto módulo de descenso/satélite orbital debería gestionarse de manera única.\nLas cargas científicas críticas para el éxito de la misión o con alto impacto público deberían ser valoradas formalmente y en profundidad por la ejecutiva de la ESA antes de ser aceptadas.\nLas misiones planetarias deberían ser diseñadas con márgenes suficientes, y no iniciarse sin los recursos financieros y temporales adecuados.\nLas misiones de entrada planetaria deberían incorporar un mínimo de telemetría para las fases críticas.\nRealizar las pruebas adecuadas para las tecnologías de descenso y aterrizaje, incluyendo misiones específicas para ello.\nMejorar la tecnología de airbags y paracaídas, aprovechando mejor la experiencia de la que ya disponen EE. UU. y Rusia.\nUna hipótesis reciente postulada por un equipo de científicos australianos sugiere que la sonda se perdió debido a errores de cálculo en la entrada a la atmósfera marciana, los cuales provocaron que empezara a dar vueltas de manera descontrolada."
+    },
+    {
+      "titulo": "El fin del misterio",
+      "nivel": 3,
+      "texto": "El 12 de enero de 2015 se informó que quizás el aterrizador había sido encontrado.\nEl viernes 16 de enero de 2015 la NASA informó que la sonda había sido encontrada gracias a la Mars Reconnaissance Orbiter, y que tres imágenes capturadas por esta sonda mostraban al aterrizador con sus paneles solares parcialmente desplegados.\nLos datos de la MRO confirman que la \"Beagle 2\" aterrizó a seis kilómetros del punto previsto de aterrizaje."
+    }
+  ],
+  "num_palabras": 1286
+}

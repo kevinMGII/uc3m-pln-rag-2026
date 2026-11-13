@@ -1,0 +1,64 @@
+{
+  "titulo": "Manfred Memorial Moon Mission",
+  "titulo_wikipedia_en": "Manfred Memorial Moon Mission",
+  "fecha_lanzamiento": "2014-10-23",
+  "año_lanzamiento": 2014,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración lunar"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Manfred_Memorial_Moon_Mission",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Otros nombres": "4M",
+    "Tipo de misión": "Reconocimiento, memorial",
+    "Operador": "LuxSpace",
+    "ID COSPAR": "2014-065B",
+    "Nº SATCAT": "40284",
+    "Duración de la misión": "19 días",
+    "Fabricante": "LuxSpace",
+    "Masa en el lanzamiento": "Carga útil 14 kg, 3a etapa de cohete a la que la carga útil se unió permanentemente 21.000 kg, total nominal = 21.014 kg",
+    "Masa en seco": "14 kg",
+    "Dimensiones": "61 ×",
+    "Potencia": "4.5 W",
+    "Fecha de lanzamiento": "23 de octubre de 2014, 18:00:04 UTC",
+    "Vehículo de lanzamiento": "3C/G2 de marzo largo",
+    "Lugar de lanzamiento": "Xichang LC-2",
+    "Tipo de fin de misión": "Se ha estrellado",
+    "Destrucción": "4 de marzo de 2022",
+    "Sistema de referencia orbital": "Geocéntrico",
+    "Régimen orbital": "Altamente elíptica",
+    "Periapsis": "1.282 km",
+    "Apoapsis": "404,724 km",
+    "Inclinación orbital": "30.4°",
+    "Periodo orbital": "10,93 días",
+    "Datos interplanetarios": "tipo: flyby | objeto: Luna | fecha de llegada: 28 octubre 2014 | distancia: 13.000 km"
+  },
+  "resumen": "Manfred Memorial Moon Mission (4M) fue la primera sonda lunar privada en volar con éxito por la Luna. Fue dirigido por LuxSpace, una compañía infantil de German OHB System, y nombrado en honor del fundador de OHB Systems, Manfred Fuchs, quien murió en 2014. Fue lanzado con la nave espacial china Chang'e 5-T1 el 23 de octubre de 2014. El vuelo lunar tuvo lugar el 28 de octubre de 2014, después de lo cual la nave espacial entró en la órbita elíptica de la Tierra y continuó la transmisión hasta el 11 de noviembre de 2014, superando en cuatro veces su vida útil diseñada.\nLa nave espacial, junto con la etapa de cohete a la que estaba unida, probablemente hizo impacto con la superficie de la Luna después de que su órbita decayó, el 4 de marzo de 2022. Esto hizo de Luxemburgo el octavo país en llegar a la superficie de la Luna.",
+  "secciones": [
+    {
+      "titulo": "Vehículo espacial",
+      "nivel": 2,
+      "texto": "La sonda de tamaño maletín, con una masa de 14 kg, fue construida por la empresa Luxemburg LuxSpace. Su fuente de energía principal consistía en 28 células de litio Saft LSH20 HTS no recargables, que proporcionaban 4,5 W de potencia para la electrónica de carga útil. Fue conectado permanentemente a la etapa superior de Long March 3C/G2 a través de la misión, y su diseño fue adaptado para funcionar cerca de la interferencia electromagnética del transmisor de banda S de 1 kW del cohete. La fuente de energía secundaria incluía 4 baterías de iones de litio MPS Saft recargadas por una red de paneles solares 2x8, para recargar sus baterías. Sin embargo, a diferencia de la fuente de energía primaria, dependía de la actitud (orientación) y la tasa de rotación de las naves espaciales, lo que determinaba la disponibilidad de luz solar para recargar las baterías. El ordenador de a bordo era un FM430."
+    },
+    {
+      "titulo": "Carga útil",
+      "nivel": 3,
+      "texto": "Radioaficionada\nLa carga útil de radio consistía en una antena monopolo de cuarto de onda apoyada por un modulador I/Q, y un amplificador de potencia RF que proporcionaba 1,5 W de potencia. La antena de la sonda transmitió hasta 2.500 mensajes digitales de 13 caracteres a 145.980 MHz utilizando el modo digital JT65B, con transmisiones de tono adicionales. LuxSpace creó un concurso con premios para los operadores de radio aficionados para recibir estas transmisiones y enviar los resultados a la empresa. La radio fue activada 77,8 minutos después del lanzamiento, y la primera señal de radio fue recibida en Brasil a las 19:18 UTC. El equipo esperaba que 10 participantes se unieran al concurso, pero más de 60 personas participaron. La puntuación se basó en el número de mensajes recibidos.\nDosímetro\nLa sonda 4M presentaba un pequeño dosímetro que midía la radiación ionizante en el espacio. El instrumento fue suministrado por la empresa española iC-Málaga. El instrumento midió la dosis total de ionización cada 5 minutos, y mostró un aumento significativo en las dosis de radiación al cruzar los cinturones de radiación Van Allen. 215 horas en la misión, el sensor de radiación dejó de funcionar por razones desconocidas."
+    },
+    {
+      "titulo": "Misión",
+      "nivel": 2,
+      "texto": "La sonda fue permanentemente conectada a la tercera etapa de Long March 3C/G2 el 23 de octubre de 2014 a las 18:00 UTC junto con Chang'e 5-T1, haciendo su vuelo más cercano un día después de Chang'e 5-T1. El vuelo lunar tuvo lugar durante la noche del 28 de octubre de 2014. Después de eso, la sonda entró en una órbita geocéntrica altamente elíptica con un período de 14 días y permanece en el espacio. La última transmisión de la nave espacial fue recibida el 11 de noviembre de 2014, 01:35 UTC.\nSe espera que el impulsor, junto con 4M, haya impactado en la Luna el 4 de marzo de 2022, cerca del cráter Hertzsprung. Una campaña para readquirir contacto radiofónico con la sonda, sabiendo que teóricamente podría ser reactivada en función de la orientación de los paneles solares, fue realizada tanto por radioastronómicos como por aficionados, pero sin éxito."
+    },
+    {
+      "titulo": "Honoríficos",
+      "nivel": 2,
+      "texto": "La sonda 4M fue la primera sonda lunar privada que realizó con éxito un vuelo lunar. Un vuelo similar realizado el 13 de mayo de 1998 por el satélite PAS-22, en el momento llamado HGS-1, un satélite de comunicaciones geoestacionarias hizo un vuelo lunar en un intento de recuperación después de un lanzamiento parcialmente fallido que lo dejó en una órbita altamente elíptica inutilizable. Utilizando maniobras de asistencia por gravedad, el satélite se recuperó con éxito el 17 de junio. A diferencia de la misión 4M, el HGS-1 no fue diseñado como una misión lunar, e hizo un vuelo sólo en un intento de recuperación, sin embargo, según Hughes Global Services, el operador de satélites en ese momento, reclamó el título de la primera misión comercial a la Luna.\nLa primera carga útil comercial a la superficie de la Luna fue de Celestis, que pagó el transporte comercial de un monumento a restos humanos a bordo del Prospector Lunar, que impactó en la superficie de la Luna el 31 de julio de 1999."
+    }
+  ],
+  "num_palabras": 830
+}

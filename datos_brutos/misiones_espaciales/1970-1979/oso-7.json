@@ -1,0 +1,63 @@
+{
+  "titulo": "OSO 7",
+  "titulo_wikipedia_en": "OSO 7",
+  "fecha_lanzamiento": "1971-09-29",
+  "año_lanzamiento": 1971,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión heliofísica"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/OSO_7",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Operador": "NASA",
+    "ID COSPAR": "1971-083A",
+    "Duración de la misión": "3 años",
+    "Fabricante": "Ball Brothers Research Corporation (BBRC)",
+    "Masa en el lanzamiento": "635 kg",
+    "Fecha de lanzamiento": "29 de septiembre de 1971, 09:50:00 UTC",
+    "Vehículo de lanzamiento": "Delta-N",
+    "Lugar de lanzamiento": "Cape Kennedy LC-17A",
+    "Fecha de reentrada": "9 de julio de 1974",
+    "Época": "29 de septiembre de 1971, 05:50:00 UTC",
+    "Sistema de referencia orbital": "Geocéntrico",
+    "Periapsis": "321,0 km",
+    "Apoapsis": "572,0 km",
+    "Inclinación orbital": "33,10 grados",
+    "Excentricidad": "0.018376",
+    "Órbita movimiento medio": "15.45",
+    "Periodo orbital": "93,20 minutos"
+  },
+  "resumen": "OSO 7 o Observatorio Solar orbitante 7 (NSSDC ID: 1971-083A), antes del lanzamiento conocido como OSO H es el séptimo de la serie de satélites del Observatorio Solar orbitante estadounidense lanzados por la NASA entre 1962 y 1975. OSO 7 fue lanzado desde el Cabo Kennedy (ahora Cabo Cañaveral) el 29 de septiembre de 1971 por un cohete Delta N en una inclinación de 33.1°, órbita terrestre baja (inicialmente 321 por 572 km), y volvió a entrar en la atmósfera de la Tierra el 9 de julio de 1974.\nFue construido por la Ball Brothers Research Corporation (BBRC), ahora conocida como Ball Aerospace, en Boulder Colorado.\nMientras que el diseño básico de todos los satélites OSO era similar, el OSO 7 era más grande [la masa total de la nave espacial era de 635 kg (1397 lb)] que el OSO 1 a través de OSO 6, con un conjunto solar más grande cuadrado-off en el \"Sail\" no giratorio, y una sección más profunda giratoria, el \"Wheel\".",
+  "secciones": [
+    {
+      "titulo": "Instrumentos de vela",
+      "nivel": 2,
+      "texto": "La porción de la \"vela\" de la nave espacial, que se estabilizó para hacer frente al Sol en todos los satélites de la serie OSO, llevaba dos instrumentos en OSO 7, que miraban continuamente al Sol durante el día de órbita.\nSe trata de:\nEl espectroheliógrafo GSFC X-Ray y EUV (que cubre el rango de longitud de onda 2 a 400 Å), bajo la dirección de P.I. Dr. Werner M. Neupert del GSFC de la NASA que imaginó el Sol en las bandas de rayos X ultravioletas y blandos, para determinar la temperatura y la distribución de la materia en la corona por encima de las regiones activas y durante las erupciones solares.\nEl NRL White-Light Coronagraph y Extreme Ultraviolet Corona Experiment, dirigido por el Dr. Richard Tousey del Laboratorio de Investigación Naval de EE.UU., que imaginó la corona mientras que la luz, utilizando un disco de ocultación, permitiendo la comparación entre la estructura de la corona y las regiones activas en la superficie solar."
+    },
+    {
+      "titulo": "Instrumentos de ruedas",
+      "nivel": 2,
+      "texto": "El componente giratorio \"Rueda\" de la nave espacial, que proporcionaba estabilidad giroscópica general al satélite, llevaba cuatro instrumentos, que miraban radialmente hacia el exterior y escaneaban a través del Sol cada 2 segundos.\nDos de ellos eran instrumentos de observación solar, y los otros dos eran instrumentos cósmicos de rayos X:\nUCSD Hard Solar X-Ray Monitoring instrument, P.I. Prof. Laurence E. Peterson. cubrió el rango de energía de 2-300 keV usando detectores de contador proporcional y de centelleador NaI, además de tres pequeños detectores de partículas cargadas para monitorear el ambiente de radiación local.\nMonitor solar de rayos gamma de la UNH. P.I. Prof. Edward Chupp, observó de 0,3 a 10 rayos gamma de la llamarada solar MeV con un espectrómetro de centelleo NaI(Tl) en un escudo anticoincidencia activo CsI(Na).\nMIT Experimento Cósmico de Rayos X, P.I. Prof. George W. Clarke, observó fuentes cósmicas de rayos X en el rango de 1,5 a 9 Å. Este instrumento utilizó contadores proporcionales para observar fuentes de rayos X cósmicos en el rango de 1 a 60 keV, en cinco amplias bandas de energía logarítmicamente espaciadas, con una resolución angular de aproximadamente 1°.\nExperimento Cósmico de Rayos X de la UCSD, IP. Prof. Laurence E. Peterson. Este instrumento, que tenía un campo de visión (FWHM) de unos 6°, miraba perpendicular al eje de giro de la Rueda, barriendo un gran círculo en el cielo cada 2 segundos. A medida que el eje de giro de la Rueda se movía para mantener los instrumentos de Vela apuntando al Sol, escaneaba todo el cielo cada 6 meses. Se presentó un detector de centelleo NaI (Tl) de 1 cm de espesor que cubría el rango de energía de ~7 keV a ~500 keV en 126 canales de HAP, con un área efectiva de 100 cm2 en las energías más bajas. El detector estaba encerrado en un grueso escudo anticoincidencia de centelleo CsI(Na) con 10 agujeros aburridos a través de él, que definía el campo óptico de visión del detector. Los eventos fueron registrados individualmente y telemétricos, con tiempo y altura de pulso marcada para cada uno, a una velocidad máxima de 3,2 por segundo."
+    },
+    {
+      "titulo": "Resultados científicos",
+      "nivel": 2,
+      "texto": "Entre los resultados científicos notables de OSO 7 se encuentran:\nExámenes de rayos X duros por el MIT y los instrumentos cósmicos de UCSD.\nLa primera observación de la emisión de la línea de rayos gamma solares (γ), debido a la aniquilación de electrones y positrones a 511 keV, de las erupciones solares a principios de agosto de 1972, por el espectrómetro de la UNH. La NASA, legendaria desde hace mucho tiempo debido al peligro para los vuelos espaciales humanos, habría incurrido en una dosis de radiación potencialmente fatal si los astronautas hubieran estado en el espacio en el tiempo y fuera de la magnetosfera protectora de la Tierra (como es el caso durante gran parte de una misión lunar Apollo).\nLa primera detección clara de una eyección de masa coronal (CME), por el instrumento NRL.\nObservaciones de los espectros de rayos X duros de la AGN NGC 4151 y Cen A\nPosición y variabilidad espectral de la explosión de rayos gamma cósmicos del 14 de mayo de 1972"
+    },
+    {
+      "titulo": "Pérdida cercana al lanzamiento",
+      "nivel": 2,
+      "texto": "El OSO 7 casi se perdió en el lanzamiento, debido a la pérdida de presión hidráulica en el sistema de control de guía de segunda etapa ~7 segundos antes del corte del motor de segunda etapa. El plan nominal era que la nave espacial se separara de la segunda etapa con el eje de giro normal a la dirección del Sol, de modo que la vela pudiera orientarse hacia el Sol, permitiendo que las baterías se cargaran completamente en órbita. Como era, la órbita era ligeramente excéntrica en lugar de circular, y la orientación de la nave espacial inmediatamente después del lanzamiento era desconocida, por lo que la vela no podía adquirir bloqueo solar. La nave fue lanzada con sus baterías completamente cargadas, dando aproximadamente 12 horas para que los controladores, dirigidos por el John Thole de la NASA, se recuperaran antes de que la nave perdiera potencia y capacidad de mando. Pasaron varias horas mientras los ingenieros intentaban interpretar la fuerza de la señal de la nave espacial en términos de su patrón de antena transmisora. Finalmente, una hora o dos antes del final, Thole decidió abandonar la precaución y \"empezar a matar\", y por suerte y habilidad, el control fue recuperado.\nDebido a que el apogeo orbital resultante era ~572 km en lugar de los ~350 km previstos para la órbita circular nominal, varias veces al día OSO 7 pasó bastante profundamente en los cinturones de radiación Van Allen, de modo que el bombardeo de protones de alta energía lo hizo algo radiactivo. La actividad decayó lentamente durante otras horas del día. La radiactividad interna del instrumento, complejamente variable, complicó el análisis de los datos de los instrumentos sensibles de rayos X y gamma a bordo."
+    },
+    {
+      "titulo": "P78-1",
+      "nivel": 2,
+      "texto": "El repuesto de vuelo para OSO H fue adquirido más tarde por la Fuerza Aérea de los Estados Unidos, modificado y re-instrumentado, y luego lanzado en 1979 como P78-1 (también conocido como Solwind), el satélite que fue derribado por la USAF en una exitosa prueba de misiles antisatélite en 1985. OSO 7 y P78-1 no eran idénticos en apariencia, pero eran más similares entre sí que la anterior nave espacial OSO 1 a través de OSO 6, o a la última OSO 8."
+    }
+  ],
+  "num_palabras": 1229
+}

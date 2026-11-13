@@ -1,0 +1,33 @@
+{
+  "titulo": "Apolo 4",
+  "titulo_wikipedia_en": "Apollo 4",
+  "fecha_lanzamiento": "1967-11-09",
+  "año_lanzamiento": 1967,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Apolo_4",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Lugar de lanzamiento": "39-A",
+    "Fecha de lanzamiento": "9 de noviembre de 1967 12:00:01 UTC",
+    "Nave": "Módulo de mando: CM-017\nMódulo lunar: LTA-10R",
+    "Fecha de aterrizaje": "9 de noviembre de 1967 20:37:00 UTC\nOcéano Pacífico del Norte",
+    "Duración de la misión": "8h 36m 59s",
+    "Inclinación orbital": "32.6 °",
+    "Órbitas completadas": "3",
+    "Apoapsis": "101.5 millas náuticas (188 km) (inicial)\n9769 millas náuticas (18 092 km) (máximo)",
+    "Periapsis": "98.8 millas náuticas (183 km) (inicial)\n-40 millas náuticas (-74,1 km) (órbita final)",
+    "Distancia recorrida": "~ 85 000 millas (~ 140 000 km)",
+    "Misión anterior": "Apolo 1",
+    "Misión siguiente": "Apolo 5",
+    "Programa": "Apolo"
+  },
+  "resumen": "Apolo 4 (también conocido como Apolo-Saturno 501 y AS-501), fue el primer vuelo de prueba sin tripulación del programa Apolo, que tuvo lugar el 9 de noviembre de 1967 y que usó un lanzador Saturno V como vehículo impulsor, cuya tercera fase iba a ser puesta en marcha, después de permanecer parada en órbita de aparcamiento e ingravidez, para conducir la nave espacial a un punto máximo de alejamiento de la Tierra de 18 340 km. Se activó entonces el motor del módulo de mando para que la cápsula alcanzase al regresar una velocidad de 40 000 km/h, la misma que debería llevar al penetrar en la atmósfera terrestre y probar los sistemas de protección térmico. El vuelo fue un éxito técnico.\nEl Apolo 1 debía ser el primer lanzamiento tripulado, estando previsto su lanzamiento el 21 de febrero de 1967.\nEl 27 de enero de 1967, durante unas pruebas simuladas de lanzamiento a bordo de un Saturno IB, se produjo un incendio en la cápsula de mando en el cual perecieron quemados los tripulantes Virgil Grissom (comandante de la nave), Edward White y el doctor Roger Chaffee.\nEl incendio, acaecido cuando apenas quedaban 10 minutos para finalizar la cuenta atrás y tras un simulacro real de 5 horas y 45 minutos, se debió posiblemente a un cortocircuito que inflamó la atmósfera de oxígeno puro al 100 %, que unido al deficiente aislamiento de los cables, a las tuberías mal diseñadas y protegidas, la falta de sistemas de evacuación de emergencia, así como a la carencia de sistemas antiincendios y de asistencia de urgencia, produjeron la muerte de los tripulantes por asfixia.\nEn la primavera de 1967 la NASA anunció que la desafortunada misión Apolo IV pasaría a llamarse Apolo 1, que no habría Apolo 2 ni Apolo 3, y que el primer lanzamiento del Saturno V programado para noviembre de 1967 sería conocido como Apolo 4, y el siguiente sería el Apolo 5 con la misión SA-204.",
+  "secciones": [],
+  "num_palabras": 328
+}

@@ -1,0 +1,25 @@
+{
+  "titulo": "Sun Radio Interferometer Space Experiment",
+  "titulo_wikipedia_en": "Sun Radio Interferometer Space Experiment",
+  "fecha_lanzamiento": "2026",
+  "año_lanzamiento": 2026,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión heliofísica"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Sun_Radio_Interferometer_Space_Experiment",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {},
+  "resumen": "El Experimento Espacial Sun Radio Interferómetro (SunRISE), es un conjunto de CubeSats diseñado para estudiar la actividad solar actuando como un radiotelescopio de síntesis de apertura. Está destinado a vigilar las tormentas de partículas solares gigantes. Los satélites ocuparán una órbita geosincrónica terrestre supersincrónica. Los participantes en el experimento incluyen JPL y la Universidad de Michigan, junto con un equipo científico de múltiples instituciones.",
+  "secciones": [
+    {
+      "titulo": "Situación",
+      "nivel": 2,
+      "texto": "Los seis satélites han sido almacenados desde 2023. Inicialmente planeaba lanzar en Vulcan Centaur, NASA anunció un cambio a Falcon Heavy en julio de 2026."
+    }
+  ],
+  "num_palabras": 89
+}

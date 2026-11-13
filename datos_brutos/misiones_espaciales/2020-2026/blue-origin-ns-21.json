@@ -1,0 +1,36 @@
+{
+  "titulo": "Blue Origin NS-21",
+  "titulo_wikipedia_en": "Blue Origin NS-21",
+  "fecha_lanzamiento": "2022-06-04",
+  "año_lanzamiento": 2022,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Blue_Origin_NS-21",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Vuelo espacial suborbital tripulado",
+    "Operador": "Blue Origin",
+    "Duración de la misión": "10 minutos y 5 segundos",
+    "Fecha de lanzamiento": "4 de junio de 2022\n13:25:02 UTC",
+    "Lugar de lanzamiento": "Corn Ranch, Texas, Estados Unidos",
+    "Nave": "RSS First Step",
+    "Fecha de aterrizaje": "4 de junio de 2022\n13:35:07 UTC",
+    "Programa": "Vuelos tripulados de New Shepard",
+    "Misión anterior": "Blue Origin NS-20",
+    "Misión siguiente": "Blue Origin NS-22"
+  },
+  "resumen": "Blue Origin NS-21 fue una misión de vuelo espacial suborbital, operada por Blue Origin, que se lanzó el 4 de junio de 2022 utilizando el cohete New Shepard. Fue el quinto vuelo tripulado de Blue Origin y el vigésimo primero en total en llegar al espacio.\nEl lanzamiento de la misión estaba originalmente programado para el 20 de mayo de 2022. Sin embargo, el vuelo se retrasó debido a que un sistema de respaldo no cumplió con las «expectativas de rendimiento» y la nueva fecha de lanzamiento del 4 de junio se anunció el 31 de mayo de 2022.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "La tripulación de seis personas incluía a Evan Dick, quien anteriormente voló a bordo del Blue Origin NS-19, lo que lo convirtió en la primera persona en volar en New Shepard dos veces. También a bordo estaba Katya Echazarreta, quien se convirtió en la primera mujer mexicana-estadounidense y además la mujer más joven en volar al espacio, y Víctor Vescovo, un notable explorador submarino.\nEl asiento de Echazarreta fue patrocinado por la iniciativa Space For Humanity y pagado por los pasajeros de Blue Origin NS-19 Lane y Cameron Bess. Es una estudiante de posgrado en la Universidad Johns Hopkins que ha trabajado en las misiones Mars 2020 y Europa Clipper.\nVictor Correa Hespanha fue el segundo brasileño en el espacio. Fue seleccionado para volar después de comprar un NFT por R$4000 (EE. UU.$1014.07) de la Crypto Space Agency. También se le describe como el «primer criptonauta del mundo»."
+    }
+  ],
+  "num_palabras": 247
+}

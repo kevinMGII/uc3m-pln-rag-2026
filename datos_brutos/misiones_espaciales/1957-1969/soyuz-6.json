@@ -1,0 +1,44 @@
+{
+  "titulo": "Soyuz 6",
+  "titulo_wikipedia_en": "Soyuz 6",
+  "fecha_lanzamiento": "1969-10-11",
+  "año_lanzamiento": 1969,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Soyuz_6",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Masa en el lanzamiento": "6577 kg",
+    "Fecha de lanzamiento": "11 de octubre de 1969",
+    "Nave": "Soyuz 7K-OK",
+    "Fecha de aterrizaje": "16 de octubre de 1969",
+    "Duración de la misión": "4,95 días",
+    "Programa": "Programa Soyuz",
+    "Misión anterior": "Soyuz 5",
+    "Misión siguiente": "Soyuz 7"
+  },
+  "resumen": "Soyuz 6 fue una misión tripulada de una nave Soyuz 7K-OK lanzada el 11 de octubre de 1969 desde el cosmódromo de Baikonur con dos cosmonautas a bordo.\nTras la desastrosa reentrada de la Soyuz 5, cuya origen exacto nunca llegó a determinarse, los sistemas de separación entre la cápsula de reentrada y el módulo de servicio fueron rediseñados y mejorados. El sistema mejorado fue utilizado en la Zond 7 y por primera vez en una misión tripulada en la Soyuz 6.\nLa misión de Soyuz 6 fue reunirse en el espacio con las misiones Soyuz 7 y Soyuz 8, probar los sistemas de la nave y técnicas de maniobra en el espacio entre tres naves y realizar experimentos médicos y biológicos.\nPortó el experimento Vulkan para realizar soldaduras en el vacío del espacio. El 16 de octubre de 1969, los cosmonautas cortaron y soldaron metal con éxito en el espacio por primera vez en la historia mundial.\nTambién debería haber filmado a las otras dos naves realizando maniobras y acoplamientos, pero el fallo del sistema de acoplamiento en las tres naves debido a que todas utilizaban un nuevo sistema que padecía un error común impidió estos ejercicios en particular.\nLa Soyuz 6 reentró el 16 de octubre de 1969, aterrizando a las 9:52 GMT. Diez minutos después llegó uno de los helicópteros de rescate, que encontró a los cosmonautas ya fuera de la cápsula.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Georgi Shonin (Comandante)\nValeri Kubasov (Ingeniero de vuelo)"
+    },
+    {
+      "titulo": "Tripulación de respaldo",
+      "nivel": 2,
+      "texto": "Vladimir Shatalov (Comandante)\nAleksei Yeliseyev (Ingeniero de vuelo)"
+    },
+    {
+      "titulo": "Tripulación de reserva",
+      "nivel": 2,
+      "texto": "Andriyan Nikolayev (Comandante)\nGeorgi Grechko (Ingeniero de vuelo)"
+    }
+  ],
+  "num_palabras": 259
+}

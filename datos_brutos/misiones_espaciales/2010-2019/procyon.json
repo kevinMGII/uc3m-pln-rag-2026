@@ -1,0 +1,51 @@
+{
+  "titulo": "PROCYON",
+  "titulo_wikipedia_en": "PROCYON",
+  "fecha_lanzamiento": "2014-12-03",
+  "año_lanzamiento": 2014,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración de asteroides y planetas menores",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/PROCYON",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Asteroides volando, demostración de tecnología",
+    "Operador": "Universidad de Tokio / JAXA",
+    "ID COSPAR": "2014-076D",
+    "Masa en el lanzamiento": "Total: 67 kg",
+    "Masa en seco": "64,5 kg",
+    "Dimensiones": "0,55 xx",
+    "Potencia": "25",
+    "Fecha de lanzamiento": "3 de diciembre de 2014, 04:22 UTC",
+    "Vehículo de lanzamiento": "H-IIA 202",
+    "Lugar de lanzamiento": "LA-Y, Centro Espacial de Tanegashima",
+    "Última señal": "3 de diciembre de 2015",
+    "Datos interplanetarios": "type: flyby | object: Earth | fecha de llegada: 3 diciembre 2015\ntipo: flyby | objeto: 185851 2000 DP 107 | fecha de llegada: Destinado: 2016",
+    "Misión anterior": "Hodoyoshi 4",
+    "Misión siguiente": "EQUULEUS"
+  },
+  "resumen": "PROCYON (Proximate Object Close flyby with Optical Navigation) fue una sonda espacial de asteroides que fue lanzada junto con Hayabusa2 el 3 de diciembre de 2014 a las 13:22:04 (JST). Fue desarrollado por la Universidad de Tokio y JAXA.\nEra un pequeño (70 kg, cubo de unos 60 cm), de bajo costo (500 millones de yenes) de naves espaciales.\nSu intención era volar por el asteroide (185851) 2000 DP107 en 2016, pero el plan fue abandonado debido al mal funcionamiento del propulsor iónico.",
+  "secciones": [
+    {
+      "titulo": "Sinopsis de la misión",
+      "nivel": 2,
+      "texto": "PROCYON fue lanzado como carga útil secundaria junto con la sonda de aterrizaje de asteroides Hayabusa2. Después de la separación del cohete portador, PROCYON fue dejado en una órbita heliocéntrica. El 22 de febrero de 2015 se puso en marcha el motor de iones, con la intención de ajustar la órbita para que un vuelo terrestre en diciembre de 2015 dirigiera la sonda hacia el asteroide 2000 DP107. Los resultados iniciales fueron favorables - el motor entregó 330 μN de empuje en lugar de los 250 μN diseñados - pero el motor fracasó el 10 de marzo y no pudo reiniciarse; PROCYON voló más allá de la Tierra el 3 de diciembre de 2015, pero no pudo hacer un cambio de órbita controlado. Poco después del vuelo de la Tierra, se perdió el contacto con la nave espacial.\nLa nave espacial de 70 kg tuvo un impulso específico de 1000 segundos, para un presupuesto delta-v de unos 500 m/s; la intención era utilizar el 20% del propulsor de xenón para la corrección inicial de la órbita, y el resto del propulsor entre el vuelo de la Tierra y el vuelo del asteroide para asegurar una distancia de vuelo controlada de 30 km.\nUn nuevo subsistema ensayado por PROCYON consistía en alimentar tanto el motor principal de iones como los ocho propulsores de gas frío de control de actitud del mismo tanque (que contenían 2,5 kg de xenón en el momento del lanzamiento)"
+    },
+    {
+      "titulo": "Instrumentos",
+      "nivel": 2,
+      "texto": "Telescopio pequeño para navegación y adquisición de datos de casi asteroides.\nCámara de imágenes Lyman-alfa para observar geocorona"
+    },
+    {
+      "titulo": "Resultados científicos",
+      "nivel": 2,
+      "texto": "PROCYON observó la emisión Lyman-alfa del cometa 67P/Churyumov-Gerasimenko para determinar su estructura general de coma. PROCYON capturó la primera imagen completa de la geocorona, confirmando por primera vez que tiene simetría norte-sur."
+    }
+  ],
+  "num_palabras": 375
+}

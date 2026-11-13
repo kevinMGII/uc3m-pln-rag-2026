@@ -1,0 +1,20 @@
+{
+  "titulo": "ArgoMoon",
+  "titulo_wikipedia_en": "ArgoMoon",
+  "fecha_lanzamiento": "2022-11-16",
+  "año_lanzamiento": 2022,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración lunar",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/ArgoMoon",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {},
+  "resumen": "ArgoMoon es una misión de bajo presupuesto proyectada por la NASA, para desarrollar un satélite tipo CubeSat, cuyo objetivo es proporcionar a la NASA el seguimiento de las operaciones que hace el vehículo de lanzamiento a través de la fotografía. En el momento en que la segunda etapa lanzará los CubeSats, ya no podrá comunicarse con la Tierra. También servirá para probar nanotecnología en un entorno hostil del espacio profundo. ArgoMoon completará sus operaciones utilizando un software privado para la navegación autónoma.\nEn principio se transportará como carga secundaria en el primer vuelo de la misión Exploration Mission 1 a una órbita heliocéntrica, que tiene programado su lanzamiento en 2019.",
+  "secciones": [],
+  "num_palabras": 110
+}

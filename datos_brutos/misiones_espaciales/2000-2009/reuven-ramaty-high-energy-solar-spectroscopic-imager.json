@@ -1,0 +1,32 @@
+{
+  "titulo": "Reuven Ramaty High Energy Solar Spectroscopic Imager",
+  "titulo_wikipedia_en": "Reuven Ramaty High Energy Solar Spectroscopic Imager",
+  "fecha_lanzamiento": "2002-02-05",
+  "año_lanzamiento": 2002,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión heliofísica"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Reuven_Ramaty_High_Energy_Solar_Spectroscopic_Imager",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Activo",
+    "Tipo de misión": "Observatorio espacial",
+    "Operador": "NASA",
+    "Fecha de lanzamiento": "5 de febrero de 2002",
+    "Lugar de lanzamiento": "Mayport",
+    "Vehículo de lanzamiento": "Pegasus",
+    "ID NSSDC": "2002-004A",
+    "Masa en el lanzamiento": "449 kg",
+    "Periapsis": "574 km",
+    "Apoapsis": "599 km",
+    "Inclinación orbital": "38 grados",
+    "Periodo orbital": "96,4 minutos"
+  },
+  "resumen": "HESSI o High Energy Solar Spectroscopic Imager, denominado también RHESSI (Ramaty High Energy Solar Spectroscopic Imager, por Reuven Ramaty, un físico pionero en el campo de las altas energías) y Explorer 81, es un observatorio espacial de rayos X y rayos Gamm de la NASA lanzado el 5 de febrero de 2002 mediante un cohete Pegasus desde Mayport.\nEl satélite gira sobre sí mismo a 15 RPM, y se dedica a crear imágenes en rayos X del Sol mediante la reconstrucción de las componentes de Fourier obtenidas a partir de la modulación temporal del flujo de radiación a través de un conjunto de 9 rejillas, cada una de 9 cm de diámetro. Tiene una resolución de 2 segundos de arco a energías de 40 keV y 36 segundos de arco a 1 MeV.",
+  "secciones": [],
+  "num_palabras": 133
+}

@@ -1,0 +1,47 @@
+{
+  "titulo": "Ranger 9",
+  "titulo_wikipedia_en": "Ranger 9",
+  "fecha_lanzamiento": "1965-03-21",
+  "año_lanzamiento": 1965,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración lunar",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Ranger_9",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Impactador lunar",
+    "Operador": "NASA",
+    "ID COSPAR": "1965-023A",
+    "Nº SATCAT": "1294",
+    "Fabricante": "Laboratorio de Propulsión Jet",
+    "Masa en el lanzamiento": "366,87 kg",
+    "Potencia": "200 W",
+    "Fecha de lanzamiento": "21 de marzo de 1965, 21:37:02 UTC",
+    "Vehículo de lanzamiento": "Atlas LV-3 Agena-B 204D/AA14",
+    "Lugar de lanzamiento": "Cabo Cañaveral LC-12",
+    "Datos interplanetarios": "tipo: impactador | objeto: Lunar | fecha de llegada: UTC | ubicación: (Cráter de Alfonso)",
+    "Instrumentos": "Cámaras de televisión Vidicon",
+    "Programa": "Ranger",
+    "Misión anterior": "Ranger 8",
+    "Misión siguiente": "Ninguno"
+  },
+  "resumen": "Ranger 9 fue una sonda lunar, lanzada en 1965 por la NASA. Fue diseñado para lograr una trayectoria de impacto lunar y transmitir fotografías de alta resolución de la superficie lunar durante los últimos minutos de vuelo hasta el impacto. La nave espacial llevaba seis cámaras de televisión vidicon —dos de gran angular (canal F, cámaras A y B) y cuatro de ángulo estrecho (canal P)— para lograr estos objetivos. Las cámaras estaban dispuestas en dos cadenas separadas, o canales, cada uno autónomo con fuentes de alimentación separadas, temporizadores y transmisores, de modo que se permitiera la mayor fiabilidad y probabilidad de obtener imágenes de televisión de alta calidad. Estas imágenes fueron transmitidas en directo por televisión a millones de televidentes a través de los Estados Unidos. No se llevaron otros experimentos en la nave espacial.",
+  "secciones": [
+    {
+      "titulo": "Diseño de naves espaciales",
+      "nivel": 2,
+      "texto": "Los Rangers 6, 7, 8 y 9 fueron las llamadas versiones del Bloque 3 de la nave espacial Ranger. La nave espacial consistió en una base hexagonal de aluminio de 1,5 m de ancho en la que se montaban las unidades de propulsión y potencia, rematadas por una torre cónica truncada que sostenía las cámaras de televisión. Dos alas de panel solar, cada una de 739 mm de ancho por 1537 mm de largo, extendidas desde los bordes opuestos de la base con un espacio completo de 4,6 m, y una antena de plato de alta ganancia puntiaguda fue montada en una de las esquinas de la base lejos de los paneles solares. Una antena cilíndrica cuasiomnidireccional estaba sentada encima de la torre cónica. La altura total de la nave espacial era de 3,6 m.\nLa propulsión para la corrección de la trayectoria a mitad del recorrido fue proporcionada por un motor de hidracina monopropulsante de empuje 224-N con cuatro vectores de empuje de popa. El control de orientación y actitud sobre tres ejes fue activado por 12 chorros de gas nitrógeno acoplados a un sistema de tres giroscopios, cuatro sensores solares primarios, dos sensores solares secundarios y un sensor terrestre. La energía fue suministrada por 9792 células solares Si contenidas en los dos paneles solares, dando un área total de la matriz de 2,3 metros cuadrados y produciendo 200 W. Dos baterías de 1.200 vatios-hora con una capacidad de 26,5 V y una capacidad de 9 horas de funcionamiento proporcionaron energía a cada una de las cadenas de comunicaciones/cámaras de televisión separadas. Dos baterías de 1.000 vatios-hora almacenan energía para las operaciones de las naves espaciales.\nLas comunicaciones fueron a través de la antena cuasiomnidireccional de baja ganancia y la antena parabólica de alta ganancia. Los transmisores a bordo de la nave espacial incluían un canal de televisión de 60 W F a 959,52 MHz, un canal de televisión de 60 W P a 960,05 MHz y un canal de transpondedor de 3 W 8 a 960,58 MHz. El equipo de telecomunicaciones convirtió la señal de vídeo compuesto de los transmisores de la cámara en una señal RF para su posterior transmisión a través de la antena de alta ganancia de la nave espacial. Se proporcionó suficiente ancho de banda de vídeo para permitir secuencias rápidas de encuadre de imágenes de televisión estrechas y de gran angular."
+    },
+    {
+      "titulo": "Perfil de la misión",
+      "nivel": 2,
+      "texto": "Los refuerzos Atlas 204D y Agena B 6007 realizaron nominalmente, inyectando el Agena y el Ranger 9 en una órbita de estacionamiento terrestre a 185 kilómetros de altitud. Una segunda quemadura de 90 segundos puso la nave espacial en la trayectoria de transferencia lunar. Esto fue seguido por la separación de la Agena y Ranger. Setenta minutos después del lanzamiento, el comando fue dado para desplegar paneles solares, activar el control de actitud, y cambiar de la omniantena a la antena de alta ganancia. La exactitud de la trayectoria inicial permitió retrasar la corrección prevista de mitad de curso del 22 al 23 de marzo, cuando la maniobra se inició a las 12:03 UT. Después de la orientación, un cohete de 31 segundos quema a las 12:30 UT, y la reorientación, la maniobra se completó a las 13:30 UT.\nEl Ranger 9 llegó a la Luna el 24 de marzo de 1965. A las 13:31 UTC, se realizó una maniobra terminal para orientar la nave espacial de modo que las cámaras estuvieran más en línea con la dirección de vuelo para mejorar la resolución de las imágenes. 20 minutos antes del impacto, comenzó el calentamiento del sistema de cámara de un minuto. La primera imagen fue tomada a las 13:49:41 UTC a una altitud de 2.363 kilómetros (1.468 millas). Durante los 19 minutos finales de vuelo se realizaron 5.814 buenas fotografías de contraste. La imagen final tomada antes del impacto tiene una resolución de 0,3 metros (12 pulgadas). La nave espacial encontró la superficie lunar con una dirección asintótica entrante a un ángulo de -5,6 grados desde el ecuador lunar. El plano orbital se inclinaba 15,6 grados hacia el ecuador lunar. Después de 64,5 horas de vuelo, el impacto ocurrió a las 14:08:19.994 UTC a aproximadamente 12,83 S latitud, 357,63 E longitud en el cráter de Alphonsus. La velocidad de impacto fue de 2.670 metros por segundo (8.800 pies/s). El rendimiento de la nave espacial fue excelente. Para este vuelo se proporcionó cobertura de televisión en tiempo real con transmisiones en directo de muchas de las imágenes del canal F (principalmente la cámara B pero también algunas imágenes de la cámara A)."
+    }
+  ],
+  "num_palabras": 896
+}

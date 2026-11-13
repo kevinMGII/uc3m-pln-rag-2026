@@ -1,0 +1,58 @@
+{
+  "titulo": "PRIMA (telescopio espacial)",
+  "titulo_wikipedia_en": "PRIMA (space telescope)",
+  "fecha_lanzamiento": "2033",
+  "año_lanzamiento": 2033,
+  "estado": "programada",
+  "tipo_mision": [
+    "Telescopio espacial"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/PRIMA_(space_telescope)",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Astronomía del infrarrojo lejano",
+    "Operador": "JPL / Centro de Vuelo Espacial Goddard",
+    "Duración de la misión": "5 años (previsto)",
+    "Fabricante": "BAE Systems",
+    "Masa de la carga útil": "~ 3401 kg",
+    "Potencia": "2700 vatios",
+    "Fecha de lanzamiento": "2033 (previsto)",
+    "Sistema de referencia orbital": "Órbita Sol-Tierra L2",
+    "Instrumentos": "FIRESS\nPRIMAGER",
+    "Tipo de telescopio": "Telescopio Korsch",
+    "Diámetro del telescopio": "1,8 m",
+    "Longitudes de onda": "24 a 261 μm (infrarrojo lejano)"
+  },
+  "resumen": "PRIMA (PRObe Far-Infrared Mission for Astrophysics) es un telescopio espacial de infrarrojos de la NASA programado para su lanzamiento en 2033. La nave será la primera misión en la clase de Exploradores de Sondas del programa Exploradores.",
+  "secciones": [
+    {
+      "titulo": "Observatorio",
+      "nivel": 2,
+      "texto": "El telescopio estará hecho enteramente de aluminio y se enfriará criogénicamente a 4.5 K utilizando un criocooler gaseoso basado en helio-3 de ciclo cerrado para reducir el ruido térmico y aumentar enormemente la sensibilidad. La nave espacial utilizará el autobús BAE Systems Large Configurable Platform, un sistema de propulsión monopropulsante de hidracina y una matriz solar de 14 m2."
+    },
+    {
+      "titulo": "Instrumentos",
+      "nivel": 3,
+      "texto": "La nave llevará dos instrumentos principales: FIRESS, un espectrómetro de alta resolución destinado a la espectroscopia multimodo; y PRIMAger, un polarímetro de imágenes destinado a mapear grandes áreas del cielo."
+    },
+    {
+      "titulo": "FIRESS",
+      "nivel": 4,
+      "texto": "FIRESS operará de 24 a 235 μm. Utilizará cuatro módulos de rejilla de banda ancha que cubren cuatro bandas distintas (24 μm a 43 μm, 42 μm a 76 μm, 74 μm a 134 μm y 130 μm a 235 μm), así como detectores de inductancia cinética (KID) para medir fotones más sensibles. También contendrá un módulo de transformación de Fourier (FTM), con la intención de aumentar el poder de resolución espectral."
+    },
+    {
+      "titulo": "PRIMAGER",
+      "nivel": 4,
+      "texto": "PRIMAger operará de 24 a 261 μm utilizando observaciones simultáneas de dos planos focales de KIDs. Tiene por objeto permitir la obtención de imágenes hiperespectrales de infrarrojos lejanos, haciendo hincapié en el diseño de mapas y análisis de grandes muestras de galaxias."
+    },
+    {
+      "titulo": "Misión",
+      "nivel": 2,
+      "texto": "La misión tiene varios objetivos científicos. Su objetivo es cumplir varios objetivos establecidos en la Encuesta Decadal Astronomía y Astrofísica 2020, a saber, el análisis del proceso de formación de planetas mediante el estudio de la firma química del agua en discos protoplanetarios, la investigación de los procesos de evolución interdependientes de las galaxias y los agujeros negros supermasivos mediante la medición de las tasas de formación de estrellas y las tasas de acreción de agujeros negros en diferentes poblaciones de galaxias, y el estudio de galaxias locales para analizar la acumulación de polvo y elementos pesados.\nLa misión costará 1.200 millones de dólares, sin incluir los gastos de lanzamiento."
+    }
+  ],
+  "num_palabras": 350
+}

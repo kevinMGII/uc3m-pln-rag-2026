@@ -1,0 +1,44 @@
+{
+  "titulo": "Gemini 9A",
+  "titulo_wikipedia_en": "Gemini 9A",
+  "fecha_lanzamiento": "1966-06-03",
+  "año_lanzamiento": 1966,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Gemini_9A",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Lugar de lanzamiento": "Centro Espacial Kennedy, Florida\nLC 19",
+    "Masa en el lanzamiento": "3.750 kg",
+    "Fecha de lanzamiento": "3 de junio de 1966\n13:39:33.335 UTC",
+    "Fecha de aterrizaje": "6 de junio de 1966\n14:00:23 UTC",
+    "Duración de la misión": "3 días 20 min 50 s",
+    "Periodo orbital": "88.78 min",
+    "Inclinación orbital": "28.91°",
+    "Órbitas completadas": "47",
+    "Apoapsis": "266,9 km",
+    "Periapsis": "158,8 km",
+    "Misión anterior": "Gemini 8",
+    "Misión siguiente": "Gemini 10",
+    "Programa": "Programa Gemini"
+  },
+  "resumen": "Gemini 9A (conocida originalmente como Gemini 9) fue una misión espacial tripulada del programa Gemini, de la NASA, realizada en junio de 1966. Fue el séptimo vuelo tripulado del programa Gemini y el decimoquinto del programa espacial estadounidense.\nEn un primer momento, los astronautas Thomas Stafford y Eugene Cernan fueron seleccionados como comandante y piloto de reserva, respectivamente. Charlie Bassett y Elliot See por su parte figuraban como la tripulación principal. El 28 de febrero de 1966, las dos parejas de astronautas volaron hasta el aeródromo de Lambert, en sendos T-38 Talons, para visitar la planta de ensamblaje de las Gemini de McDonnell Douglas. Bassett y See se estrellaron en el aterrizaje, falleciendo en el acto. Stafford y Cernan pasaron a ser la tripulación principal, con Jim Lovell y Buzz Aldrin como pareja de reserva.\nEl 17 de mayo de 1966, el vehículo Agena se salió del rumbo y tuvo que apagarse antes de entrar en órbita. Al no existir un Agena de repuesto, se pasó a usar como objetivo el Augmented Target Docking Adapter (Adaptador de Atraque de Blanco Aumentado, o ATDA), que logró ponerse en órbita el 1 de junio de 1966. El lanzamiento de la cápsula Gemini, previsto para el mismo día, se canceló por un error informático. Gemini 9A fue lanzada con éxito el 3 de junio, aproximándose al ATDA en su segunda órbita. Sin embargo, la cubierta del ATDA sólo se abrió parcialmente, por lo que la nave Gemini fue incapaz de realizar el atraque. No obstante, Stafford y Cernan llevaron a cabo varias maniobras de aproximación con el ATDA, incluyendo la simulación de rescate de un módulo lunar en órbita baja terrestre.\nAl día siguiente, Cernan intentó una actividad extravehicular (EVA), con el propósito principal de testear la Unidad de Movilidad de Astronautas (AMU). Nada más salir de la cápsula, Cernan experimentó problemas de movilidad, seguidos de fallos en la comunicación y en la regulación del ambiente. La EVA fue cancelada y Cernan tuvo que volver a la nave al cabo de dos horas. El día 6 de junio, la nave Gemini amerizó sobre el océano, recuperada también por el buque USS Wasp.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Thomas P. Stafford, Comandante\nEugene A. Cernan, Piloto"
+    },
+    {
+      "titulo": "Tripulación de reemplazo",
+      "nivel": 3,
+      "texto": "James A. Lovell\nEdwin Aldrin"
+    }
+  ],
+  "num_palabras": 372
+}

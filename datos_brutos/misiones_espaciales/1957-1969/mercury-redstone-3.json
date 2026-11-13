@@ -1,0 +1,25 @@
+{
+  "titulo": "Mercury Redstone 3",
+  "titulo_wikipedia_en": "Mercury-Redstone 3",
+  "fecha_lanzamiento": "1961-05-05",
+  "año_lanzamiento": 1961,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Mercury_Redstone_3",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {},
+  "resumen": "El Mercury Redstone 3 fue el cohete que puso en el espacio al primer astronauta estadounidense, Alan Shepard, que iba a bordo del Mercury MR-3 perteneciente al programa Mercury. Lanzó la cápsula Freedom 7 a 187,5 km de altitud, en un vuelo de 15 minutos. Pero estos cohetes Redstone no daban el suficiente empuje para colocar a un astronauta en órbita. Aunque Nikita Khrushchev criticó el Freedom 7 diciendo que no era más que un salto de pulga comparado con el reciente vuelo del Vostok 1 y su pasajero, Yuri Gagarin, Shepard fue el primer astronauta en retornar a la Tierra a bordo de su nave, ya que los cosmonautas rusos debían abandonar sus naves en paracaídas antes del aterrizaje, convirtiéndose así en el primer vuelo espacial completo por definiciones pasadas de la Fédération Aéronautique Internationale.",
+  "secciones": [
+    {
+      "titulo": "Datos",
+      "nivel": 2,
+      "texto": "Fecha: 5 de mayo de 1961\nTamaño: cápsula: 2,9 m de altura; cohete: 32,4 m de altura.\nConstrucción: aleaciones ligeras\nMasa: 1832,64 kg\nAceleración máxima: 11 g (108 m/s²)\nNúmero de órbitas: suborbital\nApogeo: 187,42 km\nDistancia recorrida: 487,26 km\nVelocidad máxima: 8277 km/h\nTripulación: 1"
+    }
+  ],
+  "num_palabras": 182
+}

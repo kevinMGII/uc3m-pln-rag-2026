@@ -1,0 +1,58 @@
+{
+  "titulo": "LAGEOS",
+  "titulo_wikipedia_en": "LAGEOS",
+  "fecha_lanzamiento": "1976-05-04",
+  "año_lanzamiento": 1976,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/LAGEOS",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Ambos Activos",
+    "Tipo de misión": "Geodesia",
+    "Operador": "1: NASA\n2: ISA",
+    "Fecha de lanzamiento": "1: 4 de mayo de 1976\n2: 22 de octubre de 1992",
+    "Duración planificada": "Varias Décadas.",
+    "ID COSPAR": "1: 7603901\n2: 9207002",
+    "Nº SATCAT": "1: 1155\n2: 5986",
+    "Configuración": "Esférica",
+    "Masa en el lanzamiento": "1: 406.965 kg\n2: 405.380 kg",
+    "Dimensiones": "Diámetro 0,6 m",
+    "Propulsión": "Sin Propulsión",
+    "Sistema de referencia orbital": "Circular",
+    "Excentricidad": "1: 0.0045\n2: 0.0135",
+    "Periapsis": "1: 5,860 Km\n2: 5,620 Km",
+    "Inclinación orbital": "1: 109.84 Grados\n2: 52.64 Grados",
+    "Periodo orbital": "1: 225 minutos\n2: 223 minutos",
+    "Instrumentos": "426 retroreflectores \"esquina de cubo\"."
+  },
+  "resumen": "LAGEOS es el acrónimo para \"LAser GEOdynamics Satellite\" o Satélite Geodinámico Láser; son una series de satélites artificiales usados en la investigación científica, diseñados para proporcionar órbitas de referencia para los estudios de geodinámica de la tierra.",
+  "secciones": [
+    {
+      "titulo": "Características físicas",
+      "nivel": 2,
+      "texto": "Los satélites LAGEOS tienen un cuerpo esférico de latón recubierto de aluminio. Estos materiales fueron elegidos para reducir el efecto del campo magnético terrestre sobre el satélite. Tienen un diámetro de 60 centímetros y una masa aproximada de 405 kilogramos. Su exterior está cubierto con 426 retroreflectores, dándoles el aspecto de una pelota de golf gigante.\nEstos satélites no tienen a bordo ningún sensor o dispositivo electrónico ni sistemas de control de actitud. Se mueven en órbita libre alrededor de la Tierra, a una altitud aproximada de 5.900 km, por encima de la órbita baja terrestre y por debajo de la órbita geosincrónica. Su periodicidad es de aproximadamente 204 minutos, esto es pasan por un mismo punto cada 3 horas 24 minutos."
+    },
+    {
+      "titulo": "Objetivos de la misión",
+      "nivel": 2,
+      "texto": "Los datos entregados por los satélites LAGEOS permiten determinar puntos o posiciones en la Tierra con extrema precisión debido a la estabilidad de sus órbitas.\nLa alta relación masa-área, la exacta (y estable) geometría (el hecho de ser esférico hace que la posición del satélite no afecte las mediciones) junto con sus órbitas extremadamente regulares, hacen de los satélites LAGEOS las referencias de posición más exactas actualmente disponibles.\nLa misión de los satélites LAGEOS incluye las siguientes metas:\nProporcionar una medida exacta de la posición del satélite con respecto a la tierra,\nDeterminar la forma del planeta (geoide),\nDeterminar los movimientos de las placas tectónicas asociados a la deriva continental.\nSe han construido dos satélites LAGEOS y a la fecha (2008) ambos están en pleno funcionamiento:\nLAGEOS-1, fue diseñado por la NASA y lanzado en 1976. Este fue el primer satélite dedicado exclusivamente a las Mediciones Láser a Satélites de alta precisión y entregó la primera oportunidad de usar datos sin errores originados en la órbita del satélite.\nLAGEOS-2, está basado en el diseño de su antecesor, fue construido por la Agencia Espacial Italiana y lanzado el año 1992.\nExisten planes de lanzar el LAGEOS-3, un proyecto de colaboración multinacional entre Francia, Alemania, Inglaterra, Italia, España y Estados Unidos. Los datos entregados por LAGEOS-3 serán usados para medir, por primera vez, la propiedad cuasi-estacionaria de la Tierra; este momento bipolar Magnético-Gravitacional fue predicho por Einstein en su Teoría General de la Relatividad."
+    },
+    {
+      "titulo": "Instrumentos de medición",
+      "nivel": 2,
+      "texto": "Estos satélites fueron construidos específicamente para ser usados en el sistema de Mediciones Láser a Satélites, por tanto los únicos \"instrumentos\" de medición a bordo son los 426 retroreflectores, 422 de ellos están hechos de aleación de sílice y vidrio, mientras que los otros 4 de germanio para obtener mediciones en el espectro infrarrojo para el estudio experimental de reflectivilidad y orientación de satélites.\nLas Mediciones Láser a Satélites (siglas en inglés SLR) básicamente consisten en enviar pulsos o destellos de luz láser desde estaciones en tierra a los satélites. Estos rayos láser vuelven a la estación en tierra tras ser reflejados por los retroreflectores; el tiempo que tarda el haz de luz en ir y volver es medido con mucha precisión y con esto es posible determinar la distancia que separa al satélite de la estación en tierra con un margen de error de sólo unos milímetros.\nLas estaciones terrestres SLR están situadas en muchos países (Alemania, Argentina, Australia, Chile, China, EE. UU., Egipto, Francia, Italia, Japón, México, Perú, Polonia entre otros) y están agrupadas en el ILRS (siglas en inglés \"The International Laser Ranging Service\"). Los datos de estas estaciones están disponibles para los investigadores que estudian dinámicas corticales."
+    },
+    {
+      "titulo": "Información del lanzamiento",
+      "nivel": 2,
+      "texto": "LAGEOS 1, lanzado el 4 de mayo de 1976, junto al satélite COS B, usando un cohete Delta-2913.\nLAGEOS 2, desplegado el 23 de octubre de 1992, junto con el satélite CTA desde el Transbordador espacial Columbia."
+    }
+  ],
+  "num_palabras": 639
+}

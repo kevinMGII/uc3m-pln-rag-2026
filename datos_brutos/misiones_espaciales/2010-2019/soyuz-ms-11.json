@@ -1,0 +1,35 @@
+{
+  "titulo": "Soyuz MS-11",
+  "titulo_wikipedia_en": "Soyuz MS-11",
+  "fecha_lanzamiento": "2018-12-03",
+  "año_lanzamiento": 2018,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Soyuz_MS-11",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Vehículo de lanzamiento": "Soyuz-FG",
+    "Fecha de lanzamiento": "3 de diciembre de 2018, 11:31 UTC",
+    "Fecha de aterrizaje": "25 de junio de 2019, 02:47 UTC",
+    "Nave": "Soyuz MS N.º 741",
+    "Tipo de nave": "Soyuz MS 11F747",
+    "Fabricante": "Energiya",
+    "Programa": "Programa Soyuz",
+    "Misión anterior": "Soyuz MS-10",
+    "Misión siguiente": "Soyuz MS-12"
+  },
+  "resumen": "Soyuz MS-11 es un vuelo espacial Soyuz, lanzado el 3 de diciembre de 2018. Fue el vuelo número 140 de una nave espacial Soyuz tripulada. Después del accidente de la Soyuz MS-10, su lanzamiento fue adelantado dos semanas para evitar que la ISS quedara vacía.",
+  "secciones": [
+    {
+      "titulo": "Tripulantes",
+      "nivel": 2,
+      "texto": "Transportó a tres miembros de la tripulación de la Expedición 58 a la ISS.\nLa tripulación estuvo compuesta por un cosmonauta y comandante de la nave, Oleg Kononenko. Un ingeniero de vuelo canadiense David Saint-Jacques y una ingeniera de vuelo estadounidense, Anne McClain. En un principio el desacoplamiento de la nave espacial Soyuz MS-11, estaba programado para julio de 2019, pero debido al adelanto en el lanzamiento de la misión, finalmente el regreso ocurrió el 25 de junio de 2019."
+    }
+  ],
+  "num_palabras": 125
+}

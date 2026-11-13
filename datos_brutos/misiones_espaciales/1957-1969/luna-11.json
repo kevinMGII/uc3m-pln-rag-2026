@@ -1,0 +1,53 @@
+{
+  "titulo": "Luna 11",
+  "titulo_wikipedia_en": "Luna 11",
+  "fecha_lanzamiento": "1966-08-24",
+  "año_lanzamiento": 1966,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración lunar",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Luna_11",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Órbita lunar",
+    "Operador": "Programa espacial soviético",
+    "ID COSPAR": "1966-078A",
+    "Nº SATCAT": "02406",
+    "Duración de la misión": "38 días",
+    "Tipo de nave": "E-6LF",
+    "Fabricante": "GSMZ Lavochkin",
+    "Masa en seco": "1136 kg",
+    "Masa en el lanzamiento": "1640 kg",
+    "Instrumentos": "Sistema de imágenes para fotografía lunar\nEspectrómetro de rayos gamma\nMagnetómetro\nDetectores de radiación\nRadiometro infrarrojo\nDetector de meteoritos\nExperimento de transmisión R-1",
+    "Fecha de lanzamiento": "24 de agosto de 1966, 08:03:21 UTC",
+    "Vehículo de lanzamiento": "Molniya-M 8K78M",
+    "Lugar de lanzamiento": "Baikonur, Sitio 31/6",
+    "Contratista del lanzamiento": "Progreso de TsSKB",
+    "Última señal": "1o de octubre de 1966",
+    "Fecha de reentrada": "Finales de 1966 o principios de 1967",
+    "Época": "24 de agosto de 1966",
+    "Sistema de referencia orbital": "Selenocéntrico",
+    "Periapsis": "1898 km",
+    "Apoapsis": "2931 km",
+    "Inclinación orbital": "27°",
+    "Periodo orbital": "178 minutos",
+    "Datos interplanetarios": "Tipo: orbitador | objeto: Lunar | órbitas: 277 | fecha de llegada: 27 agosto 1966, 21:49 GMT",
+    "Programa": "Programa Luna",
+    "Misión anterior": "Luna 10",
+    "Misión siguiente": "Luna 12"
+  },
+  "resumen": "Luna 11 (serie E-6LF) fue una misión espacial del programa Luna de la Unión Soviética. También se llamaba Lunik 11. Luna 11 fue lanzada hacia la Luna a bordo de un Molniya-M y entró en órbita lunar el 27 de agosto de 1966.",
+  "secciones": [
+    {
+      "titulo": "Sinopsis",
+      "nivel": 2,
+      "texto": "Los objetivos de la misión incluían el estudio de:\nemisiones de rayos gamma y X lunares para determinar la composición química de la Luna;\nanomalías gravitacionales lunares;\nla concentración de corrientes de meteoritos cerca de la Luna;\nla intensidad de la radiación corpuscular dura cerca de la Luna.\n137 transmisiones de radio y 277 órbitas de la Luna se completaron antes de que las baterías fallaran el 1o de octubre de 1966.\nEste subconjunto de la nave espacial Luna de \"segunda generación\", el E-6LF, fue diseñado para tomar las primeras fotografías de la superficie de la Luna desde la órbita lunar. Un objetivo secundario fue obtener datos sobre las concentraciones de masa (\"mascones\") en la Luna detectadas por primera vez por Luna 10. Utilizando el autobús Ye-6, un conjunto de instrumentos científicos (además de un sistema de imágenes similar al utilizado en Zond 3) reemplazó a la cápsula de aterrizaje pequeña utilizada en los vuelos de aterrizaje suave. La resolución de las fotos fue de 15 a 20 metros. Para reducir los problemas causados por el daño a la película debido a la radiación solar se planeó tomar todas las fotos dentro de las primeras 24 horas de órbitas lunares. Un experimento tecnológico incluyó probar la eficiencia de la transmisión de engranajes en un vacío como una prueba para un futuro rover lunar.\nLuna 11, lanzada solo dos semanas después del orbitador lunar estadounidense, entró en órbita lunar a las 21:49 GMT el 27 de agosto de 1966. Los parámetros eran 99 x 742 millas. Durante la misión, la cámara de televisión no devolvió imágenes utilizables porque la nave espacial perdió la orientación adecuada para enfrentarse a la superficie lunar cuando un objeto extraño fue alojado en la boquilla de uno de los propulsores de control de actitud. Los demás instrumentos funcionaron sin falta antes de que la misión finalizara oficialmente el 1o de octubre de 1966, después de que se hubiera agotado el suministro de energía eléctrica. La nave eventualmente se estrelló en la luna en una fecha desconocida."
+    }
+  ],
+  "num_palabras": 383
+}

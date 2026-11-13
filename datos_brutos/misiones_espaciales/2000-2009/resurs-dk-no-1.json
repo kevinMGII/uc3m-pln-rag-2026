@@ -1,0 +1,117 @@
+{
+  "titulo": "Resurs-DK No.1",
+  "titulo_wikipedia_en": "Resurs-DK No.1",
+  "fecha_lanzamiento": "2006-06-15",
+  "año_lanzamiento": 2006,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión heliofísica"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Resurs-DK_No.1",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Otros nombres": "Resurs-DK1",
+    "Tipo de misión": "Observación de la Tierra",
+    "Operador": "NTs OMZ",
+    "ID COSPAR": "2006-021A",
+    "Nº SATCAT": "29228",
+    "Duración de la misión": "3 años (previsto)\n(Logrado)",
+    "Plataforma (bus)": "Yantar",
+    "Fabricante": "Progreso de TsSKB",
+    "Masa en el lanzamiento": "6570 kg",
+    "Masa de la carga útil": "1200 kg",
+    "Dimensiones": "7.93 xx",
+    "Fecha de lanzamiento": "15 de junio de 2006, 08:00:00 UTC",
+    "Vehículo de lanzamiento": "Soyuz-U",
+    "Lugar de lanzamiento": "Baikonur, sitio 1/5",
+    "Contratista del lanzamiento": "Progreso de TsSKV",
+    "Tipo de fin de misión": "Desmantelado",
+    "Desactivación": "7 de febrero de 2016",
+    "Sistema de referencia orbital": "Órbita geocéntrica",
+    "Régimen orbital": "Órbita terrestre baja",
+    "Periapsis": "555,74 km",
+    "Apoapsis": "566,46 km",
+    "Inclinación orbital": "69.94°",
+    "Periodo orbital": "95,88 minutos",
+    "Instrumentos": "Geoton-1\nPAMELA\nARINA",
+    "Programa": "Observación de la Tierra en Rusia",
+    "Misión siguiente": "Resurs-P No.1"
+  },
+  "resumen": "Resurs-DK No.1, también llamado Resurs-DK1, era un satélite comercial de observación de la Tierra capaz de transmitir imágenes de alta resolución (hasta 0,9 m) a las estaciones terrestres cuando pasaba por encima. La nave fue operada por NTs OMZ, el Centro Ruso de Investigación para el Monitoreo Operativo de la Tierra.\nEl satélite fue diseñado para la teleobservación multiespectral de la superficie de la Tierra con el fin de adquirir imágenes visibles de alta calidad en tiempo casi real, así como la entrega de datos en línea por radio y proporcionar a una amplia gama de consumidores datos procesados de valor añadido.\nEl servicio ruso de rastreo espacial, ASPOS OKP, informó que los sistemas a bordo y el control de actitud de la nave espacial habían terminado en febrero de 2016. El seguimiento del satélite se interrumpió el 1 de marzo de 2016.",
+  "secciones": [
+    {
+      "titulo": "Vehículo espacial",
+      "nivel": 2,
+      "texto": "La nave espacial Resurs-DK fue construida por la compañía espacial rusa TsSKB-Progress en Samara, Rusia. Fue una versión modificada del satélite de reconocimiento militar Yantar-4KS1 (Terilen). La nave espacial estaba estabilizada en tres ejes. La vida útil del diseño fue no menos de tres años, con una vida útil esperada de cinco años. La precisión de la ubicación del suelo fue de 100 m. El almacenamiento a bordo era de 768 gigabits. La velocidad de enlace de datos a la estación terrestre era de 300 Mbit/s. La productividad diaria máxima fue de 1.000.000 km2.\nResurs es ruso para \"Resource\". Las letras DK son las iniciales de Dmitry Kozlov, diseñador jefe del primer satélite de la clase Yantar-2K."
+    },
+    {
+      "titulo": "Subsistema óptico",
+      "nivel": 2,
+      "texto": "Tipo: telefoto apocromático\nLongitud focal: 4000 mm\nDiámetro objetivo: 500 mm\nIntervalo espectral: 0,5–0,9 μm\nMasa: 310 kg\nHecho por el Instituto Óptico Estatal Vavilov, Rusia."
+    },
+    {
+      "titulo": "Resolución espectral",
+      "nivel": 2,
+      "texto": "0,58–0,8 μm pancromático\n0,5–0,6 μm verde\n0,6–0,7 μm de color rojo\n0,7–0,8 μm visible y cercano al infrarrojo\nNo fue posible representar una imagen en verdadero color porque no había banda azul (0,4–0,5 μm). Sin embargo, fue posible combinar el rojo, el verde y el infrarrojo cercano de tal manera que la apariencia de la imagen mostrada se asemeja a una fotografía a color visible, es decir, vegetación en verde, agua en azul, suelo en marrón. Esto no siempre fue posible porque dos objetos de color similar pueden tener reacciones completamente diferentes a la luz IR cercana.\nVerde, rojo y cerca de IR se combinan típicamente para hacer un compuesto de color falso tradicional donde el IR cercano se muestra en rojo, el rojo se muestra en verde, y el verde se muestra en azul. Esta combinación es favorecida por los científicos porque cerca de IR es útil para la detección de numerosos tipos de vegetación. La vegetación aparece como tonos rojos, cuanto más brillante es el rojo, más saludable es la vegetación. Los suelos con vegetación escasa o nula van desde el blanco (arena, sal) hasta los verdes o marrones, dependiendo de la humedad y el contenido de materia orgánica. El agua parece azul, el agua clara es azul oscuro a negro, mientras que las aguas poco profundas o con altas concentraciones de sedimentos son azules más claros. Las zonas urbanas aparecerán azules hacia grises. Las nubes y la nieve son blancas."
+    },
+    {
+      "titulo": "Dependencia del Plano Focal",
+      "nivel": 2,
+      "texto": "La unidad contaba con 4 matrices de sensores TDI (Time Delay and Integration), una pancromática y tres multiespectrales. Cada matriz de sensores estaba compuesta por 36 chips CCD \"Kruiz\". La longitud efectiva de la matriz simple fue de aproximadamente 36000 píxeles. Las radiografías se agruparon en 3 líneas separadas:\ncerca del infrarrojo\npancromático y rojo\nverde\nEsta separación estaba causando un retraso de tiempo de las imágenes de color combinadas de verde, rojo y infrarrojo cercano, por lo que los objetos de movimiento rápido se muestran en trillizos. Se podría calcular la velocidad y dirección del objeto en movimiento. Todos los 4 arrays podían funcionar simultáneamente, por lo que era posible combinar 3 imágenes pancromáticas y multiespectrales en un compuesto de color afilado.\nEl sistema utiliza convertidores analógicos a digitales de 10 bits.\nLa Unidad de Plano Focal fue realizada por NPO Opteks, Rusia [1]."
+    },
+    {
+      "titulo": "CCD",
+      "nivel": 3,
+      "texto": "El CCD \"Kruiz\" era un sensor TDI de alta velocidad de 1024 píxeles x 128 líneas. El área de imagen activa fue organizada como 1024 columnas verticales y 128 filas horizontales de TDI. [2]\nTamaño de píxeles: 9 x 9 μm\nNúmero de etapas TDI seleccionables electrónicamente: 128, 64, 32, 16, 8\nDos registros de cambios de lectura y dos amplificadores de salida que permiten una lectura dos veces más rápida\nAutoprueba sin iluminación\nCapacidad total del pozo: 120 000 electrones\nRango dinámico: 2500\nEficiencia de transferencia de carga en cualquier dirección: más de 0,99998 por transferencia\nEficiencia cuántica máxima: 0,33 (a 0,72 μm)."
+    },
+    {
+      "titulo": "Resolución espacial",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Pancromático",
+      "nivel": 3,
+      "texto": "A una altitud de 360 km:\nNadir: 0,9 m\n30° de inclinación: 1,0 m\nA la altitud de 604 km:\nNadir: 1,5 m\n30° de inclinación: 1,7 m"
+    },
+    {
+      "titulo": "Multiespectral",
+      "nivel": 3,
+      "texto": "1,5–2,0 m [3]"
+    },
+    {
+      "titulo": "Resolución temporal",
+      "nivel": 2,
+      "texto": "La tasa de revisión fue de 5 a 7 días fuera de Nadir."
+    },
+    {
+      "titulo": "Swath",
+      "nivel": 2,
+      "texto": "Ancho de banda a una altitud de 350 km:\n4.7–28,3 km (en nadir)\n40 km (a ± 30°)"
+    },
+    {
+      "titulo": "ARINA",
+      "nivel": 2,
+      "texto": "Equipo de investigación ruso para la detección de electrones y protones de alta energía, su identificación, detección de explosiones de partículas de alta energía – señales de terremotos.\nMasa: 9 kg"
+    },
+    {
+      "titulo": "PAMELA",
+      "nivel": 2,
+      "texto": "PAMELA, Payload for Antimatter Matter Exploration y Light-nuclei Astrophysics fue un módulo adjunto construido por investigadores italianos con socios internacionales. Su propósito era la investigación física básica de los rayos cósmicos primarios.\nMasa: 470 kg"
+    },
+    {
+      "titulo": "Principales tareas",
+      "nivel": 2,
+      "texto": "Suministro de datos para la gestión de recursos y la actividad económica (inventario de recursos naturales, cartografía topográfica y temática).\nLa vigilancia de las fuentes de contaminación de la atmósfera, el agua y el suelo con miras a proporcionar a las autoridades ambientales federales y regionales la información pertinente para tomar decisiones de gestión.\nSupervisión en línea de las emergencias naturales y causadas por el hombre con el fin de planificar eficazmente y ejecutar oportunamente las medidas para eliminar los daños.\nSuministro de consumidores domésticos y extranjeros sobre una base comercial.\nActividades de investigación (experimentos PAMELA y ARINA)."
+    },
+    {
+      "titulo": "Cambio importante en la órbita",
+      "nivel": 2,
+      "texto": "El satélite fue colocado inicialmente en una órbita de 355 km × 573 km (221 mi × 356 mi) en 2006. El 10 de septiembre de 2010, su órbita fue circularizada a 567 km × 573 km (352 mi × 356 mi), con una inclinación de 69.9°."
+    }
+  ],
+  "num_palabras": 1051
+}

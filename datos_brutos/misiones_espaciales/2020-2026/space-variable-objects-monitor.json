@@ -1,0 +1,60 @@
+{
+  "titulo": "Space Variable Objects Monitor",
+  "titulo_wikipedia_en": "Space Variable Objects Monitor",
+  "fecha_lanzamiento": "2024-06-22",
+  "año_lanzamiento": 2024,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Telescopio espacial"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Space_Variable_Objects_Monitor",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Otros nombres": "Misión de monitoreo de objetos astronómicos multibanda transferidos desde el espacio",
+    "Tipo de misión": "Observatorio de explosión de rayos gamma",
+    "Operador": "CNES / CNSA",
+    "Duración de la misión": "3 años (previsto)\nOcasionó:",
+    "Nave": "SVOM",
+    "Masa en el lanzamiento": "950 kg",
+    "Dimensiones": "2.5 xx",
+    "Potencia": "800 vatios",
+    "Fecha de lanzamiento": "22 de junio de 2024 (07: 00:00 UTC)",
+    "Vehículo de lanzamiento": "Larga marzo 2C",
+    "Lugar de lanzamiento": "Centro de Lanzamiento de Satélites Xichang",
+    "Contratista del lanzamiento": "Corporación China de Ciencia y Tecnología Aeroespaciales (CASC)",
+    "Sistema de referencia orbital": "Órbita geocéntrica",
+    "Régimen orbital": "Órbita terrestre baja",
+    "Periapsis": "625 km",
+    "Apoapsis": "625 km",
+    "Inclinación orbital": "30°",
+    "Periodo orbital": "90,0 minutos",
+    "Instrumentos": "ECLAIR: rayos X a γ-ray, 10-310 pm (4–120 keV)\nGRM: γ-ray, 0,2–25 pm (50 keV – 5 MeV)\nVT: luz casi IR a luz visible, 400–950 nm\nacrónimo1: ECLAIRS ; Cámara de campo amplio ; acrónimo2: GRM ; Monitor de explosión de rayos gamma ; acrónimo3: MXT ; Telescopio de rayos X de microcanal ; acrónimo4: VT ; Telescopio visible"
+  },
+  "resumen": "El Monitor de Objetos Variables Espaciales (SVOM) es un pequeño satélite de telescopio de rayos X desarrollado por la Administración Espacial Nacional de China (CNSA), la Academia China de Ciencias (CAS) y la Agencia Espacial Francesa (CNES), lanzado el 22 de junio de 2024 (07:00:00 UTC).\nSVOM estudiará las explosiones de estrellas masivas analizando las explosiones de rayos gamma resultantes. El ligero espejo de rayos X para SVOM pesa solo 1 kg. SVOM añadirá nuevas capacidades a la labor de encontrar ráfagas de rayos gamma que está realizando actualmente el satélite multinacional Swift Gamma-Ray Burst Mission. Su estrategia de apuntamiento antisolar hace que la Tierra cruce el campo de visión de su carga útil en cada órbita.",
+  "secciones": [
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "Utilizando la sinergia entre los instrumentos espaciales y terrestres, la misión tiene estos objetivos científicos:\nPermitir la detección de todos los tipos conocidos de ráfagas de rayos gamma (GRB)\nProporcionar posiciones GRB rápidas y fiables\nMedir la forma espectral de banda ancha de la emisión rápida (de visible a MeV)\nMedir las propiedades temporales de la emisión rápida (de visible a MeV)\nIdentificar rápidamente los reflejos de los GRB detectados en las longitudes de onda de rayos X y ópticas, incluidos los que son muy rojos (z>6)\nMedir la forma espectral de banda ancha del retroluz temprano y tardío (desde los rayos X visibles hasta los rayos X)\nMedir la evolución temporal del brillo posterior temprano y tardío (de los rayos X visibles)"
+    },
+    {
+      "titulo": "Instrumentos científicos",
+      "nivel": 2,
+      "texto": "La órbita seleccionada es circular con una altitud de 600 km y un ángulo de inclinación de 30° con un período de precesión de 60 días. La carga útil se compone de los cuatro instrumentos principales siguientes:\nECLAIRS\nECLAIRS es una cámara de máscara codificada de campo amplio (~2 sr) con una transparencia de máscara del 40% y un plano de detección de 1024 cm2 acoplado a una unidad de procesamiento de datos, llamada UGTS, que está a cargo de localizar los GRBs en imágenes y disparadores de velocidad en tiempo casi real. El sistema de disparo del telescopio de máscara codificada ECLAIRs a bordo SVOM representa el cielo en el rango de energía de 4-120 keV, con el fin de detectar y localizar GRB en su campo de visión de 2 r de ancho. El umbral de baja energía de ECLAIRs es muy adecuado para la detección de GRB de alta variación al rojo. Se espera que ECLAIRS detecte ~200 GRB de todo tipo durante los 3 años nominales de vida de la misión. Para alcanzar un umbral de baja energía de 4 keV, el plano de detección de ECLAIRS está pavimentado con detectores Schottky CdTe de 6400 4×4 mm2 y 1 mm de espesor. Los detectores se agrupan por 32, en matrices de 8x4 leídas por un ASIC de bajo ruido, formando módulos elementales llamados XRDPIX.\nMonitor de explosión de rayos gamma (GRM)\nUn espectrómetro de rayos gamma (GRM), sensible en el dominio de 50 keV a 5 MeV, extenderá la cobertura de energía de emisión rápida. Las alertas GRB se envían en tiempo real a la comunidad de observadores terrestres.\nTelescopio de rayos X de microcanal (MXT)\nUna nave espacial es ejecutada con el fin de colocar el GRB dentro de los estrechos campos de visión de dos instrumentos - un telescopio de rayos X blando (MXT) y un telescopio de banda visible (VT), para refinar la posición del GRB y estudiar las primeras fases del posterior brillo del GRB. MXT utiliza óptica de ojo de langosta que le dará un amplio campo de visión.\nTelescopio visible (VT)\nUn telescopio visible de 45 cm que opera de 400 a 950 nm, con un FOV de 21 × 21 minutos de arco. Llegará a una sensibilidad de cerca de 23 magnitudes, en la banda R, en un tiempo de exposición de 300 segundos, a 5 segundos."
+    },
+    {
+      "titulo": "Segmento terrestre",
+      "nivel": 2,
+      "texto": "El segmento de tierra incluye un conjunto de tres instrumentos dedicados basados en tierra –dos telescopios robóticos de seguimiento de tierra (GFT) y un monitor óptico, Ground Wide Angle Camera (GWAC)– que complementarán los instrumentos llevados por el espacio. Una gran fracción de GRB tendrá determinaciones de corrimiento al rojo, una estrategia de observación optimizada para facilitar observaciones de seguimiento por grandes telescopios espectroscópicos terrestres.\nUn elemento clave de la misión SVOM son las cámaras de ángulo de ancho de tierra (GWACs) y los telescopios de seguimiento terrestre (GFTs).\nCámaras angulares de ancho de tierra (GWACs)\nLos GWAC, una amplia gama de cámaras ópticas FoV que operan en el dominio óptico, permitirán un estudio sistemático de la emisión visible durante y antes de la emisión rápida de alta energía. Cubrirá un campo de visión de unos 8000 grados, con una sensibilidad de unas 15 magnitudes a 5 segundos (bajo la condición de Luna llena), en la banda V y con un tiempo de exposición de 15 segundos. Supervisará continuamente el campo cubierto por ECLAIRS con el fin de observar las emisiones visibles de más del 20% de los eventos, al menos 5 minutos antes y 15 minutos después del desencadenante del GRB.\nTelescopios de seguimiento en tierra (GFT)\nLos GFT, dos telescopios robóticos de 1 metro de clase (uno gestionado por Francia y otro por China), señalarán automáticamente su campo de visión hacia la caja de error dada por el espacio dentro de las decenas de segundos después de la recepción de alerta y proporcionará seguimiento pancromático (visible a infrarrojo cercano). Contribuirán a la mejora del enlace entre la carga útil científica y los telescopios más grandes midiendo las coordenadas celestes con una precisión superior a 0,5 y proporcionando una estimación de su desplazamiento al rojo fotométrico en menos de 5 minutos después del inicio de las observaciones. Estos datos estarán a disposición de la comunidad científica a través de un mensaje de alerta. Colocados uniformemente en la Tierra (uno en América del Sur en un lugar a definir, el otro en China), estarán en condiciones de iniciar la investigación de la emisión óptica de GRB inmediatamente después de la recepción de alerta en más del 40% de los casos."
+    },
+    {
+      "titulo": "Resultados",
+      "nivel": 2,
+      "texto": "Marcando casi su primer año completo desde su lanzamiento, el 10 de junio de 2025 SVOM informó de su hasta entonces 23o evento de Gamma Ray Burst GRB 250610B a través de la circular GCN 40671."
+    }
+  ],
+  "num_palabras": 1044
+}

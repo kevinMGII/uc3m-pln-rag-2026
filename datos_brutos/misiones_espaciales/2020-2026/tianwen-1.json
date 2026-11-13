@@ -1,0 +1,51 @@
+{
+  "titulo": "Tianwen-1",
+  "titulo_wikipedia_en": "Tianwen-1",
+  "fecha_lanzamiento": "2020-07-23",
+  "año_lanzamiento": 2020,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración de Marte",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Tianwen-1",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Ciencia planetaria con un orbitador, aterrizador y un rover",
+    "Operador": "Administración Espacial Nacional China",
+    "Fecha de lanzamiento": "23 de julio de 2020",
+    "Vehículo de lanzamiento": "Larga Marcha 5"
+  },
+  "resumen": "Tianwen-1 (天问一号, lit. 'cuestiones celestiales') fue una misión espacial de China para llevar al planeta Marte un orbitador, un módulo de aterrizaje y un rover, el Zhurong. El lanzamiento de la misión se realizó el 23 de julio de 2020, con un cohete Larga Marcha 5. Entró en órbita marciana el 10 de febrero de 2021, mientras que el rover Zhurong aterrizó con éxito el 15 de mayo de 2021.",
+  "secciones": [
+    {
+      "titulo": "Visión general",
+      "nivel": 2,
+      "texto": "El programa marciano de China se inició en 2009 en asociación con Rusia. Sin embargo, la nave espacial rusa Fobos-Grunt con un satélite chino Yinghuo-1 se estrelló el 9 de noviembre de 2011, después del despegue. Tras eso, China comenzó su propio proyecto de explorar Marte.\nLa nave espacial ha sido desarrollada por la Corporación de Ciencia y Tecnología Aeroespacial de China (中國航天科技集團公司) (CASC), y gestionada por el National Space Science Centre (NSSC) en Beijing. El diseñador jefe de la misión es el físico e ingeniero Zhang Rongqiao Con esta misión a Marte se pretende demostrar que poseen la tecnología necesaria para realizar una misión de retorno de muestras de Marte propuesta para la década de 2030. El módulo de aterrizaje que transporta el rover utilizará un paracaídas, retrocohetes y bolsas de aire para lograr el aterrizaje.\nEl rover está alimentado por paneles solares, sondeará el terreno con radar, realizará análisis químicos en el suelo y buscará biomoléculas y biofirmas.\nLas principales prioridades de la misión incluyen encontrar vida tanto actual como antigua, evaluar la superficie y el medioambiente del planeta. Las exploraciones solitarias y conjuntas del orbitador y rover de Marte producirán mapas de la topografía de la superficie marciana, características del suelo, composición del material, hielo de agua, atmósfera, campo ionosférico y se recopilarán otros datos científicos.\nSe realizaron diversos aterrizajes simulados para los preparativos de la misión en Instituto de Mecánica Espacial y Electricidad de Beijing."
+    },
+    {
+      "titulo": "Planificación y desarrollo de la misión",
+      "nivel": 2,
+      "texto": "A fines de 2019, el Instituto de Propulsión Aeroespacial de Xi'an, una subsidiaria de CASC, declaró que el rendimiento y el control del sistema de propulsión de la futura nave espacial se habían verificado y habían superado todas las pruebas previas al vuelo necesarias, incluidas las pruebas de vuelo estacionario, sistema para evitar riesgos, desaceleración y aterrizaje. El componente principal del sistema de propulsión del módulo de aterrizaje consiste en un solo motor que proporciona 7,500 Newtons de empuje. El sistema de paracaídas supersónico de la nave espacial también se había probado con éxito anteriormente.\nCNSA inicialmente se centró en Chryse Planitia y en las regiones de Marte Elysium Mons en su búsqueda de posibles sitios de aterrizaje para el módulo de aterrizaje y su vehículo explorador asociado. Sin embargo, en septiembre de 2019, durante una reunión conjunta en Ginebra de la División del Congreso Europeo de Ciencias Planetarias para las Ciencias Planetarias, los presentadores chinos anunciaron que se eligieron dos sitios preliminares en la región de Utopía Planitia de Marte para el intento de aterrizaje anticipado, cada sitio con una elipse de aterrizaje de aproximadamente 100 por 40 kilómetros.\nEl 23 de enero de 2020, China Youth Daily informó que, según fuentes de CASC, la sonda Mars se lanzará en julio de 2020 por el cohete Long March 5 Y4. Esta fue la primera vez que China anunció oficialmente el mes en que se lanzará la sonda desde la Tierra. El periódico también informó que el motor de hidrógeno y oxígeno del cohete Long Y5 del 5 de marzo ha completado una prueba de 100 segundos, que fue la última prueba del motor antes del ensamblaje final del cohete portador.\nEl 10 de febrero de 2021, tras 202 días de viaje, alcanzó con éxito la órbita marciana tras una maniobra automática de desaceleración que duró unos 15 minutos. El 24 de abril de 2021 se anunció que el rover de la misión sería bautizado como Zhu Rong, en homenaje al dios chino del fuego. El rover logró aterrizar exitosamente en la superficie del planeta el 14 de mayo de 2021 a las 23:11 GMT en la región de Utopia Planitia."
+    },
+    {
+      "titulo": "Cámara desplegable TW-1",
+      "nivel": 2,
+      "texto": "En septiembre de 2020, Tianwen-1 implementó la cámara desplegable TW-1 (TDC), un pequeño satélite con dos cámaras que tomó fotos y probó una conexión de radio con la sonda. También completó dos correcciones orbitales de mitad de curso y realizó autodiagnósticos en múltiples cargas útiles. La nave espacial ha comenzado a realizar operaciones científicas con el Analizador de Partículas Energéticas de Marte, montado en el orbitador, que ya ha transmitido datos al control de tierra."
+    },
+    {
+      "titulo": "Instrumentos científicos",
+      "nivel": 2,
+      "texto": "El orbitador, el módulo de aterrizaje y el rover llevarán en total 13 cargas (teóricamente) consistentes en:\nOrbitador\nCámara de resolución media (MRC) con una resolución de 100 m desde una órbita de 400 km\nCámara de alta resolución (HRC) con una resolución de 2 m desde una órbita de 400 km\nMagnetómetro de Marte (MM)\nEspectrómetro de minerales de Marte (MMS), para determinar la composición elemental\nOrbiter Radar Subsuperficial (OSR)\nAnalizador de partículas de iones y neutro de Marte (MINPA).\nRover\nRadar de penetración en el suelo (GPR), para obtener una imagen de unos 100 m (330 pies) debajo de la superficie marciana\nDetector de campo magnético de superficie de Marte (MSMFD)\nInstrumento de Medición Meteorológica de Marte (MMMI)\nDetector de compuestos de superficie de Marte (MSCD)\nCámara multiespectro (MSC)\nCámara de navegación y topografía (NTC)."
+    },
+    {
+      "titulo": "Colaboraciones internacionales",
+      "nivel": 2,
+      "texto": "La Comisión Nacional de Actividades Espaciales (CONAE) de Argentina está colaborando en la misión a través de la Estación de Espacio Lejano. La instalación desempeñó un papel anterior en el aterrizaje de la nave espacial Chang'e 4 en China en el lado opuesto de la Luna en enero de 2019.\nEl Instituto de Investigación en Astrofísica y Planetología de Francia (IRAP) en Toulouse, en Francia, proporcionó un instrumento de espectroscopia de ruptura inducida por láser (LIBS) para la misión. Es un duplicado francés de otro instrumento que se encuentra en el rover Curiosity de la NASA, para poder llevar a cabo una comparación de datos.\nLa Agencia Austriaca de Promoción de la Investigación (FFG) ha ayudado en el desarrollo de un magnetómetro instalado en el orbitador chino. El Instituto de Investigación Espacial de la Academia de Ciencias de Austria en Graz ha confirmado la contribución al magnetómetro para la sonda y ayudó con la calibración del instrumento de vuelo."
+    }
+  ],
+  "num_palabras": 1041
+}

@@ -1,0 +1,23 @@
+{
+  "titulo": "Soyuz TMA-03M",
+  "titulo_wikipedia_en": "Soyuz TMA-03M",
+  "fecha_lanzamiento": "2011-12-21",
+  "año_lanzamiento": 2011,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Soyuz_TMA-03M",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Misión anterior": "Soyuz TMA-22",
+    "Misión siguiente": "Soyuz TMA-04M",
+    "Programa": "Programa Soyuz"
+  },
+  "resumen": "Soyuz TMA-03M es un viaje espacial a la Estación Espacial Internacional, transportando a tres miembros de la tripulación de la Expedición 30 a la ISS. Fue lanzado el 21 de diciembre de 2011, desde el cosmódromo de Baikonur. El TMA-03M es el vuelo 112 de una nave espacial Soyuz, desde la primera vez en 1967, y el tercer vuelo de la Soyuz-TMA versión modernizada (Soyuz TMA-M). El acoplamiento con la Estación Espacial Internacional se previó para el 23 de diciembre a las 19:22 hora de Moscú.\nLa tripulación estaba compuesta por Oleg Kononenko (comandante), André Kuipers y Donald Pettit.",
+  "secciones": [],
+  "num_palabras": 99
+}

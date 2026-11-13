@@ -1,0 +1,35 @@
+{
+  "titulo": "Cosmos 21",
+  "titulo_wikipedia_en": "Kosmos 21",
+  "fecha_lanzamiento": "1963-11-11",
+  "año_lanzamiento": 1963,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Cosmos_21",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {},
+  "resumen": "Cosmos 21 (en ruso: Космос 21 - \"Cosmos 21\") fue una nave espacial soviética con una misión desconocida. Esta misión ha sido identificada tentativamente por la NASA como una prueba de la tecnología de las sondas espaciales de la serie Venera. Puede haber sido un intento de sobrevuelo de Venus, probablemente similar a la posterior misión Cosmos 27, o puede haber tenido la intención desde el principio para permanecer en órbita geocéntrica. En cualquier caso, la nave nunca abandonó la órbita terrestre después de la inserción del lanzador SL-6 / A-2-e. La órbita decayó el 14 de noviembre.",
+  "secciones": [
+    {
+      "titulo": "Lanzamiento",
+      "nivel": 2,
+      "texto": "Cosmos 21 fue lanzado a las 06:23:35 UTC el 11 de noviembre de 1963, con un cohete portador Molniya 8K78 volando del sitio quinto en el Cosmódromo de Baikonur. Su nombre original de desarrollo antes de ser dada la denominación Cosmos 21 una vez que se alcanzó la órbita era 3MV-1 Nº 1."
+    },
+    {
+      "titulo": "Designación",
+      "nivel": 2,
+      "texto": "A partir de 1962, el nombre de Cosmos fue dado a la nave espacial soviética que permaneció en la órbita terrestre, independientemente de si ese era su destino final previsto. La designación de esta misión como una sonda planetaria prevista se basa en la evidencia de las fuentes soviéticas y no soviéticas y documentos históricos. Normalmente misiones planetarias soviéticas se pusieron inicialmente en una órbita de aparcamiento de la Tierra como una plataforma de lanzamiento con un motor de cohete y sonda conectada. Las sondas fueron lanzados hacia sus objetivos con un encendido del motor con una duración de aproximadamente 4 minutos. Si el motor se activaba de forma incorrecta o la quemadura no se completó, las sondas se quedarían en la órbita terrestre y se les da una designación \"Cosmos\"."
+    },
+    {
+      "titulo": "Misión",
+      "nivel": 2,
+      "texto": "Durante esta misión, la tercera y cuarta etapas se separaron de forma anormal y, tras alcanzar la órbita terrestre, el control terrestre perdió la telemetría (a las 06:45:44 GMT) de la etapa superior Blok L, diseñada para enviar el vehículo más allá de la Luna. Como resultado, la nave espacial quedó varada en la órbita terrestre. La turbobomba del motor principal de la etapa probablemente explotó al encenderse, destruyendo la nave espacial. El 11 de noviembre de 1963, tenía un perigeo de 182 kilómetros (113 millas) y un apogeo de 216 kilómetros (134 millas), con una inclinación de 64,8° y un período orbital de 88,5 minutos. La nave espacial se desintegró el 14 de noviembre de 1963. Con esta misión, los soviéticos comenzaron la práctica de dar designaciones Cosmos para ocultar el fracaso de las sondas lunares y planetarias que permanecían varadas en la órbita terrestre. Si la nave espacial hubiera salido con éxito de la órbita terrestre, probablemente se habría llamado Zond 1."
+    }
+  ],
+  "num_palabras": 446
+}

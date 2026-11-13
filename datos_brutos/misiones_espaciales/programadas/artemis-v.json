@@ -1,0 +1,38 @@
+{
+  "titulo": "Artemis V",
+  "titulo_wikipedia_en": "Artemis V",
+  "fecha_lanzamiento": "2028",
+  "año_lanzamiento": 2028,
+  "estado": "programada",
+  "tipo_mision": [
+    "Exploración lunar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Artemis_V",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Alunizaje tripulado",
+    "Vehículo de lanzamiento": "SLS Block 1",
+    "Lugar de lanzamiento": "Kennedy LC-39B",
+    "Lugar de aterrizaje": "Océano Pacífico (planeado)\nMódulo de alunizaje: Polo sur lunar",
+    "Fecha de lanzamiento": "Finales del 2028",
+    "Nave": "Orión MPCV\nESM-4\nStarship HLS o Blue Moon HLS",
+    "Fabricante": "Orión MCPV: Lockheed Martin\nESM: Airbus Defence and Space\nHLS: SpaceX o Blue Origin",
+    "Operador": "NASA",
+    "Duración de la misión": "~ días",
+    "Programa": "Programa Artemisa",
+    "Misión anterior": "Artemis IV",
+    "Misión siguiente": "Artemis VI"
+  },
+  "resumen": "Artemis 5 (oficialmente Artemis V) será la quinta misión planificada del programa Artemis de la NASA. La misión lanzará a la tripulación (de la cual aún no se sabe nada sobre ella) en la cápsula Orión que irá en una variante de la Starship.\nIrán a la órbita lunar donde los astronautas realizarán expediciones a bordo de Gateway y en la superficie lunar.",
+  "secciones": [
+    {
+      "titulo": "Descripción General",
+      "nivel": 2,
+      "texto": "Para esta misión la NASA enviará a los astronautas a la superficie lunar desde Gateway. Para descender, la NASA ya ha seleccionado Blue Origin. Esta empresa creará el módulo de Aterrizaje bautizado como Blue Moon.\nPara Artemis V se prevé que el SLS envíe a Orión y su tripulación a la órbita lunar, donde los astronautas realizarán expediciones a Gateway pero también a la superficie lunar.\nEsta misión será el primer vuelo del módulo de aterrizaje Blue Moon. También será la tercera vez en la que habrá un alunizaje del programa Artemis. Además, Artemis entregará dos nuevos elementos a Gateway: el módulo de comunicaciones y reabastecimiento de combustible de la Agencia Espacial Europea; y un sistema de brazo robótico construido por la Agencia Espacial Canadiense. Por si esto fuera poco, también entregará el vehículo terrestre lunar de la NASA.\nEn esta misión, tras acoplarse a Gateway, dos astronautas irán al módulo de aterrizaje lunar 'Blue Moon' y le volarán hasta el Polo Sur Lunar con el vehículo Lunar a bordo. Este será el primer alunizaje desde el Apolo 17 en el que se utilizará un vehículo lunar sin presión. Está previsto que los astronautas estén en la superficie lunar durante aproximadamente una semana. Durante la cual realizarán actividades científicas y de exploración.\nEstá previsto que Artemis V se lance no antes de septiembre del año 2029, según un estudio efectuado en marzo de 2023."
+    }
+  ],
+  "num_palabras": 297
+}

@@ -1,0 +1,42 @@
+{
+  "titulo": "Advanced Composition Explorer",
+  "titulo_wikipedia_en": "Advanced Composition Explorer",
+  "fecha_lanzamiento": "1997-08-25",
+  "año_lanzamiento": 1997,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión heliofísica",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Advanced_Composition_Explorer",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Activo",
+    "Tipo de misión": "Observatorio espacial",
+    "Operador": "NASA",
+    "Fecha de lanzamiento": "25 de agosto de 1997",
+    "Lugar de lanzamiento": "Cabo Cañaveral",
+    "Vehículo de lanzamiento": "Delta",
+    "ID NSSDC": "1997-045A",
+    "Masa en el lanzamiento": "596 kg",
+    "Sistema de referencia orbital": "Alrededor del punto Lagrange L1",
+    "Instrumentos": "Cosmic Ray Isotope Spectrometer (CRIS)\nACE Real Time Solar Wind (RTSW)\nSolar Wind Ion Mass Spectrometer (SWIMS) y Solar Wind Ion Composition Spectrometer (SWICS)\nUltra-Low Energy Isotope Spectrometer (ULEIS)\nSolar Energetic Particle Ionic Change analyzer (SEPICA)\nSolar Isotope Spectrometer (SIS)\nSolar Wind Electron, Proton and Alpha Monitor (SWEPAM)\nMagnetómetro (MAG)"
+  },
+  "resumen": "Advanced Composition Explorer (ACE) es un satélite que de la NASA cuyo objetivo primordial es comparar y determinar la composición elemental e isotópica de distintos tipos de materia, entre los que se incluyen el viento solar, el medio interestelar y otra materia de origen galáctico. Con una masa de 596 kg, fue lanzado el 25 de agosto de 1997 a bordo de un Delta II y actualmente está operando en las cercanías del Punto de Lagrange L1, situado entre el Sol y la Tierra, a una distancia de unos 1,5 millones de kilómetros de esta última.",
+  "secciones": [
+    {
+      "titulo": "Instrumentación",
+      "nivel": 2,
+      "texto": "Cosmic Ray Isotope Spectrometer (CRIS): Estudia y determina la composición isotópica de los rayos cósmicos en un intento de esclarecer su origen\nACE Real Time Solar Wind (RTSW)\nSolar Wind Ion Mass Spectrometer (SWIMS) y Solar Wind Ion Composition Spectrometer (SWICS): Estos dos instrumentos son espectrómetros de masas cada uno destinado para diferentes medidas. Analizan la composición química e isotópica del viento solar y la materia interestelar.\nUltra-Low Energy Isotope Spectrometer (ULEIS): Este instrumento mide el flujo de iones en el rango del helio hasta el níquel para determinar las características de las partículas energéticas solares y el mecanismo por el cual las mismas se cargan por el sol.\nSolar Energetic Particle Ionic Change analyzer (SEPICA)\nSolar Isotope Spectrometer (SIS)\nSolar Wind Electron, Proton and Alpha Monitor (SWEPAM)\nMagnetometer (MAG)"
+    },
+    {
+      "titulo": "Historia",
+      "nivel": 2,
+      "texto": "La misión fue concebida en un encuentro el 19 de junio de 1983 en la Universidad de Maryland, aunque se venía gestando la propuesta de un satélite que estudiara en profundidad el viento solar y las radiaciones intergalácticas bajo el nombre de Cosmic Composition Explorer. En 1986 la NASA retomó la idea, pero no sería hasta 1988 cuando el ACE fue seleccionado para un estudio conceptual conocido como la Fase A del diseño.\nFinalmente el 22 de abril de 1991 la misión dio comienzo oficialmente con la firma de un contrato entre NASA/GSFC y el California Institute of Technology. Tras varios meses con el planeamiento de las operaciones, dio comienzo la Fase B de definición de la misión en agosto de 1992.\nEl diseño preliminar comenzó en noviembre de 1993, y las Fases C y D de implementación de los instrumentos comenzaron poco después."
+    }
+  ],
+  "num_palabras": 370
+}

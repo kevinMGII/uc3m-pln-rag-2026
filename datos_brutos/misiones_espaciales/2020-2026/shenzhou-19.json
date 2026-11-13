@@ -1,0 +1,54 @@
+{
+  "titulo": "Shenzhou 19",
+  "titulo_wikipedia_en": "Shenzhou 19",
+  "fecha_lanzamiento": "2024-10-29",
+  "año_lanzamiento": 2024,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Shenzhou_19",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Transporte de tripulación a la estación espacial Tiangong",
+    "Operador": "Agencia Espacial Tripulada de China",
+    "Duración de la misión": "180 días (Planificado)\n23 días, 19 horas y 22 minutos (en proceso)",
+    "Tipo de nave": "Shenzhou",
+    "Fabricante": "CASC",
+    "Tripulación": "Cai Xuzhe\nSong Lingdong\nWang Haoze",
+    "Fecha de lanzamiento": "29 de octubre de 2024, 20:27 UTC",
+    "Vehículo de lanzamiento": "Long March 2F",
+    "Lugar de lanzamiento": "Jiuquan, LA-4/SLS",
+    "Contratista del lanzamiento": "CALT",
+    "Fecha de aterrizaje": "2025 (planificado)",
+    "Lugar de aterrizaje": "Mongolia Interior, China",
+    "Sistema de referencia orbital": "Órbita geocéntrica",
+    "Régimen orbital": "Órbita baja terrestre",
+    "Inclinación orbital": "41,5°",
+    "Programa": "Programa espacial tripulado de china",
+    "Misión anterior": "Shenzhou 18",
+    "Misión siguiente": "Shenzhou 20"
+  },
+  "resumen": "Shenzhou 19 (chino: 神舟十九号 pinyin: Shénzhōu Shíjiǔ-hào: lit 'Barco Divino Número 19') es un vuelo espacial chino a la estación espacial Tiangong, que se lanzó el 29 de octubre de 2024. Llevó 3 taikonautas a bordo de una nave espacial Shenzhou. La misión es el decimocuarto vuelo espacial chino tripulado y el decimonoveno vuelo en general del programa Shenzhou.",
+  "secciones": [
+    {
+      "titulo": "Fondo",
+      "nivel": 2,
+      "texto": "El Shenzhou 19 se lanzara el 29 de octubre de 2024, antes de que finalice la misión anterior, Shenzhou 18. Será el octavo vuelo a la estación espacial Tiangong y se espera que dure aproximadamente 6 meses. Partirá tras la llegada de la tripulación de Shenzhou 20 en 2025."
+    },
+    {
+      "titulo": "Misión",
+      "nivel": 2,
+      "texto": "La misión se lanzó desde el Centro de Lanzamiento de Satélites de Jiuquan a bordo de un cohete Long March 2F. La nave espacial Shenzhou se acoplo al puerto de acoplamiento delantero del módulo central Tianhe de la estación, donde entró la tripulación y ahora se hace cargo de las operaciones de la tripulación saliente de Shenzhou 18, que regresara a la Tierra el 4 de noviembre. La tripulación llevara a cabo experimentos para ayudar a China a alcanzar su objetivo de aterrizar una misión tripulada en la Luna en 2030."
+    },
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "La tripulación de la Shenzhou 19 fue seleccionada en febrero de 2024, pero sus nombres no se anunciaron al público hasta el 29 de octubre de 2024."
+    }
+  ],
+  "num_palabras": 226
+}

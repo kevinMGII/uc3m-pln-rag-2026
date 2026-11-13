@@ -1,0 +1,72 @@
+{
+  "titulo": "Chang'e 4",
+  "titulo_wikipedia_en": "Chang'e 4",
+  "fecha_lanzamiento": "2018-12-07",
+  "año_lanzamiento": 2018,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración lunar",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Chang'e_4",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Activa",
+    "Tipo de misión": "Sonda lunar",
+    "Operador": "Administración Espacial Nacional China",
+    "Fecha de lanzamiento": "7 de diciembre de 2018, 18:23 UTC",
+    "Masa en el lanzamiento": "Aterrizador: 1200 kg\nRover: 140 kg",
+    "Dimensiones": "Rover: 1.5 × 1.0 × 1.0 m",
+    "Sistema de referencia orbital": "Lunar",
+    "Programa": "Chino de Exploración Lunar",
+    "Misión anterior": "Chang'e 3",
+    "Misión siguiente": "Chang'e 5"
+  },
+  "resumen": "Chang'e 4 es una misión de exploración lunar de China lanzada el 7 de diciembre de 2018, que incorpora un orbitador, un módulo de aterrizador robótico y un rover. Es el segundo módulo lunar y explorador lunar de China. Se construyó como copia de seguridad de la Chang'e 3, como Chang'e 2 fue igualmente para Chang'e 1. Tras el exitoso aterrizaje de la misión Chang'e 3, la configuración de Chang'e 4 va equipada para cumplir nuevos objetivos científicos. Al igual que sus predecesores, la nave espacial lleva el nombre de la diosa de la Luna china.\nChang'e 4 fue lanzada por un Larga Marcha 3B el 7 de diciembre de 2018. Entró en órbita de aterrizaje el 30 de diciembre de 2018, alunizando con éxito el 3 de enero de 2019, por lo que ha sido el primer alunizaje en el lado oculto de la Luna.\nEl mismo día del alunizaje, y solo unas horas después de que se produjera, la Administración Espacial Nacional China anunció que el nombre elegido para el rover es Yutu-2 o Conejo de Jade 2, siguiendo la lógica nomenclatura de su predecesor, el rover Yutu desplegado por la Chang'e 3. Al igual que en la ocasión anterior, se realizó una encuesta popular para escoger su nombre, pero en la ronda final, la decisión fue tomada por un comité especial designado por la agencia.",
+  "secciones": [
+    {
+      "titulo": "Misión",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Preparación",
+      "nivel": 3,
+      "texto": "La misión estaba programada para ser lanzada en el año 2015 formando parte de la segunda fase del Programa Chino de Exploración Lunar pero, por tener objetivos tan ajustados y estar retrasado el diseño de la misión, hubo que aplazarla. Finalmente fue lanzada el 7 de diciembre de 2018 mediante un cohete Larga Marcha 3B.\nEl plan era que Chang'e 4 aterrizara en la cara oculta de la Luna, la Administración Espacial Nacional China (CNSA) lanzó, el 21 de mayo de 2018, el satélite de retransmisión de comunicaciones Queqiao al punto L2 como una estación de retransmisión de comunicaciones para transmitir las señales entre el módulo de aterrizaje/rover y la estación de la Tierra. El módulo de aterrizaje y el róver aterrizarían a principios de 2019. Sería el aterrizaje en el lado más alejado de la Luna, región de la Luna hasta ese momento sin explorar y conocida como Cuenca Aitken, que es una gran cuenca ubicada en el hemisferio sur del extremo que se extiende desde el Polo Sur hasta el cráter Aitken.\nEl Programa Chino de Exploración Lunar ha comenzado a recibir por primera vez inversiones privadas tanto de empresas como de particulares, medida destinada a acelerar la innovación aeroespacial, reducir costos de producción y promover relaciones entre militares y civiles. Después de Chang'e 4, China seguirá con misiones lunares robóticas que se construirán con la intención de realizar misiones para enviar seres humanos en un plazo aproximado de 15 años."
+    },
+    {
+      "titulo": "Lanzamiento y aterrizaje",
+      "nivel": 3,
+      "texto": "La sonda fue lanzada el 7 de diciembre de 2018 desde el Centro de Lanzamiento de Satélites de Jiuquan mediante un Larga Marcha 3B a las 18:23 UTC. Tras entrar en órbita lunar el 12 de diciembre, la sonda pasó por seis etapas de desaceleración para descender a una altura de 15 km por encima de la superficie lunar. Alunizando finalmente el 3 de enero de 2019 a las 2:26 UTC (10:26 zona horaria de China).\nLa comunicaciones con la sonda se realizan desde la Estación del Espacio Lejano."
+    },
+    {
+      "titulo": "Avances de la misión, estado de la misión",
+      "nivel": 3,
+      "texto": "Tras aterrizar en la cara oculta, y pasadas 12 horas, el rover Yutu 2 se separó del aterrizador y comenzó su camino sobre la superficie de la Luna.\nEn mayo de 2019, el rover descubrío materiales extraños en la cara oculta de la Luna."
+    },
+    {
+      "titulo": "Lugar de alunizaje",
+      "nivel": 2,
+      "texto": "El lugar de alunizaje es el cráter Von Kármán (de 180 km de diámetro) en la Cuenca Aitken en el lado oculto de la Luna. Se cree que el cráter es consecuencia del impacto más antiguo en la Luna. En cuanto a su composición, contiene aproximadamente un 10 % de óxido de hierro (FeO) y 4-5 partes por millón de torio, que puede ser utilizado en lugar del uranio como combustible nuclear en reactores de torio.\nEl sitio también tiene un valor simbólico, ya que Theodore von Kármán fue el supervisor doctoral de Qian Xuesen, quien es considerado el padre del programa espacial chino.\nLas coordenadas selenográficas del aterrizaje son 177,6 grados de longitud este y 45,5 grados de latitud sur."
+    },
+    {
+      "titulo": "Carga útil",
+      "nivel": 2,
+      "texto": "Mientras que el orbitador facilitará las retransmisiones de comunicación, el módulo de aterrizaje y el rover llevarán a cabo experimentos científicos para estudiar la geofísica en la zona de aterrizaje, con una capacidad de análisis químico muy limitada. Además, Chang'e 4 también transportará material internacional originario de Suecia, Alemania, los Países Bajos y Arabia Saudita.\nPara atenuar el frío de la noche lunar, tanto el rover como el aterrizador incorporan un generador de radioisótopos de plutonio-238, de fabricación rusa. Desprende 120 vatios de potencia térmica, lo que permite calentar los instrumentos durante la noche, por medio de un líquido conductor que circula."
+    },
+    {
+      "titulo": "Rover",
+      "nivel": 3,
+      "texto": "Cámara panorámica\nGeorradar\nEspectrómetro infrarrojo\nActive Source Hammer (ASH) para experimentos sísmicos de fuente activa\nEnergetic neutral atom: Analizador pequeño avanzado para neutrales (ASAN), proporcionado por el Instituto Sueco de Física Espacial (IRF). Revelará cómo el viento solar interactúa con la superficie lunar y quizás incluso el proceso detrás de la formación del agua lunar."
+    },
+    {
+      "titulo": "Aterrizador",
+      "nivel": 3,
+      "texto": "Analizador de polvo lunar (LDA)\nAnalizador de campo eléctrico (EFA)\nPaquete de observación de campo magnético y plasma (PMFOP)\nSismómetro lunar (LS) para estructura interna\nInterferómetro de radio VLF (VRI), un radiotelescopio para observaciones astronómicas\nNeutron dosimeter: proyecto Lunar Lander Neutron Dosimetry (LND) desarrollado por la Universidad de Kiel en Alemania.\nAdemás, el módulo de aterrizaje lleva un contenedor con semillas y huevos de insectos para probar si las plantas y los insectos pueden eclosionar y crecer de manera conjunta. El experimento incluye semillas de algodón, colza, papa, y arabidopsis, así como huevos de gusanos de seda y moscas de la fruta. Si los huevos eclosionan, las larvas producirían dióxido de carbono, mientras que las plantas germinadas liberarían oxígeno mediante la fotosíntesis. Se espera que, juntos, las plantas y los gusanos de seda puedan establecer una sinergia simple dentro del contenedor. En el año 1982, la tripulación de la estación espacial soviética Saliut 7 consiguió hacer crecer un poco de Arabidopsis, convirtiéndose así en las primeras plantas en florecer y producir semillas en el espacio. Tuvieron una vida de 40 días.\nDespués de la llegada de la sonda se regaron las semillas, y se vio la germinación del algodón (pero no las otras semillas). El experimento terminó con la llegada de la noche lunar (que comenzó el 13 de enero), dado que la planta no pudo sobrevivir a la baja temperatura, tal como estaba previsto)."
+    }
+  ],
+  "num_palabras": 1117
+}

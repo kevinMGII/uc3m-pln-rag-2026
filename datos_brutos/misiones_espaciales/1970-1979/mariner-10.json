@@ -1,0 +1,47 @@
+{
+  "titulo": "Mariner 10",
+  "titulo_wikipedia_en": "Mariner 10",
+  "fecha_lanzamiento": "1973-11-03",
+  "año_lanzamiento": 1973,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración lunar",
+    "Exploración de Venus",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Mariner_10",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Inactivo",
+    "Tipo de misión": "Científico",
+    "Operador": "NASA",
+    "Fecha de lanzamiento": "3 de noviembre de 1973",
+    "Lugar de lanzamiento": "Cabo Cañaveral",
+    "Vehículo de lanzamiento": "Atlas",
+    "ID NSSDC": "1973-085A",
+    "Masa en el lanzamiento": "526 kg",
+    "Datos interplanetarios": "tipo: acercamiento | objeto: Venus y Mercurio | fecha llegada: 5 de febrero de 1974 (Venus)\n29 de marzo de 1974 ( sobrevuelo de Mercurio)\n21 de septiembre de 1974 (2º sobrevuelo de Mercurio)\n16 de marzo de 1975 ( sobrevuelo de Mercurio)"
+  },
+  "resumen": "Mariner 10 fue la última sonda espacial dentro del programa Mariner de la NASA. Fue lanzada el 3 de noviembre de 1973, dos años después de la Mariner 9. Su misión era probar un transmisor experimental en banda X, explorar la atmósfera, superficie y características físicas de Venus y Mercurio y validar la asistencia gravitatoria, usando en este caso a Venus para acelerarse en su trayecto final hacia Mercurio.\nEn Venus fotografió la atmósfera de este planeta en el espectro ultravioleta, además de realizar otros estudios atmosféricos.\nVisitó Mercurio en tres ocasiones, el 29 de marzo y el 21 de septiembre de 1974 y el 16 de marzo de 1975. En total cartografió entre el 40 y el 45% del planeta, aunque sólo del lado iluminado por el Sol durante los sobrevuelos y no el lado oscuro.",
+  "secciones": [
+    {
+      "titulo": "La nave",
+      "nivel": 2,
+      "texto": "La estructura de la nave era de forma octogonal, con marcos de magnesio y ocho compartimentos para la electrónica. Medía 1,39 m en diagonal y 0,457 m de profundidad. Dos paneles solares, cada uno de 2,69 m de largo y 0,97 m de ancho, se extendían desde los laterales, con un total de 5,1 m² de superficie. La longitud total de la nave, con los paneles extendidos, era de 8 m. La sonda disponía de una plataforma móvil con dos grados de libertad y un mástil de 5,8 m de largo donde se alojaba el magnetómetro. La masa total en el lanzamiento era de 502,9 kg. La masa total de los instrumentos de a bordo era de 79,4 kg.\nEl empuje del motor, alimentado por hidracina alojada en un tanque esférico situado en el centro de la nave, era de 222 newton. La estabilización de la nave en los tres ejes se conseguía con dos juegos de tres pares de propulsores alimentados por nitrógeno situados ortogonalmente entre ellos y montados en los extremos de los paneles solares. El control estaba bajo el ordenador de a bordo, con una memoria de 512 palabras aumentada por los comandos terrestres. La electricidad era obtenida por 2 paneles solares con una superficie total de 5,1 m² y generaban 540 W de potencia que se almacenaba en una batería de NiCd con capacidad de 20 A/hora.\nLa antena de alta ganancia tenía un diámetro de 1,37 m y tenía una estructura con forma de panel de abeja hecha de aluminio. También llevaba una antena de baja ganancia montada al final de un mástil de 2,85 m. Las antenas permitían a la nave transmitir en banda S y banda X, y la velocidad de transmisión máxima estaba en 117,6 kilobits por segundo. La nave espacial llevaba un rastreador de estrellas con el que seguía a Canopus y sensores solares y de adquisición en las puntas de los paneles solares. El interior de la nave fue aislado con múltiples mantas térmicas en la parte superior e inferior. La nave portaba un escudo térmico que se desplegó después de su lanzamiento para proteger a la nave en el lado orientado hacia el Sol. Cinco de los ocho compartimentos de la electrónica llevaban también cortinillas regulables para controlar la temperatura interior.\nLos instrumentos a bordo de la nave espacial midieron la superficie de la atmósfera y las características físicas de Mercurio y Venus. Los experimentos incluyeron la fotografía de televisión, campo magnético, el plasma, radiometría infrarroja, espectroscopia ultravioleta, y detectores de ciencia de radio. Un transmisor experimental en banda X, de alta frecuencia, fue trasladado por primera vez en esta nave espacial."
+    },
+    {
+      "titulo": "Asistencia de vela solar",
+      "nivel": 2,
+      "texto": "En 1974, tras detectarse un fallo en el sistema de control de actitud, se utilizó propelente adicional para realizar las maniobras, por lo que corría peligro el correcto acercamiento a Mercurio y la posición de la antena apuntando hacia la Tierra, ante un inminente agotamiento del propelente. Como medida desesperada, se decidió dirigir adecuadamente los paneles solares para que pudieran ser utilizados a manera de vela solar, lo que proporcionaría el empuje necesario para reemplazar algunas de las maniobras que requerirían gasto adicional de propelente.\nDe esta manera, aunque en forma accidental, se utilizó por primera vez la presión de la luz (en las cercanías del Sol) a manera de vela solar, lo que en este caso produjo que se salvara la continuidad de los objetivos de la misión."
+    },
+    {
+      "titulo": "En la actualidad",
+      "nivel": 2,
+      "texto": "Debido a que la nave espacial consumió la totalidad de su combustible, ya no puede corregir su dirección para apuntar a la Tierra, por lo que se ha perdido contacto con la misma y simplemente ha quedado a la deriva, orbitando alrededor del Sol."
+    }
+  ],
+  "num_palabras": 753
+}

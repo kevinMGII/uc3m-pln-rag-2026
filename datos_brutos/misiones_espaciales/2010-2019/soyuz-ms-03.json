@@ -1,0 +1,26 @@
+{
+  "titulo": "Soyuz MS-03",
+  "titulo_wikipedia_en": "Soyuz MS-03",
+  "fecha_lanzamiento": "2016-11-17",
+  "año_lanzamiento": 2016,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Soyuz_MS-03",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Vehículo de lanzamiento": "Soyuz-FG",
+    "Fecha de lanzamiento": "Noviembre de 2016",
+    "Nave": "Soyuz MS 11F747",
+    "Programa": "Programa Soyuz",
+    "Misión anterior": "Soyuz MS-02",
+    "Misión siguiente": "Soyuz MS-04"
+  },
+  "resumen": "Soyuz MS-03 es un vuelo espacial del Soyuz lanzada el 16 de noviembre de 2016. Transportó a tres miembros de la tripulación de la Expedición 50 de la Estación Espacial Internacional. La nave MS-03 fue el vuelo N° 132 de una nave espacial Soyuz tripulada. El equipo estuvo compuesto por un comandante ruso, un ingeniero de vuelo francés y una ingeniera de vuelo estadounidense.",
+  "secciones": [],
+  "num_palabras": 64
+}

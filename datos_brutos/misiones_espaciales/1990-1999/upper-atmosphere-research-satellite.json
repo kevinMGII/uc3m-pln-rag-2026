@@ -1,0 +1,57 @@
+{
+  "titulo": "Upper Atmosphere Research Satellite",
+  "titulo_wikipedia_en": "Upper Atmosphere Research Satellite",
+  "fecha_lanzamiento": "1991-09-12",
+  "año_lanzamiento": 1991,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Upper_Atmosphere_Research_Satellite",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Observación terrestre",
+    "Operador": "NASA",
+    "Fabricante": "Lockheed Martin",
+    "Fecha de lanzamiento": "12 de septiembre de 1991, 23:11:04 UTC",
+    "Lugar de lanzamiento": "Centro espacial John F. Kennedy, Complejo de lanzamiento 39 A",
+    "Vehículo de lanzamiento": "Transbordador espacial Discovery STS-48",
+    "Duración planificada": "14 años, 91 días",
+    "ID NSSDC": "1991-063B",
+    "Masa en el lanzamiento": "5900 kg",
+    "Potencia": "1600,0 W (3 x 50 A horas)",
+    "Semieje mayor": "600 km",
+    "Excentricidad": "0 °",
+    "Periapsis": "357,3 km",
+    "Apoapsis": "458,8 km575.0 km",
+    "Inclinación orbital": "56,97999954223633 grados",
+    "Periodo orbital": "92,6 minutos"
+  },
+  "resumen": "Upper Atmosphere Research Satellite, también conocido por su acrónimo UARS, fue un satélite artificial de la NASA lanzado el 12 de septiembre de 1991 desde el transbordador espacial Discovery en la misión STS-48.",
+  "secciones": [
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "UARS fue diseñado para estudiar los procesos físicos y químicos que tienen lugar en las capas altas de la atmósfera, entre 15 y 100 km de altura. El satélite proporcionaba mediciones de la estructura interna de la atmósfera y de las influencias externas que actúan sobre ella, como la radiación solar y los campos eléctricos, entre otras. El objetivo específico de UARS era estudiar la entrada y salida de energía en la atmósfera superior, la fotoquímica, la dinámica y la relación entre todos esos procesos."
+    },
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "El satélite estaba estabilizado en los tres ejes mediante volantes de inercia. El control de actitud se llevaba a cabo mediante seguidores estelares, sensores de Tierra y una unidad de referencia inercial con una precisión de 20 segundos de arco. La electricidad la producía un panel solar de 1,5 x 3,3 m que genera 1,6 kW de potencia y que recarga 3 baterías con una capacidad de 50 amperios-hora cada una. La propulsión se llevaba a cabo mediante diversas toberas alimentadas por hidracina. Las comunicaciones se realizaban en banda S mediante antenas de baja ganancia y mediante una antena direccional de alta ganancia."
+    },
+    {
+      "titulo": "Instrumentos",
+      "nivel": 2,
+      "texto": "Cryogenic Limb Array Etalon Spectrometer (CLEAS)\nImproved Stratospheric and Mesospheric Sounder (ISAMS)\nMicrowave Limb Sounder (MLS)\nHalogen Occultation Experiment (HALOE)\nHigh Resolution Doppler Imager (HRDI)\nWind Imaging Interferometer (WINDII)\nSolar-Stellar Irradiance Comparison Experiment (SOLSTICE)\nSolar Ultraviolet Spectral Irradiance Monitor (SUSIM)\nParticle Environment Monitor (PEM)\nActive Cavity Radiometer Irradiance Monitor (ACRIM II)"
+    },
+    {
+      "titulo": "Fin de misión y reingreso a la Tierra",
+      "nivel": 2,
+      "texto": "En 2005, el satélite se quedó sin combustible y dejó de operar. A principios de septiembre de 2011, la NASA informó que el satélite reingresaría de forma incontrolada a la Tierra a fines de dicho mes o principios de octubre en algún punto de la Tierra entre los paralelos 57ºN y el 57ºS\nEl 24 de septiembre de 2011 la NASA informa vía Twitter que el satélite entró en la atmósfera sobre el océano Pacífico y debido a mensajes sin confirmar en Twitter se presume que restos cayeron sobre Canadá, cerca de la ciudad de Okotoks, al sur de Calgary."
+    }
+  ],
+  "num_palabras": 372
+}

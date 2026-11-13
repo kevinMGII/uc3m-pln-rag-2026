@@ -1,0 +1,58 @@
+{
+  "titulo": "Soyuz TM-2",
+  "titulo_wikipedia_en": "Soyuz TM-2",
+  "fecha_lanzamiento": "1987-02-05",
+  "año_lanzamiento": 1987,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Soyuz_TM-2",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "ID COSPAR": "1987-013A",
+    "Nº SATCAT": "17482",
+    "Duración de la misión": "174 días, 3 horas, 25 minutos, 56 segundos",
+    "Órbitas completadas": "~2,810",
+    "Nave": "Soyuz 7K-STM No. 52",
+    "Tipo de nave": "Soyuz-TM",
+    "Fabricante": "NPO Energia",
+    "Masa en el lanzamiento": "7100 kg",
+    "Fecha de lanzamiento": "5 de febrero de 1987, 21:38:16 HUC",
+    "Vehículo de lanzamiento": "Soyuz-U2",
+    "Lugar de lanzamiento": "Baikonur 1/5",
+    "Fecha de aterrizaje": "30 de julio de 1987, 01:04:12 HUC",
+    "Lugar de aterrizaje": "A 80 km de Arkalyk",
+    "Tripulación": "Aleksandr Laveykin",
+    "Tripulación en el lanzamiento": "Yuri Romanenko",
+    "Tripulación en el aterrizaje": "Aleksandr Viktorenko\nMuhammed Faris",
+    "Indicativo": "Taimyr",
+    "Sistema de referencia orbital": "Geocéntrico",
+    "Régimen orbital": "Órbita terrestre baja",
+    "Periapsis": "341 km",
+    "Apoapsis": "365 km",
+    "Inclinación orbital": "51,6 grados",
+    "Periodo orbital": "91,6 minutos",
+    "Acoplamiento": "target de acoplamiento: Mir | tipo de acoplamiento: dock | fecha de acoplamiento: 7 de febrero de 1987, 23:27:40 UTC | fecha de acoplamiento: 29 de julio de 1987, 20:44:00 UTC",
+    "Misión anterior": "Soyuz T-15",
+    "Misión siguiente": "Soyuz TM-3",
+    "Programa": "Programa Soyuz\n(Misiones decretadas)"
+  },
+  "resumen": "Soyuz TM-2 fue un vuelo espacial tripulado a la estación espacial soviética Mir, que fue desenrollado en ese momento. TM-2 fue lanzado el 5 de febrero de 1987, y fue el primer vuelo espacial tripulado de la nave espacial Soyuz-TM, y el segundo vuelo espacial tripulado a Mir (el primero fue Soyuz T-15). La tripulación de la expedición de larga duración, Mir EO-2, que fueron lanzados por TM-2 consistió en los cosmonautas soviéticos Yuri Romanenko y Aleksandr Laveykin.\nLa nave espacial permaneció atracada a Mir, funcionando como un bote salvavidas para la tripulación de EO-2, hasta julio de 1987, cuando regresó a la Tierra con Laveykin y la tripulación de dos hombres de Mir EP-1. Romanenko regresó más tarde a la Tierra en Soyuz TM-3 al final del EO-2.",
+  "secciones": [
+    {
+      "titulo": "Parámetros de la misión",
+      "nivel": 2,
+      "texto": "Masa: 7100 kg\nPerigeo: 341 km\nApogeo: 365 km\nInclinación: 51,6°\nPeríodo: 91,6 minutos"
+    },
+    {
+      "titulo": "Aspectos destacados de la misión",
+      "nivel": 2,
+      "texto": "Al principio de la expedición EO-2, el módulo Kvant-1 fue lanzado para atracar automáticamente con Mir. El sistema de acoplamiento, conocido como el \"sistema Igla\", no se comportaba como se esperaba. El 5 de abril, la tripulación del EO-2 se retiró a la nave espacial Soyuz TM-2 para que pudieran escapar en caso de que el módulo se descontrolara. A unos 200 m, el sistema de acoplamiento perdió su bloqueo en la antena de popa de Mir. Los cosmonautas observaron desde dentro de Soyuz TM-2 mientras la combinación Kvant/FSM pasaba a menos de 10 m de la estación. Tras una caminata espacial de emergencia, Kvant se acopló completamente a la estación el 11 de abril."
+    }
+  ],
+  "num_palabras": 258
+}

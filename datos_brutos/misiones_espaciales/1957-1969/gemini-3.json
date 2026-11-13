@@ -1,0 +1,44 @@
+{
+  "titulo": "Gemini 3",
+  "titulo_wikipedia_en": "Gemini 3",
+  "fecha_lanzamiento": "1965-03-23",
+  "año_lanzamiento": 1965,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Gemini_3",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Lugar de lanzamiento": "Centro Espacial Kennedy, Florida\nLC 19",
+    "Masa en el lanzamiento": "3.236,9 kg",
+    "Fecha de lanzamiento": "23 de marzo de 1965\n14:24:00.064 UTC",
+    "Fecha de aterrizaje": "23 de marzo de 1965\n19:16:31 UTC",
+    "Duración de la misión": "4 horas 52 min 32 s",
+    "Periodo orbital": "88,3 min",
+    "Inclinación orbital": "32,6°",
+    "Órbitas completadas": "3",
+    "Apoapsis": "224,2 km",
+    "Periapsis": "161,2 km",
+    "Misión anterior": "Gemini 2",
+    "Misión siguiente": "Gemini 4",
+    "Programa": "Programa Gemini"
+  },
+  "resumen": "Gemini 3 fue una misión espacial tripulada del programa Gemini, de la NASA, realizada en 1965. Fue el primer vuelo tripulado del programa Gemini, y el noveno del programa espacial estadounidense.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Virgil I. Grissom, Comandante\nJohn W. Young, Piloto"
+    },
+    {
+      "titulo": "Tripulación de reserva",
+      "nivel": 3,
+      "texto": "Walter M. Schirra, Comandante\nThomas P. Stafford, Piloto"
+    }
+  ],
+  "num_palabras": 47
+}

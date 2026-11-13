@@ -1,0 +1,37 @@
+{
+  "titulo": "Mars 2",
+  "titulo_wikipedia_en": "Mars 2",
+  "fecha_lanzamiento": "1971-05-19",
+  "año_lanzamiento": 1971,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración de Marte",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Mars_2",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Aterrizaje",
+    "Fecha de lanzamiento": "19 de mayo de 1971",
+    "ID NSSDC": "1971-045D\n1971-045A (Mars 2 Orbiter, 05234)",
+    "Masa en el lanzamiento": "2265 kg Orbitador // 358 kg Aterrizador",
+    "Datos interplanetarios": "tipo: orbitador | objeto: Marte"
+  },
+  "resumen": "La sonda Mars 2 (también llamada o Marte 2) (en ruso: Марс-2) fue una sonda espacial lanzada por la Unión Soviética en 1971 hacia el planeta Marte. Los principales objetivos del orbitador Mars 2 eran los mismos que los de la Mars 3. Era idéntica a la Mars 3, cada una con un módulo orbital y un módulo de descenso acoplado.\nEl principal objetivo científico del módulo de descenso Mars 2 era realizar un aterrizaje suave en Marte. La secuencia de descenso del aterrizador falló y la nave impactó contra la superficie.",
+  "secciones": [
+    {
+      "titulo": "Las naves",
+      "nivel": 2,
+      "texto": "Entre los dos módulos sumaban una masa total de 4.650 kg en el momento del lanzamiento, incluyendo el combustible. La altura de la nave era de 4,1 m y llegaba hasta los 5,9 m de envergadura con los dos paneles solares desplegados, mientras que el diámetro de la base era de 2 m. De la masa total, 3,440 kg pertenecían al orbitador cargado de combustible y 1,210 kg eran del módulo de descenso también con el combustible cargado.\nEl sistema de propulsión estaba situado en la parte inferior del cuerpo cilíndrico de la nave que era el principal elemento de la sonda. Estaba formado por un tanque de combustible cilíndrico dividido en compartimentos para alojar el combustible y el oxidante. El motor estaba colocado en un soporte en la parte baja del tanque y el módulo de descenso estaba situado en la parte superior del bus del orbitador. Los dos paneles solares se extendían en los laterales del cilindro y una antena parabólica de 2,5 m situada en el lateral junto a los radiadores servía para las comunicaciones en alta ganancia.\nLa telemetría era transmitida por la nave a 928,4 MHz. Los instrumentos y los sistemas de navegación estaban situados en la parte baja de la sonda y la antena para las comunicaciones con el aterrizador estaba anclada a los paneles solares. Además la nave llevaba tres antenas direccionales de baja potencia que se situaban cerca de la antena parabólica."
+    },
+    {
+      "titulo": "Desarrollo de la misión",
+      "nivel": 2,
+      "texto": "La sonda \"Mars 2\" fue lanzada hacia Marte impulsada por la última etapa del cohete lanzador llamada Tyazheliy Sputnik (71-045C). Se realizaron dos maniobras de corrección de la trayectoria los días 17 de junio y 20 de noviembre. El módulo orbital soltó el módulo de descenso unas 4.30 h antes de llegar a Marte el 27 de noviembre de 1971.\nLa nave entró en la atmósfera marciana a una velocidad de 6 km/s y en un ángulo más acentuado de lo previsto. La secuencia de descenso quedó alterada, provocando un fallo en el sistema de descenso que hizo que los paracaídas no se desplegaran, por lo que el aterrizador se estrelló contra el suelo marciano a 4º Norte y 47° Oeste, en la zona oeste de Hellas Planitia. Aunque de forma accidentada, el módulo de aterrizaje Mars 2 fue el primer objeto fabricado por el ser humano en alcanzar la superficie marciana."
+    }
+  ],
+  "num_palabras": 484
+}

@@ -1,0 +1,24 @@
+{
+  "titulo": "SPHEREx",
+  "titulo_wikipedia_en": "SPHEREx",
+  "fecha_lanzamiento": "2025-03-12",
+  "año_lanzamiento": 2025,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Telescopio espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/SPHEREx",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Fecha de lanzamiento": "12 de marzo de 2025, 03:10 UTC",
+    "Vehículo de lanzamiento": "Falcon 9",
+    "Lugar de lanzamiento": "SLC-4E, Base de la Fuerza Espacial Vandenberg",
+    "Contratista del lanzamiento": "SpaceX"
+  },
+  "resumen": "SPHEREx (Spectro-Photometer for the History of the Universe, Epoch of Reionization, and Ices Explorer, lit. \"Espectrofotómetro para la Historia del Universo, Época de Reionización y Explorador de Hielos\") es un futuro observatorio espacial en infrarrojo cercano que realizará un estudio de todo el cielo para medir los espectros del infrarrojo cercano de aproximadamente 450 millones de galaxias. En febrero de 2019, SPHEREx fue seleccionado por la NASA para su próxima misión MIDEX, superando a dos conceptos de misión competidores: Arcus y FINESSE. Para agosto de 2022, SPHEREx tiene previsto su lanzamiento no antes de abril de 2025 en un vehículo de lanzamiento Falcon 9 desde la Base de la Fuerza Espacial Vandenberg. El investigador principal es James Bock del Instituto de Tecnología de California (Caltech) en Pasadena, California.",
+  "secciones": [],
+  "num_palabras": 128
+}

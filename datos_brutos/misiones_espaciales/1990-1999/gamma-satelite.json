@@ -1,0 +1,43 @@
+{
+  "titulo": "Gamma (satélite)",
+  "titulo_wikipedia_en": "Gamma (satellite)",
+  "fecha_lanzamiento": "1990-07-11",
+  "año_lanzamiento": 1990,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Telescopio espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Gamma_(satélite)",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Inactivo",
+    "Tipo de misión": "Observatorio espacial",
+    "Fecha de lanzamiento": "11 de julio de 1990",
+    "Lugar de lanzamiento": "Cosmódromo de Baikonur",
+    "Vehículo de lanzamiento": "Soyuz",
+    "Duración planificada": "2 años",
+    "ID NSSDC": "1990-058A",
+    "Masa en el lanzamiento": "7000 kg",
+    "Periapsis": "382 km",
+    "Apoapsis": "387 km",
+    "Inclinación orbital": "51,6 grados",
+    "Periodo orbital": "92,3 minutos"
+  },
+  "resumen": "Gamma fue el nombre de un observatorio espacial construido en colaboración por la Unión Soviética y Francia y dedicado a la observación en la parte del espectro correspondiente a la radiación Gamma. Fue lanzado el 11 de julio de 1990 mediante un cohete Soyuz desde el cosmódromo de Baikonur, casi 35 años después de ser concebido.\nEl diseño básico del observatorio fue concebido en 1965 como parte del concepto de \"estación espacial en nube\": una estación espacial primaria rodeada de naves tripuladas en vuelo libre con diferentes funciones. El concepto evolucionó a principios de los años 1970 hacia el diseño de la estación espacial MKBS/MOK: una enorme estación espacial central lanzado por un cohete N-1 con naves autónomas y laboratorios especializados volando a su alrededor. Gamma fue diseñado originalmente como uno de los laboratorios de este complejo, y su estructura deriva la de las naves Soyuz, utilizando sus sistema de propulsión, pero sustituyendo los módulos orbital y de descenso por un gran cilindro presurizado que contenía los instrumentos científicos.\nEl diseño de los instrumentos del observatorio comenzó en 1972, con la participación francesa llegando en 1974. Fue ese mismo año en que el cohete N-1 y la estación MKBS fueron cancelados. El programa espacial soviético fue completamente redefinido en 1976, incluyéndose la autorización necesaria para el desarrollo de Gamma como un elemento de vuelo libre de una nueva estación espacial, la estación DOS-7/DOS-8, que evolucionaría en su momento a la estación Mir. El diseño de Gamma fue completado en 1978, y su construcción fue autorizada, junto con la de la estación Mir, el 16 de febrero de 1979. El diseño de Gamma incluía ahora un puerto de acoplamiento pasivo al que podría acoplarse una cápsula tripulada Soyuz para realizar mantenimiento en el observatorio, reemplazar las cintas de datos y reparar o reemplazar instrumentos. Este esquema de mantenimiento fue desechado en 1982, tras comprobar que la masa de la nave se salía de la capacidad del cohete lanzador y que todas las cápsulas Soyuz serían necesarias para mantener y servir a la estación Mir. Los sistemas de registro de datos del observatorio con cintas fueron sustituidos con métodos puramente electrónicos.\nEn el momento en que el sistema de acoplamiento con naves Soyuz fue desechado, se planeaba el lanzamiento de Gamma para 1984, pero diferentes problemas técnicos impidieron el lanzamiento hasta 1990, casi 35 años después de ser concebido. Finalmente el satélite, en el que también entró a colaborar Polonia, no produjo resultados científicos notables tras sus dos años de vida útil.",
+  "secciones": [
+    {
+      "titulo": "Instrumentos",
+      "nivel": 2,
+      "texto": "Telescopio Gamma 1: era el instrumento principal del observatorio, y estaba diseñado para realizar observaciones en el rango entre 50 MeV y 6 GeV. El sistema consistía en dos centelleadores y un contador de gas de Cerenkov. El área de observación efectiva era de 2000 cm², con una resolución angular de 1,5 grados a 100 MeV. Tenía un campo de visión de ±2,5 grados. La resolución en cuanto a energía era de un 12% a 100 MeV. El telescopio incluía una máscara codificada de tungsteno que podía moverse frente al campo de visión y con la que se conseguía una resolución de 20 minutos de arco para las fuentes más débiles. Poco después del lanzamiento la cámara de chispas falló, produciendo que la resolución angular nunca fuese mejor que 10 grados. El telescopio fue construido conjuntamente por la Unión Soviética y Francia.\nRastreador de estrellas Telezvezda: funcionaba conjuntamente con el telescopio Gamma 1. Disponía de un campo de visión de 6x6 grados, con sensibilidad para observar estrellas de hasta magnitud 5. Su resolución angular era de 2 minutos de arco, posibilitando la determinación del apuntado del telescopio Gamma 1 con la misma precisión.\nTelescopio Disk-M: fue diseñado para observar flujos de energía en el rango entre 20 keV y 5 MeV. El detector consistía en cristales centelleadores de ioduro de sodio. Su resolución angular era de 25 minutos de arco. Dejó de funcionar poco después del lanzamiento.\nTelescopio Pulsar X-2: cubría el rango de energía entre 2 y 25 keV, con una resolución de 30 minutos de arco y un campo de visión de 10x10 grados. Fue construido en colaboración por la Unión Soviética y Francia."
+    },
+    {
+      "titulo": "Resultados científicos",
+      "nivel": 2,
+      "texto": "Gamma realizó estudios del púlsar de Vela, las regiones del centro galáctico, las binarias de Cygnus, la fuente Heming de rayos gamma en la constelación de Taurus y la fuente Hercules X-1. También estudió las emisiones de alta energía del Sol durante el máximo de actividad solar."
+    }
+  ],
+  "num_palabras": 743
+}

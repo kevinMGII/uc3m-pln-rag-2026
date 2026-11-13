@@ -1,0 +1,40 @@
+{
+  "titulo": "HEAO-2",
+  "titulo_wikipedia_en": "Einstein Observatory",
+  "fecha_lanzamiento": "1978-11-13",
+  "año_lanzamiento": 1978,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Telescopio espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/HEAO-2",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Retirado",
+    "Tipo de misión": "Observatorio espacial",
+    "Operador": "NASA",
+    "Fecha de lanzamiento": "13 de noviembre de 1978",
+    "Configuración": "Cilíndrica",
+    "Sistema de referencia orbital": "Circular",
+    "Periapsis": "500 km",
+    "Inclinación orbital": "23,5 Grados",
+    "Instrumentos": "Imaging Proportional Counter (IPC)\nHigh Resolution Imager (HRI)\nSolid State Spectrometer (SSS)\nFocal Plane Crystal Spectometer (FPCS)"
+  },
+  "resumen": "El Observatorio Einstein fue el primer telescopio capaz de tomar imágenes en rayos X puesto en el espacio y el segundo de los tres que la NASA lanzó dentro del programa High Energy Astronomy Observatory HEAO-2. El observatorio fue nombrado en honor a Albert Einstein tras el lanzamiento. Fue una misión clave en el desarrollo de la astronomía de rayos X y sus resultados científicos cambiaron completamente la visión del cielo que tenían los especialistas en rayos X del momento.",
+  "secciones": [
+    {
+      "titulo": "Misión",
+      "nivel": 2,
+      "texto": "HEAO-2, Einstein, fue una misión de la NASA que involucró un consorcio de científicos de diversas instituciones, incluyendo el Harvard-Smithsonian Center for Astrophysics, la Universidad de Columbia, el Goddard Space Flight Center, y el MIT. Einstein fue lanzado a órbita terrestre baja por un cohete Atlas-Centaur el 13 de noviembre de 1978 y operó sin interrupción hasta abril de 1981. Tenía una resolución de algunos arcosegundos y un campo de visión de decenas de arcominutos, con una resolución 100 veces superior a cualquier telescopio de rayos X anterior.\nRealizó los primeros estudios de espectroscopia de supernovas y encontró numerosas fuentes de rayos X en la galaxia de Andrómeda"
+    },
+    {
+      "titulo": "Instrumentos",
+      "nivel": 2,
+      "texto": "Llevaba los siguientes instrumentos a bordo:\nImaging Proportional Counter (IPC)\nHigh Resolution Imager (HRI)\nSolid State Spectrometer (SSS)\nFocal Plane Crystal Spectometer (FPCS)"
+    }
+  ],
+  "num_palabras": 211
+}

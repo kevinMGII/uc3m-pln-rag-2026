@@ -1,0 +1,46 @@
+{
+  "titulo": "Soyuz TMA-12",
+  "titulo_wikipedia_en": "Soyuz TMA-12",
+  "fecha_lanzamiento": "2008-04-08",
+  "año_lanzamiento": 2008,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Soyuz_TMA-12",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Fecha de lanzamiento": "8 de abril de 2008\n11:16 UTC\nBaikonur",
+    "Fecha de aterrizaje": "28 de octubre de 2008\n03:37 UTC",
+    "Programa": "Programa Soyuz",
+    "Misión anterior": "Soyuz TMA-11",
+    "Misión siguiente": "Soyuz TMA-13"
+  },
+  "resumen": "La Soyuz TMA-12 fue una misión a la Estación Espacial Internacional, lanzada por el cohete Soyuz-FG a las 11:16 UTC del 8 de abril de 2008. Se acopló al módulo de amarre Pirs el 10 de abril de 2008 y regresó a la Tierra el 28 de octubre de 2008.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Lanzados y participantes en la Expedición 17",
+      "nivel": 3,
+      "texto": "Sergey Volkov (1) Comandante -\nOleg Kononenko (1) Ingeniero de vuelo -"
+    },
+    {
+      "titulo": "Lanzada",
+      "nivel": 4,
+      "texto": "Yi So-yeon (1) Participante en el vuelo -"
+    },
+    {
+      "titulo": "Retornarán a la tierra",
+      "nivel": 4,
+      "texto": "Richard Garriott (1) Participante en el vuelo\nMaksim Surayev (1) Comandante -\nOleg Skripochka (1) Ingeniero de vuelo -\nKo San (1) Participante en el vuelo -\nEntre paréntesis el número de vuelos espaciales anteriores. Incluye el vuelo actual."
+    }
+  ],
+  "num_palabras": 109
+}

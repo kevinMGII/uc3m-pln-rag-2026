@@ -1,0 +1,52 @@
+{
+  "titulo": "GRAIL",
+  "titulo_wikipedia_en": "GRAIL",
+  "fecha_lanzamiento": "2011-09-10",
+  "año_lanzamiento": 2011,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración lunar",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/GRAIL",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Operador": "NASA / Laboratorio de propulsión a chorro (JPL)",
+    "Fabricante": "Lockheed Martin Space Systems\nInstituto Tecnológico de Massachusetts",
+    "Fecha de lanzamiento": "10 de septiembre de 2011",
+    "Lugar de lanzamiento": "Complejo de lanzamiento espacial 17B\nEstación de la Fuerza Aérea de Cabo Cañaveral",
+    "Vehículo de lanzamiento": "Delta II 7920H-10 configuración (D-356)",
+    "Masa en el lanzamiento": "132,6 kg",
+    "Potencia": "Paneles solares / Batería de ion de litio",
+    "Sistema de referencia orbital": "Órbita circular polar",
+    "Periodo orbital": "113 minutos",
+    "Datos interplanetarios": "tipo: orbitador | objeto: Luna | fecha llegada: 31 de diciembre de 2011 y 1 de enero de 2012"
+  },
+  "resumen": "El Laboratorio Interior y de Recuperación de Gravedad o GRAIL por sus siglas en inglés Gravity Recovery And Interior Laboratory fue una misión científica lunar estadounidense del Programa Discovery, que realizó una cartografía de alta calidad del campo gravitatorio de la Luna para determinar su estructura interior. Maria Zuber del Instituto Tecnológico de Massachusetts fue la principal investigadora de la misión GRAIL. El equipo de expertos científicos e ingenieros también incluyó a la exastronauta de la NASA Sally Ride (fallecida el 23 de julio de 2012), quien mostró al público los logros de la misión. El Laboratorio de propulsión a chorro (JPL) de la NASA dirigió el proyecto. A fecha de 5 de agosto de 2011, el programa tenía un coste de 496 millones de dólares.",
+  "secciones": [
+    {
+      "titulo": "Desarrollo de la misión",
+      "nivel": 2,
+      "texto": "Las dos pequeñas naves espaciales GRAIL A (Ebb) y GRAIL B (Flow) fueron lanzadas el 10 de septiembre de 2011 a bordo de un solo vehículo de lanzamiento: la configuración más potente del cohete Delta II, el 7920H-10, después de que su lanzamiento se aplazara en dos ocasiones.\nGRAIL A se separó del cohete unos nueve minutos después del lanzamiento, y GRAIL B la siguió unos ocho minutos más tarde. Llegaron a sus órbitas alrededor de la Luna con 25 horas de separación. La primera sonda entró en órbita el 31 de diciembre de 2011 y la segunda la siguió el 1 de enero de 2012. Las dos naves impactaron la superficie lunar el 17 de diciembre de 2012.\nLa técnica para cartografiar la gravedad es similar a la que usó el Experimento de Clima y Recuperación Gravitatoria (GRACE, en inglés Gravity Recovery And Climate Experiment), y el diseño de la nave se basa en el XSS-11.\nA diferencia del Programa Apolo que necesitaba 3 días para llegar a la Luna, GRAIL necesita un viaje de baja energía hacia la luna usando el punto de Lagrange 1 Sol-Tierra que dura de 3 a 4 meses para reducir las necesidades de combustible, proteger los instrumentos y reducir la velocidad de la nave en el momento de llegada a la Luna y así conseguir alcanzar la órbita extremadamente baja de 50 km (31 mi) con una separación de 175-225 km (las naves llegaron con una diferencia de 24 horas la una de la otra). La tolerancia en el plan de vuelo está tan ajustada que el espacio para la corrección de errores deja una ventana de 1 segundo y solo habrá 2 oportunidades de lanzamiento al día.\nLa fase científica de la misión tuvo una duración de 90 días. A continuación de la fase científica (o de una fase añadida a la misión), la nave quedó fuera de servicio cinco días, después del que la nave impactó contra la superficie lunar tras 40 días."
+    },
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "Cada nave transmite y recibe telemetría de la otra nave y de las instalaciones en la Tierra. Al medir la distancia entre las dos naves se pueden obtener el campo gravitatorio y la estructura geológica de la Luna. El campo gravitatorio de la Luna fue cartografiado con un detalle sin precedentes."
+    },
+    {
+      "titulo": "Objetivos principales",
+      "nivel": 3,
+      "texto": "Cartografiar la estructura de la corteza lunar y la litosfera.\nComprender la evolución térmica asimétrica de la Luna.\nDeterminar la estructura del subsuelo de los cráteres por impacto y el origen de los mascones lunares.\nDeterminar la evolución temporal de las brechas de la corteza y el magma.\nConocer la estructura de la parte más profunda de la Luna.\nEstablecer los límites en el tamaño del núcleo interior de la Luna.\nLa recolección de datos duró unos 90 días, seguida de otra etapa de 12 meses donde se analizaron los datos obtenidos. Los datos empezaron a estar disponibles unos 30 días después de que se empezó a recogerlos. El conocimiento que se adquirido ayudará a entender la historia evolutiva de los otros planetas terrestres."
+    },
+    {
+      "titulo": "Instrumentos",
+      "nivel": 2,
+      "texto": "KBR (Ka band ranging assembly)\nRadiofaro científico (RSB, en inglés Radio science beacon)\nMoonKam (Conocimiento Adquirido de la Luna por estudiantes de secundaria, en inglés Moon Knowledge Acquired by Middle school students)\nCada nave contó hasta con cinco cámaras."
+    }
+  ],
+  "num_palabras": 672
+}

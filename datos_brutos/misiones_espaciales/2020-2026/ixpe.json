@@ -1,0 +1,87 @@
+{
+  "titulo": "IXPE",
+  "titulo_wikipedia_en": "IXPE",
+  "fecha_lanzamiento": "2021-12-09",
+  "año_lanzamiento": 2021,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Telescopio espacial"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/IXPE",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Otros nombres": "Explorer 97\nIXPE\nSMEX-14",
+    "Tipo de misión": "Polarimetría de rayos X",
+    "Operador": "NASA, ASI",
+    "ID COSPAR": "2021-121A",
+    "Nº SATCAT": "49954",
+    "Duración de la misión": "5 años (previsto)\n(en curso)",
+    "Nave": "Explorador XCVII",
+    "Tipo de nave": "Explorador de Polarimetría de Rayos X",
+    "Plataforma (bus)": "BCP-100",
+    "Fabricante": "Ball Aerospace & Technologies\nOHB Italia",
+    "Masa en el lanzamiento": "330 kg",
+    "Masa de la carga útil": "170 kg",
+    "Dimensiones": "1,1 m de diámetro y 5,2 m de altura, totalmente extendido\nArray solar: 2,7 m completamente desplegado",
+    "Fecha de lanzamiento": "9 de diciembre de 2021, 06:00 UTC",
+    "Vehículo de lanzamiento": "Falcon 9 B1061-5",
+    "Lugar de lanzamiento": "Centro Espacial Kennedy, LC-39A",
+    "Contratista del lanzamiento": "SpaceX",
+    "Entrada en servicio": "10 de enero de 2022",
+    "Sistema de referencia orbital": "Órbita geocéntrica",
+    "Régimen orbital": "Órbita terrestre baja",
+    "Periapsis": "540 km",
+    "Apoapsis": "540 km",
+    "Inclinación orbital": "0.20°",
+    "Periodo orbital": "90.00 minutos",
+    "Tipo de telescopio": "Tres espejos",
+    "Distancia focal": "4 m",
+    "Longitudes de onda": "Rayos X",
+    "Banda de transmisión": "Banda S",
+    "Programa": "Programa de Exploradores",
+    "Misión anterior": "ICON (Explorer 96)",
+    "Misión siguiente": "PUNCH →\nSPHEREx"
+  },
+  "resumen": "Imaging X-ray Polarimetry Explorer, comúnmente conocido como IXPE o SMEX-14, es un observatorio espacial con tres telescopios idénticos diseñados para medir la polarización de rayos X cósmicos de agujeros negros, estrellas de neutrones y púlsares. El observatorio, que fue lanzado el 9 de diciembre de 2021, es una colaboración internacional entre la NASA y la Agencia Espacial Italiana (ASI). Forma parte del programa Exploradores de la NASA, que diseña naves espaciales de bajo costo para estudiar heliofísica y astrofísica.\nLa misión estudiará objetos astronómicos exóticos y permitirá mapear los campos magnéticos de agujeros negros, estrellas de neutrones, pulsares, restos de supernovas, magnetares, cuásares y núcleos galácticos activos. La radiación de rayos X de alta energía del entorno circundante de estos objetos puede ser polarizada, oscilando en una dirección particular. El estudio de la polarización de los rayos X revela la física de estos objetos y puede proporcionar información sobre los entornos de alta temperatura donde se crean.",
+  "secciones": [
+    {
+      "titulo": "Sinopsis",
+      "nivel": 2,
+      "texto": "La misión IXPE fue anunciada el 3 de enero de 2017 y fue lanzada el 9 de diciembre de 2021. La colaboración internacional se firmó en junio de 2017, cuando la Agencia Espacial Italiana (ASI) se comprometió a proporcionar los detectores de polarización de rayos X. El costo estimado de la misión y su operación de dos años es de 188 millones de dólares (el costo de lanzamiento es de 50,3 millones de dólares). El objetivo de la misión IXPE es ampliar la comprensión de los procesos y fuentes astrofísicas de alta energía, en apoyo del primer objetivo científico de la NASA en astrofísica: \"Descubre cómo funciona el universo\". Al obtener polarimetría de rayos X e imágenes polarimétricas de fuentes cósmicas, el IXPE aborda dos objetivos científicos específicos: determinar los procesos de radiación y las propiedades detalladas de fuentes o categorías de fuentes específicas de rayos X cósmicos; y explorar los efectos generales relativistas y cuánticos en entornos extremos.\nDurante la misión de dos años del IXPE, estudiará objetivos como núcleos galácticos activos, quásares, púlsares, nebulosas de viento pulsar, magnetares, binarios de rayos X que se acrecientan, restos de supernovas y el Centro Galáctico.\nLa nave espacial fue construida por Ball Aerospace & Technologies. El investigador principal es Martin C. Weisskopf del Centro de Vuelo Espacial Marshall de la NASA; es el científico jefe para la astronomía de rayos X en el Centro de Vuelo Espacial Marshall de la NASA y científico del proyecto para la nave espacial Chandra X-ray Observatory. El Marshall Space Flight Center de la NASA también diseñó, fabricó y probó los espejos de rayos X para el telescopio.\nOtros asociados son la Universidad McGill, el Instituto Tecnológico de Massachusetts (MIT), la Universidad Roma Tre, la Universidad de Stanford, OHB Italia y la Universidad de Colorado Boulder."
+    },
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "Los objetivos técnicos y científicos incluyen:\nMejorar la sensibilidad a la polarización en dos órdenes de magnitud sobre el polarímetro de rayos X a bordo del Observatorio Solar Orbitante 8\nProporcionar mediciones espectrales, espaciales y temporales simultáneas\nDeterminar la geometría y el mecanismo de emisión de núcleos galácticos activos y microcuasares\nEncuentre la configuración del campo magnético en magnetares y determine la magnitud del campo\nEncontrar el mecanismo para la producción de rayos X en pulsares (tanto aislados como acres) y la geometría\nDeterminar cómo se aceleran las partículas en nebulosa de viento pulsar"
+    },
+    {
+      "titulo": "Telescopios",
+      "nivel": 2,
+      "texto": "El observatorio espacial cuenta con tres telescopios idénticos diseñados para medir la polarización de los rayos X cósmicos. El detector sensible a la polarización fue inventado y desarrollado por científicos italianos del Istituto Nazionale di AstroFisica (INAF) y el Istituto Nazionale di Fisica Nucleare (INFN) y fue refinado durante varios años."
+    },
+    {
+      "titulo": "Principio",
+      "nivel": 3,
+      "texto": "La carga útil de IXPE es un conjunto de tres sistemas de polarimetría de rayos X por imágenes idénticos montados en un banco óptico común y alineados con el eje apuntador de la nave espacial. Cada sistema funciona de forma independiente para redundancia e incluye un módulo de espejo que enfoca los rayos X en un detector de imágenes sensible a la polarización desarrollado en Italia. La distancia focal de 4 m (13 pies) se logra utilizando un boom desplegable.\nLos detectores de píxeles de gas (GPD), un tipo de detector gaseoso de micropatrón, dependen de la anisotropía de la dirección de emisión de fotoelectrones producidos por fotones polarizados para medir con alta sensibilidad el estado de polarización de los rayos X que interactúan en un medio gaseoso. Los mapas de polarización dependientes de la posición y de la energía de esas fuentes de emisión de sincrotrón revelarán la estructura de campos magnéticos de las regiones emisoras de rayos X. Las imágenes polarimétricas de rayos X indican mejor la estructura magnética en regiones de fuerte aceleración de electrones. El sistema es capaz de resolver fuentes puntuales de emisiones nebulares circundantes o de fuentes puntuales adyacentes."
+    },
+    {
+      "titulo": "Perfil de lanzamiento",
+      "nivel": 2,
+      "texto": "IXPE fue lanzado el 9 de diciembre de 2021 en un SpaceX Falcon 9 (B1061.5) desde LC-39A en el Kennedy Space Center de la NASA en Florida. El tamaño y la masa relativamente pequeños del observatorio no alcanzan la capacidad normal del vehículo de lanzamiento Falcon 9 de SpaceX. Sin embargo, Falcon 9 tuvo que trabajar para conseguir IXPE en la órbita correcta porque IXPE está diseñado para operar en una órbita casi exactamente ecuatorial con una inclinación 0°. Lanzando desde Cabo Cañaveral, que se encuentra a 28,5° por encima del ecuador, fue físicamente imposible lanzar directamente a una órbita ecuatorial de 0,2°. En cambio, el cohete necesitaba lanzarse hacia el este hacia una órbita de estacionamiento y luego realizar un cambio de plano, o inclinación, una vez en el espacio, a medida que la nave cruzaba el ecuador. Para Falcon 9, esto significaba que incluso el minúsculo 330 kg (730 lb) IXPE probablemente todavía representaba alrededor del 20-30% de su rendimiento teórico máximo (1,500–2,000 kg (3,300–4,400 lb)) para tal perfil de misión, mientras que el mismo vehículo de lanzamiento es capaz de lanzar alrededor de 15.000 kg (33.000 lb) a los mismos 540 km (340 mi) de órbita IXPE estaba apuntando cuando no se necesita ningún cambio de avión, mientras recuperaba el impulsor de primera etapa.\nIXPE es el primer satélite dedicado a medir la polarización de los rayos X de diversas fuentes cósmicas, como los agujeros negros y las estrellas de neutrones. La órbita que abraza el ecuador minimizará la exposición del instrumento de rayos X a la radiación en la Anomalía del Atlántico Sur, la región donde el cinturón de radiación interno de Van Allen se acerca más a la superficie de la Tierra."
+    },
+    {
+      "titulo": "Operaciones",
+      "nivel": 2,
+      "texto": "IXPE está construido para durar dos años. Después de eso puede ser retirado y desorbitado o dado una misión prolongada.\nDespués del lanzamiento y despliegue de la nave espacial IXPE, la NASA señaló la nave espacial a 1ES 1959+650, un agujero negro, y SMC X-1, un pulsar, para la calibración. Después de eso la nave observó su primer objetivo científico, Cassiopeia A. Una primera imagen de Cassiopeia A fue lanzada el 11 de enero de 2022. 30 objetivos están previstos para ser observados durante el primer año de la IXPE.\nIXPE se comunica con la Tierra a través de una estación terrestre en Malindi, Kenia. La estación terrestre es propiedad de la Agencia Espacial Italiana.\nEn la actualidad, las operaciones de la misión IXPE están controladas por el Laboratorio de Física Atmosférica y Espacial (LASP)."
+    },
+    {
+      "titulo": "Resultados",
+      "nivel": 2,
+      "texto": "En mayo de 2022 el primer estudio del IXPE insinuó la posibilidad de birrefringencia al vacío el 4U 0142+61 y en agosto otro estudio examinó Centaurus A midiendo bajo grado de polarización, sugiriendo que la emisión de rayos X viene de un proceso de dispersión en lugar de surgir directamente de las partículas aceleradas del chorro. En octubre de 2022 observó el estallido de rayos gamma GRB 221009A, también conocido como el \"Brightest of all time\" (BOAT)."
+    }
+  ],
+  "num_palabras": 1296
+}

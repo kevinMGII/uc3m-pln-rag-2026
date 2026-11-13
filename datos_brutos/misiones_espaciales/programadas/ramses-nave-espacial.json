@@ -1,0 +1,153 @@
+{
+  "titulo": "Ramses (nave espacial)",
+  "titulo_wikipedia_en": "Ramses (spacecraft)",
+  "fecha_lanzamiento": "2028",
+  "año_lanzamiento": 2028,
+  "estado": "programada",
+  "tipo_mision": [
+    "Exploración de asteroides y planetas menores"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Ramses_(spacecraft)",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Sonda de asteroides",
+    "Operador": "ESA, JAXA",
+    "Fecha de lanzamiento": "2028",
+    "Vehículo de lanzamiento": "H3",
+    "Programa": "Programa de seguridad espacial",
+    "Misión anterior": "PRELUDE",
+    "Misión siguiente": "ClearSpace-1"
+  },
+  "resumen": "Ramses (Rapid Apophis Mission for Space Safety) es una futura misión de defensa planetaria europea-japonesa al asteroide cercano a la Tierra (99942), dirigido por la Agencia Espacial Europea (ESA). Se espera que sea lanzado entre mediados de abril y mediados de mayo de 2028 y que llegue a Apophis en febrero de 2029 antes de su acercamiento más cercano a la Tierra. Llevará a cabo mediciones de las propiedades del asteroide antes y durante el vuelo de la Tierra para estudiar su respuesta al encuentro cercano con el planeta. En el asteroide, Ramsés desplegará dos CubeSats más pequeños. Ramsés aprovechará gran parte de la tecnología desarrollada para la misión Hera.",
+  "secciones": [
+    {
+      "titulo": "Calendario",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Desarrollo",
+      "nivel": 3,
+      "texto": "En julio de 2024, el Programa de Seguridad Espacial de la ESA recibió permiso para comenzar los trabajos preparatorios para Ramses. El proyecto ha recibido 1,5 millones de euros para los preparativos y en octubre de 2024, la ESA firmó un contrato con OHB Italia SpA para los trabajos preliminares de la misión. La ESA también presentó el parche oficial de la misión. En julio de 2024, India expresó interés en desarrollar un instrumento para Ramsés. En 2024, DLR propuso incluir un mini-rover en la misión de Ramses: MASCOT3 (o BASTET), similar al MASCOT rover que voló en Hayabusa2.\nEn marzo de 2025, la ESA seleccionó el primero de los dos CubeSats (más tarde llamado Farinella) para volar a bordo de Ramses. El equipo de la misión reveló que estaban considerando si el segundo CubeSat podría ser un aterrizaje que tocaría Apophis. En abril de 2025, la ESA seleccionó a la empresa española Emxys para construir el segundo CubeSat (más tarde llamado Don Quijote), destinado a aterrizar en Apophis, y GomSpace (Dinamarca) para proporcionar apoyo de ingeniería de sistemas para el proyecto del lander CubeSat.\nEn agosto de 2025, la JAXA presentó una solicitud oficial de financiación al Gobierno del Japón para que participara en la misión. JAXA planea contribuir con los conjuntos solares de la sonda, el sistema de imágenes infrarrojas y un lanzamiento compartido en el cohete H3. Por parte europea, se esperaba que la decisión de financiación se tomara a finales de 2025 en el Consejo Ministerial de la ESA. Hablando en la reunión de EPSC-DPS en septiembre de 2025, el director de proyecto de Ramses, Paolo Martino, confirmó que el proyecto estaba totalmente a tiempo. El examen preliminar del diseño se había completado el año anterior, y se esperaba que el examen crítico del diseño se realizara en noviembre de 2025. En el consejo ministerial de finales de noviembre de 2025, los Estados miembros de la ESA aprobaron la financiación de la misión, junto con un aumento sustancial del presupuesto del Programa de Seguridad Espacial.\nEn diciembre de 2025, OHB Italia firmó un acuerdo con la empresa belga SPACEBEL, ya implicada en Hera, que proporcionará el software principal a bordo para Ramses. El 6 de febrero de 2026, Ramses concluyó su Critical Design Review. El 10 de febrero de 2026 en ESTEC, la ESA firmó un contrato por valor de 81,2 millones de euros con OHB Italia para iniciar la fase de construcción, montaje y ensayo de la misión. La ESA también firmó un contrato por valor de 8,2 millones de euros con Tyvak International para la construcción del orbitador CubeSat Farinella. El 12 de febrero, OHB Italia firmó un contrato con la empresa checa G.L.Electronic, que suministrará cables eléctricos y hardware relacionado para Ramses. G.L.Electronic también contribuyó a la misión Hera. En mayo de 2026 la ESA y el JAXA firmaron un acuerdo de cooperación que detalla la contribución japonesa a la misión de Ramsés. Los dos organismos también firmaron un memorando de cooperación más general sobre defensa planetaria. A principios de julio de 2026, la ESA firmó un contrato con la empresa española EMXYS para proporcionar el módulo de aterrizaje Don Quijote CubeSat."
+    },
+    {
+      "titulo": "Construcción",
+      "nivel": 3,
+      "texto": "En junio de 2026, el tubo central de Ramsés se completó en Bremen. El 21 de septiembre de 2026, el módulo central de la nave espacial, incluido el ordenador de a bordo de la misión, se encendió por primera vez en una sala limpia en las instalaciones de OHB Italia en Milán. Mientras tanto, el Módulo de Propulsión se estaba integrando en las instalaciones de ArianeGroup en Lampoldshausen."
+    },
+    {
+      "titulo": "Perfil de la misión",
+      "nivel": 2,
+      "texto": "Ramses lanzará un cohete H3 japonés desde el Centro Espacial de Tanegashima en abril de 2028 junto con otra sonda de asteroides, el DESTINY+ de la JAXA cuya misión es explorar el asteroide activo Phaethon. Esto permitirá a DESTINY+ realizar un vuelo de Apophis antes de Ramsés, tomando las primeras imágenes espaciales del asteroide en preparación de la llegada de Ramsés.\nRamsés volará en una trayectoria de transferencia directa de 10 meses y se reunirá con Apophis a más tardar el 1 de marzo de 2029. Tanto antes como después del acercamiento más cercano a la Tierra, Ramses realizará imágenes globales de la superficie del asteroide a una resolución de 10 cm e imágenes dirigidas de áreas seleccionadas a una resolución de 1,5 cm. Durante el vuelo de la Tierra, Ramses mantendrá una distancia segura de 5 km del asteroide mientras realiza observaciones con alta resolución temporal de 1 foto por minuto."
+    },
+    {
+      "titulo": "Vehículo espacial",
+      "nivel": 2,
+      "texto": "El diseño de la nave espacial Ramsés se basa principalmente en Hera. Sin embargo, el diferente perfil de la misión de Ramses dio lugar a varios cambios de diseño, por ejemplo, conjuntos solares y antenas más pequeños debido a una distancia más cercana al Sol y a la Tierra durante operaciones críticas, así como cambios en el volumen del tanque y la masa seca debido al aumento de la demanda delta-V.\nEl cuerpo de la nave espacial (integrada en ESTEC) está compuesto por un módulo central en forma de U (integrado en Milán) que contiene la electrónica y un módulo de propulsión (integrado en Lampoldshausen) que contiene tanques de propulsores. El tubo central de la nave (construido en Bremen), parte del Módulo de Propulsión y hecho de polímero reforzado con fibra de carbono, mide 1,55 m de altura y pesa poco menos de 40 kg. Los conjuntos solares de la nave son proporcionados por JAXA."
+    },
+    {
+      "titulo": "CubeSats",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Farinella",
+      "nivel": 3,
+      "texto": "El primer CubeSat seleccionado, llamado Farinella por el científico planetario italiano Paolo Farinella, será construido por Tyvak International (Italia), una empresa que desarrolló el Milani CubeSat para la misión Hera. La pequeña nave espacial combinará el analizador de polvo de Milani con el radar de baja frecuencia de Juventas, otro CubeSat de Hera. El analizador de polvo, llamado VISTA, estudiará el material liberado de la superficie de Apophis y el radar investigará la estructura interna del asteroide."
+    },
+    {
+      "titulo": "Don Quijote",
+      "nivel": 3,
+      "texto": "El segundo CubeSat seleccionado, Don Quijote (que no debe confundirse con Don Quijote, un concepto no desarrollado para la misión de asteroides), desarrollado por un consorcio liderado por Emxys (España), intentará aterrizar en Apophis. Su tarea principal será proporcionar imágenes de alta resolución de la superficie del asteroide desde una distancia de sólo unos pocos kilómetros. Si el aterrizaje es exitoso, Don Quijote también medirá la actividad sísmica del asteroide y las interacciones magnéticas durante su vuelo excepcionalmente cercano de la Tierra. Emxys previamente contribuyó al gravimetro GRASS en la Juventas CubeSat de Hera."
+    },
+    {
+      "titulo": "Instrumentos científicos",
+      "nivel": 2,
+      "texto": "La propia nave espacial Ramses estará equipada con ocho instrumentos científicos, incluyendo dos Cámaras de Framing de Asteroides y un experimento de Radio Ciencia como en Hera, mientras que otro será montado en los dos CubeSats acompañantes, Farinella y Don Quijote."
+    },
+    {
+      "titulo": "Instrumentos sobre Ramsés",
+      "nivel": 3,
+      "texto": ""
+    },
+    {
+      "titulo": "AFC",
+      "nivel": 4,
+      "texto": "Al igual que Hera, Ramsés estará equipado con dos cámaras de framing de asteroides (AFC) para imágenes científicas y de navegación. AFC tiene un amplio campo de visión adecuado para capturar todo el asteroide a una resolución relativamente baja y se complementará con el instrumento CHANCES con mayor resolución. Los instrumentos de AFC fueron desarrollados por Jena-Optronik, una antigua filial de Jenoptik (ahora parte de Airbus Defence and Space)."
+    },
+    {
+      "titulo": "OPORTUNIDADES",
+      "nivel": 4,
+      "texto": "El Sistema CamEra (CANCES) es un instrumento de imagen capaz de capturar la reflectancia de la superficie de asteroides en diferentes longitudes de onda para estudiar sus propiedades físicas y su composición mineralógica. Su papel es registrar los cambios sutiles en el asteroide causados por la gravedad de la Tierra durante el vuelo. CHANCES está siendo desarrollado por la Universidad de Berna."
+    },
+    {
+      "titulo": "HAMLET",
+      "nivel": 4,
+      "texto": "El HyperScout para Exploración y Taxonomía Multiespectral de Apophis (HAMLET) es una cámara hiperespectral para caracterización detallada de la superficie en dos canales espectrales (650-960 nm y 960-1500 nm). La cámara está diseñada para cartografiar la composición mineral y elemental del asteroide, así como varias propiedades físicas, incluyendo efectos de la intemperie espacial antes y después del vuelo de la Tierra. HAMLET se basa en el diseño de la imagen HyperScout-H en Hera. El instrumento está siendo desarrollado por Cosine Italia con el apoyo científico de Istituto di Astrofísica e Planetalogía Spaziali en Roma y Osservatorio Astronomico di Capodimonte en Nápoles."
+    },
+    {
+      "titulo": "PALT",
+      "nivel": 4,
+      "texto": "El ALTImetro Planetario (PALT) es un instrumento LIDAR para medir la distancia al asteroide utilizando láser con una longitud de onda de 1,5 μm. Su precisión es de 0,5 m. Se puede utilizar tanto para investigaciones científicas como para navegación."
+    },
+    {
+      "titulo": "RPS",
+      "nivel": 4,
+      "texto": "El espectrómetro de plasma RAMSES (RPS) es un espectrómetro de alta resolución para medir partículas cargadas. Su función es estudiar el entorno plasmático alrededor de Apophis, especialmente durante el paso a través del cinturón de radiación exterior de la Tierra, y las interacciones del plasma con la superficie del asteroide. También puede detectar el levantamiento de regolito de la superficie del asteroide. RPS se basa en un modelo de repuesto del Sensor Jovian Electron e Ion, parte del Paquete de Medio Ambiente de Partículas de la nave espacial JUICE de la ESA. Fue desarrollado por el Instituto Max Planck de Investigación del Sistema Solar, Göttingen."
+    },
+    {
+      "titulo": "RSE",
+      "nivel": 4,
+      "texto": "Al igual que Hera, se espera que Ramses realice experimentos de radiociencia (RSE) con el objetivo de investigar la masa del asteroide, el campo de gravedad y el giro. RSE combinará datos de navegación óptica con mediciones radiométricas mediante enlaces de radio entre Ramses y la Tierra, así como Ramses y los dos CubeSats."
+    },
+    {
+      "titulo": "TIRI",
+      "nivel": 4,
+      "texto": "El infrarrojo térmico de múltiples bandas japonés TIRI también voló a bordo de la nave espacial Hera. Su función es investigar las propiedades termofísicas y la composición de la superficie del asteroide. Utiliza una banda ancha (8-14 μm) para imágenes termográficas y seis bandas estrechas (7-14 μm) para el mapeo compositivo. TIRI fue desarrollada por JAXA como sucesora de TIR en la nave espacial Hayabusa2."
+    },
+    {
+      "titulo": "Instrumentos sobre Farinella",
+      "nivel": 3,
+      "texto": ""
+    },
+    {
+      "titulo": "ARA",
+      "nivel": 4,
+      "texto": "El Farinella CubeSat llevará un radar de baja frecuencia que funcionará en modo monostático derivado del instrumento JuRa en Juventas, uno de los CubeSats de Hera. El instrumento está siendo desarrollado por el Institut de Planétologie et d'Astrophysique, Universidad Grenoble-Alpes. Las antenas miniatura del radar están siendo desarrolladas por la compañía polaca Astronika."
+    },
+    {
+      "titulo": "VISTA",
+      "nivel": 4,
+      "texto": "El Analizador Volátil de Termograviómetro In situ (VISTA), que viaja a bordo de Farinella, analizará partículas de polvo y volátiles con el fin de monitorear diversos eventos de movilización de materiales desde la superficie del asteroide causados por las fuerzas de marea, rotación, impactos de micrometeorita y maniobras de naves espaciales. Se basa en el instrumento VISTA de Hera."
+    },
+    {
+      "titulo": "Horus",
+      "nivel": 4,
+      "texto": "Horus es un instrumento óptico que opera a bordo del Farinella CubeSat, desarrollado por Tyvak International y Politecnico di Milano. Con un doble propósito como imagenista científico de alta resolución y cámara de navegación, Horus está diseñado para capturar imágenes de primer plano de la órbita de baja altitud del CubeSat alrededor del asteroide Apophis."
+    },
+    {
+      "titulo": "Instrumentos sobre Don Quijote",
+      "nivel": 3,
+      "texto": ""
+    },
+    {
+      "titulo": "MARIE",
+      "nivel": 4,
+      "texto": "El magnetómetro MARIE (Experimento de Investigación de Respuesta a Apophis inducido por la Magnetosfera), que vuela a bordo del módulo de aterrizaje Don Quijote, estudiará las interacciones entre Apophis y el campo magnético de la Tierra, así como la distribución de la posible magnetización en el asteroide mismo durante las operaciones de aproximación, aterrizaje y superficie del módulo de aterrizaje. La misión de Ramsés es una oportunidad más temprana de lo esperado para el ensayo espacial de la tecnología del magnetómetro miniaturizado desarrollada para satélites pequeños como parte de la estrategia espacial del gobierno alemán de 2023."
+    },
+    {
+      "titulo": "GRASS II",
+      "nivel": 4,
+      "texto": "El gravimetro GRASS (Gravimeter for Small Solar System Objects), desarrollado a través de una colaboración entre el Real Observatorio de Bélgica (ROB) y EMXYS, volará a bordo del módulo de aterrizaje Don Quijote. Después de aterrizar en Apophis, realizará mediciones directas in situ de la aceleración gravitacional local. Estas mediciones ayudarán a limitar la distribución de masa, la estructura interna y las propiedades mecánicas del asteroide, complementando las observaciones del sismómetro SIA y los demás instrumentos a bordo de los Ramses CubeSats."
+    },
+    {
+      "titulo": "SIA",
+      "nivel": 4,
+      "texto": "El sismómetro SIA (Instrumento Sísmico para Asteroides), desarrollado por ISAE-SUPAERO, volará a bordo del módulo de aterrizaje Don Quijote. Si el aterrizaje es exitoso, SIA observará cómo la estructura interna del asteroide reacciona a las fuerzas de marea durante el vuelo de la Tierra. Se complementarán las observaciones por el instrumento de radar de baja frecuencia en Farinella."
+    }
+  ],
+  "num_palabras": 2126
+}

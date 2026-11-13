@@ -1,0 +1,59 @@
+{
+  "titulo": "STS-38",
+  "titulo_wikipedia_en": "STS-38",
+  "fecha_lanzamiento": "1990-11-15",
+  "año_lanzamiento": 1990,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/STS-38",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Otros nombres": "Sistema de Transporte Espacial-38",
+    "Tipo de misión": "Despliegue de satélites del Departamento de Defensa",
+    "Operador": "NASA",
+    "Distancia recorrida": "3291199 km",
+    "Órbitas completadas": "79",
+    "Masa en el lanzamiento": "2.055.639 kg",
+    "Masa en el aterrizaje": "86677 kg",
+    "Masa de la carga útil": "(Clasificado)",
+    "Tripulación": "Richard O. Covey; Frank L. Culbertson Jr.; Carl J. Meade; Robert C. Springer; Charles D. Gemar",
+    "Fecha de lanzamiento": "15 de noviembre de 1990, 23:48:15 UTC (6:48:15 EST)",
+    "Lugar de lanzamiento": "Kennedy, LC-39A",
+    "Contratista del lanzamiento": "Rockwell Internacional",
+    "Fecha de aterrizaje": "20 de noviembre de 1990, 21:42:46 UTC (4:42:46 pm EST)",
+    "Lugar de aterrizaje": "Kennedy, SLF Runway 33",
+    "Sistema de referencia orbital": "Órbita geocéntrica",
+    "Régimen orbital": "Órbita terrestre baja",
+    "Periapsis": "260 km",
+    "Apoapsis": "269 km",
+    "Inclinación orbital": "28.45°",
+    "Periodo orbital": "89,79 minutos",
+    "Programa": "Programa de transporte espacial",
+    "Misión anterior": "STS-41 (36)",
+    "Misión siguiente": "STS-35 (38)"
+  },
+  "resumen": "STS-38 fue una misión del transbordador espacial de la NASA usando el transbordador espacial Atlantis. Fue la 37a misión de transporte y llevó una carga útil clasificada para el Departamento de Defensa de los Estados Unidos (DoD). Fue el séptimo vuelo para Atlantis y el séptimo vuelo dedicado al Departamento de Defensa. La misión fue una misión de 4 días que recorrió 3291199 km y completó 79 revoluciones. Atlantis aterrizó en la pista 33 de la instalación de aterrizaje del transbordador Kennedy Space Center. El lanzamiento estaba programado originalmente para julio de 1990, pero fue reprogramado debido a una fuga de hidrógeno encontrada durante la cuenta regresiva de STS-35. Durante un retroceso a la instalación de procesamiento Orbiter Atlantis fue dañado durante una tormenta de granizo. La fecha de lanzamiento del 15 de noviembre de 1990 se fijó debido a un problema de carga útil. La ventana de lanzamiento fue entre las 18:30 y las 22:30. El lanzamiento ocurrió a las 18:48:13 EST. La misión terminó con un aterrizaje en la instalación de aterrizaje del transbordador, marcando la primera vez en cinco años que una misión regresó al Centro Espacial Kennedy desde STS-51-D. Esto también marcó la primera vez que Atlantis terminó una misión en el Centro Espacial Kennedy.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Preparativos y lanzamiento",
+      "nivel": 2,
+      "texto": "El lanzamiento ocurrió el 15 de noviembre de 1990, 18:48:13 EST. Originalmente estaba programado para el 9 de julio de 1990, sin embargo, una fuga de hidrógeno líquido encontrada en Columbia durante la cuenta regresiva de STS-35 provocó tres pruebas de tanques de precaución en Atlantis en la plataforma el 29 de junio de 1990, el 13 de julio y el 25 de julio de 1990. Los ensayos confirmaron la fuga de combustible de hidrógeno en el lado externo del tanque/órbitro externo 43,2 cm de desconexión umbilical rápida. Esto no pudo ser reparado en la plataforma y Atlantis fue rodado de nuevo a la VAB el 9 de agosto de 1990, degradado, y luego transferido a la instalación de procesamiento orbital (OPF). Durante el retroceso, el vehículo permaneció estacionado fuera de la VAB durante aproximadamente un día, mientras que la pila Columbia/STS-35 fue transferida a la plataforma para su lanzamiento. Mientras estaba fuera, Atlantis sufrió daños menores en sus azulejos durante una tormenta. Después de las reparaciones realizadas en la OPF, Atlantis fue transferido a la VAB para aparearse el 2 de octubre de 1990. Durante las operaciones de elevación, el haz de plataforma que debía haber sido retirado del compartimiento de popa del orbitador cayó y causó daños menores, que fue reparado. El vehículo salió a Pad A el 12 de octubre de 1990. La cuarta prueba de minitanque se realizó el 24 de octubre de 1990, sin que se detectara ninguna fuga excesiva de hidrógeno o oxígeno. Durante la revisión de la preparación de vuelo (FRR), la fecha de lanzamiento se fijó para el 9 de noviembre de 1990. El lanzamiento fue reiniciado el 15 de noviembre debido a problemas de carga útil. El despegue ocurrió durante una ventana de lanzamiento clasificada que se extiende desde las 18:30 hasta las 22:30 EST el 15 de noviembre de 1990."
+    },
+    {
+      "titulo": "Carga útil clasificada",
+      "nivel": 2,
+      "texto": "Según Aviation Week, el transbordador entró inicialmente en una órbita de 204 km x 519 km con una inclinación de 28,45° al ecuador. Luego ejecutó tres quemaduras del sistema de maniobra orbital (OMS), la última en la órbita #4. El primero de estos circularizó la órbita a 519 km.\nLa primera carga útil clasificada fue la denominada USA-67, que fue desplegada desde la bahía de carga de Atlantis en la séptima órbita y encendió su motor cohete en el nodo ascendente de la octava órbita para colocarlo en una órbita de transferencia geoestacionaria (GTO). La Semana de Aviación informó de que USA-67 era un satélite ELINT secreto que se dirigía a la órbita geosincrónica y se lanzaba para vigilar los acontecimientos durante la primera guerra del Golfo en 1990. Como resultado de la existencia de dos etapas superiores a bordo de STS-38, EE.UU.-67 se creía originalmente que era un satélite Magnum como los desplegados en STS-51-C y STS-33, que fueron lanzados a través de un escenario superior inercial de dos etapas (IUS). Hoy en día se cree que USA-67 era en cambio un satélite de comunicaciones militares del Sistema de Datos de Satélite (SDS-2), como los desplegados en STS-28 y STS-53.\nTambién se cree que USA-67 no fue el único satélite desplegado durante STS-38. Una imagen publicada públicamente del estabilizador vertical de Atlantis y mamparo superior de popa, similar a la que se libera desde STS-53, confirma que el ASE (Equipo de Soporte Aéreo) para la Etapa Superior Inercial (IUS) estuvo ausente de este vuelo. Una explicación es que se desplegaron dos satélites separados, utilizando el módulo de asistencia de carga útil de una sola etapa (PAM-D). Los rumores que parecen haber sido corroborados por la identificación de un satélite geoestacionario \"desconocido\" por observadores aficionados insisten en que la segunda carga útil era un satélite sigiloso conocido como Prowler, supuestamente destinado a inspeccionar encubiertamente los satélites geoestacionarios de otra nación.\nDesembarco\nLa misión se prorrogó un día debido a los inaceptables vientos cruzados en el lugar de aterrizaje previsto de la Base de la Fuerza Aérea de Edwards. Las continuas condiciones adversas llevaron a la decisión de trasladar el aterrizaje a la instalación de aterrizaje del transbordador (SLF) en el Centro Espacial Kennedy. El SLF no había sido utilizado por una misión de trasbordador que regresaba en cinco años, desde que STS-51-D, cuando Discovery sufrió grandes daños de frenos y una rotura de neumático durante el aterrizaje. El aterrizaje ocurrió el 20 de noviembre de 1990, a las 21:42:46 UTC (4:42:42 pm EST, hora local). El orbitador rodó por la pista 33 durante 2753 m y 57 segundos. STS-38 marcó el primer aterrizaje del KSC para Atlantis, pesando 86677 kg en el aterrizaje."
+    }
+  ],
+  "num_palabras": 972
+}

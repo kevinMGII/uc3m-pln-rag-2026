@@ -1,0 +1,63 @@
+{
+  "titulo": "Zond 8",
+  "titulo_wikipedia_en": "Zond 8",
+  "fecha_lanzamiento": "1970-10-20",
+  "año_lanzamiento": 1970,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración lunar",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Zond_8",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Ensayo de la nave espacial",
+    "Operador": "TsKBEM",
+    "ID COSPAR": "1970-088A",
+    "Nº SATCAT": "4591",
+    "Duración de la misión": "7 días",
+    "Nave": "Soyuz 7K-L1 s/n 14",
+    "Tipo de nave": "Versión descremada",
+    "Plataforma (bus)": "Soyuz 7K-L1",
+    "Fabricante": "OKB-1",
+    "Masa en el lanzamiento": "5.375 kg",
+    "Fecha de lanzamiento": "20 de octubre de 1970\n19:55:39 UTC",
+    "Vehículo de lanzamiento": "Proton-K / Blok D",
+    "Lugar de lanzamiento": "Cosmódromo de Baikonur\nSitio 81/23",
+    "Contratista del lanzamiento": "OKB-1",
+    "Recuperado por": "Buque de recuperación soviético Taman",
+    "Fecha de recuperación": "27 de octubre de 1970 (Océano indio)",
+    "Fecha de aterrizaje": "27 octubre 1970, 13:55 GMT",
+    "Lugar de aterrizaje": "Archipiélago Chagos\n(730 km en SE)",
+    "Sistema de referencia orbital": "Geocéntrico",
+    "Régimen orbital": "Circumlunar",
+    "Datos interplanetarios": "tipo: flyby | objeto: Luna | fecha de llegada: 24 octubre 1970 | distancia: 1110 km"
+  },
+  "resumen": "Zond 8, también conocido como L-1 No.14, fue el último de la serie de naves espaciales circunlunar, un miembro del programa Soviet Zond, diseñado para ensayar un vuelo circunlunar piloteado, una versión de Soyuz 7K-L1 tripulada nave espacial de vuelo circunlunar. El proyecto se inició en 1965 para competir con los estadounidenses en la carrera a la Luna, pero perdió su importancia una vez que tres astronautas orbitaron la Luna en la misión Apollo 8 en diciembre de 1968.",
+  "secciones": [
+    {
+      "titulo": "Misión",
+      "nivel": 2,
+      "texto": "Zond 8 fue lanzado el 20 de octubre de 1970, a las 19:55:39 GMT por un lanzador Proton-K / Blok D desde el Sitio 81/23 del cosmódromo de Baikonur, hacia la Luna. Zond 8 tenía una masa de 5375 kg. Los objetivos anunciados de Zond 8 fueron las investigaciones de la Luna y el espacio circunlunar y las pruebas de sistemas y unidades a bordo.\nLa nave espacial obtuvo fotografías de la Tierra el 21 de octubre a una distancia de 64480 km. Después de una corrección a mitad de curso el 22 de octubre de 1970 a una distancia de 250000 km de la Tierra, la nave espacial transmitió imágenes de vuelo de la Tierra durante tres días. Zond 8 llegó a la Luna sin problemas aparentes, dando vueltas alrededor de su objetivo el 24 de octubre a una distancia de 1110 km y tomó fotografías en blanco y negro y en color de la superficie lunar durante dos sesiones separadas. La distancia mínima de la Luna durante la misión fue de 1.120 kilómetros (696 millas) de la superficie lunar. También se obtuvieron mediciones científicas durante el vuelo.\nDespués de dos correcciones a mitad de curso en la etapa de retorno, Zond 8 logró una trayectoria de retorno sobre el hemisferio norte de la Tierra en lugar del perfil estándar de aproximación sur, permitiendo a las estaciones de control terrestre soviéticas mantener contacto casi continuo con la nave. Sin embargo, el sistema de guía no funcionó correctamente en la pierna de retorno, y la nave espacial realizó una simple reentrada balística (en lugar de una guiada) en la atmósfera de la Tierra. La reentrada fue diferente de otras reentradas en el programa Zond cuando pasó por encima del polo norte y aterrizó en el Océano Índico.\nEl módulo de descenso Zond 8 volvió a entrar en la atmósfera de la Tierra y se desplomó con seguridad en el Océano Índico a las 13:55 GMT el 27 de octubre de 1970 a 730 km al sureste de las islas Chagos, a 24 km de su punto de destino original. El buque de recuperación de la URSS Taman estaba a la mano para recogerlo y traerlo de vuelta a Moscú.\nLos funcionarios soviéticos del Kremlin finalmente decidieron cancelar el proyecto L1 en 1970."
+    },
+    {
+      "titulo": "Instrumentos científicos",
+      "nivel": 3,
+      "texto": "Sistema de imágenes\nPaquetes de colector de viento solar"
+    },
+    {
+      "titulo": "Zond 9",
+      "nivel": 2,
+      "texto": "Zond 9, Soyuz 7K-L1 s/n 10, fue planeado pero cancelado. Zond 9 fue planeado para lanzar en julio de 1969, llevando una tripulación de Pavel Popovich y Vitali Sevastyanov, pero nunca voló."
+    },
+    {
+      "titulo": "Zond 10",
+      "nivel": 2,
+      "texto": "Zond 10, Soyuz 7K-L1 s/n 15, fue planeado pero cancelado."
+    }
+  ],
+  "num_palabras": 512
+}

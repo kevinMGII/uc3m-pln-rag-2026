@@ -1,0 +1,49 @@
+{
+  "titulo": "Soyuz TM-17",
+  "titulo_wikipedia_en": "Soyuz TM-17",
+  "fecha_lanzamiento": "1993-07-01",
+  "año_lanzamiento": 1993,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Soyuz_TM-17",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Operador": "Rosaviakosmos",
+    "ID COSPAR": "1993-043A",
+    "Duración de la misión": "196 días, 17 horas, 45 minutos, 22 segundos",
+    "Órbitas completadas": "~3,070",
+    "Nave": "Soyuz 7K-STM No. 66",
+    "Tipo de nave": "Soyuz-TM",
+    "Fabricante": "NPO Energia",
+    "Masa en el lanzamiento": "7150 kg",
+    "Fecha de lanzamiento": "1 de julio de 1993, 14:32:58 UTC",
+    "Vehículo de lanzamiento": "Soyuz-U2",
+    "Fecha de aterrizaje": "14 de enero de 1994, 08:18:20 UTC",
+    "Tripulación": "Vasili Tsibliyev\nAleksandr Serebrov",
+    "Tripulación en el lanzamiento": "Jean-Pierre Haigneré",
+    "Indicativo": "| (Sirius)",
+    "Sistema de referencia orbital": "Geocéntrico",
+    "Régimen orbital": "Órbita terrestre baja",
+    "Periapsis": "388 km",
+    "Apoapsis": "397 km",
+    "Inclinación orbital": "51,6 grados",
+    "Acoplamiento": "destino de acoplamiento: Mir | tipo de acoplamiento: muelle",
+    "Misión anterior": "Soyuz TM-16",
+    "Misión siguiente": "Soyuz TM-18",
+    "Programa": "Programa Soyuz\n(Misiones decretadas)"
+  },
+  "resumen": "Soyuz TM-17 fue un vuelo espacial ruso a la estación espacial Mir, lanzado el 1 de julio de 1993. Llevaba a los cosmonautas rusos Vasily Tsibliyev y Aleksandr Serebrov, junto con el astronauta francés Jean-Pierre Haigneré. Duró 196 días y 17 horas, haciendo más de 3.000 órbitas del planeta Tierra.",
+  "secciones": [
+    {
+      "titulo": "Aspectos destacados de la misión",
+      "nivel": 2,
+      "texto": "Soyuz TM-17 fue la 17a expedición a la Estación Espacial Rusa Mir.\nA las 7:37:11 a.m. Tiempo de Moscú (MT), el 14 de enero de 1994 Soyuz TM-17 se separó del puerto delantero de la estación Mir. A las 7:43:59 a.m., el Centro de Control de la Misión en Korolev (TsUP) ordenó a Tsibliyev dirigir Soyuz TM-17 a menos de 15 metros del módulo Kristall para iniciar la fotografía del sistema de acoplamiento APAS-89. A las 7:46:20 a.m., Tsibliyev se quejó de que Soyuz TM-17 estaba manejando con lentitud. Serebrov, esperando la fotografía en el módulo orbital, entonces le pidió a Tsibliyev que sacara la nave espacial del plano de la estación porque se acercaba a uno de los conjuntos solares. En Mir, Viktor Afanasyev ordenó a Valeri Polyakov y Yuri Usachyov evacuar a la nave espacial Soyuz TM-18. A las 7:47:30 a.m., los controladores del TsUP vieron temblar violentamente la imagen de la cámara externa de Soyuz TM-17, y Serebrov informó que Soyuz TM-17 había golpeado a Mir. La TsUP luego perdió las comunicaciones con Mir y Soyuz TM-17. Las comunicaciones intermitentes fueron restauradas con Soyuz TM-17 a las 7:52 a.m. Las comunicaciones de voz con Mir no fueron restauradas hasta las 8:02 a.m. La inspección de Soyuz TM-17 no indicó ningún daño grave. A este respecto, los rusos revelaron que habían estudiado las reentradas de contingencia por naves espaciales despresurizadas tras el accidente de Soyuz 11. Los cosmonautas Mir no sintieron el impacto, aunque el sistema de guía de la estación registró velocidad angular y cambió al modo de vuelo libre.\nEl análisis posterior indicó que el lado derecho del módulo orbital había golpeado a Mir dos golpes de ojeo a 2 segundos de distancia. El punto de impacto fue en Kristall, cerca de su conexión con el bloque base Mir. La causa del impacto fue rastreada a un error de interruptor: el controlador de mano en el módulo orbital que regía el frenado y la aceleración fue encendido, deshabilitando el controlador de mano equivalente (la palanca de control de movimiento izquierda) en el módulo de descenso. Tsibliyev fue capaz de utilizar la palanca correcta para dirigir el Soyuz más allá de los conjuntos solares, antenas y puertos de acoplamiento de Mir después de que se convirtió en un claro impacto era inevitable."
+    }
+  ],
+  "num_palabras": 435
+}

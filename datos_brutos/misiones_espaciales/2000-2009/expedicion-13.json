@@ -1,0 +1,39 @@
+{
+  "titulo": "Expedición 13",
+  "titulo_wikipedia_en": "Expedition 13",
+  "fecha_lanzamiento": "2006-04-01",
+  "año_lanzamiento": 2006,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Expedición_13",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Fecha de lanzamiento": "29 de marzo de 2006 a las 02:30 UTC",
+    "Fecha de aterrizaje": "28 de septiembre de 2006 a las 01:14 UTC",
+    "Duración de la misión": "128 días, 23 horas y 44 minutos",
+    "Duración de las EVA": "12 horas y 25 minutos",
+    "Misión anterior": "Expedición 12",
+    "Misión siguiente": "Expedición 14",
+    "Nave de llegada": "Soyuz TMA-8",
+    "Nave de regreso": "Soyuz TMA-8",
+    "Programa": "Programa de la EEI",
+    "Estación espacial": "Estación Espacial Internacional",
+    "Tipo de misión": "Expedición a la EEI",
+    "Fecha de inicio": "1 de abril de 2006, 04:19 UTC",
+    "Fecha de fin": "28 de septiembre de 2006, 21:53 UTC"
+  },
+  "resumen": "La Expedición 13 fue la decimotercera estancia de larga duración en la Estación Espacial Internacional y la primera en contar con un representante permanente de la ESA.",
+  "secciones": [
+    {
+      "titulo": "Parámetros de la misión",
+      "nivel": 2,
+      "texto": "Perigeo: ~384 km\nApogeo: ~396 km\nInclinación: ~51.6°\nPeríodo: ~92 min\nAcoplamiento: Soyuz TMA-8 - 31 de marzo de 2006, 04:19 UTC\nDesacoplamiento: Soyuz TMA-8 - ?\nTiempo acoplamiento: ? días"
+    }
+  ],
+  "num_palabras": 58
+}

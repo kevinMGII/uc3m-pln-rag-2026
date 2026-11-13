@@ -1,0 +1,39 @@
+{
+  "titulo": "Soyuz 18",
+  "titulo_wikipedia_en": "Soyuz 18",
+  "fecha_lanzamiento": "1975-05-24",
+  "año_lanzamiento": 1975,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Soyuz_18",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Masa en el lanzamiento": "6825 kg",
+    "Fecha de lanzamiento": "24 de mayo de 1975",
+    "Nave": "Soyuz 7K-T",
+    "Fecha de aterrizaje": "26 de julio de 1975",
+    "Duración de la misión": "62,97 días",
+    "Programa": "Programa Soyuz",
+    "Misión anterior": "Soyuz 18a",
+    "Misión siguiente": "Proyecto de pruebas Apolo-Soyuz"
+  },
+  "resumen": "Soyuz 18 fue una misión de una nave Soyuz 7K-T lanzada el 24 de mayo de 1975 desde el cosmódromo de Baikonur con dos cosmonautas a bordo hacia la estación espacial Salyut 4. Fue la siguiente misión a la malograda Soyuz 18a.\nSe acopló exitosamente a la estación, iniciándose más de dos meses de actividades científicas y técnicas durante los cuales tuvo lugar la misión conjunta Apolo-Soyuz entre las misiones Soyuz 19 y Apolo 18.\nLa Soyuz 18 regresó sin problemas el 26 de julio de 1975, aterrizando a 56 km al este de Arkalyk y siendo recuperada a las 14:18 GMT.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Pyotr Klimuk (Comandante)\nVitali Sevastyanov (Ingeniero de vuelo)"
+    },
+    {
+      "titulo": "Tripulación de respaldo",
+      "nivel": 2,
+      "texto": "Vladimir Kovalyonok (Comandante)\nYuri Ponomaryov (Ingeniero de vuelo)"
+    }
+  ],
+  "num_palabras": 118
+}

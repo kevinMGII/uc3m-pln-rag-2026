@@ -1,0 +1,37 @@
+{
+  "titulo": "IKAROS",
+  "titulo_wikipedia_en": "IKAROS",
+  "fecha_lanzamiento": "2010-05-20",
+  "año_lanzamiento": 2010,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Telescopio espacial",
+    "Exploración de Venus",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/IKAROS",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {},
+  "resumen": "IKAROS es una sonda espacial experimental, impulsada parcialmente mediante una vela solar. Fue lanzada por la agencia espacial japonesa JAXA el 20 de mayo de 2010 junto a la sonda PLANET-C y UNITEC-1 El destino de ambas sondas es el planeta Venus. IKAROS es la primera sonda interplanetaria que se impulsa con una vela solar.\nEl nombre \"IKAROS\" pretende ser un acrónimo de \"Kite-Accelerated Interplanetary spacecraft by Radiation from the Sun\", cuya traducción aproximada podría ser \"Nave-Vela Interplanetaria Acelerada por la Radiación del Sol\". Aunque también hace referencia a Ícaro, el personaje mitológico que intentó volar hasta el Sol.\nPara verificar el correcto despliegue de la vela solar, la sonda contaba con dos pequeñas subsondas llamadas DCAM1 y DCAM2 que cuentan con una cámara, utilizadas para fotografiar el despliegue de las velas y que se compruebe si lo hicieron correctamente.",
+  "secciones": [
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "La sonda, construida por Mitsubishi Heavy Industries Ltd., está impulsada por una vela cuadrada de 20 m de lado, que incorpora unas células solares para generar la energía necesaria para los equipos.\nLa vela tiene 20 m de lado, y un espesor de 32.5 micras. Su diseño, denominado \"thin-film solar\", por su capacidad para generar energía eléctrica además de captar impulso, pretende sustituir a los paneles solares espaciales en el futuro. Las velas se desplegarán por fuerza centrífuga, aprovechando la rotación de la nave, mediante la liberación de unos pesos en los extremos de las láminas.\nLa sonda ha costado 1.500 millones de yenes (unos 13 millones de €)"
+    },
+    {
+      "titulo": "Misión",
+      "nivel": 2,
+      "texto": "Su lanzamiento se produjo el 20 de mayo de 2010, desde el Complejo de lanzamiento Yoshinobu del Centro Espacial de Tanegashima, mediante un cohete H-IIA.\nLa sonda viajó a Venus, siendo la primera sonda impulsada parcialmente mediante esta tecnología. Se pretende que esta prueba permita demostrar la viabilidad de un motor híbrido, que combine el impulso de la vela solar con el motor de iones, generados mediante la energía captada por finos paneles solares insertados en la propia vela.\nEl 8 de diciembre de 2010, IKAROS pasó a 80 000 km de Venus."
+    },
+    {
+      "titulo": "Apariciones en otros medios",
+      "nivel": 2,
+      "texto": "La sonda hizo un cameo en un episodio del anime Sora no Otoshimono en el ending 6 de la segunda temporada, encontrándose irónicamente con otro personaje basado en el ser mitológico Ícaro."
+    }
+  ],
+  "num_palabras": 374
+}

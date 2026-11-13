@@ -1,0 +1,53 @@
+{
+  "titulo": "Shenzhou 12",
+  "titulo_wikipedia_en": "Shenzhou 12",
+  "fecha_lanzamiento": "2021-06-17",
+  "año_lanzamiento": 2021,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Shenzhou_12",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Rotación de tripulación de la Estación espacial modular china",
+    "Operador": "Administración Espacial Nacional China",
+    "Duración de la misión": "92 días, 4 horas y 11 minutos",
+    "Nave": "Shenzhou",
+    "Fabricante": "Corporación de Ciencia y Tecnología Aeroespacial de China",
+    "Vehículo de lanzamiento": "Larga Marcha 2F",
+    "Lugar de lanzamiento": "Jiuquan, LA-4",
+    "Contratista del lanzamiento": "Academia China de Tecnología de Vehículos de Lanzamiento",
+    "Lugar de aterrizaje": "Dongfeng",
+    "Tripulación": "Nie Haisheng\nLiu Boming\nTang Hongbo",
+    "Sistema de referencia orbital": "Geocéntrica",
+    "Régimen orbital": "Órbita terrestre baja",
+    "Inclinación orbital": "41.5°",
+    "Programa": "Programa Shenzhou",
+    "Misión anterior": "Shenzhou 11",
+    "Misión siguiente": "Shenzhou 13",
+    "Acoplamiento": "objetivo acople: Gran estación espacial modular china | tipo acople: acople | puerto acople: Tianhe | fecha acople: 17 de junio de 2021, 07:54 UTC | fecha desacople: 16 de septiembre de 2021, 00:56 UTC | tiempo acoplado: 90 días, 17 horas y 2 minutos"
+  },
+  "resumen": "Shenzhou 12 fue un vuelo espacial tripulado, lanzado el 17 de junio de 2021, que forma parte del Programa Shenzhou, siendo el séptimo vuelo tripulado de este programa y el primero a la Gran estación espacial modular china. La nave transportó tres taikonautas de la CNSA a Tianhe, el primer módulo de la estación espacial china. La misión finalizó exitosamente el 17 de septiembre de 2021 tras aterrizar en el desierto de Gobi.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "La tripulación fue anunciada durante una conferencia de prensa el 16 de junio de 2021."
+    },
+    {
+      "titulo": "Misión",
+      "nivel": 2,
+      "texto": "Originalmente estaba previsto que Shenzhou 12 fuese la segunda misión a la estación Tiangong-2 tras la misión Shenzhou 11, pero en 2016 dichos planes fueron cancelados y la misión pasó a ser la primera visita al módulo Tianhe. El vuelo marcará la primera de cuatro misiones tripuladas a la estación espacial china planeadas hasta la finalización de su construcción en 2022. El módulo Tianhe fue visitado por la nave de carga Tianzhou 2 en mayo del 2021, siendo la primera vez que dos naves estarán acopladas a este.\nLa nave espacial fue lanzada en un cohete Larga Marcha-2F desde el Centro de Lanzamiento de Satélites de Jiuquan, el 17 de junio de 2021. Después de unas seis horas y media de vuelo, llegó a la estación espacial china. La misión se acopló con el módulo central de Tianhe a las 07:54 UTC del 17 de junio de 2021, luego del lanzamiento y acoplamiento exitoso de Tianzhou 2, el segundo vuelo de la nave de reabastecimiento de carga Tianzhou de China. Tianzhou 2 pudo permanecer acoplado, porque el módulo central de Tianhe tiene cuatro puertos de acoplamiento, a diferencia de las dos estaciones espaciales anteriores de China que solo tenían uno.\nLa tripulación ingresó al módulo central de Tianhe más tarde a las 10:48 UTC, lo que marca la primera vez que los taikonautas ingresan a la estación espacial."
+    },
+    {
+      "titulo": "Actividades",
+      "nivel": 2,
+      "texto": "Durante su estadía en la estación, la tripulación realizó tareas de demostración y verificación de tecnologías relacionadas al programa espacial tripulado. La duración de tres meses convirtió a esta misión en la más larga del programa espacial tripulado chino.\nEl 4 de julio, Liu Boming y Tang Hongbo realizaron la primera de dos actividades extravehiculares programadas en la misión, donde instalaron equipamiento a la estación.\nEl 20 de agosto el comandante Nie Haisheng y Liu Boming llevaron a cabo la segunda caminata espacial programada para probar equipamiento y llevar a cabo la instalación de instrumentos y cámaras panorámicas. La duración de la actividad extravehicular fue de 5 horas y 55 minutos.\nLa tripulación se desacopló de la estación espacial el 16 de septiembre, y tras realizar un simulacro de acople con un segundo puerto de acople, reingresaron a la tierra el 17 de septiembre, aterrizando por primera vez en el desierto de Gobi. Las misiones anteriores del programa Shenzhou aterrizaban en la región Bandera de Siziwang."
+    }
+  ],
+  "num_palabras": 482
+}

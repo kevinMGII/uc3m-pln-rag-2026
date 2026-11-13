@@ -1,0 +1,30 @@
+{
+  "titulo": "STS-90",
+  "titulo_wikipedia_en": "STS-90",
+  "fecha_lanzamiento": "1998",
+  "año_lanzamiento": 1998,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/STS-90",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {},
+  "resumen": "STS-90 fue una misión del transbordador espacial Columbia en 1998. La misión de 16 días marcó el último vuelo del módulo de laboratorio Spacelab de la Agencia Espacial Europea, que había volado por primera vez en Columbia en STS-9, y fue también el último aterrizaje diurno para Columbia.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Aspectos destacados de la misión",
+      "nivel": 2,
+      "texto": "Neurolab fue una misión de módulo Spacelab centrada en los efectos de la microgravedad en el sistema nervioso. Los objetivos de Neurolab fueron estudiar las preguntas de investigación básica y aumentar la comprensión de los mecanismos responsables de los cambios neurológicos y conductuales en el espacio. Específicamente, los experimentos estudiarían la adaptación del sistema vestibular y el síndrome de adaptación espacial, la adaptación del sistema nervioso central y las vías que controlan la capacidad de sentir la localización en ausencia de gravedad, y el efecto de la microgravedad en un sistema nervioso en desarrollo. El líder científico fue Mary Anne Frey.\nLa misión fue una empresa conjunta de seis agencias espaciales y siete agencias de investigación estadounidenses. Equipos de investigadores de nueve países realizarían 31 estudios en el entorno de la microgravedad del espacio. Otros organismos que participaron en la misión fueron seis institutos de los Institutos Nacionales de Salud, la Fundación Nacional de Ciencia y la Oficina de Investigaciones Navales, así como los organismos espaciales del Canadá, Francia, Alemania y el Japón, y la Agencia Espacial Europea.\nLos 26 experimentos de Neurolab apuntaron a una de las partes más complejas y menos comprendidas del cuerpo humano: el sistema nervioso. Los objetivos principales eran llevar a cabo investigaciones básicas en neurociencias y ampliar la comprensión de cómo el sistema nervioso se desarrolla y funciona en el espacio. Los sujetos de prueba eran ratas, ratones, grillos, caracoles, dos tipos de peces y los propios miembros de la tripulación. Esfuerzo de cooperación de la NASA, varios asociados nacionales y los organismos espaciales del Canadá (CSA), Francia (CNES) y Alemania (DLR), así como la Agencia Espacial Europea (ESA) y la Agencia Nacional de Desarrollo Espacial del Japón (NASDA). La mayoría de los experimentos llevados a cabo en módulo largo presurizado Spacelab ubicado en la bahía de carga útil de Columbia. Este fue el 16o y último vuelo programado del módulo Spacelab desarrollado por la ESA, aunque las paletas Spacelab se seguirían utilizando en la Estación Espacial Internacional.\nLa investigación se llevó a cabo según lo previsto, con la excepción del Equipo de Desarrollo Mamífero, que tuvo que cambiar las prioridades de las actividades científicas debido a la tasa inesperada de mortalidad de ratas neonatales a bordo.\nOtras cargas útiles incluyeron el experimento de las Fuerzas de Vibración del transbordador, el Sistema de Demostración de Bioreactor-04, y tres investigaciones de contenedores Get-Away Special (GAS).\nSTS-90 fue la primera misión en hacer que un Sistema de Maniobra Orbital (OMS) ayudara a quemar durante el ascenso.\nTres de los siete equipos STS-90 (Williams, Pawelczyk y Buckey) aparecieron en la serie de televisión canadiense Popular Mechanics for Kids. Trabajando con ingenieros en tierra una semana después del vuelo, la tripulación de la órbita usó cinta de aluminio para evitar una válvula sospechosa en el sistema de eliminación de dióxido de carbono regenerativo que había amenazado con interrumpir la misión.\nEl Equipo de Gestión de la Misión consideró, pero decidió en contra, prolongar la misión un día porque la comunidad científica indicó que un vuelo prolongado no era necesario y se esperaba que las condiciones meteorológicas se deterioraran después del aterrizaje previsto el domingo 3 de mayo.\nKathryn Hire, especialista en misión de STS-90, fue el primer empleado del Centro Espacial Kennedy en ser elegido como candidato a astronauta.\nSTS-90 fue el segundo vuelo de lanzadera donde un murciélago fue observado aterrizando en el tanque externo (el primero es STS-72'), pero voló lejos justo después del arranque del motor principal. Otro murciélago fue observado aterrizando en el Tanque Externo durante STS-119, pero permaneció en el tanque durante el despegue."
+    }
+  ],
+  "num_palabras": 649
+}

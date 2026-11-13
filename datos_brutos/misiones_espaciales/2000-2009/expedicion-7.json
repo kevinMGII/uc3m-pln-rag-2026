@@ -1,0 +1,41 @@
+{
+  "titulo": "Expedición 7",
+  "titulo_wikipedia_en": "Expedition 7",
+  "fecha_lanzamiento": "2003-04-28",
+  "año_lanzamiento": 2003,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Expedición_7",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Fecha de lanzamiento": "26 de abril de 2003 a las 03:53 UTC",
+    "Fecha de aterrizaje": "28 de octubre de 2003 a las 02:40 UTC",
+    "Duración de la misión": "184 d, 22 h y 46 min",
+    "Órbitas completadas": "2.895",
+    "Distancia recorrida": "~123.133.253 km",
+    "Misión anterior": "Expedición 6",
+    "Misión siguiente": "Expedición 8",
+    "Nave de llegada": "Soyuz TMA-2",
+    "Nave de regreso": "Soyuz TMA-2",
+    "Programa": "Programa de la EEI",
+    "Acoplamiento": "objetivo acople: EEI | tipo acople: acople | tiempo acoplado: 182 d, 16 h y 20 min",
+    "Estación espacial": "Estación Espacial Internacional",
+    "Tipo de misión": "Expedición a la EEI",
+    "Fecha de inicio": "28 de abril de 2003, 05:56:20 UTC",
+    "Fecha de fin": "27 de octubre de 2003, 22:17:09 UTC"
+  },
+  "resumen": "La Expedición 7 fue la séptima estancia de larga duración en la Estación Espacial Internacional.",
+  "secciones": [
+    {
+      "titulo": "Parámetros de la misión",
+      "nivel": 2,
+      "texto": "Perigeo: 384 km\nApogeo: 396 km\nInclinación: 51.6°\nPeríodo: 92 min\nAcoplamiento: Soyuz TMA-2 - 28 de abril de 2003, 05:56 UTC\nDesacoplamiento: Soyuz TMA-2 - 27 de octubre de 2003, 22:17 UTC\nTiempo acoplamiento: 182 d, 16 h y 20 min"
+    }
+  ],
+  "num_palabras": 57
+}

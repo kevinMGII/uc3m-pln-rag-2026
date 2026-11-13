@@ -1,0 +1,24 @@
+{
+  "titulo": "Soyuz TMA-04M",
+  "titulo_wikipedia_en": "Soyuz TMA-04M",
+  "fecha_lanzamiento": "2012-05-15",
+  "año_lanzamiento": 2012,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Soyuz_TMA-04M",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Nave": "Soyuz-FG",
+    "Misión anterior": "Soyuz TMA-03M",
+    "Misión siguiente": "Soyuz TMA-05M",
+    "Programa": "Programa Soyuz"
+  },
+  "resumen": "Soyuz TMA-04M fue un vuelo espacial a órbita terrestre baja, transportaba a tres miembros de la Expedición 31 a la tripulación de la Estación Espacial Internacional (ISS).\nFue lanzado el 15 de mayo de 2012 y aterrizó en 17 de septiembre de 2012, fue el vuelo n.º 113 de la misión Soyuz, desde su lanzamiento inicial en 1967, y el cuarto lanzamiento desde la mejora de la serie Soyuz TMA-M (el primero fue lanzado el 7 de octubre de 2010), la nave contaba con un sistema de control de vuelo modernizado y reducción en su peso.\nSegún el plan de la misión, la nave permaneció acoplada a la estación espacial para servir como vehículo de escape de emergencia durante la Expedición 31.\nLa nave llevó a la ISS una tripulación de tres personas (Guennadi Pádalka, Rusia, Serguéi Revin, Rusia, Joseph Acaba, Estados Unidos). La misión aterrizó con éxito en Kazajistán 17 de septiembre de 2012, a las 02:53 UTC.\nLa nave fue diseñada y fabricada por Space industry of Russia, la mayor empresa de la industria espacial rusa.",
+  "secciones": [],
+  "num_palabras": 178
+}

@@ -1,0 +1,31 @@
+{
+  "titulo": "Luna 10",
+  "titulo_wikipedia_en": "Luna 10",
+  "fecha_lanzamiento": "1966-03-31",
+  "año_lanzamiento": 1966,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración lunar",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Luna_10",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Finalizado",
+    "Tipo de misión": "Sonda lunar",
+    "Operador": "URSS",
+    "Fecha de lanzamiento": "31 de marzo de 1966",
+    "Lugar de lanzamiento": "Cosmódromo de Baikonur",
+    "ID NSSDC": "1966-027A",
+    "Sistema de referencia orbital": "Lunar",
+    "Periapsis": "350 Km",
+    "Apoapsis": "1.017 Km",
+    "Inclinación orbital": "71,9 Grados"
+  },
+  "resumen": "El Luna 10 fue una nave soviética no tripulada del programa espacial soviético que se lanzó el 31 de marzo de 1966 hacia la Luna. Fue el primer satélite en entrar en órbita alrededor de la Luna, y el primer objeto hecho por el hombre en orbitar cualquier cuerpo más allá de la Tierra.\nLa sonda entró exitosamente el 3 de abril del mismo año en una órbita selenocéntrica. Luna 10 recibía suministro eléctrico de baterías y funcionó durante 460 órbitas lunares y 219 transmisiones de datos por radio, hasta el 30 de mayo de 1966.\nLos parámetros de la órbita lunar que describió la sonda eran 350 x 1.017 km, la inclinación de 71,9 grados del plano ecuatorial lunar. Los instrumentos científicos consistían en un espectrómetro de rayos gamma para el rango de energías de 0,3 a 3 MeV, un magnetómetro triaxial, un detector de meteoritos, instrumentos para estudiar el plasma solar y las emisiones de infrarrojos de la Luna y también la radiación en el ambiente cislunar. También realizó estudios gravitacionales.",
+  "secciones": [],
+  "num_palabras": 173
+}

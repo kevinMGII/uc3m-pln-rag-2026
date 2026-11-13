@@ -1,0 +1,43 @@
+{
+  "titulo": "Extreme Ultraviolet Explorer",
+  "titulo_wikipedia_en": "Extreme Ultraviolet Explorer",
+  "fecha_lanzamiento": "1992-06-07",
+  "año_lanzamiento": 1992,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Telescopio espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Extreme_Ultraviolet_Explorer",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Retirado",
+    "Tipo de misión": "Observatorio espacial",
+    "Operador": "NASA",
+    "Fecha de lanzamiento": "7 de junio de 1992",
+    "Masa en el lanzamiento": "3275 kg",
+    "Dimensiones": "4,5 m de largo, 3 m de diámetro",
+    "Sistema de referencia orbital": "Circular",
+    "Periapsis": "528 Km",
+    "Inclinación orbital": "28,5 Grados",
+    "Instrumentos": "Tres telescopios ultravioleta de incidencia rasante\nEspectrómetro",
+    "Tipo de fin de misión": "reingreso",
+    "Fecha de reentrada": "30 de enero de 2002"
+  },
+  "resumen": "Extreme Ultraviolet Explorer (EUVE) fue un observatorio espacial estadounidense dedicado a la observación en la porción ultravioleta del espectro, de 70 a 760 angstrom. Fue lanzado el 7 de junio de 1992 desde Cabo Cañaveral a bordo de un cohete Delta, y reentró en la atmósfera el 30 de enero de 2002. Estaba controlado desde la Universidad de California en Berkeley.\nLos objetivos de EUVE eran:\nproducir un estudio de alta sensibilidad de todo el cielo en el rango entre 70 y 760 angstrom.\nrealizar un estudio profundo de alta sensibilidad de una porción del cielo situado sobre la eclíptica.\nrealizar un seguimiento espectroscópico de fuentes brillantes en el ultravioleta extremo.\nestudiar la evolución estelar y la población estelar local.\nestudiar el transporte de energía en las atmósferas estelares.\nestudiar la ionización y opacidad del medio interestelar.\nEl estudio global del cielo fue completado en enero de 1993.\nEUVE, lanzado a una órbita de 528 km de altura y 28,5 grados de inclinación orbital, fue diseñado para poder ser asistido y reparado por el transbordador espacial.",
+  "secciones": [
+    {
+      "titulo": "Instrumentos",
+      "nivel": 2,
+      "texto": "El EUVE llevaba tres telescopios ultravioleta de incidencia rasante de 188 kg cada uno y un espectrómetro de 323 kg. Los telescopios realizaron mapas del cielo con una precisión de 0,1 grados de arco. El espectrómetro observaba en la dirección antisolar a lo largo de la eclíptica, realizando un estudio en dos bandas entre 80 y 500 angstroms."
+    },
+    {
+      "titulo": "Especificaciones",
+      "nivel": 2,
+      "texto": "Longitud: 4,5 m\nDiámetro máximo: 3 m\nMasa total: 3275 kg"
+    }
+  ],
+  "num_palabras": 245
+}

@@ -1,0 +1,83 @@
+{
+  "titulo": "Granat (observatorio espacial)",
+  "titulo_wikipedia_en": "Granat",
+  "fecha_lanzamiento": "1989-12-01",
+  "año_lanzamiento": 1989,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Telescopio espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Granat_(observatorio_espacial)",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Misión completada.",
+    "Tipo de misión": "Observatorio espacial",
+    "Operador": "Programa espacial de la URSS",
+    "Fecha de lanzamiento": "1 de diciembre de 1989",
+    "Duración planificada": "9 años",
+    "Masa en el lanzamiento": "4400 kg",
+    "Dimensiones": "Altura: 6,5 m\nEnvergadura: 8,5 m",
+    "Sistema de referencia orbital": "Elíptica",
+    "Periapsis": "53.697 Km",
+    "Inclinación orbital": "87 Grados",
+    "Periodo orbital": "5899,9 minutos",
+    "Instrumentos": "Siete instrumentos científicos."
+  },
+  "resumen": "Granat (en ruso, Гранат) fue un observatorio espacial soviético desarrollado en colaboración con Francia, Dinamarca y Bulgaria. Estaba diseñado para observar en rayos X y rayos gamma, en energías en el rango entre 3 y 200 keV. Fue lanzado el 1 de diciembre de 1989 por un cohete Proton a una órbita de 53697 km x 149862 km, con una inclinación orbital de 87 grados. La misión finalizó el 27 de noviembre de 1998.",
+  "secciones": [
+    {
+      "titulo": "Nave",
+      "nivel": 2,
+      "texto": "Granat era un observatorio estabilizado en los tres ejes y la última de las naves de clase Venera construidas por NPO Lavochkin. Similar al observatorio Astron lanzado en 1983, fue denominado inicialmente Astron 2, para más tarde cambiársele el nombre.\nPesaba 4,4 toneladas, con casi 2,3 toneladas de instrumentación científica. Medía 6,5 metros de alto, con una envergadura de 8,5 metros. Los paneles solares le proporcionaban una potencia de unos 400 vatios."
+    },
+    {
+      "titulo": "Instrumentos",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "SIGMA",
+      "nivel": 3,
+      "texto": "Telescopio de rayos X duros y rayos gamma de baja energía, construido por instituciones francesas. Cubría el rango de energías de 35 a 1300 keV, un área efectiva de 800 cm² y un campo de visión de 5ºx5º. Su resolución angular máxima era de 15 minutos de arco."
+    },
+    {
+      "titulo": "ART-P",
+      "nivel": 3,
+      "texto": "Telescopio de rayos X de construcción soviética. Cubría el rango de 4 a 60 keV para la obtención de imágenes y de 4 a 100 keV para espectroscopia."
+    },
+    {
+      "titulo": "ART-S",
+      "nivel": 3,
+      "texto": "Espectrómetro de rayos X, de construcción soviética, para el rango de energías entre 3 y 100 keV, con un campo de visión de 2ºx2º."
+    },
+    {
+      "titulo": "PHEBUS",
+      "nivel": 3,
+      "texto": "Construido por el CERS francés, era un detector diseñado para registrar eventos transitorios en el rango entre 100 keV y 100 MeV."
+    },
+    {
+      "titulo": "WATCH",
+      "nivel": 3,
+      "texto": "Construidos por Dinamarca, se trataba de cuatro instrumentos idénticos para el rango entre 6 y 180 keV."
+    },
+    {
+      "titulo": "KONUS-B",
+      "nivel": 3,
+      "texto": "De construcción soviética, disponía de siete detectores distribuidos alrededor del observatorio para registrar fotones con energías de 10 keV a 8 MeV."
+    },
+    {
+      "titulo": "TOURNESOL",
+      "nivel": 3,
+      "texto": "Instrumento francés compuesto por cuatro contadores y dos detectores ópticos. Los contadores registraban fotones con energías entre 2 keV y 20 MeV en un campo de visión de 6ºx6º."
+    },
+    {
+      "titulo": "Resultados científicos",
+      "nivel": 2,
+      "texto": "Observación intensa (más de 5 millones de segundos de observación acumulados) del centro galáctico.\nDescubrimiento de líneas de aniquilación positrón-electrón en el microquasar 1E1740-294 y la nova de rayos X GRS 1124-683."
+    }
+  ],
+  "num_palabras": 368
+}

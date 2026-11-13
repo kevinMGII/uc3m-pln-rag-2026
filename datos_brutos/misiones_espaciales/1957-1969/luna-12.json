@@ -1,0 +1,53 @@
+{
+  "titulo": "Luna 12",
+  "titulo_wikipedia_en": "Luna 12",
+  "fecha_lanzamiento": "1966-10-22",
+  "año_lanzamiento": 1966,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración lunar",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Luna_12",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Órbita lunar",
+    "Operador": "Programa espacial soviético",
+    "ID COSPAR": "1966-094A",
+    "Duración de la misión": "89 días",
+    "Tipo de nave": "E-6LF",
+    "Fabricante": "GSMZ Lavochkin",
+    "Masa en el lanzamiento": "1640 kg",
+    "Fecha de lanzamiento": "22 de octubre de 1966, 08:42:26 UTC",
+    "Vehículo de lanzamiento": "Molniya-M 8K78M",
+    "Lugar de lanzamiento": "Baikonur 31/6",
+    "Sistema de referencia orbital": "Selenocéntrico",
+    "Periapsis": "1871 km",
+    "Apoapsis": "2938 km",
+    "Inclinación orbital": "10 grados",
+    "Periodo orbital": "205 minutos",
+    "Semieje mayor": "2404,5 km",
+    "Excentricidad": "0.31",
+    "Datos interplanetarios": "Tipo: orbitador | objeto: Lunar | órbitas: 602 | fecha de llegada: 25 de octubre de 1966, 20:45 UTC",
+    "Programa": "Programa Luna",
+    "Misión anterior": "Luna 11",
+    "Misión siguiente": "Luna 13"
+  },
+  "resumen": "Luna 12 (serie E-6LF) fue una misión espacial del programa Luna, también llamada Lunik 12.",
+  "secciones": [
+    {
+      "titulo": "Sinopsis",
+      "nivel": 2,
+      "texto": "Luna 12 fue lanzada hacia la Luna a bordo de un Molniya-M y alcanzó la órbita lunar el 25 de octubre de 1966. La nave fue equipada con un sistema de televisión que obtuvo y transmitió fotografías de la superficie lunar. Las fotografías contenían 1100 líneas de escaneo con una resolución máxima de 14.9-19.8 m. Las imágenes de la superficie lunar fueron devueltas el 27 de octubre de 1966. No se conoce el número de fotografías. Las transmisiones de radio desde Luna 12 cesaron el 19 de enero de 1967, después de 602 órbitas lunares y 302 transmisiones de radio.\nLuna 12 fue lanzada para completar la misión que Luna 11 no había logrado — tomar fotos de alta resolución de la superficie de la Luna desde la órbita lunar. Luna 12 llegó a la Luna el 25 de octubre de 1966, y entró en una órbita de 133 x 1.200 kilómetros. La prensa soviética publicó las primeras fotos tomadas de la superficie el 29 de octubre, imágenes que mostraban el Mar de las Lluvias y el cráter de Aristarco. La resolución fue de 15 a 20 metros. La película fue desarrollada, fija, seca automáticamente y escaneada para su transmisión a la Tierra. No se publicaron más fotos. Después de completar su misión principal de imagen, Luna 12 fue puesta en un rollo estabilizado por giros para llevar a cabo su misión científica, que se cumplió con éxito.\nLuna 12 fue la primera sonda soviética donde se tomaron medidas deliberadas para prevenir la interceptación de sus señales por el Observatorio del Banco Jodrell. Cuando la sonda estaba en el campo de visión del observatorio comenzó a cambiar sus señales entre dos frecuencias diferentes, algo que Jodrell Bank no pudo seguir."
+    },
+    {
+      "titulo": "Legado y estatuto",
+      "nivel": 2,
+      "texto": "El 21 de enero de 1967, la agencia de noticias soviética TASS anunció que Luna 12 había completado su misión, rompiendo contacto con estaciones terrestres."
+    }
+  ],
+  "num_palabras": 330
+}

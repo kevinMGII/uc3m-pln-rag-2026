@@ -1,0 +1,40 @@
+{
+  "titulo": "Expedición 42",
+  "titulo_wikipedia_en": "Expedition 42",
+  "fecha_lanzamiento": "2014-11-10",
+  "año_lanzamiento": 2014,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Expedición_42",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Fecha de inicio": "10 de noviembre de 2014 UTC",
+    "Misión anterior": "Expedición 41",
+    "Misión siguiente": "Expedición 43",
+    "Nave de llegada": "Soyuz TMA-14M\nSoyuz TMA-15M",
+    "Nave de regreso": "Soyuz TMA-14M\nSoyuz TMA-15M",
+    "Programa": "Programa de la ISS",
+    "Estación espacial": "Estación Espacial Internacional",
+    "Tipo de misión": "Expedición a la ISS",
+    "Fecha de fin": "11 de marzo de 2015 UTC"
+  },
+  "resumen": "La Expedición 42 fue la 42ª estancia de larga duración en la Estación Espacial Internacional. Comenzó el 10 de noviembre de 2014 con el desacoplamiento de la Soyuz TMA-13M, y el retorno de la tripulación de la Expedición 41 a la Tierra y terminó con el desacoplamiento de la Soyuz TMA-15M en marzo de 2015.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Fuente Spacefacts"
+    },
+    {
+      "titulo": "En la cultura popular",
+      "nivel": 2,
+      "texto": "Una ficción cinematográfica de la Expedición 42 se representa en la película de 2013 Gravity. La tripulación, que nunca se muestra, se ve obligada a evacuar la Estación Espacial Internacional en la nave Soyuz antes de que lleguen los restos de basura espacial."
+    }
+  ],
+  "num_palabras": 100
+}

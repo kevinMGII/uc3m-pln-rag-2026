@@ -1,0 +1,37 @@
+{
+  "titulo": "Uranus Orbiter and Probe",
+  "titulo_wikipedia_en": "Uranus Orbiter and Probe",
+  "fecha_lanzamiento": "2031",
+  "año_lanzamiento": 2031,
+  "estado": "programada",
+  "tipo_mision": [
+    "Exploración de los planetas exteriores"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Uranus_Orbiter_and_Probe",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Vehículo espacial orbitador",
+    "Operador": "NASA",
+    "Fecha de lanzamiento": "No antes de 2031",
+    "Vehículo de lanzamiento": "Falcon Heavy",
+    "Duración de la misión": "13,4 años",
+    "Datos interplanetarios": "tipo: orbitador | objeto: Urano"
+  },
+  "resumen": "El Uranus Orbiter and Probe también conocido como (UOP) es un concepto de misión orbital para estudiar Urano y sus satélites. El orbitador también desplegaría una sonda atmosférica para analizar la atmósfera de Urano. El concepto se está desarrollando como una posible gran misión científica estratégica para la NASA. La misión duraría 4,5 años e incluiría múltiples sobrevuelos de cada una de las lunas principales.\nEl concepto de misión fue seleccionado como la misión de mayor prioridad por el Planetary Science Decadal Survey con período 2023-2032, por delante del\n[Orbitador de Encélado (satélite).\nTambién se consideró un concepto de misión orbitadora de Neptuno, el Neptune Odyssey, que abordaría muchos de los mismos objetivos científicos relacionados con las gigantes de hielo, pero por razones logísticas y de costes se favoreció una misión a Urano.\nLa propuesta original apuntaba a un lanzamiento en 2031 utilizando un vehículo de lanzamiento Falcon Heavy en su versión desechable, con asistencia gravitatoria en Júpiter, permitiendo la llegada a Urano en 2044. Sin embargo, en 2023, la NASA anunció que, debido a un déficit en la producción de plutonio, sería más probable un lanzamiento a mediados o finales de la década de 2030.",
+  "secciones": [
+    {
+      "titulo": "Antecedentes",
+      "nivel": 2,
+      "texto": "La Voyager 2 es la única sonda espacial que ha visitado el sistema Urano, completando un sobrevuelo el 24 de enero de 1986. El Planetary Science Decadal Survey de 2011-2022 recomendó una misión orbital a un gigante de hielo, con una prioridad sólo por detrás de lo que se convertiría en las misiones rover Mars 2020 y el Europa Clipper. Los gigantes de hielo ahora se consideran un tipo común de exoplaneta, lo que precipita la necesidad de realizar más estudios sobre ellos por su papel en la formación del sistema solar. Ambos gigantes de hielo, Urano y Neptuno, siempre han sido vistos como objetivos científicos únicos a la vez que atractivos, pero se ha preferido priorizar un orbitador y una sonda atmosférica para Urano por razones logísticas y de costes. Un orbitador hacia Urano lógicamente seguiría las rutas orbitales de las distintas misiones emprendidas hacia Júpiter y Saturno (Galileo y Cassini, respectivamente).\nEn 2017, antes de la encuesta 2023-2032, un comité redujo veinte conceptos de misión a tres escenarios para Urano y un cuarto para Neptuno. Algunos consideran que una misión a Neptuno tiene mayor interés científico ya que Tritón, probablemente un objeto capturado del cinturón de Kuiper y mundo oceánico, es un objetivo astrobiológico más atractivo que las lunas de Urano (aunque Ariel y Miranda son también muy particulares y se las considera con posibilidad astrobiológica). También hubo un estudio que consideró un concepto de misión orbitadora de Urano de nivel New Frontiers si se favoreciera una misión a Neptuno."
+    },
+    {
+      "titulo": "Detalles de la misión",
+      "nivel": 2,
+      "texto": "El dispositivo de análisis atmosférico de esta misión estudiaría la distribución vertical de las moléculas que forman las nubes, la estratificación térmica y la velocidad del viento en distintas alturas. El diseño de la misión de 2010 preveía una sonda de 127 kilos, menos de la mitad que la sonda Galileo. Un estudio de diseño posterior sugirió que los resultados podrían mejorarse significativamente añadiendo una segunda sonda que podría ser tan pequeña como unos 30 kilos de masa y alrededor de 20 pulgadas de diámetro."
+    }
+  ],
+  "num_palabras": 533
+}

@@ -1,0 +1,136 @@
+{
+  "titulo": "STS-117",
+  "titulo_wikipedia_en": "STS-117",
+  "fecha_lanzamiento": "2007-06-08",
+  "año_lanzamiento": 2007,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/STS-117",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Lugar de lanzamiento": "LC-39A",
+    "Fecha de lanzamiento": "8 de junio de 2007",
+    "Nave": "Atlantis",
+    "Fecha de aterrizaje": "22 de junio de 2007 3:49:38 p. m. EDT (19:49:38 UTC) en la Edwards Air Force Base",
+    "Duración de la misión": "14 días",
+    "Inclinación orbital": "51.6 grados",
+    "Distancia recorrida": "9.3 millones de kilómetros.",
+    "Misión anterior": "STS-116",
+    "Misión siguiente": "STS-118",
+    "Programa": "Programa del Transbordador Espacial"
+  },
+  "resumen": "La STS-117 fue una misión de la NASA planificada para continuar con la secuencia de montaje de la Estación Espacial Internacional. El transbordador espacial asignado a esta misión era el Atlantis. Fue la vigésimo primera misión de un transbordador espacial a la Estación Espacial Internacional.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Frederick Sturckow (3) - Comandante\nLee Archambault (1) - Piloto\nJames F. Reilly (3) - Especialista de misión\nSteven Swanson (1) - Especialista de misión\nJohn D. Olivas (2) - Especialista de misión\nPatrick G. Forrester (2) - Especialista de misión\nClayton Anderson (1)- Ingeniero de vuelo EEI Expedición 15/16\nEl número entre paréntesis indica el número de vuelos completados, incluyendo esta misión"
+    },
+    {
+      "titulo": "Parámetros de la Misión",
+      "nivel": 2,
+      "texto": "Masa: +2 millones de kg.\nPerigeo: 330 km.\nApogeo: 341 km.\nInclinación: 51.6º\nPeríodo: 91.6 minutos"
+    },
+    {
+      "titulo": "Objetivos de la misión",
+      "nivel": 2,
+      "texto": "Esta misión entregó a la Estación Espacial Internacional (en inglés EEI) el segundo y tercer segmento de la estructura de estribor (segmentos S3/S4) y sus sistemas de energía asociados, incluyendo un conjunto de baterías y paneles solares. Los astronautas instalarán los nuevos segmentos de la estructura, replegarán un grupo de paneles solares en el segmento P6 y desplegarán el nuevo grupo en el lado de estribor de la estación. También se producirá el cambio entre Clayton Anderson y Sunita Williams (ascendió en el STS-116) como habitante de la Estación Espacial Internacional."
+    },
+    {
+      "titulo": "Preparación de la misión",
+      "nivel": 2,
+      "texto": "En un principio la misión STS-117 tenía planificado su lanzamiento el día 16 de marzo, posteriormente se adelantó esta fecha para ampliar la ventana de lanzamiento y aumentar así las posibilidades de conseguir un lanzamiento con éxito dentro de ese intervalo de tiempo. En preparación para este adelanto en el lanzamiento, el Atlantis fue transportado al edificio de ensamblaje de vehículos el 7 de febrero.\nDespués de la llegada del orbitador al edificio de ensamblaje de vehículos, este fue elevado verticalmente por dos grúas puente, colocándolo en posición para unirlo al depósito de combustible externo y a los cohetes reforzadores sólidos, que ya estaban puestos encima de la plataforma móvil de lanzamiento.\nLa unión del orbitador al conjunto ocurrió el 12 de febrero. El resto de preparativos para el lanzamiento continuaron de acuerdo a lo previsto. Originalmente, Atlantis tenía programado iniciar su viaje de, aproximadamente 5.47 kilómetros y seis horas de duración, hacia la plataforma de lanzamiento 39A (el primer lanzamiento en cuatro años de un transbordador en esta plataforma) el 14 de febrero, pero debido a problemas técnicos se retrasó al 15 de febrero."
+    },
+    {
+      "titulo": "Daños por granizada",
+      "nivel": 3,
+      "texto": "Las inspecciones realizadas después de la tormenta de granizo ocurrida el día 26 de febrero mostraron que las piedras de granizo del tamaño de una pelota de golf caídas durante la tormenta habían causado daños considerables en la espuma aislante del depósito de combustible externo, algunas abolladuras en la superficie y daños menores en al menos 26 baldosas de protección térmica del ala izquierda del transbordador."
+    },
+    {
+      "titulo": "Historial de la misión",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Día 1 (Lanzamiento, 8 de junio)",
+      "nivel": 3,
+      "texto": "El lanzamiento ocurrió a las 23:38:04 GMT como estaba planeado. Todo el procedimiento prelanzamiento fue normal, y la tripulación del Atlantis abordó el transbordador a las 20:17 GMT el cual fue completado a las 20:58 GMT y las compuertas cerradas a las 21:40 GMT. El tiempo estuvo en un 80% para el lanzamiento. Aunque en algunas pistas de aterrizaje de emergencia estuvieron en rojo, cambiaron a verde último momento, lo que facilitó el lanzamiento. Como todas las misiones no-exigentes restantes, el lanzamiento fue en el Complejo de lanzamiento 39-A. Esta misión fue la primera en lanzarse en la rampa 39-A después de la tragedia del Columbia."
+    },
+    {
+      "titulo": "Día 2 (9 de junio)",
+      "nivel": 3,
+      "texto": "Luego de un exitoso lanzamiento, los astronautas del transbordador encontraron un rasgón de 4 pulgadas (unos 10 cm) en la manta térmica del lado izquierdo del transbordador. Hubo una cierta preocupación sobre el comportamiento que tendría en la reentrada a la atmósfera y sobre si sería un peligro para la integridad del transbordador."
+    },
+    {
+      "titulo": "Día 3 (Acoplamiento, 10 de junio)",
+      "nivel": 3,
+      "texto": "Después de realizar el acercamiento y la Maniobra de cabeceo de acoplamiento, el Atlantis se acopló a la EEI a las 19:36 GMT y la escotilla entre ambas naves se abrió a las 21:20 GMT. Luego, se produjo el traspaso del segmento S3/S4 entre el brazo róbotico Candarm y el Canadarm2 (brazo\nróbotico de la estación)."
+    },
+    {
+      "titulo": "Día 4 (EVA 1, 11 de junio)",
+      "nivel": 3,
+      "texto": "Los astronautas Archambault, Forreter y Kotov usaron el SSRMS (Sistema de Manipulación Remota de la Estación Espacial o Candarm2) para llevar el segmento S3/S4 a su posición final en el segmento S1. En un EVA de 6 horas y 15 minutos, Reilly y Olivas conectaron el segmento, y comenzaron los preparativos para el despliegue de los paneles solares. El comienzo del paseo espacial fue retrasado alrededor de una hora debido a una pérdida del control de posición cuando los giroscopios de la estación estuvieron fuera de servicio."
+    },
+    {
+      "titulo": "Día 5 (12 de junio)",
+      "nivel": 3,
+      "texto": "El despliegue de los paneles solares fue el objetivo principal del día. Estos añaden más energía eléctrica a la estación. Continuaron los problemas con los giroscopios, aunque se utilizó el método no-propulsivo para controlar la posición de la estación. El transbordador también ayudó en esta tarea y al final del día el problema fue solucionado."
+    },
+    {
+      "titulo": "Día 6 (EVA 2, 13 de junio)",
+      "nivel": 3,
+      "texto": "Forrester y Swanson completaron el EVA 2 con resultados mixtos. Durante el transcurso del EVA, se encontraron con que el circuito del motor del S3/S4 SARJ esta cableado al revés, en donde algunos refrenamientos de lanzamientos fueron abandonados en el lugar para prevenir rotaciones inesperadas. Todos los objetivos fueron realizados, incluido la retractación parcial del panel solar del segmento P6."
+    },
+    {
+      "titulo": "Día 7 (14 de junio)",
+      "nivel": 3,
+      "texto": "Un mal funcionamiento en las computadoras del segmento ruso de la EEI dejó a la estación sin control de su orientación a las 06:30 GMT. Un reinicio de estas computadoras ocasionó una falsa alarma de incendio que despertó a la tripulación antes de lo previsto. Los paneles solares del segmento P6 fueron retractados un poco más de la mitad de su longitud original. La tripulación disfrutó de un período de reserva mientras que Reilly y Olivas descansaron en la esclusa de aire Quest para preparar el EVA 3."
+    },
+    {
+      "titulo": "Día 8 (EVA 3, 15 de junio)",
+      "nivel": 3,
+      "texto": "Los astronautas Reilly y Olivas comenzaron esta actividad extravehicular, donde repararon el rasgón de la manta térmica del Atlantis. Mientras Olivas reparaba el rasgón, Reilly instaló una rejilla de ventilación de hidrógeno para el sistema de generación de oxígeno dentro del módulo Destinity. Los astronautas también asistieron la retractación final del panel solar en el módulo P6. Todas las tareas fueron terminadas exitosamente en 7 horas y 58 minutos."
+    },
+    {
+      "titulo": "Día 9 (16 de junio)",
+      "nivel": 3,
+      "texto": "La tripulación del Atlantis tenía tareas ligeras para este día, como la preparación del EVA 4 y la conferencia de prensa junto con los miembros de la EEI. Los problemas con las computadoras fueron solucionados, con los 6 procesadores disponibles (4 en línea y 2 en standby)."
+    },
+    {
+      "titulo": "Día 10 (EVA 4, 17 de junio)",
+      "nivel": 3,
+      "texto": "El cuarto y último EVA comenzó a las 16:25 GMT. Durante las 6 horas y medias, Forrester y Swanson activaron la junta rotatoria en el nuevo segmento, instalaron una cámara y un cable de red."
+    },
+    {
+      "titulo": "Día 11 (18 de junio)",
+      "nivel": 3,
+      "texto": "Los tripulantes de la EEI y el Atlantis transfirieron la última carga mientras los controladores en Tierra testearon las computadoras de control y navegación que fallaron la semana pasada. El control de actitud fue pasado al Centro de Control Ruso, y el Atlantis recibió luz verde para el desacoplamiento para el día 12. La Expedición 15 y el Atlantis se despidieron y sellaron la compuerta de sus respectivos vehículos."
+    },
+    {
+      "titulo": "Día 12 (Desacoplamieno, 19 de junio)",
+      "nivel": 3,
+      "texto": "El Atlantis se desacopló exitosamente de la estación a las 14:42 GMT, luego realizó un fly-around en donde dio una vuelta completa a la estación y realizó la última inspección al escudo térmico del Atlantis."
+    },
+    {
+      "titulo": "Día 13 (20 de junio)",
+      "nivel": 3,
+      "texto": "Los tripulantes del Atlantis realizaron diferentes test de hardware para preparar el aterrizaje planeado originalmente para el 21 de junio y respondieron entrevistas de diferentes canales de televisión."
+    },
+    {
+      "titulo": "Día 14 (21 de junio)",
+      "nivel": 3,
+      "texto": "El Atlantis cerró las compuertas de la bodega de carga y realizó diferentes preparativos para el aterrizaje, pero tuvo que quedarse en órbita debido al mal tiempo en Florida."
+    },
+    {
+      "titulo": "Día 15 (22 de junio)",
+      "nivel": 3,
+      "texto": "El Atlantis nuevamente cerró las puertas de la bodega de carga e inicio preparativos para el aterrizaje donde tenía 5 oportunidades de aterrizaje. Los intentos de aterrizaje para Florida se cancelaron debido al tiempo. Finalmente, el Atlantis finalizó su misión en la pista 22 de la Base Edwards a las 3:49 EDT."
+    }
+  ],
+  "num_palabras": 1335
+}

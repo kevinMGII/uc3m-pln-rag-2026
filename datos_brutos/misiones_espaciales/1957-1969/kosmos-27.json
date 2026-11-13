@@ -1,0 +1,60 @@
+{
+  "titulo": "Kosmos 27",
+  "titulo_wikipedia_en": "Kosmos 27",
+  "fecha_lanzamiento": "1964-03-27",
+  "año_lanzamiento": 1964,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración de Venus",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Kosmos_27",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Sonda de impacto Venus",
+    "Operador": "OKB-1",
+    "ID COSPAR": "1964-014A",
+    "Nº SATCAT": "00770",
+    "Tipo de nave": "3MV-1",
+    "Fabricante": "OKB-1",
+    "Masa en seco": "948 kg\n(incluido un impacto)\nsonda de 285 kg)",
+    "Masa en el lanzamiento": "6520 kg",
+    "Fecha de lanzamiento": "27 marzo 1964, 03:24:43 GMT",
+    "Vehículo de lanzamiento": "Molniya 8K78\ns/n T15000-22",
+    "Lugar de lanzamiento": "Baikonur, sitio 1/5",
+    "Contratista del lanzamiento": "OKB-1",
+    "Fecha de reentrada": "28 de marzo de 1964",
+    "Época": "27 de marzo de 1964",
+    "Sistema de referencia orbital": "Geocéntrico",
+    "Régimen orbital": "Órbita terrestre baja",
+    "Periapsis": "167 km",
+    "Apoapsis": "198 km",
+    "Inclinación orbital": "64.8°",
+    "Periodo orbital": "88,7 minutos",
+    "Programa": "Venera",
+    "Misión anterior": "Venera 3MV-1 No.2",
+    "Misión siguiente": "Venera 2"
+  },
+  "resumen": "Kosmos 27 (en ruso: + 27 significa Cosmos 27), también conocido como Zond 3MV-1 No.3 fue una misión espacial destinada como una sonda de impacto Venus. La nave espacial fue lanzada por un cohete portador Molniya 8K78 desde Baikonur. La etapa Blok L y la sonda alcanzaron la órbita terrestre con éxito, pero el sistema de control de actitud no funcionó.",
+  "secciones": [
+    {
+      "titulo": "Lanzamiento",
+      "nivel": 2,
+      "texto": "Kosmos 27 fue lanzado a las 03:24:43 GMT el 27 de marzo de 1964, sobre un cohete portador Molniya 8K78 s/n T15000-22 que volaba desde el Sitio 1/5 en el cosmódromo de Baikonur."
+    },
+    {
+      "titulo": "Vehículo espacial",
+      "nivel": 2,
+      "texto": "Kosmos 27 fue una \"tercera generación\" de sondas planetarias en el espacio profundo de la serie 3MV de la Unión Soviética. Los ingenieros soviéticos planificaron cuatro tipos de 3MV, el 3MV-1 (para impacto Venus), 3MV-2 (para vuelo Venus), 3MV-3 (para impacto Marte) y 3MV-4 (para vuelo Marte). La diferencia principal con respecto a la segunda generación mejoró enormemente (y en muchos casos se duplicó) los elementos del sistema de orientación, así como los sistemas de propulsión a bordo. Mientras que estas cuatro versiones estaban destinadas a estudiar Marte y Venus."
+    },
+    {
+      "titulo": "Misión",
+      "nivel": 2,
+      "texto": "La sonda fue la primera nave espacial 3MV dedicada que los soviéticos lanzaron (las misiones anteriores habían sido de la prueba \"Object-Probe\" versiones como Kosmos 21). Fue diseñado para lograr la entrada atmosférica en Venus seguida por descenso e impacto. El 27 de marzo de 1964 tenía un perigeo de 167 kilómetros (104 millas) y un apogeo de 198 kilómetros (123 millas), con una inclinación de 64,8° y un período orbital de 88,7 minutos. La nave espacial alcanzó con éxito la órbita terrestre, pero no pudo salir hacia Venus cuando la etapa superior de Blok L falló. La etapa superior perdió una actitud estable debido a un fallo en el circuito del circuito de alimentación que alimentaba las válvulas para el sistema de control de actitud; por lo tanto, la etapa permaneció incontrolable y no estaba lista para iniciar una quemadura para salir de la órbita terrestre. El problema se trazó a un error de diseño, el examen de los datos de telemetría encontró que el fallo se debió a un fallo de diseño en el circuito de la unidad BOZ, lo que resultó en que la energía no se transfiere a los chorros de control de actitud en la etapa Blok L, en lugar de uno relacionado con el control de calidad. La nave espacial se quemó en la atmósfera de la Tierra al día siguiente, el 28 de marzo de 1964. Si tuviera éxito, esta misión habría recibido una designación de \"Venera\"."
+    }
+  ],
+  "num_palabras": 428
+}

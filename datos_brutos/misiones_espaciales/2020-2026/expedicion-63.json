@@ -1,0 +1,50 @@
+{
+  "titulo": "Expedición 63",
+  "titulo_wikipedia_en": "Expedition 63",
+  "fecha_lanzamiento": "2020-04-17",
+  "año_lanzamiento": 2020,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Expedición_63",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Fecha de lanzamiento": "9 de abril/ 30 de mayo",
+    "Nave": "Soyuz MS-16\nSpX DM-2",
+    "Fecha de fin": "21 de octubre de 2020",
+    "Misión anterior": "Expedición 62",
+    "Misión siguiente": "Expedición 64",
+    "Programa": "Programa de la ISS",
+    "Estación espacial": "Estación Espacial Internacional",
+    "Tipo de misión": "Expedición a la ISS",
+    "Fecha de inicio": "17 de abril de 2020"
+  },
+  "resumen": "Expedición 63 fue la sexagésima tercera misión de larga duración a la ISS, que comenzó el 17 de abril de 2020 con el desacoplamiento de la nave espacial Soyuz MS-15",
+  "secciones": [
+    {
+      "titulo": "Misión",
+      "nivel": 2,
+      "texto": "Está expedición iba a estar compuesta en principio por solo 3 miembros, el comandante estadounidense Christopher Cassidy, así como por los ingenieros de vuelo rusos Anatoli Ivanishin e Ivan Vagner. El 31 de mayo de 2020 durante esta expedición llegó la nave Crew Dragon \"Endeavour\" en la misión DM-2 con los astronautas Douglas Hurley y Robert Behnken. La NASA comunicó el día 1 de junio de 2020 que formarían parte oficial de la Expedición, aumentando la tripulación de 3 a 5; Hurley y Behnken permanecieron en la estación 60 días (hasta el 2 de agosto) tras comprobar la evolución de la degradación de los nuevos paneles solares de la cápsula y el correcto funcionamiento de los diferentes sistemas.\nDurante la Expedición los astronautas Christopher Cassidy y Robert Behnken, tienen previsto varios paseos espaciales para seguir en el proceso de sustituir las baterías de los paneles solares, llegadas en la última nave HTV-9 el pasado 25 de mayo, y que el comandante de la Expedición Christopher Cassidy, atrapo con el brazo Canadarm 2.\nEn septiembre después de la marcha de la DM-2 se esperaba la llegada de la nave Crew-1 con otros 4 astronautas, tres de la NASA y uno de JAXA y que aumentaría la tripulación permanente de la expedición a 7 miembros por primera vez en la historia (normalmente la expedición está compuesta por 6 miembros, debido a la capacidad de transporte de 3 personas por cápsula soyuz, pero la dragón tiene la capacidad de transportar hasta 7 personas, aunque en las misiones a la ISS llevara a 4 personas, según los criterios de seguridad de la NASA, visitantes y tripulaciones de relevo aparte) desde septiembre a octubre, pero debido a los retrasos sufridos en el lanzamiento de esta nave no llegaran a la estación hasta noviembre y formarán parte de la Expedición 64. Está misión finalizó el 21 de octubre de 2020 después de la llegada de la Soyuz MS-17, y con el desacoplamiento de la Soyuz MS-16, marcando así el inicio de la Expedición 64 con los miembros de la Soyuz MS-17 y la llegada en noviembre de la tripulación de la Crew-1"
+    },
+    {
+      "titulo": "Personal",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Notas de la tripulación",
+      "nivel": 3,
+      "texto": "En un principio la expedición la iban a formar otros dos cosmonautas rusos, que han sido sustituidos por sus reservas debido a una lesión de Nikolai Tijonov, siendo Anatoli Ivanishin e Ivan Vagner junto con Cassidy los tres miembros de la tripulación de la Soyuz MS-16 y pertenecientes a esta expedición en lugar de la Expedición 64. Tijonov y Andrei Babkin pasaron entonces a ser los titulares de la nave Soyuz MS-17 junto con Stephen Bowen.\nEn mayo de 2020, por diferentes reestructuraciones de las diferentes agencias de la NASA y ROSCOSMOS, se cambian el orden de los astronautas que formaran parte de las siguientes expediciones, siendo actualmente la tripulación de la Soyuz MS-17 los cosmonautas Sergey Ryzhikov y Sergey Kud-Sverchkov junto a la astronauta de la NASA, Kathleen Rubins los titulares. Según estas reestructuraciones los cosmonautas Nikolai Tijonov y Andrei Babkin, han pasado a ser la tripulación de la Soyuz MS-18, para marzo de 2021, coincidiendo con el lanzamiento del futuro módulo Nauka de la ISS por la agencia Roscosmos en mayo de 2021."
+    },
+    {
+      "titulo": "Insignia",
+      "nivel": 2,
+      "texto": "Según NASA, «el parche de la Expedición 63 representa una intersección del pasado y el comienzo de un nuevo amanecer en el vuelo espacial humano a medida que continuamos habitando la Estación Espacial Internacional, apuntamos a regresar a la Luna y planeamos el viaje a Marte. Trece estrellas iluminadas a lo largo de la parte superior del parche conmemoran la misión Apolo 13 que celebra su 50° aniversario durante la Expedición 63. La trayectoria en forma del número \"63\" que orbita alrededor de la Tierra y la Luna rinde homenaje al Programa Apolo y las futuras misiones para ir más allá de la órbita terrestre baja. El átomo, que se muestra superpuesto en un amanecer vibrante, es el indicativo de llamada de la tripulación de la Expedición 63, simbolizando la energía para girar u orbitar alrededor de un núcleo o, en su caso, la Tierra. La tripulación internacional continuará llevando a cabo la importante misión de colaboración para preservar la estación espacial como laboratorio de investigación de microgravedad y medio ambiente espacial»."
+    }
+  ],
+  "num_palabras": 733
+}

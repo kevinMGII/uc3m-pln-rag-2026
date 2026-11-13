@@ -1,0 +1,30 @@
+{
+  "titulo": "Venera-D",
+  "titulo_wikipedia_en": "Venera-17",
+  "fecha_lanzamiento": "2036",
+  "año_lanzamiento": 2036,
+  "estado": "programada",
+  "tipo_mision": [
+    "Exploración de Venus"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Venera-D",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {},
+  "resumen": "La sonda Venera-D (en ruso: Венера-Д) es un proyecto espacial ruso de exploración de Venus, cuyo lanzamiento inicialmente estaba previsto para 2013. La sonda Venera-D se inspira, en lo que al módulo orbital respecta, en la misión estadounidense Magallanes, pero usará un sistema de radar de mayor potencia; por su parte, el módulo de descenso pretende transmitir información desde la inhóspita superficie venusiana durante al menos tres meses, frente a la hora y media máxima de tiempo de transmisión obtenida por las anteriores sondas Venera. La Venera-D pretende también localizar lugares para próximos aterrizajes sobre la superficie del planeta.",
+  "secciones": [
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "La Venera-D es el primer proyecto espacial ruso relacionado con la exploración del planeta Venus (dejando de lado el programa Venera y el programa Vega, desarrollados por la antigua Unión Soviética). La Venera-D pretende servir de modelo experimental de una nueva generación de sondas rusas destinadas a la investigación de Venus, que culminarán con módulos de descenso y aterrizaje capaces de soportar las adversas condiciones de la atmósfera venusiana. Está previsto que la Venera-D sea lanzada a bordo de un cohete todavía no determinado; entre las opciones que se barajan se encuentran el cohete Soyuz-FG/Fregat, un cohete Protón, un cohete Angara, aún en fase de desarrollo y mucho más potente, o un cohete Soyuz 2.\nLa Venera-D forma parte de un programa de renovación de la industria espacial de Rusia, junto a las misiones Luna-Glob, la primera sonda rusa a la Luna desde la soviética Luna 24 de 1976 y Mars-Grunt, la primera sonda rusa a Marte tras el fracaso de la Mars 96 en 1996 y la Phobos-Grunt en 2011."
+    },
+    {
+      "titulo": "Desarrollo",
+      "nivel": 2,
+      "texto": "El proyecto fue aprobado el 22 de octubre de 2005, por el decreto n.º 635, a desarrollar entre 2006 y 2015, estando inicialmente previsto su lanzamiento para 2016. Durante el 5.º International Aerospace Congress desarrollado en Moscú en agosto de 2006, el representante de la Roscosmos, Vitaly Davydov, consideró a la Venera-D como uno de los proyectos de la mayor importancia y prioridad dentro de la industria espacial rusa actual.\nSegún algunas fuentes, durante 2006 y 2007 se discutió la posibilidad de una misión cooperativa ruso-europea con participación japonesa; la misión habría contado con participación de la agencia ESA europea y la JAXA japonesa, con sendos globos sonda, similares a los empleados en las misiones soviéticas Vega 1 y 2, uno europeo para la atmósfera baja y uno japonés para la atmósfera alta, e instrumentación científica similar a la transportada en la Venus Express, si bien esta participación no fue confirmada. Esta colaboración podría comportar la integración de esta misión con el proyecto europeo EVE (European Venus Explorer) iniciado en 2005 y posteriormente suspendido.\nDurante 2008, el IKI publicó un informe resumiendo los resultados de la segunda y última etapa del estudio previo de investigación y desarrollo del proyecto de la sonda, titulado \"Development of methods for complex research of Venus with the use of an orbiter, balloons, and a long-duration lander\". Según el estudio preliminar, se establecen una serie de características de referencia para la misión:\nUn orbitador de entre 40 y 50 kilogramos de peso total;\nUn globo sonda atmosférico de 20 kg de peso y una vida útil de 5 días;\nUna sonda de aterrizaje de 10-15 kg, incluyendo un pequeño módulo de larga duración con 4'5 kg de instrumentos científicos;\nEn octubre de 2009 el IKI organizó una conferencia científica internacional presentando los objetivos de la sonda. La sonda estará compuesta, según los planes de 2009, por:\nUn orbitador de 600 kg con una carga útil de 50 a 60 kg. La vida operativa del mismo será de 2 años.\nDos globos sonda atmosféricos de 150 kg cada uno, con una carga útil de 5 a 15 kg y con una vida estimada de 8 días. Llevarán cada uno 4 mini-sondas de 2 kg.\nUna sonda de aterrizaje de entre 150 y 170 kg con entre 20 y 25 kg de instrumentos científicos y una vida útil de 1 hora sobre la superficie.\nPor otra parte, en noviembre del mismo año, Roskosmos pospuso su lanzamiento hasta 2016. A principios de 2011, el proyecto de la Venera-D entró en la Fase A de desarrollo (Diseño Preliminar). Con posterioridad, en abril de 2012 y tras el fracaso de la Phobos-Grunt en noviembre de 2011, se anunció que el lanzamiento de la misión iba a ser retrasado hasta el 2024. En octubre de 2017 la Roscosmos organizó el \"Venera-D Venus Modelling Workshop\", centrado en el soporte de la misión Venera-D, la selección del sitio de aterrizaje y los tipos de mediciones necesarios en los modelos y experimentos.\nPor otra parte, se mantiene en paralelo un segundo proyecto de sonda a Venus, la Venera-Glob, a lanzar en 2020."
+    }
+  ],
+  "num_palabras": 788
+}

@@ -1,0 +1,53 @@
+{
+  "titulo": "STS-79",
+  "titulo_wikipedia_en": "STS-79",
+  "fecha_lanzamiento": "1996-09-16",
+  "año_lanzamiento": 1996,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/STS-79",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Programa Shuttle-Mir",
+    "Operador": "NASA",
+    "Órbitas completadas": "160",
+    "Distancia recorrida": "6300000 km",
+    "Lugar de lanzamiento": "Kennedy, LC-39A",
+    "Contratista del lanzamiento": "Alianza Espacial Unida",
+    "Fecha de lanzamiento": "16 de septiembre de 1996, 08:54:49 UTC (4:54:49 am EDT)",
+    "Fecha de aterrizaje": "26 de septiembre de 1996, 12:13:13 UTC (8:13:13 am EDT)",
+    "Lugar de aterrizaje": "Kennedy, SLF Runway 15",
+    "Tripulación": "William F. Readdy; Terrence W. Wilcutt; Jerome Apt; Thomas D. Akers; Carl E. Walz",
+    "Tripulación en el lanzamiento": "John E. Blaha",
+    "Tripulación en el aterrizaje": "Shannon W. Lucid",
+    "Acoplamiento": "destino de acoplamiento: Mir | tipo de acoplamiento: muelle | puerto de acoplamiento: SO estribor | fecha de acoplamiento: 19 de septiembre de 1996, 03:13:18 UTC | fecha de desconexión: 24 de septiembre de 1996, 01:31:34 UTC",
+    "Sistema de referencia orbital": "Órbita geocéntrica",
+    "Régimen orbital": "Órbita terrestre baja",
+    "Periapsis": "368 km",
+    "Apoapsis": "386 km",
+    "Periodo orbital": "92,1 minutos",
+    "Inclinación orbital": "51.6°",
+    "Programa": "Programa de transporte espacial",
+    "Misión anterior": "STS-78",
+    "Misión siguiente": "STS-80"
+  },
+  "resumen": "STS-79 fue el 17o vuelo del transbordador espacial Atlantis, y la 79o misión del programa del transbordador espacial. El vuelo vio a Atlantis acoplarse con la estación espacial rusa Mir para entregar equipos, suministros e intercambiar personal que participa en estancias de larga duración a bordo de la estación como parte del programa Shuttle-Mir. Una variedad de experimentos científicos también fueron conducidos a bordo de Atlantis por su tripulación. Fue la primera misión del transbordador en reunirse con un Mir completamente montado, y el cuarto encuentro de un transbordador a la estación espacial.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Aspectos destacados de la misión",
+      "nivel": 2,
+      "texto": "STS-79 fue la primera misión de lanzadera a una estación espacial Mir completamente terminada, tras la llegada de su módulo Priroda. Atlantis llevaba el sistema de acoplamiento orbital de 1821 kg. Este vuelo espacial fue destacado por la colección de astronauta estadounidense Shannon Lucid después de 188 días en el espacio, el primer intercambio de tripulantes estadounidenses a bordo de la Estación Espacial Rusa Mir, y el cuarto atraque Shuttle-Mir. El vuelo espacial de larga duración de Lucid estableció un nuevo récord estadounidense, así como un récord mundial de vuelos espaciales para una mujer astronauta. Se embarcó a Mir el 22 de marzo en la misión STS-76. El éxito de su estancia en Mir durante aproximadamente cuatro meses fue John Blaha, que regresó en enero de 1997 con la tripulación STS-81. El astronauta estadounidense Jerry Linenger lo reemplazó.\nSTS-79 también marcó el segundo vuelo del módulo SPACEHAB en apoyo de un muelle Shuttle-Mir y el primer vuelo de la configuración del Módulo Doble SPACEHAB. La parte delantera del módulo doble albergaba experimentos realizados por la tripulación antes, durante y después de que Atlantis fuera atracado a la estación espacial rusa. La parte de popa del módulo doble albergaba el equipo logístico que debía transferirse a Mir, que incluía alimentos, ropa, experimentos, suministros y equipo de repuesto. La masa del módulo fue de 4774 kg. Entre los experimentos realizados dentro de SPACEHAB estaba la prueba del microaccelerómetro checo MACEK.\nEl enlace Shuttle-Mir ocurrió a las 15:13 UTC el 18 de septiembre, siguiendo el enfoque de la barra R. Las Hatches abrieron a las 05:40 del 19 de septiembre, y Blaha y Lucid intercambiaron plazas a las 11:00. Esperando a Blaha en Mir estaban Valery Korzun, Mir 22 comandante, y Alexander Kaleri, ingeniero de vuelo.\nDurante cinco días de operaciones de apareamiento, las dos tripulaciones transfirieron más de 1814 kg de suministros a Mir, incluyendo logística, alimentos y agua generada por las pilas de combustible de Atlantis. También se transfirieron tres experimentos: el Sistema de Biotecnología (BTS) para el estudio del desarrollo del cartílago; el experimento Material in Devices as Superconductors (MIDAS) para medir las propiedades eléctricas de los materiales superconductores de alta temperatura; y el Aparato Comercial Genérico de Bioprocesamiento (CGBA), que contiene varios experimentos más pequeños, incluidos sistemas acuáticos autónomos.\nAlrededor de 907 kg de muestras experimentales y equipo fueron transferidos de Mir a Atlantis y la transferencia logística total a y desde la estación de más de 2722 kg fue la más extensa hasta la fecha. Durante su estancia de aproximadamente seis meses en Mir, Lucid realizó investigaciones en los siguientes campos: tecnología avanzada, ciencias de la Tierra, biología fundamental, ciencias de la vida humana, investigación en microgravedad y ciencias espaciales. Entre los experimentos específicos cabe citar los siguientes: Medición de la radiación ambiental para determinar los niveles de radiación ionizante a bordo de Mir; experimentos con plantas integradas en invernadero, para estudiar el efecto de la microgravedad en las plantas, en particular el trigo enano; y Evaluación de la función inmunitaria humana durante el vuelo espacial de larga duración, para reunir datos sobre los efectos de los vuelos espaciales a largo plazo en el sistema inmunitario humano y la recogida de muestras de suero sanguíneo y saliva. Parte de esta investigación se llevó a cabo en el último y último módulo Mir, Priroda, que llegó a la estación durante la estancia de Lucid.\nQuedaron tres experimentos en Atlantis: Horno de Traducción de Temperatura Extrema (ETTF), un nuevo diseño de horno que permite el procesamiento basado en el espacio hasta 871 grados Celsius (1.600 grados Fahrenheit) y superior; Complemento comercial de Protein Crystal Growth (CPCG) de 128 muestras individuales que involucran 12 proteínas diferentes; y Mecánica de Materiales Granulares, diseñada para entender mejor el comportamiento de materiales granulares sin cohesión, lo que a su vez podría conducir a una mejor comprensión de cómo la superficie de la Tierra responde durante terremotos y deslizamientos de tierra.\nAl igual que en todos los vuelos de Shuttle-Mir, se llevaron a cabo experimentos de mitigación de riesgos para ayudar a reducir el riesgo de desarrollo de la Estación Espacial Internacional. Volando por primera vez fue el Active Rack Isolation System (ARIS), un rack experimental diseñado para amortiguar cargas útiles de vibraciones y otras perturbaciones.\nSe llevó a cabo cerca del final de la STS-79 fue una prueba usando los pequeños chorros vernier de Atlantis para bajar su órbita. Una maniobra similar se hizo al final de la segunda misión de servicio del Telescopio Espacial Hubble, STS-82, para reiniciar Hubble a una órbita más alta mientras todavía estaba en la bahía de carga útil del orbitador."
+    }
+  ],
+  "num_palabras": 865
+}

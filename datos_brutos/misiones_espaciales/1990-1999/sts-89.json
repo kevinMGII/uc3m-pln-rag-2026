@@ -1,0 +1,75 @@
+{
+  "titulo": "STS-89",
+  "titulo_wikipedia_en": "STS-89",
+  "fecha_lanzamiento": "1998-01-23",
+  "año_lanzamiento": 1998,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/STS-89",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Otros nombres": "Sistema de Transporte Espacial-89",
+    "Tipo de misión": "Shuttle-Mir",
+    "Operador": "NASA",
+    "Distancia recorrida": "5800000 km",
+    "Duración de la misión": "8 días, 19 horas, 48 minutos, 4 segundos",
+    "Masa en el aterrizaje": "114131 kg",
+    "Masa de la carga útil": "7748 kg",
+    "Lugar de lanzamiento": "Kennedy, LC-39A",
+    "Fecha de lanzamiento": "23 de enero de 1998, 02:48:15 HUC",
+    "Fecha de aterrizaje": "31 de enero de 1998, 22:36 HUC",
+    "Lugar de aterrizaje": "Kennedy, SLF Runway 15",
+    "Tripulación": "Terrence W. Wilcutt; Joe F. Edwards, Jr.; James F. Reilly, II; Michael P. Anderson; Bonnie J. Dunbar; Salizhan Sharipov",
+    "Tripulación en el lanzamiento": "Andrew S. W. Thomas",
+    "Tripulación en el aterrizaje": "David A. Lobo",
+    "Acoplamiento": "target de acoplamiento: Mir | tipo de acoplamiento: dock | puerto de acoplamiento: SO estribor | fecha de acoplamiento: 24 de enero de 1998, 20:14:15 UTC | fecha de acoplamiento: 29 de enero de 1998, 16:56 UTC | tiempo de acoplamiento: 4 días, 20 horas, 41 minutos 45 segundos",
+    "Sistema de referencia orbital": "Geocéntrico",
+    "Régimen orbital": "Órbita terrestre baja",
+    "Periapsis": "359 km",
+    "Apoapsis": "382 km",
+    "Periodo orbital": "92,0 min",
+    "Inclinación orbital": "51,60 grados",
+    "Programa": "Programa de transporte espacial",
+    "Misión anterior": "STS-87 (88)",
+    "Misión siguiente": "STS-90 (90)"
+  },
+  "resumen": "STS-89 fue una misión del transbordador espacial a la estación espacial Mir que voló el transbordador espacial Endeavour, y lanzado desde el Kennedy Space Center, Florida, el 22 de enero de 1998.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Notas de la tripulación",
+      "nivel": 3,
+      "texto": "STS-89 estaba programado originalmente para devolver a Wendy B. Lawrence pero devolvió a David A. Wolf (Mir 24-25/STS-86) y dejó a Andrew Thomas en Mir. Thomas regresó en STS-91."
+    },
+    {
+      "titulo": "Aspectos destacados de la misión",
+      "nivel": 2,
+      "texto": "El STS-89 fue lanzado el 22 de enero de 1998 y fue la octava de las nueve misiones planeadas a Mir y la quinta con un intercambio de astronautas estadounidenses. El astronauta David Wolf, que había estado en Mir desde finales de septiembre de 1997, fue reemplazado por el astronauta Andrew Thomas. Thomas pasó aproximadamente 4 meses en la instalación en órbita rusa antes de regresar a la Tierra cuando Discovery atracó a Mir a finales de mayo durante el STS-91.\nDurante la misión, se transfirieron más de 3175 kg de experimentos, suministros y equipo entre las dos naves espaciales."
+    },
+    {
+      "titulo": "Experimentos y cargas útiles",
+      "nivel": 2,
+      "texto": "Las cargas útiles del SPACEHAB incluían el detector avanzado de rayos X (ADV XDT), el aparato comercial comercial genérico de bioprocesamiento (ADV CGBA), el EORF, el experimento de mecánica de materiales granulares (MGM), las mediciones del entorno de radiación intravehicular realizadas por el monitor de radiación en tiempo real (RME-1312), el sistema de medición de aceleración del espacio (SAMS), el VOA y el prototipo de ensamblaje de eliminación de volátiles para el sistema de recuperación de agua ISS.\nEntre las cargas útiles de la cabina figuraban el experimento de nutrientes de plantas de microgravedad (MPNE), la modificación de la ionosfera del transbordador con escape local pulsado (SIMPLEX), el sistema acuático biológico equivalente cerrado (CEBAS), el paquete de instrumentos de telemedicina (TMIP), el objetivo de pruebas de desarrollo del sistema de posicionamiento mundial (GPS DTO), el experimento de rendimiento humano (HP), el MSD, el EarthKAM, el sistema de visión espacial orbital (OSVS), la colección de condensados de lanzadera (RME-1331), el módulo de soporte termoeléctrico (TEHM), el dispositivo de medición de masas de aceleración lineal espacial (DSO 914), los experimentos de cocultura (CoCult) y la bioquímica de la ingeniería de tejidos en 3D (BIO3D).\nEscapada Entre los experimentos especiales se incluyen la Universidad de Michigan G-093 – Vortex Ring Transit Experiment (VORTEX), el Centro Aeroespacial Alemán y la Universidad Giessen G-141 – Estructura de la Convección Marangoni en Zonas Flotantes Carga útil, el Centro Aeroespacial Alemán y la Universidad Técnica de Clausthal G-145 Glass Fining Experiment y la Academia China de Ciencias G-432 lata que contiene 5 experimentos de crecimiento de cristal y ciencias materiales."
+    },
+    {
+      "titulo": "Celofisis ósea",
+      "nivel": 2,
+      "texto": "Además, el cráneo de una coliófisis fue llevado a bordo del Mir durante esta misión. Se convirtió en el segundo fósil de dinosaurios traído al espacio (el primero fue las cáscaras de huevo y huesos fosilizados de Maiasaura en 1985, durante la misión STS-51-F)."
+    },
+    {
+      "titulo": "Mission insignia",
+      "nivel": 2,
+      "texto": "La insignia representa Endeavour acoplado a Mir sobre el planeta Tierra. La línea interior blanca en la forma del número ocho y las nueve estrellas simbolizan la designación numérica del vuelo en la secuencia de misión del Sistema de Transporte Espacial. La Estación Espacial Internacional está en segundo plano."
+    }
+  ],
+  "num_palabras": 517
+}

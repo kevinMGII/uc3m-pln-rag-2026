@@ -1,0 +1,23 @@
+{
+  "titulo": "Apolo 5",
+  "titulo_wikipedia_en": "Apollo 5",
+  "fecha_lanzamiento": "1968-01-22",
+  "año_lanzamiento": 1968,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Apolo_5",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Misión anterior": "Apolo 4",
+    "Misión siguiente": "Apolo 6",
+    "Programa": "Apolo"
+  },
+  "resumen": "Apolo 5 (AS-204) fue un vuelo sin tripulantes de las misiones pertenecientes al programa Apolo que tuvo lugar el 22 de enero de 1968 y que utilizó un cohete Saturno IB como vehículo de lanzamiento, cuya segunda fase iba a ser puesta en marcha, después de permanecer parada en órbita de aparcamiento e ingravidez, para conducir el módulo lunar a un punto máximo de alejamiento de la Tierra de 18 340 km.\nSe activó entonces el motor de ascenso del módulo lunar para que regresara a una velocidad de 40 000 km/h, la misma que debería llevar al penetrar en la atmósfera terrestre. El vuelo fue un éxito técnico.",
+  "secciones": [],
+  "num_palabras": 109
+}

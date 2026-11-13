@@ -1,0 +1,37 @@
+{
+  "titulo": "Vostok 2",
+  "titulo_wikipedia_en": "Vostok 2",
+  "fecha_lanzamiento": "1961-08-06",
+  "año_lanzamiento": 1961,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Vostok_2",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Masa en el lanzamiento": "4 730 kg",
+    "Fecha de lanzamiento": "6 de agosto de 1961\n05:00 UTC\nBaikonur LC1",
+    "Fecha de aterrizaje": "7 de agosto de 1961\n07:18 UTC\n51°′ N 46° E",
+    "Duración de la misión": "1 día, 1 hora y 18 minutos",
+    "Inclinación orbital": "64,8°",
+    "Órbitas completadas": "17,5",
+    "Apoapsis": "221 km",
+    "Periapsis": "172 km",
+    "Programa": "Programa Vostok",
+    "Misión anterior": "Vostok 1",
+    "Misión siguiente": "Vostok 3"
+  },
+  "resumen": "Vostok 2 (o Восток-2) fue la segunda misión del Programa Vostok y la segunda tripulada del programa espacial soviético. La nave fue lanzada del Cosmódromo de Baikonur el 6 de agosto de 1961.\nCompletó 17,5 órbitas y aterrizó el día siguiente.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Piloto: Guerman Titov.\nTripulación de respaldo: Andrián Nikoláyev."
+    }
+  ],
+  "num_palabras": 49
+}

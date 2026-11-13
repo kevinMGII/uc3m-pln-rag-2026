@@ -1,0 +1,36 @@
+{
+  "titulo": "Expedición 32",
+  "titulo_wikipedia_en": "Expedition 32",
+  "fecha_lanzamiento": "2012-07-01",
+  "año_lanzamiento": 2012,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Expedición_32",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Fecha de lanzamiento": "1 de julio de 2012 a las 04:48 UTC",
+    "Fecha de aterrizaje": "16 de septiembre de 2012 a las 23:09 UTC",
+    "Misión anterior": "Expedición 31",
+    "Misión siguiente": "Expedición 33",
+    "Nave de llegada": "Soyuz TMA-04M, Soyuz TMA-05M",
+    "Programa": "Programa de la ISS",
+    "Estación espacial": "Estación Espacial Internacional",
+    "Tipo de misión": "Expedición a la ISS",
+    "Fecha de inicio": "1 de julio de 2012, 04:48 UTC",
+    "Fecha de fin": "16 de septiembre de 2012, 23:09 UTC"
+  },
+  "resumen": "La Expedición 32 fue la 32.ª estancia de larga duración en la Estación Espacial Internacional.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Fuente NASA"
+    }
+  ],
+  "num_palabras": 17
+}

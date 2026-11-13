@@ -1,0 +1,75 @@
+{
+  "titulo": "Expedición 68",
+  "titulo_wikipedia_en": "Expedition 68",
+  "fecha_lanzamiento": "2022-09-29",
+  "año_lanzamiento": 2022,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Expedición_68",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Finalizada",
+    "Tipo de misión": "Misión de larga duración a la ISS",
+    "Operador": "NASA / Roscosmos",
+    "Duración planificada": "180 días",
+    "Estación espacial": "Estación Espacial Internacional",
+    "Fecha de inicio": "29 de septiembre de 2022, 07:34 UTC",
+    "Fecha de fin": "28 de marzo de 2023, 09:57:27 UTC",
+    "Nave de llegada": "SpaceX Crew-5\nSoyuz MS-23\nSpaceX Crew-6",
+    "Nave de regreso": "SpaceX Crew-4\nSpaceX Crew-5\nSoyuz MS-22",
+    "Actividades extravehiculares (EVA)": "6 realizadas, ≥9 (planeado)",
+    "Duración de las EVA": "41 horas y 52 minutos",
+    "Programa": "Programa de la ISS",
+    "Misión anterior": "Expedición 67",
+    "Misión siguiente": "Expedición 69"
+  },
+  "resumen": "La Expedición 68 es la 68.ª y anterior misión de larga duración a la Estación Espacial Internacional. La misión comenzó el 29 de septiembre de 2022, con la partida de la Soyuz MS-21, y estuvo formada por 7 miembros permanentes.",
+  "secciones": [
+    {
+      "titulo": "Misión",
+      "nivel": 2,
+      "texto": "La expedición comenzó con los miembros procedentes de la Crew-4 de SpaceX, los astronautas de la NASA, Kjell N. Lindgren, Robert Hines, Jessica Watkins y la astronauta de la ESA, Samantha Cristoforetti, que pasaron a formar parte de la tripulación de esta expedición de forma temporal siendo transferidos desde la Expedición 67 en septiembre del año 2022, hasta la llegada de la Crew-5 a partir del 3 de octubre de 2022 con el resto de la tripulación permanente de esta expedición. El resto de miembros llegaron el 21 de septiembre en la Soyuz MS-22 y son, los cosmonautas, Serguéi Prokópiev que fue el comandante de la Expedición y Dmitriy Petelin junto al astronauta de la NASA Frank Rubio, quien se intercambio con la cosmonauta Anna Kíkina, que viajó en la Crew-5 con el resto de la tripulación permanente de la Expedición 68, con motivo del intercambio de tripulación entre la NASA y Roscosmos.\nEn la primera parte de esta misión participó la astronauta de la ESA, Samantha Cristoforetti como parte de su segunda misión europea Minerva que viajó como tercer pasajero de la Crew-4 y que además fue la primera mujer comandante europea durante el final de la expedición 67, la fase de relevos, como del principio de la Expedición 68.\nEl resto de la tripulación permanente de la expedición la formaran los astronautas de la NASA, los últimos novatos de la promoción 21 Nicole Aunapu Mann y Josh A. Cassada, y el veterano de 4 misiones de la JAXA, Koichi Wakata en su quinta misión."
+    },
+    {
+      "titulo": "Avería Soyuz MS-22",
+      "nivel": 3,
+      "texto": "El día 14 de diciembre durante los preparativos para una caminata espacial planificada para el día 15, por los cosmonautas Prokopyev y Petelin, los equipos de tierra detectaron una fuga significativa de una sustancia desconocida en la parte trasera de la nave espacial Soyuz MS-22 acoplada al módulo Rassvet en la ISS.\nLa Nasa y Roscosmos colaboraron en una investigación de la fuga externa detectada en la nave espacial rusa. Roscosmos identificó la fuente de la fuga como un agujero de 0,8 mm en una tubería del circuito de refrigeración externo de la Soyuz y la pérdida fue el líquido refrigerante del circuito, una sustancia denominada LZ-TK-2 (ЛЗ-ТК-2), una disolución que tiene como base el hidrocarburo 2,2,4-trimetilpentano (isooctano), que se usa como refrigerante de los circuitos primarios en las naves Soyuz y Progress.\nPara realizar la investigación de la causa de la fuga, Roscomos utilizó el día 15 de diciembre, el brazo ERA nuevo en el módulo Nauka para realizar inspecciones visuales mediante las cámaras del brazo, dirigido por la cosmonauta Anna Kikina. La Nasa proporcionó una inspección adicional del exterior de la Soyuz usando el brazo robótico Canadarm 2 del segmento americano, el 18 de diciembre y se determinó que lo más posible es que un micrometeoroide impactó a unos 7 km/s provocando la fuga, ya que un resto de basura espacial tan pequeño no dispone de tanta velocidad para causar ese agujero en el material de la tubería.\nFinalmente el 11 de enero de 2023, la agencia Roscosmos, tras considerar que el regreso de la tripulación en la capusula averiada era demasiado arriesgado por el aumento de temperatura excesivo durante la reentrada al no disponer de líquido de refrigeración en el sistema principal de la nave, y no siendo posible su reparación mediante una salida extravehicular, se anunció el plan de rescate de los tripulantes de la averiada Soyuz MS-22, sencillamente se adelantaría al 20 de febrero el lanzamiento de la Soyuz MS-23 previsto para el 16 de marzo de 2023, sin tripulación para sustituir a la Soyuz MS-22 averiada para que la tripulación regrese en la MS-23. El regreso de la MS-22 se realizará vacía en el mes de marzo.\nEsta elección trajo varios cambios respecto a las tripulaciones de la ISS, primero el traspaso de la tripulación de la MS-23 a la futura Soyuz MS-24 prevista para septiembre de 2023, retrasando todas las subsiguientes tripulaciones. Y segundo al tener que esperar la llegada de una nave de relevo con tripulación, se alargaba la duración prevista de 180 días de la misión de los 2 cosmonautas Prokopyev y Petelin y el astronauta de la NASA Frank Rubio pasando a formar parte de la Expedición 69, en principio hasta septiembre permaneciendo casi un año en la estación o al menos hasta que la futura MS-24 este lista para lanzarse entre 90 y 180 días después. Tres días después Roscosmos anunció que mientras llegaba la nave de rescate, el plan de contingencia en caso de una evacuación urgente de la ISS, el asiento de la soyuz del astronauta Frank Rubio sería trasladado a la nave SpaceX Crew-5, ya que el aumento de temperatura y humedad de la MS-22 sería menor con solo 2 tripulantes en una posible reentrada de emergencia.\nOtro efecto colateral producido por la necesidad de enviar una nave de rescate de la nave MS-22, es el retraso de la nave de relevo SpaceX Crew-6, que estaba previsto para el 19 de febrero de 2023, quedando su nueva fecha prevista de lanzamiento no antes del 26 de febrero con el resto de la siguiente Expedición 69, y retrasando también el regreso de la Crew-5 a la espera de la llegada de la Soyuz MS-23."
+    },
+    {
+      "titulo": "Avería Progress MS-21",
+      "nivel": 3,
+      "texto": "El día 11 de febrero de 2023 mientras se acoplaba la nave de carga rusa, Progress MS-22, la agencia espacial Roscosmos registró una despresurización en el circuito de refrigeración de la nave de carga de Roscosmos Progress MS-21, que estaba acoplada al módulo MIM-2 Poisk orientado al espacio en la estación (zenit). Esta nueva fuga de refrigerante es prácticamente igual al accidente que tuvo lugar en diciembre de 2022 en la nave tripulada Soyuz MS-22. Debido a esta nueva fuga, aunque la avería no afecta en absoluto a las actividades de la ISS al ser en una nave de carga, y ésta tiene programado su regreso a la tierra para el 18 de febrero, destruyendose en la reentrada, la agencia Roscosmos decidió revisar nuevamente a fondo la nave Soyuz MS-23, retrasando su lanzamiento, ante la posibilidad de un fallo sistémico provocado por un defecto de fabricación en la cadena de montaje de las naves Soyuz y Progress."
+    },
+    {
+      "titulo": "Experimentos en la ISS",
+      "nivel": 3,
+      "texto": "Actualmente hay tres investigaciones principales que están siendo desarrolladas en la EEI.\nLa primera de ellas trabaja con las estructuras cristalinas y su responsable es la Agencia de Exploración Aeroespacial de Japón (JAXA). Gracias a la microgravedad, se pueden cultivar cristales de proteínas, de mayor calidad, para desarrollar, en el futuro, productos farmacéuticos.\nLa segunda investigación es referente al suministro de agua potable para las misiones espaciales de larga duración. Este experimento, también de la JAXA, busca generar agua potable a partir del líquido de la orina que explusamos para ser utilizada a bordo, aunque también podría servir para abastecer de agua a poblaciones terrestres con problemas de suministro.\nEl tercero y último, es la continuación del proyecto Plant Habitat que busca el cultivo de plantas en el espacio para mejorar la alimentación de los astronautas, que anteriormente obtuvieron lechugas y en el año 2021 cultivaron pimientos en el Veg-04 durante la Expedición 65. El experimento denominado en esta ocasión Veg-05 utiliza la instalación Veggie, el Hábitat Avanzado de Plantas (APH), que es un pequeño invernadero para producir plantas. En esta ocasión amplía la variedad de cultivos anterios con tomates enanos, además de otros aspectos relacionados con el impacto de la calidad de la luz y los fertilizantes en la producción de frutas, el valor nutricional, la aceptabilidad del sabor por parte de la tripulación y la seguridad alimentaria microbiana y la nutrición. El astronauta de la NASA, Frank Rubio, de origen salvadoreño, fue el encargado de la realización del cultivo que es un proyecto del Centro Espacial Kennedy de la NASA."
+    },
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Samantha Cristoforetti fue anunciada como tercer pasajero de la misión SpaceX Crew-4 y además se anunció que sería la comandante durante la primera parte de la Expedición 68 en la fase de relevos, el, tomando el relevo de comandante de Oleg Artemyev antes de la marcha de la Soyuz MS-21 el día 29 de septiembre y marcando el inicio de la Expedición.\nEn un principio estaba previsto que la nave Soyuz MS-23, llegara hacia el final de la Expedición con tres tripulantes para hacer el relevo para la siguiente expedición, pero debido a la avería de la MS-22, la tripulación de la MS-23 fue traspasada a la siguiente misión en una Expedición posterior."
+    },
+    {
+      "titulo": "Operaciones",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Acoplamiento/Desacoplamiento de naves",
+      "nivel": 3,
+      "texto": "La Expedición 68 comenzó oficialmente el 29 de septiembre de 2022 con la partida de la Soyuz MS-21. Las naves acopladas antes de esta fecha llegaron en expediciones anteriores.\nDurante esta expedición se recibió la visita de dos naves de carga americanas, la nave Cygnus S.S. Sally Ride y la cápsula SpaceX CRS-26 en noviembre y una nave rusa, la Progress MS-21 de octubre de 2022 a febrero de 2023. También se llevó a cabo el regreso de dos naves Progress, la MS-19 y MS-20 en octubre del 2022 y febrero de 2023 respectivamente, acopladas desde expediciones anterioriores. En el final de la Expedición coincidiendo con la fuga de refrigerante de la nave Progress MS-21, llegó la nave de carga Progress MS-22 el 11 de febrero con más de dos toneladas y media de combustible, agua potable y alimentos para la tripulación de la estación espacial.\nLeyenda"
+    },
+    {
+      "titulo": "Actividad extravehicular",
+      "nivel": 3,
+      "texto": "Durante la Expedición 68 se retomaron las Actividades extravehiculares en el sector americano después del paron necesario durante la Expedición 67 en la que no se realizó ninguna salida extravehicular desde el segmento americano, debido a que tras la finalización de la última caminata espacial de la Expedición 66, la US EVA-80, el 23 de marzo de 2022, se descubrió una fina capa de humedad dentro del casco del astronauta de la ESA Matthias Maurer, después de la represurización de la esclusa de aire Quest de la estación, lo que provocó el inicio de una investigación que se alargo hasta octubre de 2022 y que incluyó el envío del traje espacial de regreso a la Tierra que usó Maurer para su análisis en la misión de abastecimiento SpaceX CRS-25 en agosto.\nEn un principio se planificaron 9 EVA,s para esta Expedición, cinco desde el segmento ROS, para seguir con la puesta a punto del Módulo de Laboratorio multipropósito Nauka y distintas actividades de mantenimiento y cuatro desde el Segmento Orbital Americano para la preparación e instalación de los paneles IROSA, 1B, 1A, 3A y 4A, aunque finalmente se necesitaron 5 EVA,s desde el segmento americano para finalizar las tareas previstas.\nDebido a la avería de la Soyuz MS-22, se aplazaron las restantes caminatas del segmento ROS de la Expedición de forma indefinida, para dedicarse a la investigación de la fuga del refrigerante de la nave, habiéndose realizado solo la primera de las 5 EVA,s planificadas."
+    }
+  ],
+  "num_palabras": 1837
+}

@@ -1,0 +1,35 @@
+{
+  "titulo": "Soyuz TM-34",
+  "titulo_wikipedia_en": "Soyuz TM-34",
+  "fecha_lanzamiento": "2002-04-25",
+  "año_lanzamiento": 2002,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Soyuz_TM-34",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {},
+  "resumen": "Soyuz TM-34 fue la décima-séptima misión tripulada a la Estación Espacial Internacional (EEI) y la última misión rusa con la nave de la clase Soyuz-TM, sustituida por la nueva versión TMA a partir del vuelo siguiente.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Tripulación lanzada en la Soyuz TM-34: (25 de abril de 2002)\nTripulación de vuelta en la Soyuz TM-34: (10 de noviembre de 2002)"
+    },
+    {
+      "titulo": "Parámetros de la Misión",
+      "nivel": 2,
+      "texto": "Masa: ? kg\nPerigeo: 193 km\nApogeo: 247 km\nInclinación: 51.6°\nPeriodo: 88.6 minutos"
+    },
+    {
+      "titulo": "Misión",
+      "nivel": 2,
+      "texto": "La misión fue lanzada por un cohete Soyuz-U desde el Cosmódromo de Baikonur a las 06:26 UT de 25 de abril de 2002. Transportó un cosmonauta ruso un cosmonauta italiano y el segundo turista espacial para la Estación Espacial Internacional (EEI). El turista, el sudafricano Mark Shuttleworth realizó algunas experiencias, llevando un ratón vivo y células de ovejas. Los tres astronautas volvieron en la Soyuz TM-33 después de una misión de ocho días."
+    }
+  ],
+  "num_palabras": 146
+}

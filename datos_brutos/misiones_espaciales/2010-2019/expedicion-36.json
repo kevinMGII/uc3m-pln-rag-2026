@@ -1,0 +1,42 @@
+{
+  "titulo": "Expedición 36",
+  "titulo_wikipedia_en": "Expedition 36",
+  "fecha_lanzamiento": "2013-05-13",
+  "año_lanzamiento": 2013,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Expedición_36",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Fecha de lanzamiento": "13 de mayo de 2013",
+    "Fecha de aterrizaje": "10 de septiembre de 2013",
+    "Misión anterior": "Expedición 35",
+    "Misión siguiente": "Expedición 37",
+    "Nave de llegada": "Soyuz TMA-08M\nSoyuz TMA-09M",
+    "Nave de regreso": "Soyuz TMA-08M\nSoyuz TMA-09M",
+    "Programa": "Programa de la ISS",
+    "Estación espacial": "Estación Espacial Internacional",
+    "Tipo de misión": "Expedición a la ISS",
+    "Fecha de inicio": "13 de mayo de 2013",
+    "Fecha de fin": "10 de septiembre de 2013"
+  },
+  "resumen": "La Expedición 36 fue la 36.ª estancia de larga duración en la Estación Espacial Internacional.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Fuentes\nNASA"
+    },
+    {
+      "titulo": "Misión",
+      "nivel": 2,
+      "texto": "El 16 de junio de 2013, en el 50.º aniversario del primer vuelo espacial de una mujer, realizado por Valentina Tereshkova en la Vostok 6, Karen L. Nyberg fue una de las dos mujeres en el espacio, la otra fue Wang Yaping a bordo de la nave Tiangong-1 en la misión Shenzhou 10.\nEl 16 de julio de 2013, durante el paseo espacial EVA-23, Luca Parmitano alertó de que había una fuga constante de agua en su casco. Los controladores de vuelo decidieron abortar el EVA de forma inmediata, y Parmitano regresó de nuevo a la cámara Quest, seguido de Chris Cassidy, con quien estaba realizando el EVA. La cámara de aire comenzó la represurización después de una hora y treinta y dos minutos de paseo espacial, en esos momentos Parmitano tenía dificultades para ver, oír y hablar debido a la cantidad de agua en su traje. Después de volver a la presurización, el comandante Pavel Vinogradov y el miembro de la tripulación Fyodor Yurchikhin quitaron rápidamente el casco a Parmitano y absorbieron el agua con toallas. A pesar del incidente, Parmitano informó estar de buen humor y no sufrió ninguna lesión."
+    }
+  ],
+  "num_palabras": 209
+}

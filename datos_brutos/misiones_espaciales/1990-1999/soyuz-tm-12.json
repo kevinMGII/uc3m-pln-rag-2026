@@ -1,0 +1,56 @@
+{
+  "titulo": "Soyuz TM-12",
+  "titulo_wikipedia_en": "Soyuz TM-12",
+  "fecha_lanzamiento": "1991-05-18",
+  "año_lanzamiento": 1991,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Soyuz_TM-12",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "ID COSPAR": "1991-034A",
+    "Duración de la misión": "144 días, 15 horas, 21 minutos, 50 segundos",
+    "Órbitas completadas": "~2,260",
+    "Nave": "Soyuz 7K-STM No. 62",
+    "Tipo de nave": "Soyuz-TM",
+    "Fabricante": "NPO Energia",
+    "Masa en el lanzamiento": "7160 kg",
+    "Fecha de lanzamiento": "18 de mayo de 1991, 12:50:28 UTC",
+    "Vehículo de lanzamiento": "Soyuz-U2",
+    "Fecha de aterrizaje": "10 de octubre de 1991, 04:12:18 UTC",
+    "Lugar de aterrizaje": "61 km SW de Arkalyk",
+    "Tripulación": "Anatoly Artsebarsky",
+    "Tripulación en el lanzamiento": "Sergei Krikalev\nHelen Sharman",
+    "Tripulación en el aterrizaje": "Toktar Aubakirov\nFranz Viehböck",
+    "Indicativo": "| (Ozone)",
+    "Sistema de referencia orbital": "Geocéntrico",
+    "Régimen orbital": "Órbita terrestre baja",
+    "Periapsis": "389 km",
+    "Apoapsis": "397 km",
+    "Inclinación orbital": "51,6 grados",
+    "Periodo orbital": "92,4 minutos",
+    "Acoplamiento": "target de acoplamiento: Mir | tipo de acoplamiento: dock | fecha de acoplamiento: 20 de mayo de 1991, 14:30:43 UTC | fecha de acoplamiento: 9 de octubre de 1991, 20:55:08 UTC",
+    "Misión anterior": "Soyuz TM-11",
+    "Misión siguiente": "Soyuz TM-13",
+    "Programa": "Programa Soyuz\n(Misiones decretadas)"
+  },
+  "resumen": "Soyuz TM-12 fue la 12a expedición a Mir, e incluyó al primer británico en el espacio, Helen Sharman.",
+  "secciones": [
+    {
+      "titulo": "Aspectos destacados de la misión",
+      "nivel": 2,
+      "texto": "La tripulación Mir dio la bienvenida a bordo de Anatoli Artsebarski, Sergei Krikalev (en su segunda visita a la estación), y la investigadora cosmonauta británica Helen Sharman, que estaba a bordo como parte del Proyecto Juno, una empresa cooperativa patrocinada en parte por la empresa privada británica. El programa experimental de Sharman, que fue diseñado por los soviéticos, se inclinó fuertemente hacia las ciencias de la vida, su especialidad es la química. Se colocó una bolsa de 250.000 semillas en la esclusa de aire Kvant-2 EVA, un compartimento no tan protegido de la radiación cósmica como otros compartimentos Mir.\nSharman también contactó con nueve escuelas británicas por radio y realizó experimentos de superconductores de alta temperatura con el dispositivo Elektropograph-7K. Sharman comentó que tenía dificultades para encontrar equipo en Mir, ya que había mucho más equipo que en el entrenador en la ciudad cosmonauta de Zvezdny Gorodok. Krikalev comentó que, aunque Mir tenía más módulos que la primera vez que vivió a bordo, no parecía menos concurrido, ya que contenía más equipo. Krikalev también señaló que algunos de los materiales que componen el exterior de la estación se habían desvanecido y perdido color, pero que esto no tuvo ningún impacto en el funcionamiento de la estación.\nLa nave espacial pasó 144 días atracada a Mir. Mientras estaba en órbita, el fallido golpe de Estado contra Mikhail Gorbachov en agosto de 1991 sacudió a la Unión Soviética, poniendo en marcha acontecimientos que llevaron al fin de la Unión Soviética el 26 de diciembre."
+    },
+    {
+      "titulo": "En la cultura popular",
+      "nivel": 2,
+      "texto": "Fuera del Presente, un documental de 1995 centrado en la estancia del cosmonauta Sergei Krikalev en Mir, presenta la llegada de Soyuz TM-12."
+    }
+  ],
+  "num_palabras": 293
+}

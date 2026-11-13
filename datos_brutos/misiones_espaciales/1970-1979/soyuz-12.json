@@ -1,0 +1,48 @@
+{
+  "titulo": "Soyuz 12",
+  "titulo_wikipedia_en": "Soyuz 12",
+  "fecha_lanzamiento": "1973-09-27",
+  "año_lanzamiento": 1973,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Soyuz_12",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Masa en el lanzamiento": "6720 kg",
+    "Fecha de lanzamiento": "27 de septiembre de 1973",
+    "Nave": "Soyuz 7K-T",
+    "Fecha de aterrizaje": "29 de septiembre de 1973",
+    "Duración de la misión": "1,97 días",
+    "Periodo orbital": "91 minutos",
+    "Inclinación orbital": "51 grados",
+    "Apoapsis": "348 km",
+    "Periapsis": "306 km",
+    "Programa": "Programa Soyuz",
+    "Misión anterior": "Soyuz 11",
+    "Misión siguiente": "Soyuz 13"
+  },
+  "resumen": "Soyuz 12 fue la primera misión tripulada de una nave Soyuz 7K-T. Fue lanzada el 27 de septiembre de 1973 desde el cosmódromo de Baikonur con dos cosmonautas a bordo.\nSoyuz 12 fue una misión experimental para comprobar y modificar según fuese necesario el modelo de nave Soyuz 7K-T. La misión fue un éxito y la Soyuz se comportó sin problemas.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Vasili Lazarev (Comandante)\nOleg Makarov (Ingeniero de vuelo)"
+    },
+    {
+      "titulo": "Tripulación de respaldo",
+      "nivel": 2,
+      "texto": "Aleksei Gubarev (Comandante)\nGeorgi Grechko (Ingeniero de vuelo)"
+    },
+    {
+      "titulo": "Tripulación de reserva",
+      "nivel": 2,
+      "texto": "Pyotr Klimuk (Comandante)\nVitali Sevastyanov (Ingeniero de vuelo)"
+    }
+  ],
+  "num_palabras": 85
+}

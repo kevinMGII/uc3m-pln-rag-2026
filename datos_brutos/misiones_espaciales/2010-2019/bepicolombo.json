@@ -1,0 +1,94 @@
+{
+  "titulo": "BepiColombo",
+  "titulo_wikipedia_en": "BepiColombo",
+  "fecha_lanzamiento": "2018-10-20",
+  "año_lanzamiento": 2018,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración de Venus",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/BepiColombo",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "en curso",
+    "Tipo de misión": "exploración de Mercurio",
+    "Duración planificada": "Crucero: 7 años (planificado)\nFase científica: 1 año (planificado)",
+    "Masa en el lanzamiento": "4.100 kg",
+    "Dimensiones": "MPO: 2,4 m × 2,2 m × 1,7 m\nMio : 1,8 m × 1,1 m",
+    "Potencia": "MPO: 150 vatios\nMio: 90 vatios",
+    "Fecha de lanzamiento": "20 de octubre de 2018, 01:45 UTC",
+    "Vehículo de lanzamiento": "Ariane 5 ECA (VA245)",
+    "Lugar de lanzamiento": "ELA-3, Centro Espacial de Guayana Francesa",
+    "Programa": "Horizon 2000+",
+    "Misión anterior": "LISA Pathfinder",
+    "Misión siguiente": "CHEOPS (satélite)"
+  },
+  "resumen": "BepiColombo es una misión conjunta de la Agencia Espacial Europea (ESA) y la Agencia Japonesa de Exploración Aeroespacial (JAXA) al planeta Mercurio. La misión comprende dos satélites que se lanzaron juntos: el Mercury Planetary Orbiter (MPO) y el Mercury Magnetospheric Orbiter (MMO). La misión llevará a cabo un estudio exhaustivo del planeta, incluyendo su campo magnético, su magnetosfera, su estructura interna y su superficie. Su lanzamiento se realizó con éxito el día 20 de octubre de 2018 y su llegada a Mercurio está prevista para noviembre de 2026, después de un sobrevuelo de la Tierra, dos de Venus y seis del propio Mercurio. La misión fue aprobada en noviembre de 2009 tras años de propuestas y planificaciones como parte del programa Horizon 2000+ de la ESA. Será la última misión de este programa en ser lanzada.",
+  "secciones": [
+    {
+      "titulo": "Misión",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Descripción",
+      "nivel": 3,
+      "texto": "BepiColombo es la primera misión europea a Mercurio, el planeta más interior del sistema solar. Está formada por dos naves: el Mercury Planetary Orbiter (MPO) y el Mercury Magnetospheric Orbiter (MMO). Partió en 2018 desde el Centro Espacial Guayanés (CSG) de Kourou, en un viaje que durará unos siete años y medio. Cuando llegue a Mercurio en enero de 2024, afrontará temperaturas de hasta 350° y durante un periodo aproximado de un año terrestre (que podría extenderse un año más), recogerá datos para el estudio de su superficie y de su composición interna a diferentes longitudes de onda y mediante diferentes técnicas, así como el estudio de su magnetosfera.\nEl nombre de la misión proviene del profesor Giuseppe (Bepi) Colombo (1920-1984), de la Universidad de Padua, en Italia. Fue el primero en darse cuenta de que existía una resonancia orbital responsable de que Mercurio rotase tres veces sobre su eje por cada dos revoluciones que daba alrededor del Sol. También sugirió a la NASA cómo usar una maniobra de asistencia gravitatoria sobre Venus para permitir a la Mariner 10 visitar Mercurio tres veces entre 1974 y 1975."
+    },
+    {
+      "titulo": "Órbita",
+      "nivel": 3,
+      "texto": "La etapa de crucero consistirá en una órbita de transferencia heliocéntrica. La órbita alrededor de Mercurio será de 400 x 1500 kilómetros (con un período de 2.3 horas) para el MPO y de 400 x 12000 kilómetros (con un período de 9.2 horas) para el MMO."
+    },
+    {
+      "titulo": "Objetivos",
+      "nivel": 3,
+      "texto": "Los objetivos principales de la misión son:\nOrigen y evolución de un planeta cercano a su estrella\nMercurio como planeta: forma, interior, estructura, geología, composición y cráteres.\nAtmósfera residual de Mercurio (exosfera): composición y dinámica.\nEntorno magnetizado de Mercurio (magnetosfera): estructura y dinámica.\nOrigen del campo magnético de Mercurio.\nPrueba de la teoría general de la relatividad de Einstein\nUsar el cráter del impacto del final de la misión de la NASA MESSENGER, que dejó al descubierto parte del subsuelo con materiales más frescos y con menor exposición del exterior."
+    },
+    {
+      "titulo": "Cronograma",
+      "nivel": 3,
+      "texto": "El cronograma de la misión es:"
+    },
+    {
+      "titulo": "Vehículos",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Cohete",
+      "nivel": 3,
+      "texto": "BepiColombo fue lanzada por un cohete Ariane 5. La masa de la sonda en el momento del lanzamiento fue de 4100 kilogramos."
+    },
+    {
+      "titulo": "Mercury Planetary Orbiter (MPO)",
+      "nivel": 3,
+      "texto": "Se trata de una sonda estabilizada en tres ejes, con una masa de 1140 kilogramos (sin combustible), de los que 80 kilogramos corresponden a instrumentos científicos. La potencia consumida por la nave será de 450 vatios. Realizará sus transmisiones en las bandas X y Ka, a través de una antena orientable de un metro de diámetro. Se espera que transmita un volumen de datos de 1550 Gigabits (Gb) por año, lo que corresponde a una tasa media de datos de 50 Kb/s. Su medio de propulsión principal será la propulsión iónica."
+    },
+    {
+      "titulo": "Instrumentos del MPO",
+      "nivel": 4,
+      "texto": "BELA - Altímetro láser\nISA - Acelerómetro usando técnicas de radio\nMERMAG - Magnetómetro\nMERTIS-TIS - Espectrómetro infrarrojo térmico\nMGNS - Espectrómetro de rayos gamma y neutrones\nMIXS - Espectrómetro de rayos X\nMORE - Transpondedor de banda Ka para ciencia por radio\nPHEBUS - Espectrómetro ultravioleta\nSERENA - Analizador de partículas ionizadas y neutras\nSIMBIO-SYS - Cámaras en estéreo de alta resolución, en el espectro visible y el infrarrojo cercano\nSIXS - Monitor solar"
+    },
+    {
+      "titulo": "Mercury Magnetospheric Orbiter (MMO)",
+      "nivel": 3,
+      "texto": "Es una nave más pequeña que el MPO e irá acoplada a esta última hasta el momento de llegar a Mercurio, donde se separarán. Es una sonda estabilizada por rotación (a 15 rpm), con el eje de rotación orientado 90° respecto del Sol. Su masa es de 288 kilogramos, de los que 45 kilogramos corresponden a instrumentos científicos. La nave consumirá 300 vatios de potencia y transmitirá en la banda X (a una tasa media de 5 Kb/s) a través de una antena de alta ganancia acoplada en fase de 0.8 metros. Al igual que la MPO, también usará propulsión iónica."
+    },
+    {
+      "titulo": "Instrumentos del MMO",
+      "nivel": 4,
+      "texto": "MERMAG-M/MGF - Magnetómetro para Mercurio\nMPPE - Experimento de plasma y partículas\nPWI - Instrumento de ondas de plasma\nMSASI - Fotografiador espectral del sodio atmosférico de Mercurio\nMDM - Monitor de polvo de Mercurio\nLos instrumentos de la MMO han sido seleccionados por la Agencia Japonesa de Exploración Aeroespacial (JAXA)."
+    },
+    {
+      "titulo": "Centro de operaciones",
+      "nivel": 2,
+      "texto": "El centro de operaciones está ubicado en el Centro Europeo de Operaciones Espaciales (ESOC), en Darmstadt, Alemania. La estación para recibir la telemetría del MPO utilizará la antena de 35 metros de diámetro de Cebreros, en España, durante 8 horas cada día, y para el MMO será la antena de 64 metros de diámetro de Usuda, en Japón, entre 6 y 9 horas al día.\nEl centro de operaciones científicas (SOC), está ubicado en el Centro Europeo de Astronomía Espacial de la ESA, en la localidad de Villanueva de la Cañada, cerca de Madrid, España."
+    }
+  ],
+  "num_palabras": 900
+}

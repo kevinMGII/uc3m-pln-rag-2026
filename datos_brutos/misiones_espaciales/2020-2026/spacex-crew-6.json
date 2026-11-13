@@ -1,0 +1,56 @@
+{
+  "titulo": "SpaceX Crew-6",
+  "titulo_wikipedia_en": "SpaceX Crew-6",
+  "fecha_lanzamiento": "2023-03-02",
+  "año_lanzamiento": 2023,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/SpaceX_Crew-6",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Regresada",
+    "Tipo de misión": "Rotación de tripulación de la ISS",
+    "Operador": "SpaceX",
+    "Duración planificada": "180 días",
+    "Órbitas completadas": "2976 órbitas",
+    "Nave": "Crew Dragon",
+    "Fabricante": "SpaceX",
+    "Tripulación": "Stephen Bowen\nWarren Hoburg\nSultan Al Neyadi\nAndrey Fedyaev",
+    "Expedición": "Expedición 68/69",
+    "Fecha de lanzamiento": "2 de marzo de 2023, 05:34 UTC",
+    "Vehículo de lanzamiento": "Falcon 9 Block 5",
+    "Lugar de lanzamiento": "Kennedy, LC-39A",
+    "Contratista del lanzamiento": "SpaceX",
+    "Fecha de aterrizaje": "4 de septiembre de 2023, 04:17 UTC",
+    "Lugar de aterrizaje": "Océano Atlántico",
+    "Sistema de referencia orbital": "Geocéntrica",
+    "Régimen orbital": "Órbita baja terrestre",
+    "Inclinación orbital": "51.66°",
+    "Programa": "Programa de Tripulación Comercial",
+    "Misión anterior": "SpaceX Crew-5",
+    "Misión siguiente": "SpaceX Crew-7",
+    "Programa (2)": "Crew Dragon",
+    "Misión anterior (2)": "SpaceX Crew-5",
+    "Misión siguiente (2)": "AX-2",
+    "Acoplamiento": "tipo acople: acople | objetivo acople: ISS | puerto acople: Harmony PMA 3/IDA Zénit | fecha acople: 3 de marzo de 2023, 06:40 UTC | fecha desacople: 6 de mayo de 2023, 11:23 UTC\nobjetivo acople: ISS\n(Recolocación) | tipo acople: acople | puerto acople: Harmony PMA 2/IDA Frontal | fecha acople: 6 de mayo de 2023, 12:01 UTC | fecha desacople: 3 de septiembre, 11:05 UTC"
+  },
+  "resumen": "SpaceX Crew-6 fue el sexto vuelo operacional de una nave Crew Dragon dentro del programa COTS, el octavo vuelo tripulado a la ISS y el noveno tripulado en general, que despegó y se acopló el día 2 de marzo de 2023 a la ISS. La nave se desacopló de forma autónoma del puerto frontal del módulo Harmony, el día 3 de septiembre de 2023, amerizando en el atlántico el día 4 de septiembre y dando por terminada la misión en la Estación Espacial Internacional de 185 días, 22 horas y 43 minutos durante las Expediciones 68 y 69.",
+  "secciones": [
+    {
+      "titulo": "Misión",
+      "nivel": 2,
+      "texto": "La misión estaba planeada para lanzarse el 26 de febrero de 2023 con el relevo de la SpaceX Crew-5 con la tripulación de la Expedición 68 y se aplazó un día para terminar de preparar el lanzamiento. Finalmente despegó el día 2 de marzo de 2023, ya que el primer intento del día 27 de febrero fue cancelado por un fallo del sistema de tierra encargado de la ignición de los nueve motores Merlin-1D de la primera etapa. Este sistema emplea una sustancia pirofórica para encender los motores denominada TEA-TEB (una mezcla de un 15% de trietilaluminio y un 85% de trietilborano), necesaria para encender el queroseno (RP-1), que es una sustancia que no entra en ignición fácilmente, por eso en este tipo de motores primero se introduce un compuesto pirofórico como el TEA-TEB para generar la ignición en la cámara de combustión al mezclarse con el oxígeno líquido y luego se introduce el queroseno. El TEA-TEB también se ha usado en otros motores de kerolox, como el F-1 del Saturno V. La misión transportó a cuatro miembros de la tripulación permanente de la Expedición 69 a la ISS.\nLa tripulación ha supervisado durante su estancia el acoplamiento de las naves de carga Dragon 2 SpX-27 y SpX-28, Progress MS-23, Progress MS-24 y Cygnus NG-19, además de las misiones tripuladas Axiom Mission 2 (con Peggy Whitson, John Shoffner, Alí Al Qarni y Rayyanah Barnawi) y su nave de relevo la nave SpaceX Crew-7. El 6 de mayo de 2023, la nave Crew Dragon, con sus cuatro tripulantes a bordo realizó una recolocación del puerto PMA 3/IDA en posición Zénit, al puerto PMA-2/IDA Frontal del módulo Harmony.\nAdemás durante esta misión los astronautas Bowen, Hoburg y Al Neyadi han participado en tres paseos espaciales. Bowen paticipó en las tres actividades extravehiculares, Al Neyadi en la primera y Hoburg en las dos últimas. Se llevaron a cabo las US EVA-86, 87 y 88 para instalar una antena de S-Band FRG y los paneles 1B y 1A, los dos últimos Paneles solares iROSA adicionales, de los 6 planificados de momento por la NASA.\nLa nave espacial Dragon de SpaceX, llamada Endeavour, con sus tripulantes regresó el día 4 de septiembre de 2023 a la tierra después de varios retrasos debido, primero al aplazamiento del lanzamiento de la nave SpaceX Crew-7 del día 25 al 26 de agosto y que llegó a la estación el día 27 de agosto. Y el segundo retraso debido a las condiciones climáticas desfavorables cerca de los sitios de amerizaje frente a la costa de Florida la Nasa y SpaceX aplazaron 24 horas la salida de la nave Dragon de la Crew-6, de la estación que estaba prevista para el día 2."
+    },
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Los astronautas de la NASA Stephen Bowen y el novato del grupo 22 de la NASA, Warren Hoburg fueron anunciados el. Posteriormente en mayo de 2022, se anunció que la empresa Axiom Space posibilataría el viaje de un astronauta de los Emiratos Árabes Unidos de 6 meses a la ISS. En julio de 2022, se anunció que el segundo astronauta de la primera promoción de la agencia MBRSC, Sultan Al Neyadi, sería asignado como el tercer pasajero, siendo Hazza Al Mansouri, su reserva. Finalmente, el cuarto miembro de la tripulación será un cosmonauta de la agencia Roscosmos, Andrey Fedyaev. Después del anuncio de que el intercambio de tripulaciones empezaría en otoño de 2022, en julio de 2022, se firmó un nuevo acuerdo de intercambio de tripulaciones entre la NASA y Roscosmos. El acuerdo de intercambio de tripulaciones tiene como objetivo asegurar que, en caso de una situación de emergencia relacionada con la cancelación o un retraso en el lanzamiento de una nave espacial rusa o estadounidense, se garantice la presencia a bordo de la ISS de al menos un cosmonauta de Ruso y un astronauta de la Nasa para servir a los segmentos ruso y estadounidense, respectivamente."
+    }
+  ],
+  "num_palabras": 748
+}

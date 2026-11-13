@@ -1,0 +1,41 @@
+{
+  "titulo": "Expedición 26",
+  "titulo_wikipedia_en": "Expedition 26",
+  "fecha_lanzamiento": "2010-11-26",
+  "año_lanzamiento": 2010,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Expedición_26",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Fecha de lanzamiento": "26 de noviembre de 2010 a las 04:46 UTC",
+    "Fecha de aterrizaje": "16 de marzo de 2011 a las 08:54 UTC",
+    "Misión anterior": "Expedición 25",
+    "Misión siguiente": "Expedición 27",
+    "Nave de llegada": "Soyuz TMA-01M, Soyuz TMA-20",
+    "Programa": "Programa de la ISS",
+    "Estación espacial": "Estación Espacial Internacional",
+    "Tipo de misión": "Expedición a la ISS",
+    "Fecha de inicio": "26 de noviembre de 2010, 04:46 UTC",
+    "Fecha de fin": "16 de marzo de 2011, 08:54 UTC"
+  },
+  "resumen": "La Expedición 26 fue la 26ª estancia de larga duración en la Estación Espacial Internacional. La misión se inició con los astronautas norteamericanos y dos cosmonautas rusos el 26 de noviembre de 2010 con la mitad de la tripulación de la Expedición 25 que volvía a Tierra a bordo de la Soyuz TMA-19. El resto de la tripulación de la Expedición 26ta - una astronauta norteamericana, un cosmonauta ruso y uno de ESA se unirán al trío que está a bordo cuando su nave Soyuz TMA-20 atraque con la estación el 17 de diciembre de 2010. El comandante de Douglas Weelock Expedición 25 será sucedido por el comandante Scott Kelly de la Expedición 26 el 24 de noviembre de 2010.\nLa misión del astronauta de la ESA, Paolo Nespoli a la estación espacial se llama también MagISStra. Un nombre que combina la palabra magistra que significa \"profesora\" en latín con el acrónimo ISS a sugerencia de la italiana Antonella Pezzani.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Fuente NASA"
+    },
+    {
+      "titulo": "Tripulación de Repuesto o de emergencia",
+      "nivel": 2,
+      "texto": "Ronald Garan\nAnatoli Ivanishin\nSergei Revin\nAnton Shkaplerov"
+    }
+  ],
+  "num_palabras": 170
+}

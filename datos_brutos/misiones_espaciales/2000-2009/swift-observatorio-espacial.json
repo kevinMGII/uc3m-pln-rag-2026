@@ -1,0 +1,28 @@
+{
+  "titulo": "Swift (observatorio espacial)",
+  "titulo_wikipedia_en": "Neil Gehrels Swift Observatory",
+  "fecha_lanzamiento": "2004-11-20",
+  "año_lanzamiento": 2004,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Telescopio espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Swift_(observatorio_espacial)",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Activo",
+    "Tipo de misión": "Observatorio espacial",
+    "Operador": "NASA",
+    "Fecha de lanzamiento": "20 de noviembre de 2004",
+    "Masa en el lanzamiento": "1500 kg",
+    "Periapsis": "600 Km",
+    "Periodo orbital": "90 minutos",
+    "Instrumentos": "Burst Alert Telescope (BAT)\nX-Ray Telescope (XRT)\nUV/Optical Telescope (UVOT)"
+  },
+  "resumen": "Swift es un observatorio espacial dedicado al estudio de las explosiones de rayos gamma o GRB (del inglés Gamma-Ray Burst). Posee tres instrumentos que trabajan juntos permitiéndole estudiar el fenómeno en rayos gamma, rayos x, ultravioleta y visible.\nFue construido por un consorcio internacional formado por Estados Unidos, Reino Unido e Italia y lanzado finalmente el 20 de noviembre de 2004 en un cohete Delta 2. Es controlado por el Goddard Space Flight Center de la NASA.\nEn principio su misión es de dos años, pero se prevé que si no ocurre ningún contratiempo, la misión pueda ser extendida.\nLa principal característica de este observatorio es que cuando detecta una explosión de rayos gamma es capaz de localizarla en 15 segundos, para entonces reorientarse automáticamente para quedar apuntando con todos sus instrumentos el lugar de origen de la explosión o llamarada de rayos gamma entre 20 y 75 segundos después de la explosión.\nLos objetivos científicos de la misión Swift son:\nDeterminar el origen de las llamaradas de rayos gamma.\nClasificar las llamaradas de rayos gamma y buscar nuevos tipos.\nDeterminar como evoluciona e interactúa la onda expansiva con sus alrededores.\nUsar las llamaradas de rayos gamma para estudiar el universo primitivo.\nUn estudio de todo el cielo en rayos X más sensible que cualquier anterior.\nPara lo cual dispone de los siguientes instrumentos:\nBurst Alert Telescope (BAT): Detecta las llamaradas y anota sus coordenadas.\nX-Ray Telescope (XRT): Toma imágenes y realiza análisis espectrales de las llamaradas. Con estos datos se consigue una localización más precisa del origen de la explosión.\nUV/Optical Telescope (UVOT): Se usa tanto como para estudiar el espectro en radiación ultravioleta y visible, así como para estudiar la variación de luminosidad de las llamaradas con el tiempo. También afina la posición de la llamarada de rayos gamma hasta una resolución inferior a un arcosegundo.\nGracias a los logros científicos de la misión Swift, se cree haber resuelto el misterio de las llamaradas o explosiones de rayos gamma. Ya se sabía que algunas de las explosiones podían ser provocadas por supernovas, pero se han encontrado indicios de que otras que hasta ahora no tenían explicación podrían ser formadas por colisiones entre agujeros negros y estrellas de neutrones o entre varias de estas últimas.\nObservaciones realizadas por el Swift han permitido localizar el objeto más lejano jamás observado, una explosión a 13 000 millones de años luz.\nEl observatorio espacial Swift, finalizo su trayectoria el pasado 4 de noviembre de 2026. El satelite se desintegro durante el reingreso a la atmosfera terrestre sobre territorio de indonesia, la mision se extendio por casi 22 años.",
+  "secciones": [],
+  "num_palabras": 436
+}

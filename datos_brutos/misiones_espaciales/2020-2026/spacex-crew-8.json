@@ -1,0 +1,50 @@
+{
+  "titulo": "SpaceX Crew-8",
+  "titulo_wikipedia_en": "SpaceX Crew-8",
+  "fecha_lanzamiento": "2024-03-04",
+  "año_lanzamiento": 2024,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/SpaceX_Crew-8",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Regresada",
+    "Tipo de misión": "Rotación de tripulación de la ISS",
+    "Operador": "SpaceX",
+    "Duración planificada": "180 días",
+    "Nave": "Crew Dragon Endeavour",
+    "Fabricante": "SpaceX",
+    "Tripulación": "Matthew Dominick; Michael R. Barratt; Jeanette J. Epps; Alexander Grebenkin",
+    "Expedición": "Expedición 70/71/72",
+    "Fecha de lanzamiento": "4 de marzo de 2024, 3:54:38 UTC",
+    "Vehículo de lanzamiento": "Falcon 9 Block 5",
+    "Lugar de lanzamiento": "Kennedy, LC-39A",
+    "Contratista del lanzamiento": "SpaceX",
+    "Fecha de aterrizaje": "25 de octubre de 2024, 07:29 UTC",
+    "Lugar de aterrizaje": "Océano Atlántico",
+    "Sistema de referencia orbital": "Geocéntrica",
+    "Régimen orbital": "Órbita baja terrestre",
+    "Inclinación orbital": "51.66°",
+    "Programa": "Programa de Tripulación Comercial",
+    "Misión anterior": "SpaceX Crew-7",
+    "Misión siguiente": "SpaceX Crew-9",
+    "Programa (2)": "Crew Dragon",
+    "Misión anterior (2)": "AX-3",
+    "Misión siguiente (2)": "Polaris Dawn",
+    "Acoplamiento": "tipo acople: acople | objetivo acople: ISS | puerto acople: Harmony PMA 2/IDA Frontal | fecha acople: 5 de marzo de 2024, 07:28 UTC | fecha desacople: 2 de mayo de 2024, 12:57 UTC\nobjetivo acople: ISS\n(Recolocación) | tipo acople: acople | puerto acople: Harmony PMA 3/IDA zénit | fecha acople: 2 de mayo de 2024, 13:46 UTC | fecha desacople: 23 de octubre de 2024, 21:05 UTC"
+  },
+  "resumen": "SpaceX Crew-8 fue el octavo vuelo operativo tripulado de la tripulación comercial de la NASA de una nave espacial Crew Dragon, y el decimocuarto vuelo orbital tripulado en general. La misión se lanzó en el 4 de marzo de 2024.\nLa misión Crew-8 transportó a cuatro miembros de la tripulación a la Estación Espacial Internacional (ISS). Tres astronautas de la NASA, Matthew Dominick, Michael Barratt y Jeanette Epps, y un cosmonauta de Roscosmos, Alexander Grebenkin, fueron asignados a la misión. Jeanette Epps estuvo previamente asignada a misiones de Boeing Starliner.",
+  "secciones": [
+    {
+      "titulo": "Misión",
+      "nivel": 2,
+      "texto": "La octava misión operativa de SpaceX en el Programa de Tripulación Comercial se lanzó a las 3:54 UTC el 4 de marzo de 2024."
+    }
+  ],
+  "num_palabras": 114
+}

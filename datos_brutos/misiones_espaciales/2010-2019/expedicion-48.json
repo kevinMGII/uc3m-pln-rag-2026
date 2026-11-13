@@ -1,0 +1,35 @@
+{
+  "titulo": "Expedición 48",
+  "titulo_wikipedia_en": "Expedition 48",
+  "fecha_lanzamiento": "2016-06-18",
+  "año_lanzamiento": 2016,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Expedición_48",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Misión anterior": "Expedición 47",
+    "Misión siguiente": "Expedición 49",
+    "Nave de llegada": "Soyuz MS-01\nSoyuz TMA-20M",
+    "Nave de regreso": "Soyuz MS-01\nSoyuz TMA-20M",
+    "Programa": "Programa de la ISS",
+    "Estación espacial": "Estación Espacial Internacional",
+    "Tipo de misión": "Expedición a la ISS",
+    "Fecha de fin": "7 de septiembre de 2016 UTC",
+    "Fecha de inicio": "18 de junio de 2016 05:52 UTC"
+  },
+  "resumen": "La Expedición 48 fue la 48.ª estancia de larga duración en la Estación Espacial Internacional.\nJeffrey Williams, Aleksey Ovchinin y Oleg Skripochka fueron transferidos de la Expedición 47. La Expedición 48 empezó con el desacoplamiento de la Soyuz TMA-19M el 7 de julio de 2016 y finalizó con el desacoplamiento de la Soyuz TMA-20M el 6 de septiembre de 2016. La tripulación de la Soyuz MS-01 fue transferida a la Expedición 49.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Fuente Spacefacts"
+    }
+  ],
+  "num_palabras": 74
+}

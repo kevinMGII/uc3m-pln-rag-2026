@@ -1,0 +1,55 @@
+{
+  "titulo": "Luna 23",
+  "titulo_wikipedia_en": "Luna 23",
+  "fecha_lanzamiento": "1974-10-28",
+  "año_lanzamiento": 1974,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración lunar",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Luna_23",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Retorno de la muestra lunar",
+    "Operador": "Programa espacial soviético",
+    "ID COSPAR": "1974-084A",
+    "Nº SATCAT": "7491",
+    "Plataforma (bus)": "Ye-8-5M",
+    "Fabricante": "GSMZ Lavochkin",
+    "Masa en seco": "5600 kg",
+    "Masa en el lanzamiento": "5795 kg",
+    "Fecha de lanzamiento": "28 de octubre de 1974, 14:30:32 HUC",
+    "Vehículo de lanzamiento": "Proton-K/D",
+    "Lugar de lanzamiento": "Baikonur 81/24",
+    "Época": "2 de noviembre de 1974",
+    "Sistema de referencia orbital": "Selenocéntrico",
+    "Periapsis": "94 km",
+    "Apoapsis": "104 km",
+    "Inclinación orbital": "138 grados",
+    "Excentricidad": "0.00272",
+    "Periodo orbital": "119 minutos",
+    "Datos interplanetarios": "Tipo: orbitador | objeto: Lunar | órbitas: ~48 | fecha de llegada: 2 noviembre 1974\ntipo: lander | objeto: Lunar | fecha de llegada: 6 noviembre 1974",
+    "Instrumentos": "Sistema de imágenes fotográficas estereográficas\nBrazo de perforación/remoto mejorado para la recogida de muestras\nDetector de radiación\nRadioaltímetro",
+    "Programa": "Programa Luna",
+    "Misión anterior": "Luna 22",
+    "Misión siguiente": "Luna 1975A"
+  },
+  "resumen": "Luna 23 fue una misión espacial del programa Luna desarrollada por la Unión Soviética.",
+  "secciones": [
+    {
+      "titulo": "Sinopsis",
+      "nivel": 2,
+      "texto": "Luna 23 fue una misión de aterrizaje de la Luna Soviética que tenía la intención de devolver una muestra lunar a la Tierra. Lanzado a la Luna por un Proton-K/D, la nave espacial se volcó de costado y resultó dañada al aterrizar en Mare Crisium. El aparato de recogida de muestras no pudo funcionar y no se devolvieron muestras. El módulo de aterrizaje continuó las transmisiones durante tres días después del aterrizaje. En 1976, Luna 24 aterrizó a varios cientos de metros de distancia y devolvió con éxito muestras. Se cree que el objeto similar al asteroide 2010 KQ es un cohete que separó el módulo Luna 23 después del lanzamiento.\nLuna 23 fue la primera nave espacial de retorno de muestras lunares modificada, diseñada para devolver una muestra de núcleo profundo de la superficie de la Luna (de ahí el cambio en el índice de Ye-8-5 a Ye-8-5M). Mientras que Luna 16 y Luna 20 habían devuelto muestras de una profundidad de 0,3 metros, la nueva nave espacial fue diseñada para excavar hasta 2,5 metros. Tras una corrección a mitad de curso el 31 de octubre, Luna 23 entró en órbita alrededor de la Luna el 2 de noviembre de 1974. Los parámetros fueron 104 × 94 kilómetros a 138° de inclinación. Tras varios cambios más en la órbita, la nave espacial descendió a la superficie lunar el 6 de noviembre y aterrizó en la parte más meridional de Mare Crisium. Las coordenadas de aterrizaje eran 13° de latitud norte y 62° de longitud este. Durante el aterrizaje en terreno \"desfavorable\", el dispositivo de perforación del módulo de aterrizaje fue evidentemente dañado, impidiendo el cumplimiento de la misión primaria, el retorno del suelo lunar a la Tierra. Los científicos idearon un plan improvisado para llevar a cabo un programa de exploración científica limitado con el módulo de aterrizaje estacionario. Los controladores mantuvieron contacto con la nave espacial hasta el 9 de noviembre de 1974.\nLas fotografías orbitales de alta resolución tomadas por el Orbiter de Reconocimiento Lunar de la NASA y publicadas en marzo de 2012 mostraban la nave espacial Luna 23 que se encontraba de lado en la superficie lunar. Evidentemente, la nave espacial se volcó al aterrizar, quizás debido a velocidades verticales y/o horizontales superiores a las nominales en el touchdown."
+    },
+    {
+      "titulo": "En la cultura",
+      "nivel": 2,
+      "texto": "En el videojuego de 2007 BioWare Mass Effect, restos abandonados de esta nave se pueden encontrar en las partes accesibles de la Luna de la Tierra y se pueden salvar para materiales aleatorios."
+    }
+  ],
+  "num_palabras": 431
+}

@@ -1,0 +1,47 @@
+{
+  "titulo": "Observatorio de rayos X Chandra",
+  "titulo_wikipedia_en": "Chandra X-ray Observatory",
+  "fecha_lanzamiento": "1999-07-23",
+  "año_lanzamiento": 1999,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada",
+    "Telescopio espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Observatorio_de_rayos_X_Chandra",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Activo",
+    "Tipo de misión": "Observatorio espacial",
+    "Operador": "NASA, SAO, CXC",
+    "Fecha de lanzamiento": "23 de julio de 1999",
+    "Configuración": "Cilíndrica",
+    "Masa en el lanzamiento": "4790 kg",
+    "Dimensiones": "Diámetro 1,2 m",
+    "Sistema de referencia orbital": "Elíptica",
+    "Periodo orbital": "64,2 horas",
+    "Instrumentos": "Advanced CCD Imaging Spectrometer (ACIS)\nHigh Resolution Camera (HRC)\nHigh Energy Transmission Grating Spectrometer (HETGS)\nLow Energy Transmission Grating Spectrometer (LETGS)",
+    "Programa": "Grandes Observatorios",
+    "Misión anterior": "Observatorio de rayos gamma Compton",
+    "Misión anterior año": "1991",
+    "Misión siguiente": "Telescopio espacial Spitzer",
+    "Misión siguiente año": "2003"
+  },
+  "resumen": "El observatorio de rayos X Chandra o CXO por su acrónimo en inglés, es un satélite artificial lanzado por la NASA el 23 de julio de 1999. Fue llamado así en honor del físico indio Subrahmanyan Chandrasekhar, uno de los fundadores de la astrofísica, quien determinó la masa límite a la que las enanas blancas se convierten en una estrella de neutrones. Además, Chandra significa \"luna\" en sánscrito.",
+  "secciones": [
+    {
+      "titulo": "Introducción",
+      "nivel": 2,
+      "texto": "El Observatorio Chandra es el tercero de los Grandes Observatorios de la NASA. El primero fue el telescopio espacial Hubble, el segundo fue el Observatorio de Rayos Gamma Compton, lanzado en 1991 y ya desintegrado, y el último fue el telescopio espacial Spitzer. Antes del lanzamiento el Observatorio Chandra era conocido como AXAF por las siglas en inglés de Advanced X-ray Astronomical Facility.\nComo la atmósfera terrestre absorbe la mayoría de los rayos X, los telescopios convencionales no pueden detectarlos y para su estudio se hace necesario un telescopio espacial.\nEn 1976 Riccardo Giacconi y Harvey Tananbaum propusieron a la NASA la idea del Observatorio Chandra, empezando los trabajos preliminares en el Marshall Space Flight Center (MSFC) y en el Smithsonian Astrophysical Observatory (SAO), donde el telescopio es operado para la NASA en el Chandra X-Ray Center (CXC). Mientras tanto, en 1978, la NASA lanzó el primer telescopio espacial de rayos X, el Einstein (HEAO-2).\nA pesar de ello el trabajo en el proyecto Chandra continuó adelante durante las décadas de 1980 y 1990, pero en 1992 se rediseñó la nave para reducir costes. Se eliminaron cuatro de los veinte espejos de los que iba a disponer el observatorio, y se le calculó una órbita elíptica con la que alcanzaría la tercera parte de la distancia a la luna. Esto eliminó la posibilidad de ser reparado por el transbordador espacial, pero colocaba al observatorio fuera de la influencia de los cinturones de radiación de la tierra la mayor parte de su órbita.\nFue lanzado por el transbordador Columbia (STS-93) siendo la carga más pesada que había puesto nunca en órbita la lanzadera hasta el momento.\nChandra puede observar el cielo en rayos X con una resolución angular de 0,5 segundos de arco, mil veces más que el primer telescopio orbital de rayos X.\nEl Observatorio de rayos X Chandra lleva los siguientes instrumentos:\nAdvanced CCD Imaging Spectrometer (ACIS)\nHigh Resolution Camera (HRC)\nHigh Energy Transmission Grating Spectrometer (HETGS)\nLow Energy Transmission Grating Spectrometer (LETGS)\nEntre otros objetos ha servido para el estudio de RCW 86, resto de la supernova SN 185."
+    },
+    {
+      "titulo": "Ejemplos de descubrimientos",
+      "nivel": 2,
+      "texto": "Los datos recopilados por Chandra han avanzado mucho en el campo de la astronomía de rayos X. He aquí algunos ejemplos de descubrimientos apoyados por observaciones de Chandra:\nLa primera imagen de luz, del remanente de supernova Cassiopeia A, dio a los astrónomos su primer vistazo al objeto compacto en el centro del remanente, probablemente una estrella de neutrones o un agujero negro. (Pavlov, et al., 2000)\nEn la nebulosa del Cangrejo, otro remanente de supernova, Chandra mostró un anillo nunca antes visto alrededor del púlsar central y los chorros que sólo habían sido parcialmente vistos por telescopios anteriores. (Weisskopf et al., 2000)\nLa primera emisión de rayos X fue vista desde el agujero negro supermasivo, Sagitario A*, en el centro de la Vía Láctea. (Baganoff et al., 2001)\nChandra encontró mucho más gas fresco de lo esperado en espiral en el centro de la galaxia de Andrómeda.\nLos frentes de presión se observaron en detalle por primera vez en Abell 2142, donde los grupos de galaxias se están fusionando.\nLas imágenes más tempranas en los rayos X de la onda de choque de una supernova fueron tomadas de SN 1987A.\nChandra mostró por primera vez la sombra de una pequeña galaxia mientras está siendo canibalizada por una más grande, en una imagen de Perseo A.\nUn nuevo tipo de agujero negro fue descubierto en la galaxia M82, objetos de mediana masa supuestamente el eslabón perdido entre los agujeros negros de tamaño estelar y agujeros negros super masivos. (Griffiths et al., 2000)\nLas líneas de emisión de rayos X se asociaron por primera vez con una ráfaga de rayos gamma, GRB 991216, apodada \"Beethoven Burst\". (Piro et al., 2000)\nLos estudiantes de secundaria, utilizando datos de Chandra, descubrieron una estrella de neutrones en el resto de la supernova IC 443.\nLas observaciones de Chandra y BeppoSAX sugieren que las ráfagas de rayos gamma ocurren en regiones formadoras de estrellas.\nLos datos de Chandra sugirieron que RX J1856.5-3754 y 3C58, que antes se pensaba que eran púlsares, podrían ser objetos aún más densos: estrellas de cuarks. Estos resultados siguen siendo debatidos.\nLas ondas sonoras de la actividad violenta alrededor de un agujero negro súper masivo se observaron en el cúmulo de galaxias Perseo (2003).\nImagen del CXO de la enana marrón TWA 5B.\nTWA 5B, una enana marrón, se veía en órbita alrededor de un sistema binario de estrellas parecidas al Sol.\nCasi todas las estrellas de secuencia principal son emisoras de rayos X. (Schmitt y Liefke, 2004)\nLa sombra de rayos X de Titán fue vista cuando cruzó por delante de la nebulosa del Cangrejo.\nEmisiones de rayos X de materiales que caen de un disco protoplanetario a una estrella. (Kastner, et al., 2004)\nLa constante de Hubble medida fue de 76,9 km/s/Mpc utilizando el efecto Siunyáiev-Zeldóvich.\n2006 Chandra encontró la evidencia fuerte que la materia oscura existe observando la colisión estupenda del racimo\n2006 Los anillos y filamentos emisores de rayos X descubiertos alrededor de un agujero negro súper masivo dentro de Messier 87 implican la presencia de ondas de presión, ondas de choque y ondas de sonido. La evolución de Messier 87 puede haber sido dramáticamente afectada.\nLas observaciones del cúmulo Bala ponen límites a la sección transversal de la auto-interacción de la materia oscura.\n\"La Mano de Dios\" fotografía de PSR B1509-58.\nLas radiografías de Júpiter procedentes de los polos, no el anillo auroral.\nUn gran halo de gas caliente se encontró alrededor de la Vía Láctea.\nSe observó una galaxia enana extremadamente densa y luminosa M60-UCD1.\nEl 5 de enero de 2015, la NASA informó que el CXO observó una llamarada de rayos X 400 veces más brillante que de costumbre, un rompe-registros, desde Sagitario A*, un agujero negro supermasivo en el centro de la galaxia de la Vía Láctea. El hecho inusual puede haber sido causado por la ruptura de un asteroide que cae en el agujero negro o por el entrelazamiento de líneas de campo magnético dentro del gas que fluye hacia el Sagitario A*, según los astrónomos.\nEn septiembre de 2016, se anunció que Chandra había detectado las emisiones de rayos X de Plutón, la primera detección de rayos X de un objeto del cinturón de Kuiper. Chandra había hecho las observaciones en 2014 y 2015, apoyando la nave espacial New Horizons para su encuentro de julio de 2015."
+    }
+  ],
+  "num_palabras": 1145
+}

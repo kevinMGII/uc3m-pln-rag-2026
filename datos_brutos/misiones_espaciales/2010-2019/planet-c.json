@@ -1,0 +1,65 @@
+{
+  "titulo": "PLANET-C",
+  "titulo_wikipedia_en": "Akatsuki (spacecraft)",
+  "fecha_lanzamiento": "2010-05-21",
+  "año_lanzamiento": 2010,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración de Venus",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/PLANET-C",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Orbitador",
+    "Operador": "JAXA",
+    "Fecha de lanzamiento": "20",
+    "Vehículo de lanzamiento": "H-IIA202 F17",
+    "Duración de la misión": "~2 a ~6/7/29",
+    "ID NSSDC": "2010-020D",
+    "Masa en el lanzamiento": "500 kg total\n320 kg sin combustible",
+    "Potencia": ">700 watts en 0.7 AU",
+    "Periapsis": "300 km",
+    "Apoapsis": "~80 000 km",
+    "Inclinación orbital": "172°",
+    "Periodo orbital": "~30 horas",
+    "Datos interplanetarios": "tipo: acercamiento | objeto: Venus | fecha llegada: 7"
+  },
+  "resumen": "La PLANET-C, también conocida como Akatsuki (あかつき tr: Amanecer) o Venus Climate Orbiter (VCO), es una sonda espacial diseñada por la JAXA (Agencia Aeroespacial Japonesa) destinada a la exploración del planeta Venus. Es la primera sonda japonesa lanzada hacia Venus y la segunda, tras la Nozomi (PLANET-B), enviada a otro planeta. Su lanzamiento se llevó a cabo en mayo de 2010, produciéndose su entrada en la órbita del planeta vecino en diciembre de 2015 para llevar a cabo una misión planificada con una duración mínima de dos años, que se inició en mayo de 2016. Planet-C fue lanzado por el potente cohete H-IIA, debido a que la utilización de los cohetes M-5 terminó en 2006.",
+  "secciones": [
+    {
+      "titulo": "Diseño",
+      "nivel": 2,
+      "texto": "La masa total de la sonda es de 640 kg, incluidos 320 kg de propelente y 34 kg de instrumentos científicos. Está previsto que sus paneles solares le proporcionen cerca de 1200 W de energía una vez se hubiera situado en órbita de Venus.\nLa carga científica de la sonda consiste en un aparato de imagen ultravioleta (UVI), una cámara de onda larga infrarroja (LIR), una cámara de 1-μm (IR1), una cámara de 2-μm (IR2) y un experimento de radio (RS).\nLas investigaciones previstas eran el mapeado de la superficie usando una cámara infrarroja y diversos experimentos para determinar el posible vulcanismo existente en la superficie del planeta, así como la presencia y frecuencia de rayos y otros fenómenos eléctricos en la atmósfera de Venus."
+    },
+    {
+      "titulo": "Desarrollo de la sonda",
+      "nivel": 2,
+      "texto": "El diseño conceptual del proyecto se inició en 2002, pasando a partir de 2004 a una fase de estudio del mismo. El presupuesto para esta misión es de ¥130.000 millones de yenes (110 millones de dólares estadounidenses) para el satélite y ¥120.000 millones de yenes (100 millones de dólares estadounidenses) para el lanzamiento.\nDurante el año 2007 fueron evaluados los diseños y modelos térmicos y mecánicos previstos. Tras ello, entre noviembre de 2007 y marzo de 2008, varias partes de la sonda fueron modificadas sustancialmente, tras lo cual la sonda pasó a la fase final del proceso de montaje de cara a su lanzamiento.\nEn octubre de 2009 se eligió el nombre oficial de la sonda una vez fuera lanzada, \"Akatsuki\" y en cooperación con la organización del Año Internacional de la Astronomía 2009, se inició la campaña \"AKATSUKI Message Campaign\", recogiendo mensajes que serán incorporados a la sonda, al objeto de dar a conocer al gran público los objetivos de la misión."
+    },
+    {
+      "titulo": "Desarrollo de la misión",
+      "nivel": 2,
+      "texto": "Su lanzamiento estaba previsto para el 17 de mayo de 2010, pero fue retrasado varios días debido a problemas meteorológicos. Finalmente la sonda fue lanzada, junto a la vela solar IKAROS, el 20 de mayo de 2010 a las 21:58:22 UTC (21 de mayo a las 6:58 JST) desde el Yoshinobu 1 del Centro Espacial de Tanegashima."
+    },
+    {
+      "titulo": "Primer intento de inserción orbital",
+      "nivel": 3,
+      "texto": "Tras su llegada a las cercanías del planeta casi siete meses después de haber sido lanzada, el martes 7 de diciembre de 2010 la sonda no consiguió situarse en órbita del mismo, con lo que entró en órbita solar. El fallo, explicado por la agencia japonesa, consistió en que la sonda, que se encontraba por entonces a 550 km de la superficie de Venus, no desaceleró lo suficiente para entrar en la órbita del planeta; era preciso mantener activo durante 12 minutos el motor de la sonda para así poder frenarla y colocarla en la órbita del planeta, pero el proceso falló por razones desconocidas. Al día siguiente la JAXA anunció que daba la misión por perdida, si bien posteriormente desarrolló planes para intentar una segunda inserción orbital cuando la sonda vuelva a pasar por las proximidades de Venus, entre 2015 y 2017, para lo cual la sonda fue puesta en estado de hibernación, dado que la vida útil de la misma inicialmente prevista era de 4 años y medio."
+    },
+    {
+      "titulo": "Segundo intento de inserción orbital",
+      "nivel": 3,
+      "texto": "Después de la primera y fallida inserción orbital se llevaron a cabo ajustes en la órbita de la sonda el 7 y el 14 de septiembre de 2011, obteniendo menos aceleración de la prevista, debido al posible fallo de alguno de los motores. Se realizaron tres nuevas maniobras orbitales en noviembre de 2011, tras lo que se mantiene la posibilidad de un segundo intento de inserción orbital entre 2015 y 2017.\nLa nave alcanzó su posición más alejada de Venus en octubre de 2013, aproximándose lentamente al planeta desde esa fecha. En abril de 2014 la sonda Akatsuki seguía funcionando, pese a haber excedido su prevista vida útil en un 30%, manteniendo la agencia espacial japonesa sus planes de reintentar situarla en la órbita venusiana. De acuerdo con un informe publicado por la JAXA en febrero de 2015, se podría intentar llevar a cabo la inserción orbital en diciembre de 2015. Después de realizar la última serie de maniobras en agosto de 2015, se programó el encuentro de la sonda con Venus para el 7 de diciembre de 2015. El segundo intento resultó exitoso, situándose la sonda en órbita de Venus, según informaron los ingenieros de la JAXA el 9 de diciembre, en una órbita elíptica con un apoastro a 440.000 km de Venus, y un periastro a 400 km de la superficie del planeta, con un período orbital de 13 días y 14 horas."
+    },
+    {
+      "titulo": "Estado actual de la misión",
+      "nivel": 3,
+      "texto": "Dos días después de la inserción orbital, los controladores verificaron el buen funcionamiento de tres de las cámaras (UVI, LIR e IR1). Tras un encendido de los cohetes de la sonda el 26 de marzo, la órbita quedó fijada a 330.000 km con un período orbital de entre 9 y 13 días. La misión, cuya duración sigue estando prevista en dos años, se inició formalmente a mediados de mayo.\nPoco después de la inserción, los instrumentos de la nave registraron una \"forma de arco en la atmósfera que se extiende 6.000 millas, casi de polo a polo\"; los científicos del proyecto describieron este arco como una \"onda de gravedad\" en los vientos del planeta sobre Aphrodite Terra, \"una región montañosa del tamaño de África que se eleva hasta tres millas de la superficie\". La misión ha recopilado datos en todas las bandas espectrales relevantes desde ultravioleta lejano (FUV) a longitudes de onda de microondas.\nLas imágenes del orbitador Akatsuki revelaron algo similar a una corriente en chorro en la región de las nubes bajas y medias de la atmósfera de Venus, que se extiende a entre 45 y 60 kilómetros de altitud. La velocidad del viento se ve maximizada cerca del ecuador. En septiembre de 2017, los científicos de la JAXA denominaron a este fenómeno \"jet ecuatorial venusiano\"."
+    }
+  ],
+  "num_palabras": 1083
+}

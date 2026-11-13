@@ -1,0 +1,73 @@
+{
+  "titulo": "Expedición 70",
+  "titulo_wikipedia_en": "Expedition 70",
+  "fecha_lanzamiento": "2023-09-27",
+  "año_lanzamiento": 2023,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Expedición_70",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Finalizada",
+    "Tipo de misión": "Misión de larga duración a la ISS",
+    "Operador": "NASA / Roscosmos",
+    "Duración planificada": "180 días",
+    "Estación espacial": "Estación Espacial Internacional",
+    "Fecha de inicio": "27 de septiembre de 2023, 07:54 UTC",
+    "Fecha de fin": "6 de abril de 2024, 03:53 UTC",
+    "Nave de llegada": "Axiom Mission 3\nSpaceX Crew-8\nSoyuz MS-25",
+    "Nave de regreso": "Soyuz MS-23\nAxiom Mission 3\nSpaceX Crew-7\nSoyuz MS-24",
+    "Programa": "Programa de la ISS",
+    "Misión anterior": "Expedición 69",
+    "Misión siguiente": "Expedición 71"
+  },
+  "resumen": "La Expedición 70 fue la 70.ª misión de larga duración a la Estación Espacial Internacional. La misión comenzó oficialmente el 27 de septiembre de 2023, con la partida de la Soyuz MS-23 formada por 7 miembros permanentes de las tripulaciones de la SpaceX Crew-7 y la Soyuz MS-24. y terminó el 6 de abril de 2024 con la marcha de la Soyuz MS-24 dando por finalizada tanto la expedición como la visita Ep-21 a la ISS de la primera ciudadana de Bielorrusia que llegó en la Soyuz MS-25 el 23 de marzo de 2024.",
+  "secciones": [
+    {
+      "titulo": "Misión",
+      "nivel": 2,
+      "texto": "El astronauta europeo Andreas Mogensen participa en su segunda misión europea Huginn.\nEl otro miembro europeo que llegó en la misión Axiom Mission 3 el 20 de enero es un miembro de la cuarta promoción de reserva de la ESA del EAC, Marcus Wandt en colaboración con La Agencia Espacial Nacional Sueca (SNSA). Esta segunda misión europea recibió el nombre de Muninn, ya que las dos misiones que se realizaran a la vez en el espacio en 2024 por un astronauta danés y otro sueco, reciben sus nombres de los 2 cuervos de Odín, de la mitología escandinava.\nAdemás Mogensen fue el comandante de la Expedición 70 hasta su marcha en marzo de 2024."
+    },
+    {
+      "titulo": "Fuga Refrigerante Radiador MOD. Nauka",
+      "nivel": 3,
+      "texto": "El día 9 de octubre de 2023 un radiador de respaldo en el Módulo laboratorio multipropósito Nauka (MLM) del segmento ROS de la ISS, sufrió una fuga de refrigerante del circuito externo. El radiador averiado, fue entregado a la estación espacial en el módulo Rassvet durante la misión del transbordador espacial STS-132 en 2010. Fue transferido al Mod. Nauka durante la salida espacial N.º 56 del segmento ROS en abril de 2023 en la Expedición 69.\nEl radiador principal de Nauka continuó funcionando normalmente, proporcionando enfriamiento completo al módulo sin impacto para la tripulación ni para las operaciones de la estación espacial, aunque por seguridad se aplazaron las dos salidas espaciales del segmento de EEUU de la ISS, inicialmente previstas para los días 12 y 20 de octubre y se suspendieron hasta que se complete la revisión de los datos y videos asociados con la fuga de refrigerante."
+    },
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Tripulación de la Expedición",
+      "nivel": 3,
+      "texto": "El 27 de agosto, hacia el final de la expedición Expedición 69 llegó la SpaceX Crew-7, con su tripulación, que formó parte del último mes de la expedición, con la tripulación de relevo de la misión SpaceX Crew-6, que regresó a tierra el 4 de septiembre, después de casi 186 días en el espacio.\nEl 15 de septiembre llegó la Soyuz MS-24, con la que hubiera sido la tripulación original de la Soyuz MS-23, y parte de la expedición anterior, los cosmonautas, Nikolai Chub y Oleg Kononenko, que fue el comandante de la expedición desde marzo de 2024 y de la siguiente Expedición 71, junto a la astronauta de la NASA Loral O'Hara, quien se intercambió con el cosmonauta Andrey Fedyaev que viajó en la SpaceX Crew-6 como parte del intercambio de tripulaciones de NASA y Roscosmos. Realizaron el relevo con la tripulación de la Soyuz MS-23 que regreso a la tierra el día 27 de septiembre, y finalmente formaron la tripulación permanente de la Expedición 70 junto con los miembros de la SpaceX Crew-7, la astronauta de la NASA, Jasmin Moghbeli, el astronauta de la ESA, Andreas Mogensen, de Dinamarca, que fue el comandante de la expedición hasta su marcha en marzo de 2024, el astronauta de JAXA, Satoshi Furukawa y el cosmonauta Konstantin Borisov, que fue asignado con motivo del intercambio de tripulación entre la NASA y Roscosmos en junio de 2023."
+    },
+    {
+      "titulo": "Tripulación visitante AX-3",
+      "nivel": 3,
+      "texto": "Es la tercera misión turística realizada en una nave Crew Dragon por la empresa Axiom Space, a la\nISS prevista para su lanzamiento el día 10 de enero de 2024 y que finalmente se realizó el 18 de enero de 2024. Se espera que la misión estará unos 14 días acoplada a la ISS. Será el cuarto vuelo dedicado enteramente al turismo espacial después de la Soyuz MS-20 en diciembre de 2021 y de las misión AX-1 en abril de 2022 y AX-2 en mayo del 2023. Este será el tercero de un contrato de 4 vuelos que la compañía estadounidense Axiom Space consiguió en 2021, en los que un astronauta profesional de la empresa volará con tres clientes a la ISS a bordo de las naves Dragon 2 ó CST-100 Starliner.\nEn esta misión viajó el astronauta Miguel López-Alegría, ex-astronauta de la NASA, como astronauta profesional de Axiom y comandante de la misión, un piloto de la Fuerza Aérea Italiana, Walter Villadei que ha entrenado con Axiom Space y en agosto de 2023, ya volo en un vuelo suborbital de Virgin Galactic, el Unity 23. El vuelo además incluye al primer astronauta de Turquía, Alper Gezeravci, de la Agencia Espacial Turca, y su reserva Tuva Cihangir Atasever que fueron anunciados en mayo de 2023. El cuarto miembre de la tripulación será Marcus Wandt, que ha sido elegido en colaboración de la ESA con La Agencia Espacial Nacional Sueca (SNSA) para realizar esta misión. La misión regreso después de 22 días en el espacio, el 9 de febrero de 2024, debido a retrasos en su vuelta por mala climatología en la zona de amerizaje."
+    },
+    {
+      "titulo": "Operaciones",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Acoplamiento/Desacoplamiento de naves",
+      "nivel": 3,
+      "texto": "La Expedición 70 comenzó oficialmente el 27 de septiembre de 2023 con la partida de la Soyuz MS-23. Las naves acopladas antes de esta fecha llegaron en expediciones anteriores.\nLa expedición terminó el 6 de abril de 2024 con la marcha de la Soyuz MS-24.\nLeyenda"
+    },
+    {
+      "titulo": "Actividad extravehicular",
+      "nivel": 3,
+      "texto": "En un principio se planificaron varias EVA,s para la Expedición 70 en el año 2023 y 2024. Dos desde el segmento ROS, y otras dos en el Segmento Orbital Americano.\nDespués de la fuga de refrigerante del día 9 de octubre del radiador de respaldo del Mod. Nauka, la NASA decidió posponer sus dos salidas a los días 19 y 30 de octubre. Posteriormente la NASA, volvió a aplazar la salida extravehicular de los astronautas Andreas Mogensen y Loral O'Hara del día 16 de octubre, ya que sus tareas durante la caminata espacial no eran urgentes a finales del año 2023, siendo finalmente pospuesta indefinidamente. Si que se realizó la otra salida planificada por la NASA con las astronautas Loral O'Hara y Jasmin Moghbeli como protagonistas, el día 1 de noviembre de 2023 para realizar el cambio de unos rodillos de rotación de un panel solar.\nFinalmente desde el segmento ROS, solo se realizó una de las dos salidas extravehiculares planificadas, realizada por los cosmonautas Oleg Kononenko y Nikolai Chub para diversas tareas de mantenimiento e instalar nuevo hardware y despliegue del nanosatélite Parus-MGTU. Adicionalmente también examinaron y fotografiaron la fuga del radiador del Mod. Nauka. La segunda salida planificada se realizó a principios de la siguiente Expedición 71."
+    }
+  ],
+  "num_palabras": 1119
+}

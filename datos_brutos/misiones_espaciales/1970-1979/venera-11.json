@@ -1,0 +1,29 @@
+{
+  "titulo": "Venera 11",
+  "titulo_wikipedia_en": "Venera 11",
+  "fecha_lanzamiento": "1978-09-09",
+  "año_lanzamiento": 1978,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración de Venus",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Venera_11",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "ID COSPAR": "1978-084A\n1978-084D",
+    "Nº SATCAT": "11020\n11027"
+  },
+  "resumen": "La Venera 11 (en ruso: Венера-11 es decir, Venus 11) fue una misión espacial soviética no tripulada que formaba parte del programa Venera para explorar el planeta Venus. La Venera 11 se lanzó el 9 de septiembre de 1978 a las 03:25:39 UTC.\nAl separarse de su plataforma de vuelo el 23 de diciembre de 1978, el módulo de aterrizaje entró en la atmósfera de Venus dos días después, el 25 de diciembre a las 11.2 km/s Durante el descenso empleó una frenada aerodinámica seguida de una frenada en paracaídas y finalizó con una frenada atmosférica. Hizo un aterrizaje suave en la superficie a las 06:24 hora de Moscú (03:24 UT) el 25 de diciembre después de un tiempo de descenso de aproximadamente 1 hora. La velocidad de touchdown fue de 7 a 8 metros/segundo. La información se transmitió a la plataforma de vuelo para su retransmisión a tierra hasta que se salió del rango 95 minutos después del aterrizaje.",
+  "secciones": [
+    {
+      "titulo": "Plataforma de vuelo",
+      "nivel": 2,
+      "texto": "Después de la expulsión de la sonda de aterrizaje, la plataforma de vuelo continuó pasando Venus en una órbita heliocéntrica. El encuentro cercano con Venus ocurrió el 25 de diciembre de 1978, aproximadamente a los 35,000 km de altitud. La plataforma de vuelo actuó como un transmisor de datos para la nave de descenso durante 95 minutos hasta que voló fuera de alcance y devolvió sus propias medidas en el espacio interplanetario.\nLa plataforma de vuelo Venera 11 llevaba detectores de viento solar, instrumentos electrónicos de ionosfera y dos detectores de estallidos de rayos gamma : el KONUS de fabricación soviética y el SIGNE 2 de fabricación francesa. Los detectores SIGNE 2 volaron simultáneamente en Venera 12 y Prognoz 7 para permitir la triangulación de fuentes de rayos gamma. Antes y después del sobrevuelo de Venus, Venera 11 y Venera 12 arrojaron perfiles de tiempo detallados para 143 estallidos de rayos gamma, lo que resultó en el primer catálogo de tales eventos. El último estallido de rayos gamma reportado por Venera 11 ocurrió el 27 de enero de 1980."
+    }
+  ],
+  "num_palabras": 339
+}

@@ -1,0 +1,32 @@
+{
+  "titulo": "Luna E-6 No.3",
+  "titulo_wikipedia_en": "Luna E-6 No.3",
+  "fecha_lanzamiento": "1963-02-03",
+  "año_lanzamiento": 1963,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración lunar"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Luna_E-6_No.3",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Tierras lunares",
+    "Operador": "Programa espacial soviético",
+    "Duración de la misión": "Falló a la órbita",
+    "Tipo de nave": "E-6",
+    "Fabricante": "OKB-1",
+    "Masa en el lanzamiento": "1422 kg",
+    "Fecha de lanzamiento": "3 de febrero de 1963, 09:29:14 HUC",
+    "Vehículo de lanzamiento": "Molniya-L 8K78/E6 s/n G103-10",
+    "Lugar de lanzamiento": "Baikonur 1/5",
+    "Programa": "Programa Luna",
+    "Misión anterior": "Sputnik 25",
+    "Misión siguiente": "Luna 4"
+  },
+  "resumen": "Luna E-6 No.3, también identificado como el número 2 y a veces por la NASA como Luna 1963B, era una nave espacial soviética que se perdió en un fallo de lanzamiento en 1963. Fue una nave espacial Luna E-6 de 1.422 kilogramos, la segunda de doce en ser lanzada, y la segunda falla consecutiva de lanzamiento. Se pretendía que fuera la primera nave espacial en realizar un aterrizaje suave en la Luna, un objetivo que eventualmente sería alcanzado por la nave espacial E-6 final, Luna 9.\nCon el fracaso del primer intento de E-6 el 4 de enero de 1963, la nave espacial de reserva y el impulsor G103-10 fueron apilados sobre LC-1 en Baikonur. Luna E-6 No.3 fue lanzada a las 09:26:14 UTC el 3 de febrero de 1963, sobre un cohete portador Molniya-L 8K78L, volando desde el Sitio 1/5 en el Cosmodrome de Baikonur. Esta vez la sonda ni siquiera llegó a la órbita--un mal funcionamiento ocurrió durante la quema de Blok I que resultó en el lanzamiento de nuevo en la atmósfera e impacto en el Océano Pacífico al oeste de Hawai. La zona de reentrada estaba dentro del alcance del radar de Estados Unidos e inmediatamente quedó claro que un objeto de algún tipo había sido lanzado desde la Unión Soviética, aunque Moscú solía proporcionar advertencias anticipadas para las pruebas ICBM que se lanzaban al océano, esto no se hacía para lanzamientos espaciales, y aunque la prensa occidental comenzó a informar de un fallido lanzamiento espacial soviético, los medios de comunicación estatales soviéticos se aferraron obstinadamente a su política de no anunciar misiones espaciales infructuosas a menos que fuera absolutamente necesario y el lanzamiento no fue reconocido oficialmente hasta la era glasnosta de finales de los años ochenta. La causa del fracaso se determinó rápidamente; los giroscopios en la etapa Blok I se habían alineado incorrectamente para que la trayectoria de vuelo estuviera dirigida a lanzarse al Océano Pacífico en lugar de a la órbita. La nave espacial no logró alcanzar la órbita, y volvió a entrar en la atmósfera sobre el Océano Pacífico. Antes de la publicación de información sobre su misión, la NASA identificó correctamente que había sido un intento de aterrizar una nave espacial en la Luna. Sin embargo, creían que el lanzamiento había tenido lugar el 2 de febrero.",
+  "secciones": [],
+  "num_palabras": 387
+}

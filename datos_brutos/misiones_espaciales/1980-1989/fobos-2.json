@@ -1,0 +1,51 @@
+{
+  "titulo": "Fobos 2",
+  "titulo_wikipedia_en": "Phobos 2",
+  "fecha_lanzamiento": "1988-07-12",
+  "año_lanzamiento": 1988,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración de Marte",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Fobos_2",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {},
+  "resumen": "Fobos 2 (en Ruso, \"Фобос-2\" también conocida como Phobos 2) fue la última sonda espacial diseñada por la Unión Soviética. Fue diseñado para explorar las lunas de Marte, Fobos y Deimos. Fue lanzado el 12 de julio de 1988 y entró en órbita el 29 de enero de 1989.\nFobos 2 operó nominalmente a lo largo de su crucero y fases de inserción orbital de Marte el 29 de enero de 1989, recopilando datos sobre el Sol, el medio interplanetario, Marte y Fobos. Fobos 2 investigó la superficie y la atmósfera de Marte y arrojó 37 imágenes de Fobos con una resolución de hasta 40 m.\nPoco antes de la fase final de la misión, durante la cual la nave espacial debía acercarse a 50 m de la superficie de Fobos y liberar dos módulos de aterrizaje (una tolva móvil y el otro, una plataforma estacionaria), se perdió el contacto con Fobos 2. La misión terminó cuando la señal de la nave espacial no pudo recuperarse con éxito el 27 de marzo de 1989. Se determinó que la causa del fallo era un mal funcionamiento de la computadora de a bordo.",
+  "secciones": [
+    {
+      "titulo": "Contexto",
+      "nivel": 2,
+      "texto": "La intención de llevar a cabo una misión con Fobos como objetivo se hizo pública por primera vez el 14 de noviembre de 1984. Fobos fue elegido como objetivo después para evitar competir directamente con misiones estadounidenses anteriores. Originalmente se planeó un lanzamiento en 1986, pero este último se trasladó a 1988."
+    },
+    {
+      "titulo": "Perfil de la misión",
+      "nivel": 2,
+      "texto": "Fobo 2 comenzó a desarrollar problemas durante la fase de vuelo interplanetario de la misión. Cuando la sonda alcanzó la órbita de Marte, dos de sus tres computadoras no funcionaban correctamente. Una de las computadoras estaba completamente muerta y la segunda comenzaba a funcionar mal. Dado que la sonda funcionaba en un sistema de sus computadoras votando sobre cualquier decisión, la única computadora en buen estado no podría controlar la nave porque no podría superar en votación a dos computadoras muertas. El transmisor de alta velocidad de la nave también había desarrollado problemas.\nFobos 2 llevó a cabo con éxito tres encuentros preliminares con Fobos durante los cuales se tomaron imágenes con la cámara videospectrométrica, el radiómetro y fotómetro combinados para Marte y el espectrómetro de imágenes para Marte."
+    },
+    {
+      "titulo": "Diseño de la nave espacial",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Instrumentos",
+      "nivel": 3,
+      "texto": "El espectrómetro infrarrojo Phobos 2 (ISM) obtuvo 45 000 espectros en el infrarrojo cercano (de 0,75 a 3,2 μm) en las áreas ecuatoriales de Marte, con una resolución espacial que va de 7 a 25 km, y 400 espectros de Fobos en resolución de 700 m. Estas observaciones permitieron recuperar los primeros mapas mineralógicos del planeta y su satélite y estudiar la atmósfera de Marte. ISM fue desarrollado en IAS y DESPA (Observatorio de París) con el apoyo del CNES.\nLista de instrumentos:\nSistema de imágenes de TV \"VSK\"\nMódulo de aterrizaje de salto PROP-F.\nEspectrómetro de fluorescencia de rayos X automático ARS-FP\nMagnetómetro ferroprobe\nSensor de susceptibilidad / permeabilidad magnética Kappameter\nGravímetro\nSensores de temperatura\nConductómetro / inclinómetro BISIN\nSensores mecánicos (penetrómetro, acelerómetro UIU, sensores en el mecanismo de salto)\nMódulo de aterrizaje \"DAS\" (estación autónoma de larga duración)\nCámara de televisión\nEspectrómetro de rayos X de protones alfa ALPHA-X\nSensor solar LIBRATION (también conocido como STENOPEE)\nSismómetro\nPenetrómetro de anclaje RAZREZ\nExperimento de mecánica celeste\nEspectrómetro / radiómetro térmico infrarrojo \"ISM\" - resolución de 1 ± 2 km\nEspectrómetro de imágenes de infrarrojo cercano\nCámara termográfica; magnetómetros\nEspectrómetros de rayos gamma\nTelescopio de rayos X\nDetectores de radiación\nAltímetros de radar y láser\nExperimento láser Lima-D: diseñado para vaporizar material de la superficie de Fobos para su análisis químico mediante un espectrómetro de masas\nExperimento Automático de Plasma Espacial con Analizador Giratorio (ASPERA), un espectrómetro de electrones y analizador de masas de iones del Instituto Sueco de Física Espacial."
+    },
+    {
+      "titulo": "Resultados",
+      "nivel": 2,
+      "texto": "La nave tomó 37 fotos de Fobos obteniendo imágenes de la mayor parte (80 %) de la Luna. El espectrómetro infrarrojo no encontró rastro de agua."
+    },
+    {
+      "titulo": "Legado",
+      "nivel": 2,
+      "texto": "El diseño de Fobos se usó nuevamente para la misión Mars 96, que se retrasó mucho tiempo y terminó en falla cuando la cuarta etapa del vehículo de lanzamiento falló. Además, la misión Fobos-Grunt, también diseñada para explorar Fobos (satélite), terminó en un fracaso en 2011. Hasta ahora, no ha habido una sonda completamente exitosa a Fobos."
+    }
+  ],
+  "num_palabras": 706
+}

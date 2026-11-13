@@ -1,0 +1,31 @@
+{
+  "titulo": "Lunar Orbiter 5",
+  "titulo_wikipedia_en": "Lunar Orbiter 5",
+  "fecha_lanzamiento": "1967-08-01",
+  "año_lanzamiento": 1967,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración lunar",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Lunar_Orbiter_5",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Orbitador",
+    "Operador": "NASA",
+    "Fabricante": "Boeing",
+    "Fecha de lanzamiento": "1 de agosto de 1967",
+    "Vehículo de lanzamiento": "Atlas SLV-3 Agena-D",
+    "Duración de la misión": "183 días",
+    "ID NSSDC": "1967-075A",
+    "Masa en el lanzamiento": "385,6 kilogramos",
+    "Inclinación orbital": "85 grados",
+    "Datos interplanetarios": "tipo: orbitador | objeto: Luna"
+  },
+  "resumen": "El Lunar Orbiter 5 fue una misión de exploración lunar del 1 de agosto de 1967 al 31 de enero de 1968. Con ella, concluyó el programa de cartografiado con el 99,5% de la superficie completada. Envió 212 fotografías de la Luna de alta y media resolución. Documentó 36 zonas de interés, 5 de descenso para las misiones Apolo y toda la cara oculta de la Luna. El Lunar Orbiter 5 se estrelló contra la superficie lunar a 2,79° S, –83° O el 31 de enero de 1968. Estudiando los movimientos de esta sonda, se descubrieron las concentraciones de masa MASCONS de la Luna.",
+  "secciones": [],
+  "num_palabras": 104
+}

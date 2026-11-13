@@ -1,0 +1,20 @@
+{
+  "titulo": "Venera 2",
+  "titulo_wikipedia_en": "Venera 2",
+  "fecha_lanzamiento": "1965-11-12",
+  "año_lanzamiento": 1965,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración de Venus",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Venera_2",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {},
+  "resumen": "Lanzada el 12 de noviembre de 1965, la Venera 2 fue la segunda sonda del Programa Venera lanzada a Venus, llevando un sistema de televisión e instrumentos científicos. El 27 de febrero la nave pasó por Venus a una distancia de 24 000 km y entró en una órbita heliocéntrica. El sistema de la nave cesó de operar antes que el planeta fuera estudiado y retornara los datos a la Tierra.\nVenera 2 fue lanzada por un cohete portador Molniya, en el Cosmódromo de Baikonur. El lanzamiento se produjo a las 05:02 UTC del 12 de noviembre de 1965, con las primeras tres etapas de colocar a la nave espacial y a la etapa superior Blok-L en una órbita baja de la Tierra. Luego, la etapa Blok-L propulsó a Venera 2 en una órbita heliocéntrica con destino a Venus.\nLa nave espacial Venera 2 estaba equipada con cámaras, así como un magnetómetro, detectores de rayos X solares y cósmicos, detectores piezoeléctricos, trampas de iones, un contador Geiger y receptores para medir las emisiones de radio cósmicas. La nave hizo su aproximación más cercana a Venus a las 02:52 UTC del 27 de febrero de 1966, a una distancia de 24 000 kilómetros (15.000 millas).\nDurante el sobrevuelo, todos los instrumentos de Venera 2 fueron activados, lo que requiere que el contacto por radio con la nave espacial sea suspendido. La sonda estaba determinada a almacenar datos en grabadoras de a bordo, y luego transmitirlos a la Tierra una vez que se restablezca el contacto. Tras el sobrevuelo la nave espacial no logró restablecer la comunicación. Fue declarada perdida el 4 de marzo. Una investigación sobre el fallo determinó que la nave se había sobrecalentado debido a un mal funcionamiento del radiador.",
+  "secciones": [],
+  "num_palabras": 291
+}

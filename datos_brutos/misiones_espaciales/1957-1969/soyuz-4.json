@@ -1,0 +1,69 @@
+{
+  "titulo": "Soyuz 4",
+  "titulo_wikipedia_en": "Soyuz 4",
+  "fecha_lanzamiento": "1969-01-14",
+  "año_lanzamiento": 1969,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Soyuz_4",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Lugar de lanzamiento": "Baikonur 31/6",
+    "Masa en el lanzamiento": "6625 kg",
+    "Fecha de lanzamiento": "14 de enero de 1969",
+    "Nave": "Soyuz 4",
+    "Fecha de aterrizaje": "17 de enero de 1969",
+    "Duración de la misión": "2,97 días",
+    "Periodo orbital": "88.8 minutos",
+    "Órbitas completadas": "48",
+    "Apoapsis": "224 kilómetros (139 millas)",
+    "Periapsis": "213 kilómetros (132 millas)",
+    "Programa": "Programa Soyuz",
+    "Misión anterior": "Soyuz 3",
+    "Misión siguiente": "Soyuz 5"
+  },
+  "resumen": "Soyuz 4 (en ruso: Союз 4, Unión 4) fue una misión tripulada de una nave Soyuz 7K-OK lanzada el 14 de enero de 1969 desde el cosmódromo de Baikonur tras un retraso de un día, con el cosmonauta Vladímir Shatálov a bordo. Al final de la misión, y tras haberse acoplado con la Soyuz 5, la Soyuz 4 regresó con tres cosmonautas a tierra. Durante el primer intento descubrió, justo antes del lanzamiento, que el encendido de la cámara de televisión del interior de la nave cortaba las comunicaciones por radio y que la plataforma giroscópica de la Soyuz no funcionaba correctamente. Se decidió la reparación de la plataforma giroscópica, lo que llevó tres horas, pero el retraso implicaba que la reentrada, al final de la misión, se haría de noche sobre territorio soviético, lo cual fue considerado demasiado inseguro, procediéndose a la cancelación del lanzamiento ese día. Al día siguiente, 14 de enero, todos los sistemas funcionaron perfectamente, incluyendo la plataforma giroscópica y el sistema de televisión y radio.\nLa misión de Soyuz 4 se acopló con la Soyuz 5 (lanzada con tres cosmonautas a bordo). Este fue el primer acoplamiento de dos naves tripuladas en órbita. Además se realizó el primer intercambio de tripulación entre dos vehículos espaciales de la historia. La transferencia de tripulación se realizó desde la Soyuz 5 a la Soyuz 4. También se realizaron diversos experimentos biológicos y tecnológicos.\nLa Soyuz 4 reentró el 17 de enero de 1969 y fue recuperada sin problemas.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Durante el lanzamiento:\nVladímir Shatálov (Comandante)\nEn el aterrizaje:\nVladímir Shatálov (Comandante)\nAleksei Yeliseyev (Ingeniero de vuelo)\nYevgueni Jrunov (Especialista científico)"
+    },
+    {
+      "titulo": "Tripulación de respaldo",
+      "nivel": 2,
+      "texto": "Georgi Shonin"
+    },
+    {
+      "titulo": "Tripulación de reserva",
+      "nivel": 2,
+      "texto": "Georgiy Dobrovolskiy"
+    },
+    {
+      "titulo": "Parámetros de la misión",
+      "nivel": 2,
+      "texto": "Masa: 6625 kg\nPerigeo: 213 km\nApogeo: 224 km\nInclinación: 51.7°\nPeríodo: 88.8 min"
+    },
+    {
+      "titulo": "Caminata espacial",
+      "nivel": 3,
+      "texto": "Yeliseyev y Khrunov - EVA 1\nEVA 1 comienzo: 16 de enero de 1969, 12:43:00 UTC\nEVA 1 fin: 16 de enero 13:15 UTC\nDuración: 37 minutos"
+    },
+    {
+      "titulo": "Puntos destacados",
+      "nivel": 2,
+      "texto": "Las naves espaciales Soyuz 4 y 5 se acoplaron el 16 de enero y fue la primera vez que dos naves espaciales tripuladas se acoplaron (el Apolo 9 haría lo mismo en marzo del mismo año). Las dos embarcaciones solo tenían una sonda primitiva (Soyuz 4) y un ensamblaje de acoplamiento drogue (Soyuz 5). Todavía no se había desarrollado un túnel de conexión para el mecanismo de acoplamiento, lo que impedía una simple transferencia interna entre la nave. Esto requirió que los dos cosmonautas transfirieran a la caminata espacial de un vehículo a otro. A bordo de Soyuz 5, Yevgueni Jrunov y Aleksei Yeliseyev comenzaron inmediatamente a prepararse para su actividad extravehicular (EVA). Borís Volinov, que permanecería a bordo de Soyuz 5, los filmó vistiendo sus trajes espaciales Yastreb.\nEn su 35.ª revolución de la Tierra, los dos cosmonautas salieron de la nave espacial para la segunda caminata espacial soviética. Una de las líneas de Khrunov se enredó y accidentalmente cerró el vaso del ventilador de su traje. Esto distrajo a Yeliseyev que no configuró la cámara de película en el módulo orbital antes de salir de la nave espacial. Como tal, no hay película del EVA histórico, solo una transmisión de vídeo de baja calidad.\nUna hora más tarde, los dos fueron recibidos por Shatálov después de la represurización del módulo orbital Soyuz 4, que también actuó como una cámara estanca. Soyuz 4 y 5 se separaron después de 4 horas y 35 minutos atracados juntos. Soyuz 4 reingresó a la atmósfera y aterrizó a 100 kilómetros al suroeste de Karaganda el 17 de enero de 1969.\nLa misión demostró que era posible llevar a cabo las actividades que serían necesarias en un aterrizaje lunar soviético. El plan soviético exigía que un cosmonauta en solitario aterrizara en la luna, regresara a la órbita lunar y luego realizara un paseo espacial desde la nave de aterrizaje hasta la nave espacial en órbita después de atracar. Esto se debió a que no había un túnel interno entre las dos embarcaciones como sí se dispuso entre la nave Apolo CSM y el Módulo Lunar según el diseño de los estadounidenses.\nLa tripulación debía encontrarse con Leonid Brézhnev durante una fastuosa ceremonia en el Kremlin, pero esto fue evitado por un intento de asesinato del líder soviético. Un hombre disparó ocho veces sobre la caravana de vehículos pero apuntó al automóvil que contenía a Georgi Beregovoi, Alexei Leonov, Andrian Nikolayev y Valentina Tereshkova. Salieron ilesos, pero el coche de Brezhnev se vio obligado a dirigirse a un lugar distinto del que era esperado por las tripulaciones de los Soyuz 4/5."
+    },
+    {
+      "titulo": "Detalles de la EVA",
+      "nivel": 3,
+      "texto": "La misión de atraque tenía objetivos de EVA similares a los planeados para el Apolo 9. Soyuz 4 se lanzó primero, y fue el vehículo activo en el acoplamiento con Soyuz 5. La agencia de noticias TASS declaró que: \"se produjo un acoplamiento mecánico mutuo de las dos naves, y sus circuitos eléctricos quedaron conectados. Por lo tanto, la primera estación cósmica experimental del mundo con cuatro compartimentos para la tripulación se ensambló y comenzó a funcionar\". La misión ensayó elementos del plan de misión lunar tripulada de los soviéticos. La televisión de Moscú llevó en vivo los preparativos de EVA de los cosmonautas. Khrunov y Yeliseyev se pusieron sus trajes Yastreb (\"halcón\") en el módulo orbital Soyuz 5 con la ayuda del comandante Borís Volinov.\nEl diseño del traje Yastreb comenzó en 1965, poco después de la difícil EVA de Alexei Leonov, quien actuó como consultor para el proceso de diseño, que se completó en 1966. La fabricación y prueba del traje se produjo en 1967, pero el fatal accidente del Soyuz 1 en abril de ese año y las dificultades de acoplamiento en la misión conjunta Soyuz 2-Soyuz 3 retrasaron su uso en el espacio hasta Soyuz 4-Soyuz 5.\nPara evitar que el traje se hinchara, el Yastreb presentaba un sistema de articulación de poleas y cables. Anillos anchos de metal alrededor de la parte superior de la pieza inferior de lona de nailon gris sirvieron como anclajes para el sistema de articulación de la parte superior del cuerpo. El Yastreb tenía un sistema de soporte de vida regenerativo en una caja rectangular de metal blanco colocada en el pecho y el abdomen para facilitar el movimiento a través de las escotillas Soyuz.\nVolinov revisó los sistemas de comunicaciones y soporte de vida de Khrunov y Yeliseyev antes de volver al módulo de descenso, sellar la escotilla y despresurizar el módulo orbital. Khrunov salió primero, pasando al módulo orbital Soyuz 4 mientras la nave espacial atracada estaba fuera de contacto por radio con la Unión Soviética sobre Sudamérica. Yeliseyev pasó de un módulo a otro mientras la nave espacial estaba sobre la Unión Soviética. Cerraron la escotilla del módulo orbital Soyuz 4 detrás de ellos, a continuación el Comandante de la Soyuz 4, Vladímir Shatálov, cerró el módulo orbital y entró para ayudar a Khrunov y a Yeliseyev a salir de sus trajes. Los caminantes espaciales entregaron periódicos, cartas y telegramas impresos después de que Shatálov despegó para contribuir a probar que la transferencia se llevó a cabo."
+    }
+  ],
+  "num_palabras": 1173
+}

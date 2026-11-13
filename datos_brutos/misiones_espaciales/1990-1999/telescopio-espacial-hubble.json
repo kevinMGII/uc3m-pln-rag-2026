@@ -1,0 +1,111 @@
+{
+  "titulo": "Telescopio espacial Hubble",
+  "titulo_wikipedia_en": "Hubble Space Telescope",
+  "fecha_lanzamiento": "1990-04-24",
+  "año_lanzamiento": 1990,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada",
+    "Telescopio espacial",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Telescopio_espacial_Hubble",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Activo",
+    "Operador": "• NASA\n• ESA\n• STSI",
+    "Fabricante": "Lockheed (satélite)\nPerkinElmer (instrumentos ópticos)",
+    "Fecha de lanzamiento": "24 de abril de 1990",
+    "Lugar de lanzamiento": "Kennedy LC-39B",
+    "Vehículo de lanzamiento": "Transbordador espacial Discovery (STS-31)",
+    "Entrada en servicio": "20 de mayo de 1990",
+    "Duración de la misión": "transcurridos",
+    "ID COSPAR": "1990-037B",
+    "Propulsión": "6 pilas de níquel-hidrógeno (NiH), con capacidad equivalente a aprox. 22 baterías de automóvil promedio",
+    "Sistema de referencia orbital": "Geocéntrica",
+    "Régimen orbital": "Órbita terrestre baja casi circular",
+    "Excentricidad": "0.000283",
+    "Inclinación orbital": "28.47°",
+    "Órbita RAAN": "80.34°",
+    "Órbita arg periastro": "64.90°",
+    "Órbita anomalía media": "23.78°",
+    "Época": "15 de agosto de 2018",
+    "Instrumentos": "NICMOS Cámara y espectrómetro multiobjeto del infrarrojo cercano\nACS Cámara avanzada para sondeos (parcialmente estropeada)\nWFC3 Cámara de gran angular 3\nSTIS Espectrógrafo de imágenes del telescopio espacial\nCOS Espectrógrafo de orígenes cósmicos\nFGS Sensores de guiado fino",
+    "Tipo de telescopio": "Telescopio reflector Ritchey-Chrétien",
+    "Diámetro del telescopio": "2.4 m",
+    "Telescopio longitud focal": "57.6 m",
+    "Telescopio ratio focal": "f/24",
+    "Programa": "Grandes Observatorios",
+    "Misión siguiente": "Observatorio de rayos gamma Compton",
+    "Misión siguiente año": "1991",
+    "Tipo de fin de misión": "Reingreso",
+    "Fecha de reentrada": "entre 2030-2040"
+  },
+  "resumen": "El telescopio espacial Hubble (en inglés Hubble Space Telescope o HST por sus siglas), o simplemente Hubble, es uno de los telescopios espaciales más renombrados de la astronomía moderna que orbita en el exterior de la atmósfera terrestre, en órbita circular alrededor del planeta Tierra a aproximadamente 540 kilómetros sobre el nivel del mar, con un período orbital entre 96 y 97 minutos. Bautizado en honor del astrónomo Edwin Hubble, fue puesto en órbita el 24 de abril de 1990 en la misión STS-31 como un proyecto conjunto de la NASA y de la Agencia Espacial Europea (ESA), inaugurando el programa de Grandes Observatorios. El Hubble puede obtener imágenes con una resolución óptica angular mayor de 0,04 segundos de arco.\nLa ventaja de disponer de un telescopio más allá de la distorsión que produce la atmósfera terrestre se debe a que de esta manera se pueden eliminar los efectos de la turbulencia atmosférica. Además, la atmósfera absorbe significativamente la radiación electromagnética en ciertas longitudes de onda, especialmente en el infrarrojo, disminuyendo la calidad de las imágenes e imposibilitando la adquisición de espectros en ciertas bandas. Los telescopios terrestres se ven también afectados por factores meteorológicos (presencia de nubes) y por la contaminación lumínica generada por los grandes asentamientos urbanos, lo que reduce las posibilidades de ubicación de telescopios terrestres.\nUna de las características del Hubble era la posibilidad de ser visitado por astronautas en las llamadas misiones de servicio (SM, por sus siglas en inglés). Durante las misiones de servicio se podían arreglar elementos estropeados, instalar nuevos instrumentos y elevar la órbita del telescopio. Se llegaron a realizar cinco misiones de servicio (SM1, SM2, SM3A, SM3B y SM4). La última tuvo lugar en mayo de 2009 y en ella se produjo la mejora más drástica de la capacidad instrumental del Hubble, al instalarse dos nuevos instrumentos (WFC3 y COS), repararse otros dos (ACS y STIS) y mejorar otro más (FGS). Su sucesor científico es el telescopio espacial James Webb (JWST), que se lanzó en diciembre de 2021.",
+  "secciones": [
+    {
+      "titulo": "Descripción técnica",
+      "nivel": 2,
+      "texto": "El Hubble tiene una masa de en torno a 11 toneladas; es de forma cilíndrica, con una longitud de 13,2 m y un diámetro máximo de 4,2 m. El coste del Hubble ascendió (en 1990) a 2800 millones de dólares estadounidenses. Inicialmente un fallo en el pulido del espejo primario del telescopio fabricado por Perkin Elmer produjo imágenes ligeramente desenfocadas debido a que su borde exterior era más plano de lo esperado (solo cuatro centésimas de milímetro) causando aberraciones esféricas. Tras esta terrible negligencia se tuvo que esperar tres años para que un transbordador tripulado (STS-61) pudiera instalar un sistema de corrección óptica capaz de corregir el defecto del espejo primario, denominado COSTAR (COSTAR, iniciales en inglés de óptica correctora como reemplazo axial del telescopio espacial) alcanzándose las especificaciones de resolución inicialmente previstas.\nEl Hubble es un telescopio de tipo reflector y su espejo primario tiene un diámetro de 2,4 m. Para la exploración del cielo incorpora en la actualidad cuatro instrumentos con capacidad de obtener imágenes y espectros, un espectrógrafo y tres sensores de guiado fino que pueden actuar como interferómetros. Para la generación de electricidad se emplean dos paneles solares que alimentan las cámaras, los cuatro motores empleados para orientar y estabilizar el telescopio, los equipos de refrigeración de los instrumentos y la electrónica del telescopio. Así mismo, el Hubble dispone de baterías recargables a partir de los paneles solares que le permiten utilizar la electricidad almacenada cuando la Tierra eclipsa el Sol, o cuando la orientación de los paneles solares no es la apropiada."
+    },
+    {
+      "titulo": "Las misiones de servicio",
+      "nivel": 2,
+      "texto": "Ya desde su diseño, el Hubble se concibió como un telescopio espacial que podría ser visitado por el transbordador espacial. Las razones para esa capacidad son:\nPoder reparar elementos estropeados. El espacio es un entorno agresivo para un satélite debido al efecto sobre los elementos electrónicos de las partículas elementales cargadas que se desplazan a gran velocidad y a la posibilidad de impactos con micropartículas. Por ese motivo, estaba claro desde el principio que algunas partes del Hubble fallarían en un plazo no muy largo.\nInstalar nuevos instrumentos, ya sean instrumentos científicos u otras partes del telescopio. Dada la rápida evolución de la tecnología, los detectores u ordenadores (por poner dos ejemplos) disponibles durante la larga vida del telescopio son superiores a los que originalmente se instalaron antes de su lanzamiento. Las visitas del transbordador permite actualizar esos elementos y así mejorar la capacidad del Hubble.\nMantener la órbita del telescopio. Debido al rozamiento con la atmósfera (muy tenue, pero no inexistente a esa altura), el telescopio se frena muy lentamente y, como consecuencia de la atracción gravitatoria terrestre, pierde altura. Cada vez que el transbordador espacial lo visita, lo empuja a una órbita ligeramente más alta."
+    },
+    {
+      "titulo": "La primera misión de servicio (SM1)",
+      "nivel": 3,
+      "texto": "La primera misión de servicio se llevó a cabo con el transbordador Endeavour (STS-61) en diciembre de 1993 y tuvo una duración de diez días. El plan de la SM1 estuvo fuertemente condicionado por la aberración esférica detectada tres años antes en el espejo primario. Las dos reparaciones más importantes fueron la sustitución del Fotómetro de Alta Velocidad (HSP, por sus iniciales en inglés) por la óptica correctora COSTAR y la instalación de la Cámara Planetaria y de Gran Angular 2 (WFPC2) en el lugar de la cámara original (WFPC). El propósito de COSTAR era el conseguir el enfoque correcto de los otros tres instrumentos axiles originales del telescopio (la Cámara de Objetos Débiles o FOC, el Espectrógrafo de Objetos Débiles o FOS y el Espectrógrafo Goddard de Alta Resolución o GHRS). La WFPC2 ya incorporaba su propia corrección del efecto de la aberración esférica del espejo primario. Además, se instalaron dos nuevos paneles solares, cuatro giroscopios, dos unidades eléctricas de control, dos magnetómetros y un nuevo ordenador de a bordo. Por último, la órbita del HST fue elevada por primera vez desde su lanzamiento."
+    },
+    {
+      "titulo": "La segunda misión de servicio (SM2)",
+      "nivel": 3,
+      "texto": "La segunda misión de servicio se llevó a cabo con el transbordador Discovery (STS-82) en febrero de 1997. En ella se reemplazaron dos instrumentos preexistentes (el GHRS y el FOS) por otros dos nuevos, el Espectrógrafo de Imágenes del Telescopio Espacial (STIS) y la Cámara y Espectrómetro Multi-Objeto del Infrarrojo Cercano (NICMOS), se sustituyó un sistema de almacenamiento de datos en cinta por uno de estado sólido, se reparó el aislamiento térmico y se elevó la órbita del telescopio. El sistema de refrigeración de NICMOS no funcionó de la manera especificada y eso hizo que su vida útil se redujera de 4 años y medio a 2 años."
+    },
+    {
+      "titulo": "La tercera misión de servicio (SM3A)",
+      "nivel": 3,
+      "texto": "La tercera misión de servicio se llevó a cabo con el Transbordador espacial Discovery (STS-103) en diciembre de 1999."
+    },
+    {
+      "titulo": "La cuarta misión de servicio (SM3B)",
+      "nivel": 3,
+      "texto": "La cuarta misión de servicio se llevó a cabo con el transbordador Columbia (STS-109) en marzo de 2002."
+    },
+    {
+      "titulo": "La quinta misión de servicio (SM4)",
+      "nivel": 3,
+      "texto": "La quinta misión de servicio se llevó a cabo con el transbordador Atlantis (STS-125) en mayo de 2009. Esta fue la última misión de servicio y duró 11 días, participaron en ella siete tripulantes con el objetivo de reparar y añadir nuevos instrumentos al telescopio.\nEl 14 de junio de 2006 la cámara avanzada para sondeos (siglas en inglés, ACS), uno de los instrumentos considerados fundamentales en el telescopio, dejó de funcionar. La causa fue un excesivo voltaje en el circuito de alimentación principal que fue subsanada con la activación del sistema de respaldo. El 30 de junio la ACS volvió a funcionar correctamente. El 31 de octubre de 2006, el Administrador de la NASA (Michael D. Griffin) anunció la aprobación para una misión de mantenimiento. El 27 de enero de 2007, la ACS dejó de funcionar de nuevo debido a un cortocircuito en la misma. En principio, se pensó que el daño era irreversible para todos sus detectores (tres en total). El 19 de febrero de 2007, se consiguió revivir uno de ellos de forma remota (el SBC, Solar Blind Channel) y en la misión tripulada llevada a cabo en 2009 se consiguió reparar otro detector (el WFC, Wide Field Channel). No obstante, el tercer detector (el HRC, High-Resolution Channel) continua inoperativo.\nEsta misión de 11 días de duración entrañó la instalación de nuevas baterías, de la tercera cámara de gran angular (WFC3) y de un nuevo espectrógrafo (COS), así como la reparación de los giróscopos, del ACS y del STIS.\nCon esta quinta misión finalizada, está previsto que el Hubble alcance el final de su vida útil. Actualmente, la fecha exacta del fin del Hubble es incierta, ya que depende de la vida de los giróscopos, baterías y el frenado atmosférico (corregible).\nEl 25 de diciembre de 2021, la NASA lanzó el telescopio espacial James Webb, un telescopio de nueva generación para observar en el infrarrojo cercano y medio. El James Webb se considera un complemento del Hubble, ya que observa en un rango distinto del espectro electromagnético."
+    },
+    {
+      "titulo": "Rescate por técnicos jubilados",
+      "nivel": 3,
+      "texto": "El 13 de junio de 2021, la computadora de carga útil del Hubble, que controla y coordina los instrumentos científicos a bordo del telescopio, falló repentinamente. Cuando la computadora principal dejó de recibir la señal de la computadora de carga útil, colocó automáticamente todos los instrumentos científicos del Hubble en modo reposo. Todos los intentos del equipo por reiniciar la computadora averiada a través de la computadora principal fracasaron. Si bien los componentes importantes del Hubble se instalaron por duplicado, por si acaso, la computadora de seguridad nunca se había utilizado desde el lanzamiento del telescopio, en 1990. Para estar seguros, Nzinga Tull, jefe del equipo de emergencia del Hubble, reunió a algunos antiguos empleados, ya que para reparar un telescopio construido en la década de 1980, se necesitaron los conocimientos de los empleados de toda la historia del Hubble. Los antiguos empleados que ya habían participado en la construcción del telescopio todavía estaban familiarizados con la antigua unidad de mando y procesamiento de datos de la computadora de carga útil. Otros jubilados de la NASA encontraron las pistas decisivas para el procedimiento correcto en documentos originales del Hubble que tenían entre 30 y 40 años de antigüedad.\nGracias al esfuerzo conjunto, la computadora de reserva se puso en marcha exitosamente el 15 de julio, tras una pausa forzada de cinco semanas. Dos días más tarde, los instrumentos volvieron a proporcionar fascinantes fotos de galaxias lejanas, comenzando por dos galaxias que se fusionan en Capricornio con tres brazos espirales. Así, el telescopio espacial volvió a estar en pleno funcionamiento gracias a la ayuda de los jubilados de la NASA."
+    },
+    {
+      "titulo": "Datos recogidos sobre el origen del universo",
+      "nivel": 2,
+      "texto": "El Hubble está logrando que los teóricos se replanteen algunas de sus ideas respecto a la edad del universo. De hecho, la idea actual se encuentra ante una paradoja. Los datos más recientes que ha proporcionado el Hubble, según Wilford, escritor de asuntos científicos del periódico The New York Times, «indican de manera convincente que el universo puede ser mucho más joven de lo que calculaban los científicos. Tal vez no tenga más de ocho mil millones de años», en vez de los cálculos anteriores, que le asignaban catorce mil millones aproximadamente. El problema radica en que «se da por seguro que algunas estrellas tienen unos doce mil millones de años»."
+    },
+    {
+      "titulo": "Imágenes enviadas",
+      "nivel": 2,
+      "texto": "No tardó en demostrarse que había valido la pena corregir el sistema óptico. En junio de 1994, la revista Time publicó que el Hubble había descubierto claros indicios en apoyo de la existencia de los agujeros negros. La NASA anunció que este había descubierto una nube de gases en forma de disco que gira a una vertiginosa velocidad. Se halla a unos 50 millones de años luz, en el centro de la galaxia M 87. Se dice que tiene una masa estimada de entre 2000 y 3000 millones de estrellas del tamaño del Sol, pero comprimidas en un espacio del tamaño del sistema solar. Los científicos calculan que el disco de gases tiene una temperatura de 10 000 grados Celsius. La única explicación que puede darse en la actualidad para este fenómeno es la existencia de una enorme fuerza gravitatoria ejercida por un mastodóntico agujero negro, en torno al cual da vueltas el disco.\nEl Hubble también envió imágenes extraordinarias del cometa Shoemaker-Levy 9 cuando este se dirigía en una trayectoria autodestructiva a Júpiter, donde se desintegró en julio de 1994. Las imágenes de las galaxias que envía el Hubble son de tal nitidez que un científico calificó así el trabajo: «Un ligero cambio en el espejo, un paso gigante en astronomía». Según la revista Investigación y Ciencia, en la actualidad «la resolución del Hubble duplica la del mejor instrumento instalado en Tierra, y gracias a ello puede observar con claridad un volumen de espacio mil veces mayor que otros telescopios»."
+    },
+    {
+      "titulo": "Agujeros negros",
+      "nivel": 2,
+      "texto": "La aguda visión del telescopio espacial Hubble ha desmitificado los misterios de los agujeros negros supermasivos, incluidas su abundancia e influencia en la evolución del universo. La teoría de la Relatividad General de Einstein describió las características de estos objetos colapsados por la gravedad. Su teoría demostraba un horizonte de sucesos que se tragaba a la luz lo que impedía a los telescopios mirar directamente a estos objetos de manera perenne.\nEl término \"agujero negro\" no fue adjudicado hasta sesenta años más tarde por el astrofísico John Wheeler. A principios de los años 1970s, el primer candidato a agujero negro fue Cygnus X-1, descubierto gracias a los rayos X provenientes de un material ultra caliente orbitando alrededor del agujero negro y en órbita alrededor de una estrella. El agujero negro es quince veces más masivo que nuestro sol.\nEn la primera mitad de la década de 1990 el Hubble comenzó a entregar evidencias de la existencia de agujeros negros masivos que pesan miles de millones de masas solares. El más masivo conocido a la fecha es el TON 618, con 66 mil millones de masas solares. Gracias a la habilidad del Hubble para discernir objetos opacos en medio del brillo de la vecindad estelar, el telescopio espacial logró observaciones definitivas de que los quasares (objetos muy distantes y compactos que emiten intensa radiación) habitan en núcleos de galaxias. Estas galaxias son inundadas por el brillo que emiten los quasares. El Hubble reveló que la mayoría de las galaxias que colisionan con otras galaxias en un violento proceso dan nacimiento, de acuerdo a la teoría, a agujeros negros centrales. Envuelto de gas, el agujero negro pierde parte de su material en forma de chorros de plasma que se disparan desde el centro de una galaxia, evento que fue efectivamente resuelto por el Hubble.\nPosteriormente el Hubble reforzó la idea de que agujeros negros supermasivos podían ser medidos, lo cual comprobaba las primeras observaciones de su existencia. En 1997 los astrónomos observaron el mini-cuásar más cercano, el núcleo brillante de una galaxia gigante elíptica, la M87. Los astrónomos utilizaron la espectroscopía (que divide la luz de las estrellas en diferentes colores) para “pesar” a un agujero negro y verificar si la cantidad de su masa invisible excedía a la masa atribuida a las estrellas. La espectrografía del Hubble cuantificó la velocidad del gas atrapado en el campo gravitacional del centro de un agujero negro. Las velocidades extremas indicaban la presencia de una masa ultracompacta que pudo ser explicada como un agujero negro.\nLos astrofísicos utilizaron las velocidades en las que las estrellas y el gas gravitan alrededor de un agujero negro, para catalogarlos en galaxias activas y galaxias pasivas. Un censo del Hubble sobre las galaxias mostró que los agujeros negros supermasivos se encuentran por lo general en el centro de las galaxias; el estudio sugiere que los agujeros negros están ligados al nacimiento y la evolución de las mismas. La idea fue reforzada gracias a las observaciones del Hubble: la masa de un agujero negro está relacionada con la masa total de la protuberancia de las estrellas en el núcleo de una galaxia. Cuanto más masiva sea la protuberancia estelar, más masivo es el agujero negro. Esta relación implica que existe un mecanismo de intercambio entre el crecimiento de una galaxia y su agujero negro central."
+    },
+    {
+      "titulo": "Cifras",
+      "nivel": 2,
+      "texto": "En el momento de ser lanzado era del tamaño de un vagón cisterna o de un edificio de cuatro pisos, de 13 metros de longitud y 4 de diámetro, y un peso superior a las 12 toneladas.\nLa cámara más sofisticada del telescopio espacial Hubble ha creado una imagen mosaico de un gran pedazo del cielo, que incluye al menos 10 000 galaxias.\nEl Hubble se encuentra a 593 km sobre nivel del mar.\nCon el telescopio Espacial Hubble se han observado aproximadamente un millón de objetos. En comparación, el ojo humano tan solo puede ver unas 6000 estrellas a simple vista.\nLas observaciones del HST, unas 500 000 fotografías, ocupan 1420 discos ópticos de 6,66 GB.\nEl Hubble orbita la Tierra a unos, dando una vuelta a nuestro planeta aproximadamente cada noventa y siete minutos.\nA pesar de la gran velocidad a la que orbita la Tierra, el telescopio es capaz de apuntar a un astro con enorme precisión (la desviación es inferior al grosor de un cabello humano visto a una distancia de un kilómetro y medio).\nEl Hubble tiene un índice con la posición detallada de quince millones de estrellas (catálogo o Hubble Guide Star Catalogue) que le permite apuntar con gran precisión a sus objetivos.\nLa distancia total que ha recorrido alrededor de la Tierra es de unos 3000 millones de kilómetros, superior a la que supondría hacer un viaje de ida a Neptuno.\nAstrónomos de más de cuarenta y cinco países han publicado los descubrimientos realizados con el Hubble en 4800 artículos científicos."
+    }
+  ],
+  "num_palabras": 2905
+}

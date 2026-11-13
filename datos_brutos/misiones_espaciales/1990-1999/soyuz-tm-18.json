@@ -1,0 +1,55 @@
+{
+  "titulo": "Soyuz TM-18",
+  "titulo_wikipedia_en": "Soyuz TM-18",
+  "fecha_lanzamiento": "1994-01-08",
+  "año_lanzamiento": 1994,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Soyuz_TM-18",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Transporte de la tripulación de Mir",
+    "Operador": "Rosaviakosmos",
+    "ID COSPAR": "1994-001A",
+    "Nº SATCAT": "22957",
+    "Duración de la misión": "182 días, 27 minutos, 1 segundo",
+    "Órbitas completadas": "~2,910",
+    "Nave": "Soyuz 7K-STM No. 67",
+    "Tipo de nave": "Soyuz-TM",
+    "Fabricante": "NPO Energia",
+    "Masa en el lanzamiento": "7150 kg",
+    "Fecha de lanzamiento": "8 de enero de 1994, 10:05:34 UTC",
+    "Vehículo de lanzamiento": "Soyuz-U2",
+    "Lugar de lanzamiento": "Baikonur 1/5",
+    "Fecha de aterrizaje": "9 de julio de 1994, 10:32:35 UTC",
+    "Lugar de aterrizaje": "110 km al norte de Arkalyk",
+    "Tripulación": "Viktor Afanasyev\nYury Usachov",
+    "Tripulación en el lanzamiento": "Valeri Polyakov",
+    "Indicativo": "| (Derbent)",
+    "Época": "7 de febrero de 1994390 km",
+    "Sistema de referencia orbital": "Geocéntrico",
+    "Régimen orbital": "Órbita terrestre baja",
+    "Periapsis": "384 km",
+    "Apoapsis": "390 km",
+    "Inclinación orbital": "51,6 grados",
+    "Periodo orbital": "92,29 minutos",
+    "Acoplamiento": "target de acoplamiento: Mir | tipo de acoplamiento: dock | puerto de acoplamiento: Kvant-1 aft | fecha de acoplamiento: 10 de enero de 1994, 11:50:20 UTC | fecha de acoplamiento: 9 de julio de 1994, 07:12:59 UTC",
+    "Misión anterior": "Soyuz TM-17",
+    "Misión siguiente": "Soyuz TM-19",
+    "Programa": "Programa Soyuz\n(Misiones decretadas)"
+  },
+  "resumen": "Soyuz TM-18 fue lanzado desde el cosmódromo de Baikonur y aterrizó 112 km al norte de Arkalyk. TM-18 fue un vuelo en solitario de dos días que atracó con la estación espacial Mir el 10 de enero de 1994. Los tres cosmonautas se convirtieron en la 15a tripulación residente a bordo de Mir. La tripulación realizó trabajos de investigación en medicina de vuelo espacial, principalmente por el cosmonauta Valeri Polyakov durante su vuelo a largo plazo, y realizó 25 experimentos diferentes.",
+  "secciones": [
+    {
+      "titulo": "Aspectos destacados de la misión",
+      "nivel": 2,
+      "texto": "18a expedición a Mir.\nAfanasyev y Usachev pasaron 179 días en Mir. El Dr. Polyakov estaba programado para\nvolver a la Tierra en Soyuz-TM 20 en marzo de 1995, después de más de 420 días en\nMir."
+    }
+  ],
+  "num_palabras": 118
+}

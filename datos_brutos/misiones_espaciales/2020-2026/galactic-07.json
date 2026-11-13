@@ -1,0 +1,41 @@
+{
+  "titulo": "Galactic 07",
+  "titulo_wikipedia_en": "Galactic 07",
+  "fecha_lanzamiento": "2024-06-08",
+  "año_lanzamiento": 2024,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Galactic_07",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Vuelo espacial suborbital tripulado",
+    "Operador": "Virgen Galáctica",
+    "Duración de la misión": "14 min y 30 segundos",
+    "Apogeo suborbital": "87,5 km",
+    "Nave": "Unidad VSS",
+    "Tipo de nave": "SpaceShipDos",
+    "Fabricante": "Compañía de Naves Espaciales",
+    "Tripulación": "Nicola Pecile\nJameel Janjua\nTuva Cihangir Atasever\nGiorgio Manenti\nIrving Pergament\nAndy Sadhwani",
+    "Fecha de lanzamiento": "8 de junio de 2024, 15:26:30 UTC",
+    "Lugar de lanzamiento": "Autopista del puerto espacial América 34",
+    "Desplegado desde": "VMS Eve",
+    "Lugar de aterrizaje": "Autopista del puerto espacial América 34",
+    "Fecha de aterrizaje": "8 de junio de 2024, 15:41 UTC",
+    "Programa": "VSS Vuelos espaciales de la Unidad",
+    "Misión anterior": "Galáctico 06"
+  },
+  "resumen": "Galáctica 07 fue un vuelo espacial suborbital tripulado del SpaceShip de dos clases VSS Unity, que se lanzó el 8 de junio de 2024. Fue el lanzamiento final de la Unidad.\nFue el séptimo vuelo espacial comercial y el duodécimo vuelo espacial general de la compañía aeroespacial estadounidense Virgin Galactica.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "La tripulación de Galáctica 07 incluyó cuatro pasajeros privados y dos empleados de Virgin Galáctica."
+    }
+  ],
+  "num_palabras": 65
+}

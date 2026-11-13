@@ -1,0 +1,34 @@
+{
+  "titulo": "Soyuz TMA-15",
+  "titulo_wikipedia_en": "Soyuz TMA-15",
+  "fecha_lanzamiento": "2009-05-27",
+  "año_lanzamiento": 2009,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Soyuz_TMA-15",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Indicativo": "Таймыр (Taymyr) o\nПарус (Parus, que significa Vela)",
+    "Vehículo de lanzamiento": "Soyuz-FG, Gagarin's Start, Cosmódromo de Baikonur",
+    "Fecha de lanzamiento": "17 de mayo de 2009 10:34 UTC",
+    "Nave": "Soyuz-TMA",
+    "Fecha de aterrizaje": "1 de diciembre de 2009 07:17 UTC",
+    "Programa": "Programa Soyuz",
+    "Misión anterior": "Soyuz TMA-14",
+    "Misión siguiente": "Soyuz TMA-16"
+  },
+  "resumen": "Soyuz TMA-15 fue un vuelo espacial tripulado a la Estación Espacial Internacional como parte del programa Soyuz, estuvo integrado por tres miembros en tripulación. TMA-15 fue el 102.º vuelo de una nave espacial Soyuz, desde el Soyuz 1 en 1967. La nave espacial Soyuz permaneció acoplada a la estación espacial durante la Expedición 20 y la Expedición 21 como un vehículo de escape de emergencia, en caso de ser necesario.\nFue lanzado con éxito por un Soyuz-FG cohete portador de Sitio 1/5 en el cosmódromo de Baikonur en Kazajistán. El lanzamiento se produjo a las 10:34 GMT el 27 de mayo de 2009. Aterrizó el 1 de diciembre de 2009.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Roman Romanenko (1) – Comandante – RSA\nFrank De Winne (2) – Ingeniero de vuelo 1 – ESA –\nRobert Thirsk (2) – Ingeniero de vuelo 2 – CSA"
+    }
+  ],
+  "num_palabras": 139
+}

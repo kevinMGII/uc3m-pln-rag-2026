@@ -1,0 +1,56 @@
+{
+  "titulo": "ICUBE-Q",
+  "titulo_wikipedia_en": "ICUBE-Q",
+  "fecha_lanzamiento": "2024-05-03",
+  "año_lanzamiento": 2024,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración lunar",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/ICUBE-Q",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Orbiter Lunar",
+    "Operador": "SUPARCO",
+    "ID COSPAR": "2024-083C",
+    "Duración de la misión": "2 a 6 meses",
+    "Tipo de nave": "CubeSat; Nanosatélite",
+    "Fabricante": "Instituto de Tecnología Espacial; Universidad de Shanghai Jiao Tong",
+    "Masa en el lanzamiento": "9,0 kg",
+    "Masa en seco": "6,5 kg",
+    "Potencia": "139,2 vatios",
+    "Fecha de lanzamiento": "3 de mayo de 2024\n09:27 UTC",
+    "Vehículo de lanzamiento": "Largo 5 de marzo Y8",
+    "Lugar de lanzamiento": "Wenchang, China",
+    "Desplegado desde": "Chang'e 6 Orbiter",
+    "Fecha de despliegue": "8 de mayo de 2024, 08:14 UTC",
+    "Sistema de referencia orbital": "Selenocéntrico",
+    "Periapsis": "200 km",
+    "Apoapsis": "8600 km",
+    "Periodo orbital": "720 minutos",
+    "Instrumentos": "2 Cámaras de un mega píxeles (1280 × 720) montadas en paneles X opuestos"
+  },
+  "resumen": "ICUBE-Q o ICUBE-QAMAR (Urdu: آئی کیوب-قمر) fue un nanosatélite pakistaní de teleobservación y una de las cuatro cargas útiles internacionales de la misión de retorno de muestras lunares Chang'e 6. Fue una empresa conjunta entre el Instituto de Tecnología Espacial (IST), la Comisión de Investigaciones Espaciales y de la Alta Atmósfera (SUPARCO) y el Centro de Tecnología Inteligente por Satélite de la Universidad de Shanghai Jiao Tong (SJTU), en el marco de la Organización de Cooperación Espacial de Asia y el Pacífico (APSCO). Fue la primera misión en el espacio profundo de Pakistán.",
+  "secciones": [
+    {
+      "titulo": "Sinopsis",
+      "nivel": 2,
+      "texto": "En 2019, la Administración Nacional del Espacio de China (CNSA) anunció oportunidades para cargas útiles en su próxima misión lunar de retorno de muestras de Chang'e 6; la agencia espacial tenía una ranura para cargas útiles de menos de 10 kg en su nave espacial en órbita. La CNSA anunció en 2022 que llevará instrumentos científicos de Francia, Italia y Suecia en el aterrizaje de la misión Chang'e-6 junto con una carga útil paquistaní en el orbitador. El Instituto Paquistaní de Tecnología Espacial (IST) ha respondido a la llamada con una propuesta de un CubeSat lunar llamado \"ICUBE-Qamar\" (ICUBE-Q) y fue seleccionado después de una evaluación rigurosa. El diseño y desarrollo de ICUBE-Q fue un esfuerzo de colaboración entre el Instituto de Tecnología Espacial (IST), la agencia espacial nacional de Pakistán SUPARCO, y la Universidad China de Shanghai Jiao Tong (SJTU). IST ha desarrollado varios CubeSat en la misma serie de los cuales iCube-1 fue lanzado con éxito en 2013.\nEl diseño del satélite se llevó a cabo en el Space Systems Lab del Instituto de Tecnología Espacial. El desarrollo se llevó a cabo conjuntamente en el Centro de Tecnología Inteligente por Satélite de la Escuela de Aeronáutica y Astronáutica de la Universidad de Shanghai Jiao Tong. El satélite llamado localmente \"SJTU Siyuan 2\" tenía que integrar múltiples funciones dentro de un espacio y masa limitados, incluyendo el suministro de energía, sistemas de comunicación y el equipo de experimentos científicos. Para superar las perturbaciones gravitacionales, las fuertes exposiciones de radiación, las fluctuaciones de temperatura y la amenaza de polvo lunar, la nave espacial se incorporó con tecnología de fusión multisensor, blindaje multicapa y tecnología de control térmico avanzada para garantizar su funcionamiento estable. El SJTU había lanzado anteriormente su primer satélite estudiantil APSCO-SSS-2A (SJTU Siyuan 1) en colaboración con el Instituto de Tecnología Espacial del Pakistán (IST) en octubre de 2021."
+    },
+    {
+      "titulo": "Descripción",
+      "nivel": 2,
+      "texto": "El proyecto global consta de tres partes principales: el propio satélite, el mecanismo de separación (que incluye la caja de control de potencia) y el soporte de montaje. El algoritmo de diagnóstico de fallas en órbita permite al satélite detectar y diagnosticar automáticamente posibles fallas del sistema. La nave espacial también cuenta con una estrategia inteligente de programación de tareas.\nVida de diseño: 3 meses (previsto).\nMasa: todo el satélite pesa solo 6,5 kg (14 libras) y el peso total de carga alcanza los 9,0 kg (19,8 libras).\nComunicación: banda X para TT&C y transferencia de datos de imagen a una velocidad de datos de 1 kbit/s.\nPotencia: 12 V, 11.6 Ah Batería (139,2 vatios) con dos paneles solares desplegables.\nControl de Actitud: Control de tres ejes utilizando ruedas de reacción, sensores estelares y sensores solares.\nControl de temperatura: Sistemas de gestión térmica\nCarga útil: 2 cámaras de luz visibles de una mega resolución de píxeles (1280 × 720) montadas en paneles X opuestos (+/-).\nMaterial construido: Incorpora materiales avanzados como aleación de magnesio especial y fibra de carbono de panal de miel."
+    },
+    {
+      "titulo": "Resumen de la misión",
+      "nivel": 2,
+      "texto": "El ICUBE-Q se integró con el orbitador Chang'e 6 después de pruebas de calificación exitosas en SUPARCO y SJTU. El 3 de mayo de 2024 el satélite fue lanzado el 5 de marzo de Long Y8 desde el polígono de lanzamiento espacial Wenchang.\nEl satélite fue desplegado desde la pila de orbitadores lunares Chang'e 6 a las 08:14 UTC (13:14 PKT) el 8 de mayo de 2024 y había sido sometido a pruebas durante los primeros días con las primeras imágenes que se esperaban alrededor del 15-16 de mayo de 2024.\nLos objetivos de la misión incluyen la obtención de imágenes detalladas de la superficie lunar y el procesamiento inteligente de datos en órbita de las imágenes, la obtención de datos sobre campos magnéticos lunares y el establecimiento de un modelo de campo magnético lunar y la verificación de nuevas tecnologías, como las comunicaciones lunares en el espacio profundo a nivel de nanosatélites y la exploración en el espacio profundo de bajo costo basada en satélites micronano.\nEl satélite transmitió sus primeras imágenes a la Tierra el 11 de mayo de 2024, capturadas desde una distancia de 200 kilómetros desde la Luna.\nParece que Pakistán ha perdido contacto con ICUBE-Q desde el 1 de julio de 2024. Por información privilegiada, el satélite desarrolló múltiples problemas inmediatamente después de su lanzamiento."
+    }
+  ],
+  "num_palabras": 807
+}

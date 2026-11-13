@@ -1,0 +1,73 @@
+{
+  "titulo": "STS-67",
+  "titulo_wikipedia_en": "STS-67",
+  "fecha_lanzamiento": "1995-03-02",
+  "año_lanzamiento": 1995,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada",
+    "Telescopio espacial"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/STS-67",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Otros nombres": "Sistema de Transporte Espacial-67",
+    "Tipo de misión": "Astronomía",
+    "Operador": "NASA",
+    "Órbitas completadas": "262",
+    "Distancia recorrida": "11100000 km",
+    "Duración de la misión": "16 días, 15 horas, 8 minutos, 48 segundos",
+    "Masa de la carga útil": "13116 kg",
+    "Lugar de lanzamiento": "Kennedy, LC-39A",
+    "Fecha de lanzamiento": "2 de marzo de 1995, 06:38:13 UTC, 1:38:13 am EDT",
+    "Fecha de aterrizaje": "18 de marzo de 1995, 21:47:01 UTC, 1:47:01 pm PDT",
+    "Lugar de aterrizaje": "Edwards, Pista 22",
+    "Tripulación": "Stephen S. Oswald; William G. Gregory; John M. Grunsfeld; Wendy B. Lawrence; Tamara E. Jernigan; Samuel T. Durrance; Ronald A. Parise",
+    "Sistema de referencia orbital": "Geocéntrico",
+    "Régimen orbital": "Órbita terrestre baja",
+    "Periapsis": "305 km",
+    "Apoapsis": "305 km",
+    "Periodo orbital": "91,5 min",
+    "Inclinación orbital": "28,45 grados",
+    "Programa": "Programa de transporte espacial",
+    "Misión anterior": "STS-63 (67)",
+    "Misión siguiente": "STS-71 (69)"
+  },
+  "resumen": "STS-67 fue una misión humana de vuelos espaciales que fue lanzada desde el Kennedy Space Center, Florida, el 2 de marzo de 1995.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Aspectos destacados de la misión",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Experimentos de imágenes ultravioletas",
+      "nivel": 3,
+      "texto": "Astro-2 fue la segunda misión dedicada a Spacelab para realizar observaciones astronómicas en las regiones espectrales ultravioletas (la primera fue la misión Astro-1 que voló en STS-35). El Astro-2 Spacelab constaba de tres instrumentos únicos: el Telescopio Ultravioleta Hopkins (HUT), el Telescopio Ultravioleta de Imágenes (UIT) y el Experimento Fotopolimetral Ultravioleta de Wisconsin (WUPPE). Estos tomaron mediciones de objetos dentro del Sistema Solar, así como estrellas individuales, nebulosas, restos de supernovas, galaxias y objetos extragalácticos activos. Los datos complementaron los datos obtenidos de la misión Astro-1.\nEl propósito de la UIT era observar la radiación UV desde el espacio (la mayor parte de la radiación UV es absorbida por la atmósfera de la Tierra y no se puede estudiar desde el suelo). Los datos recogidos de la misión UIT Astro-1 proporcionaron el primer conocimiento preciso de los datos UV del universo. La UIT en el Astro-2 Spacelab fue capaz de capturar casi el doble del espectro UV de su predecesor. Como STS-67 se lanzó en una época del año diferente de STS-35, los datos fueron recolectados de porciones del cielo que Astro-1 no pudo ver."
+    },
+    {
+      "titulo": "Experimento de Control Activo de Middeck (MACE)",
+      "nivel": 3,
+      "texto": "En el Middeck, los experimentos científicos incluyeron el Sistema de Encierro Térmico de Crecimiento de Cristal de Proteína Vapor Diffusion Apparatus-03 (PCG-TES-03), el Sistema de Encierro Térmico Unico de Crecimiento de Cristal de Proteína-02 (PCG-STES-02), el Experimento de Radio Amateur de Shuttle-II (SAREX-II), el Experimento de Control Activo de Middeck (MACE), la Tecnología de Instrumentación de Aparato de Dispersión de Materiales Comerciales Asocia Experimentos-03 (CMIX-03) y el Experimento Espacial de Midcourse (MSX).\nEl Experimento de Control Activo de Middeck (MACE) fue una carga útil y actividad de investigación de ingeniería espacial. Consistió en un giroscopio de velocidad, ruedas de reacción, una carga útil de precisión apuntando, y una carga útil de barrido y apuntando que produce perturbaciones de movimiento. El objetivo del experimento era probar un sistema de control de bucle cerrado que pudiera compensar las perturbaciones de movimiento. En órbita, Comandante Stephen S. Oswald y el piloto William G. Gregory usó MACE para probar unas 200 situaciones de perturbación de movimiento diferentes durante 45 horas de pruebas durante la misión. La información de MACE se utilizaría para diseñar mejores sistemas de control que compensen el movimiento en naves espaciales futuras."
+    },
+    {
+      "titulo": "Escapada Cargas útiles especiales",
+      "nivel": 2,
+      "texto": "Dos cargas útiles Get Away Special (GAS) también estaban a bordo. Eran los botes G-387 y G-388. Este experimento fue patrocinado por la Oficina Espacial Australiana y AUSPACE ltd. Los objetivos eran hacer observaciones ultravioletas del espacio profundo o galaxias cercanas. Estas observaciones se realizaron para estudiar la estructura de los restos de supernova galáctica, la distribución de gas caliente en las Nubes Magallánicas, la emisión de halo galáctico caliente y la emisión asociada con flujos de enfriamiento galáctico y chorros. Los dos botes GAS estaban interconectados con un cable. El envase 1 tenía un conjunto de puertas motorizadas que exponía un telescopio UV al espacio cuando se abría. Los filtros reflectantes UV en los telescopios ópticos determinan su banda UV. El envase 2 contenía dos grabadoras de vídeo para almacenamiento de datos y baterías para proporcionar energía de experimento. Fue el vuelo más largo del transbordador espacial Endeavour y el vuelo más largo en general que no fue volado por Columbia."
+    },
+    {
+      "titulo": "Mission insignia",
+      "nivel": 2,
+      "texto": "La galaxia espiral, Júpiter, y las cuatro lunas (un total de seis objetos espaciales) así como las siete estrellas de la insignia simbolizan la designación numérica del vuelo en la secuencia de misión del Sistema de Transporte Espacial. Endeavour, con ASTRO-2, se está acelerando."
+    }
+  ],
+  "num_palabras": 605
+}

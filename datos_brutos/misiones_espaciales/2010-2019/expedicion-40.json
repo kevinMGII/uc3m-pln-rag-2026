@@ -1,0 +1,35 @@
+{
+  "titulo": "Expedición 40",
+  "titulo_wikipedia_en": "Expedition 40",
+  "fecha_lanzamiento": "2014-05-13",
+  "año_lanzamiento": 2014,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Expedición_40",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Fecha de inicio": "13 de mayo de 2014 UTC",
+    "Fecha de fin": "10 de septiembre de 2014 UTC",
+    "Misión anterior": "Expedición 39",
+    "Misión siguiente": "Expedición 41",
+    "Nave de llegada": "Soyuz TMA-12M\nSoyuz TMA-13M",
+    "Nave de regreso": "Soyuz TMA-12M\nSoyuz TMA-13M",
+    "Programa": "Programa de la ISS",
+    "Estación espacial": "Estación Espacial Internacional",
+    "Tipo de misión": "Expedición a la ISS"
+  },
+  "resumen": "La Expedición 40 fue la 40.ª estancia de larga duración en la Estación Espacial Internacional. Una parte de la tripulación de la Expedición 39 fue transferida a la Expedición 40 mientras que el resto de la tripulación fue enviada el 28 de mayo de 2014 desde el Cosmódromo de Baikonur en Kazajistán.\nUna vez alcanzada la órbita, aproximadamente nueve minutos después del lanzamiento, la Soyuz TMA-13M que enviaba al resto de la tripulación realizó un encuentro espacial de cuatro órbitas con la Estación Espacial Internacional. La Soyuz TMA-13M se acopló posteriormente al módulo Rassvet de la ISS a las 1:44 horas UTC el 29 de mayo. Las escotillas fueron abiertas entre las dos naves unas dos horas más tarde a las 3:52 horas UTC. La expedición concluyó con el desacoplamiento de la Soyuz TMA-12M el 10 de septiembre de 2014. El resto de la tripulación de la Expedición 40 se unió a la Expedición 41.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Fuente ESA"
+    }
+  ],
+  "num_palabras": 157
+}

@@ -1,0 +1,35 @@
+{
+  "titulo": "Soyuz TMA-5",
+  "titulo_wikipedia_en": "Soyuz TMA-5",
+  "fecha_lanzamiento": "2004-10-14",
+  "año_lanzamiento": 2004,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Soyuz_TMA-5",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Órbitas completadas": "~2 900",
+    "Misión anterior": "Soyuz TMA-4",
+    "Programa": "Programa Soyuz",
+    "Misión siguiente": "Soyuz TMA-6"
+  },
+  "resumen": "Soyuz TMA-5 fue una misión espacial Soyuz (en ruso Союз ТМА-5) lanzada en 14 de octubre de 2004 en una Soyuz FG desde la Plataforma Gagarin del Cosmódromo de Baikonur, en Kazajistán. Fue el noveno vuelo de una Soyuz a la Estación Espacial Internacional. Transportó los integrantes de la Expedición 10.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Tripulación lanzada en la Soyuz TMA-5: (14 de octubre de 2004)\nSalijan Sharipov comandante\nLeroy Chiao ingeniero de vuelo\nYuri Shargin ingeniero de vuelo\nTripulación retornada en la Soyuz TMA-5: (24 de abril de 2005)\nSalijan Sharipov comandante\nLeroy Chiao ingeniero de vuelo\nRoberto Vittori ingeniero de vuelo\nAtraque con la ISS\nAtraque a la ISS: 16 de octubre de 2004, 04:15:32 UTC (al puerto nadir de Pirs)\nDesatraque de la ISS: 29 de noviembre de 2004, 09:29 UTC (del módulo Pirs)\nAtraque de la ISS: 29 de noviembre de 2004, 09:53 UTC (al puerto nadir de Zaryá)\nDesatraque de la ISS: 24 de abril de 2004, 18:44:40 UTC (del puerto nadir de Zaryá)"
+    },
+    {
+      "titulo": "Misión",
+      "nivel": 2,
+      "texto": "La tripulación de la Expedición 10, formada por Leroy Chiao de Estados Unidos y Salijan Sharipov de Rusia sustituyó al grupo de la Expedición 9, el cosmonauta Gennady Padalka y el astronauta Edward Fincke de Estados Unidos. Con ellos viajó en la misión el cosmonauta Yuri Shargin, que retornó después de ocho días.\nEl lanzamiento de la misión fue retrasado de la fecha de lanzamiento planeada, (9 de octubre de 2004). Durante la prueba antes del vuelo, un perno explosivo fue accidentalmente activado en la Soyuz TMA-5; los daños resultantes de esto fueron notados antes del lanzamiento.\nLa maniobra de acoplamiento de la Soyuz con la ISS tuvo que ser hecha manualmente, debido a que la aproximación realizada por el sistema automático era muy rápida. El desacoplamiento también fue hecho manualmente, como una medida de seguridad para economizar energía en una batería defectuosa.\nDespués de 193 días en la estación, el grupo retornó a la Tierra en un suave aterrizaje en el Kazajistán, junto con el italiano Roberto Vittori que había viajado con la Expedición 11 en la Soyuz TMA-6, el vuelo siguiente del programa espacial."
+    }
+  ],
+  "num_palabras": 351
+}

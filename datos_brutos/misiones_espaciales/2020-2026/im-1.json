@@ -1,0 +1,76 @@
+{
+  "titulo": "IM-1",
+  "titulo_wikipedia_en": "IM-1",
+  "fecha_lanzamiento": "2024-02-15",
+  "año_lanzamiento": 2024,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración lunar",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/IM-1",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {},
+  "resumen": "La misión IM-1 fue una misión lunar llevada a cabo conjuntamente por una asociación entre el programa Servicios de Carga Lunar Comercial (CLPS) de la NASA e Intuitive Machines (IM), utilizando un módulo de aterrizaje lunar Nova-C. IM nombró a su módulo de aterrizaje lunar como su módulo de aterrizaje Odysseus. Este módulo fue el primer módulo comercial que logró un alunizaje suave en la Luna.",
+  "secciones": [
+    {
+      "titulo": "Antecedentes",
+      "nivel": 2,
+      "texto": "El 11 de diciembre de 2017, la firma de la Directiva de Política Espacial 1 puso en marcha el retorno tripulado a la Luna. Extractos de documentos de la NASA obtenidos por The New York Times sugieren que la agencia daría prioridad al sector de los vuelos espaciales privados; En noviembre de 2018, la NASA anunció el programa Commercial Lunar Payload Services, seleccionando nueve empresas para desplegar cargas útiles para la agencia.\nEn mayo de 2019, la NASA anunció que Astrobotic Technology, Intuitive Machines y Orbit Beyond desarrollarían módulos de aterrizaje lunares, otorgando a Intuitive Machines 77 millones de dólares. Intuitive Machines recibió 118 millones de dólares para desarrollar el módulo de aterrizaje lunar Odiseo utilizado en la misión IM-1.\nEl 8 de enero de 2024, se lanzó Peregrine Mission One de Astrobotic Technology en un cohete Vulcan destinado a aterrizar en Gruithuisen Domes. Sin embargo, el aterrizaje fue abandonado después de que se observó un problema una pérdida crítica de combustible en el propulsor después del lanzamiento, lo que provocó que la nave espacial volviera a entrar en la atmósfera terrestre."
+    },
+    {
+      "titulo": "Equipamiento y carga de la misión",
+      "nivel": 2,
+      "texto": "Odiseo está equipado con seis instrumentos desarrollados por la NASA, incluido un conjunto de retrorreflectores láser, un dispositivo Lidar, una cámara estéreo, un receptor de radio de baja frecuencia, la baliza Lunar Node-1 y un instrumento para monitorear el combustible propulsor. Además, se incluyen a bordo una cámara construida por estudiantes de la Universidad Aeronáutica Embry-Riddle, Daytona Beach, un telescopio lunar y un proyecto de arte de Jeff Koons. Odiseo aterrizó en el cráter Malapert-A y permanecerá activo allí durante aproximadamente una semana, antes de que el Sol se ponga en el lugar de aterrizaje. El módulo de aterrizaje Odiseo no está diseñado para sobrevivir a la noche lunar, que dura unas dos semanas.\nEl módulo de aterrizaje lleva dentro de su carga útil la escultura Moon Phases de Jeff Koons. Esta es la segunda instalación escultórica que llega a la Luna desde que David Scott, del Apolo 15, colocó en la Luna la escultura El Astronauta Caído de Paul Van Hoeydonck en 1971. Koons describe las fases lunares como \"125 esculturas lunares en miniatura, cada una de aproximadamente una pulgada de diámetro\".\nSe incluyó en la carga un medidor de masa por radiofrecuencia (RFMG) para estimar cuánto propulsor está disponible durante la misión IM-1. Esta sería la primera prueba de larga duración de un RFMG en una nave espacial independiente."
+    },
+    {
+      "titulo": "Eventos de la misión",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Antes del lanzamiento",
+      "nivel": 3,
+      "texto": "El 31 de enero de 2024, la nave espacial Odiseo se encapsuló en el cofia del vehículo de lanzamiento Falcon 9 Block 5. El 13 de febrero, dos pruebas del sistema del vehículo, la carga del Odiseo con propulsores fueron un éxito e Intuitive Machines anunció que estaban listos para el lanzamiento."
+    },
+    {
+      "titulo": "Lanzamiento",
+      "nivel": 3,
+      "texto": "El vehículo de lanzamiento Falcon 9 Block 5, que transporta a Odiseo, despegó del Complejo de Lanzamiento 39A del Centro Espacial Kennedy a las 06:05 UTC del 15 de febrero de 2024. El lanzamiento originalmente planeado para el 13 de febrero, SpaceX pospuso el lanzamiento después de informar un problema técnico con el propulsor cargado en el módulo de aterrizaje."
+    },
+    {
+      "titulo": "Operaciones previas",
+      "nivel": 3,
+      "texto": "Después de la separación del vehículo de lanzamiento, el centro de operaciones de Nova Control estableció comunicación con el módulo de aterrizaje y realizó comprobaciones iniciales. Las imágenes capturadas por la nave espacial después de la separación del vehículo de lanzamiento se publicaron el 17 de febrero."
+    },
+    {
+      "titulo": "Maniobra de puesta en marcha",
+      "nivel": 3,
+      "texto": "Estuvo previsto que el módulo de aterrizaje realizase una “puesta en marcha” del motor principal el 15 de febrero. Trent Martin, vicepresidente de Sistemas Espaciales de IM, describió esto como un “paso crítico” para la misión. Después de informar problemas con el rastreador de estrellas IM-1 y ajustar el tiempo de enfriamiento de la línea de oxígeno líquido, IM informó una puesta en servicio exitosa el 16 de febrero. La maniobra del módulo de aterrizaje se realizó a la velocidad de 21 m/s."
+    },
+    {
+      "titulo": "Maniobras de corrección de trayectoria",
+      "nivel": 3,
+      "texto": "Intuitive Machines planeó hasta tres maniobras de ajuste de trayectoria durante la fase translunar de la misión. La primera se completó el 18 de febrero y tras la segunda maniobra el 20 de febrero no fue necesaria una tercera.\nEl 20 de febrero, la empresa informó que Odiseo había completado aproximadamente el 72% de su viaje a la superficie de la Luna."
+    },
+    {
+      "titulo": "Órbita lunar",
+      "nivel": 3,
+      "texto": "El módulo de aterrizaje Odiseo de Intuitive Machines realizó una maniobra programada de inserción en la órbita lunar (LOI) el 21 de febrero. La maniobra alteró la velocidad en 800 m/s. IM informó que la combustión de la LOI del motor principal de 408 segundos colocó al módulo de aterrizaje en una órbita lunar circular de 92 km. El 22 de febrero, IM indicó que se había llevado a cabo una \"maniobra de corrección lunar\" para elevar la órbita.\nLuego, el módulo de aterrizaje estuvo aproximadamente 24 horas orbitando la Luna antes de su descenso final a la superficie lunar el 22 de febrero.\nEn la mañana del 21 de febrero, IM informó que había completado con éxito su maniobra de inserción en la órbita lunar, que la trayectoria orbital lunar del módulo de aterrizaje Odiseo se estaba acercando a la órbita de descenso final y que la misión seguía en buen estado y según lo previsto para un aterrizaje lunar en 22 de febrero.\nMás tarde, el día 21 de febrero, el módulo de aterrizaje Odiseo envió imágenes de alta resolución de la superficie lunar. IM también ajustó los parámetros de combustión del descenso basándose en los datos de la combustión de inserción en la órbita lunar. IM informó que Odiseo seguía gozando de buena salud. IM calificó de \"desafío\" los riesgos asumidos durante la fase de alunizaje de la misión. En un informe posterior, el módulo de aterrizaje lunar estaba experimentando algunos problemas con el sistema de sensores, a medida que se acercaba su descenso a la superficie. Los equipos en tierra pudieron solucionar el problema reprogramando a Odiseo para que dependiera de una carga útil experimental de la NASA a bordo, el Navigation Doppler Lidar."
+    },
+    {
+      "titulo": "Una EagleCam graba el alunizaje",
+      "nivel": 3,
+      "texto": "Justo antes de aterrizar, aproximadamente a 30 metro sobre la superficie lunar, el módulo de aterrizaje Odiseo expulsó el CubeSat equipado con una cámara EagleCam, que cayó sobre la superficie lunar cerca del módulo de aterrizaje, con una velocidad de impacto de aproximadamente 10 m/s. Desde la superficie, la EagleCam intentaría capturar las primeras imágenes en tercera persona de un alunizaje. Las imágenes aún están por llegar. La EagleCam utilizó una conexión Wi-Fi con el módulo de aterrizaje Odiseo para transmitir sus imágenes a la Tierra."
+    },
+    {
+      "titulo": "Alunizaje",
+      "nivel": 3,
+      "texto": "En 2020 se especuló como posible lugar de aterrizaje preferible entre la llanura de Mare Serenitatis y la llanura de Mare Crisium. Más tarde se decidió que el polo sur de la Luna era uno de los lugares más probables para tener una fuente adecuada de agua para una futura base lunar tripulada.\nSe eligió la zona del cráter Malapert-A, a sólo 300 km del Polo Sur lunar, porque parecía ser un lugar relativamente plano y seguro para aterrizar cerca del Polo Sur lunar, entre otras consideraciones.\nDespués de realizar pruebas de prealunizaje, Odiseo comenzó su secuencia de aterrizaje el 22 de febrero a las 23:11 UTC (6:11 PM EST) y aterrizó cerca de Malapert A, un área de la Luna que contiene hielo de agua, a las 23:23 UTC, el primer aterrizaje lunar comercial y el primer aterrizaje de los Estados Unidos desde el Apolo 17 en 1972. Los controladores confirmaron que estaban recibiendo débiles comunicaciones del módulo de aterrizaje. Dos horas después confirmaron que está en posición vertical. El aterrizaje tuvo como objetivo el cráter Malapert-A, a unos 300 kilómetros (190 mi) desde el polo sur lunar.\nOdiseo se convirtió en la primera nave espacial estadounidense que aluniza desde la misión Apolo 17 en 1972, el primer módulo de alunizaje comercial exitoso y el primero en hacerlo con combustible criogénico. (El satélite de detección y observación del cráter lunar realizó un aterrizaje forzoso en 2009)."
+    }
+  ],
+  "num_palabras": 1384
+}

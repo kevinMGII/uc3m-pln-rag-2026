@@ -1,0 +1,44 @@
+{
+  "titulo": "Solar Radiation and Thermospheric Satellite",
+  "titulo_wikipedia_en": "Solar Radiation and Thermospheric Satellite",
+  "fecha_lanzamiento": "1975-02-24",
+  "año_lanzamiento": 1975,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión heliofísica"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Solar_Radiation_and_Thermospheric_Satellite",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Operador": "ISAS",
+    "Tipo de misión": "Investigación solar-terrestre",
+    "Fabricante": "Nippon Electric Company",
+    "Masa en el lanzamiento": "86 kg",
+    "Fecha de lanzamiento": "24 de febrero de 1975, 05:25 UTC",
+    "Vehículo de lanzamiento": "M-3C No 2",
+    "Lugar de lanzamiento": "Centro Espacial de Kagoshima",
+    "Fecha de fin": "29 de junio de 1980",
+    "Sistema de referencia orbital": "Geocéntrico",
+    "Régimen orbital": "Tierra baja/Tierra media",
+    "Periapsis": "260 km",
+    "Apoapsis": "3.140 km",
+    "Inclinación orbital": "31.54°",
+    "Periodo orbital": "120 minutos",
+    "Potencia": "15 vatios",
+    "Dimensiones": "0,75 m × 0,65 m (diámetro × altura)",
+    "ID COSPAR": "1975-014A",
+    "Nº SATCAT": "7671"
+  },
+  "resumen": "Radiación Solar y Satélite Termosférico (SRATS), también conocido como Taiyo (\"Sol\" en japonés) o Shinsei-3, fue una sonda espacial desarrollada por el Instituto de Ciencias Espaciales y Astronáuticas (ISAS) en la Universidad de Tokio. La sonda fue lanzada el 24 de febrero de 1975, desde el Centro Espacial Kagoshima por un cohete M-3C-2. Su misión se centró en la física atmosférica superior, los rayos X y la radiación solar UV, y la ionosfera de la Tierra. Taiyo completó su misión antes de volver a entrar en la atmósfera de la Tierra el 29 de junio de 1980.\nEl satélite tenía forma de cilindro octogonal (o prisma), de 86 kg de peso. Orbitó la Tierra en una órbita elíptica con una periapsis de 260 km y una apoapsis de 3.140 km, con una inclinación de 32 grados. El objetivo principal del satélite era investigar los rayos X solares, la radiación ultravioleta y la distribución de iones y electrones en la atmósfera superior de la Tierra.",
+  "secciones": [
+    {
+      "titulo": "Instrumentos",
+      "nivel": 2,
+      "texto": "Taiyo tenía siete instrumentos científicos:\nDetector solar de rayos X (SXR): Diseñado para observar rayos X solares en dos rangos de energía (5.9-9.5 keV, 9.5-11.5 keV) y medir partículas cargadas cerca de los cinturones de radiación de la Tierra.\nMonitor de Radiación Lyman-alfa (SXU): Medido hidrógeno solar Radiación Lyman-alfa para estudiar la cromosfera del Sol.\nRadiometros geocoronales y ultravioletas medios (GMV): Este sistema combinó el radiómetro medio ultravioleta (MUV), que midió la luz solar reflejada del ozono atmosférico, y el contador de fotones ultravioletas de vacío (GUV), que analizó las emisiones geocoronales.\nEspectrómetro de Masa Bennett Ion (CPI): Composición de iones examinado en la atmósfera superior, identificando iones H+, He+ y O+.\nRetardante del potencial de análisis (RPA): Densidad y temperatura del ión medida mediante barridos de tensión a través de trampas de iones.\nSonda de temperatura de electrones (TEL): Variaciones de temperatura de electrones registradas, capaces de medir hasta 4000 K.\nSonda Gyro-Plasma (IMP): distribución de densidad de electrones analizada mediante mediciones de impedancia de alta frecuencia."
+    }
+  ],
+  "num_palabras": 332
+}

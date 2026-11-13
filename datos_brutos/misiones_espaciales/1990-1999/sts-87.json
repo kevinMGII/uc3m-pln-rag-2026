@@ -1,0 +1,153 @@
+{
+  "titulo": "STS-87",
+  "titulo_wikipedia_en": "STS-87",
+  "fecha_lanzamiento": "1997-11-19",
+  "año_lanzamiento": 1997,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada",
+    "Misión heliofísica"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/STS-87",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Otros nombres": "Sistema de Transporte Espacial-87",
+    "Tipo de misión": "Investigación sobre la microgravedad\nDesarrollo tecnológico",
+    "Operador": "NASA",
+    "Distancia recorrida": "10500000 km",
+    "Duración de la misión": "15 días, 16 horas, 35 minutos, 01 segundos",
+    "Masa en el aterrizaje": "102717 kg",
+    "Masa de la carga útil": "4451 kg",
+    "Lugar de lanzamiento": "Kennedy, LC-39B",
+    "Fecha de lanzamiento": "19 de noviembre de 1997, 19:46 UTC",
+    "Fecha de aterrizaje": "5 de diciembre de 1997, 12:20 UTC",
+    "Lugar de aterrizaje": "Kennedy, SLF Runway 33",
+    "Tripulación": "Kevin R. Kregel; Steven W. Lindsey; Winston E. Scott; Kalpana Chawla; Takao Doi; Leonid Kadeniuk",
+    "Sistema de referencia orbital": "Geocéntrico",
+    "Régimen orbital": "Órbita terrestre baja",
+    "Periapsis": "273 km",
+    "Apoapsis": "279 km",
+    "Periodo orbital": "90,0 min",
+    "Inclinación orbital": "28,45 grados",
+    "Programa": "Programa de transporte espacial",
+    "Misión anterior": "STS-86 (87)",
+    "Misión siguiente": "STS-89 (89)"
+  },
+  "resumen": "STS-87 fue una misión de transbordador espacial lanzada desde el Complejo Launch 39B del Centro Espacial Kennedy el 19 de noviembre de 1997. Fue el 88o vuelo del transbordador espacial y el 24o vuelo de Columbia. Los objetivos de la misión eran llevar a cabo experimentos utilizando la carga útil de microgravedad de los Estados Unidos (USMP-4), realizar dos EVA y desplegar el experimento SPARTAN-201. Esta misión marcó la primera vez que se realizó un EVA desde Columbia. Los EVAs de Columbia fueron originalmente planeados para STS-5 en 1982 y STS-80 en 1996, pero fueron cancelados debido a problemas de espacios y esclusas, respectivamente. También marcó el primer EVA dirigido por un astronauta japonés, Takao Doi.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Paseos espaciales",
+      "nivel": 3,
+      "texto": "Scott y Doi – EVA 1\nEVA 1 Inicio: 25 de noviembre de 1997 – 00:02 UTC\nEVA 1 Final: 25 de noviembre de 1997 – 07:45 UTC\nDuración: 7 horas, 43 minutos\nScott y Doi – EVA 2\nEVA 2 Inicio: 3 de diciembre de 1997 – 09:09 UTC\nEVA 2 Fin: 3 de diciembre de 1997 – 14:09 UTC\nDuración: 4 horas, 59 minutos"
+    },
+    {
+      "titulo": "Aspectos destacados de la misión",
+      "nivel": 2,
+      "texto": "STS-87 voló la carga útil de microgravedad de los Estados Unidos (USMP-4), Spartan-201, Experimento de investigación de aceleración orbital (OARE), prueba de vuelo de demostración de TEVA 5 (EDFT-05), el experimento de envío de limbos de ozono (SOLSE), el tubo de calor de lazo (LHP), el experimento de batería de azufre de sodio (NaSBE), el experimento de difusión de chorros de gas turbulento (G-744), y el experimento autónomo de cámara robótica/sprint de EVA (AERCam Sprint). Los experimentos de mitad de cubierta incluyeron la carga útil Middleck Glovebox (MGBX) y el experimento ucraniano colaborativo (CUE)."
+    },
+    {
+      "titulo": "Carga útil de microgravedad de los Estados Unidos",
+      "nivel": 3,
+      "texto": "La carga útil de microgravedad de los Estados Unidos (USMP-4) fue un proyecto de Spacelab administrado por Marshall Space Flight Center, Huntsville, Alabama. El complemento de los experimentos de investigación sobre microgravedad se dividió entre dos estructuras de apoyo a experimentos de misión y ejecución (MPESS) en la bahía de carga útil. La capacidad ampliada de la misión que ofrece el kit de Orbiter de Duración Extendida (EDO) ofrece una oportunidad para un tiempo adicional de reunión de la ciencia."
+    },
+    {
+      "titulo": "SPARTAN-201",
+      "nivel": 3,
+      "texto": "Spartan 201-04 fue una nave espacial de física solar diseñada para realizar la teleobservación de las capas exteriores calientes de la atmósfera solar o corona solar. Se esperaba que se desplegara en la órbita 18 y se recuperara en la órbita 52. El objetivo de las observaciones fue investigar los mecanismos que causan el calentamiento de la corona solar y la aceleración del viento solar que se origina en la corona. Dos experimentos primarios fueron el Espectrómetro Coronal Ultravioleta del Observatorio Astrofísico Smithsoniano y el Coronógrafo de Luz Blanca (WLC) del Observatorio de Alta Altura. El espartano 201 tuvo tres experimentos secundarios. El experimento tecnológico de aumento de las comunicaciones espartanas (TEXAS) fue un experimento de comunicaciones de radiofrecuencia (RF) que proporcionó experiencia de vuelo para componentes basados en futuras misiones espartanas, y un enlace de comunicaciones y control en tiempo real con los experimentos primarios espartanos 201. Este enlace se utilizó para proporcionar un ajuste de punta fina al WLC basado en imágenes solares downlinked en tiempo real. El Video Guidance Sensor (VGS) Flight Experiment fue un sistema de guía láser que probó un componente clave del sistema Automated Rendezvous and Capture (AR&C). La Placa de Montaje Auxiliar Espartano (SPAM) era una pequeña placa de montaje de equipo que proporcionaba una ubicación de montaje para pequeños experimentos o equipo auxiliar de la Estructura de Soporte de Vuelo Espartano (SFSS) Era una placa de panal de miel usando un carburo de silicio experimental material de hoja de aluminio cara con un núcleo de aluminio."
+    },
+    {
+      "titulo": "Horno avanzado de solidificación direccional automatizada",
+      "nivel": 3,
+      "texto": "El horno avanzado de solidificación direccional automatizada (AADSF) era una sofisticada instalación científica de materiales utilizada para estudiar un método común de procesamiento de cristales semiconductores llamado solidificación direccional. La solidificación es el proceso de congelación de materiales. En el tipo de solidificación direccional utilizado en la AADSF, la muestra líquida, encerrada en ampollas de cuarzo, se solidificó lentamente a lo largo del eje largo. Un mecanismo movió la muestra a través de diferentes zonas de temperatura en el horno. Para iniciar el procesamiento, el horno se derritió todo menos un extremo de la muestra hacia el otro. Una vez cristalizada, la muestra permaneció en el horno para ser examinada después del vuelo. El frente de solidificación fue de particular interés para los científicos porque los flujos encontrados en el material líquido influyen en la composición y estructura final del sólido y sus propiedades."
+    },
+    {
+      "titulo": "Experimento confinado de helio",
+      "nivel": 3,
+      "texto": "El Experimento de Helio Confinado (CHeX) proporcionó una prueba de las teorías de la influencia de los límites sobre la materia midiendo la capacidad de calor del helio, ya que se limita a dos dimensiones."
+    },
+    {
+      "titulo": "Experimento de crecimiento dendrítico isotérmico",
+      "nivel": 3,
+      "texto": "El Experimento de Crecimiento Dendrítico Isotérmico (IDGE) fue un experimento de solidificación de ciencia de materiales que los investigadores utilizaron para investigar un tipo particular de solidificación llamado crecimiento dendrítico. La solidificación dendrítica es una de las formas más comunes de solidificar metales y aleaciones. Cuando los materiales cristalizan o se solidifican bajo ciertas condiciones, se congelan de manera inestable, resultando en formas cristalinas minúsculas, parecidas a árboles, llamadas dendritas. Los científicos están particularmente interesados en el tamaño, la forma de la dendrita y cómo las ramas de la dendrita interactúan entre sí. Estas características determinan en gran medida las propiedades del material.\nDiseñado para la investigación sobre la solidificación direccional de las aleaciones metálicas, el experimento Material pour l'Étude des Phénomènes Intéressant la Solidification sur Terre et en Orbite (MEPHISTO) se interesó principalmente en medir la temperatura, velocidad y forma del frente de solidificación (el punto donde el sólido y el líquido se contactan entre sí durante la solidificación). MEPHISTO procesa simultáneamente tres muestras cilíndricas idénticas de bismuto y aleación de estaño. En la primera muestra se midieron eléctricamente las fluctuaciones de temperatura de la solidificación en movimiento, perturbando la muestra. La posición del borde sólido a líquido fue determinada por una técnica de resistencia eléctrica en la segunda muestra. En la tercera muestra, el frente de solidificación facetado fue marcado a intervalos seleccionados con pulsos de corriente eléctrica. Las muestras fueron devueltas a la Tierra para su análisis. Durante la misión, los datos de MEPHISTO se correlacionaron con los datos del Sistema de Medición de Aceleración del Espacio (SAMS). Al comparar los datos, los científicos determinaron cómo las aceleraciones a bordo de la lanzadera perturbaban el sólido a la interfaz líquida."
+    },
+    {
+      "titulo": "Sistema de medición de aceleración del espacio",
+      "nivel": 3,
+      "texto": "El Sistema de Medición de la Aceleración Espacial (SAMS), patrocinado por el Centro de Investigación Lewis de la NASA (ahora Centro de Investigación Glenn de la NASA), era un sistema de adquisición de datos impulsado por microprocesadores diseñado para medir y registrar el entorno de aceleración de la microgravedad del portador USMP. El SAMS tenía tres cabezas de sensor triaxiales separadas del paquete electrónico para el posicionamiento remoto. En funcionamiento, el cabezal del sensor triaxial produjo señales de salida en respuesta a las entradas de aceleración. Las señales fueron amplificadas, filtradas y convertidas en datos digitales. Los datos de aceleración digital se transfirieron a la memoria de disco óptico para análisis en tierra y se conectaron al suelo para análisis casi en tiempo real. Cada acelerómetro tenía una masa suspendida por un elemento de cuarzo que permitía el movimiento a lo largo de un solo eje. Una bobina se unía a la masa y el conjunto se colocaba entre dos imanes permanentes. Una aceleración aplicada desplazó la masa de su posición de descanso. Este movimiento fue percibido por un detector, causando que la electrónica SAMS enviara un voltaje a la bobina, produciendo exactamente el campo magnético necesario para restaurar la masa a su posición original. La tensión aplicada era proporcional a la aceleración aplicada y era la salida a la electrónica SAMS como datos de aceleración."
+    },
+    {
+      "titulo": "Experimento de investigación de aceleración orbital",
+      "nivel": 3,
+      "texto": "Mientras volaba por separado en la bahía de carga, el Experimento de Investigación de Aceleración Orbital (OARE), patrocinado por NASA Lewis Research Center (ahora Glenn Research Center), fue una parte integral de USMP-04. Fue un instrumento altamente sensible diseñado para medir la aceleración aerodinámica de bajo nivel a lo largo de los ejes principales del orbitador en el régimen de flujo libre-molecular a altitudes orbitales y en el régimen de transición durante el reingreso. Los datos de la OARE también fueron desconectados durante la misión para el análisis en tiempo casi real en apoyo de los experimentos científicos de la USMP. Los datos de la OARE respaldaban los avances en el procesamiento de los materiales espaciales al proporcionar mediciones del entorno de perturbación de baja frecuencia y bajo nivel que afectaba a diversos experimentos de microgravedad. Los datos de la OARE también apoyaron los avances en la tecnología de predicción de arrastre orbital aumentando la comprensión de los fenómenos fundamentales de flujo en la atmósfera superior."
+    },
+    {
+      "titulo": "Experimento de Sondeo de la Cuerda del Ozono",
+      "nivel": 3,
+      "texto": "El objetivo del Experimento de Sondeo de Cola de Ozono (SOLSE) fue determinar la distribución de altitud del ozono en un intento de entender su comportamiento para que se puedan predecir cambios cuantitativos en la composición de la atmósfera. SOLSE estaba destinado a realizar la distribución del ozono que un instrumento nadir puede lograr. Esto se realizó utilizando la tecnología Charged Coupled Device (CCD) para eliminar las piezas móviles en un instrumento de cartografía del ozono más simple y de bajo costo. El experimento fue alojado en un bote Hitchhiker (HH/GAS) con un anillo de extensión de bote y equipado con un Hitchhiker Motorized Door Assembly (HMDA). La instrumentación incluyó un espectrógrafo ultravioleta (UV) con un detector de matriz CCD, matriz CCD y cámaras de luz visible, lámpara de calibración, óptica y desconcertante. Una vez en órbita, un miembro de la tripulación activó SOLSE que realizó observaciones de extremidad y observación de la Tierra. Las observaciones de las extremidades se centran en la región de 20 km a 50 km de altitud por encima del horizonte para la superficie de la Tierra. Las observaciones de observación de la Tierra permitieron a SOLSE correlacionar los datos con otros instrumentos de visualización de nadir, el ozono."
+    },
+    {
+      "titulo": "Tubo de calor de ala",
+      "nivel": 3,
+      "texto": "El tubo de calor Loop (LHP) prueba la tecnología avanzada de gestión de energía térmica y la preparación de la tecnología de validación para las próximas aplicaciones de naves espaciales comerciales. El LHP fue operado con amoníaco anhidro como fluido de trabajo para transportar energía térmica con alta conductividad efectiva en gravedad cero. LHP era un dispositivo pasivo de transferencia de calor de flujo de dos fases que era capaz de transportar hasta 400 vatios a una distancia de 5 metros a través de tubos semiflexibles de pequeño diámetro. Utilizó fuerzas capilares para circular el fluido de trabajo en dos fases. El sistema era auto-primante y totalmente pasivo en funcionamiento. Cuando se aplicó calor al evaporador LHP, parte del fluido de trabajo se vaporizó. El vapor fluía a través de las líneas de transporte de vapor y se condensaba, liberando calor. La condensación volvió al evaporador a través de la acción capilar a través de las líneas de transporte de líquidos."
+    },
+    {
+      "titulo": "Experimento de batería de azufre de sodio",
+      "nivel": 3,
+      "texto": "El Experimento de Baterías de Sulfuro de Sodio (NaSBE) caracterizó el rendimiento de cuatro baterías de sulfuro de sodio de 40 amperios horas, representando la primera prueba de la tecnología de baterías de sulfuro de sodio en el espacio. Cada célula estaba compuesta por un ánodo de sodio, cátodo de azufre y electrolito y separador de iones de sodio de cerámica sólida. Las células fueron calentadas a 350 grados Celsius para licuar el sodio y el azufre. Una vez que el ánodo y el cátodo fueron licuados, las células comenzaron a generar energía eléctrica. Una vez en órbita, un tripulante activó NaSBE, y luego el experimento fue controlado por el Centro de Control de Operaciones de Carga Pasiva GSFC (POCC)."
+    },
+    {
+      "titulo": "Llamas turbulentas de difusión de chorro de gas",
+      "nivel": 3,
+      "texto": "La carga útil Turbulent Gas Jet Diffusion Flames (TGDF) fue una carga útil secundaria que utilizó el estándar Get Away Special. Su objetivo era conocer las características fundamentales de las llamas de difusión de chorros de gas transicionales y turbulentas en condiciones de microgravedad y obtener datos para ayudar a predecir el comportamiento de las llamas de difusión de chorros de gas transicionales y turbulentas en entornos normales y de microgravedad. TGDF impuso perturbaciones controladas a gran escala en llamas de difusión de microgravedad laminar bien definidas. Estaban en perturbaciones aximétricas a las llamas laminares. Las variables para las pruebas propuestas fueron la frecuencia del mecanismo de perturbación, que fue de 2,5 Hz, 5 Hz o 7,5 Hz."
+    },
+    {
+      "titulo": "Obtener especial",
+      "nivel": 3,
+      "texto": "El depósito de carga útil Get Away Special (GAS G-036) contenía cuatro experimentos separados que hidrataban muestras de cemento, registraban la estabilidad de la configuración de muestras de fluidos y exponían discos informáticos, discos compactos y muestras de asfalto a las condiciones de la exosfera en la bahía de carga del orbitador. Los experimentos fueron el Experimento de Mezcla de Cementos (CME), el Experimento de Estabilidad de Configuración de Fluidos (CSFE), el Experimento de Evaluación de Discos Compactos (CDEE) y el Experimento de Evaluación de Asfaltos (AEE)."
+    },
+    {
+      "titulo": "Orbiter de Duración Extendida",
+      "nivel": 3,
+      "texto": "El Orbiter Extended Duration Orbiter (EDO) Pallet era una estructura crio-kit de 15 pies (4,6 m) de diámetro. Con un peso de 352 kg, proporcionó soporte para tanques, paneles de control asociados y equipos de aviónica. Los tanques almacenaron 167 kg de hidrógeno líquido a −250 grados Celsius, y 1417 kg de oxígeno líquido a −176 grados Celsius. La masa vacía total del sistema fue de 1620 kg. Cuando se llenó de criogenes, la masa del sistema fue de aproximadamente 3200 kg. El oxígeno y el hidrógeno fueron suministrados a las tres pilas de combustible generadoras de energía eléctrica del orbitador, donde fueron convertidos en energía eléctrica suficiente para sostener la casa promedio de cuatro miembros de la familia durante aproximadamente seis meses. Las pilas de combustible también produjeron unos 1360 kg de agua potable pura. Con el pallet EDO, el orbitador podría soportar un vuelo por un máximo de 18 días. Las misiones más prolongadas en órbita benefician a la investigación sobre la microgravedad, la investigación sobre las ciencias de la vida, las observaciones de la Tierra y las observaciones celestes, la adaptación humana al entorno de cero G y el apoyo a la Estación Espacial."
+    },
+    {
+      "titulo": "Guante de medio piso",
+      "nivel": 3,
+      "texto": "El Guante de mitad de cubierta (MGBX) fue una instalación diseñada para la ciencia de materiales y el manejo de experimentos de ciencias biológicas. Consistió en dos sistemas primarios: un marco de interfaz (IF) y una guantera (GB). La instalación MGBX (con la electrónica asociada) proporcionó un área de trabajo cerrada para la manipulación experimental y la observación en el transbordador de media cubierta. Los experimentos MGBX en este vuelo fueron WCI – El objetivo de las Características de Mojado de los Inmiscibles era investigar la influencia de las características de humectación de aleación/ampolla en la segregación de líquidos inmiscibles durante el procesamiento de microgravedad. El objetivo del experimento Enclosed Laminar Flames (ELF) era validar el modelo Burke-Schumann de gravedad cero y la extensión Hegde-Bahadori dependiente de la gravedad del modelo, investigar la importancia del campo de flujo dependiente de flotabilidad como afectado por el flujo oxidante en la estabilización de la llama, examinar las relaciones de estado de las llamas de difusión de coflujo bajo la influencia de condiciones de flotabilidad (gravedad frente a presión), y estudiar el vórtice de flujo y las interacciones de difusión de llama. Los objetivos del experimento de Engordo y Empujamiento de Partículas por Interfaces Solidificantes (PEP) fueron generar un valor preciso para la velocidad crítica en un entorno libre de convección, validar el presente modelo teórico, mejorar la comprensión fundamental de la dinámica de partículas insolubles en interfaces líquidas/sólidas, y mejorar la comprensión de la física asociada con la solidificación de mezclas de metales líquidos-partículas cerámicas."
+    },
+    {
+      "titulo": "Experimento colaborativo con Ucrania",
+      "nivel": 3,
+      "texto": "Liderado por Kadenyuk, el Experimento Colaborativo Ucrania (CUE) fue una carga útil de media cubierta diseñada para estudiar los efectos de la microgravedad en el crecimiento de las plantas. La CUE se componía de un grupo de experimentos realizados en la Planta de Crecimiento (PFG) y en la Investigación Biológica en Canideros (BRIC). Los experimentos también requirieron el uso de un congelador de nitrógeno gaseoso (GN2) y el hardware de fijación. Los investigadores de Ucrania y los Estados Unidos (Universidad Estatal de Kansas y Universidad Estatal de Louisiana) seleccionaron los experimentos como modelo de colaboración científica entre los dos países. El FOP apoyó el crecimiento de las plantas hasta 30 días, proporcionando condiciones ambientales aceptables para el crecimiento normal de las plantas. El PGF se componía de los siguientes subsistemas: Subsistemas de Control y Gestión de Datos (CDMS), Módulo de Luz Fluorescente (FLM), Módulo de Control Atmosférico (ACM), Cámaras de Crecimiento Vegetal (PGC), Conjunto de Estructura de Apoyo (SSA), y la Concha Externa Genérica (GES). El PGF completo reemplazó un armario de media cubierta y funcionó con corriente directa de 28 V (cc). El espécimen de la planta estudiado en el PGF fue Brassica rapa (turnip)."
+    },
+    {
+      "titulo": "Actividades extravehiculares",
+      "nivel": 2,
+      "texto": "La prueba de vuelo de desarrollo de actividad extravehicular – 05 (EDFT-05) consistió en los elementos de hardware de la bahía de carga útil del objetivo de prueba detallado (DTO) 671, hardware EVA para futuras misiones extravehiculares programadas. El objetivo principal de EDFT – 05 era demostrar las operaciones de montaje y mantenimiento de la Estación Espacial Internacional (ISS) en órbita, de extremo a extremo. Los otros DTO incluidos en esta prueba fueron DTO 672, Unidad de Movilidad Extravehicular (EMU) Lista de Control de Esposas Eléctricas y DTO 833, EMU Thermal Comfort y EVA Worksite Thermal Environment. Otro objetivo era ampliar la base de experiencia de EVA para las tripulaciones de tierra y de vuelo. Se realizaron dos EVAs en esta misión para lograr estos DTOs."
+    },
+    {
+      "titulo": "Cámara robótica autónoma EVA",
+      "nivel": 3,
+      "texto": "La Cámara/Sprint Robótica Autónoma EVA (AERCam/Sprint) era una pequeña plataforma de cámara de vuelo libre, discreta y para uso fuera de una nave espacial. El viajero libre tenía un sistema de propulsión de gas frío autónomo que le daba la capacidad de ser propulsado con 6 grados del sistema de control de libertad. A bordo del viajero libre había sensores de velocidad para proporcionar datos para una capacidad de retención de actitud automática. AERCam/Sprint era un vehículo esférico que se movía lentamente y estaba cubierto de un material de amortiguación suave para evitar daños en caso de impacto. La filosofía del diseño era mantener la energía baja manteniendo las velocidades y la masa bajas mientras proporcionaba un mecanismo para absorber cualquier energía de un impacto. La plataforma de vuelo libre fue controlada desde el interior del Orbiter utilizando una pequeña estación de control. Los comandos de movimiento de entrada del operador desde un solo controlador de dispositivo, Aid For EVA Rescue (SAFER). Los comandos fueron enviados desde la estación de control al viajero libre a través de un módem Radio Frequency (RF) que funcionaba en el rango de frecuencia ultra alta (UHF)."
+    },
+    {
+      "titulo": "Un personaje cómico en el espacio",
+      "nivel": 2,
+      "texto": "La misión marcó un primer paso menos conocido por tener un personaje de cómics siendo creado para una misión espacial, el primero en volar realmente al espacio, y el primero en regresar con seguridad a la Tierra. El patrocinador y gerente del experimento de Enclosed Laminar Flames, Lewis Stocker, notó la abreviatura del experimento como ELF y, siendo un reconocido lector de la serie de cómics Elfquest, pidió a los creadores de la serie Richard y Wendy Pini que crearan un logotipo. Originalmente, esperaba que el propio stargazer de la serie, Skywise, pudiera ser utilizado, pero para evitar problemas de copyright, se creó un personaje único para acompañar al experimento insignia, cuyo nombre fue llamado Starfire."
+    },
+    {
+      "titulo": "Llamadas de atención",
+      "nivel": 2,
+      "texto": "Los astronautas del transbordador durmiente a menudo se despertaron con una pequeña pieza de música, una tradición que comenzó durante las misiones Géminis y Apolo. Cada pista fue elegida especialmente, a veces por sus familias, y por lo general tenía un significado especial para un miembro individual de la tripulación o era aplicable a sus actividades diarias. Los astronautas Bill McArthur, Ellen Ochoa, Chris Hadfield y Marc Garneau fueron los CAPCOMs para la misión, y llamaron a los astronautas de Columbia cada día."
+    }
+  ],
+  "num_palabras": 3317
+}

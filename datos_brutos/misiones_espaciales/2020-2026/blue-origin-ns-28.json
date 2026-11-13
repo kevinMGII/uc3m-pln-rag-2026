@@ -1,0 +1,43 @@
+{
+  "titulo": "Blue Origin NS-28",
+  "titulo_wikipedia_en": "Blue Origin NS-28",
+  "fecha_lanzamiento": "2024",
+  "año_lanzamiento": 2024,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Blue_Origin_NS-28",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Vuelo espacial humano suborbital",
+    "Apogeo suborbital": "107 km",
+    "Nave": "RSS Primer paso",
+    "Fabricante": "Origen azul",
+    "Tripulación": "Emily Calandrelli; Sharon Hagle; Marc Hagle; Austin Litteral; James Russell; Henry Wolfond",
+    "Vehículo de lanzamiento": "Nuevo Shepard (NS4)",
+    "Lugar de lanzamiento": "Corn Ranch, LS-1",
+    "Contratista del lanzamiento": "Origen azul",
+    "Lugar de aterrizaje": "Rancho de maíz",
+    "Programa": "Vuelos nuevos de Shepard",
+    "Misión anterior": "Origen azul NS-27",
+    "Misión siguiente": "Origen azul NS-29"
+  },
+  "resumen": "Blue Origin NS-28 fue una misión suborbital de vuelos espaciales, operada por Blue Origin, que fue lanzada el 22 de noviembre de 2024, utilizando el cohete New Shepard.",
+  "secciones": [
+    {
+      "titulo": "Pasajeros",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Detalles",
+      "nivel": 3,
+      "texto": "Los pasajeros del vuelo incluyen a Emily Calandrelli, una comunicadora científica y anfitriona de Emily's Wonder Lab, Marc y Sharon Hagle, quienes estaban volando en su segundo vuelo de New Shepard (el primero siendo NS-20), Austin Litteral, quien ganó su asiento como parte de un sorteo, James (J.D.) Russell y Henry (Hank) Wolfond."
+    }
+  ],
+  "num_palabras": 81
+}

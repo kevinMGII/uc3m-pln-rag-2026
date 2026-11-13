@@ -1,0 +1,100 @@
+{
+  "titulo": "Estación espacial Axiom",
+  "titulo_wikipedia_en": "Axiom Station",
+  "fecha_lanzamiento": "2028",
+  "año_lanzamiento": 2028,
+  "estado": "programada",
+  "tipo_mision": [
+    "Estación espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Estación_espacial_Axiom",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {},
+  "resumen": "La estación espacial Axiom es una futura estación espacial diseñada por la empresa Axiom Space para el uso comercial del espacio. Axiom space recibió en enero de 2020 la aprobación inicial de la NASA, quien después en el 28 de febrero del mismo año, firmo el contrato con Axiom.La Axiom station busca ser el remplazo de la Estación Espacial Internacional (ISS) antes de que sea desorbitada en 2031.",
+  "secciones": [
+    {
+      "titulo": "Segmentos",
+      "nivel": 2,
+      "texto": "Entre 2020 y 2024, Axiom space planeaba ensamblar cuatro módulos como un nuevo segmento a la ISS que después se separarían para convertirse en la Estacion espacial Axiom.\nLos renders de Axiom muestran cómo es que los cuatro módulos serian acoplados y movidos por el brazo robótico Canadarm 2.\nLos planes preliminares de la compañía fueron publicados en febrero de 2020, que trataban sobre como el segmento orbital de Axiom sería la base de la estación, y sobre como seria la construcción usando los módulos del segmento Axiom, junto a otros elementos como un módulo de control térmico y energético,antes del retiro de la ISS. Axiom planea lanzar sus primeros cuatro módulos en años consecutivos en los mediados de los 2020s.\nEl concepto del interior de los camarotes fue diseñado por el francés Philippe Starck en 2018. Los dibujos muestran que el hábitat es una cámara con paredes acolchadas cubiertas con luces LEDs.El segmento orbital de Axiom está diseñado para tener muchas comodidades: internet de alta velocidad, pantallas digitales, numerosas ventanas y una cúpula con ventanas; que Axiom la llama \"la ventana de observación más grande en el espacio\".\nEn diciembre de 2024, Axiom anuncio un cambio en los planes de la construcción de su estación. En vez de ensamblar el segmento orbital de Axiom en la ISS, la estación iba a volar de manera independiente después del lanzamiento del módulo Hábitat uno (Hab-1). El módulo térmico-energético de cargas útiles (PPTM) sería lanzado primero, y se acoplaría en la ISS para esperar al lanzamiento del Hab-1, tras lo cual se desacoplaría de la ISS para unirse a la estación espacial Axiom por medio del Hab-1."
+    },
+    {
+      "titulo": "Módulos planeados",
+      "nivel": 2,
+      "texto": "Cada módulo de la estación es una nave espacial independiente que posee los sistemas para las maniobras en órbita, como la propulsión."
+    },
+    {
+      "titulo": "(PPTM)",
+      "nivel": 3,
+      "texto": "El primer módulo de Axiom, el módulo térmico-energético de cargas útiles (PPTM por sus siglas en ingles), está planeado para ser lanzado no antes de 2027. El PPTM se espera que logre proveer las mismas capacidades energéticas y térmicas que las de la ISS, alimentándose de paneles solares. Este módulo está planeado que se acople a uno de los dos puertos usados por naves de carga, hasta la llegada del Hab-1 en donde se desacoplaría de la estación para unirse con el nuevo módulo."
+    },
+    {
+      "titulo": "Hab-1",
+      "nivel": 3,
+      "texto": "El segundo módulo de la estación, el hábitat uno (Han-1), su lanzamiento se espera que no sea antes de 2028. Va a proveer camarotes para cuatro personas, y el volumen suficiente para albergar dispositivos de investigación y manufactura. Cada camarote posee unas ventanas de observación terrestre junto a pantallas digitales para comunicación. El Hab-1 tiene cuatro puertos de acople en forma radial, que permiten la visita de naves espaciales y una capacidad de agregar más módulos a la estación. Va a tener sistemas de propulsión, guía y navegación. El Hab-1 tendrá un largo aproximado de 11 metros y 4.2 metros de diámetro en su punto más ancho. La empresa europea Thales Alenia Space reporto un progreso significativo en la construcción de este módulo a inicios de 2024.\nCuando el Hab-1 sea puesto en órbita, el PPTM se desacoplará de la ISS para unirse con el Hab-1, formando así los primeros dos módulos de la estación espacial Axiom."
+    },
+    {
+      "titulo": "AL",
+      "nivel": 3,
+      "texto": "Es el tercer módulo de la estación, el módulo de esclusa de aire (AL por sus siglas en ingles), su lanzamiento será a finales de la década de los 2020s. La adición de una Esclusa de aire permitirá la realización de Actividades extravehiculares, Dotando a la estación la capacidad de mantenimientos exteriores."
+    },
+    {
+      "titulo": "Hab-2",
+      "nivel": 3,
+      "texto": "Es el cuarto módulo de la estación, el hábitat dos (Hab-2), su lanzamiento será después de la llegada de la esclusa de aire. Proveerá unos cuatro camarotes adicionales, permitiendo que la estación puede albergar a una tripulación de ocho personas. Dotará a la estación con un sistema completo de soporte vital, comunicaciones comerciales satelitales de banda ancha y un brazo robótico similar al Canadarm 2, que le dará a la estación un sistema exterior de manipulación remota."
+    },
+    {
+      "titulo": "RMF",
+      "nivel": 3,
+      "texto": "El quinto módulo de la estación, el módulo de las instalaciones de investigación y fabricación (RMF), su lanzamiento será a inicios de los 2030s.Proveerá un ambiento en microgravedad único; lo que permitirá que en él se realicen investigaciones, desarrollo de productos, mejora de técnicas y la manufactura en el espacio.El RMF tiene un observatorio con forma de cúpula."
+    },
+    {
+      "titulo": "SEE-1",
+      "nivel": 3,
+      "texto": "Axiom planea que la construcción del módulo SEE-1 sea por la empresa británica Space Entertainment Enterprise (S.E.E).Es un módulo inflablede seis metros que busca convertirse en el primer estudio de entretenimiento en el espacio. El SEE-1 será lanzado después del Hab-1.\nLos directores de SEE, Dmitry lesnevsky y Elena Lesnevsky, buscan lograr el rodaje de una película de acción con Tom Cruise dentro de la estación."
+    },
+    {
+      "titulo": "MPLM",
+      "nivel": 3,
+      "texto": "El módulo logístico multipropósito Raffaello (MPLM) está planeado modificarlo para poder instalarlo a la estación de Axiom antes de la retirada de la ISS."
+    },
+    {
+      "titulo": "Construcción",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Fabricación",
+      "nivel": 3,
+      "texto": "Axiom firmó un contrato con Thales Alenia Space para que esta compañía construya y pruebe las estructurar primarias y al sistema de protección de Micrometeoroides y Basura espacial (MDPS) para los módulos Hab-1 y Hab-2.Thales Alenia está en proceso de construcción de la estructura primaria del Hab-1, se espera que en 2023 esta estructura salga de Italia para ir a Houston, en donde Axiom space se encargara de completar el ensamblaje e integración de todos los sistemas antes del lanzamiento."
+    },
+    {
+      "titulo": "Ensamblaje",
+      "nivel": 3,
+      "texto": "Todavía no se ha anunciado cuáles serán los cohetes que llevarán los módulos de la estación a la Órbita terrestre baja. El primer módulo será el PPTM, el cual se acoplará a la ISS, Tras el despegue del Hab-1 el PPTM se desacoplará de la ISS para unirse con el Hab-1. Los módulos AL, Hab-2 y RMF serán lanzados en ese orden.Como la estación espacial Axiom es una Estación espacial modular, Los módulos puede ser cambiados de puertos según sea necesario.\nAxiom está buscando diversificar sus proveedores de lanzamientos fuera de estados unidos, usando posiblemente cohetes europeos e indios."
+    },
+    {
+      "titulo": "Propósitos",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Investigación científica",
+      "nivel": 3,
+      "texto": "La estación planea tener un laboratorio, el RMF, para poder proveer oportunidades de investigación y fabricación en la órbita baja."
+    },
+    {
+      "titulo": "Estación comercial",
+      "nivel": 3,
+      "texto": "La estación planea poder ser de uso comercial general."
+    },
+    {
+      "titulo": "Ver también",
+      "nivel": 2,
+      "texto": "Axiom Mission 1\nAxiom Mission 2\nAxiom Mission 3\nAxiom Mission 4\nEstación espacial Aurora\nB330\nBA 2100\nHaven-1\nMódulo de estación espacial japonesa (Mitsui)\nOrbital Reef\nStarlab (estación espacial)\nTurismo espacial"
+    }
+  ],
+  "num_palabras": 1123
+}

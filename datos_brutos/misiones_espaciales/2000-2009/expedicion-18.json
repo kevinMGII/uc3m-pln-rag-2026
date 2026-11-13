@@ -1,0 +1,56 @@
+{
+  "titulo": "Expedición 18",
+  "titulo_wikipedia_en": "Expedition 18",
+  "fecha_lanzamiento": "2008-10-12",
+  "año_lanzamiento": 2008,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Expedición_18",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Fecha de lanzamiento": "31 de mayo de 2008",
+    "Fecha de aterrizaje": "11 de octubre de 2009 a las 01:07 UTC",
+    "Misión anterior": "Expedición 17",
+    "Misión siguiente": "Expedición 19",
+    "Nave de llegada": "Soyuz TMA-13",
+    "Programa": "Programa de la EEI",
+    "Estación espacial": "Estación Espacial Internacional",
+    "Tipo de misión": "Expedición a la EEI",
+    "Fecha de inicio": "12 de octubre de 2008",
+    "Fecha de fin": "8 de abril de 2009"
+  },
+  "resumen": "La Expedición 18 fue la decimoctava estancia de larga duración en la Estación Espacial Internacional.\nLos primeros tripulantes de esta expedición, Michael Fincke y Salizhan Sharipov llegarán en la misión Soyuz TMA-13 que tiene programado su lanzamiento para octubre de 2008.\nEsta expedición será la última de tres miembros, a partir de la Expedición 19 (EEI) la tripulación pasará a estar compuesta de 6 tripulantes",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Primera parte (octubre de 2008 - noviembre de 2008)",
+      "nivel": 3,
+      "texto": "Michael Fincke (2) Comandante - NASA\nSalizhan Sharipov (3) Ingeniero de vuelo 1, Comandante de la soyuz - RSA\nGregory Chamitoff (1) - Ingeniero de vuelo - NASA"
+    },
+    {
+      "titulo": "Segunda parte (noviembre de 2008 - febrero de 2009)",
+      "nivel": 3,
+      "texto": "Michael Fincke (2) Comandante - NASA\nSalizhan Sharipov (3) Ingeniero de vuelo 1, Comandante de la Soyuz - RSA\nSandra Magnus* (2) - Ingeniero de vuelo 2 - NASA"
+    },
+    {
+      "titulo": "Tercera parte (febrero de 2009 - abril de 2009)",
+      "nivel": 3,
+      "texto": "Michael Fincke (2) Comandante - NASA\nSalizhan Sharipov (3) Ingeniero de vuelo, Comandante de la Soyuz - RSA\nKoichi Wakata‡ (3) - Ingeniero de vuelo - JAXA\nLa Participación en la Expedición 18 es de contingencia en el lanzamiento de la misión STS-126.\nLa Participación en la Expedición 18 es de contingencia en el lanzamiento de la misión STS-119.\n(#) El número ente paréntesis indica el número de vuelos espaciales completados anteriores a esta misión e incluyendo esta."
+    },
+    {
+      "titulo": "Tripulación de reserva",
+      "nivel": 2,
+      "texto": "Yuri Lonchakov - Comandante - RSA (de Sharipov)\nMichael Barratt- Ingeniero de vuelo - NASA (de Fincke)\nTimothy Kopra - Ingeniero de vuelo - NASA (de Chamitoff)\nSoichi Noguchi - Ingeniero de vuelo - JAXA (de Wakata)"
+    }
+  ],
+  "num_palabras": 237
+}

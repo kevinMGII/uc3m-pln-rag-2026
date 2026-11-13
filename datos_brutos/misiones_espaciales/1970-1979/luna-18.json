@@ -1,0 +1,52 @@
+{
+  "titulo": "Luna 18",
+  "titulo_wikipedia_en": "Luna 18",
+  "fecha_lanzamiento": "1971-09-02",
+  "año_lanzamiento": 1971,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración lunar",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Luna_18",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Retorno de la muestra lunar",
+    "Operador": "Programa espacial soviético",
+    "ID COSPAR": "1971-073A",
+    "Nº SATCAT": "5448",
+    "Duración de la misión": "9 días (día de lanzamiento al día del último contacto)",
+    "Plataforma (bus)": "Ye-8-5",
+    "Fabricante": "GSMZ Lavochkin",
+    "Masa en seco": "5600 kg",
+    "Masa en el lanzamiento": "5725 kg",
+    "Fecha de lanzamiento": "2 de septiembre de 1971, 13:40:40 UTC",
+    "Vehículo de lanzamiento": "Proton-K/D",
+    "Lugar de lanzamiento": "Baikonur 81/24",
+    "Última señal": "UTC",
+    "Época": "6 de septiembre de 1971, 20:00:00 UTC",
+    "Sistema de referencia orbital": "Selenocéntrico",
+    "Periapsis": "1824,9 km",
+    "Apoapsis": "1842,3 km",
+    "Inclinación orbital": "35 grados",
+    "Excentricidad": "0.001361",
+    "Periodo orbital": "119 minutos",
+    "Datos interplanetarios": "tipo: orbitador | objeto: Lunar | órbitas: 54 | fecha de llegada: 7 de septiembre de 1971\ntipo: lander_impact | objeto: Lunar | fecha de llegada: 11 septiembre 1971 07:48 UTC",
+    "Instrumentos": "Sistema de imágenes fotográficas estereográficas\nBrazo remoto para la recogida de muestras\nDetector de radiación\nRadioaltímetro",
+    "Programa": "Programa Luna",
+    "Misión anterior": "Luna 17",
+    "Misión siguiente": "Luna 19"
+  },
+  "resumen": "Luna 18, parte de la serie Ye-8-5, fue una misión espacial del programa Luna.",
+  "secciones": [
+    {
+      "titulo": "Sinopsis",
+      "nivel": 2,
+      "texto": "Luna 18 fue colocada en una órbita de estacionamiento terrestre después de que fue lanzada y luego fue enviada hacia la Luna. El 7 de septiembre de 1971 entró en órbita lunar. La nave espacial completó 85 sesiones de comunicaciones y 54 órbitas lunares antes de ser enviada hacia la superficie lunar mediante el uso de cohetes de frenado. Incidió en la Luna el 11 de septiembre de 1971, a 3 grados 34 minutos N, 56 grados 30 minutos E (coordenadas selenográficas) en terreno montañoso escarpado. Las señales cesaron en el momento del impacto.\nEsta misión fue el séptimo intento soviético de recuperar muestras de suelo de la superficie de la Luna y la primera después del éxito de Luna 16. Después de dos correcciones a mitad de curso el 4 de septiembre y el 6 de septiembre de 1971, Luna 18 entró en una órbita circular alrededor de la Luna el 7 de septiembre a 100 kilómetros de altitud con una inclinación de 35°. Después de varias correcciones orbitales más, el 11 de septiembre, el vehículo comenzó su descenso a la superficie lunar. El contacto con la nave espacial se perdió a las 07:48 UT en el punto previamente determinado de aterrizaje lunar. Las coordenadas de impacto fueron 3°34' de latitud norte y 56°30' de longitud este, cerca del borde de la Mare Fecunditatis (\"Mar de Fertilidad\"). Oficialmente, los soviéticos anunciaron que \"el aterrizaje lunar en las complejas condiciones montañosas resultó ser desfavorable\". Más tarde, en 1975, los soviéticos publicaron datos del altímetro de radio de onda continua de Luna 18 que determinaban la densidad media del suelo lunar."
+    }
+  ],
+  "num_palabras": 284
+}

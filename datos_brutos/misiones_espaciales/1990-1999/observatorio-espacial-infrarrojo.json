@@ -1,0 +1,30 @@
+{
+  "titulo": "Observatorio Espacial Infrarrojo",
+  "titulo_wikipedia_en": "Infrared Space Observatory",
+  "fecha_lanzamiento": "1995-11-17",
+  "año_lanzamiento": 1995,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Telescopio espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Observatorio_Espacial_Infrarrojo",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Destruido",
+    "Tipo de misión": "Observatorio espacial (infrarrojo)",
+    "Operador": "ESA",
+    "Fecha de lanzamiento": "17 de noviembre de 1995",
+    "Configuración": "Cilíndrica",
+    "Propulsión": "Sin Propulsión",
+    "Sistema de referencia orbital": "Elíptica",
+    "Instrumentos": "ISOCAM\nISOPHOT\nSWS (Short-Wave Spectrometer)\nLWS",
+    "Tipo de fin de misión": "reingreso",
+    "Fecha de reentrada": "Reingreso= 16 de mayo de 1998"
+  },
+  "resumen": "El Observatorio Espacial Infrarrojo (en inglés: Infrared Space Observatory, ISO) fue un telescopio espacial diseñado para observar en el infrarrojo y operado por la Agencia Espacial Europea (ESA) en colaboración con las agencias espaciales ISAS (integrada actualmente en la JAXA de Japón) y la estadounidense NASA. Su construcción fue inicialmente propuesta en 1979 y fue puesto en órbita el 17 de noviembre de 1995 por un Ariane 44P desde Kourou, funcionando hasta el 16 de mayo de 1998, cuando fue incinerado en la atmósfera. En su tiempo fue el satélite de estudios en infrarrojo más sensible lanzado nunca.\nEl telescopio contaba con un espejo principal de 0.6 m y refrigeración por medio de helio líquido. El espejo principal era capaz de enviar la luz a cuatro instrumentos diferentes a través de un espejo piramidal. Los cuatro instrumentos eran:\nISOCAM, una cámara en infrarrojo operativa de 2.5 a 18 micras.\nISOPHOT un fotopolarímetro operativo entre 2.5 y 240 micras capaz de observar objetos a muy pocos grados por encima del cero absoluto.\nSWS (Short-Wave Spectrometer) capaz de observar de 2.4 a 45 micras, capaz de analizar la composición química de objetos muy fríos.\nLWS (Long-Wave Spectrometer) operativo entre las 45 y 197 micras enfocado al estudio espectroscópico de objetos muy fríos como nubes de polvo en el espacio interestelar.\nLa vida efectiva del satélite ISO estaba limitada por su depósito de helio líquido como refrigerante. Inicialmente contaba con un depósito de 2286 litros de helio líquido que fue agotándose conforme proseguía la misión. Inicialmente se le preveía una duración de 18 meses, durando finalmente 28.\nMuchos de los datos obtenidos por ISO continúan siendo analizados por una variedad de equipos internacionales.",
+  "secciones": [],
+  "num_palabras": 280
+}

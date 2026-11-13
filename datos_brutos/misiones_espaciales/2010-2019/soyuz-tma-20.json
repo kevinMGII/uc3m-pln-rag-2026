@@ -1,0 +1,39 @@
+{
+  "titulo": "Soyuz TMA-20",
+  "titulo_wikipedia_en": "Soyuz TMA-20",
+  "fecha_lanzamiento": "2010-12-15",
+  "año_lanzamiento": 2010,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Soyuz_TMA-20",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Indicativo": "Varyag",
+    "Vehículo de lanzamiento": "Plataforma Gagarin",
+    "Fecha de lanzamiento": "15 de diciembre de 2010\n19:09 UTC",
+    "Nave": "Soyuz TMA",
+    "Fecha de aterrizaje": "23 de mayo de 2011",
+    "Programa": "Programa Soyuz",
+    "Misión anterior": "Soyuz TMA-01M",
+    "Misión siguiente": "Soyuz TMA-21"
+  },
+  "resumen": "Soyuz ТМА-20 es un vuelo espacial tripulado a la Estación Espacial Internacional (ISS), que despegó del cosmódromo de Baikonur el 15 de diciembre de 2010 como parte de la expedición 26. Forma parte del programa Soyuz, utilizando las naves de tipo Soyuz TMA. Es la primera misión espacial del comandante Kondratyev, de 41 años.\nOriginalmente, se estimaba el regreso de la misión el 16 de mayo de 2011. La misión tuvo una duración total de 159 días, 7 horas y 17 minutos. La nave fue lanzada mediante un cohete Soyuz-FG desde el cosmódromo de Baikonur (sitio 1/5). El acoplamiento con la Estación Espacial Internacional se produjo el 17 de diciembre de 2010 a las 20:12 UTC en el puerto del módulo Rassvet. La Soyuz TMA-20 se integró a las expediciones 26 y 27 de la ISS, funcionando como vehículo de transporte y de escape de emergencia.",
+  "secciones": [
+    {
+      "titulo": "Tripulación y misiones",
+      "nivel": 2,
+      "texto": "El apodo de la Soyuz TMA-20 para las comunicaciones es Varyag (en ruso Варяг, varegos).\nLa empresa RKK Energiya, responsable de la fabricación de las Soyuz, sustituyó en octubre el módulo de descenso (SA, Spuskaemi Apparat) por un accidente durante su traslado.\nEl astronauta europeo Paolo Nespoli es quizás el tripulante más alto que ha llevado una nave Soyuz, mide 188 cm. Según el presidente de RKK Energiya, Vitaly Lopota, se tuvo que construir un asiento diseñado específicamente para él debido a su altura.\nLa expedición 26 tiene entre otras misiones realizar una serie de experimentos científicos para la ESA, supervisar el último acoplamiento de la nave estadounidense Discovery durante la misión STS-133 y los vehículos de suministros HTV de la JAXA y ATV de la ESA.\nLa nave Soyuz TMA-20 se acopló al puerto del módulo Rassvet de la ISS a las 20:12 GMT el 17 de diciembre. Mientras, la ISS atravesaba el oeste de África a una altitud de 224 millas.\nDurante el desacoplamiento de la ISS, el 23 de mayo de 2011 a las 21:35 UTC, la nave realizó una maniobra poco común: se detuvo a unos 200 metros de la estación para que el astronauta Paolo Nespoli tomara fotografías y grabaciones de la ISS con el transbordador Endeavour acoplado en su última misión (STS-134)."
+    },
+    {
+      "titulo": "Retorno y aterrizaje",
+      "nivel": 2,
+      "texto": "La maniobra de deorbitación comenzó el 24 de mayo de 2011 a las 01:36 UTC, seguida de la separación de los módulos y la reentrada atmosférica. La cápsula de descenso aterrizó sin incidentes a las 02:27 UTC en las estepas de Kazajistán, cerca de Dzhezkazgan. La duración total de la misión fue de 159 días. Tras el aterrizaje, equipos de rescate rusos con helicópteros Mi-8, aviones Antonov y vehículos terrestres asistieron a la tripulación. Coleman y Nespoli fueron trasladados a Houston (Estados Unidos), mientras que Kondratyev regresó al Centro de Entrenamiento de Cosmonautas en Ciudad de las Estrellas. Se reportó que Nespoli presentó un leve problema vestibular tras el retorno."
+    }
+  ],
+  "num_palabras": 474
+}

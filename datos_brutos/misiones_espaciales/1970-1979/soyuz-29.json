@@ -1,0 +1,49 @@
+{
+  "titulo": "Soyuz 29",
+  "titulo_wikipedia_en": "Soyuz 29",
+  "fecha_lanzamiento": "1978-06-15",
+  "año_lanzamiento": 1978,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Soyuz_29",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Masa en el lanzamiento": "6800 kg",
+    "Fecha de lanzamiento": "15 de junio de 1978",
+    "Nave": "Soyuz 7K-T",
+    "Fecha de aterrizaje": "3 de septiembre de 1978",
+    "Duración de la misión": "79,64 días",
+    "Programa": "Programa Soyuz",
+    "Misión anterior": "Soyuz 28",
+    "Misión siguiente": "Soyuz 30"
+  },
+  "resumen": "Soyuz 29 fue una misión de una nave Soyuz 7K-T lanzada el 15 de junio de 1978 desde el cosmódromo de Baikonur con dos cosmonautas a bordo hacia la estación espacial Salyut 6.\nLa misión de Soyuz 29 fue acoplarse a la estación Salyut 6 para realizar diversos experimentos científicos y técnicos. Durante su estancia en la estación (la segunda más larga de la Salyut 6) la tripulación recibió la visita de las misiones Soyuz 30 y Soyuz 31. La tripulación de esta última misión regresó a tierra en la Soyuz 29, permitiendo a la tripulación original permanecer más tiempo en el espacio que el tiempo de vida que la nave Soyuz podía pasar en el espacio.\nLa Soyuz 29 regresó el 3 de septiembre de 1978.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Despegaron",
+      "nivel": 3,
+      "texto": "Vladimir Kovalyonok (Comandante)\nAleksandr Ivanchenkov"
+    },
+    {
+      "titulo": "Aterrizaron",
+      "nivel": 3,
+      "texto": "Valery Bykovsky (Comandante)\nSigmund Jähn (Especialista científico - República Democrática Alemana)"
+    },
+    {
+      "titulo": "Tripulación de respaldo",
+      "nivel": 2,
+      "texto": "Vladimir Lyakhov (Comandante)\nValeri Ryumin (Ingeniero de vuelo)"
+    }
+  ],
+  "num_palabras": 151
+}

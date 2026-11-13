@@ -1,0 +1,20 @@
+{
+  "titulo": "Luna 9",
+  "titulo_wikipedia_en": "Luna 9",
+  "fecha_lanzamiento": "1966-01-31",
+  "año_lanzamiento": 1966,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración lunar",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Luna_9",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {},
+  "resumen": "Luna 9 fue una sonda espacial perteneciente al Programa espacial soviético dentro del Programa Luna. La sonda fue lanzada el 31 de enero de 1966 desde el Cosmódromo de Baikonur, en la Unión Soviética.\nLa sonda alunizó exitosamente el 3 de febrero del mismo año en el Océano de las Tormentas (en las coordenadas ). Fue el primer objeto construido por el hombre en posarse suavemente en otro cuerpo celeste. Cuando se posó, abrió sus largas placas con forma de pétalo y tomó fotos del panorama. Trasmitió fotos y datos durante tres días.\nLa sonda, diseñada por la oficina OKB 1 de Serguéi Koroliov, tenía al lanzamiento un peso de 1580 kg. Las sondas de esta serie, cuando se posaban sobre la superficie lunar a unos 15 metros por segundo, eyectaban mecánicamente la carga útil: una esfera rodeada por una bolsa de aire que actuaba como amortiguador del golpe. Luego la bolsa se desinflaba y se abrían cuatro piezas en forma de pétalos que ponían al descubierto cámaras, antenas y otros instrumentos.\nLa carga útil tenía un peso de 82 kg. En versiones posteriores se aumentó el peso a 230 kg.",
+  "secciones": [],
+  "num_palabras": 191
+}

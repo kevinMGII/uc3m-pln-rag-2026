@@ -1,0 +1,46 @@
+{
+  "titulo": "Venera 9",
+  "titulo_wikipedia_en": "Venera 9",
+  "fecha_lanzamiento": "1975-06-08",
+  "año_lanzamiento": 1975,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración de Venus",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Venera_9",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {},
+  "resumen": "Lanzada el 8 de junio de 1975, la nave Venera 9 (Венера-9, designada por el fabricante como 4V-1 No. 660) era integrante del programa Venera. Fue una sonda espacial soviética que fue la primera astronave que envió a la Tierra una imagen de la superficie de otro planeta, en este caso de Venus. Estaba compuesta por un orbitador y un módulo de aterrizaje (lander) que el 20 de octubre de 1975 se separó del orbitador y aterrizó dos días después cerca del zenit del sol en la superficie de Venus. Un sistema de circulación de fluido fue usado para distribuir el calor. Este sistema de pre-enfriamiento previo a la entrada, permitió la operación de la nave por 53 minutos después del aterrizaje. El aterrizaje se produjo a cerca de 2200 km del posterior lugar de aterrizaje de la Venera 10.",
+  "secciones": [
+    {
+      "titulo": "Orbitador",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Instrumentos del orbitador",
+      "nivel": 3,
+      "texto": "La lista de instrumentos y experimentos del orbitador incluía:\nEspectrómetro de infrarrojos de 1.6-2.8 μm\nRadiómetro de infrarrojos de 8-28 μm\nFotómetro para ultravioleta de 352 nm\n2 fotopolarímetros (335-800 nm)\nEspectrómetro de 300-800 nm\nEspectrómetro de Lyman-α H/D\nRadar de mapeo biestático\nCM, DM para ocultaciones de radio\nMagnetómetro triaxial\nCámara ultravioleta de 345-380 nm\nCámara de 355-445 nm\n6 analizadores electroestáticos\n2 Trampas de modulación iónica\nDetector de protones de baja energía y ondas alpha\nDetector de electrones de baja energía\n3 contadores de semiconductores\n2 contadores de descarga de gas\nDetector de Cherenkov"
+    },
+    {
+      "titulo": "Módulo de aterrizaje",
+      "nivel": 2,
+      "texto": "El 20 de octubre de 1975, el módulo de aterrizaje se separó del orbitador e inició el descenso. El aterrizaje se produjo con el Sol cerca del cénit a las 05:13 UTC del 22 de octubre. La Venera 9 aterrizó dentro de un radio de 150 km del punto 31°01′N 31.01°N] 291.64°E cerca de la Beta Regio, en una pendiente de 20° de inclinación cubierta de rocas (se sospecha que la pendiente forme parte del valle tectónico conocido como Aikhulu Chasma). La sonda de aterrizaje pesaba 1560 kg al inicio de la entrada atmosférica. Una vez llegada a la superficie, su peso era, sin embargo, de 660 kg.\nFue la primera astronave que envió a la Tierra una imagen de la superficie de otro planeta.\nSe hizo uso de un sistema de fluido circulante para distribuir el calor. Este sistema permitió que el módulo funcionara durante 53 minutos después de aterrizar, a la vez que se perdía el contacto por radio con el orbitador. Durante el descenso, la disipación de calor y deceleración fue secuencialmente conseguida gracias a las cubiertas hemiesféricas de protección, tres paracaídas, un freno aerodinámico en forma de disco y el sistema de amortiguadores de la sonda. El aterrizaje se produjo a unos 2200 km de donde aterrizaría la Venera 10.\nLa sonda de aterrizaje de la Venera 9 midió las nubes de Venus, que tenían entre 30 y 40 km de grosor, con su base a entre 30 y 35 km por encima de la superficie del planeta. También detectó substancias químicas en la atmósfera de Venus, como hidrocloros, ácido fluorhídrico, bromo, o yodo. Otras de las medidas que tomó incluyen la presión de superficie (90 atmósferas - 9 MPa), la temperatura (485 °C), y los niveles de luz en superficie (comparables a los de los días nublados de la Tierra en latitudes medias). La Venera 9 fue la primera sonda en enviar a la Tierra fotografías de calidad, en blanco y negro, de la superficie de Venus. En ellas se podían ver sombras, que no había (aparentemente) polvo en suspensión, y una variedad de rocas de entre 30 y 40 cm que no parecía erosionadas. Las fotografías de 360 grados que se querían hacer, no se llevaron a cabo debido a que la tapa del objetivo de la segunda cámara no se abrió, limitándose a 180 grados."
+    },
+    {
+      "titulo": "Componentes del módulo",
+      "nivel": 3,
+      "texto": "La sonda de aterrizaje incluía:\nSensores de temperatura y presión\nAcelerómetro\nFotómetro de IR visible - IOV-75\nNefelómetros - MNV-75\nEspectrómetro de masas P-11- MAV-75\nTelefotómetros panorámicos (2)\nAnemómetro - ISV-75\nEspectrómetro de rayos gamma - GS-12V\nDensitómetro de rayos gamma - RP-75"
+    },
+    {
+      "titulo": "Resultados",
+      "nivel": 3,
+      "texto": "Los resultados preliminares arrojaron los siguientes datos:\n(A) Nubes de 30 km a 40 km de ancho a 30-3 km de altitud.\n(B) Constituyentes atmosféricos incluyeron HCL, HF, Br y I.\n(C) Presión atmosférica en la superficie cerca de 90 atmósferas terrestres.\n(D) Temperatura de la superficie 485 °C.\n(E) Niveles de luz comparable a un día nublado en el verano.\n(F) En las fotografías se observaron sombras, no hay aparentemente polvo en el aire y una variedad de rocas de entre 30-40 cm sin erosionar.\n(G) La sonda aguantó 50 minutos antes de ser aplastada, en esas condiciones, 485 °C y 90 atmósferas de presión, compuestas por amoníaco y ácidos varios. Esa presión es equivalente a 1 km debajo de los océanos terrestres."
+    }
+  ],
+  "num_palabras": 795
+}

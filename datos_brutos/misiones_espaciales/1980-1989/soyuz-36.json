@@ -1,0 +1,49 @@
+{
+  "titulo": "Soyuz 36",
+  "titulo_wikipedia_en": "Soyuz 36",
+  "fecha_lanzamiento": "1980-05-26",
+  "año_lanzamiento": 1980,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Soyuz_36",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Masa en el lanzamiento": "6800 kg",
+    "Fecha de lanzamiento": "26 de mayo de 1980",
+    "Nave": "Soyuz 7K-T",
+    "Fecha de aterrizaje": "31 de julio de 1980",
+    "Duración de la misión": "65,87 días",
+    "Programa": "Programa Soyuz",
+    "Misión anterior": "Soyuz 35",
+    "Misión siguiente": "Soyuz T-2"
+  },
+  "resumen": "Soyuz 36 fue una misión de una nave Soyuz 7K-T lanzada el 26 de mayo de 1980 desde el cosmódromo de Baikonur con dos cosmonautas a bordo hacia la estación espacial Salyut 6, siendo uno de ellos el húngaro Bertalan Farkas, en el marco del programa Intercosmos.\nLa misión de Soyuz 36 consistía en acoplarse a la estación Salyut 6 para realizar diversos experimentos relacionados con el procesamiento de materiales, la observación terrestre y la biología. La misión fue pospuesta en junio de 1979 tras el fallo del motor de la Soyuz 33. Los dos cosmonautas de la Soyuz 36 regresaron a bordo de la Soyuz 35, acoplada a la estación en el momento de llegar ellos, y la nave de la Soyuz 36 fue utilizada para el regreso de los tripulantes de la misión Soyuz 37.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Despegaron",
+      "nivel": 3,
+      "texto": "Valeri Kubasov (Comandante)\nBertalan Farkas (Especialista científico de Hungría)"
+    },
+    {
+      "titulo": "Aterrizaron",
+      "nivel": 3,
+      "texto": "Viktor Gorbatko (Comandante)\nPham Tuân (Especialista científico de Vietnam)"
+    },
+    {
+      "titulo": "Tripulación de respaldo",
+      "nivel": 2,
+      "texto": "Vladimir Dzhanibekov (Comandante)\nBéla Magyari (Especialista científico de Hungría)"
+    }
+  ],
+  "num_palabras": 164
+}

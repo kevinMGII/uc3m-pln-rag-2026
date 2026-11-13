@@ -1,0 +1,39 @@
+{
+  "titulo": "Luna 17",
+  "titulo_wikipedia_en": "Luna 17",
+  "fecha_lanzamiento": "1970-11-10",
+  "año_lanzamiento": 1970,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración lunar",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Luna_17",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Inactivo",
+    "Tipo de misión": "Ciencias planetarias\nVehículo lunar Lunojod 1, que recorrió 10,5 km",
+    "Operador": "URSS",
+    "Fabricante": "GSMZ Lavochkin",
+    "Fecha de lanzamiento": "10 de noviembre de 1970; 14:44:01 UTC",
+    "Lugar de lanzamiento": "Cosmódromo de Baikonur",
+    "Vehículo de lanzamiento": "Proton 8K82K + Bloque D",
+    "Duración planificada": "322 días\nÚltimo contacto 14 de septiembre de 1971 13:05 UTC",
+    "ID NSSDC": "1970-095A",
+    "Masa en el lanzamiento": "5700 kg",
+    "Instrumentos": "espectrómetro de rayos X, un telescopio de rayos X, detectores de rayos cósmicos, y un dispositivo de láser",
+    "Datos interplanetarios": "tipo: acercamiento | objeto: Luna"
+  },
+  "resumen": "Luna 17 (Serie E-8) fue una misión espacial robótica del programa Luna, lanzada por la URSS en 1970. Portaba el rover lunar Lunojod 1.",
+  "secciones": [
+    {
+      "titulo": "Desarrollo de la misión",
+      "nivel": 2,
+      "texto": "Luna 17 fue lanzada desde su órbita de estabilización terrestre hacia la Luna, y entró en órbita lunar el 15 de noviembre de 1970. La aeronave alunizó suavemente en el Mare Imbrium. Disponía de rampas dobles por las que su carga útil, el Lunojod 1, descendió a la superficie lunar.\nEl Lunojod 1 era un vehículo lunar formado por un compartimento en forma de bañera cubierto por una gran tapa convexa y dotado de ocho ruedas con tracción independiente. Estaba equipado con una antena cónica, otra antena helicoidal altamente direccional, cuatro cámaras de televisión, y dispositivos extensibles especiales para realizar ensayos mecánicos del terreno lunar. También incluía un espectrómetro de rayos X, un telescopio de rayos X, detectores de rayos cósmicos, y un dispositivo láser. El vehículo era alimentado por un conjunto de células solares montadas en la cara interior de la tapa. Las operaciones del Lunojod cesaron oficialmente el 4 de octubre de 1971, el día del aniversario del Sputnik 1, después de haber recorrido 10,5 kilómetros sobre la superficie lunar mientras tomaba fotos y realizaba numerosas pruebas.\nLuna 17 continuó la serie de éxitos en la exploración lunar soviética (iniciada con Luna 16 y Zond 8) transportando el Lunojod 1, el primero de una serie de vehículos móviles robotizados lunares cuya concepción se había iniciado a comienzos de la década de 1960, originalmente como parte preliminar de las operaciones de aterrizaje lunares tripuladas.\nFue el segundo intento de alunizaje de un vehículo de este tipo después de un fracaso en febrero de 1969. El módulo de descenso lunar estaba equipado con dos rampas para que la \"etapa de descenso,\" es decir, el rover, desembarcase en la superficie de la Luna. El vehículo pesaba unos 756 kilogramos, y medía aproximadamente 1,35 metros de alto y 2,15 metros de ancho. Cada una de sus ocho ruedas podía ser controlada independientemente, con dos velocidades adelante y dos velocidades atrás. Su velocidad máxima era de aproximadamente 100 metros por hora, respondiendo a las órdenes emitidas por un equipo de cinco \"conductores\" situados en la Tierra, que tuvieron que acostumbrarse a los cinco segundos de retraso en las comunicaciones. El conjunto de instrumentos científicos era alimentado por células solares (instaladas en el interior de la tapa superior del rover, articulada con bisagras) y baterías químicas. Después de las dos correcciones de curso en su ruta hacia la Luna, Luna 17 ingresó en órbita lunar, tras lo que alunizó a las 03:46:50 UT el 17 de noviembre de 1970 en las coordenadas 38°17' latitud norte y 35° longitud oeste, aproximadamente a unos 2.500 kilómetros del Luna 16, situado en el Mare Imbrium. El rover Lunojod 1 rodó sobre las rampas hacia la superficie lunar a las 06:28 UT. Durante sus 322 días de operación desde Tierra, el rover viajó 10,54 kilómetros y envió más de 20.000 imágenes de televisión y 206 vistas panorámicas de alta resolución. Además, realizó veinticinco análisis del suelo lunar con su espectrómetro de fluorescencia de rayos X RIFMA; y utilizó su penetrómetro en 500 ubicaciones diferentes. Los controladores mantuvieron la última sesión de comunicaciones con el Lunojod 1 a las 13:05 UT del 14 de septiembre de 1971. Los intentos de restablecer el contacto fueron finalmente interrumpidos el 4 de octubre.\nEn marzo de 2010, el Lunar Reconnaissance Orbiter fotografió el punto de alunizaje del Luna 17, mostrando el módulo lunar y las huellas dejadas por el rover. En abril de 2010, el Apache Point Observatory Lunar Laser-ranging Operation anunció que con la ayuda de estas fotos, habían encontrado el lárgamente perdido rover y habían recibido la señal de retorno de su retrorreflector láser."
+    }
+  ],
+  "num_palabras": 628
+}

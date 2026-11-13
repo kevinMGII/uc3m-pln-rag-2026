@@ -1,0 +1,41 @@
+{
+  "titulo": "Pioneer 3",
+  "titulo_wikipedia_en": "Pioneer 3",
+  "fecha_lanzamiento": "1958-12-06",
+  "año_lanzamiento": 1958,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración lunar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Pioneer_3",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Reentrada en la atmósfera",
+    "Operador": "NASA",
+    "Fecha de lanzamiento": "6 de diciembre de 1958",
+    "Lugar de lanzamiento": "Cabo Cañaveral",
+    "Vehículo de lanzamiento": "Juno",
+    "ID NSSDC": "1958-008A",
+    "Masa en el lanzamiento": "5.87 kg",
+    "Sistema de referencia orbital": "Heliocéntrica",
+    "Tipo de fin de misión": "reingreso",
+    "Fecha de reentrada": "7 de diciembre de 1958"
+  },
+  "resumen": "La Pioneer 3 es una sonda espacial, lanzada el 6 de diciembre de 1958, por la agencia militar USAF y la NASA. La sonda fue creada para llegar a la Luna y entrar en una órbita heliocéntrica planificada, pero tan solo alcanzó una altura de 102 360 km, antes de caer sobre la Tierra. Los objetivos eran medir la radiación en el cinturón de Van Allen usando 2 tubos Geiger-Müller y probar un prototipo fotográfico lunar.",
+  "secciones": [
+    {
+      "titulo": "El diseño",
+      "nivel": 2,
+      "texto": "Al igual que su hermana, la sonda Pioneer 4, su diseño era un cono de 58 cm de altura por 25 cm de base. El cono estaba compuesto por un chasis de fibra de vidrio, revestido de una fina capa de oro eléctricamente conductiva. A lo largo de su estructura unas bandas blancas permitían mantener la temperatura de la sonda entre los 10 y los 50 °C. En la parte superior del cono, disponía de la antena de comunicación. En la base del cono se encontraban las baterías de mercurio, junto con un sensor fotoeléctrico. El sensor fue diseñado para activarse con la luz lunar cuando se encontrara a una distancia de 30 000 km; en el centro del cono. se instaló un tubo de suministro de voltaje y 2 tubos Geiger-Müller."
+    },
+    {
+      "titulo": "La misión",
+      "nivel": 2,
+      "texto": "El plan de vuelo, estaba diseñado para que la sonda pasara cerca de la Luna, 33:75 horas después de su lanzamiento. Desafortunadamente, su motor principal se paró unos 4 segundos antes, impidiendo que la sonda alcanzara la velocidad correcta, para escapar de la atracción gravitacional terrestre. Tan sólo alcanzó una altitud de 102 360 km, antes de caer y desintegrarse en el cielo de África, en una posición estimada de 16.4 N, 18.6 E. La sonda envió datos de telemetría durante 25 horas de las 38 que estuvo activa. Las 13 horas de diferencia, fueron períodos de silencio debido a las posiciones de las estaciones de seguimiento. Aunque la sonda no fue recuperada, los datos obtenidos fueron de interés para James Van Allen, ya que permitieron el descubrimiento de un segundo anillo de radiación alrededor de la Tierra. A estos cinturones de radiación se los denomina Cinturones de Van Allen, en honor a su descubridor."
+    }
+  ],
+  "num_palabras": 363
+}

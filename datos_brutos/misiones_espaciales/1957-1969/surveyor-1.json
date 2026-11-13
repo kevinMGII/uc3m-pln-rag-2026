@@ -1,0 +1,20 @@
+{
+  "titulo": "Surveyor 1",
+  "titulo_wikipedia_en": "Surveyor 1",
+  "fecha_lanzamiento": "1966-05-30",
+  "año_lanzamiento": 1966,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración lunar",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Surveyor_1",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {},
+  "resumen": "La Surveyor 1, del Programa Surveyor, fue la primera sonda estadounidense en alunizar, en mayo de 1966. Con esta misión la NASA empezó a estudiar la Luna y a planear un posible alunizaje tripulado.\nDurante un período de aproximadamente 30 días, el Surveyor 1 transmitió más de 11 000 fotografías, así como datos sobre la superficie y la temperatura de la luna.",
+  "secciones": [],
+  "num_palabras": 62
+}

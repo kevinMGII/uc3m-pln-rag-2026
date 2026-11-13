@@ -1,0 +1,19 @@
+{
+  "titulo": "ROSAT",
+  "titulo_wikipedia_en": "ROSAT",
+  "fecha_lanzamiento": "1990-06-01",
+  "año_lanzamiento": 1990,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Telescopio espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/ROSAT",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {},
+  "resumen": "ROSAT (abreviatura de Röntgensatellit) era un satélite artificial que portaba un telescopio de rayos X dirigido por el Centro Aeroespacial Alemán, con instrumentos construidos en Alemania, el Reino Unido y los EE. UU. Fue lanzado el 1 de junio de 1990 en un cohete Delta II desde Cabo Cañaveral. Diseñado inicialmente para una misión de 18 meses, con posibilidades de hasta cinco años de operación. ROSAT operó durante más de ocho años, siendo apagado el 12 de febrero de 1999.\nEn febrero de 2011, se informó de que era poco probable que se quemara por completo al volver a entrar en la atmósfera de la Tierra debido a la gran cantidad de materiales cerámicos y de vidrio utilizados en la construcción del satélite. Se creyó que piezas tan pesadas como de unos 400 kilogramos podrían impactar la superficie terrestre sin estar incineradas. ROSAT, finalmente, volvió a entrar en la atmósfera de la Tierra el 23 de octubre de 2011.",
+  "secciones": [],
+  "num_palabras": 159
+}

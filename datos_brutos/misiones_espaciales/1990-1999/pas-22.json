@@ -1,0 +1,74 @@
+{
+  "titulo": "PAS-22",
+  "titulo_wikipedia_en": "PAS-22",
+  "fecha_lanzamiento": "1997-12-24",
+  "año_lanzamiento": 1997,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración lunar"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/PAS-22",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Otros nombres": "AsiaSat 3\nHGS-1\nPAS-22",
+    "Tipo de misión": "Comunicaciones",
+    "Operador": "AsiaSat (1997–1998)\nHughes (1998–1999)\nPanAmSat (1999-2002)",
+    "ID COSPAR": "1997-086A",
+    "Nº SATCAT": "25126",
+    "Duración de la misión": "15 años (previsto)\n4 años (logrado)",
+    "Nave": "AsiaSat 3",
+    "Tipo de nave": "Boeing 601",
+    "Plataforma (bus)": "HS-601HP",
+    "Fabricante": "Espacio y comunicaciones de Hughes",
+    "Masa en el lanzamiento": "3.465 kg",
+    "Masa en seco": "2500 kg",
+    "Dimensiones": "3,4 m x 3,5 m x 5,8 m\nSpan: 26,2 m en órbita",
+    "Potencia": "9,9 kW",
+    "Fecha de lanzamiento": "24 de diciembre de 1997,\n23:19:00 UTC",
+    "Vehículo de lanzamiento": "Proton-K / DM-2M",
+    "Lugar de lanzamiento": "Baikonur, sitio 81/23",
+    "Contratista del lanzamiento": "Centro Estatal de Investigación y Producción Espacial de Khrunichev",
+    "Entrada en servicio": "Julio de 1998",
+    "Tipo de fin de misión": "Órbita del cementerio",
+    "Desactivación": "Julio de 2002",
+    "Sistema de referencia orbital": "Órbita geocéntrica",
+    "Régimen orbital": "órbita geoestacionaria",
+    "Órbita longitud": "105,5° Este (previsto)\n158o Oeste (1998-1999)\n62° Oeste (1999-2002)",
+    "Datos interplanetarios": "tipo: flyby | objeto: Luna Fecha de llegada: 13 mayo 1998, 19:00 UTC | distancia: 6200 km\nTipo: flyby | objeto: La Luna | fecha de llegada: 6 junio 1998, 16:30 UTC | distancia: 34300 km",
+    "Banda de transmisión": "44 transpondedores:\nBanda C 28\n16 Ku-band",
+    "Trans cobertura": "Asia",
+    "Programa": "Constelación AsiaSat",
+    "Misión anterior": "AsiaSat 2",
+    "Misión siguiente": "AsiaSat 3S",
+    "Programa (2)": "Constelación PanAmSat",
+    "Misión anterior (2)": "PAS 6B",
+    "Misión siguiente (2)": "PAS 9"
+  },
+  "resumen": "AsiaSat 3, anteriormente conocido como HGS-1 y luego PAS-22, era un satélite de comunicaciones geosincrónicas, que fue rescatado de una órbita de transferencia geosincrónica inutilizable (GTO) por medio de la gravedad de la Luna.",
+  "secciones": [
+    {
+      "titulo": "Lanzamiento de AsiaSat 3",
+      "nivel": 2,
+      "texto": "AsiaSat 3 fue lanzado para AsiaSat de Hong Kong para prestar servicios de comunicaciones y televisión en Asia mediante un vehículo de lanzamiento Proton-K/ DM-2M el 24 de diciembre de 1997, destinado a una posición orbital a 105,5° este. Sin embargo, un fallo de la cuarta etapa de Blok DM-2M lo dejó varado en una órbita elíptica y altamente inclinada (51,6°), aunque todavía totalmente funcional. Fue declarada una pérdida total por sus aseguradores."
+    },
+    {
+      "titulo": "HGS-1",
+      "nivel": 2,
+      "texto": "El satélite fue transferido a Hughes Global Services Inc., que entonces era una filial de Hughes Space and Communications, con un acuerdo para compartir cualquier beneficio con el consorcio de 27 aseguradores.\nEdward Belbruno y Rex Ridenoure escucharon sobre el problema y propusieron una trayectoria de transferencia de baja energía de 3-5 meses que pasaría por la Luna y dejaría el satélite en órbita geoestacionaria alrededor de la Tierra. Hughes no tenía la capacidad de rastrear el satélite a tal distancia y consideraba que este concepto de trayectoria era inviable. En su lugar, Hughes utilizó una trayectoria de retorno libre estilo Apollo que requirió sólo unos pocos días para completar, una trayectoria diseñada y posteriormente patentada por el tecnólogo jefe Hughes Jerry Salvatore. Esta maniobra eliminó sólo 40° de inclinación orbital y dejó el satélite en una órbita geosincrónica, mientras que la maniobra de Belbruno habría eliminado todos los 51° de inclinación y lo habría dejado en órbita geoestacionaria.\nAunque Hughes no terminó usando la trayectoria de transferencia de baja energía, la perspicacia de usar un swingby lunar fue clave para el rescate de la nave espacial. Según César Ocampo, Hughes no había considerado esta opción hasta que fue contactada por Ridenoure, aunque los ingenieros Hughes involucrados en las operaciones de vuelo lunar han declarado que ya estaban trabajando en el diseño de la misión lunar swingby antes de ser contactados por él."
+    },
+    {
+      "titulo": "Rescate del satélite",
+      "nivel": 3,
+      "texto": "Utilizando propulsor a bordo y gravedad lunar, el apogeo de la órbita fue gradualmente aumentado con varias maniobras en perigeo hasta que voló por la Luna a una distancia de 6.200 km de su superficie en mayo de 1998, convirtiéndose en un sentido en la primera nave espacial lunar comercial. Otro vuelo lunar fue realizado más tarde ese mes (6 de junio de 1998) a una distancia de 34.300 km para mejorar aún más la inclinación orbital.\nEstas operaciones consumieron la mayor parte del propulsor del satélite, pero todavía mucho menos de lo que se necesitaría para eliminar la inclinación sin las maniobras de asistencia a la Luna. Con el combustible restante, el satélite podría ser controlado como un satélite geosincrónico, con la mitad de la vida de un satélite normal, una gran ganancia, teniendo en cuenta que se había declarado una pérdida total. El satélite fue maniobrado a la órbita geosincrónica a 158° oeste.\nUna vez que el satélite se encontraba en una órbita estable, se le ordenó que liberara sus paneles solares, que habían sido estibados durante el despegue y la maniobra. De los dos paneles solares del satélite, sólo se liberó uno, y se hizo evidente que una atadura no funcionaba correctamente a bordo, lo que los ingenieros atribuyeron a los ciclos de calefacción y refrigeración debido a que el satélite operaba fuera de su rango de diseño mientras viajaba a su órbita final."
+    },
+    {
+      "titulo": "PAS-22",
+      "nivel": 2,
+      "texto": "En abril de 1999, Hughes pidió autorización para explotar el satélite a 60° oeste en banda C y en banda Ku. En 1999, HGS-1 fue adquirido por PanAmSat, renombrado como PAS-22, y se trasladó a 60° Oeste. Fue desactivada en julio de 2002 y se trasladó a una órbita de cementerio."
+    }
+  ],
+  "num_palabras": 628
+}

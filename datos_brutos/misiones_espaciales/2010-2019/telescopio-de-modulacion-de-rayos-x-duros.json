@@ -1,0 +1,21 @@
+{
+  "titulo": "Telescopio de modulación de rayos X duros",
+  "titulo_wikipedia_en": "Hard X-ray Modulation Telescope",
+  "fecha_lanzamiento": "2017-06-14",
+  "año_lanzamiento": 2017,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Telescopio espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Telescopio_de_modulación_de_rayos_X_duros",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo": "Telescopio de rayos X"
+  },
+  "resumen": "El telescopio de modulación de rayos X duros (HXMT) también conocido como Insight (chino: 慧眼) es un observatorio espacial chino de la radiografía, lanzado el 15 de junio de 2017 para observar agujeros negros, las estrellas de neutrones y otros fenómenos basados En sus rayos X y las emisiones de rayos gamma. Será el primer satélite de astronomía de China. Se basa en la plataforma de la serie de satélite de reconocimiento de imágenes JianBing 3.\nEl principal instrumento científico es un conjunto de 18 detectores de centelleo de NaI (Tl) / CsI (na) colimados, colimados a campos de visión superpuestos de 5,7 ° × 1 ° Los principales detectores NaI tienen un área de 286 cm² cada uno, y cubren el rango de energía de 20-200 keV. Se planea que el análisis de datos sea por un método algebraico directo, \"demodulación directa\", que ha mostrado prometedo en desconvertir los datos sin procesar en imágenes preservando al mismo tiempo una excelente resolución angular y energética.\nEl proyecto, una colaboración conjunta del Ministerio de Ciencia y Tecnología de China, la Academia China de Ciencias y la Universidad de Tsinghua, está en desarrollo desde el año 2000.",
+  "secciones": [],
+  "num_palabras": 195
+}

@@ -1,0 +1,46 @@
+{
+  "titulo": "STS-5",
+  "titulo_wikipedia_en": "STS-5",
+  "fecha_lanzamiento": "1982-11-11",
+  "año_lanzamiento": 1982,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/STS-5",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Lugar de lanzamiento": "KSC LC-39A",
+    "Fecha de lanzamiento": "11 de noviembre de 1982, 7:19:00 a. m. EST",
+    "Nave": "Columbia",
+    "Fecha de aterrizaje": "16 de noviembre de 1982, 6:33:26 a. m. PST",
+    "Duración de la misión": "5 d, 2 h, 14 min, 26 s",
+    "Inclinación orbital": "28,5 grados",
+    "Distancia recorrida": "2.110.849 millas (3.397.082 km)",
+    "Misión anterior": "STS-4",
+    "Misión siguiente": "STS-6",
+    "Programa": "Programa del Transbordador Espacial"
+  },
+  "resumen": "La misión STS-5 fue una misión del transbordador espacial de la NASA usando el transbordador espacial Columbia, lanzada el 11 de noviembre de 1982. Esta fue la quinta misión del transbordador espacial, y fue también la quinta misión del transbordador espacial Columbia.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Vance D. Brand (4), Comandante\nRobert F. Overmyer (2), Piloto\nJoseph P. Allen (2), Especialista de la misión\nWilliam B. Lenoir (1), Especialista de la misión\n(1) número de vuelos espaciales hechos por cada miembro de la tripulación, hasta la fecha inclusive esta misión."
+    },
+    {
+      "titulo": "Parámetros de la misión",
+      "nivel": 2,
+      "texto": "Masa:\nOrbitador al despegue: 112.088 kg\nOrbitador al aterrizaje: 91.841 kg\nCarga: 14.551 kg\nPerigeo: 294 km\nApogeo: 317 km\nInclinación: 28,5°\nPeríodo: 90,5 min"
+    },
+    {
+      "titulo": "Insignia de la misión",
+      "nivel": 2,
+      "texto": "Los vértices de la estrella azul del parche de la misión identifica la designación numérica en la secuencia de misiones del sistema de transporte espacial."
+    }
+  ],
+  "num_palabras": 136
+}

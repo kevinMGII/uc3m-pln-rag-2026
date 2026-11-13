@@ -1,0 +1,55 @@
+{
+  "titulo": "VSS Unity VP-03",
+  "titulo_wikipedia_en": "VSS Unity VP-03",
+  "fecha_lanzamiento": "2018-12-13",
+  "año_lanzamiento": 2018,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/VSS_Unity_VP-03",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Vuelo espacial suborbital tripulado",
+    "Operador": "Virgen Galáctica",
+    "Apogeo suborbital": "82,7 km",
+    "Nave": "Unidad VSS",
+    "Tipo de nave": "SpaceShipDos",
+    "Fabricante": "Compañía de Naves Espaciales",
+    "Tripulación": "Mark Stucky; Frederick Sturckow",
+    "Fecha de lanzamiento": "13 de diciembre de 2018",
+    "Lugar de lanzamiento": "Pista de Mojave 30",
+    "Desplegado desde": "VMS Eve",
+    "Fecha de aterrizaje": "13 de diciembre de 2018",
+    "Lugar de aterrizaje": "Pista de Mojave 30",
+    "Programa": "VSS Vuelos espaciales de la Unidad",
+    "Misión siguiente": "VF-01"
+  },
+  "resumen": "VP-03 (también conocido en algunas fuentes como PF04) fue un vuelo espacial sub-orbital del SpaceShipTwo-class VSS Unity que tuvo lugar el 13 de diciembre de 2018, pilotado por Mark P. Atascada y copilotada por Frederick W. \"CJ\" Sturckow.\nVSS Unity fue llevado en alto por el portaaviones White Knight Dos antes de ser liberado. La nave espacial alcanzó un apogeo de 82,7 km; el vuelo cumplía la definición de vuelo espacial de los Estados Unidos (50 millas), pero no alcanzaba la línea Kármán (100 kilómetros), la definición de la Federación Aérea Internacional. El vuelo fue operado por Virgin Galáctica, una compañía privada dirigida por Richard Branson que realizó un vuelo de turismo espacial el 11 de julio de 2021. Fue el primer vuelo espacial tripulado desde suelo estadounidense desde la misión del transbordador espacial STS-135 en 2011.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "En la actualidad, los vuelos son sólo por la Convención de los Estados Unidos."
+    },
+    {
+      "titulo": "Antecedentes",
+      "nivel": 2,
+      "texto": "Durante el siglo XX, los vuelos espaciales humanos fueron realizados exclusivamente por países y organismos gubernamentales, como la NASA. Esto comenzó a cambiar a principios del siglo XXI, ya que varias compañías privadas de vuelos espaciales continuaron su desarrollo o se establecieron. De 2000 a 2004 se fundaron Blue Origin, SpaceX y Virgin Galactic. En 2004, SpaceShipOne se convirtió en la primera nave privada en transportar humanos al espacio. En tres vuelos suborbitales separados de un solo hombre, los pilotos Mike Melvill y Brian Binnie alcanzaron una altitud máxima superior a 100 kilómetros, cruzando así la línea Kármán, la frontera internacionalmente reconocida del espacio ultraterrestre. SpaceShipOne fue llevado en vuelo en una configuración parasitaria por White Knight, su nave nodriza, desde donde voló al espacio. SpaceShipOne fue diseñado por Burt Rutan y fabricado por Scaled Composites, una empresa que había fundado en 1982. En 2005, el fundador de Rutan y Virgin Galactic, Richard Branson, co-fundó The Spaceship Company, una organización de fabricación separada destinada a suministrar a Virgin Galactic una flota de naves espaciales. Los resultados fueron SpaceShipTwo y la nave madre White Knight Two, también diseñada por Rutan. Las primeras instancias de cada nave fueron denominadas VSS Enterprise y VMS Eve, respectivamente. El aspecto parásito de los perfiles de vuelo de SpaceShipOne y SpaceShipTwo se comparte con el norteamericano X-15, un avión espacial anterior que también realizó vuelos de alta altitud y suborbital.\nEn mayo de 2013, el astronauta retirado de la NASA y el veterano del transbordador espacial Frederick \"CJ\" Sturckow se unieron a Virgin Galactic como piloto de pruebas. Sturckow había volado anteriormente en STS-88, STS-105, STS-117 y STS-128 antes de entrar en el sector privado de los vuelos espaciales.\nEl 31 de octubre de 2014, el Enterprise fue destruido en una ruptura catastrófica, matando a su copiloto Michael Alsbury e hiriendo gravemente a su piloto Peter Siebold. Tras el desastre, la segunda nave SpaceShipTwo, VSS Unity, se completó en 2016 y comenzó a probar.\nEn enero de 2015, el piloto de pruebas de Scaled Composites Mark \"Forger\" Stucky fue contratado por Virgin Galáctica como piloto de pruebas. Stucky había estado estrechamente involucrado en el desarrollo de SpaceShipTwo durante su mandato con Scaled. También sirvió durante un año (2014-2015) como presidente de la Sociedad de Pilotos de Pruebas Experimentales."
+    },
+    {
+      "titulo": "Vuelo",
+      "nivel": 2,
+      "texto": "El 13 de diciembre de 2018, a una altitud de 43.000 pies, el VMS Eve lanzó el VSS Unity para su cuarto vuelo de prueba con motor. El piloto principal Stucky y el copiloto Sturckow volaron Unity a un máximo de Mach de 2,9 a una altitud de 82,7 km, superando así el límite de 50 millas utilizado en los Estados Unidos para denotar el límite de espacio, pero quedando por debajo de la línea de Kármán de 62 millas. Ambas naves aterrizaron a salvo después. El vuelo fue publicitado en línea en varios tuits por Virgin Galáctica, Branson mismo, y personal relacionado."
+    },
+    {
+      "titulo": "Respuesta",
+      "nivel": 2,
+      "texto": "La Administración Federal de Aviación felicitó a Virgin Galáctica y a los pilotos en su exitoso vuelo, e invitó al equipo a Washington, D.C. para una ceremonia para premiar a los pilotos astronautas alas.\nVirgin Galáctica y su personal también fueron felicitados en Twitter por el vicepresidente estadounidense Mike Pence, el administrador de la NASA Jim Bridenstine, el astronauta canadiense Chris Hadfield y el astronauta británico Tim Peake. Por otro lado, Virgin Galáctica fue criticada fuertemente después del vuelo por el astronauta australiano-americano Andy Thomas, quien caracterizó su programa sub-orbital como \"un vuelo de avión de alta altitud y uno peligroso en eso\"."
+    }
+  ],
+  "num_palabras": 739
+}

@@ -1,0 +1,138 @@
+{
+  "titulo": "Explorer 50",
+  "titulo_wikipedia_en": "Explorer 50",
+  "fecha_lanzamiento": "1973-10-26",
+  "año_lanzamiento": 1973,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión heliofísica"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Explorer_50",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Otros nombres": "IMP-J\nIMP-8\nPlataforma de Vigilancia Interplanetaria-8",
+    "Tipo de misión": "Física espacial",
+    "Operador": "NASA",
+    "ID COSPAR": "1973-078A",
+    "Nº SATCAT": "06893",
+    "Duración de la misión": "34 años (logrado)\n(en órbita)",
+    "Nave": "Explorador L",
+    "Tipo de nave": "Plataforma de Monitoreo Interplanetario",
+    "Plataforma (bus)": "IMP",
+    "Fabricante": "Centro de Vuelo Espacial Goddard",
+    "Dimensiones": "Poliedro de 16 caras:\n157,4 cm de altura\n135,6 cm de diámetro",
+    "Masa en el lanzamiento": "371 kg",
+    "Potencia": "150 vatios",
+    "Fecha de lanzamiento": "26 de octubre de 1973, 02:26:03 UTC",
+    "Vehículo de lanzamiento": "Thor-Delta 1604\n(Thor 582 / Delta 097)",
+    "Lugar de lanzamiento": "Cabo Cañaveral, LC-17B",
+    "Contratista del lanzamiento": "Douglas Aircraft Company",
+    "Entrada en servicio": "26 de octubre de 1973",
+    "Última señal": "7 de octubre de 2006",
+    "Desactivación": "Octubre de 2001",
+    "Sistema de referencia orbital": "Órbita geocéntrica",
+    "Régimen orbital": "Alta órbita terrestre",
+    "Periapsis": "22.11 RE",
+    "Apoapsis": "45.26 RE",
+    "Inclinación orbital": "28.64°",
+    "Periodo orbital": "11,99 días",
+    "Instrumentos": "Experimento de medición de partículas cargadas (CPME)\nComposición nuclear de Rayo Cósmico\nElectrones, hidrógeno e isótopos de helio\nCampos electrostáticos\nOlas electrostáticas y ruido de radio\nElectrones y protones energéticos\nExperimento de campo magnético\nMedición de protones y electrones de baja energía\nPartículas solares y de rayos cósmicos\nAnalizador electrostático de plasma solar\nCopa Solar Plasma Faraday",
+    "Programa": "Programa Exploradores",
+    "Misión anterior": "Explorer 49",
+    "Misión siguiente": "Explorer 51",
+    "Programa (2)": "Plataforma de Monitoreo Interplanetario",
+    "Misión anterior (2)": "IMP-H"
+  },
+  "resumen": "Explorer 50, también conocido como IMP-J o IMP-8, fue un satélite de la NASA lanzado para estudiar la magnetosfera. Fue el octavo y último de una serie de la Plataforma de Monitoreo Interplanetario.",
+  "secciones": [
+    {
+      "titulo": "Vehículo espacial",
+      "nivel": 2,
+      "texto": "Explorer 50 era una nave espacial en forma de tambor, 135,6 cm (53.4 pulgadas) de ancho y 157,4 cm (62.0 pulgadas), con propulsión Star-17A, instrumentada para estudios interplanetarios de medio y magnetotail de rayos cósmicos, partículas solares energéticas, plasma y campos eléctricos y magnéticos. Su órbita inicial fue más elíptica de lo previsto, con distancias de apogeo y perigeo de aproximadamente 45.26 radios terrestres y 22.11 radios terrestres. Su excentricidad orbital disminuyó después del lanzamiento. Su inclinación orbital varió entre 0 grados y alrededor de 55° con una periodicidad de varios años. El eje de giro de la nave espacial era normal para el plano eclíptico, y la velocidad de giro era de 23 rpm. La tasa de telemetría de datos fue de 1600 bit/s. La nave espacial estuvo en el viento solar durante 7 a 8 días de cada órbita de 11.99 días. La cobertura de la telemetría fue del 90% en los primeros años, pero sólo del 60-70% durante la mayor parte de los años ochenta y principios de los noventa. La cobertura volvió al rango del 90% a mediados de la década de 1990."
+    },
+    {
+      "titulo": "Lanzamiento",
+      "nivel": 2,
+      "texto": "Explorer 50 fue lanzado el 23 de octubre de 1973 a las 02:26:03 UTC, por un vehículo de lanzamiento Thor-Delta 1604 desde Cabo Cañaveral (CCAFS), Florida. La nave espacial funcionó nominalmente hasta el 7 de octubre de 2006. El satélite orbitaba la Tierra una vez cada 12 días, con una inclinación de 28,67°. Su perigeo era 25 radios terrestres y el apogeo era 45 radios terrestres."
+    },
+    {
+      "titulo": "Experimentos",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Experimento de medición de partículas cargadas (CPME)",
+      "nivel": 3,
+      "texto": "Tres detectores de estado sólido en un centrifugador plástico anticoincidente observaron electrones entre 0,2 y 2,5 MeV; protones entre 0,3 y 500 MeV; partículas alfa entre 2,0 y 200 MeV; partículas pesadas con valores Z que van de 2 a 5 con energías superiores a 8 MeV; partículas pesadas con valores Z que van de 6 a 8 con energías superiores a 32 MeV; y protones integrales y alfas de energías superiores a 50 MeV/nucleón, todos con rangos dinámicos de 1 a 1E+6 partículas por (cm2-segundo-sr). Cinco tubos Geiger-Müller de ventana delgada observaron electrones de energía superior a 15 keV, protones de energía superior a 250 keV y rayos X con longitudes de onda entre 2 y 10 A, todos con un rango dinámico de 10 a 1E+8 por (cm2-segundo-sr). Se estudiaron partículas y rayos X, principalmente de origen solar, pero el rango dinámico y la resolución del instrumento también permitieron la observación de los rayos cósmicos y las partículas magnetocolas."
+    },
+    {
+      "titulo": "Composición nuclear de Rayo Cósmico",
+      "nivel": 3,
+      "texto": "Este experimento utilizó dos telescopios para medir la composición y los espectros de energía de partículas solares (y galácticas) por encima de aproximadamente 0,5 MeV/nucleón. El telescopio principal consistió en cinco elementos colineales (tres estado sólido, un yoduro de cesio (CsI) y un zafiro Cherenkov) rodeados por un escudo de anticoincidencia de plástico. El telescopio tenía un cono de aceptación de ángulo completo de 60° con su eje aproximadamente normal al eje de giro de la nave espacial, lo que permite información de ocho sectores sobre la dirección de llegada de partículas. Cuatro elementos del telescopio principal fueron analizados en altura de pulso, y los modos de baja y alta ganancia podrían ser seleccionados por orden para permitir la resolución de los elementos Hidrógeno (H) a través de Níquel (Ni) o de electrones y los isótopos de Hidrógeno (H) y Helio (He) y núcleos de luz. Se incluyó un esquema de selección prioritaria para permitir el muestreo de especies de partículas menos abundantes en condiciones normales y de llama solar. El telescopio de baja energía era esencialmente un detector de estado sólido blindado de dos elementos con un cono de aceptación de ángulo completo de 70°. El primer elemento fue el pulso-altura analizado, y los datos fueron registrados por sectores."
+    },
+    {
+      "titulo": "Electrones, hidrógeno e isótopos de helio",
+      "nivel": 3,
+      "texto": "Este experimento fue diseñado para medir los espectros de energía diferencial de los isótopos de hidrógeno a través de oxígeno de 2 a 40-MeV/nucleón, y de electrones de 0,2 a 5 MeV. El instrumento consistió en una pila de 11 detectores de estado sólido de silicio totalmente agotados rodeados por una copa anticoincidencia de centelleador de plástico. Los dos detectores exteriores de estado sólido fueron anulares, permitiendo mediciones tanto en modos de coincidencia en geometría estrecha (factor geométrico típico fue 0,2 cm2 sr) como en modos de coincidencia en geometría amplia (factor geométrico típico fue 1,5 cm2 sr). Se obtuvieron datos de anisotropía (45° angular y 20 segundos de resolución temporal)."
+    },
+    {
+      "titulo": "Campos electrostáticos",
+      "nivel": 3,
+      "texto": "El instrumento fue diseñado para medir campos eléctricos ambientales en el viento solar y la capa magnetoeléctrica de la Tierra hasta 1 kHz en frecuencia. El sensor consistía en un par de antenas de alambre de 70 m (230 pies) (140 m (460 pies), de punta a punta), que se mantenían rígidas por fuerza centrífuga debido a la rotación del satélite (aproximadamente 24 rpm). Los cables se aislaron del plasma, con excepción de sus secciones exteriores cortas, para eliminar el área activa de la sonda de la nave espacial. La antena sirvió como una sonda flotante doble, y se obtuvieron mediciones cada revolución de 1/4 naves espaciales (unos 0,75 segundos). Las mediciones de frecuencia ultra baja (ULF) y de frecuencia muy baja (VLF) se obtuvieron utilizando siete filtros de ancho de banda del 60% con frecuencias centrales logarítmicamente espaciadas de 1 Hz a 1000 Hz. Estos canales de frecuencia tenían una sensibilidad intrínseca de 1.0E-5 V/m, y un rango máximo de 1.0E-2 V/m. Sin embargo, el umbral efectivo del filtro de baja frecuencia fue determinado por interferencia debido a los armónicos de la nave espacial girando dentro de una vaina asimétrica. La otra limitación importante también se debió al efecto de la vaina. Siempre que la densidad de plasma de electrones era inferior a unas 10 partículas por centímetro cúbico, la vaina superponía las porciones de antena activa y excluía las mediciones significativas de las condiciones ambientales."
+    },
+    {
+      "titulo": "Olas electrostáticas y ruido de radio",
+      "nivel": 3,
+      "texto": "Se utilizó un receptor de banda ancha para observar espectros de frecuencia-tiempo de alta resolución, y se utilizó un receptor de banda estrecha de seis canales con una frecuencia centro variable para observar las características de las ondas. Los receptores funcionaban desde tres sistemas de antena. El primer sistema contenía un par de antenas dipolares largas (una, extensibles a unos 124 m (407 pies), normales al eje de giro de la nave espacial y la otra antena, extensibles a unos 6.1 m (20 pies), a lo largo del eje de giro). El segundo sistema contenía una tríada montada en boom de antenas ortogonales de bucle. El tercer sistema consistía en un dipolo del eje de giro de 0,51 m montado en el brazo (1 pies 8 pulgadas). Se observaron intensidades de campo magnético y eléctrico y espectros de frecuencia, polarización y dirección de llegada del ruido radioeléctrico natural en la magnetosfera. Los fenómenos estudiados fueron la distribución tiempo-espacio, el origen, la propagación, la dispersión y otras características del ruido radioeléctrico que se produce a través y a ambos lados de la región del límite magnetosférico. El rango de frecuencia para campos eléctricos fue de 0,3 Hz a 200 kHz, y para campos magnéticos fue de 20 Hz a 200 kHz."
+    },
+    {
+      "titulo": "Electrones y protones energéticos",
+      "nivel": 3,
+      "texto": "Los propósitos de esta investigación fueron: (1) estudiar las características de propagación de los rayos cósmicos solares a través del medio interplanetario sobre los rangos de energía indicados a continuación, (2) estudiar los flujos de electrones y protones a través de la cola geomagnética y cerca de los flancos de la magnetosfera y (3) estudiar la entrada de los rayos cósmicos solares en la magnetosfera. La instrumentación consistió en un telescopio de tres elementos que empleaba detectores de estado sólido de barrera de superficie totalmente agotados y un imán para desviar electrones. Se utilizaron dos detectores de montaje lateral para medir los electrones desviados. Se utilizaron dos detectores adicionales en montajes separados para medir partículas cargadas por encima de 15 keV (F), Z mayor o igual a 2 por encima de 0,6 MeV (G1) y por encima de 1,0 MeV (G2), y Z mayor o igual a 3 por encima de 2,0 MeV (G3). El telescopio midió protones en tres rangos entre 2,1 y 25 MeV (14, 15, 16 canales); Z mayor o igual a 1 en tres rangos entre 0,05 y 2,1 MeV (11, 12, 13 canales); partículas alfa entre 8,4 y 35,0 MeV en dos rangos (111, 112 canales); Z mayor o igual a 2 entre 2,2 y 8,4 MeV (110 canales); y un canal de fondo (19 canal). Los electrones deflexidos se midieron en dos rangos entre 30 y 200 keV (17, 18 canales)."
+    },
+    {
+      "titulo": "Experimento de campo magnético",
+      "nivel": 3,
+      "texto": "Este experimento consistió en un magnetómetro triaxial montado en el brazo diseñado para estudiar los campos magnéticos interplanetarios y geomagnéticos de la cola. Cada sensor tenía tres rangos dinámicos de ± 12, ± 36 y ± 108 nT. Con la ayuda de un esquema de compactación de bits (modulación delta), se realizaron 25 mediciones vectoriales y se telemetrizó por segundo. El experimento funcionó normalmente desde el lanzamiento hasta mediados de 1975. El 11 de julio de 1975, debido a un problema de indicador de rango, la operación de experimento se congeló en el rango de 36 nT. La precisión de digitalización en este rango es de aproximadamente ± 0,3 nT. El 23 de marzo de 1978, la aleta del sensor falló. Después de ese tiempo, se requerían métodos alternativos de determinación del nivel cero del sensor del eje Z. El magnetómetro falló el 10 de junio de 2000."
+    },
+    {
+      "titulo": "Medición de protones y electrones de baja energía",
+      "nivel": 3,
+      "texto": "Este experimento fue diseñado para medir los espectros de energía de electrones y protones de baja energía en el rango geocéntrico de 30 a 40 radios terrestres para dar más datos sobre tormentas geomagnéticas, aurora, cola y hoja neutra, y otros fenómenos magnetosféricos. El detector era un analizador electrostático de placa curva de doble canal (LEPEDEA - protón de baja energía y analizador de energía diferencial de electrones) con 16 intervalos de energía entre 5 eV y 50 keV. Tenía un campo de visión angular de 9° por 25°. El detector podría funcionar en uno de dos modos: (1) uno que proporciona una buena resolución angular (16 direcciones para cada banda de energía de partículas) una vez cada 272 segundos, y (2) el otro que proporciona una buena resolución temporal en la que se mide el rango de energía total en cuatro direcciones cada 68 segundos."
+    },
+    {
+      "titulo": "Partículas solares y de rayos cósmicos",
+      "nivel": 3,
+      "texto": "El experimento de rayos cósmicos del Centro de Vuelo Espacial Goddard fue diseñado para medir espectros de energía, composición y distribuciones angulares de electrones solares y galácticos, protones y núcleos más pesados hasta Z=30. Se utilizaron tres sistemas detectores distintos. El primer sistema consistió en un par de telescopios de estado sólido que midieron los flujos integrales de electrones por encima de 150, 350 y 700 keV y de protones por encima de 0,05, 0,15, 0,50, 0,70, 1.0, 1.2, 2.0, 2.5, 5.0, 15 y 25 MeV. A excepción del modo protón de 0,05 MeV, todos los modos de conteo tenían identificación de especies única. El segundo sistema detector era un telescopio de estado sólido dE/dx versus E que parecía perpendicular al eje de giro. Este telescopio midió Z=1 a 16 núcleos con energías entre 4 y 20 MeV/nucleón. Los recuentos de partículas en el rango de 0,5 a 4 MeV/núcleos, sin resolución de carga, se obtuvieron como recuentos en el sensor dE/dx pero no en el sensor E. El tercer sistema de detector era un telescopio de tres elementos cuyo eje hacía un ángulo de 39° con respecto al eje de giro. El elemento medio era un centelleador CsI, mientras que los otros dos elementos eran sensores de estado sólido. El instrumento respondió a electrones entre 2 y 12 MeV y a Z=1 a 30 núcleos en el rango de energía de 20 a 500 MeV/nucleón. En el caso de partículas por debajo de 80 MeV, este instrumento actuó como detector dE/dx versus E. Por encima de 80 MeV, actuó como un detector bidireccional triple dE/dx versus E. La información sobre la direccionalidad del flujo se obtuvo dividiendo ciertas porciones de los datos de cada detector en ocho sectores angulares."
+    },
+    {
+      "titulo": "Analizador electrostático de plasma solar",
+      "nivel": 3,
+      "texto": "Un analizador electrostático hemisférico midió la intensidad direccional de iones positivos y electrones en el viento solar, la magnetovata y la magnetocola. Iones tan pesados como el oxígeno se resolvieron cuando la temperatura del viento solar era baja. El análisis energético se realizó cargando las placas a niveles de voltaje conocidos y permitiéndoles descargar con constantes de tiempo RC conocidas. En el viento solar, se estudiaron iones positivos de 200-eV a 5 keV (15% de espaciamiento, 3% de resolución) y electrones de 5 eV a 1 keV (30% de espaciamiento, 15% de resolución). En la capa magnetoscópica, se estudiaron iones positivos de 200 eV a 5 keV (15% de espaciamiento, 3% de resolución) y de 200 eV a 20 keV (30% de espaciamiento, 15% de resolución) y electrones de 5 eV a 1 keV (30% de espaciamiento, 15% de resolución). En el magnetotail se estudiaron iones positivos de 200 eV a 20 keV (30% de espaciamiento, 15% de resolución) y electrones de 5 eV a 1 keV (30% de espaciamiento, 15% de resolución) y de 100 eV a 20 keV (15% de resolución). No se obtuvieron datos de este experimento en octubre de 2001."
+    },
+    {
+      "titulo": "Copa Solar Plasma Faraday",
+      "nivel": 3,
+      "texto": "Para estudiar la intensidad direccional de los iones y electrones positivos en el viento solar, la región de transición y la cola magnética se utilizó una copa de Faraday modulada, perpendicular al eje de rotación de la nave espacial. Los electrones se estudiaron en ocho canales de energía logarítmicamente equispaciados entre 17 eV y 7 keV. Se estudiaron iones positivos en ocho canales entre 50 eV y 7 keV. Cada ocho revoluciones espaciales se obtuvo un espectro. La información angular se obtuvo en 15 intervalos igualmente espaciados durante una revolución de 360° del satélite o en 15 segmentos angulares centrados más estrechamente en la línea del sol de la nave espacial."
+    },
+    {
+      "titulo": "Detectores de estado sólido",
+      "nivel": 3,
+      "texto": "Este experimento fue diseñado para determinar la composición y espectros de energía de partículas de baja energía observadas durante erupciones solares y eventos recurrentes de 27 d. Los detectores utilizados incluían: (1) un analizador electrostático (para seleccionar partículas de la energía deseada por carga) combinado con una serie de detectores de estado sólido sin ventanas (para medir la pérdida de energía) y rodeados por un escudo anticoincidente y (2) un contador proporcional de ventana delgada, telescopio de partículas de estado sólido. El experimento midió energías de partículas de 0,1 a 10 MeV por carga en 12 bandas e identificó de forma única positrones y electrones, así como núcleos con cargas de Z de 1 a 8 (sin resolución de carga para Z superior a 8). En el experimento se incluyeron dos analizadores de altura de pulso de 1000 canales, uno por cada detector."
+    },
+    {
+      "titulo": "Misión ampliada",
+      "nivel": 2,
+      "texto": "Los objetivos de las operaciones ampliadas de Explorer 50 (IMP-8) fueron proporcionar parámetros de viento solar como entrada para estudios magnetosféricos y como una base de referencia de 1-AU para estudios de espacio profundo, y continuar estudios de variación del ciclo solar con un único conjunto de instrumentos bien calibrados y entendidos."
+    },
+    {
+      "titulo": "Fin de la misión",
+      "nivel": 2,
+      "texto": "En octubre de 2001, Explorer 50 (IMP-8) fue terminado como una misión independiente. La adquisición de telemetría se reanudó después de unos tres meses en Canberra, Australia, sólo (30-50% de cobertura), como complemento de las misiones Voyager y Ulises. Los últimos datos científicos útiles de Explorer 50 (IMP-8) se adquirieron el 7 de octubre de 2006."
+    }
+  ],
+  "num_palabras": 2592
+}

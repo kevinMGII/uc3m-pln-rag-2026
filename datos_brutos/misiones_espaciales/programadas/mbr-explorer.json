@@ -1,0 +1,48 @@
+{
+  "titulo": "MBR Explorer",
+  "titulo_wikipedia_en": "MBR Explorer",
+  "fecha_lanzamiento": "2028-03",
+  "año_lanzamiento": 2028,
+  "estado": "programada",
+  "tipo_mision": [
+    "Exploración de Venus",
+    "Exploración de asteroides y planetas menores"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/MBR_Explorer",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Asteroide de vuelo múltiple/órbitro/aterrizaje",
+    "Operador": "Centro Espacial Mohammed bin Rashid",
+    "Duración de la misión": "Fase de vuelo:\n8,5 años\nFase orbital:\n7 meses",
+    "Fecha de lanzamiento": "Marzo de 2028",
+    "Vehículo de lanzamiento": "H3",
+    "Lugar de lanzamiento": "Tanegashima, LA-Y2",
+    "Contratista del lanzamiento": "Industrias Pesadas Mitsubishi",
+    "Datos interplanetarios": "type: flyby | object: Venus | note: gravitation assist | arrival date: July 2028\ntype: flyby | object: Earth | note: gravedad assist | fecha de llegada: May 2029\ntipo: flyby | objeto: 10253 Westerwald | fecha de llegada: febrero 2030\ntipo: flyby | objeto: 623 Chimaera | fecha de llegada: Junio 2030\ntipo: flyby | objeto: 13294 Rockox | fecha de llegada: Enero 2031\ntipo: flyby | objeto: Marte | nota: asistencia por gravedad | fecha de llegada: septiembre 2031\ntipo: flyby | objeto: 88055 Ghaf | fecha de llegada: Julio 2032\ntipo: flyby | objeto: 23871 Ousha | fecha de llegada: Diciembre 2032\ntipo: flyby | objeto: 59980 Moza | fecha de llegada: Agosto 2033\ntipo: orbitador | objeto: 269 Justitia | fecha de llegada: October 2034\ntipo: lander | objeto: 269 Justitia | fecha de llegada: Mayo 2035",
+    "Programa": "Emirates Programa Planetario",
+    "Misión anterior": "Rashid 2",
+    "Misión siguiente": "Rashid 3"
+  },
+  "resumen": "El MBR Explorer es una sonda espacial UAESA diseñada para viajar a siete asteroides de cinturón principal diferentes. Propuesto bajo la Misión de los Emiratos al Cinturón de Asteroides, es nombrado en reconocimiento al papel fundacional que impulsa la creación y el crecimiento del Programa Espacial de los Emiratos Árabes Unidos interpretado por el jeque Mohammed bin Rashid Al Maktoum, vicepresidente y primer ministro de los Emiratos Árabes Unidos.",
+  "secciones": [
+    {
+      "titulo": "Sinopsis",
+      "nivel": 2,
+      "texto": "Al igual que su anterior misión en Marte, el MBR Explorer se lanzará desde el Centro Espacial de Tanegashima, esta vez en un vehículo de lanzamiento H3. La nave espacial pesará alrededor de 2,8 toneladas y viajará a una velocidad media de 33.000 km/h."
+    },
+    {
+      "titulo": "Asteroides",
+      "nivel": 2,
+      "texto": "El MBR Explorer visitará los asteroides 10253 Westerwald, 623 Chimaera, 13294 Rockox, 88055 Ghaf, 23871 Ousha y 59980 Moza durante un viaje total de 5 mil millones de kilómetros, e intentará orbitar su séptimo y último asteroide, 269 Justitia en 2034. La nave espacial también dejará caer un pequeño aterrizaje para aterrizar en la superficie de Justinia.\nEn el momento en que se propuso MBR Explorer, Ghaf (2000 VA28), Ousha (1998 RC76) y Moza (1999 SG6) no tenían nombre y eran conocidos por sus designaciones provisionales. Los tres asteroides fueron nombrados oficialmente el 13 de octubre de 2025."
+    },
+    {
+      "titulo": "Histórico",
+      "nivel": 2,
+      "texto": "La misión de explorar el cinturón de asteroides fue anunciada por la Agencia Espacial de los Emiratos Árabes Unidos en mayo de 2023. Su lanzamiento estaba previsto para marzo de 2028 en ese momento."
+    }
+  ],
+  "num_palabras": 245
+}

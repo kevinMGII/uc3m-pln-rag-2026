@@ -1,0 +1,41 @@
+{
+  "titulo": "Fast Auroral Snapshot Explorer",
+  "titulo_wikipedia_en": "Fast Auroral SnapshoT Explorer",
+  "fecha_lanzamiento": "1996-08-21",
+  "año_lanzamiento": 1996,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión heliofísica"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Fast_Auroral_Snapshot_Explorer",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Finalizado",
+    "Tipo de misión": "Observación terrestre",
+    "Operador": "NASA",
+    "Fecha de lanzamiento": "21 de agosto de 1996",
+    "Configuración": "Cilíndrica",
+    "Masa en el lanzamiento": "187 kg",
+    "Dimensiones": "Diámetro 1,2 m",
+    "Sistema de referencia orbital": "Elíptica",
+    "Periapsis": "350 Km",
+    "Inclinación orbital": "83 Grados"
+  },
+  "resumen": "Fast Auroral Snapshot Explorer (FAST) es un satélite artificial de la NASA diseñado para estudiar y medir los rápidos cambios que se producen en los campos magnético y eléctrico de la Tierra y que llevan a que se produzcan las auroras boreales.\nFAST mide las variaciones en los campos magnético y terrestre y los relaciona con sus efectos sobre los electriones e iones a alturas de entre 350 y 4200 km. Las observaciones son complementadas con otras observaciones realizadas por otras naves a mayor altura, poniendo los datos de FAST en contexto. Simultáneamente, las observaciones realizadas desde estaciones terrestres miden la manera en que los procesos observados por FAST afectan a la Tierra.\nFAST debería haber sido lanzado en 1994, pero debido a problemas con el cohete lanzador (un Pegasus) el lanzamiento tuvo que ser aplazado hasta el 21 de agosto de 1996, en que FAST fue puesto en una órbita de 350 x 4200 km de altura y con 83 grados de inclinación orbital.\nLa nave se estabiliza mediante rotación (12 rpm), con el eje de rotación perpendicular a la órbita. La energía la producen paneles solares de arseniuro de galio. La telemetría y los datos se transmiten en banda S.",
+  "secciones": [
+    {
+      "titulo": "Instrumentos",
+      "nivel": 2,
+      "texto": "Experimento de campo eléctrico: usa tres pares de soportes situados ortogonalmente para medir densidades de plasma y la temperatura de los electrones.\nExperimento de campo magnético: usa dos magnetómetros situados a 180 grados el uno del otro, desplegados en soportes de grafito.\nEspectrógrafo de Masa de Energía por Tiempo de Vuelo (TEAMS, Time-of-Flight Energy Angle Mass Spectrograph): espectrómetro de masas para medir la distribución tridimensional de diferentes iones."
+    },
+    {
+      "titulo": "Especificaciones",
+      "nivel": 2,
+      "texto": "Longitud: 1,8 m\nDiámetro máximo: 1,2 m\nMasa total: 187 kg"
+    }
+  ],
+  "num_palabras": 281
+}

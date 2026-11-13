@@ -1,0 +1,60 @@
+{
+  "titulo": "NEO Surveyor",
+  "titulo_wikipedia_en": "NEO Surveyor",
+  "fecha_lanzamiento": "2027-09",
+  "año_lanzamiento": 2027,
+  "estado": "programada",
+  "tipo_mision": [
+    "Telescopio espacial"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/NEO_Surveyor",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Otros nombres": "Misión de vigilancia de objetos cercanos a la Tierra\nCámara de objetos cercanos a la Tierra\nNEOCam",
+    "Tipo de misión": "Evitación de impactos de asteroides, astronomía",
+    "Operador": "NASA / JPL",
+    "Duración de la misión": "12 años (previstos)",
+    "Fabricante": "Laboratorio de Propulsión Jet",
+    "Masa en el lanzamiento": "1300 kg",
+    "Fecha de lanzamiento": "Septiembre de 2027 (previsto)",
+    "Vehículo de lanzamiento": "Falcon 9 Bloque 5",
+    "Lugar de lanzamiento": "Kennedy, LC39A o Cabo Cañaveral, SLC40",
+    "Contratista del lanzamiento": "SpaceX",
+    "Sistema de referencia orbital": "Órbita heliocéntrica",
+    "Régimen orbital": "Sol-Tierra",
+    "Diámetro del telescopio": "50 cm",
+    "Longitudes de onda": "Infrarrojo (4–5,2 y 6–10 μm)"
+  },
+  "resumen": "El agrimensor de OCT, anteriormente llamado Cámara de Objetos Cercanos a la Tierra (NEOCam), luego Misión de Vigilancia de OCT, es un telescopio infrarrojo basado en el espacio diseñado para observar el Sistema Solar en busca de asteroides potencialmente peligrosos.\nLa nave espacial Topógrafo de OCT realizará un reconocimiento desde el punto de Lagrange Sol-Tierra L1, permitiéndole ver objetos dentro de la órbita de la Tierra, y sus detectores de infrarrojos medios sensibles a las emisiones térmicas detectarán asteroides independientemente de su luz solar reflejada. La misión NEO Surveyor será sucesora de la misión NEOWISE, y las dos misiones tienen la misma investigadora principal, Amy Mainzer, en la Universidad de California, Los Ángeles.\nDesde que se propuso por primera vez en 2006, el concepto compitió repetidamente sin éxito por el financiamiento de la NASA contra misiones científicas no relacionadas con la defensa planetaria, a pesar de una directiva del Congreso de EE.UU. no financiada para la NASA. En 2019, la Oficina de Coordinación de la Defensa Planetaria decidió financiar esta misión fuera del presupuesto científico de la NASA debido a sus implicaciones en la seguridad nacional. El 11 de junio de 2021, la NASA autorizó a la misión de topógrafos de objetos cercanos a la Tierra a pasar a la fase preliminar de diseño. El Jet Propulsion Laboratory dirigirá el desarrollo de la misión.\nEn febrero de 2025, la NASA tenía previsto lanzar un agrimensor de objetos cercanos a la Tierra en un Halcón SpaceX 9 en septiembre de 2027.",
+  "secciones": [
+    {
+      "titulo": "Histórico",
+      "nivel": 2,
+      "texto": "En 2005, el Congreso de los EE.UU. ordenó a la NASA alcanzar para el año 2020 niveles específicos de búsqueda completa para descubrir, catalogar y caracterizar asteroides peligrosos de más de 140 m (460 pies) (Ley de 2005, H.R. 1022; 109o), pero nunca se apropiaron fondos específicos para este esfuerzo. La NASA no dio prioridad a este mandato sin financiación y dirigió el proyecto NEOCam para competir contra las misiones científicas por fondos generales no destinados a la defensa planetaria y la planificación de la mitigación de desastres.\nLas propuestas para NEOCam fueron presentadas al Programa Discovery de la NASA en 2006, 2010, 2015, 2016 y 2017, pero cada vez no fueron seleccionadas para su lanzamiento. Sin embargo, el concepto de misión recibió financiación para el desarrollo de tecnología en 2010 a fin de diseñar y probar nuevos detectores de infrarrojos optimizados para la detección y el dimensionamiento de asteroides y cometas. El proyecto recibió financiación adicional para el desarrollo tecnológico en septiembre de 2015 (3 millones de dólares de los EE.UU.) y en enero de 2017.\nA raíz de los llamamientos para financiar plenamente la misión fuera de la División de Ciencias Planetarias de la NASA o directamente del Congreso mismo, el administrador asociado de la NASA para la ciencia anunció el 23 de septiembre de 2019 que en lugar de competir por financiación, NEOCam se implementará bajo el nombre de NEO Surveillance Mission con presupuesto de la Oficina de Coordinación de Defensa Planetaria de la NASA, dentro de la División de Ciencias Planetarias. Se ha sugerido que el casi desaparecido asteroide 2019 OK, que pasó de los métodos de detección existentes en julio de 2019, ha ayudado a impulsar esta decisión.\nCon fines de financiación y gestión, la Misión de Vigilancia de los OCT es oficialmente un nuevo proyecto, pero es el mismo telescopio espacial, el mismo equipo, y los objetivos de la misión permanecen sin cambios.\nEl 11 de febrero de 2025 la misión pasó su revisión crítica del diseño, moviendo el proyecto hacia la construcción y pruebas."
+    },
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "El objetivo principal de la misión es descubrir la mayoría de los asteroides potencialmente peligrosos de más de 140 m (460 pies) a lo largo de su misión y caracterizar sus órbitas. Su campo de visión y su sensibilidad serán lo suficientemente amplios y profundos como para permitir a la misión descubrir entre 200.000 y 300.000 nuevos objetos cercanos a la Tierra con tamaños tan pequeños como 10 m de diámetro. Los objetivos secundarios de la ciencia incluyen la detección y caracterización de aproximadamente un millón de asteroides en el cinturón de asteroides y miles de cometas, así como la identificación de posibles objetivos de objetos cercanos a la Tierra para la exploración humana y robótica.\nEl Jet Propulsion Laboratory (JPL) lidera el desarrollo de la misión. El costo total de la misión se estima entre 500 y 600 millones de dólares. La misión tiene una base de referencia de los costos de desarrollo de 1.200 millones de dólares.\nEn el sitio web de los topógrafos de objetos cercanos a la Tierra se indican las siguientes necesidades de la misión:\nEncontrar 2⁄3 de asteroides de más de 140 metros de diámetro\nEvaluar la amenaza global que plantean los potenciales impactos en la Tierra\nEvaluar la amenaza de impacto que presentan los cometas\nDeterminar las órbitas y características físicas de los objetos específicos descubiertos"
+    },
+    {
+      "titulo": "Vehículo espacial",
+      "nivel": 2,
+      "texto": "La nave espacial OCT tendrá una masa total de no más de 1.300 kg (2.900 lb), lo que le permitirá lanzar en un vehículo como un Falcon 9 Bloque 5 hasta el punto Sol-Tierra L1 Lagrange. La misión debe alcanzar la meta del 90% en el Congreso en 10 años, con una vida de misión prevista de 12 años."
+    },
+    {
+      "titulo": "Telescopio y cámara",
+      "nivel": 2,
+      "texto": "Los asteroides son oscuros, con albedos de como máximo 30% y tan bajos como 5%. Un telescopio óptico busca la luz que reflejan y, por lo tanto, sólo puede verlas cuando mira lejos del Sol en el lado iluminado por el sol de los asteroides, y no cuando mira hacia el Sol en la parte trasera del objeto. Además, la oleada de oposición hace que los asteroides sean aún más brillantes cuando la Tierra está cerca del eje de la luz solar, y el cielo en la Tierra es mucho más brillante durante el día. El efecto combinado es equivalente a la comparación de una luna llena en la noche con una luna nueva en el día, y la luz de los asteroides iluminados por el Sol se ha llamado \"asteroides plenos\" similar a una \"luna llena\". En cambio, un telescopio que opera a longitudes de onda infrarrojas térmicas detecta sus superficies que han sido calentadas por el Sol y es casi igualmente sensible a sus lados iluminados y no iluminados, pero necesita operar en el espacio para lograr una buena sensibilidad en un amplio campo de visión.\nLa Misión de Vigilancia de los OCT empleará un telescopio infrarrojo de 50 cm (20 pulgadas) que funcionará con cámaras de campo amplio en dos canales de longitud de onda infrarroja térmica para un rango total de longitud de onda entre 4 μm y 10 μm. La cámara tendrá dos canales: NC1 tiene un rango de longitud de onda de 4-5,2 μm y NC2 abarca 6-10 μm. NC1 está destinado a detectar estrellas de fondo para el registro y calibración astrométricos, así como la medición de temperaturas efectivas. NC2 está optimizado para maximizar la sensibilidad a la emisión térmica típica de OCT a 200-300 K. Su campo de visión es de 11,56 grados cuadrados. Utilizará una versión del detector de mercurio-cadmio-telururo de infrarrojos de área extendida astronómica (HAWAII) modificado por los sensores de imágenes de Teledyne para una sensibilidad óptima en las bandas NC1 y NC2. El prototipo de detector de misión fue probado con éxito en abril de 2013. La matriz de detectores es de 2.048 × 2.048 píxeles y producirá 82 gigabits de datos por día. Para un buen rendimiento infrarrojo sin el uso de refrigeración por fluido criogénico, el detector se enfriará pasivamente hasta 30 K (−243,2 °C; −405,7 °F) utilizando técnicas probadas por el Telescopio Espacial Spitzer. A diferencia de su predecesor NEOWISE, por lo tanto, no sufrirá de una degradación de rendimiento debido a que se queda sin refrigerante (su duración de misión seguirá siendo limitada, ya que la estación orbital que se mantiene necesaria para mantener su posición en el Sol-Tierra L1 utiliza propulsor; también, la radiación cósmica degradará lentamente los detectores con el tiempo)."
+    },
+    {
+      "titulo": "Operaciones",
+      "nivel": 2,
+      "texto": "La nave espacial Topógrafo de OCT operará en una órbita de halo alrededor del Sol-Tierra L1, y empleará una sombrilla. Esta órbita permitirá velocidades rápidas de enlace descendente de datos a la Tierra, permitiendo que se descarguen imágenes de fotograma completo desde el telescopio.\nUna ventaja sobre NEOWISE es el amplio campo de consideración. El agrimensor de OCT podrá apuntar desde 45-120° en distancia longitudinal desde el sol y detenerse a ±40° de latitud eclíptica. El estudio se optimizará para detectar objetos potencialmente peligrosos y se llevará a cabo continuamente durante la misión de referencia (5 años). La encuesta se detendrá todos los días durante 2,25 horas para reducir los datos. También se detendrán las maniobras de calibración, mantenimiento de estaciones y gestión del impulso. El agrimensor de objetos cercanos a la Tierra también podrá realizar un seguimiento específico para obtener más información sobre un objeto de interés especial.\nEstá previsto que los tracklets de objetos en movimiento sean entregados al Centro Planeta Menor 2 a 3 veces al día, en promedio 72 horas después de su descubrimiento. Además, se publican imágenes profundas co-añadidas cada 12 meses. Estas imágenes profundas co-añadidas probablemente les gusten las de WISE que los astrónomos usen para estudiar estrellas, enanas marrones y galaxias distantes. También se propuso que el agrimensor de OCT incluyera una infraestructura de alerta transitoria, pero ninguna había sido planeada para octubre de 2023.\nEn los primeros 30 días después del lanzamiento se realizarán las compras en órbita. Después de llegar al equipo de agrimensuradores de OCT L1 llevará a cabo una verificación de la encuesta de seis meses. En el reconocimiento nominal se espera que el telescopio detecte dos tercios de asteroides con un diámetro superior a 140 metros en los primeros 5 años. La misión nominal durará al menos 12 años. Una vez finalizado el estudio, el telescopio será desmantelado y puesto en órbita heliocéntrica."
+    }
+  ],
+  "num_palabras": 1647
+}

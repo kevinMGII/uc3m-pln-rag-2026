@@ -1,0 +1,31 @@
+{
+  "titulo": "Soyuz 2",
+  "titulo_wikipedia_en": "Soyuz 2",
+  "fecha_lanzamiento": "1968-10-25",
+  "año_lanzamiento": 1968,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Soyuz_2",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Órbitas completadas": "18",
+    "Masa en el lanzamiento": "6450kg",
+    "Fecha de lanzamiento": "25 de octubre de 1968, 09:00 UTC",
+    "Lugar de lanzamiento": "Baikonur LC1",
+    "Vehículo de lanzamiento": "Soyuz (11A511)",
+    "Nave": "Soyuz 7K-OK",
+    "Fecha de aterrizaje": "28 de octubre de 1968, 07:51 UTC",
+    "Lugar de aterrizaje": "51'13° N, 57'27° E",
+    "Programa": "Programa Soyuz",
+    "Misión anterior": "Soyuz 1",
+    "Misión siguiente": "Soyuz 3"
+  },
+  "resumen": "Soyuz 2 (en ruso: Союз 2, Unión 2) fue una misión no tripulada de una nave Soyuz 7K-OK lanzada el 25 de octubre de 1968 desde el cosmódromo de Baikonur. Fue utilizada como objetivo de acoplamiento para la misión tripulada Soyuz 3, fallando en el intento de acoplamiento.\nFue recuperada el 28 de octubre de 1968, a 5 km del punto planeado de aterrizaje.",
+  "secciones": [],
+  "num_palabras": 64
+}

@@ -1,0 +1,39 @@
+{
+  "titulo": "Soyuz 39",
+  "titulo_wikipedia_en": "Soyuz 39",
+  "fecha_lanzamiento": "1981-03-22",
+  "año_lanzamiento": 1981,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Soyuz_39",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Masa en el lanzamiento": "6800 kg",
+    "Fecha de lanzamiento": "22 de marzo de 1981",
+    "Nave": "Soyuz 7K-T",
+    "Fecha de aterrizaje": "30 de marzo de 1981",
+    "Duración de la misión": "7,86 días",
+    "Programa": "Programa Soyuz",
+    "Misión anterior": "Soyuz 38",
+    "Misión siguiente": "Soyuz 40"
+  },
+  "resumen": "Soyuz 39 fue una misión de una nave Soyuz 7K-T lanzada el 22 de marzo de 1981 desde el cosmódromo de Baikonur con dos cosmonautas a bordo hacia la estación espacial Salyut 6, siendo uno de ellos el mongol Zhugderdemidiyn Gurragcha, lanzado en el marco del programa Intercosmos.\nLa misión de Soyuz 39 consistía en acoplarse a la estación Salyut 6 para realizar diversos experimentos científicos, estando la estación ocupada por los tripulantes de la misión Soyuz T-4. El 24 de marzo los tripulantes instalaron un detector de rayos cósmicos y el 26 realizaron el experimento Illyuminator (ventana de observación) para estudiar la degradación de las ventanas de observació de la estación. El día 28 retiraron el detector de rayos cósmicos y durante ese día y el siguiente se dedicaron a la observación terrestre, centrándose en el territorio de Mongolia.\nLa Soyuz 39 regresó el 30 de marzo de 1981.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Vladimir Dzhanibekov (Comandante)\nZhugderdemidiyn Gurragcha (Especialista científico de Mongolia)"
+    },
+    {
+      "titulo": "Tripulación de respaldo",
+      "nivel": 2,
+      "texto": "Vladimir Lyakhov (Comandante)\nMaidarzhavyn Ganzorig (Especialista científico de Mongolia)"
+    }
+  ],
+  "num_palabras": 168
+}

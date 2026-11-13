@@ -1,0 +1,41 @@
+{
+  "titulo": "Blue Origin NS-33",
+  "titulo_wikipedia_en": "Blue Origin NS-33",
+  "fecha_lanzamiento": "2025-06-29",
+  "año_lanzamiento": 2025,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Blue_Origin_NS-33",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Vuelo espacial humano suborbital",
+    "Duración de la misión": "10 minutos, 14 segundos",
+    "Apogeo suborbital": "106 km",
+    "Nave": "RSS Kármán Line",
+    "Fabricante": "Origen azul",
+    "Tripulación": "Allie Kuehner; Carl Kuehner; Leland Larson; Freddie Rescigno, Jr.; Owolabi Salis; James (Jim) Sitkin",
+    "Fecha de lanzamiento": "29 de junio de 2025, 14:39:56 UTC (10:39 a.m. Este)",
+    "Vehículo de lanzamiento": "Nuevo Shepard (NS5)",
+    "Lugar de lanzamiento": "Corn Ranch, LS-1",
+    "Contratista del lanzamiento": "Origen azul",
+    "Fecha de aterrizaje": "29 de junio de 2025, 14:50:10 HUC",
+    "Lugar de aterrizaje": "Rancho de maíz",
+    "Programa": "Vuelos nuevos de Shepard",
+    "Misión anterior": "Origen Azul NS-32",
+    "Misión siguiente": "Origen azul NS-34"
+  },
+  "resumen": "Blue Origin NS-33 fue un vuelo espacial suborbital operado por Blue Origin como parte de su programa de turismo espacial New Shepard. El vuelo fue lanzado desde el Sitio de Lanzamiento Uno en el oeste de Texas el 29 de junio de 2025, a las 15:40 UTC (10:40 a.m. Este), después de los intentos de lanzamiento el 21 y 22 de junio fueron depurados debido a los vientos altos y la cobertura de nubes, respectivamente. La misión duró aproximadamente 10 minutos, transportando a seis pasajeros a un apogeo de unos 105 km, cruzando la línea de Kármán, el límite de espacio reconocido por la FAI.\nEl booster realizó un aterrizaje propulsado aproximadamente 7,5 minutos después del despegue, con la cápsula aterrizando bajo paracaídas unos tres minutos más tarde, a unos pocos cientos de metros del booster. Esta misión marcó el 13o vuelo humano y el 33o vuelo total para el programa New Shepard, y fue el tercer vuelo tripulado de New Shepard en dos meses y medio, después de NS-31 el 14 de abril y NS-32 el 31 de mayo.",
+  "secciones": [
+    {
+      "titulo": "Pasajeros",
+      "nivel": 2,
+      "texto": "Entre los pasajeros del vuelo se encontraban el conservacionista Allie Kuehner, el promotor inmobiliario Carl Kuehner, el filántropo y ex ejecutivo de la compañía de autobuses Leland Larson, el empresario Freddie Rescigno, Jr., el abogado, el político retirado y consultor financiero Owolabi Salis, y el abogado laboral retirado James (Jim) Sitkin. Allie y Carl Kuehner fueron la segunda pareja casada en volar juntos en una misión New Shepard, siguiendo a Marc y Sharon Hagle en NS-20 y NS-28. Owolabi Salis, un abogado de base nigeriano-estadounidense, es el primer nigeriano en ir al espacio."
+    }
+  ],
+  "num_palabras": 273
+}

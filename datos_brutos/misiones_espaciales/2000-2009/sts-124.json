@@ -1,0 +1,52 @@
+{
+  "titulo": "STS-124",
+  "titulo_wikipedia_en": "STS-124",
+  "fecha_lanzamiento": "2008-05-31",
+  "año_lanzamiento": 2008,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/STS-124",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Lugar de lanzamiento": "KSC LC-39A",
+    "Fecha de lanzamiento": "31 de mayo de 2008",
+    "Nave": "Discovery",
+    "Fecha de aterrizaje": "14 de junio de 2008 (previsión)",
+    "Duración de la misión": "13 días, 17 horas, 43 minutos (previsión)",
+    "Inclinación orbital": "51,6 grados",
+    "Órbitas completadas": "TBD",
+    "Distancia recorrida": "TBD",
+    "Misión anterior": "STS-123",
+    "Misión siguiente": "STS-126",
+    "Programa": "Programa del Transbordador Espacial"
+  },
+  "resumen": "STS-124 fue una misión de la NASA, parte del Programa del Transbordador Espacial, efectuada con el Transbordador Discovery. Éste se desplazó hasta la Estación Espacial Internacional para instalar nuevos módulos, sustituir y aprovisionar a los astronautas de esta plataforma espacial. Su lanzamiento se produjo el 31 de mayo de 2008.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Mark E. Kelly (3) - Comandante\nKenneth Ham (1) - Piloto\nKaren L. Nyberg (1) - Especialista de la misión 1\nRonald J. Garan, Jr. (1) - Especialista de la misión 2\nMichael E. Fossum (2) - Especialista de la misión 3\nAkihiko Hoshide (1) - Especialista de la misión 4 - JAXA\nLos números entre paréntesis indican las misiones STS realizadas hasta la fecha incluyendo esta."
+    },
+    {
+      "titulo": "Despegue de miembros de la Expedición 17",
+      "nivel": 3,
+      "texto": "Gregory Chamitoff (1) - Ingeniero de vuelo"
+    },
+    {
+      "titulo": "Aterrizaje de miembros de la Expedición 17",
+      "nivel": 3,
+      "texto": "Garrett Reisman (1) - Ingeniero de vuelo"
+    },
+    {
+      "titulo": "Objetivo de la misión",
+      "nivel": 2,
+      "texto": "La misión STS-124 fue el segundo vuelo de tres encargado de montar el módulo japonés KIBO en la Estación Espacial Internacional\nAdemás colocaron en la posición definitiva el módulo de logística del laboratorio que fue junto al módulo japonés, ya que durante la misión STS-123 éste fue colocado en un emplazamiento provisional."
+    }
+  ],
+  "num_palabras": 183
+}

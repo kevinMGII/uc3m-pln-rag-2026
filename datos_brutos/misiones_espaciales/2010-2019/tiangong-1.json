@@ -1,0 +1,20 @@
+{
+  "titulo": "Tiangong-1",
+  "titulo_wikipedia_en": "Tiangong-1",
+  "fecha_lanzamiento": "2011-09-29",
+  "año_lanzamiento": 2011,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada",
+    "Estación espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Tiangong-1",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {},
+  "resumen": "Tiangong-1 fue la primera estación espacial china que estuvo en órbita desde el 29 de septiembre de 2011. La puesta en órbita, originalmente planificada para finales de 2010, fue más tarde pospuesta a 2011. Según informó la Agencia Espacial China, la estación contaba con un laboratorio espacial de aproximadamente 8,5 toneladas de peso en la que participaron las misiones espaciales Shenzhou 8, 9 y 10.\nLa primera nave fue no tripulada realizando un vuelo de prueba y realizandose el primer acople entre naves chinas de la historia. Las dos segundas transportaron cada una, 3 astronautas chinos a la estación espacial, incluyendo a las primeras ciudadanas chinas de la historia, durante unas estancias de 9 y 12 días respectivamente en la estación y realizando gran cantidad de experimentos científicos en cada una de las misiones. Las tres naves realizaron un acoplaminto automático con la estación. Además las dos naves tripuladas durante su estancia realizaron un desacoplamiento y practicaron el acoplamiento manual como uno de los objetivos de estas misiones para practicar el acoplamiento manual en caso de un fallo del sistema automático. Para el acoplamiento manual, las naves Shenzhou utilizan tres sistemas complementarios con el fin de calcular la distancia y velocidad relativas: un radar láser (LIDAR), un radar Doppler de microondas y una serie de cámaras CCD complementadas con marcas ópticas en el exterior de la estación Tiangong. El radar de microondas se usa para distancias de 150 kilómetros como máximo hasta varios cientos de metros como mínimo. El sistema LIDAR se emplea para distancias inferiores a los 20 kilómetros, mientras que el sistema óptica entra en funcionamiento en los últimos 100 metros.\nEl 19 de septiembre de 2016, un oficial chino confirmó que la estación estaba fuera de control y que se encontraba en caída hacia la Tierra, con previsión de entrar en la atmósfera en abril de 2018 en una zona comprendida entre 43° N y 43° S.\nFinalmente, la Tiangong 1 reentró en la atmósfera de la Tierra sobre el océano Pacífico sur el 2 de abril de 2018 a las 00:16 UTC, 1 de abril a las 17:16 hora local del Tiempo del Pacífico.",
+  "secciones": [],
+  "num_palabras": 358
+}

@@ -1,0 +1,49 @@
+{
+  "titulo": "Soyuz 35",
+  "titulo_wikipedia_en": "Soyuz 35",
+  "fecha_lanzamiento": "1980-04-09",
+  "año_lanzamiento": 1980,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Soyuz_35",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Masa en el lanzamiento": "6800 kg",
+    "Fecha de lanzamiento": "9 de abril de 1980",
+    "Nave": "Soyuz 7K-T",
+    "Fecha de aterrizaje": "3 de junio de 1980",
+    "Duración de la misión": "55,06 días",
+    "Programa": "Programa Soyuz",
+    "Misión anterior": "Soyuz T-1",
+    "Misión siguiente": "Soyuz 36"
+  },
+  "resumen": "Soyuz 35 fue una misión de una nave Soyuz 7K-T lanzada el 9 de abril de 1980 desde el cosmódromo de Baikonur con dos cosmonautas a bordo hacia la estación espacial Salyut 6.\nLa misión de Soyuz 35 consistió en acoplarse a la estación Salyut 6 para realizar diversos experimentos científicos y técnicos.\nLa Soyuz 35 regresó a tierra el 3 de junio de 1980 con la tripulación de la misión Soyuz 36 a bordo. La tripulación original de la Soyuz 35 regresó en la Soyuz 37.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Despegaron",
+      "nivel": 3,
+      "texto": "Leonid Popov (Comandante)\nValeri Ryumin (Ingeniero de vuelo)"
+    },
+    {
+      "titulo": "Aterrizaron",
+      "nivel": 3,
+      "texto": "Valeri Kubasov (Comandante)\nBertalan Farkas (Ingeniero de vuelo)"
+    },
+    {
+      "titulo": "Tripulación de respaldo",
+      "nivel": 2,
+      "texto": "Vyacheslav Zudov (Comandante)\nBoris Andreyev (Ingeniero de vuelo)"
+    }
+  ],
+  "num_palabras": 111
+}

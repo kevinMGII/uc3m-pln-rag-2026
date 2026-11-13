@@ -1,0 +1,55 @@
+{
+  "titulo": "STS-46",
+  "titulo_wikipedia_en": "STS-46",
+  "fecha_lanzamiento": "1992-07-31",
+  "año_lanzamiento": 1992,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/STS-46",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Otros nombres": "Sistema de Transporte Espacial-46",
+    "Tipo de misión": "Despliegue por satélite de EURECA\nOperación TSS-1\nInvestigación tecnológica",
+    "Operador": "NASA",
+    "Distancia recorrida": "5344643 km",
+    "Órbitas completadas": "127",
+    "Masa en el lanzamiento": "116134 kg",
+    "Masa en el aterrizaje": "94676 kg",
+    "Masa de la carga útil": "12164 kg",
+    "Tripulación": "Loren Shriver; Andrew M. Allen; Claude Nicollier; Marsha Ivins; Jeffrey A. Hoffman; Franklin Chang Díaz; Franco Malerba",
+    "Fecha de lanzamiento": "Julio 31, 1992, 13:56:48 UTC (9:56:48 am EDT)",
+    "Lugar de lanzamiento": "Kennedy, LC-39B",
+    "Contratista del lanzamiento": "Rockwell Internacional",
+    "Fecha de aterrizaje": "8 de agosto de 1992, 13:11:50 UTC (9:11:50 am EDT)",
+    "Lugar de aterrizaje": "Kennedy, SLF Runway 33",
+    "Sistema de referencia orbital": "Órbita geocéntrica",
+    "Régimen orbital": "Órbita terrestre baja",
+    "Periapsis": "425 km",
+    "Apoapsis": "437 km",
+    "Inclinación orbital": "28.46°",
+    "Periodo orbital": "93,2 minutos",
+    "Instrumentos": "Consorcio para el desarrollo de materiales en carga útil autónoma de complejos espaciales (CONCAP II y CONCAP III); evaluación de la integración del oxígeno con los procesos de gestión de materiales/termales (EOIM-III/TEMP 2A); cámara de la bahía de carga IMAX (ICBC); exposición de materiales candidatos al entorno espacial de duración limitada (LDCE); función de las células hormonales de crecimiento pituitario (PHCF); instrumento de pluma ultravioleta (UVPI)",
+    "Programa": "Programa de transporte espacial",
+    "Misión anterior": "STS-50 (48)",
+    "Misión siguiente": "STS-47 (50)"
+  },
+  "resumen": "STS-46 fue una misión del transbordador espacial de la NASA que utilizó y fue lanzada el 31 de julio de 1992, y aterrizó el 8 de agosto de 1992.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Aspectos destacados de la misión",
+      "nivel": 2,
+      "texto": "Los objetivos principales de la Misión fueron el despliegue del Transportador Europeo Recuperable (EURECA) de la ESA y el Sistema Conjunto de Satélites Tethered (TSS) de la NASA y la Agencia Espacial Italiana. EURECA se desplegó un día después de lo previsto debido a un problema con su sistema de tratamiento de datos. Siete horas y media después del despliegue, los propulsores de la nave fueron disparados para impulsar a EURECA a su altitud de operación planeada de alrededor de 31O millas. Sin embargo, el disparo del propulsor se cortó a seis minutos de 24 minutos debido a los datos de actitud inesperada de la nave espacial. El problema se resolvió y la EURECA se puso en marcha con éxito en su órbita operacional en el sexto día de la misión. El despliegue de los SAT también se retrasó un día debido a los problemas con EURECA. Durante el despliegue, el satélite alcanzó una distancia máxima de sólo 86O pies del orbitador en lugar de las 12.5 millas previstas debido a una línea de atadura atascada. Después de numerosos intentos durante varios días para liberar la atadura, las operaciones de TSS fueron restringidas y el satélite fue estibado para regresar a la Tierra. Las cargas útiles secundarias incluyeron: evaluación de la integración del oxígeno con los procesos de gestión de materiales/termales (EOIM-III/TEMP 2A), consorcio para el desarrollo de materiales en la carga útil autónoma de complejos espaciales (CONCAP II y CONCAP III), cámara IMAX de la bahía de carga (ICBC), entorno espacial de duración limitada, exposición de materiales candidatos (LDCE), sitio óptico Maui de la Fuerza Aérea (AMOS), función de la hormona de crecimiento pituitario (PHCF) e instrumento de pluma ultravioleta (UVPI). Misión extendió día adicional para completar los objetivos científicos."
+    }
+  ],
+  "num_palabras": 320
+}

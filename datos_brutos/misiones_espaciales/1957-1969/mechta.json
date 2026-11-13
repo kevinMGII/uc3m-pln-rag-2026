@@ -1,0 +1,47 @@
+{
+  "titulo": "Mechta",
+  "titulo_wikipedia_en": "Luna 1",
+  "fecha_lanzamiento": "1959-01-02",
+  "año_lanzamiento": 1959,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración lunar",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Mechta",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Finalizado",
+    "Tipo de misión": "Sonda lunar",
+    "Operador": "URSS",
+    "Fecha de lanzamiento": "2 de enero de 1959 a las 16:41:21 UTC",
+    "ID COSPAR": "1959-012A",
+    "Configuración": "Esférica",
+    "Masa en el lanzamiento": "361 kg",
+    "Propulsión": "Sin Propulsión",
+    "Sistema de referencia orbital": "Translunar",
+    "Excentricidad": "0.14767",
+    "Periapsis": "0.9766 AU",
+    "Apoapsis": "1.315 AU",
+    "Inclinación orbital": "0.01º",
+    "Periodo orbital": "450 d",
+    "Instrumentos": "OKB-1"
+  },
+  "resumen": "Mechta (en ruso: Мечта que significa 'Sueño') fue la primera sonda espacial en alcanzar las inmediaciones de la Luna y la primera de una larga y exitosa serie soviética (Programa Luna) de sondas interplanetarias con dirección al satélite natural de la Tierra.\nEn 1963 la sonda fue renombrada como Luna 1, aunque en occidente se había hecho popular con el equivocado nombre de Lunik 1.",
+  "secciones": [
+    {
+      "titulo": "Sucesos",
+      "nivel": 2,
+      "texto": "Después de tres intentos fallidos durante 1958 finalmente el 2 de enero de 1959, el Luna 1 fue lanzada con éxito convirtiéndose en la primera nave en alcanzar la velocidad de escape de la Tierra.\nLa sonda se separó de la tercera etapa del cohete Vostok (1472 kg de peso, 5,2m de longitud y 2,4 de diámetro) y puso rumbo a la Luna.\nEl 3 de enero, a una distancia de 113.000km de la Tierra, la sonda soltó una nube de gas de sodio con un peso total de 1kg. La nave dejó tras de si una estela de color naranja que fue visible desde el océano Índico con el brillo de una estrella de sexta magnitud (casi invisible a simple vista). De esta forma los técnicos pudieron seguir durante un tiempo el rastro de la nave y observar el comportamiento de un gas en el vacío. La sonda pasó a 5995 kilómetros de la superficie de la Luna, el 4 de enero, después de 34 horas de vuelo, convirtiéndose en el primer satélite artificial que actualmente gira entre las órbitas de la Tierra y Marte. No impactó en la Luna (lo que estaba planeado) debido a un fallo en el sistema de control del cohete que la lanzó."
+    },
+    {
+      "titulo": "Datos y características",
+      "nivel": 2,
+      "texto": "La sonda era una esfera de 80 cm de diámetro, construida de magnesio y aluminio, que pesaba 361 kg. La alimentación eléctrica provenía de baterías de plata-zinc y mercurio que alimentaron los equipos del Luna 1 durante tres días. La comunicación era realizada por 5 antenas que emergían en la parte superior de la esfera, con frecuencias de 183,6 MHz y otras 2 que estaban en la parte inferior de la esfera con frecuencias de 19,993 MHz. La Luna 1 no poseía ningún sistema de propulsión. A bordo de la esfera había escudos, banderines, e insignias soviéticas. La sonda Luna 1 debía estrellarse contra la Luna, pero no lo hizo, pasando a una distancia de 5995 km de la superficie lunar, el 4 de enero, después de 34 horas de viaje.\nEn la esfera había instrumentos de radio, sistemas de telemetría, un transmisor de seguimiento, cinco conjuntos diferentes de dispositivos científicos para estudiar el espacio interplanetario, incluyendo un magnetómetro, un contador Geiger, un contador de destellos (para medir la intensidad de radiaciones ionizantes), un detector de micrometeoritos, y otros equipos. Por toda la esfera aparecían unas protuberancias permitiendo a los instrumentos el contacto con el exterior. Luna 1 llevaba también un almacén con 1 kg de gas de sodio, que soltó según se ha referido más arriba para observar su comportamiento en el vacío.\nLa nave proporcionó nuevos datos hasta entonces desconocidos sobre el cinturón de radiación que rodea nuestro planeta, permitió descubrir que la Luna no tiene campo magnético y detectó el viento solar que emana del sol y recorre el sistema solar."
+    }
+  ],
+  "num_palabras": 538
+}

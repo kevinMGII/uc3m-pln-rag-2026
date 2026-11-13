@@ -1,0 +1,78 @@
+{
+  "titulo": "CHEOPS",
+  "titulo_wikipedia_en": "CHEOPS",
+  "fecha_lanzamiento": "2019-12-18",
+  "año_lanzamiento": 2019,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Telescopio espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/CHEOPS",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "En curso",
+    "Tipo de misión": "Exoplanetología, astrofísica",
+    "Operador": "Oficina Espacial Suiza\nESA",
+    "Fabricante": "Airbus Defence and Space (España)",
+    "Plataforma (bus)": "Plataforma SEOSAT",
+    "Fecha de lanzamiento": "18 de diciembre de 2019 08:54:20 UTC",
+    "Lugar de lanzamiento": "Guiana Space Centre\n(Ensemble de Lancement Soyouz)",
+    "Vehículo de lanzamiento": "Soyuz VS23\nArianespace",
+    "Duración planificada": "3.5 años",
+    "Masa en el lanzamiento": "273 kg\nCarga útil: 58 kg",
+    "Dimensiones": "1.5 × 1.5 × 1.5 m",
+    "Potencia": "64 vatios",
+    "Sistema de referencia orbital": "Órbita geocéntrica",
+    "Régimen orbital": "Heliosíncrona 06:00 / 18:00",
+    "Periapsis": "712 km",
+    "Apoapsis": "715 km",
+    "Inclinación orbital": "92.8°",
+    "Órbita RAAN": "06:00",
+    "Instrumentos": "Fotómetro",
+    "Tipo de telescopio": "Ritchey-Chrétien\nCCD con iluminación posterior frame-transfer",
+    "Diámetro del telescopio": "32 cm",
+    "Telescopio longitud focal": "F/8",
+    "Longitudes de onda": "330‑1100 nm",
+    "Trans capacidad": "downlink 1.2 Gbit/día",
+    "Programa": "Cosmic Vision",
+    "Misión anterior": "BepiColombo",
+    "Misión siguiente": "Solar Orbiter"
+  },
+  "resumen": "El observatorio espacial CHaracterising ExOPlanets Satellite (CHEOPS, por sus siglas en inglés/Satélite para la Caracterización de Exoplanetas en español) de la Agencia Espacial Europea (ESA), es la primera misión exoplanetaria europea.\nSu objetivo es determinar el tamaño de los exoplanetas conocidos, lo que permitiría estimar su masa, densidad, composición y formación. Este es el primer observatorio centrado en el análisis de tránsitos exoplanetarios utilizando fotometría de alta precisión, aplicadas a las estrellas más brillantes del cielo nocturno con planetas confirmados orbitando en torno a ellas, además, de la medición con un nivel de detalle sin precedentes de la densidad media de supertierras y minineptunos.\nSus observaciones permitirán establecer una relación entre la masa y radio de un planeta, y conocer cuál es el límite que separa a los cuerpos telúricos de los gigantes gaseosos.\nEl telescopio forma parte con la primera misión de clase pequeña del programa científico Cosmic Vision de la ESA.\nEl proyecto fue seleccionado entre veintiséis candidatos el viernes 19 de octubre de 2012 y contará con un presupuesto de 50 millones de euros. Su lanzamiento estaba previsto para finales de 2017, pero por diversas circunstancias fue aplazado para ser enviado al espacio a finales de 2019 a bordo de un cohete Soyuz. Después de varios retrasos anunciados por Arianespace (comercializadora del lanzamiento), el lanzamiento fue previsto para el 17 de diciembre a las 9:54 horas (CET) desde el Puerto espacial europeo de Kourou, Guayana Francesa.\nTras ser pospuesto una vez más por problemas detectados en el cohete Soyuz durante una de las comprobaciones del software, a una hora y veinticinco minutos de su lanzamiento, y estando previsto su lanzamiento para veinticuatro horas después, el satélite despegó con éxito a las 08:54 horas (UTC) del día 18 de diciembre de 2019.",
+  "secciones": [
+    {
+      "titulo": "Descripción",
+      "nivel": 2,
+      "texto": "Como el Telescopio Espacial Kepler, CHEOPS observará tránsitos exoplanetarios, recopilando información cuando un cuerpo planetario pase frente a su estrella desde su perspectiva. Sin embargo, mientras que el Kepler contempla 150 000 estrellas en busca de nuevos planetas, el CHEOPS se centrará en cada una de forma individual y en exoplanetas ya conocidos. Podrá apuntar a prácticamente cualquier parte del cielo y utilizará fotometría de muy alta precisión para determinar el radio exacto de cuerpos planetarios de masa conocida, de entre 1 y 20 M⊕. De este modo, podrá identificar su estructura interna, aportar información relevante sobre su formación y perfilar los objetivos principales de la próxima generación de telescopios terrestres y orbitales.\nCHEOPS será la primera de una serie de pequeñas misiones del Programa de Ciencia de la Agencia Espacial Europea, compuesta por satélites muy especializados y de rápido desarrollo que completarán las labores realizadas por proyectos de mayor tamaño. El 19 de octubre de 2012 fue seleccionada entre un total de veintiséis propuestas y fue incorporada al Programa de Ciencia dieciocho meses después, en febrero de 2014. La misión está siendo desarrollada en colaboración con la Universidad de Berna, la Oficina Espacial Suiza (SSO) y una división de la Secretaría de Estado Suiza de Educación, Investigación e Innovación (SERI). En total, once Estados miembros de la ESA participan en el proyecto y cuentan con representación en el Programa de Ciencia de CHEOPS. El satélite será construido en España por Airbus Defence & Space."
+    },
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "El satélite tiene una estructura de base hexagonal y unas dimensiones aproximadas de 1.5 metros de largo, ancho y alto, basándose en la plataforma SeoSat. Cuenta con un telescopio Ritchey-Chrétien de tamaño medio, de 30 cm de apertura y 1.2 m de longitud, desarrollado por la Universidad de Berna. montado en un banco óptico rígido. El sensor CCD del CHEOPS operará en una longitud de onda visible, entre 400 y 1100 nm, con una sensibilidad capaz de detectar un exoplaneta de un tamaño similar a la Tierra alrededor de una estrella de 0.9 M☉ en una órbita de sesenta días.\nLos paneles solares, ubicados sobre un escudo solar que protegerá la carcasa del radiador y el detector contra los rayos del Sol, proporcionarán un suministro continuo de 64 W con el que mantener sus operaciones y permitir la descarga de 1.2 Gb de datos diarios. Además, dispondrá de una batería para almacenar el excedente de energía y mantener el telescopio en funcionamiento incluso durante las fases de eclipse.\nCHEOPS efectuará sus observaciones a poca distancia de la superficie, entre 650 y 800 km de altitud, y permanecerá en una órbita heliosincrónica de 98° de inclinación. La vida útil del proyecto es de tres años y medio, y contará con un presupuesto de 50 millones de euros."
+    },
+    {
+      "titulo": "Sistema de control de actitud y órbita (AOCS)",
+      "nivel": 3,
+      "texto": "El sistema de control está estabilizado en tres ejes, pero bloqueado en el nadir, asegurando que uno de los ejes de la nave espacial siempre apunte hacia la Tierra. Durante cada órbita, la nave girará lentamente alrededor de la línea de visión del telescopio para mantener el radiador del plano focal orientado hacia el espacio frío, permitiendo el enfriamiento pasivo del detector. La duración típica de observación será de 48 horas. Durante una observación típica de 48 horas, CHEOPS tendrá una estabilidad de puntería mejor que ocho segundos de arco con una confianza del 95%."
+    },
+    {
+      "titulo": "Sistema de instrumentos CHEOPS (CIS)",
+      "nivel": 3,
+      "texto": "El detector, la electrónica de soporte, el telescopio, la óptica de fondo, la computadora del instrumento y el hardware de regulación térmica se conocen agrupadamente como el Sistema de Instrumento CHEOPS (CHEOPS Instrument System (CIS)). La precisión fotométrica requerida se logrará utilizando un detector CCD retroiluminado de transferencia de fotogramas simple de Teledyne e2v con 1024 × 1024 píxeles y un paso de píxeles de 13 µm. El CCD está montado en el plano focal del telescopio y se enfría pasivamente a 233 K (−40 °C), con una estabilidad térmica de 10 mK."
+    },
+    {
+      "titulo": "Placas",
+      "nivel": 3,
+      "texto": "Se han fijado dos placas de titanio con miles de dibujos miniaturizados de niños en CHEOPS. Cada placa mide casi 18 cm × 24 cm. Las placas, preparadas por un equipo de la Universidad de Ciencias Aplicadas de Berna, fueron presentadas en una ceremonia dedicada en RUAG el 27 de agosto de 2018."
+    },
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "El principal objetivo de la misión CHEOPS es estudiar la estructura de exoplanetas menores que Saturno, con entre 1 y 20 M⊕, pertenecientes a las estrellas más brillantes del cielo nocturno que cuentan con planetas confirmados a su alrededor. Una vez identificadas con exactitud la masa y el radio de una muestra significativa, será posible establecer restricciones estructurales para los exoplanetas, así como nuevas teorías sobre la formación y evolución de los cuerpos planetarios en ese rango de masas. El satélite centrará sus observaciones en exoplanetas confirmados por el método de velocidad radial, que los detecta por las oscilaciones que causan en sus estrellas como consecuencia de sus órbitas. Por tanto, el método infiere la masa de un planeta pero no sus dimensiones, que es el objetivo de la misión CHEOPS. Determinando su radio con precisión, se podrá estimar su composición y conocer si es terrestre o gaseoso mediante el cálculo de su densidad. Así, se establecerá con exactitud la relación entre masa y radio de los cuerpos planetarios con masas entre 1 y 20 M⊕.\nEn el disco de acrecimiento de un planeta en fase de formación, el núcleo de este último debe alcanzar una masa crítica antes de disponer de una gravedad suficiente como para alcanzar una acreción descontrolada de gas que lo convierta en un gigante gaseoso. El potencial de un planeta para retener una gruesa atmósfera de hidrógeno u otros compuestos volátiles varía en función de numerosos factores, como su composición, la metalicidad de su estrella, la distancia respecto a esta o semieje mayor y, por supuesto, la propia masa del planeta.\nLas investigaciones del equipo de Courtney Dressing —Centro de Astrofísica Harvard-Smithsonian (CfA)— partiendo de los datos del HARPS-N, indican que existe un límite natural de unos 1.6 R⊕, por debajo del cual la mayoría de los planetas son cuerpos telúricos. Además, sugieren que los planetas con masas inferiores a 6 M⊕ tienen altas probabilidades de presentar una composición similar a la de la Tierra. Las observaciones del CHEOPS, mucho más precisas, permitirán identificar con más detalle la relación masa-radio de los cuerpos planetarios y el grado en que otros factores, como la distancia entre el planeta y su estrella, pueden afectar a la densidad del objeto.\nSus observaciones serán de gran utilidad para futuros telescopios como el JWST y el ATLAST, que podrán efectuar análisis espectroscópicos de las atmósferas de los planetas en busca de indicios de vida extraterrestre."
+    }
+  ],
+  "num_palabras": 1401
+}

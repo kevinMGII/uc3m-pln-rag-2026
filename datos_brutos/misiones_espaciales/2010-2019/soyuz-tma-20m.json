@@ -1,0 +1,26 @@
+{
+  "titulo": "Soyuz TMA-20M",
+  "titulo_wikipedia_en": "Soyuz TMA-20M",
+  "fecha_lanzamiento": "2016-03-18",
+  "año_lanzamiento": 2016,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Soyuz_TMA-20M",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Vehículo de lanzamiento": "Soyuz-FG",
+    "Fecha de lanzamiento": "18 de marzo de 2016\n21:26 UTC",
+    "Nave": "Soyuz TMA",
+    "Programa": "Programa Soyuz",
+    "Misión anterior": "Soyuz TMA-19M",
+    "Misión siguiente": "Soyuz MS-01"
+  },
+  "resumen": "Soyuz TMA-20M fue un vuelo espacial del Soyuz efectuado el 18 de marzo de 2016. Transportó a tres miembros de la tripulación de la Expedición 47 hacia la Estación Espacial Internacional. La TMA-20M fue el vuelo número 129 de una nave espacial Soyuz. El equipo está compuesto por un comandante ruso, un ingeniero de vuelo ruso y un ingeniero de vuelo estadounidense.\nEste fue el último viaje espacial realizado con la nave Soyuz TMA-M, que será sustituido por la mejorada Soyuz MS.\nEl acoplamiento con la Estación Espacial Internacional se completó el 19 de marzo a las 3:10 UTC",
+  "secciones": [],
+  "num_palabras": 99
+}

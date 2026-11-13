@@ -1,0 +1,41 @@
+{
+  "titulo": "Blue Origin NS-34",
+  "titulo_wikipedia_en": "Blue Origin NS-34",
+  "fecha_lanzamiento": "2025-08-03",
+  "año_lanzamiento": 2025,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Blue_Origin_NS-34",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Vuelo espacial humano suborbital",
+    "Duración de la misión": "10 minutos, 12 segundos",
+    "Apogeo suborbital": "105 km",
+    "Nave": "RSS Primer paso",
+    "Fabricante": "Origen azul",
+    "Tripulación": "Arvinder (Arvi) Singh Bahal; Gökhan Erdem; Deborah Martorell; Lionel Pitchford; James (J.D.) Russell; Justin Sun",
+    "Fecha de lanzamiento": "3 de agosto de 2025, 12:42:16 UTC",
+    "Vehículo de lanzamiento": "Nuevo Shepard (NS4)",
+    "Lugar de lanzamiento": "Rancho de maíz, LS-1",
+    "Contratista del lanzamiento": "Origen azul",
+    "Fecha de aterrizaje": "3 de agosto de 2025, 12:52 UTC",
+    "Lugar de aterrizaje": "Rancho de maíz",
+    "Programa": "Vuelos nuevos de Shepard",
+    "Misión anterior": "Origen azul NS-33",
+    "Misión siguiente": "Origen azul NS-35"
+  },
+  "resumen": "Blue Origin NS‐34 fue un vuelo espacial suborbital operado por Blue Origin como parte de su programa de turismo espacial New Shepard. El vuelo se lanzó desde el Sitio de Lanzamiento Uno (Corn Ranch) en West Texas el 3 de agosto de 2025, a las 12:42 UTC (08:42 a.m. Este). La ventana de lanzamiento se abrió alrededor de las 7:30 AM CDT (12:30 UTC).\nEsta misión representa el vuelo humano número 14 y el vuelo total número 34 del programa New Shepard.",
+  "secciones": [
+    {
+      "titulo": "Pasajeros",
+      "nivel": 2,
+      "texto": "Entre los pasajeros del vuelo se encuentran el viajero mundial y el inversionista inmobiliario Arvinder (Arvi) Singh Bahal, el empresario y fotógrafo turco Gökhan Erdem, la meteoróloga ganadora de Emmy Deborah Martorell, el educador humanitario Lionel Pitchford, el emprendedor y turista espacial que regresa James (J.D.) Russell, y el pionero en criptografía y fundador del TRON, Justin Sun."
+    }
+  ],
+  "num_palabras": 140
+}

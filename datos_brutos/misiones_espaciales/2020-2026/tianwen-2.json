@@ -1,0 +1,56 @@
+{
+  "titulo": "Tianwen-2",
+  "titulo_wikipedia_en": "Tianwen-2",
+  "fecha_lanzamiento": "2025-05-28",
+  "año_lanzamiento": 2025,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración de cometas",
+    "Exploración de asteroides y planetas menores",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Tianwen-2",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Retorno de muestras de asteroide\nOrbitador/módulo de aterrizaje del cometa",
+    "Operador": "CNSA",
+    "Nº SATCAT": "64197",
+    "Duración de la misión": "(transcurridos)\n10 años (planificado)",
+    "Fabricante": "CAST",
+    "Masa en el lanzamiento": "≈2.100 kg (4.600 lb)",
+    "Fecha de lanzamiento": "28 de mayo de 2025, 17:31 UTC",
+    "Vehículo de lanzamiento": "Larga Marcha 3B",
+    "Lugar de lanzamiento": "Xichang, LA-2",
+    "Contratista del lanzamiento": "CASC",
+    "Programa": "Programa Tianwen",
+    "Misión anterior": "Tianwen-1",
+    "Misión siguiente": "Tianwen-3"
+  },
+  "resumen": "Tianwen-2 (chino: 天问二号) es una misión china de devolución de muestras de asteroides y exploración de cometas que se lanzó el 28 de mayo de 2025. Es la segunda misión del programa de Exploración Planetaria de China de la Agencia Espacial Nacional de China (CNSA), y la única misión planificada para centrarse en pequeños cuerpos del Sistema Solar. La sonda despegó del Centro de Lanzamiento de Satélites de Xichang en un cohete Long March 3B.\nEl 4 de julio de 2026, la nave llegó a 469219 Kamoʻoalewa, un asteroide cercano a la Tierra que actualmente es un cuasi-satélite de la Tierra. CNSA planea que Tianwen-2 devuelva muestras del asteroide durante un sobrevuelo terrestre en 2027, expulsando una cápsula hacia la entrada atmosférica. Tras el sobrevuelo, se planea que la sonda se reúna con el cometa del cinturón principal 311P/PanSTARRS en enero de 2035, y lo explore con sus 11 instrumentos a bordo.",
+  "secciones": [
+    {
+      "titulo": "Resumen",
+      "nivel": 2,
+      "texto": "CNSA lanzó la sonda Tianwen-2 utilizando un cohete portador Larga Marcha 3B el 28 de mayo de 2025 desde el Centro de Lanzamiento de Satélites de Xichang, en el suroeste de China. La sonda utiliza propulsión solar eléctrica para maniobrar entre sus múltiples objetivos. Se planea explorar el asteroide cercano a la Tierra coorbital 469219 Kamoʻoalewa y el cometa del cinturón principal 311/PanSTARRS. La nave se reunión con Kamoʻoalewa en julio de 2026 y está realizando observaciones de teledetección en órbita, mientras busca un sitio de muestreo. Tianwen-2 realizaría investigaciones a altitudes progresivamente más bajas desde 20 kilómetros, 3 km, 600 metros y hasta 300 m de la superficie del asteroide antes de tocar o suspender para recoger una muestra de regolito. Se utilizaría explosivos para exponer posibles volátiles subterráneos para su detección.\nLa nave utilizaría tanto el método de anclaje y acoplamiento como el de contacto y salida para intentar la recogida de una muestra. Sería la primera vez que se utiliza un método de anclaje y unión en un asteroide, ya que tanto OSIRIS-REx como Hayabusa2 usaron el toque y el partido.\nTianwen-2 regresará a la Tierra en 2027 para dejar una cápsula de retorno que contendría la muestra y realizar una maniobra de asistencia gravitatoria para propulsar la nave hacia 311/PanSTARRS. Se realizarían teledetección y mediciones in situ en 311P/PanSTARRS durante al menos un año."
+    },
+    {
+      "titulo": "Historia",
+      "nivel": 2,
+      "texto": "En 2018, investigadores de la Academia China de Ciencias propusieron una hoja de ruta para la exploración del espacio profundo que cubre el periodo 2020–2030, que incluía una misión de exploración de asteroides prevista para su lanzamiento alrededor de 2022 o 2024. Inicialmente, la sonda espacial se conocía como ZhengHe, y el nombre hace referencia al explorador de la dinastía Ming del siglo XV, Zheng He. En la primavera de 2019, tras la realización de un estudio de diseño para la misión por parte de la Academia China de Tecnología Espacial (CAST), la CNSA comenzó a solicitar propuestas internacionales para instrumentos científicos que se llevarían en Tianwen-2.\nEn las fases de planificación, se propuso desplegar un nano-orbitador y un nano-módulo para realizar observaciones de teledetección y muestreo. Además, el objetivo secundario original era 133P/Elst–Pizarro, y también se podría haber intentado pasar un asteroide adicional sin nombre.\nTianwen-2 fue lanzado el 28 de mayo de 2025 desde el Centro de Lanzamiento de Satélites de Xichang utilizando un vehículo de lanzamiento Larga Marcha 3B y fue colocado directamente en una trayectoria de escape desde la Tierra, algo inédito en la historia de este vehículo de lanzamiento. El 7 de junio de 2026, la nave realizó un encendido de motores para encontrarse con la cuasi-luna. El encuentro cercano de Tianwen-2 con Kamoʻoalewa comenzó el 4 de julio, cuando la nave se acercó a menos de 20 kilómetros del asteroide."
+    },
+    {
+      "titulo": "Instrumentos",
+      "nivel": 2,
+      "texto": "Tianwen-2 incorporará varios tipos de instrumentos, incluyendo cámaras multiespectrales y en color de gran angular/estrecho, un espectrómetro de emisión térmico, un espectrómetro de imagen visible/infrarrojo cercano, un espectrómetro de masas, un magnetómetro y un analizador cargado/neutro de partículas y polvo. Se fomentan las contribuciones internacionales a estas cargas útiles."
+    },
+    {
+      "titulo": "Carga útil científica",
+      "nivel": 3,
+      "texto": "Fuente:\nEspectrómetro de Imagen Infrarroja Visible\nEspectrómetro de Radiación Térmica\nCámara multiespectral\nCámara de color de campo medio\nRadar de detección\nMagnetómetro\nAnalizadores de partículas cargadas y neutras\nAnalizador de eyección\nSensor de navegación de campo de visión estrecho\nSensor de navegación integrado láser"
+    }
+  ],
+  "num_palabras": 709
+}

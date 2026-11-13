@@ -1,0 +1,25 @@
+{
+  "titulo": "Sora-Q",
+  "titulo_wikipedia_en": "Sora-Q",
+  "fecha_lanzamiento": "2023-09-06",
+  "año_lanzamiento": 2023,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración lunar"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Sora-Q",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {},
+  "resumen": "Sora-Q es un rover Lunar en miniatura diseñado y fabricado por la agencia espacial japonesa JAXA, fabricante de juguetes Tomy, Sony y la Universidad Doshisha.",
+  "secciones": [
+    {
+      "titulo": "Histórico",
+      "nivel": 2,
+      "texto": "Fue lanzado a la Luna primero en la fallida Misión Hakuto-R 1 en 2022, y en 2023 Smart Lander para la misión de investigación de la Luna, donde se le llama oficialmente el Vehículo de Excursión Lunar 2 (LEV-2). El rover fue desplegado con éxito y operado después de aterrizar el 19 de enero de 2024.\nEl rover de béisbol tiene una masa de 250 g y un diámetro de 8 cm y está equipado con dos cámaras pequeñas. LEV-2 extiende su forma para arrastrarse sobre la superficie lunar usando dos ruedas a sus lados, un método de locomoción inspirado en ranas y tortugas marinas; puede \"correr\" durante aproximadamente dos horas."
+    }
+  ],
+  "num_palabras": 136
+}

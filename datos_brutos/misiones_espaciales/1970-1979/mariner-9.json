@@ -1,0 +1,71 @@
+{
+  "titulo": "Mariner 9",
+  "titulo_wikipedia_en": "Mariner 9",
+  "fecha_lanzamiento": "1971-05-30",
+  "año_lanzamiento": 1971,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración de Marte",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Mariner_9",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {},
+  "resumen": "La sonda Mariner 9 fue utilizada como parte del programa Mariner para la exploración de Marte. Mariner 9 fue lanzada hacia su destino el 30 de mayo de 1971 y llegó a Marte el 13 de noviembre del mismo año, convirtiéndose en la primera nave espacial que orbitó otro planeta. Científicamente constituyó una continuación de las observaciones de Marte adquiridas por las sondas Mariner 6 y 7 mostrando claras fotografías de la superficie marciana oculta al inicio de la misión por grandes tormentas de arena.",
+  "secciones": [
+    {
+      "titulo": "Introducción",
+      "nivel": 2,
+      "texto": "El proyecto Mariner Mars 71 fue una misión formada por dos naves que debían orbitar Marte en misiones complementarias, pero debido al fallo del Mariner 8 en el lanzamiento, solo se pudo realizar con una sonda. La nave Mariner 9 recogió los objetivos de la fallida misión (mapear el 70 % de la superficie marciana) y sus propios objetivos (estudiar los cambios temporales en la atmósfera y la superficie). La Mariner 9 fue la primera sonda en orbitar con éxito otro planeta.\nLa superficie planetaria de Marte debía ser mapeada con la misma resolución prevista para la misión inicial, a pesar de que la resolución de las imágenes de las regiones polares debía descender debido a la mayor distancia a la superficie de esta sonda respecto a la Mariner 8."
+    },
+    {
+      "titulo": "La nave",
+      "nivel": 2,
+      "texto": "La sonda Mariner 9 fue construida sobre una estructura octogonal de magnesio, de 45,7 cm de altura y 138,4 cm en diagonal. Montados en la parte superior de la estructura se encontraban dos tanques de propulsión con el combustible, el motor de maniobras orbitales, una antena de baja ganancia de 1,44 m de largo y una antena parabólica para las comunicaciones con la Tierra.\nUna plataforma móvil estaba montada en la parte baja de la estructura, donde estaban acoplados los instrumentos científicos (cámaras de TV de ángulo ancho y estrecho, radiómetro infrarrojo, espectrómetro ultravioleta y espectrómetro interferómetro infrarrojo).\nLa altura total de la nave era de 2,28 m y la masa en el momento del lanzamiento fue de 974 kg, de los que 415 kg eran de combustible. La instrumentación científica tenía un peso total de 63,1 kg. La electrónica para las comunicaciones, comandos y control de la sonda estaban dentro de la estructura principal.\nPara obtener electricidad la sonda tenía 4 paneles solares con unas dimensiones de 90x215 cm, extendidos desde la parte superior de la estructura. Cada grupo de dos paneles solares media 6,89 m de lado a lado. La energía de la nave la proporcionaban un total de 14 742 células solares en los 4 paneles con una superficie total de 7,7 m². La producción de electricidad llegaba a los 800 W en la Tierra y a 500 W en la órbita marciana. La energía era almacenada en baterías de níquel-cadmio con una capacidad de 20 Ah.\nLa propulsión se obtenía por medio de un motor con un empuje máximo de 1340 N y que podía reencenderse más de 5 veces. El propelente era monometil hidracina y tetróxido de nitrógeno. Dos conjuntos de seis toberas de orientación de gas nitrógeno estaban colocadas al final de los paneles solares.\nLa orientación se obtenía con la localización realizada por un sensor solar, un rastreador de estrellas, giroscopios y una unidad de referencia inercial junto a un acelerómetro. La sonda tenía un sistema de control termal pasivo basado en el uso de paneles móviles en las ocho caras de la nave y de aislantes térmicos.\nEl control de la sonda lo llevaba un ordenador central y un secuenciador que tenía una memoria de hasta 512 palabras. El sistema de comandos estaba programado con 86 comandos directos, 4 comandos cuantitativos y 5 comandos de control. Los datos eran almacenados en un grabador de cinta digital reel to reel. La cinta de 168 m y 8 pistas podía almacenar 180 millones de bits grabados a una velocidad de 132 kbits/s. El envío de los datos a la Tierra podía ser realizado a 16, 8, 4, 2 y 1 kbit/s, usando dos pistas al mismo tiempo.\nLas telecomunicaciones se llevan a cabo por dos transmisores en banda S de 10 y 20 W y se recibían por un receptor a través de la antena parabólica de alta ganancia, la antena de cuerno de media ganancia o la antena de baja ganancia omnidireccional."
+    },
+    {
+      "titulo": "La misión",
+      "nivel": 2,
+      "texto": "La sonda fue lanzada en una trayectoria directa a Marte de 398 millones de km por un cohete Atlas-Centaur SLV-3C (AC-23). La separación del cohete ocurrió a las 22:36 GMT, unos 13 min después del despegue. Los cuatro paneles solares se desplegaron a las 22:40 GMT y los sensores encontraron el Sol hacia las 23:16 GMT, poco después de que la sonda abandonara la sombra de la Tierra. La adquisición de la estrella Canopus ocurrió a las 02:26 GMT el 31 de mayo.\nLa primera maniobra de corrección de la trayectoria tuvo lugar el 5 de junio. La nave Mariner 9 llegó a Marte el 13 de noviembre de 1971 tras 166 días de vuelo. Un encendido del motor principal de 15 min y 23 s colocó a la nave en órbita marciana, convirtiendo de esta manera a esta sonda en la primera en orbitar otro planeta. La nave quedó colocada con una órbita que tenía un periapsis de 1398 km y un periodo de 12 h y 34 min. Dos días después, un encendido del motor de 6 s cambió el periodo orbital a 12 h con un periapsis de 1387 km. Se realizó una maniobra de corrección de la trayectoria el 30 de diciembre durante la órbita 94 que elevó el periapsis hasta los 1650 km y dejó el periodo orbital en 11 h, 59 min y 28 s de manera que se pudieran realizar transmisiones de datos sincronizadas con la antena de 64 m de Goldstone.\nLa toma de fotografías de la superficie de Marte fue retrasada indefinidamente debido a una gran tormenta marciana que había comenzado el 22 de septiembre de 1971 en la región de Noachis. La tormenta creció rápidamente hasta convertirse en la mayor tormenta de arena jamás observada en Marte. Cuando la nave llegó al planeta no se podía apreciar ningún detalle de la superficie, excepto las cimas de Olympus Mons y los tres volcanes de Tharsis. La tormenta fue desapareciendo durante noviembre y diciembre por lo que pudieron comenzar las operaciones normales de la sonda.\nLos instrumentos de la nave obtuvieron numerosos datos sobre presiones, densidades y composición de la atmósfera, así como de la composición, temperatura, gravedad y topografía de la superficie. En total se enviaron a la Tierra 54 mil millones de bits de datos científicos, incluyendo 7329 fotografías que cubrieron al planeta por completo. Tras agotar el gas para controlar la orientación de la nave, la nave fue apagada el 27 de octubre de 1972, tras casi un año de operaciones. Mariner 9 fue dejada en órbita marciana, la cual no decaerá hasta al cabo de 50 años, cuando la sonda penetrará en la atmósfera del planeta rojo.\nLa misión Mariner 9 fue un éxito rotundo ya que se consiguió el primer mapa global de Marte, incluyendo las primeras vistas detalladas de los volcanes, el Valle Marineris, los casquetes polares y los satélites Fobos y Deimos. Además proporcionó información sobre las tormentas de polvo globales, el campo gravitatorio variable por zonas y evidencias de actividad erosiva por parte del viento."
+    },
+    {
+      "titulo": "Instrumentos",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Fotografía por televisión",
+      "nivel": 3,
+      "texto": "Consistía en una cámara de televisión vidicon de 5 cm que transmitía fotografías desde Marte. Era capaz de transmitir fotografías filtradas de baja resolución y fotografías sin filtrar de alta resolución. Cada imagen tenía un total de 700 por 380 píxeles y su resolución variaba entre las 500 m/línea TV a los 50 m/línea TV si eran tomadas a unos 2000 km de altura. En total obtuvo más de 7300 fotografías de la superficie marciana, sus satélites, Saturno y algunas estrellas."
+    },
+    {
+      "titulo": "Radiómetro Infrarrojo (IRR)",
+      "nivel": 3,
+      "texto": "El radiómetro infrarrojo del Mariner 9 estaba diseñado para estudiar la superficie de Marte, las temperaturas del suelo en función de la hora local midiendo la energía radiada entre las 8-12 micras y las 18-25 micras, lo que permitía conocer los flujos de energía y las posibles ‘zonas calientes’ debidas a fuentes termales y las zonas frías de los polos. Operó con normalidad durante toda la misión."
+    },
+    {
+      "titulo": "Ocultación en Banda-S",
+      "nivel": 3,
+      "texto": "El desplazamiento Doppler de la señal de telemetría en banda-S ocurrido durante la ocultación de la sonda por Marte proporcionaba información sobre la distribución vertical del índice de refracción de la atmósfera marciana, lo que permitía conocer la distribución vertical de los iones y las moléculas neutras."
+    },
+    {
+      "titulo": "Mecánica celestial",
+      "nivel": 3,
+      "texto": "Se realizó un experimento de mecánica celeste para el análisis de la trayectoria orbital a través de los datos de seguimiento. Ello permitía obtener las características del campo de gravedad de Marte y las efemérides con alta precisión."
+    },
+    {
+      "titulo": "Espectrómetro Interferómetro Infrarrojo (IRIS)",
+      "nivel": 3,
+      "texto": "Estaba diseñado para proporcionar información sobre la estructura vertical, la composición y la dinámica de la atmósfera y de las propiedades de la superficie del planeta. Las medidas se realizaron entre las 6 y las 50 micras, usando un interferómetro de Michelson modificado. El instrumento iba montado en la parte inferior de la nave en una plataforma móvil. El instrumento obtuvo unos datos excelentes durante la misión."
+    },
+    {
+      "titulo": "Espectrómetro Ultravioleta (UVS)",
+      "nivel": 3,
+      "texto": "Este experimento fue diseñado para recibir la radiación ultravioleta entre los 1100 y los 3520 Å de la superficie y la atmósfera marciana, observando bandas seleccionadas de esta radiación y dando información sobre la presión atmosférica local, las concentraciones de ozono, variaciones en las estructuras de la superficie y variaciones en el oxígeno y el ozono como posibles señales de actividad biológica.\nAdemás permitía detectar el ritmo de escape del hidrógeno atómico de la exosfera y la presencia de las auroras en el UV inducidas por el campo magnético del planeta. Operó con normalidad durante toda la misión."
+    }
+  ],
+  "num_palabras": 1623
+}

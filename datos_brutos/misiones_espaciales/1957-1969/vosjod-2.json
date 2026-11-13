@@ -1,0 +1,42 @@
+{
+  "titulo": "Vosjod 2",
+  "titulo_wikipedia_en": "Voskhod 2",
+  "fecha_lanzamiento": "1965-03-18",
+  "año_lanzamiento": 1965,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Vosjod_2",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Masa en el lanzamiento": "5 682 kg",
+    "Apoapsis": "475 km",
+    "Periapsis": "167 km",
+    "Programa": "Programa Vosjod",
+    "Misión anterior": "Vosjod 1"
+  },
+  "resumen": "Vosjod 2 (en ruso: Восход-2) fue el nombre de una misión espacial tripulada soviética que se llevó a cabo el 18 de marzo de 1965. La misma voló una nave espacial Vostok modelo Vosjod 3KD con dos tripulantes a bordo, Pável Beliáyev y Alekséi Leónov, la nave estaba provista de una cámara de aire inflable proyectable exterior. Esta misión estableció otro hito en la exploración del espacio cuando Alekséi Leónov se convirtió en la primera persona en salir fuera de una nave espacial en un traje especial para realizar un \"paseo espacial\" de doce minutos.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Dos cosmonautas\nComandante: Pável Beliáyev\nPrimer Piloto: Alekséi Leónov"
+    },
+    {
+      "titulo": "Tripulación de apoyo",
+      "nivel": 3,
+      "texto": "Comandante: Dmitri Zaikin\nPiloto: Yevgeni Khrunov"
+    },
+    {
+      "titulo": "Tripulación de reserva",
+      "nivel": 3,
+      "texto": "Comandante: Viktor Gorbatko\nPiloto: Piotr Kolodin"
+    }
+  ],
+  "num_palabras": 116
+}

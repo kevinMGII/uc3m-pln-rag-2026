@@ -1,0 +1,31 @@
+{
+  "titulo": "Student Nitric Oxide Explorer",
+  "titulo_wikipedia_en": "Student Nitric Oxide Explorer",
+  "fecha_lanzamiento": "1998-02-26",
+  "año_lanzamiento": 1998,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión heliofísica"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Student_Nitric_Oxide_Explorer",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Reentrado en la atmósfera",
+    "Tipo de misión": "Observación terrestre",
+    "Operador": "NASA",
+    "Fecha de lanzamiento": "26 de febrero de 1998",
+    "Vehículo de lanzamiento": "Pegasus",
+    "ID NSSDC": "1998-012A",
+    "Configuración": "Hexagonal",
+    "Masa en el lanzamiento": "120 kg",
+    "Dimensiones": "Diámetro 1 m, altura 0,9 m",
+    "Tipo de fin de misión": "reingreso",
+    "Fecha de reentrada": "13 de diciembre de 2003"
+  },
+  "resumen": "Student Nitric Oxide Explorer o SNOE fue el primer satélite artificial perteneciente al programa Student Explorer Demonstration Initiative de la NASA. Fue construido por la Universidad de Colorado en Boulder y lanzado el 26 de febrero de 1998 mediante un cohete Pegasus desde Point Arguello a una órbita heliosincrónica. El satélite reentró en la atmósfera el 13 de diciembre de 2003.\nLa misión de SNOE fue realizar un estudio detallado de las variaciones de óxido nítrico (NO) en la termosfera terrestre, en concreto determinar la manera en que las variaciones en el flujo de rayos X solares afectan a la densidad de NO en la termosfera inferior y determinar la manera en que la actividad auroral produce incrementos de NO en las regiones polares.\nLa nave tenía forma hexagonal, con unos 0,9 m de altura y 1 m de diámetro y un peso de 120 kg. Se estabilizaba mediante giro (5 revoluciones por minuto) y llevaba tres instrumentos:\nun espectrómetro ultravioleta para medir el óxido nítrico.\nun fotómetro auroral de dos canales para medir las emisiones aurorales justo por debajo de la nave.\nun fotómetro de rayos X solares de cinco canales.\nEl satélite también portaba un receptor GPS para determinar con precisión su órbita.\nLa operación de la nave corrió a cargo del Laboratory for Atmospheric and Space Physics, de la Universidad de Colorado en Boulder.",
+  "secciones": [],
+  "num_palabras": 227
+}

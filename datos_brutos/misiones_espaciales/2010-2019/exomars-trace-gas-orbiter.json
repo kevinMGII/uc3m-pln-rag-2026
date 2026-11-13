@@ -1,0 +1,36 @@
+{
+  "titulo": "ExoMars Trace Gas Orbiter",
+  "titulo_wikipedia_en": "Trace Gas Orbiter",
+  "fecha_lanzamiento": "2016-03-14",
+  "año_lanzamiento": 2016,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración de Marte",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/ExoMars_Trace_Gas_Orbiter",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Orbitador/transportador",
+    "Operador": "ESA y Roskosmos",
+    "Fabricante": "Thales Alenia Space",
+    "Fecha de lanzamiento": "14 de marzo de 2016",
+    "Vehículo de lanzamiento": "Protón",
+    "Duración de la misión": "1 año de misión científica orbital en Marte\nLas telecomunicaciones serán activas hasta 2022",
+    "Masa en el lanzamiento": "3130 kg",
+    "Potencia": "20 m² sistema fotovoltaico (140 W)",
+    "Datos interplanetarios": "tipo: orbitador | objeto: Marte | fecha llegada: 19 de octubre de 2016"
+  },
+  "resumen": "El ExoMars Trace Gas Orbiter (TGO) es una misión colaborativa entre la Agencia Espacial Europea (ESA) y la Agencia Espacial Rusa (Roscosmos) compuesta por un orbitador transportador robótico, que fue lanzado hacia Marte el 14 de marzo de 2016 como parte del programa ExoMars, liderado por la ESA. Fue colocado exitosamente en órbita de Marte el 19 de octubre de 2016.\nEl TGO liberó a su llegada a Marte el módulo de descenso estático Schiaparelli EDM, y a lo largo de su misión procederá a registrar las fuentes de metano y otros gases en el planeta rojo, y ayudará a seleccionar el lugar de aterrizaje del rover ExoMars que será lanzado en 2018.",
+  "secciones": [
+    {
+      "titulo": "Especificaciones",
+      "nivel": 2,
+      "texto": "Las especificaciones propuestas son:\nDimensiones\nCilindro central de 1,194 m de diámetro.\nPropulsión\nSistema de propulsión principal bipropelente con 424 N; para la inserción orbital en Marte y maniobras.\nEnergía\nPaneles solares de 20 m², que generan ~ 140 W de energía.\nBaterías\nDos módulos de baterías de ion de litio con una capacidad total de ~ 5100 Wh/ 180 Ah; para cubrir los eclipses durante la vida útil nominal del orbitador (hasta finales de 2022).\nComunicación\nAntena de alta ganancia 2200 mm de Banda-X con un mecanismo de 2 ejes y amplificación de 65 W RF TWTA (Travelling Wave Tube Amplifier).\nTransceptores Electra Banda-UHF con una antena helicoidal simple; para la comunicación con los elementos en la superficie planetaria (e.g. rovers, landers).\nMasa\n3130 kg.\nCarga útil\nEntre 115 kg y 135,6 kg de carga científica."
+    }
+  ],
+  "num_palabras": 250
+}

@@ -1,0 +1,68 @@
+{
+  "titulo": "Beresheet",
+  "titulo_wikipedia_en": "Beresheet",
+  "fecha_lanzamiento": "2019-02-22",
+  "año_lanzamiento": 2019,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración lunar",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Beresheet",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Destruido",
+    "Tipo de misión": "Demostración de capacidad tecnológica",
+    "Operador": "Israel Aerospace Industries y SpaceIL",
+    "Fabricante": "SpaceX",
+    "Fecha de lanzamiento": "22 de febrero de 2019 1:45 UTC",
+    "Lugar de lanzamiento": "Complejo de lanzamiento espacial 40 de Cabo Cañaveral",
+    "Vehículo de lanzamiento": "Falcon 9 Full Thrust Block 5",
+    "Duración planificada": "Planeado: 2 días",
+    "ID NSSDC": "44049",
+    "Masa en el lanzamiento": "585 kg",
+    "Dimensiones": "diámetro: 2m; altura: 1,5m"
+  },
+  "resumen": "Beresheet fue una demostración de un pequeño robot de aterrizaje lunar y una sonda lunar. Sus objetivos incluían la promoción de carreras en ciencias, tecnología, ingeniería y matemáticas (STEM) y el aterrizaje de su magnetómetro, cápsula de tiempo digital y retrorreflector láser en la Luna.\nEl 11 de abril de 2019, la falla del giroscopio del módulo de aterrizaje (Unidad de Medición Inercial) causó una cadena de eventos que llevaron al apagado del motor principal, lo que provocó que el módulo de aterrizaje se estrellara en la Luna. El 13 de abril de 2019, se anunció Beresheet-2.\nEl módulo de aterrizaje se conocía anteriormente como Sparrow y se llamó oficialmente Beresheet (בְּרֵאשִׁית, \"Génesis\") en diciembre de 2018. Su masa neta fue de 150 kg. Cuando se aprovisionó de combustible en su lanzamiento, su masa fue de 585 kg. Utilizó siete estaciones terrestres, globalmente, para la comunicación del aterrizador de la Tierra. Su sala de control de la misión estaba en Israel Aerospace Industries en Yehud, Israel.",
+  "secciones": [
+    {
+      "titulo": "Planificación y construcción",
+      "nivel": 2,
+      "texto": "Beresheet fue codesarrollado por SpaceIL, una organización sin fines de lucro dirigida por Morris Kahn, su principal financiero e Israel Aerospace Industries. Representó la primera misión de la Luna iniciada de forma privada y fue estimulada por el Premio Google Lunar X. Las Industrias Aeroespaciales de Israel (IAI) encargadas de la construcción sub-contrataron a Ibesespacio (Ibérica del Espacio S.A. (España)) para la construcción de la plataforma principal y fueron apoyadas por la Agencia Espacial Israelí. La ventana de tiempo para participar en el Premio Lunar X se cerró antes del lanzamiento. Después de la misión, el Premio Lunar X otorgó un premio de US $1 millón a SpaceIL para apoyar una segunda misión.\nLos costos del proyecto fueron de alrededor de US $100 millones."
+    },
+    {
+      "titulo": "Carga útil",
+      "nivel": 2,
+      "texto": "La nave espacial llevó una \"cápsula del tiempo\" digital que contenía más de 30 millones de páginas de datos, incluida una copia completa de la Wikipedia en inglés, el disco Wearable Rosetta, la base de datos PanLex, la Torá, dibujos para niños, un libro infantil inspirado en el lanzamiento espacial, memorias de un sobreviviente del Holocausto, el himno nacional de Israel (\"Hatikvah\"), la bandera israelí y una copia de la Declaración de Independencia de Israel.\nSu carga científica incluyó un magnetómetro suministrado por el Instituto Weizmann de Ciencia israelí para medir el campo magnético local y una matriz de retrorreflector láser suministrada por el Centro de Vuelo Espacial Goddard de la NASA para permitir mediciones precisas de la distancia Tierra-Luna."
+    },
+    {
+      "titulo": "Propulsión",
+      "nivel": 2,
+      "texto": "El sistema de propulsión de la nave espacial fue diseñado y construido por Israel Aerospace Industries, basado en el combustible de monometilhidracina (MMH) y el óxidos mixtos de nitrógeno (MON). Presentaba nueve motores, el motor principal era el propulsor líquido LEROS 2b, un motor de cohete reiniciable que se usaba para alcanzar la órbita lunar, así como para la desaceleración de la nave espacial, el destello destructivo y un intento de aterrizaje propulsivo."
+    },
+    {
+      "titulo": "Lanzamiento",
+      "nivel": 2,
+      "texto": "En octubre de 2015, SpaceIL firmó un contrato para un lanzamiento desde Cabo Cañaveral en Florida con un cohete de SpaceX Falcon 9, a través de Spaceflight Industries. Se lanzó el 22 de febrero de 2019 a las 0145 UTC (20:45 hora local del 21 de febrero) como carga secundaria, junto con el satélite de telecomunicaciones PSN-6. Beresheet fue controlado por un centro de comando en Yehud, Israel.\nDesde el 24 de febrero hasta el 19 de marzo, el motor principal se usó cuatro veces para elevar la órbita, colocando su apogeo cerca de la distancia orbital de la Luna. La nave realizó maniobras para ser capturada con éxito en una órbita lunar elíptica el 4 de abril de 2019, y ajustó su patrón de vuelo en una órbita circular alrededor de la Luna. Una vez que estaba en la órbita circular correcta, se planeó desacelerar para un aterrizaje suave en la superficie lunar. Esto fue planeado para el 11 de abril de 2019."
+    },
+    {
+      "titulo": "Sitio de aterrizaje planeado",
+      "nivel": 2,
+      "texto": "El lugar de aterrizaje previsto estaba en la parte norte de Mare Serenitatis, y la zona de aterrizaje tenía unos 15 km de diámetro.\nSe planeó que Beresheet operara durante aproximadamente dos días en la superficie lunar, ya que no tenía control térmico y se esperaba que se sobrecalentara rápidamente. Sin embargo, su retrorreflector láser era un dispositivo pasivo que no requería energía eléctrica y se esperaba que funcionara durante varias décadas."
+    },
+    {
+      "titulo": "Aterrizaje fallido",
+      "nivel": 2,
+      "texto": "El 11 de abril de 2019, el módulo de aterrizaje intentó sin éxito un aterrizaje en la superficie lunar. Durante el procedimiento de frenado al aproximarse al lugar de aterrizaje, IMU2 (un giroscopio de unidad de medición inercial) falló y el equipo de control de tierra no pudo restablecer el componente individual debido a una pérdida repentina de las comunicaciones con la red de control. Cuando se restablecieron las comunicaciones, el motor principal de la embarcación ya había dejado de funcionar durante un período prolongado. El motor volvió a estar en línea después de un reinicio en todo el sistema; sin embargo, la nave ya había perdido demasiada altitud para frenar su descenso lo suficiente. La nave llegó a la superficie de la Luna, pero a una rapidez y ángulo que no permitieron un alunizaje suave, lo que resultó en una pérdida total. Antes del impacto, la sonda había podido tomar las dos últimas fotografías, una autofoto de sí misma contra la luna y un disparo más cercano de la superficie de la Luna.\nLa sonda llevaba miles de tardígrados los cuales tienen una alta probabilidad de haber sobrevivido al impacto."
+    },
+    {
+      "titulo": "Segunda misión",
+      "nivel": 2,
+      "texto": "El 13 de abril de 2019, Morris Kahn anunció que una nueva misión, llamada Beresheet-2, intentaría hacer un aterrizaje suave en la luna:"
+    }
+  ],
+  "num_palabras": 933
+}

@@ -1,0 +1,50 @@
+{
+  "titulo": "Soyuz TM-28",
+  "titulo_wikipedia_en": "Soyuz TM-28",
+  "fecha_lanzamiento": "1998-08-13",
+  "año_lanzamiento": 1998,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Soyuz_TM-28",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Operador": "Rosaviakosmos",
+    "ID COSPAR": "1998-047A",
+    "Duración de la misión": "198 días, 16 horas, 31 minutos, 19 segundos",
+    "Órbitas completadas": "3,144",
+    "Tipo de nave": "Soyuz-TM",
+    "Fabricante": "RKK Energia",
+    "Fecha de lanzamiento": "13 de agosto de 1998, 09:43:11 UTC",
+    "Vehículo de lanzamiento": "Soyuz-U",
+    "Fecha de aterrizaje": "28 de febrero de 1999, 02:14:30 UTC",
+    "Lugar de aterrizaje": "100 km al sur de Kijma",
+    "Tripulación": "Gennady I. Padalka",
+    "Tripulación en el lanzamiento": "Sergei Avdeyev\nYuri Baturin",
+    "Tripulación en el aterrizaje": "Ivan Bella",
+    "Indicativo": "| (Altair)",
+    "Sistema de referencia orbital": "Geocéntrico",
+    "Régimen orbital": "Órbita terrestre baja",
+    "Periapsis": "190 km",
+    "Apoapsis": "273,7 km",
+    "Inclinación orbital": "51,64 grados",
+    "Periodo orbital": "88,5 minutos",
+    "Acoplamiento": "destino de acoplamiento: Mir | tipo de acoplamiento: muelle",
+    "Misión anterior": "Soyuz TM-27",
+    "Misión siguiente": "Soyuz TM-29",
+    "Programa": "Programa Soyuz\n(Misiones decretadas)"
+  },
+  "resumen": "TM-28 fue una misión de Soyuz a la estación espacial Mir.",
+  "secciones": [
+    {
+      "titulo": "Logros de la Misión",
+      "nivel": 2,
+      "texto": "Atracado con Mir.\nBaturin se convirtió en el primer político ruso en el espacio.\nPadalka y Avdeyev realizaron un EVA el 15.09.1998 (30 m) en el módulo Spektr (nuevos cables conectados para estructuras solares)."
+    }
+  ],
+  "num_palabras": 45
+}

@@ -1,0 +1,31 @@
+{
+  "titulo": "Lunar Orbiter 3",
+  "titulo_wikipedia_en": "Lunar Orbiter 3",
+  "fecha_lanzamiento": "1967-02-05",
+  "año_lanzamiento": 1967,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración lunar",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Lunar_Orbiter_3",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Orbitador",
+    "Operador": "NASA",
+    "Fabricante": "Boeing",
+    "Fecha de lanzamiento": "5 de febrero de 1967",
+    "Vehículo de lanzamiento": "Atlas SLV-3 Agena-D",
+    "Duración de la misión": "246 días",
+    "ID NSSDC": "1967-008A",
+    "Masa en el lanzamiento": "385,6 kilogramos",
+    "Inclinación orbital": "20,9 grados",
+    "Datos interplanetarios": "tipo: orbitador | objeto: Luna"
+  },
+  "resumen": "El Lunar Orbiter 3 fue una nave espacial lanzada por la NASA en 1967 como parte del Programa Lunar Orbiter. Fue diseñado principalmente para fotografiar áreas de la superficie lunar para la confirmación de sitios seguros de aterrizaje para las misiones Surveyor y Apollo. También estaba equipado para recolectar datos de impacto selenodético, intensidad de radiación y micrometeoroides.\nEnvió un total de 422 fotografías de la Luna. El Lunar Orbiter 3 se estrelló contra la superficie lunar a 14,6° N, –97,7° O.",
+  "secciones": [],
+  "num_palabras": 82
+}

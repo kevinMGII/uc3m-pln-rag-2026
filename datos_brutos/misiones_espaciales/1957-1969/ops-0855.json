@@ -1,0 +1,41 @@
+{
+  "titulo": "OPS 0855",
+  "titulo_wikipedia_en": "OPS 0855",
+  "fecha_lanzamiento": "1966-11-03",
+  "año_lanzamiento": 1966,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Estación espacial"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/OPS_0855",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Tecnología",
+    "Operador": "Fuerza Aérea de los Estados Unidos",
+    "ID COSPAR": "1966-099A",
+    "Duración de la misión": "Previsto: 75 días\nLogrado: 30 días",
+    "Fabricante": "Martin Marietta",
+    "Masa en el lanzamiento": "9680 kg",
+    "Fecha de lanzamiento": "3 de noviembre de 1966, 13:50 UTC",
+    "Vehículo de lanzamiento": "Titán IIIC",
+    "Lugar de lanzamiento": "Cabo Cañaveral LC-40",
+    "Fecha de reentrada": "9 de enero de 1967",
+    "Sistema de referencia orbital": "Geocéntrico",
+    "Régimen orbital": "Órbita terrestre baja",
+    "Periapsis": "298 km",
+    "Apoapsis": "305 km",
+    "Inclinación orbital": "32,82 grados"
+  },
+  "resumen": "OPS 0855, también designado OV4-3, fue una nave espacial del Laboratorio de Orbitación Manned lanzada en 1966. Fue volada para demostrar la configuración de lanzamiento para futuras misiones MOL. Se llevaron a bordo una serie de cargas útiles de investigación, denominadas Manifold, que estaban destinadas a funcionar durante 75 días. Sin embargo, la nave dejó de funcionar después de sólo 30 días. Fue construido a partir de un tanque oxidante de primera etapa HGM-25A Titan I desmantelado, atornillado a un Transtage. Formaba parte de los proyectos MOL y Orbiting Vehicle.",
+  "secciones": [
+    {
+      "titulo": "Histórico",
+      "nivel": 2,
+      "texto": "El paquete experimental Manifold consistió en dos cargas útiles de detección de micrometeoroide, una radiobaliza transmisora designada ORBIS-Low, un experimento de crecimiento celular, un prototipo de pila de combustible de hidrógeno, un experimento de control térmico, un sistema de transferencia y monitoreo de propulsantes para investigar la dinámica de fluidos en gravedad cero, un prototipo de sistema de control de actitud, un experimento para investigar la reflexión de la luz en el espacio, y un experimento en transferencia de calor. La nave espacial fue pintada para permitir que se utilizara como objetivo para un experimento de rastreo óptico y observación desde el suelo.\nOPS 0855 fue la carga útil principal de Titan IIIC 3C-9, la cápsula prototipo de Gemini B, conocida como Gemini SC-2, fue volada en el mismo cohete, y fue lanzada en una trayectoria suborbital durante el lanzamiento. El adaptador que conecta la nave espacial Géminis al OPS 0855 contenía tres naves espaciales adicionales, dos satélites OV4-1 y OV1-6. Estos fueron puestos en órbita terrestre baja.\nEl OPS 0855 entró en órbita con un apogeo de 305 kilómetros (190 millas), un perigeo de 298 kilómetros (185 millas) y 32,82 grados de inclinación. Recibió al Designador Internacional COSPAR 1966-099A, y permaneció en órbita hasta su decadencia el 9 de enero de 1967. Tras la cancelación del proyecto en junio de 1969 no se efectuaron más misiones MOL."
+    }
+  ],
+  "num_palabras": 318
+}

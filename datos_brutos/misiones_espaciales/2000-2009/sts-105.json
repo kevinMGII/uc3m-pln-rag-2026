@@ -1,0 +1,60 @@
+{
+  "titulo": "STS-105",
+  "titulo_wikipedia_en": "STS-105",
+  "fecha_lanzamiento": "2001-08-10",
+  "año_lanzamiento": 2001,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/STS-105",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Lugar de lanzamiento": "KSC LC-39A",
+    "Fecha de lanzamiento": "10 de agosto de 2001 21:10 UTC",
+    "Nave": "Discovery",
+    "Fecha de aterrizaje": "22 de agosto de 2001 14:23 EDT CEK Pista 15",
+    "Duración de la misión": "11 días, 21 horas, 13 minutos y 52 segundos",
+    "Inclinación orbital": "51,6 grados",
+    "Misión anterior": "STS-104",
+    "Misión siguiente": "STS-108",
+    "Programa": "Programa del Transbordador Espacial"
+  },
+  "resumen": "STS-105 fue una misión del transbordador espacial Discovery a la Estación Espacial Internacional, lanzada desde el Centro Espacial Kennedy, Florida, el 10 de agosto de 2001. Esta misión fue la última misión del Discovery hasta la STS-114, ya que el Discovery fue inmovilizado para su reacondicionamiento, y luego todos los transbordadores fueron inmovilizados a raíz del Columbia. El reacondicionamiento incluyó una actualización de la cabina de vuelo con el diseño de cabina de cristal, que ya estaba instalado en el Atlantis y en el Columbia.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Scott J. Horowitz (4), Comandante\nFrederick W. Sturckow (2), Piloto\nDaniel T. Barry (3), Especialista de misión\nPatrick G. Forrester (1), Especialista de misión"
+    },
+    {
+      "titulo": "Tripulación de la Expedición 3 hacia la EEI",
+      "nivel": 3,
+      "texto": "Frank L. Culbertson, Jr. (3) Expedición 3 Comandante\nMikhail Turin (1), Expedición\nVladimir N. Dezhurov (2), Expedición"
+    },
+    {
+      "titulo": "Tripulación de la Expedición 2 hacia la Tierra",
+      "nivel": 3,
+      "texto": "Yury V. Usachev (4), Expedición 2\nJames S. Voss (5), Expedición 2\nSusan J. Helms (5), Expedición 2"
+    },
+    {
+      "titulo": "Parámetros de la misión",
+      "nivel": 2,
+      "texto": "Masa:\nCarga: - kg\nPerigeo: 373 km\nApogeo: 402 km\nInclinación: 51,6°\nPeríodo: 92.3 min"
+    },
+    {
+      "titulo": "Acoplamiento con la EEI",
+      "nivel": 3,
+      "texto": "Acoplamiento: 10 de agosto de 2001, 18:41:46 UTC\nDesacoplamiento: 20 de agosto de 2001, 14:51:30 UTC\nTiempo de acoplamiento: 9 días, 20 h, 9 min, 44 s"
+    },
+    {
+      "titulo": "Paseos espaciales",
+      "nivel": 3,
+      "texto": "Barry y Forrester - EVA 1\nEVA 1 Comienzo: 16 de agosto de 2001 - 13:58 UTC\nEVA 1 Fin: 16 de agosto de 2001 - 20:14 UTC\nDuración: 6 horas, 16 minutos\nBarry y Forrester - EVA 2\nEVA 1 Comienzo: 18 de agosto de 2001 - 13:42 UTC\nEVA 1 Fin: 18 de agosto de 2001 - 19:11 UTC\nDuración: 5 horas, 29 minutos"
+    }
+  ],
+  "num_palabras": 252
+}

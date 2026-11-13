@@ -1,0 +1,34 @@
+{
+  "titulo": "Soyuz T-2",
+  "titulo_wikipedia_en": "Soyuz T-2",
+  "fecha_lanzamiento": "1980-06-05",
+  "año_lanzamiento": 1980,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Soyuz_T-2",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Masa en el lanzamiento": "6850 kg",
+    "Fecha de lanzamiento": "5 de junio de 1980",
+    "Nave": "Soyuz T",
+    "Fecha de aterrizaje": "9 de junio de 1980",
+    "Duración de la misión": "3,91 días",
+    "Programa": "Programa Soyuz",
+    "Misión anterior": "Soyuz 36",
+    "Misión siguiente": "Soyuz 37"
+  },
+  "resumen": "Soyuz T-2 fue la segunda misión oficial de una Soyuz T y la primera tripulada. Fue lanzada el 5 de junio de 1980 desde el cosmódromo de Baikonur hacia la estación Salyut 6. Antes del atraque la tripulación tuvo que tomar el control manual del sistema de acoplamiento al fallar la computadora de a bordo.\nEl vuelo sirvió para probar los sistemas de a bordo durante un vuelo tripulado y durante el acoplamiento a la Salyut 6.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Yuri Malyshev\nVladimir Aksyonov"
+    }
+  ],
+  "num_palabras": 81
+}

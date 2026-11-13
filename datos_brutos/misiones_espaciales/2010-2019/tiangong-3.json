@@ -1,0 +1,40 @@
+{
+  "titulo": "Tiangong-3",
+  "titulo_wikipedia_en": "Tiangong-3",
+  "fecha_lanzamiento": "2015",
+  "año_lanzamiento": 2015,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Estación espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Tiangong-3",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {},
+  "resumen": "Tiangong-3 fue una propuesta estación espacial china, parte del programa de la estación espacial Tiangong. La Agencia Espacial Nacional de China se esperaba originalmente para lanzar el Tiangong-3 alrededor del año 2015, a raíz de la puesta en marcha del módulo de laboratorio Tiangong-2 previsto inicialmente para 2013. Los objetivos de la estación fueron unificados con los de Tiangong-2, por lo que en 2016 fue suspendida. El diseño del Tiangong-3 es la base de la Estación espacial Tiangong, que se esperaba poner en orbita en la década de 2020.",
+  "secciones": [
+    {
+      "titulo": "Desarrollo",
+      "nivel": 2,
+      "texto": "En 2008, la Oficina de Ingeniería Tripulada Espacial de China publicó una breve descripción del Tiangong-2 y Tiangong-3, lo que indica que varias naves espaciales tripuladas se pondrían en marcha a finales de la década de 2010 para atracar con el Tiangong-3. El primer módulo Tiangong, Tiangong-1, fue lanzado en septiembre de 2011, y se acopló con la nave espacial tripulada Shenzhou 8 en noviembre de 2011, marcando el primer acoplamiento orbital de China.\nEl proyecto fue suspendido en 2016, debido a que los objetivos que la estación planeaba cumplir fueron logrados por Tiangong-2."
+    },
+    {
+      "titulo": "Especificaciones",
+      "nivel": 2,
+      "texto": "Tiangong-3 con un módulo de núcleo 22 toneladas métricas y se planeaba que fuera de alrededor de 18,1 metros de largo y un diámetro máximo de 4,2 metros. Con capacidad paraː\nHabitabilidad sin ayuda de 40 días para tres astronautas.\nLas pruebas para la tecnología de soporte vital regenerativo, y la verificación de los métodos de reposición orbital de propelente y el aire.\nUn mecanismo de múltiples acoplamiento de atraque, que permite hasta cuatro naves espaciales para atracar con ella al mismo tiempo."
+    },
+    {
+      "titulo": "Estructura y montaje",
+      "nivel": 2,
+      "texto": "Tiangong-3 era una \"estación de tercera generación\" o modular. Otros ejemplos de proyectos de estaciones modulares incluyen la soviética/rusa Mir, la Estación Espacial Internacional (ISS) y la planificada rusa OPSEK. Las estaciones espaciales de primera generación, como la soviética Salyut 1, Salyut 3, Salyut 4 y Salyut 5 y estaciones Skylab de la NASA, no fueron diseñadas para reabastecimiento, ya que poseen sólo un puerto de acoplamiento. Proyectos de centrales de segunda generación, como la soviética Salyut 6, Salyut 7 y Tiangong-2, disponen de un segundo puerto de acoplamiento, lo que permite el reabastecimiento y múltiples misiones tripuladas. Las estaciones modulares permiten ser añadidos o eliminados de nuevos módulos de la estructura existente con el tiempo, el ahorro de costes considerables y que permite una mayor flexibilidad.\nLos módulos adicionales atracarán en el puerto axial del módulo principal del Tiangong-3. El uso de un brazo mecánico, similar en función al brazo Lyappa en los módulos de l estación espacial Mir, y luego se trasladarán a los puertos radiales del nodo."
+    },
+    {
+      "titulo": "Futura estación espacial modular",
+      "nivel": 2,
+      "texto": "El diseño del Tiangong-3 será la base de una estación espacial de varios módulos más grande, que China tiene previsto poner en marcha en el marco de tiempo 2020-2022. Cuando se haya completado, la estación tendrá una masa total de aproximadamente 60.000 kilogramos, y soportará a tres astronautas para la residencia a largo plazo. La estación espacial tendrá una vida útil de hasta diez años, y sus componentes y las embarcaciones de servicio se basa en gran medida en los módulos Tiangong anteriores. Sus componentes principales incluyen:\nUn módulo básico de cabina (CCM) - basado en el diseño Tiangong-3 y análogo al módulo principal rusa Mir, el 18,1 metros CCM tendrá un diámetro máximo de 4,2 metros y un peso de lanzamiento de hasta 22 toneladas. Se pondrá en marcha en primer lugar, para servir como un centro de atraque para futuros módulos y naves de reabastecimiento.\nDos módulos de laboratorio de la cabina (LCM-1 y LCM-2) - en base al Tiangong-2, los dos módulos de laboratorio serán cada uno de 14,4 metros de largo, con el mismo diámetro máximo y el lanzamiento de peso como el módulo principal. Estos datos se utilizarán para llevar a cabo la investigación científica en microgravedad.\nUna nave de reabastecimiento robótico - basado en el módulo original Tiangong-1, la nave espacial de carga automatizada tendrá un diámetro de 3,35 metros y un peso de lanzamiento de alrededor de 13 toneladas. Será utilizado para el transporte de suministros e instalaciones del laboratorio para la estación espacial.\nUna nave espacial tripulada Shenzhou puede ser utilizado para transportar tripulantes desde y hacia la estación espacial.\nEn 2011, Wang Wenbao, el director de la Oficina de Ingeniería Tripulada Espacial de China, pidió al público presentar sugerencias para los nombres y símbolos para adornar la estación espacial y su buque de carga. Dijo que \"el programa espacial tripulado debe tener un símbolo más vivo y que la futura estación espacial debe llevar un resonante y alentador nombre\", insistiendo en que \"el público debe participar en los nombres y símbolos como este gran proyecto realzará el prestigio nacional y fortalecer el sentido de la cohesión nacional y el orgullo\"."
+    }
+  ],
+  "num_palabras": 795
+}

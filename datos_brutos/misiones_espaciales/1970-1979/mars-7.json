@@ -1,0 +1,35 @@
+{
+  "titulo": "Mars 7",
+  "titulo_wikipedia_en": "Mars 7",
+  "fecha_lanzamiento": "1973-08-09",
+  "año_lanzamiento": 1973,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración de Marte",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Mars_7",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Operador": "Lavochkin",
+    "Fecha de lanzamiento": "9 de noviembre 17:00:17 UTC, 1973 desde el cosmódromo de Baikonur",
+    "Vehículo de lanzamiento": "Protón K/Bloque-D"
+  },
+  "resumen": "La Mars 7, también conocida como 3MP No.51P fue una sonda espacial soviética lanzada para explorar Marte. Fue una aeronave 3MP y supuso el fin del Programa Mars, constaba de un aterrizador y un orbitador con instrumentos para estudiar Marte cuando pasara volando. Debido a un fallo, el aterrizador erró en la maniobra necesaria para su introducción en la atmósfera marciana, rebotando en la misma y quedando en órbita heliocéntrica junto con la etapa de costa.",
+  "secciones": [
+    {
+      "titulo": "Aeronave",
+      "nivel": 2,
+      "texto": "La Mars 7 portó una gran variedad de instrumentos para estudiar Marte. El aterrizador estuvo equipado con un termómetro y barómetro para determinar las condiciones en la superficie, además de un acelerómetro y radioaltímetro para el descenso, e instrumentos para analizar el material de superficie, incluyendo un espectrómetro de masa. El orbitador por su parte llevó un magnetómetro, trampas de plasma,detectores de rayos cósmicos y de micrometeoritos, stereo antennae, y un instrumento para estudiar flujos de protones y electrones procedentes del Sol.\nConstruida por Lavochkin, la Mars 7 fue la segunda de dos naves 3MP, fue lanzada a Marte en 1973, habiendo sido precedido por el Mars 6..\nSe contó con dos orbitadores, la Mars 4 y la Mars 5, que fueron lanzados antes, en el 1973; los cuales tenían el fin de recopilar información sobre el planeta rojo que sería utilizada más tarde para los dos aterrizadores. Sin embargo el Mars 4 falló en su introducción en la órbita marciana, y el Mars 5 se estropeó después de pasar unos cuantos días en órbita."
+    },
+    {
+      "titulo": "Lanzador",
+      "nivel": 2,
+      "texto": "La Mars 7 fue lanzado utilizando un cohete Protón-K cargado con un Bloque-D en su etapa superior, desde el cosmódromo de Baikonur en el Sitio 81/24. El lanzamiento fue a las 17:00:17 UTC el 9 de agosto de 1973, las primeras tres etapas de lanzamiento colocaron la aeronave y su carga superior en una órbita de aparcamiento.\nLa astronave tuvo una corrección de su curso el 16 de agosto de 1973.\nEl aterrizador de la Mars 7 se separó del orbitador el 9 de marzo de 1974. Sin embargo inicialmente, hubo un fallo en la separación, aun así finalmente el aterrizador logró liberarse y pudo comenzar su descenso en el planeta rojo. A pesar de todo debido a un fallo en los retrocohetes, la sonda rebotó en la atmósfera de Marte, y, en vez de aterrizar, atravesó la atmósfera marciana con una aproximación máxima a la superficie de 1300 km. Se piensa que el fallo fue debido a los transistores de la aeronave (también se piensa que fueron la causa del fallo de la Mars 4)."
+    }
+  ],
+  "num_palabras": 427
+}

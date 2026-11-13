@@ -1,0 +1,54 @@
+{
+  "titulo": "CubeRover",
+  "titulo_wikipedia_en": "CubeRover",
+  "fecha_lanzamiento": "2024-01-08",
+  "año_lanzamiento": 2024,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración lunar",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/CubeRover",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Demostrador de tecnología",
+    "Operador": "Laboratorio Astrobótico y Universidad Carnegie Mellon",
+    "Nave": "Iris",
+    "Tipo de nave": "Rover lunar robótico",
+    "Plataforma (bus)": "CubeRover",
+    "Fecha de lanzamiento": "8 de enero de 2024 07:18:36 UTC",
+    "Vehículo de lanzamiento": "Vulcan Centaur VC2S",
+    "Lugar de lanzamiento": "Cabo Cañaveral SLC-41",
+    "Contratista del lanzamiento": "United Launch Alliance",
+    "Datos interplanetarios": "type: rover | object: Moon | arrival date: 23 February 2024 (originalmente planeado) | location: Planned: Mons Gruithuisen Gamma",
+    "Instrumentos": "Dos cámaras con resolución de 1936 × 1456",
+    "Banda de transmisión": "Wi-Fi"
+  },
+  "resumen": "CubeRover es una clase de rover planetario con un formato modular estandarizado destinado a acelerar el ritmo de exploración espacial. La idea es equivalente a la del exitoso formato CubeSat, con componentes estándar y arquitectura para ensamblar unidades pequeñas que serán compatibles, modulares y baratas.\nEl concepto de clase rover está siendo desarrollado por Astrobotic Technology en asociación con la Universidad Carnegie Mellon, y está parcialmente financiado por premios de la NASA. Una iniciativa de la Universidad Carnegie Mellon - completamente independiente de los premios de la NASA - desarrolló Iris, el primer CubeRover digno de volar. Fue lanzado el 8 de enero de 2024 junto con Peregrine Misión Uno. Ingenieros e investigadores estudiantiles monitorearon y comunicaron con Iris rover en el espacio a través de Carnegie Mellon Mission Control. Las operaciones de superficie se eliminaron gradualmente junto con el aterrizaje de Peregrine Lander debido a una fuga excesiva de propulsante.",
+  "secciones": [
+    {
+      "titulo": "Sinopsis",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Concepto",
+      "nivel": 3,
+      "texto": "La idea es crear un concepto modular práctico similar que se utiliza para CubeSats y aplicarlo a rovers, creando efectivamente una nueva arquitectura estandarizada de pequeños rovers planetarios modulares con piezas, sistemas e incluso instrumentos compatibles para que cada misión pueda adaptarse fácilmente a sus objetivos. Los rovers son prescindibles y no utilizan conjuntos solares para la energía eléctrica, dependiendo únicamente de baterías no recargables. Esto le permite ser más ligero, tener un panel de radiador de refrigeración más grande para la electrónica, y tener un diseño de aviónica más simple.\nEl programa CubeRover pretende que la estandarización del diseño de pequeños rovers con una arquitectura común abrirá el acceso a los cuerpos planetarios para empresas, gobiernos y universidades de todo el mundo a un bajo costo, mientras aumenta la funcionalidad, tal como el CubeSat tiene en órbita terrestre. Esto motivaría a otros miembros de la comunidad de exploración espacial a desarrollar nuevos sistemas e instrumentos que sean compatibles con la arquitectura del CubeRover."
+    },
+    {
+      "titulo": "Desarrollo",
+      "nivel": 3,
+      "texto": "En mayo de 2017 Astrobotic Technology, en asociación con la Universidad Carnegie Mellon, fue seleccionada por Small Business Innovation Research (SBIR) de la NASA para recibir un premio de $125.000 para desarrollar una pequeña arquitectura lunar capaz de realizar la ciencia y exploración a pequeña escala en la Luna y otras superficies planetarias. Durante la fase I, el equipo construyó un rover de 2 kg y realizó estudios de ingeniería para determinar la arquitectura de un nuevo chasis, potencia, sistemas informáticos, software y técnicas de navegación.\nEn marzo de 2018, el equipo recibió fondos para pasar a la Fase II, y bajo este acuerdo, Astrobotic y CMU debían producir un rover listo para el vuelo con una masa de aproximadamente 2 kg (4,4 libras).\nEn misiones futuras, CubeRovers puede estar diseñado para aprovechar los sistemas basados en aterrizajes para refugiarse para la fría noche lunar, que dura 14 días terrestres. Del mismo modo, el futuro CubeRovers más grande puede ser capaz de incorporar aislamiento térmico y sistemas calificados para temperaturas ultra bajas."
+    },
+    {
+      "titulo": "Misiones",
+      "nivel": 2,
+      "texto": "El 20 de agosto de 2025 Astrobotic indicó que LunaGrid-Lite, una misión de demostración de energía lunar planificada, se llevaría a cabo utilizando un CubeRover. Pretenden estar listos para el vuelo en 2026.\nEl 11 de junio de 2025 el creador y autor de YouTube Matt Parker anunció un arranque para calcular PI en la Luna utilizando el espacio de computación adicional disponible en el CubeRover. La misión fue totalmente financiada dentro de las 2 horas siguientes a su entrada en funcionamiento, con más del 200% aumentado dentro de las primeras 24 horas posteriores a su entrada en funcionamiento. La cantidad final recaudada fue 5,12X el objetivo inicial, por más de 4.800 patrocinadores individuales."
+    }
+  ],
+  "num_palabras": 601
+}

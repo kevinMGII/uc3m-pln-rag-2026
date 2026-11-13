@@ -1,0 +1,34 @@
+{
+  "titulo": "Lunojod 2",
+  "titulo_wikipedia_en": "Lunokhod 2",
+  "fecha_lanzamiento": "1973-01-08",
+  "año_lanzamiento": 1973,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración lunar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Lunojod_2",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "astromóvil lunar",
+    "Operador": "URSS",
+    "Fecha de lanzamiento": "11 de enero de 1973, 06:55:38 UTC",
+    "Lugar de lanzamiento": "Baikonur",
+    "Vehículo de lanzamiento": "Proton-K/D",
+    "Duración planificada": "116 días (Estacionado en )",
+    "ID NSSDC": "1973-001A",
+    "Masa en el lanzamiento": "840 kg (astromóvil)"
+  },
+  "resumen": "El Lunojod 2 (en ruso: Луноход-2) es un astromóvil que recorrió 37 kilómetros sobre la Luna en 1973, tomando videos y fotografías; y realizando ensayos de los materiales del suelo del satélite.",
+  "secciones": [
+    {
+      "titulo": "Desarrollo de la misión",
+      "nivel": 2,
+      "texto": "Como parte del programa Lunojod de la Unión Soviética, fue lanzado en la misión espacial Luna 21, por medio de un cohete Protón-K el 8 de enero de 1973 desde el cosmódromo de Baikonur. Aterrizó en la Luna, en el cráter Le Monnier, 7 días después, el 15 de enero.\nDesde el 15 de enero recorrió buena parte del cráter Le Monnier hasta el 4 de junio, en poco menos de 5 meses de actividad. La causa de que el vehículo dejara de funcionar fue el sobrecalentamiento general, al acumularse polvo lunar en sus radiadores. Un mes antes, el 9 de mayo, el astromóvil rozó con una pared del terreno, lo que hizo que se acumulara un poco de polvo en la tapa que se usaba para cubrir el rover durante la noche lunar. Cuando esta tapa se cerró, el polvo acumulado cayó sobre los radiadores. Tras esa noche lunar, cuando se activó nuevamente, el polvo impidió el adecuado enfriamiento de los radiadores, por lo que el rover se sobrecalentó y dejó de funcionar.\nLunojod 2 tuvo varios récords durante cerca de 40 años:\nFue el vehículo más pesado que aterrizó en un cuerpo celeste (836 kg), hasta que el Curiosity hizo lo propio en Marte en 2012 (900 kg).\nFue el vehículo que mayor distancia recorrió (37 km), hasta que el Opportunity superó esa distancia en julio de 2014."
+    }
+  ],
+  "num_palabras": 262
+}

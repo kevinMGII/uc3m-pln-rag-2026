@@ -1,0 +1,35 @@
+{
+  "titulo": "Expedición 39",
+  "titulo_wikipedia_en": "Expedition 39",
+  "fecha_lanzamiento": "2014-03-11",
+  "año_lanzamiento": 2014,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Expedición_39",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Fecha de inicio": "10 de marzo de 2014 UTC",
+    "Misión anterior": "Expedición 38",
+    "Misión siguiente": "Expedición 40",
+    "Nave de llegada": "Soyuz TMA-11M\nSoyuz TMA-12M",
+    "Nave de regreso": "Soyuz TMA-11M\nSoyuz TMA-12M",
+    "Programa": "Programa de la ISS",
+    "Estación espacial": "Estación Espacial Internacional",
+    "Tipo de misión": "Expedición a la ISS",
+    "Fecha de fin": "13 de mayo de 2014 UTC"
+  },
+  "resumen": "La Expedición 39 fue la 39.ª estancia de larga duración en la Estación Espacial Internacional. Fue la primera ocasión en que la ISS estuvo bajo el mando de un astronauta japonés, el veterano Koichi Wakata. Después de la Expedición 21 en 2009 y la Expedición 35 en 2013, también fue la tercera ocasión en que una tripulación de la ISS no estuvo dirigida por un astronauta de la NASA ni cosmonauta de la RSA.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Fuentes JAXA, NASA, ESA"
+    }
+  ],
+  "num_palabras": 78
+}

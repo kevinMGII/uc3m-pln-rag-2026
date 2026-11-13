@@ -1,0 +1,44 @@
+{
+  "titulo": "Soyuz 14",
+  "titulo_wikipedia_en": "Soyuz 14",
+  "fecha_lanzamiento": "1974-07-03",
+  "año_lanzamiento": 1974,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Soyuz_14",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Masa en el lanzamiento": "6800 kg",
+    "Fecha de lanzamiento": "3 de julio de 1974",
+    "Nave": "Soyuz 7K-T/A9",
+    "Fecha de aterrizaje": "19 de julio de 1974",
+    "Duración de la misión": "15,73 días",
+    "Programa": "Programa Soyuz",
+    "Misión anterior": "Soyuz 13",
+    "Misión siguiente": "Soyuz 15"
+  },
+  "resumen": "Soyuz 14 fue una misión de una nave Soyuz 7K-T modificada (Soyuz 7K-T/A9) lanzada el 3 de julio de 1974 desde el cosmódromo de Baikonur con dos cosmonautas a bordo.\nSoyuz 14 fue la primera misión de una Soyuz a una estación espacial militar, la Almaz 2, también llamada Salyut 3, para encubrir sus objetivos militares. La Soyuz se acopló con la estación el 4 de julio. La tripulación realizó diferentes experimentos a bordo de la estación, incluyendo reconocimiento militar de la superficie terrestre, evaluación de la utilidad de esas observaciones e investigaciones médicas y biológicas. Todos los objetivos fueron cumplidos y la nave regresó el 19 de julio de 1974, aterrizando a 2 km del punto previsto de llegada, a 140 km al sureste de Dzkezkazgan.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Pavel Popovich (Comandante)\nYuri Artyukhin (Ingeniero de vuelo)"
+    },
+    {
+      "titulo": "Tripulación de respaldo",
+      "nivel": 2,
+      "texto": "Gennadi Sarafanov (Comandante)\nLev Dyomin (Ingeniero de vuelo)"
+    },
+    {
+      "titulo": "Tripulación de reserva",
+      "nivel": 2,
+      "texto": "Borís Volinov (Comandante)\nVitali Zhólobov (Ingeniero de vuelo)"
+    }
+  ],
+  "num_palabras": 151
+}

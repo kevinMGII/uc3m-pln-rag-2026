@@ -1,0 +1,36 @@
+{
+  "titulo": "Solar-C",
+  "titulo_wikipedia_en": "Solar-C",
+  "fecha_lanzamiento": "2028",
+  "año_lanzamiento": 2028,
+  "estado": "programada",
+  "tipo_mision": [
+    "Misión heliofísica"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Solar-C",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Otros nombres": "Solar-C\nSatélite espectroscópico ultravioleta solar de alta sensibilidad (oficial)",
+    "Tipo de misión": "Heliofísica",
+    "Operador": "Organismo de Exploración Aeroespacial del Japón (JAXA), Observatorio Astronómico Nacional del Japón (NAOJ)",
+    "Duración de la misión": "2 años (previsto)",
+    "Masa en el lanzamiento": "500 kg",
+    "Dimensiones": "4,8 m de altura",
+    "Fecha de lanzamiento": "2028 (previsto)",
+    "Vehículo de lanzamiento": "Epsilon S",
+    "Sistema de referencia orbital": "Órbita sincrónica solar (> 600 km)",
+    "Instrumentos": "acrónimo1: EUVST ; Telescopio espectroscópico Extremo Ultravioleta de Alta Producción ; acrónimo2: SoSpIM ; Monitor de irradiación espectral solar"
+  },
+  "resumen": "Solar-C (nombre oficial \"Satélite ultravioleta solar de alta sensibilidad\") es un satélite de observación solar que está siendo desarrollado por la Agencia de Exploración Aeroespacial de Japón (JAXA), el Observatorio Astronómico Nacional de Japón (NAOJ) y colaboradores internacionales. Será el seguimiento de las misiones Hinode (Solar-B) y Yohkoh (Solar-A) y llevará a cabo el Telescopio Espectroscópico de Alto Rendimiento de la EUV (EUVST) y el Monitor de Irradiancia Espectral Solar (SoSpIM). Está previsto que se ponga en marcha en el año fiscal 2028.",
+  "secciones": [
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "La misión tiene como objetivo estudiar el Sol, sus efectos sobre la Tierra y el Sistema Solar, y los mecanismos detrás de la formación de plasma caliente. El satélite también analizará el espectro de radiación UV del Sol."
+    }
+  ],
+  "num_palabras": 121
+}

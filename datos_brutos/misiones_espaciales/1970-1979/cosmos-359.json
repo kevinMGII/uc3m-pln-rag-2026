@@ -1,0 +1,31 @@
+{
+  "titulo": "Cosmos 359",
+  "titulo_wikipedia_en": "Kosmos 359",
+  "fecha_lanzamiento": "1970-08-22",
+  "año_lanzamiento": 1970,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración de Venus",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Cosmos_359",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {},
+  "resumen": "La misión Cosmos 359 o Kosmos-359 fue un fallido intento soviético de enviar una sonda espacial no tripulada al planeta Venus.\nEl lanzamiento se efectuó el 22 de agosto de 1970 y se cree que entre sus objetivos estaba el de hacer aterrizar en la supercicie de Venus una sonda similar a la de la misión Venera 7, que había sido lanzada 5 días antes (el 17 de agosto de 1970). Un fallo en la última etapa dejó a la nave atrapada en una órbita elíptica alrededor de la Tierra, permaneciendo en dicha órbita inestable durante 410 días hasta que finalmente se produjo su reentrada en la atmósfera terrestre.\nLas misiones del programa espacial soviético con destino en la órbita terrestre recibían el nombre Kosmos, mientras que las que tenían como objetivo la exploración de Venus se bautizaban como Venera. El cambio de nombre de esta misión a Kosmos 359 fue un intento de ocultar su fracaso, en una época dominada por el impacto mediático y publicitario de las misiones Apolo de la NASA",
+  "secciones": [
+    {
+      "titulo": "Fallo del cohete",
+      "nivel": 2,
+      "texto": "Después de alcanzar la órbita, el motor principal de la etapa superior se encendió tarde y se apagó antes de tiempo después de funcionar durante solo veinticinco segundos. El error se atribuyó finalmente a un error en el transformador de corriente del sistema de suministro de energía."
+    },
+    {
+      "titulo": "Experimentos",
+      "nivel": 2,
+      "texto": "La Kosmos 359 transportaba una gran variedad de instrumentos científicos, entre los que se incluían un detector de viento solar, un detector de rayos cósmicos y un barómetro aneroide encargado de medir la presión de la atmósfera de Venus."
+    }
+  ],
+  "num_palabras": 260
+}

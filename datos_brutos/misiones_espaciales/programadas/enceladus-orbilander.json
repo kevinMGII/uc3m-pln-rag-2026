@@ -1,0 +1,56 @@
+{
+  "titulo": "Enceladus Orbilander",
+  "titulo_wikipedia_en": "Enceladus Orbilander",
+  "fecha_lanzamiento": "2038-10",
+  "año_lanzamiento": 2038,
+  "estado": "programada",
+  "tipo_mision": [
+    "Exploración de los planetas exteriores"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Enceladus_Orbilander",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Enceladus Orbiter and Lander",
+    "Operador": "NASA",
+    "Duración de la misión": "Total:\n~15 años total\n3,5 años en Enceladus\nEn ruta:\n7 años de crucero\n4 años Saturnian Moons tour\nFase científica:\n1,5 años de órbita de Enceladus\n2 años en la superficie de Enceladus",
+    "Fabricante": "APL (propuesta)",
+    "Masa en el lanzamiento": "6610 kg",
+    "Masa en seco": "2690 kg",
+    "Potencia": "741 W (en el lanzamiento) 589 W (aterrizaje)",
+    "Fecha de lanzamiento": "Octubre de 2038 (propuesto)",
+    "Vehículo de lanzamiento": "Bloque 2 del Sistema de Lanzamiento Espacial (propuesto)",
+    "Lugar de lanzamiento": "Centro Espacial Kennedy, Pad 39B",
+    "Contratista del lanzamiento": "NASA",
+    "Datos interplanetarios": "tipo: flyby | objeto: Júpiter | fecha de llegada: octubre 2040 (propuesto) | distancia: 4730000 km\ntipo: orbitador | objeto: Saturno | fecha de llegada: Agosto 2045 (propuesto) | fecha de salida: principios de 2050 (propuesto)\ntipo: orbitador | objeto: Encelado | fecha de llegada: principios de 2050 (propuesto) | fecha de salida: mediados de 2051 (propuesto)\ntipo: lander | objeto: Enceladus | fecha de llegada: mediados de 2051 (propuesto)",
+    "Programa": "Grandes misiones científicas estratégicas\nDivisión de Ciencias Planetarias",
+    "Misión anterior": "Urano Orbiter y sonda",
+    "Programa (2)": "Programa de exploración del sistema solar"
+  },
+  "resumen": "El Encelado Orbilander es una propuesta de misión insignia de la NASA a la luna de Saturno Encelado. El Enceladus Orbilander pasaría un año y medio orbitando el Enceladus y tomando muestras de sus penachos de agua, que se extienden al espacio, antes de aterrizar en la superficie durante una misión de dos años para estudiar materiales para pruebas de vida. La misión, con un costo estimado de 4.900 millones de dólares, podría lanzarse a finales del decenio de 2030 en un sistema de lanzamiento espacial o Falcon Heavy con un aterrizaje a principios del decenio de 2050. Fue propuesto en el Estudio Decadal de la Ciencia Planetaria 2023-2032 como la segunda misión emblemática de mayor prioridad, después del Orbiter y Sonda Urano.",
+  "secciones": [
+    {
+      "titulo": "Antecedentes",
+      "nivel": 2,
+      "texto": "A 500 kilómetros (310 millas) de diámetro, Encelado es la sexta luna más grande de Saturno y la 19a más grande del Sistema Solar.\nEncelado ha sido visitado e ilustrado en detalle por otras tres sondas: la nave espacial Voyager gemela, y la nave espacial Cassini en órbita de Saturno. De estos, Cassini investigó Encelado en el más detalle y contribuyó más a la comprensión científica actual de Encelado. Los 23 vuelos cercanos de Cassini ayudaron a descubrir que Encelado es un mundo geológicamente activo, con terrenos jóvenes (recientemente formados/solidados). Los flybys también mostraban plumas de agua caliente activas, junto con evidencias que inducían a un océano subsuperficial. Cassini también proporcionó evidencia de procesos hidrotérmicos que impulsan tanto los géiseres como la geología activa de Encelado, haciendo de la luna uno de los lugares más atractivos para encontrar vida dentro del sistema solar.\nDespués de la misión de Cassini, una variedad de propuestas para el seguimiento de los hallazgos de Cassini en Encelado. Viaje a Encelado y Titán, una misión de astrobiología a Encelado y Titán, compitió para la 13a misión del Programa Discovery, pero no fue seleccionada. Más tarde, en 2017, dos misiones de Enceladus centradas en la astrobiología, Enceladus Life Signatures y Habitabilidad y Enceladus Life Finder compitieron para la 4a misión de Nuevas Fronteras, pero finalmente no fueron seleccionadas.\nLa propuesta Enceladus Orbilander fue creada por un equipo dirigido por Shannon MacKenzie para apoyar la Encuesta Decadal de Ciencias Planetarias. Mientras que estudios anteriores de la misión habían investigado múltiples vuelos para estudiar Enceladus, el equipo de MacKenzie, estudiando una arquitectura de misión Flagship con un límite presupuestario mayor, decidió estudiar un orbitador, un aterrizador o una combinación de ellos. En última instancia, la decisión de combinar el orbitador y el aterrizador en una nave espacial fue informada por el pequeño tamaño de Encelado y la gravedad insignificante, lo que resulta en trivial delta-v a la tierra.\nEn la Encuesta Decadal Planetaria 2022-2032, el Encelado Orbilander fue recomendado como la segunda misión insignia de mayor prioridad. La selección fue motivada por la exobiología de la propuesta y el enfoque de habitabilidad planetaria."
+    },
+    {
+      "titulo": "Diseño e instrumentación de naves espaciales",
+      "nivel": 2,
+      "texto": "Debido al pequeño tamaño de Encelado, la cantidad de energía necesaria para aterrizar en comparación con la captura en órbita es insignificante. Por lo tanto, el Enceladus Orbilander se imagina que combina de manera única tanto las funciones de un orbitador como de un aterrizaje en una sola nave espacial."
+    },
+    {
+      "titulo": "Instrumentos científicos",
+      "nivel": 3,
+      "texto": "La nave espacial propuesta llevará tres conjuntos de instrumentos separados y un sistema de muestreo. Cada suite de instrumentos se adapta a un régimen diferente de las operaciones científicas.\nLos instrumentos propuestos son:\nAdemás, se proponen tres sistemas de muestreo separados para cada etapa del vuelo: un embudo de 1 metro cuadrado para recoger pasivamente partículas, una cuchara para la recogida activa de partículas en la superficie y una entrada de gas para las emisiones de gas."
+    },
+    {
+      "titulo": "Perfil de la misión",
+      "nivel": 2,
+      "texto": "El Encelado Orbilander se propone para ser lanzado en octubre de 2038. Se propone que la nave espacial sea lanzada por una variante del bloque II del Sistema de Lanzamiento Espacial con una etapa superior Castor 30B, aunque también se ha considerado un Falcon Heavy, pero se requeriría que la nave espacial la lanzara en una trayectoria más lenta con sobrevuelos de Venus. El lanzamiento propuesto de la nave espacial está cronometrado para que una asistencia de gravedad de Júpiter se pueda realizar en octubre de 2040 para ahorrar propelente para la inserción orbital de Saturno en agosto de 2045. En la órbita de Saturno, la nave se embarcará en un complejo, de 4,5 años de duración recorrido por las lunas de Saturno, utilizando la gravedad ayuda a las lunas fuera como Titan, Rhea, Dione, y Tethys para bajar la inclinación orbital de la nave espacial. Después de una serie de vuelos con el propio Encelado, la nave entrará en la órbita de Encelado.\nLa nave espacial pasará 1,5 años en una órbita elíptica de 12 horas alrededor de Encelado. El punto más cercano de la órbita a la superficie pasará sobre las franjas de tigre polares del sur para recoger partículas de penacho y datos de teleobservación. Mientras orbitan Encelado, los planificadores de la misión utilizarán imágenes de alta resolución y otros datos para determinar una elipse de aterrizaje segura. Cuando los planificadores de la misión decidan aterrizar la nave espacial, el Encelado Orbilander bajará su órbita y comenzará un descenso impulsado hacia la superficie. La nave espacial utilizará una navegación relacionada con el terreno similar a los sistemas utilizados en OSIRIS-REx para evitar riesgos durante el descenso. Cuando la nave espacial está a 10 metros sobre la superficie, el motor principal se apaga para evitar contaminar la zona, y la nave espacial se lanza a su lado antes de un aterrizaje suave."
+    }
+  ],
+  "num_palabras": 919
+}

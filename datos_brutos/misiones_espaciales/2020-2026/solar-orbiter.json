@@ -1,0 +1,57 @@
+{
+  "titulo": "Solar Orbiter",
+  "titulo_wikipedia_en": "Solar Orbiter",
+  "fecha_lanzamiento": "2020-02-10",
+  "año_lanzamiento": 2020,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión heliofísica",
+    "Exploración de Venus",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Solar_Orbiter",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Vehículo de lanzamiento": "Atlas V",
+    "Fecha de lanzamiento": "10 de febrero de 2020 4:03 UTC",
+    "Nave": "Solar Orbiter",
+    "Programa": "Programa Cosmic Vision"
+  },
+  "resumen": "Solar Orbiter (SolO) es un satélite científico de observación solar desarrollado por la Agencia Espacial Europea (ESA) con la colaboración de la NASA. Su objetivo es realizar mediciones detalladas del campo magnético sobre la superficie solar, de los niveles de radiación en la heliosfera interna y del viento solar, así como realizar observaciones de las regiones polares del Sol desde órbitas de latitudes altas. Todas estas medidas tienen como objetivo conocer los distintos factores que intervienen en el mecanismo por el cual el Sol controla la heliosfera.\nLa sonda fue lanzada el 10 de febrero de 2020 a las 4:03 UTC a bordo de un cohete Atlas V de la NASA, desde la Estación de la Fuerza Aérea de Cabo Cañaveral en Florida, Estados Unidos.\nLa misión Solar Orbiter realizará observaciones del Sol desde diferentes órbitas excéntricas, llegando a una distancia mínima al Sol en su perihelio de 60 radios solares o 0,284 unidades astronómicas (UA), distancia situada en el interior de la órbita de Mercurio (0,3075 UA). Este tipo de órbita posibilita realizar observaciones detalladas con los instrumentos a bordo, los cuales permiten la obtención de mediciones del Sol de dos tipos, in-situ y remotas. La particular órbita de Solar Orbiter permitirá realizar mediciones tanto desde el plano de la eclíptica como desde latitudes más altas, a las que se llegará a través de maniobras de asistencia gravitacional con Venus y la Tierra.",
+  "secciones": [
+    {
+      "titulo": "Misión",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Objetivos científicos",
+      "nivel": 3,
+      "texto": "Solar Orbiter se acercará al Sol cada cinco meses. Durante cada una de sus órbitas, el satélite pasará aproximadamente sobre las líneas de campo magnético que conectan la atmósfera solar con la Tierra y los satélites geoestacionarios que la orbitan. Esto permitirá la comparación directa de las observaciones a diferentes distancias radiales y como el viento solar y las partículas solares se desplazan a lo largo de la heliosfera hasta la Tierra. Se espera poder observar con detalle cómo la actividad magnética de la superficie solar desencadena fenómenos como fulguraciónes solar o eyecciones de masa coronal (CMEs, por sus siglas en inglés).\nLos investigadores también tendrán la oportunidad de coordinar las observaciones con la sonda estadounidense Parker Solar Probe, que a partir del año 2024 realizará mediciones in situ en la corona extendida del Sol.\nEl objetivo de la misión es realizar estudios en primer plano y de alta resolución del Sol y su heliosfera interior. La nueva comprensión ayudará a responder a estas preguntas:\n¿Cómo y dónde del viento solar el plasma y el campo magnético se originan en la corona solar?\n¿Cómo las fases transitorias solares conducen la variabilidad heliosférica?\n¿Cómo las erupciones solares producen radiación de partículas energéticas que llenan la heliosfera?\n¿Cómo funciona la dinamo solar y cómo conducen las conexiones entre el Sol y la heliosfera?"
+    },
+    {
+      "titulo": "Carga útil",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Instrumentos héliosféricos in situ",
+      "nivel": 3,
+      "texto": "Analizador Solar de Viento ((SWA)): Para medir las propiedades y composición del viento solar\nDetector de Partículas Energéticas ((EPD)): Para medir iones supratermales, electrones, átomos neutros, así como partículas energéticas en el rango de energía de pocos keV / nuc a electrones relativistas e iones hasta 100 MeV (protones) y 200 MeV / nuc iones). Investigador principal: Javier Rodríguez-Pacheco (UAH)\nMagnetómetro (MAG): Proporcionará mediciones detalladas del campo magnético\nAnalizador de ondas de radio y plasma (RPW): Para medir campos magnéticos y eléctricos a alta resolución de tiempo"
+    },
+    {
+      "titulo": "Instrumentos solares de teledetección",
+      "nivel": 3,
+      "texto": "Sensor de imágenes Polarimétrico y Heliosísmico (PHI): Proporcionar medidas de alta resolución y de disco completo del campo magnético fotosférico. CoIP: Valentín Juan Martínez Pillet (IAC)\nSensor de imágenes EUV pleno Sol y de alta resolución (EUI): Para la imagen de varias capas de la atmósfera solar\nSensor de imágenes espectral EUV (SPICE): Para proporcionar imágenes espectrales de disco solar y corona, caracterizar las propiedades del plasma en el Sol\nEspectrómetro / Telescopio para Rayos X de Imagenología (STIX): Proporcionar espectroscopía de imágenes de emisiones de rayos X solares térmicos y no térmicos de 4 a 150 keV\nCoronógrafo (Metis): Para proporcionar imágenes UV simultáneas (121.6 nm) y polarizadas de la corona\nSensor de imágenes heliosférico (SoloHI ): Para vizualización de flujos cuasi-constantes y transitorios del viento solar"
+    },
+    {
+      "titulo": "Retrasos en el lanzamiento",
+      "nivel": 2,
+      "texto": "La misión ha sufrido numerosos contratiempos que han forzado a reiterados retrasos en el lanzamiento. Algunos de los más graves han supuesto la pérdida de la capacidad de desarrollar parte de la instrumentación por los recortes de fondos sufridos por la NASA. En abril de 2015, el lanzamiento se retrasó de julio de 2017 a octubre de 2018. En agosto de 2017, Solar Orbiter estaba prevista para lanzarse en febrero de 2019. Finalmente, el lanzamiento tuvo lugar el 10 de febrero de 2020 en un cohete Atlas V 411."
+    }
+  ],
+  "num_palabras": 759
+}

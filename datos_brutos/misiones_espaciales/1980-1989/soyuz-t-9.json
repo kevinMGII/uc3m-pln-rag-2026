@@ -1,0 +1,39 @@
+{
+  "titulo": "Soyuz T-9",
+  "titulo_wikipedia_en": "Soyuz T-9",
+  "fecha_lanzamiento": "1983-06-27",
+  "año_lanzamiento": 1983,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Soyuz_T-9",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Masa en el lanzamiento": "6850 kg",
+    "Fecha de lanzamiento": "27 de junio de 1983",
+    "Nave": "Soyuz T",
+    "Fecha de aterrizaje": "23 de noviembre de 1983",
+    "Duración de la misión": "149,95 días",
+    "Programa": "Programa Soyuz",
+    "Misión anterior": "Soyuz T-8",
+    "Misión siguiente": "Soyuz T-10-1"
+  },
+  "resumen": "Soyuz T-9 fue una misión espacial soviética tripulada realizada en una nave Soyuz T. Fue lanzada el 27 de junio de 1983 desde el cosmódromo de Baikonur mediante un cohete Soyuz hacia la estación Salyut 7 con dos cosmonautas a bordo.\nLa tripulación llevó experimentos, correo y otras cargas a la Salyut 7.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Vladimir Lyakhov (Comandante)\nAleksandr Pavlovich Aleksandrov (Ingeniero de vuelo)"
+    },
+    {
+      "titulo": "Tripulación de respaldo",
+      "nivel": 3,
+      "texto": "Vladimir Titov (Comandante)\nGennady Strekalov (Ingeniero de vuelo)"
+    }
+  ],
+  "num_palabras": 70
+}

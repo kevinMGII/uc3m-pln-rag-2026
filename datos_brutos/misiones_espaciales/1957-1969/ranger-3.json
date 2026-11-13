@@ -1,0 +1,71 @@
+{
+  "titulo": "Ranger 3",
+  "titulo_wikipedia_en": "Ranger 3",
+  "fecha_lanzamiento": "1962-01-26",
+  "año_lanzamiento": 1962,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración lunar",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Ranger_3",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Impactador lunar",
+    "Operador": "NASA",
+    "Designación Harvard": "1962 Alfa 1",
+    "ID COSPAR": "1962-001A",
+    "Nº SATCAT": "221",
+    "Duración de la misión": "Lanzamiento para durar los datos científicos transmitidos 1.405 días; día de lanzamiento al final de la misión oficial día 5 días",
+    "Fabricante": "Laboratorio de Propulsión Jet",
+    "Masa en el lanzamiento": "330 kg",
+    "Potencia": "150 W",
+    "Fecha de lanzamiento": "26 de enero de 1962, 20:30 UTC",
+    "Vehículo de lanzamiento": "Atlas LV-3B Agena-B",
+    "Lugar de lanzamiento": "Cabo Cañaveral LC-12",
+    "Sistema de referencia orbital": "Heliocéntrico",
+    "Periapsis": "0.9839 AU",
+    "Apoapsis": "1.163 AU",
+    "Inclinación orbital": "0.398°",
+    "Excentricidad": "0.083",
+    "Periodo orbital": "406,4 días",
+    "Última señal": "Últimos datos científicos transmitidos entre las 12:52 y las 1:33 a.m. EST, 28 de enero de 1962",
+    "Datos interplanetarios": "tipo: impactador_flyby | objeto: Lunar | fecha de llegada: enero 28, 1962 | distancia: 36874 km",
+    "Instrumentos": "Cámara de televisión ; Espectrómetro de rayos gamma ; Altímetro de radar ; Sismometer",
+    "Programa": "Ranger",
+    "Misión anterior": "Ranger 2",
+    "Misión siguiente": "Ranger 4"
+  },
+  "resumen": "Ranger 3 fue una misión de exploración espacial dirigida por la NASA para estudiar la Luna. La nave espacial robótica Ranger 3 fue lanzada el 26 de enero de 1962 como parte del programa Ranger. Debido a una serie de fallas, la nave espacial no llegó a la Luna en 35.000 kilómetros (32.000 millas) y entró en una órbita heliocéntrica.\nLa sonda espacial Ranger 3 fue diseñada para transmitir imágenes de la superficie lunar durante un período de 10 minutos de vuelo antes de impactar en la Luna, a tierra áspera una cápsula de sismómetro en la Luna, para recoger datos de rayos gamma en vuelo, para estudiar la reflectividad de radar de la superficie lunar, y para continuar probando el programa Ranger para el desarrollo de naves espaciales lunares e interplanetarias.",
+  "secciones": [
+    {
+      "titulo": "Diseño de naves espaciales",
+      "nivel": 2,
+      "texto": "Ranger 3 fue el primero de los diseños de Block II Ranger. El vehículo básico era de 3,1 m de altura y consistía en una cápsula lunar cubierta con un limitador de impacto de madera balsa, 635 mm de diámetro (25 pulgadas), un motor monopropulsante de medio curso, un retrocohete con un empuje de 5080 libras de fuerza (22,6 kN), y una base hexagonal chapada en oro y cromo 1,5 m de diámetro. Una gran antena de plato de alta ganancia fue conectada a la base. Dos paneles solares similares a alas (5,2 m de ancho) fueron unidos a la base y desplegados al principio del vuelo. La energía fue generada por 8680 células solares contenidas en los paneles solares que cargaron 11,5 kg de capacidad de 1 kW·h AgZn lanzamiento y batería de reserva. El control de las naves espaciales fue proporcionado por una computadora de estado sólido y un secuenciador y un sistema de mando controlado por la Tierra. El control de la actitud fue proporcionado por los sensores del Sol y la Tierra, giroscopios y chorros de pitch and roll. El sistema de telemetría a bordo de la nave consistía en dos transmisores de 960 MHz, uno a 3 W de potencia y el otro a 50 mW de potencia, la antena de alta ganancia y una antena omnidireccional. Pintura blanca, dorado y cromado, y una chapa plateada de plástico que envuelve el retrocohete equipado control térmico.\nDurante los preparativos previos al lanzamiento del Ranger 1, el temporizador de la nave espacial se había iniciado accidentalmente, lo que llevó al despliegue de los paneles solares dentro de la cubierta de carga útil. Se decidió que las pruebas en tierra de los instrumentos a bordo no se realizarían en la nave espacial Block II porque tenían un motor de corrección funcional de medio curso y si se producía un incidente similar con ellos, las pinzas y pirotécnicas utilizadas para desplegar los paneles solares podrían inadvertidamente encender los propulsores en el motor a bordo, lo que podría dar lugar a la explosión de la nave espacial en la plataforma y posiblemente llevar consigo todo el vehículo de lanzamiento. Funcionarios de la JPL anunciaron que las pruebas de fábrica de los sistemas del Ranger eran suficientes para eliminar cualquier problema y cualquier hardware que no pasara las pruebas no era apto para volar.\nEl aparato experimental incluía: (1) una cámara de televisión de vidicón, que utilizaba un mecanismo de escaneo que producía un marco completo en 10 s; (2) un espectrómetro de rayos gamma montado sobre una pluma de 1,8 m; (3) un altímetro de radar; y (4) un sismómetro que debía aterrizarse en bruto en la superficie lunar. El sismómetro (llamado en código \"Tonto\") fue encerrado en la cápsula lunar junto con un amplificador, un transmisor de 50 mW, control de voltaje, una antena de torniquete y seis baterías de cádmio plateado capaces de operar el transmisor de cápsula lunar durante 30 días, todas diseñadas para aterrizar en la Luna a 130 a 160 km/h (80 a 100 mph). El altímetro radar se usaría para estudios de reflectividad, pero también fue diseñado para iniciar la separación de las cápsulas y encender el retrocohete."
+    },
+    {
+      "titulo": "Misión",
+      "nivel": 2,
+      "texto": "Este fue el primer intento americano de lograr un impacto en la superficie lunar. La nave espacial Block II Ranger llevaba una cámara de televisión que utilizaba un telescopio óptico que permitía la obtención de imágenes a unos 24 kilómetros sobre la superficie lunar durante el descenso. El bus principal también llevaba una cápsula de instrumento de 42,6 kilogramos que se separaría del autobús a 21.4 kilómetros de altitud y luego impactaría independientemente en la Luna. Protegida por una cubierta exterior de madera balsa, la cápsula fue diseñada para rebotar varias veces en la superficie lunar antes de llegar a descansar. El instrumento principal a bordo era un sismómetro.\nLa misión fue diseñada para impulsar hacia la Luna por un Atlas/Agena, someterse a una corrección a mitad de curso, e impactar la superficie lunar. A la altura apropiada, la cápsula debía separarse y los retrocohetes se encienden para amortiguar el aterrizaje. Un mal funcionamiento del sistema de guía de refuerzo resultó en una velocidad excesiva de las naves espaciales.\nLas señales de mando invertidas hicieron que la nave lanzara en la dirección equivocada y que la antena TM perdiera la adquisición de la Tierra, y la corrección a mitad del curso no fue posible. Finalmente, una señal espuria durante la maniobra terminal impidió la transmisión de imágenes útiles. El Ranger 3 perdió la Luna en aproximadamente 36.800 km el 28 de enero y entró en una órbita heliocéntrica. En el vuelo se obtuvieron algunos datos de ingeniería útiles."
+    },
+    {
+      "titulo": "Preparación para el lanzamiento",
+      "nivel": 3,
+      "texto": "La preparación para el Ranger 3 se complicó por problemas de desarrollo con la etapa Agena B, que no había funcionado correctamente en Rangers 1-2. Agena era principalmente el dominio de la Fuerza Aérea de los EE.UU., que tenía la intención de utilizarlo para cargas militares, y la NASA había asumido originalmente que comenzaría a volar a finales de 1960 o principios de 1961, momento en el que cualquier problema de desarrollo con el escenario podría ser eliminado. Sin embargo, Agena B terminó tardando más tiempo en ponerse en servicio de lo previsto originalmente y su rendimiento también resultó ser algo menor de lo esperado, lo que obligó a cancelar algunos de los experimentos planeados en los Rangers del Bloque II.\nMientras que el Thor-Agena B había comenzado a volar en octubre de 1960, el Atlas-Agena B no hizo su primer viaje hasta julio de 1961, lo que significa que el Ranger 1 fue sólo la segunda vez que esta combinación de vehículos de lanzamiento había sido volado. Este retraso se explica por el hecho de que los programas de la Fuerza Aérea como el MIDAS estaban tardando mucho más en desarrollarse que el Ranger. Además, al terminar 1961, Agena Bs había funcionado mal al menos siete veces (los dos lanzamientos Ranger y cinco lanzamientos Thor-Agena).\nGeneral de División Osmond J. Ritland, Comandante de la División de Sistemas Espaciales de la Fuerza Aérea en Inglewood, California, prometió a la NASA que todos los problemas con Agena serían corregidos y, debido a que también afectaron a los programas del Departamento de Defensa, el asunto se estaba tomando \"muy en serio\". Entre otros cambios realizados figuraría un examen a fondo de todo el equipo y los procedimientos de explotación sobre el terreno de Lockheed. Además, se haría un esfuerzo para asegurar que los procedimientos de registro en la Fuerza Aérea de los Estados Unidos y la NASA Agenas fueran idénticos y que se eliminaran todas las diferencias en ellos.\nA mediados de diciembre de 1961, Atlas 121D y Agena 6003 llegaron al Cabo Cañaveral y fueron erigidos en LC-12. El 18 de enero de 1962, Ranger 3 fue apilado en la parte superior del booster, pero al día siguiente intento de alimentar el Atlas salió mal cuando se encontró una lágrima en el mamparo intermedio que separaba los tanques LOX y RP-1. Esto significaría que el vehículo de lanzamiento tendría que ser retirado de la plataforma para las reparaciones, demorando el lanzamiento un mes entero. Sin embargo, oficiales de la Fuerza Aérea y Convair sugirieron la nueva solución de hacer las reparaciones allí mismo en LC-12. El motor sustentador del Atlas fue removido y bajado al foso del deflector de llama y andamios de madera instalados para que los técnicos pudieran subir al tanque RP-1, quitar el mamparo intermedio dañado y reemplazarlo. Para el 26 de enero, las reparaciones se completaron."
+    },
+    {
+      "titulo": "Mal funcionamiento del equipo y errores de trayectoria",
+      "nivel": 3,
+      "texto": "El despegue tuvo lugar a las 3:30 PM EST el 26 de enero, una hora y 15 minutos antes de que la ventana de lanzamiento se cerrara, después de lo cual Ranger 3 no pudo haber sido lanzado durante otro mes.\nA los 49 segundos del lanzamiento, la radiobaliza de pulso del sistema de guía Atlas dejó de funcionar, lo que impidió la transmisión de cualquier dirección de dirección o de corte para el resto del lanzamiento. Comandos de respaldo del programador de misiles aseguraron comandos SECO y VECO adecuados, pero la falta de dirección discreta resultó en una trayectoria de vuelo inadecuada con velocidad excesiva.\nPeor aún, el equipo de una estación de seguimiento de Florida falló y recogió los parámetros orbitales del Ranger 3 5 minutos tarde. Mientras tanto, el Agena se reinicia y envía la sonda fuera de la órbita terrestre, pero otro error en su programa de guía resultó en otro error de trayectoria. Como consecuencia, la nave espacial llegó a la Luna 14 horas antes y el 28 de enero no alcanzó la Luna por 36.793 kilómetros (22.862 millas).\nLos errores de trayectoria hicieron que el impacto con la Luna fuera imposible, pero el Ranger 3 podría haber sido utilizado para estudios en el espacio profundo. Así que los controladores de vuelo emitieron órdenes para desbloquear el boom de la cámara, y el 28 de enero se subió un programa de computadora modificado. Sin embargo, a mitad de la carga, la fuerza de la señal de la sonda comenzó a debilitarse y el sistema informático a bordo falló por completo. Sin una computadora que funcionara, la nave espacial no podía mantener su antena de alta ganancia dirigida a la Tierra, lo que impedía la comunicación con controladores en tierra."
+    },
+    {
+      "titulo": "Fallo de la misión, agotamiento del propulsor y cancelación",
+      "nivel": 3,
+      "texto": "La cámara de televisión sí transmitió imágenes, pero como la antena ahora estaba apuntada lejos de la Tierra, las imágenes recibidas eran extremadamente débiles y ruidosas. Era posible ver las cruces de referencia en el objetivo de la cámara, iluminada por la luz del sol reflejada desde el chasis de la sonda, pero la Luna no era visible.\nCon la computadora muerta, el Ranger 3 no respondió completamente a ningún comando terrestre y los sensores de Tierra y Sol se volvieron inútiles. Los giroscopios continuaron maniobrando la sonda y los controladores de tierra readquirieron momentáneamente un bloqueo en la antena, pero sin un control de actitud estable, no pudieron mantenerla estable. Como no estaban al tanto del fallo de la computadora, continuaron enviando órdenes al Ranger 3 en vano. El rastreo esporádico de la sonda continuó hasta el 31 de enero, cuando los propulsores de control de actitud agotaron su suministro de propulsores, momento en el que la misión fue terminada oficialmente."
+    }
+  ],
+  "num_palabras": 1849
+}

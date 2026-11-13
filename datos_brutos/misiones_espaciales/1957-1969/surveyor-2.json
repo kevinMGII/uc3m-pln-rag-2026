@@ -1,0 +1,30 @@
+{
+  "titulo": "Surveyor 2",
+  "titulo_wikipedia_en": "Surveyor 2",
+  "fecha_lanzamiento": "1966-09-20",
+  "año_lanzamiento": 1966,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración lunar",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Surveyor_2",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Lunar Lander",
+    "Operador": "NASA",
+    "Fabricante": "Hughes Aircraft",
+    "Fecha de lanzamiento": "20 de septiembre de 1966",
+    "Vehículo de lanzamiento": "Atlas SLV-3C Centaur-D",
+    "Duración de la misión": "62 horas y 46 minutos (fallo y perdida del lander en el alunizaje)",
+    "ID NSSDC": "1966-084A",
+    "Masa en el lanzamiento": "292 kilogramos (alunizaje)",
+    "Datos interplanetarios": "tipo: orbitador | objeto: Luna"
+  },
+  "resumen": "La Surveyor 2 iba a ser el segundo módulo de aterrizaje lunar en el Programa Surveyor no tripulado para explorar la Luna. Fue lanzado el 20 de septiembre de 1966 desde Cabo Kennedy, Florida a bordo de un cohete Atlas-Centauro. Una falla en la corrección a mitad de camino provocó que la nave espacial perdiera el control. El contacto se perdió con la nave espacial a las 9:35 UTC del 22 de septiembre al estrellarse en la Luna.",
+  "secciones": [],
+  "num_palabras": 78
+}

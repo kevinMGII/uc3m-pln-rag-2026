@@ -1,0 +1,34 @@
+{
+  "titulo": "Active Cavity Radiometer Irradiance Monitor Satellite",
+  "titulo_wikipedia_en": "ACRIMSAT",
+  "fecha_lanzamiento": "1999-12-21",
+  "año_lanzamiento": 1999,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión heliofísica"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Active_Cavity_Radiometer_Irradiance_Monitor_Satellite",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Inactivo",
+    "Tipo de misión": "Observatorio espacial",
+    "Operador": "NASA",
+    "Fecha de lanzamiento": "21 de diciembre de 1999",
+    "Lugar de lanzamiento": "Base Aérea de Vandenberg",
+    "Vehículo de lanzamiento": "Taurus",
+    "ID NSSDC": "1999-070B",
+    "Masa en el lanzamiento": "115 kg",
+    "Periapsis": "677,7 km",
+    "Apoapsis": "719,4 km",
+    "Inclinación orbital": "98 grados",
+    "Periodo orbital": "98,6 minutos",
+    "Instrumentos": "Active Cavity Radiometer Irradiance Monitor 3",
+    "Datos interplanetarios": "tipo: orbitador | objeto: Tierra"
+  },
+  "resumen": "Active Cavity Radiometer Irradiance Monitor Satellite (ACRIMSAT) es un observatorio espacial dirigido por el JPL y construido por Orbital Sciences con la misión de medir la cantidad y variación de la radiación solar en el rango de las 0,2 a las 2 micras.\nACRIMSAT fue lanzado por un cohete Taurus el 21 de diciembre de 1999 como carga secundaria, junto con el satélite KOMPSAT. Se dedica a medir la cantidad de radiación solar que baña la Tierra para aumentar y mejorar la comprensión de la influencia del Sol en el clima terrestre.\nEl único instrumento que porta el ACRIMSAT es el ACRIM3 (Active Cavity Radiometer Irradiance Monitor 3), que da nombre al propio satélite. El instrumento tiene un peso de 13 kg y es capaz de detectar todo el espectro de luz entre 0,2 y 2 micras. Consume 10 vatios de potencia y deriva de instrumentos similares que volaron en otros satélites (como el UARS) y en el transbordador espacial.\nLa misión primaria finalizó en mayo de 2005 y fue extendida.",
+  "secciones": [],
+  "num_palabras": 171
+}

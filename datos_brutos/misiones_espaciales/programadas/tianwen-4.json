@@ -1,0 +1,55 @@
+{
+  "titulo": "Tianwen-4",
+  "titulo_wikipedia_en": "Tianwen-4",
+  "fecha_lanzamiento": "2029-09",
+  "año_lanzamiento": 2029,
+  "estado": "programada",
+  "tipo_mision": [
+    "Exploración de los planetas exteriores"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Tianwen-4",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {},
+  "resumen": "Tianwen-4, anteriormente conocida como Gan De, es una misión interplanetaria planificada por China para estudiar el sistema joviano y sus alrededores, compartiendo un lanzamiento con otra sonda que sobrevolará Urano.",
+  "secciones": [
+    {
+      "titulo": "Descripción general",
+      "nivel": 2,
+      "texto": "Los objetivos de la misión a Júpiter Tianwen-4 planificada, se detallaron en un artículo publicado en una revista académica china, e incluyen lo siguiente: estudio de la interacción entre los campos magnéticos y el plasma presente en el sistema joviano, examen de las variaciones de composición atmosférica en el sistema joviano, la exploración de las estructuras internas y las características de la superficie de Ganímedes y Calisto, así como la investigación del entorno espacial que rodea a los satélites galileanos antes mencionados.\nSegún los informes de los medios occidentales, hay dos perfiles de misión en competencia a partir de enero de 2021: el 'Jupiter Callisto Orbiter' (JCO) y el 'Jupiter System Observer' (JSO). 'JCO' implicaría una nave espacial que realiza sobrevuelos de los satélites irregulares de Júpiter antes de entrar en una órbita polar alrededor de Calisto; este perfil de misión también puede incluir un módulo de aterrizaje para Calisto. Por el contrario, el perfil de la misión 'JSO', si bien es muy similar al de 'JCO', renunciaría a un intento de una nave espacial para orbitar Calisto y, en su lugar, se centraría en estudios más intensivos de la luna Io (el perfil de la misión 'JSO' tampoco parece incluir un módulo de aterrizaje, aunque puede implicar el envío de la nave espacial al punto lagrange Sol-Júpiter L1 al final de su recorrido por el sistema joviano). Finalmente, las presentaciones de investigadores chinos sugieren que la misión Júpiter Tianwen-4 puede incluir una sonda adicional que realizaría un sobrevuelo de Urano en algún momento en la década de los 40s.\nEl nombre original de esta misión hace referencia al astrónomo chino del Gan De, quien realizó las primeras observaciones planetarias y supuestamente estudió por primera vez las lunas galileanas a simple vista."
+    },
+    {
+      "titulo": "Antecedentes",
+      "nivel": 2,
+      "texto": "El 15 de octubre de 2003, CNSA lanzó la primera misión orbital tripulada independiente de China; posteriormente procesó con éxito misiones orbitales lunares robóticas ( Chang'e 1 y Chang'e 2 ) y una misión de módulo de aterrizaje y rover lunar robótico, el Chang'e 3. Con la esperanza de aprovechar estos logros, la CNSA comenzó a contemplar misiones interplanetarias más ambiciosas en la década de 2020 y más allá. En 2018, Pei Zhaoyu, subdirector del Centro de Programas Espaciales y Exploración Lunar de la CNSA, declaró que China planeaba realizar cuatro misiones interplanetarias importantes antes de fines de la década de 2020.\nLas cuatro misiones incluyen una misión a Marte (Tianwen-1), una misión con retorno de muestras de asteroides y cometas del cinturón de asteroides (Tianwen-2), una misión con retorno de muestras desde Marte (Tianwen-3) y una misión al sistema de Júpiter. A principios de 2021, los perfiles de misión JCO y JSO antes mencionados compiten para realizarse como la misión Tianwen-4 al sistema de Júpiter."
+    },
+    {
+      "titulo": "Posible cronología de la misión",
+      "nivel": 2,
+      "texto": "Una posible trayectoria y cronología de la misión Tierra-Júpiter se presentó en las reuniones de la Asamblea General de 2020 de la EGU. Bajo este escenario, la sonda Tianwen-4 se lanzaría en octubre de 2029, realizaría un sobrevuelo de Venus seis meses después, en abril de 2030, y luego procedería a encontrarse con la Tierra dos veces (el primer encuentro ocurriría en febrero de 2031 y el segundo en mayo de 2033, con otra llegada a Júpiter en agosto de 2035 para un tiempo de tránsito total de 5,87 años."
+    },
+    {
+      "titulo": "Misión",
+      "nivel": 2,
+      "texto": "A partir de 2021 es probable que uno de los dos perfiles de misión siguientes (JCO y JSO) aclare finalmente la arquitectura de la misión que se mueven entre estas opciones:"
+    },
+    {
+      "titulo": "Júpiter Callisto Orbiter (JCO)",
+      "nivel": 3,
+      "texto": "JCO volaría por varios satélites jovianos irregulares antes de entrar en una órbita polar alrededor de Calisto. Este escenario incluye un posible módulo de aterrizaje que, al igual que los módulos de aterrizaje lunares de las sondas Chang'e, proporcionaría información sin precedentes sobre la formación y evolución de la luna. Calisto es la más externa de las cuatro lunas galileanas. Su interior experimenta menos calentamiento debido a la gravedad de las otras lunas y Júpiter. Probablemente se formó con restos de material de Júpiter y desde entonces ha permanecido mayormente inactivo, con sólo impactos de asteroides que han modificado su superficie. Por lo tanto, la luna conserva una historia del sistema primitivo de Júpiter y del sistema solar en general, por lo que se considera interesante que un módulo de aterrizaje lo estudie.\nCalisto también tiene una atmósfera delgada con pequeñas cantidades de oxígeno, lo que aumenta su atractivo científico a pesar de ser menos glamorosa que las lunas oceánicas subterráneas de Europa, Io y Ganímedes. Calisto es también la luna joviana menos desafiante para aterrizar. Una nave espacial requiere menos combustible para alcanzarla y se encuentra fuera del intenso campo de radiación de Júpiter. Estas son razones que argumentan a favor de Calisto como el principal objetivo de la misión. JCO también incluye una nave espacial secundaria que volaría de forma independiente y se encontraría con Urano en algún momento a finales de la década de 2040."
+    },
+    {
+      "titulo": "Observador de sistemas de Júpiter (JSO)",
+      "nivel": 3,
+      "texto": "JSO sustituiría un posible aterrizaje en Calisto con una investigación en profundidad de la luna joviana Io. La nave espacial realizaría varios sobrevuelos de Io, estudiando cómo la gravedad de Júpiter tira de la luna e impulsa su actividad volcánica. JSO también estudiaría la masa, la densidad, la dinámica y la composición química e isotópica de los satélites irregulares y proporcionaría información sobre estos restos únicos de la formación de Júpiter. Como opción, JSO podría lanzar uno o varios satélites pequeños para realizar estudios, en distintas zonas, de la dinámica de la magnetosfera joviana.\nAl final de su recorrido, JSO podría ser enviado a orbitar el punto langrage Sol-Júpiter L1, donde la gravedad del planeta se equilibra con la del Sol de manera que la nave espacial pueda permanecer allí durante largos períodos de tiempo. Desde esta posición única, que ninguna nave espacial ha visitado nunca, JSO podría monitorear el viento solar fuera del campo magnético de Júpiter y observar las lunas jovianas irregulares desde lejos."
+    },
+    {
+      "titulo": "Resolución",
+      "nivel": 3,
+      "texto": "Finalmente, las presentaciones de los investigadores chinos sugieren que la misión Tianwen-4 a Júpiter puede incluir una sonda adicional que realizaría un sobrevuelo de Urano en algún momento después de 2040. En diciembre de 2023, parece que se seleccionó la opción JCO, incluyendo también el sobrevuelo de Urano."
+    }
+  ],
+  "num_palabras": 1061
+}

@@ -1,0 +1,64 @@
+{
+  "titulo": "Expedición 67",
+  "titulo_wikipedia_en": "Expedition 67",
+  "fecha_lanzamiento": "2022-03-30",
+  "año_lanzamiento": 2022,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Expedición_67",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Finalizada",
+    "Tipo de misión": "Misión de larga duración a la ISS",
+    "Operador": "NASA / Roscosmos",
+    "Estación espacial": "Estación Espacial Internacional",
+    "Fecha de inicio": "30 de marzo de 2022, 07:21 UTC",
+    "Fecha de fin": "29 de septiembre de 2022, 07:34 UTC",
+    "Nave de llegada": "SpaceX Axiom Space-1\nSpaceX Crew-4\nSoyuz MS-22",
+    "Nave de regreso": "SpaceX Axiom Space-1\nSpaceX Crew-3\nSoyuz MS-21",
+    "Actividades extravehiculares (EVA)": "5",
+    "Duración de las EVA": "33 horas y 12 minutos",
+    "Programa": "Programa de la ISS",
+    "Misión anterior": "Expedición 66",
+    "Misión siguiente": "Expedición 68"
+  },
+  "resumen": "La Expedición 67 es la 67.ª y anterior misión de larga duración a la Estación Espacial Internacional. La misión comenzó el 30 de marzo de 2022, con la partida de la Soyuz MS-19, y finalizó el 29 de septiembre de 2022 con la partida de la Soyuz MS-21.",
+  "secciones": [
+    {
+      "titulo": "Misión",
+      "nivel": 2,
+      "texto": "La expedición comenzó con tres cosmonautas procedentes de la Soyuz MS-21 y los tripulantes de la Crew-3 de SpaceX, los astronautas de la NASA, Thomas Marshburn, Raja Chari, Kayla Barron y el astronauta de la ESA, Matthias Maurer, que pasaron a formar parte de la tripulación de esta expedición de forma temporal siendo transferidos desde la Expedición 66 en marzo del año 2022, hasta la llegada de la Crew-4 a partir del 15 de abril de 2022 con el resto de la tripulación permanente de esta expedición. Finalmente llegó el 27 de abril debido a los retrasos en el regreso de la misión AX-1 debido a la mala climatología en la zona de amerizaje. El regreso de la Crew-3 a tierra ocurrió el 6 de mayo de 2022 debido a los retraso con las dos misiones de abril, dejando en la estación a la tripulación de 7 personas propiamente dicha de la Expedición 67.\nEn esta misión participó la astronauta de la ESA, Samantha Cristoforetti en su segunda misión europea Minerva que fue anunciada como tercer pasajero de la Crew-4 y que además fue la primera mujer comandante europea durante el final de la expedición 67 y durante la fase de relevos, como del inicio de la Expedición 68.\nEl resto de la tripulación permanente de la expedición la formaran los astronautas de la NASA, el veterano Kjell N. Lindgren, y los novatos de la promoción 22, Robert Hines y Jessica Watkins en su primera misión."
+    },
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Tripulación visitante AX-1",
+      "nivel": 3,
+      "texto": "Es la primera misión turística realizada en una nave Crew Dragon por la empresa Axiom Space, a la ISS. Es el segundo vuelo dedicado enteramente al turismo espacial después de la Soyuz MS-20 en diciembre de 2021. La compañía estadounidense Axiom Space consiguió un acuerdo para el vuelo AX-1 con SpaceX, en el que el ex-astronauta profesional de la NASA, Miguel E. López-Alegría, español nacionalizado americano y que trabaja actualmente para Axiom volará con tres clientes a la ISS a bordo de la Dragon 2, que primero se planificó para finales de 2021 y más tarde se planificó para febrero de 2022. Finalmente despego el 8 de abril de 2022. y regresó el día 25 de abril después de varios retrasos en el regreso debido a la climatología, ya que el viaje estaba planificado que durase 10 días."
+    },
+    {
+      "titulo": "Operaciones",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Acoplamiento/Desacoplamiento de naves",
+      "nivel": 3,
+      "texto": "La Expedición 67 comenzó oficialmente el 30 de marzo de 2022, las naves acopladas antes de esta fecha llegaron en expediciones anteriores.\nLeyenda"
+    },
+    {
+      "titulo": "Actividad extravehicular",
+      "nivel": 3,
+      "texto": "En esta expedición se realizaron un total de 5 EVA,s, con un total de 33 horas y 12 minutos. Todas fueron realizadas en el ROS desde el módulo esclusa MIM-2, Poisk.\nEn esta ocasión no se realizó ninguna salida extravehicular desde el segmento americano en la Expedición 67, debido a que tras la finalización de la última caminata espacial de la Expedición 66, la US EVA-80, el 23 de marzo de 2022, se descubrió una fina capa de humedad dentro del casco del astronauta de la ESA Matthias Maurer, después de la represurización de la esclusa de aire Quest de la estación, lo que provocó el inicio de una investigación que se alargo hasta octubre de 2022 y que incluyó el envío del traje espacial de regreso a la Tierra que usó Maurer para su análisis en la misión de abastecimiento SpaceX CRS-25 en agosto.\nEn abril de 2022, los días 18 y 28 se realizaron las dos primeras EVA,s de esta expedición, las número 52 y 53 desde el ROS, efectuadas por los cosmonautas Oleg Artemyev y Denis Matveev, para preparar el Brazo Robótico Europeo (ERA) y conectarle un panel de control que esta montado en el reciente Módulo de Laboratorio multipropósito Nauka. En la segunda salida se retiró las mantas térmicas utilizadas para proteger el ERA durante su lanzamiento en julio de 2021 con el Nauka.\nEl 21 de julio de 2022 se llevó a cabo la caminata espacial EVA-ESA desde el ROS, en la que participaron el comandante Artemyev y la astronauta de la ESA, Samantha Cristoforetti, convirtiéndose en la primera europea que realiza una caminata espacial y además usando un traje Orlan ruso para la caminata, cosa bastante peculiar ya que normalmente los europeos las realizan desde la esclusa Quest del segmento estadounidense de la estación (USOS) con los trajes EMU americanos. Durante la caminata que duró 7 horas y 4 minutos, se llevaron a cabo varias tareas, incluida la instalación de plataformas y hardware del adaptador de la estación de trabajo montado en el módulo Nauka. Además, se desplegaron 10 nanosatélites diseñados para recopilar datos electrónicos de radio durante la EVA y se colocó un brazo telescópico desde el módulo Zarya hasta el Poisk para ayudar en futuras caminatas espaciales. Esta fue la tercera caminata espacial que incluía tareas relacionadas con la preparación del brazo robótico europeo (ERA) antes de sus primeras operaciones.\nEL 17 de agosto de 2022, el comandante Artemyev y el ingeniro Matveev iban a realizar la última caminata espacial de la expedición 67, la EVA 54 del ROS, en la que el objetivo principal era instalar unas cámaras en el ERA, además de otras tareas para su puesta a punto final, pero debido a un fallo en el traje espacial de Artemyev que mostró unas lecturas anómalas de la batería a mitad de la caminata espacial, hubo que terminar la caminata antes de realizar todas las tareas después de 4 horas y un minuto. Esto obligó a realizar una quinta y última salida adicional el 2 de septiembre, la EVA 54a del ROS para poder terminar de reubicar un panel de control externo para el ERA de un área de operación a otra y probar un mecanismo de rigidez que se usará para facilitar el agarre de las cargas útiles."
+    }
+  ],
+  "num_palabras": 1004
+}

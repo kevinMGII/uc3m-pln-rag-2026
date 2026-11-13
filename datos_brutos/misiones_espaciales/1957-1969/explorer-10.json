@@ -1,0 +1,84 @@
+{
+  "titulo": "Explorer 10",
+  "titulo_wikipedia_en": "Explorer 10",
+  "fecha_lanzamiento": "1961-03-25",
+  "año_lanzamiento": 1961,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión heliofísica"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Explorer_10",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Otros nombres": "P-14\nExplorador X",
+    "Tipo de misión": "Física del plasma espacial",
+    "Operador": "NASA",
+    "Designación Harvard": "1961 Kappa 1",
+    "ID COSPAR": "1961-010A",
+    "Nº SATCAT": "00098",
+    "Duración de la misión": "52 horas (logrado)",
+    "Nave": "Explorador X",
+    "Plataforma (bus)": "P-14",
+    "Fabricante": "Centro de Vuelo Espacial Goddard\nInstituto Tecnológico de Massachusetts",
+    "Masa en el lanzamiento": "35 kg",
+    "Fecha de lanzamiento": "25 marzo 1961, 15:17:04 GMT",
+    "Vehículo de lanzamiento": "Thor DM-19 Delta (Thor 295)",
+    "Lugar de lanzamiento": "Cabo Cañaveral, LC-17A",
+    "Contratista del lanzamiento": "Douglas Aircraft Company",
+    "Entrada en servicio": "25 de marzo de 1961",
+    "Última señal": "27 de marzo de 1961",
+    "Fecha de reentrada": "30 de junio de 1968",
+    "Sistema de referencia orbital": "Órbita geocéntrica",
+    "Régimen orbital": "Órbita altamente elíptica",
+    "Periapsis": "221 km",
+    "Apoapsis": "180100 km",
+    "Inclinación orbital": "33.0°",
+    "Periodo orbital": "83,50 horas",
+    "Instrumentos": "Copa Faraday sonda de plasma\nMagnetómetros Rb-Vapor y Fluxgate\nSensor de Aspecto Sol-Luna-Tierra (Naves espaciales)",
+    "Programa": "Programa Explorer",
+    "Misión anterior": "Explorador S-45",
+    "Misión siguiente": "Explorador 11"
+  },
+  "resumen": "Explorer 10 (también conocido como Explorer X o P14) fue un satélite de la NASA que investigó el campo magnético de la Tierra y el plasma cercano. Lanzado el 25 de marzo de 1961, fue una misión temprana en el programa Explorer y fue el primer satélite en medir la \"onda de choque\" generada por una llamarada solar.",
+  "secciones": [
+    {
+      "titulo": "Misión",
+      "nivel": 2,
+      "texto": "El objetivo era investigar el campo magnético y el plasma mientras la nave espacial pasaba a través de la magnetosfera de la Tierra y hacia el espacio cislunar. El satélite fue lanzado por un Delta de Thor DM-19 (Thor 295) en una órbita altamente elíptica y se estabilizó con un período de giro de 0,548 segundos. La dirección de su vector de giro fue 71° de ascensión derecha y −15° de declinación."
+    },
+    {
+      "titulo": "Vehículo espacial",
+      "nivel": 2,
+      "texto": "Explorer 10 era una nave espacial cilíndrica con baterías, equipada con dos magnetómetros de puerta de flujo y un magnetómetro de vapor de rubidium que se extendía desde el cuerpo principal de la nave espacial, y una sonda de plasma de copa Faraday. Los magnetómetros fueron producidos por Goddard Space Flight Center, y el Instituto Tecnológico de Massachusetts (MIT) proporcionó la sonda de plasma."
+    },
+    {
+      "titulo": "Experimentos",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Copa Faraday sonda de plasma",
+      "nivel": 3,
+      "texto": "Este experimento consistió en una taza de Faraday con cuatro rejillas y un colector diseñado para proporcionar datos sobre la densidad del plasma solar y la magnitud y dirección de su movimiento a granel. Los protones se midieron en los siguientes rangos de energía: 0 a 5, 0 a 20, 0 a 80, 0 a 250, 0 a 800, y 0 a 2300 eV. El experimento fue montado en la nave espacial de modo que el eje de simetría de la sonda de plasma era perpendicular al eje de giro de la nave espacial. La copa de Faraday tuvo su máxima respuesta a la incidencia de partículas a 0° sobre su eje simétrico. La respuesta cayó rápidamente hasta que el instrumento tuvo una respuesta cero a partículas que llegaban a 63° y mayores a su normal. El área de recolección efectiva para la incidencia normal fue de 28 cm2. El instrumento tenía dos salidas: un componente de CC relacionado con los efectos fotoeléctricos y el flujo plasmático, y un componente de CA relacionado sólo con el flujo plasmático. El cambio en la frecuencia del componente de salida de CA fue codificado para ser proporcional al flujo plasmático. El límite de energía superior de las partículas plasmáticas que generan el componente CA fue determinado por el valor de un voltaje de retardo positivo aplicado a una de las rejillas. Esta \"tensión modulante\" tenía seis valores posibles, de 5 a 2300 eV, y también se podía establecer a 0. Durante cada secuencia de telemetría de 148 segundos, la sonda plasmática utilizó 5 segundos. Estos intervalos de 5 segundos, subcommutados por un programa de intervalo, se utilizaron para transmitir secuencialmente una señal de marcador, la salida DC del instrumento y la salida CA del experimento en una de las seis tensiones modulantes. Así, una secuencia completa de la sonda de plasma, que consta de ocho ciclos de telémetro, duró 19 minutos y 44 segundos. No se proporcionó ninguna calibración de los vuelos y no se realizó ningún procesamiento a bordo. Debido a la duración limitada de la batería de la nave espacial, sólo se adquirieron 52 horas de datos. El investigador principal fue Herbert S. Puente del Instituto de Tecnología de Massachusetts, que trabajó junto con Bruno Rossi."
+    },
+    {
+      "titulo": "Magnetómetros Rb-Vapor y Fluxgate",
+      "nivel": 3,
+      "texto": "Un instrumento de vapor de doble gas rubidium alkali y dos magnetómetros de fluctuación monaxiales fueron diseñados para obtener mediciones de campo magnético vectorial de los tres componentes de campo a lo largo de una trayectoria de 1,8- a 42,6 radios terrestres atravesando el campo geomagnético y extendiéndose hacia el medio interplanetario. Los magnetómetros de flowgate estaban orientados en un ángulo de 57° 45' al eje de rotación del satélite y se colocaron en los extremos de los polos de 79 cm (31 pulgadas) para reducir a menos de 1 nT la posibilidad de contaminación del campo magnético de las naves espaciales. Los datos fueron transmitidos a las estaciones terrestres en períodos de 126 segundos desde el magnetómetro de rubidium y 3 segundos para cada uno de los magnetómetros de flowgate, en secuencia con las otras transmisiones del experimento. El desempeño fue excelente y se obtuvieron datos de 52 horas. Durante el lanzamiento, sin embargo, el desgasificación causó la deposición de una película en la esfera que contenía el magnetómetro rubidium-vapor. Esto aumentó la absorbencia de la superficie y elevó la temperatura del magnetómetro de vapor de rubidio a 60 °C después de 2 horas en la luz solar, lo que interrumpió el funcionamiento continuo del magnetómetro a 18 radios terrestres. La operación intermitente se produjo durante las siguientes 6 horas y esto permitió la calibración vectorial en vuelo de los magnetómetros de flowgate en campos débiles."
+    },
+    {
+      "titulo": "Sensor de Aspecto Sol-Luna-Tierra (Naves espaciales)",
+      "nivel": 3,
+      "texto": "El sensor de aspecto óptico consistía en un sensor Sol-Luna-Tierra y la electrónica asociada. La parte Tierra-Luna del sensor consistía en un campo de visión de ventiladores, de 3° de ancho y 120° de largo, que barrió por el cielo mientras la sonda giraba en el espacio. La aparición de la Luna o la Tierra en el campo de visión del sensor causó un cambio de paso en la frecuencia del subtransporte. La parte solar del sensor consistía en una ranura digital codificada de 2° de ancho y 100° de largo. La aparición del Sol en el campo de visión de la ranura causó una frecuencia discreta en el subportador que correspondía a la posición del Sol en el campo de visión."
+    },
+    {
+      "titulo": "Resultados",
+      "nivel": 2,
+      "texto": "Debido a la limitada vida útil de las baterías de las naves espaciales, los únicos datos útiles se transmitieron en tiempo real durante 52 horas en la parte ascendente de la primera órbita. La distancia de la Tierra cuando se transmitió el último bit de información útil fue de 42.3 radios terrestres, y la hora local en este punto fue de 22:00 horas. Toda la transmisión cesó varias horas después."
+    }
+  ],
+  "num_palabras": 998
+}

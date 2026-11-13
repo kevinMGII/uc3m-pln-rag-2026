@@ -1,0 +1,51 @@
+{
+  "titulo": "STS-8",
+  "titulo_wikipedia_en": "STS-8",
+  "fecha_lanzamiento": "1983-08-30",
+  "año_lanzamiento": 1983,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/STS-8",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Lugar de lanzamiento": "KSC LC-39A",
+    "Fecha de lanzamiento": "30 de agosto de 1983, 2:32:00 a. m. EDT",
+    "Nave": "Challenger",
+    "Fecha de aterrizaje": "5 de septiembre de 1983, 12:40:43 a. m. PDT",
+    "Duración de la misión": "6 días, 1 hora, 8 minutos, 43 segundos",
+    "Inclinación orbital": "28,5 grados",
+    "Distancia recorrida": "2.514.478 millas (4.046.660 km)",
+    "Misión anterior": "STS-7",
+    "Misión siguiente": "STS-9",
+    "Programa": "Programa del Transbordador Espacial"
+  },
+  "resumen": "La STS-8 fue la octava misión del transbordador espacial de la NASA, la tercera del Challenger. Este fue el primer lanzamiento nocturno y el primer aterrizaje nocturno.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Richard H. Truly (2), comandante\nDaniel C. Brandenstein (1), piloto\nDale A. Gardner (1), especialista de la misión\nGuion S. Bluford, Jr. (1), especialista de la misión, y el primer afroestadounidense en viajar al espacio\nWilliam E. Thornton (1), especialista de la misión\n(1) número de vuelos espaciales hechos por cada miembro de la tripulación, hasta la fecha inclusive esta misión."
+    },
+    {
+      "titulo": "Parámetros de la Misión",
+      "nivel": 2,
+      "texto": "Masa:\nOrbitador al despegue: 110.105 kg\nOrbitador al aterrizaje: 92.506 kg\nCarga: 13.642 kg\nPerigeo: 306 km\nApogeo: 313 km\nInclinación: 28,5°\nPeríodo: 90,7 min"
+    },
+    {
+      "titulo": "Objetivos de la misión",
+      "nivel": 2,
+      "texto": "Bluford se convirtió en el primer afroamericano en volar al espacio. Los astronautas desplegaron el INSAT-1B, un satélite multipropósito hindú adjunto al motor del PAM-D (módulo D de ayuda a la carga). En esta misión, el guiado mantuvo el morro del transbordador lejos del sol durante 14 horas para comprobar el área de la cubierta de vuelo en frío extremo. Para el panel de instrumentos de desarrollo del vuelo (DFI PLT), la tripulación filmó la realización de un tubo de calor experimental montado en la bodega de carga. Durante el vuelo, el transbordador descendió hasta las 139 millas de altitud para realizar las pruebas con oxígeno atómico claro para identificar las causas del resplandor que rodean partes del transbordador por la noche. Los astronautas comprobaron el Canadarm -Sistema de manipulador remoto- para evaluar las reacciones de las articulaciones a cargas más altas que las examinadas anteriormente. El vuelo incluyó experimentos de biorealimentación con seis ratas volando en un módulo de confinamiento de animales para observar las reacciones de los animales en el espacio. Las otras cargas: el CFES (Sistema de electroforesis en vuelo continuo); el experimento SSIP (Programa con participación estudiantil del transbordador); el I CAT (Prueba de acoplamiento de la célula-incubadora); La ISAL (Investigación de las luces atmosféricas del STS); El RME (Equipo de monitorización de la radiación); y cinco paquetes de experimentos especiales de escape incluyendo los ocho bidones de postales. Los astronautas y el control de tierra comprobaron las comunicaciones entre el Tracking and Data Relay Satellite-I (TDRS-1) y el transbordador usando la antena de banda-Ku, y las investigaciones sobre el Síndrome de adaptación al espacio continuaron.\nEn cooperación con la USPS, la misión además cargó con varios cientos de miles de postales franqueadas con sellos urgentes de 9,35$, que luego fueron vendidos al público después del regresos del transbordador. Los planes originales eran llevar 500.00, pero el número final se redujo a 261.900, de las cuales 2.523 se dañaron durante el vuelo y se descartaron. El resto de postales una por una se metieron en un sobre que describía la misión y la postal, y fueron vendidas por 15,35$ cada una. Se agotaron en noviembre de 1983, solo unos pocos meses después del vuelo."
+    },
+    {
+      "titulo": "Insignia de la misión",
+      "nivel": 2,
+      "texto": "Las ocho estrellas en el fondo negro del parche de la misión indican la designación numérica del vuelo en la secuencia del transbordador espacial."
+    }
+  ],
+  "num_palabras": 505
+}

@@ -1,0 +1,26 @@
+{
+  "titulo": "Soyuz TMA-22",
+  "titulo_wikipedia_en": "Soyuz TMA-22",
+  "fecha_lanzamiento": "2011-11-14",
+  "año_lanzamiento": 2011,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Soyuz_TMA-22",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Fecha de lanzamiento": "14 de noviembre de 2011",
+    "Nave": "Soyuz TMA",
+    "Fecha de aterrizaje": "27 de abril de 2012",
+    "Programa": "Programa Soyuz",
+    "Misión anterior": "Soyuz TMA-02M",
+    "Misión siguiente": "Soyuz TMA-03M"
+  },
+  "resumen": "Soyuz TMA-22 fue un vuelo espacial tripulado con destino a la ISS. La nave Soyuz TMA transportó tres astronautas de la Expedición 29/30 hacia la Estación. La misión TMA-22 fue el 111.º vuelo de la nave Soyuz, cuyo primer vuelo fue en 1967. El nave Soyuz permaneció acloplada a la estación y sirvió además, de como medio de transporte para la tripulación de la Expedición 29/30, también tenía la función como vehículo de escape en las posibles emergencias.\nEste fue el último vuelo de un vehículo Soyuz TMA, ya que sería reemplazado por la serie modernizada Soyuz TMA-M.",
+  "secciones": [],
+  "num_palabras": 98
+}

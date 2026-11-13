@@ -1,0 +1,72 @@
+{
+  "titulo": "Apolo 15",
+  "titulo_wikipedia_en": "Apollo 15",
+  "fecha_lanzamiento": "1971-07-26",
+  "año_lanzamiento": 1971,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada",
+    "Exploración lunar",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Apolo_15",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Lugar de lanzamiento": "Centro Espacial Kennedy, Florida\nLC 39A",
+    "Masa en el lanzamiento": "CSM: 30.370 kg\nLM: 16.430 kg",
+    "Fecha de lanzamiento": "26 de julio de 1971\n13:34:00 UTC",
+    "Nave": "Módulo de mando:\nEndeavour\nMódulo lunar:\nFalcon",
+    "Fecha de aterrizaje": "7 de agosto de 1971\n20:45:53 UTC",
+    "Misión anterior": "Apolo 14",
+    "Misión siguiente": "Apolo 16",
+    "Programa": "Apolo",
+    "Datos interplanetarios": "tipo: orbitador | objeto: Lunar | componente: Módulo de mando y servicio | órbitas: 74 | tiempo órbita: 145 h 12 min 41.68 s\ntipo: aterrizador | objeto: Lunar | componente: Módulo de descenso | fecha llegada: 30 de julio de 1971\n22:16:29 UTC\nHadley Rille | tiempo EVAs superficie: 1º: 6 h 32 min 42 s\n2º: 7 h 12 min 14 s\n3º: 4 h 49 min 50 s\nTotal: 18 h 34 min 46 s\nPaseo en CSM: 39 min 7 s | tiempo superficie: 66 h 54 min 53,9 s | masa muestras: 77 kg | tiempo órbita: 145 h 12 min 41.68 s"
+  },
+  "resumen": "Apolo 15 fue la novena misión tripulada del programa Apolo (denominado oficialmente AS-510), fue lanzado el 26 de julio de 1971 mediante un cohete del tipo Saturno V, en dirección a la Luna.\nFue la primera de las misiones del tipo J, es decir, con modificaciones en la astronave que permitía una duración del vuelo de hasta 14 días.\nPoco después de comenzar la órbita lunar número 12, el módulo de descenso consiguió alunizar el 30 de julio a 26,08º N 3,66º E (a solo un centenar de metros del punto teórico en la región de Hadley-Apeninos, en el Mare Imbrium) llevando como tripulantes a David R. Scott -comandante-, Alfred M. Worden y James B. Irwin.\nTras alunizar, Scott realizó un reconocimiento del terreno a través de la escotilla superior del módulo lunar, durante 33 min. Tras descender del módulo de alunizaje “Falcon”, los astronautas Scott e Irwin emplearon por primera vez un LRV (Vehículo Explorador Lunar o Lunar Roving Vehicle, fabricado por la compañía Boeing y la Delco Electronics de General Motors) que recorrió una distancia total de 27,9 kilómetros.\nDurante las 77 h y 55 min de permanencia en la superficie de la Luna, aprovecharon 18 h y 35 min para realizar tres paseos lunares (EVA).\nLa primera salida (EVA-1) con una duración de 6 h y 32 minutos sirvió para explorar con el rover lunar el borde de la grieta Hadley, instalando una estación científica, llamada ALSEP, y estudiar el suelo para registrar la temperatura, el flujo de calor y la conductibilidad térmica.\nLa segunda salida (EVA-2) supuso estudiar durante 7 h y 13 minutos el frente de la cordillera de los Apeninos y la recogida de 46 kilogramos de rocas variadas.\nLa tercera salida (EVA-3) de 4 h y 50 minutos sirvió para realizar experimentos con el ALSEP, explorando también la grieta Hadley.\nAntes de abandonar la superficie lunar, recogieron nuevas muestras de rocas lunares hasta completar los 88 kg, además de instalar instrumental geofísico que suponía dejar en la Luna 549 kg de material, así como un pequeño modelo que representaba a un astronauta con una placa grabada que contenía el nombre de los 14 cosmonautas soviéticos y americanos muertos en los ensayos o durante los vuelos espaciales. El despegue se televisó por primera vez mediante una cámara instalada en el rover lunar (LRV).\nMientras esto sucedía, desde el módulo de mando (CM) bautizado “Endeavour”, su compañero Alfred Merril Worden realizaba más experimentos y fotografías con cámaras de rayos X y rayos gamma.\nTambién situó en órbita un subsatélite para efectuar fotografías, y durante el regreso salió al espacio (a 315.423 km de la Tierra) para recoger la película fotográfica ya expuesta, en una EVA de 38 min de duración.\nLa misión finalizó con el amerizaje en el Océano Pacífico, siendo los astronautas recogidos por el portahelicópteros “Okinawa” el 7 de agosto de 1971, tras efectuar 74 órbitas a la Luna y un viaje de 295 h, 11 min y 53 s de duración.\nEn julio de 1972 se vieron implicados en una polémica cuando se descubrió que habían llevado a escondidas 400 cartas que franquearon en la Luna, para su venta posterior a coleccionistas filatélicos, aunque finalmente no percibieron nada, lo que les valió una amonestación de la NASA.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Los tres astronautas, los cuales pertenecían a las Fuerzas Aéreas de los Estados Unidos, recibieron un título honorario por la Universidad de Míchigan, incluyendo el grado honorífico a Scott otorgado en la primavera del 1971, meses antes del lanzamiento. Scott había asistido a la Universidad de Míchigan, pero dejó la universidad al entrar en la Academia Militar de los Estados Unidos."
+    },
+    {
+      "titulo": "Tripulación de reserva",
+      "nivel": 3,
+      "texto": "Schmitt fue el primer miembro del Grupo 4 de astronautas de la NASA seleccionado como un miembro de la tripulación principal o de copia de seguridad para un vuelo Apolo. Fue el único astronauta del Grupo 4 que viajó a la Luna en la última misión Apolo a finales de 1972."
+    },
+    {
+      "titulo": "Equipo de apoyo",
+      "nivel": 3,
+      "texto": "C. Gordon Fullerton\nJoseph P. Allen\nRobert A. Parker\nKarl Gordon Henize"
+    },
+    {
+      "titulo": "Directores de vuelo",
+      "nivel": 3,
+      "texto": "Gerald D. Griffin, Equipo Oro\nMilton Windler, Equipo Granate\nGlynn Lunney, Equipo Negro\nGene Kranz, Equipo Blanco"
+    },
+    {
+      "titulo": "Parámetros de la misión",
+      "nivel": 2,
+      "texto": "Masa:\nMasa de lanzamiento: 2,945,816 kg\nTotal de la nave espacial: 46,782 kg\nMasa CSM: 30,354 kg, de los cuales CM: 5840 kg, SM 24,523 kg\nMasa LM: 16,428 kg, ascenso en el despegue lunar: 4,951 kg\nÓrbitas de la tierra: 3 antes de partir hacia la Luna\nÓrbitas lunares: 74"
+    },
+    {
+      "titulo": "Órbita de aparcamiento terrestre",
+      "nivel": 3,
+      "texto": "Perigeo: 169.5 km\nApogeo: 171.3 km\nInclinación: 29.679°\nPeriodo: 87.84 min"
+    },
+    {
+      "titulo": "Acoplamiento LM-CSM",
+      "nivel": 3,
+      "texto": "Desacoplamiento: 30 de julio de 1971 - 18:13:16 UTC\nAcoplamiento: 2 de agosto de 1971 - 19:10:25 UTC"
+    },
+    {
+      "titulo": "EVAs",
+      "nivel": 3,
+      "texto": "Scott - trampilla superior del LM\nInicio EVA: 31 de julio de 1971, 00:16:49 UTC\nFinal EVA: 31 de julio de 1971, 00:49:56 UTC\nDuración: 33 minutos, 07 segundos\nScott y Irwin - EVA 1\nInicio EVA 1: 31 de julio de 1971, 13:12:17 UTC\nFinal EVA 1: 31 de julio de 1971, 19:45:59 UTC\nDuración: 6 horas, 32 minutos, 42 segundos\nScott y Irwin - EVA 2\nInicio EVA 2: 1 de agosto de 1971, 11:48:48 UTC\nFinal EVA 2: 1 de agosto de 1971, 19:01:02 UTC\nDuración: 7 horas, 12 minutos, 14 segundos\nScott y Irwin - EVA 3\nInicio EVA 3: 2 de agosto de 1971, 08:52:14 UTC\nFinal EVA 3: 2 de agosto de 1971, 13:42:04 UTC\nDuración: 4 horas, 49 minutos, 50 segundos\nWorden - EVA 4\nInicio EVA 4: 5 de agosto de 1971, 15:31:12 UTC\nFinal EVA 4: 5 de agosto de 1971, 16:10:19 UTC\nDuración: 39 minutos, 07 segundos"
+    }
+  ],
+  "num_palabras": 923
+}

@@ -1,0 +1,44 @@
+{
+  "titulo": "Soyuz 22",
+  "titulo_wikipedia_en": "Soyuz 22",
+  "fecha_lanzamiento": "1976-09-15",
+  "año_lanzamiento": 1976,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Soyuz_22",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Masa en el lanzamiento": "6510 kg",
+    "Fecha de lanzamiento": "15 de septiembre de 1976",
+    "Nave": "Soyuz 7K-MF6",
+    "Fecha de aterrizaje": "23 de septiembre de 1976",
+    "Duración de la misión": "7,91 días",
+    "Programa": "Programa Soyuz",
+    "Misión anterior": "Soyuz 21",
+    "Misión siguiente": "Soyuz 23"
+  },
+  "resumen": "Soyuz 22 fue una misión de una nave Soyuz 7K-T modificada (Soyuz 7K-MF6) lanzada el 15 de septiembre de 1976 desde el cosmódromo de Baikonur con dos cosmonautas a bordo para realizar un estudio sobre recursos terrestres mediante la cámara alemana MF6 llevada especialmente en esta misión.\nLa misión de Soyuz 22 fue realizar observaciones y fotografías de la Tierra con la cámara MF6 para realizar estudios geológicos y de recursos de utilidad económica.\nLa nave regresó el 23 de septiembre de 1976, aterrizando a 150 km al noroeste de Tselinograd y siendo recuperada la tripulación a las 7:42 GMT.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Valery Bykovsky (Comandante)\nVladimir Aksyonov (Ingeniero de vuelo)"
+    },
+    {
+      "titulo": "Tripulación de respaldo",
+      "nivel": 2,
+      "texto": "Yuri Malyshev (Comandante)\nGennady Strekalov (Ingeniero de vuelo)"
+    },
+    {
+      "titulo": "Tripulación de reserva",
+      "nivel": 2,
+      "texto": "Leonid Popov (Comandante)\nBoris Andreyev (Ingeniero de vuelo)"
+    }
+  ],
+  "num_palabras": 124
+}

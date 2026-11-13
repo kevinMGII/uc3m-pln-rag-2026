@@ -1,0 +1,44 @@
+{
+  "titulo": "Gemini 11",
+  "titulo_wikipedia_en": "Gemini 11",
+  "fecha_lanzamiento": "1966-09-12",
+  "año_lanzamiento": 1966,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Gemini_11",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Lugar de lanzamiento": "Centro Espacial Kennedy, Florida\nLC 19",
+    "Masa en el lanzamiento": "3.798,4 kg",
+    "Fecha de lanzamiento": "12 de septiembre de 1966\n14:42:26.546 UTC",
+    "Fecha de aterrizaje": "15 de septiembre de 1966\n13:59:35 UTC",
+    "Duración de la misión": "2 días 22 h 46 min 39 s",
+    "Periodo orbital": "88,89 min",
+    "Inclinación orbital": "28,83°",
+    "Órbitas completadas": "44",
+    "Apoapsis": "279,1 km",
+    "Periapsis": "160,5 km",
+    "Misión anterior": "Gemini 10",
+    "Misión siguiente": "Gemini 12",
+    "Programa": "Programa Gemini"
+  },
+  "resumen": "Gemini 11 fue una misión espacial tripulada del programa Gemini, de la NASA, realizada en septiembre de 1966. Fue el noveno vuelo tripulado del programa Gemini, y el decimoséptimo del programa espacial estadounidense. Durante el mismo se realizaron, entre otros, experimentos para generar una pequeña gravedad artificial, haciendo girar las dos naves espaciales conectadas por una correa. Gordon también realizó dos actividades extra-vehiculares por un total de 2 horas y 41 minutos.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Pete Conrad, Comandante\nRichard Gordon, Piloto"
+    },
+    {
+      "titulo": "Tripulación de reemplazo",
+      "nivel": 3,
+      "texto": "Neil Armstrong\nWilliam A. Anders"
+    }
+  ],
+  "num_palabras": 83
+}

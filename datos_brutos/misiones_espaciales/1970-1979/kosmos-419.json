@@ -1,0 +1,67 @@
+{
+  "titulo": "Kosmos 419",
+  "titulo_wikipedia_en": "Kosmos 419",
+  "fecha_lanzamiento": "1971-05-10",
+  "año_lanzamiento": 1971,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración de Marte",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Kosmos_419",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "orbitador de Marte",
+    "Operador": "Programa espacial soviético",
+    "ID COSPAR": "1971-042A",
+    "Nº SATCAT": "5221",
+    "Tipo de nave": "3MS No 170",
+    "Fabricante": "NPO Lavochkin",
+    "Masa en el lanzamiento": "4650 kg",
+    "Fecha de lanzamiento": "10 de mayo de 1971, 16:58:42 UTC",
+    "Vehículo de lanzamiento": "Proton-K/D",
+    "Lugar de lanzamiento": "Baikonur 81/23",
+    "Contratista del lanzamiento": "Khrunichev",
+    "Tipo de fin de misión": "Fallo de lanzamiento",
+    "Fecha de reentrada": "12 de mayo de 1971",
+    "Sistema de referencia orbital": "Geocéntrico",
+    "Régimen orbital": "Órbita terrestre baja",
+    "Periapsis": "134 km",
+    "Apoapsis": "187 km",
+    "Inclinación orbital": "51.5°",
+    "Periodo orbital": "87,7 min",
+    "Programa": "Programa Marte",
+    "Misión anterior": "Mars 1969B",
+    "Misión siguiente": "Mars 2",
+    "Programa (2)": "Kosmos (satélites)",
+    "Misión anterior (2)": "Kosmos 418",
+    "Misión siguiente (2)": "Kosmos 420"
+  },
+  "resumen": "Kosmos 419 (en ruso: Космос 419 significa Cosmos 419), también conocido como 3MS No.170 fue una nave espacial soviética fallida destinada a visitar Marte. La nave espacial fue lanzada el 10 de mayo de 1971, pero debido a un mal funcionamiento de la etapa superior, no pudo salir de la órbita terrestre baja.",
+  "secciones": [
+    {
+      "titulo": "Antecedentes",
+      "nivel": 2,
+      "texto": "En 1971, Marte se encontraba en su posición más cercana a la Tierra desde 1956, y en mayo de ese año, tanto la Unión Soviética como los Estados Unidos hicieron nuevos intentos de llegar al Planeta Rojo. Kosmos 419 tenía la intención de superar las sondas estadounidenses Mariner 8 y Mariner 9, con el objetivo de convertirse en el primer orbitador de Marte. Como era, Mariner 8 se perdió en un fallo de lanzamiento dos días antes de Kosmos 419 fue lanzado, y Mariner 9 pasó a ser la primera nave espacial en orbitar Marte."
+    },
+    {
+      "titulo": "Lanzamiento",
+      "nivel": 2,
+      "texto": "Kosmos 419 fue una de las tres naves espaciales de Marte lanzadas por la Unión Soviética en 1971, siendo las otras Marte 2 y Marte 3; lanzadas días después de Kosmos 419. A diferencia de la nave espacial 4M, Mars 2 y 3, Kosmos 419 era una nave espacial 3MS que consistía sólo en un orbitador, sin aterrizaje. Fue la novena nave espacial soviética lanzada a Marte."
+    },
+    {
+      "titulo": "Orbit",
+      "nivel": 2,
+      "texto": "Un cohete portador Proton-K puso con éxito la nave espacial y una etapa superior Blok D en una órbita de estacionamiento terrestre baja con un apogeo de 174 kilómetros (108 millas) y un perigeo de 159 kilómetros (99 millas) y una inclinación de 51,4 grados. El temporizador de ignición del Blok D estaba configurado incorrectamente, resultando en que no se encendía; el temporizador se había configurado para que el escenario se encendera 1,5 años después del lanzamiento en lugar de las 1,5 horas previstas. Debido a su órbita baja, que rápidamente decayó, Kosmos 419 volvió a entrar en la atmósfera de la Tierra el 12 de mayo de 1971, dos días después del lanzamiento.\nLa designación Kosmos 419 era un nombre genérico dado a las naves espaciales soviéticas que operan en órbita terrestre; en ese momento, las naves espaciales planetarias soviéticas que no pudieron salir de la órbita terrestre recibirían designaciones en la serie Kosmos para disimular el fracaso. Si hubiera abandonado la órbita terrestre, Kosmos 419 se habría convertido en Marte 2, una designación que se utilizó en su lugar para la siguiente misión, 4M No.171."
+    },
+    {
+      "titulo": "Instrumentos científicos",
+      "nivel": 2,
+      "texto": "Fuente:\nMagnetómetro de flujo\nRadiometro infrarrojo\nFotometro infrarrojo\nEspectrómetro\nFotometro\nRadiometro\nFotometro ultravioleta\nDetector de rayos cósmicos\nEspectrómetro de partículas cargado\nSistema de imágenes\nAntena estereográfica"
+    }
+  ],
+  "num_palabras": 428
+}

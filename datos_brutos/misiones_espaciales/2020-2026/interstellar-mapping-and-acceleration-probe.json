@@ -1,0 +1,137 @@
+{
+  "titulo": "Interstellar Mapping and Acceleration Probe",
+  "titulo_wikipedia_en": "Interstellar Mapping and Acceleration Probe",
+  "fecha_lanzamiento": "2025-09-24",
+  "año_lanzamiento": 2025,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión heliofísica",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Interstellar_Mapping_and_Acceleration_Probe",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Otros nombres": "IMAP",
+    "Tipo de misión": "Heliofísica",
+    "Operador": "Universidad de Princeton",
+    "ID COSPAR": "2025-215A",
+    "Nº SATCAT": "65725",
+    "Duración de la misión": "2 a 5 años (previsto)\n(elapsado)",
+    "Fabricante": "Laboratorio de Física Aplicada",
+    "Masa en el lanzamiento": "1984 lb",
+    "Masa en seco": "756 kg",
+    "Dimensiones": "2.4 ×",
+    "Fecha de lanzamiento": "24 de septiembre de 2025, 11:30 UTC",
+    "Vehículo de lanzamiento": "Falcon 9",
+    "Lugar de lanzamiento": "Centro Espacial Kennedy, LC-39A",
+    "Contratista del lanzamiento": "SpaceX",
+    "Sistema de referencia orbital": "Heliocéntrico",
+    "Régimen orbital": "Órbita de Halo (L1)",
+    "Periapsis": "~1.6 e6km",
+    "Instrumentos": "Acrónimo1: IMAP–Lo ; IMAP–Lo ; acrónimo2: IMAP–Hi ; IMAP–Hi ; acrónimo3: IMAP–Ultra ; IMAP–Ultra ; acrónimo4: SWAPI ; Solar Wind and Pick-up Ion ; acrónimo5: SWE ; Solar Wind Electron ; acrónimo6: CoDICE ; Compact Dual Ion Composition Experimento ; acrónimo7: HIT ; High-energy Ion Telescope ; acrónimo8: MAG ; Magnetómetro ; acrónimo9: IDEX ; Interstellar Dust Experiment ; acrónimo10: GLOWS ; Global Solar Wind Structure",
+    "Programa": "Programa de sondas terrestres solares",
+    "Misión anterior": "Misión Magnetosférico Multiescala"
+  },
+  "resumen": "La Sonda de Cartografía y Aceleración Interestelar (IMAP) es una misión heliofísica que investiga simultáneamente dos temas científicos importantes y acoplados en la heliosfera: la aceleración de partículas energéticas y la interacción del viento solar con el medio interestelar local. Estos temas científicos se acoplan porque las partículas aceleradas en la heliosfera interior juegan papeles cruciales en la interacción heliosférico externa. En 2018, la NASA seleccionó un equipo dirigido por David J. McComas de la Universidad de Princeton para implementar la misión. IMAP es un satélite estabilizado por centrifugación en órbita alrededor del punto Sol-Tierra L1 Lagrange con una carga útil científica de diez instrumentos. IMAP también transmite continuamente datos in situ en tiempo real que se pueden utilizar para la predicción del tiempo espacial. Es la quinta misión seleccionada en el programa de sondas terrestres solares, después de TIMED, Hinode, STEREO y MMS. El IMAP se lanzó el 24 de septiembre de 2025.",
+  "secciones": [
+    {
+      "titulo": "Ciencia",
+      "nivel": 2,
+      "texto": "La aceleración de las partículas cargadas hasta la alta energía es ubicua en todo el universo, ocurriendo en estrellas, magnetosferas, agujeros negros, estrellas de neutrones, restos de supernovas y otros lugares. Los procesos precisos detrás de esta aceleración no se entienden bien. Hay partículas supratermales intermedias que tienen energías entre las partículas energéticas y el plasma térmico a granel. Comprender cómo se energizan estas partículas y cómo interactúan con el material dentro y fuera de nuestro vecindario solar es uno de los temas científicos que IMAP investiga.\nEl viento solar y su campo magnético asociado han soplado una burbuja en el espacio interestelar llamado heliosfera. IMAP estudia el límite de la heliosfera donde el viento solar choca con el material del resto de la galaxia. Usando Átomos Neutrales Energéticos (ENAS), IMAP imagina esta región de interacción desde el Sistema Solar Interior. Además, IMAP también mide directamente las partículas neutras del medio interestelar, porque fluyen a través de la heliosfera relativamente inalterada.\nIMAP también investiga la fuente de la cinta IBEX.\nLas metas científicas de IMAP se basan en los cuatro objetivos científicos especificados en el anuncio de oportunidad de IMAP. El IMAP promoverá la comprensión de:\nLa composición y propiedades del medio interestelar local.\nCómo interactúan los campos magnéticos del Sol a través del medio interestelar local.\nCómo el viento solar y el medio interestelar interactúan a través de los límites de nuestra heliosfera.\nCómo se aceleran las partículas a altas energías en todo el sistema solar."
+    },
+    {
+      "titulo": "Misión",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Perfil",
+      "nivel": 3,
+      "texto": "Después del lanzamiento, la nave espacial tardó varios meses en transitar a unos 1.500.000 kilómetros de distancia de la Tierra hacia el Sol en lo que se llama el primer punto de Lagrange (L1). La nave espacial utilizó entonces propulsión a bordo para insertar en una órbita de +/−9,5° /-3,9° Lissajous alrededor de L1, muy similar a la órbita de Advanced Composition Explorer (ACE). La misión de referencia es de dos años, pero todos los bienes fungibles están diseñados para una vida de más de cinco años."
+    },
+    {
+      "titulo": "Vehículo espacial",
+      "nivel": 3,
+      "texto": "IMAP es una simple nave espacial estabilizada por giros (~4 RPM) con diez instrumentos. Las maniobras diarias de actitud se utilizan para mantener el eje de giro y la cubierta superior (con conjuntos solares) apuntando en la dirección del viento solar entrante, que está a unos pocos grados del Sol. En la órbita L1 Lissajous, la cubierta trasera, con su antena de comunicación, aproximadamente puntos en la Tierra."
+    },
+    {
+      "titulo": "Instrumentos",
+      "nivel": 3,
+      "texto": "Los diez instrumentos de IMAP se pueden agrupar en tres categorías: 1) detectores de átomos neutros energéticos (ENA) (IMAP-Lo, IMAP-Hi e IMAP-Ultra); 2) detectores de partículas cargados (SWAPI, SWE, CoDICE e HIT); y 3) otras mediciones coordinadas (MAG, IDEX, GLOWS).\nAquí a la izquierda se muestran fluencias de oxígeno medidas a 1 UA por varios instrumentos a bordo Advanced Composition Explorer (ACE) durante un período de 3 años, con espectros de partículas representativos obtenidos para partículas energéticas solares graduales e impulsivas (SEPs), regiones de interacción de rotación (CIRs), rayos cósmicos anómalos (ACRs), y rayos cósmicos galácticos (GCRs). Los rangos de energía que se superponen para las diversas mediciones de instrumentos de iones IMAP se indican en la parte inferior. A la derecha, el panel muestra distribuciones de energía características, pero para ENAs procedentes de la heliosola y VLISM; con la parte inferior también mostrando los rangos de energía superpuestos para las mediciones de instrumentos IMAP ENA y neutros interestelares. Los flujos de iones son de la Voyager 1, a lo largo de su trayectoria particular, y las observaciones de ENA son de Cassini e IBEX para la misma dirección. La figura se adapta de McComas et al. 2018."
+    },
+    {
+      "titulo": "IMAP-Lo",
+      "nivel": 4,
+      "texto": "IMAP-Lo es un imagenador de átomos neutros de un solo píxel, montado en una plataforma de pivote, que da mediciones de energía y ángulo resuelto de átomos ISN (H, He, O, Ne y D) rastreados a más de 180° en longitud eclíptica y mapas globales resueltos de energía de ENA H y O. IMAP-Lo tiene patrimonio de la IBEX-Lo en IBEX, pero proporciona un poder de recogida mucho mayor."
+    },
+    {
+      "titulo": "IMAP-Hola",
+      "nivel": 4,
+      "texto": "IMAP-Hi se compone de dos idénticos, de un solo píxel de alta energía de imágenes ENA que miden H, He, y ENA más pesados de la heliosfera exterior. Cada IMAP-Hi Imager es muy similar en el diseño al IBEX-Hi ENA Imager, pero incorpora modificaciones clave que permiten mejorar sustancialmente la resolución, el rango espectral y el poder de recogida. El instrumento también incorpora un sistema de tiempo de vuelo (TOF) para la identificación de especies de ENA."
+    },
+    {
+      "titulo": "IMAP-Ultra",
+      "nivel": 4,
+      "texto": "El instrumento IMAP-Ultra representa la emisión de ENAs producidas en la heliosola y más allá, principalmente en átomos H entre ~3 y 300 keV, pero también es sensible a las contribuciones de He y O. Ultra es casi idéntico al Júpiter Energetic Neutral Imager (JENI), en desarrollo para el vuelo en la misión Júpiter Icy Moon Explorer (JUICE) de la Agencia Espacial Europea a Júpiter y Ganímedes. Las diferencias primarias de Ultra con respecto al JENI son el uso de dos copias idénticas, una montada perpendicularmente al eje de giro IMAP (Ultra90) y otra montada a 45° del eje de giro anti-solento (Ultra45) para una mejor cobertura del cielo, y el uso de láminas ligeramente más gruesas y filtrantes UV que cubren el plano posterior MCPs para reducir fondos asociados con fotones interestelares Lyman-Xα."
+    },
+    {
+      "titulo": "Viento solar y pick-up Ion (SWAPI)",
+      "nivel": 4,
+      "texto": "El instrumento Solar Wind and Pickup Ion (SWAPI) mide el viento solar H+ y He++ e iones interestelares He+ y H+ (PUIs). SWAPI es casi idéntico al nuevo instrumento de Viento Solar Horizontes Alrededor de Plutón (SWAP). SWAPI es una simplificación del SWAP, y al eliminar el analizador potencial retardante de SWAP, aumenta significativamente la transmisión y mejora la sensibilidad, mejorando aún más las observaciones de PUI."
+    },
+    {
+      "titulo": "Electrono de viento solar (SWE)",
+      "nivel": 4,
+      "texto": "El instrumento Solar Wind Electron (SWE) mide la distribución 3D de electrones solares térmicos y supratérmicos de 1 eV a 5 keV. SWE se basa en el patrimonio Ulysses / SWOOPS, ACE/SWEPAM y Genesis/GEM instrumentos, con electrónica actualizada basada en Van Allen Probes/HOPE. SWE está optimizada para medir electrones de viento solar in situ en L1 para proporcionar contexto para las mediciones de ENA y realizar las observaciones de viento solar in situ necesarias para entender las estructuras locales que pueden afectar la aceleración y el transporte."
+    },
+    {
+      "titulo": "Experimento compacto de composición de iones duales (CoDICE)",
+      "nivel": 4,
+      "texto": "El experimento compacto de composición de iones duales (CoDICE) mide partículas cargadas en dos rangos de energía separados en un instrumento compacto y combinado. CoDICELo es un analizador electrostático con un subsistema tiempo de vuelo versus energía (TOF/E) para medir las funciones de distribución de velocidad 3D (VDF) y estado de carga iónico y composición de masa de ~0,5-80 keV/q. CoDICEHi utiliza el subsistema TOF/E común para medir la composición de la masa y la dirección de llegada de ~0,03–5 iones MeV/nuc y ~20–600 electrones keV."
+    },
+    {
+      "titulo": "Telescopio Ion de alta energía (HIT)",
+      "nivel": 4,
+      "texto": "El telescopio Ion de alta energía (HIT) utiliza detectores de estado sólido de silicio para medir la composición elemental, espectros de energía, distribuciones angulares y tiempos de llegada de iones H a Ni en un rango de energía dependiente de la especie de ~2 a ~40 MeV/nuc. HIT, fuertemente basado en el Telescopio de Baja Energía (LET) en el Observatorio de Relaciones Terrestres Solares (STEREO), ofrece una cobertura de cielo completo con un factor de geometría grande. Una parte del área de visualización de HIT también está optimizada para medir los electrones de 0,5 - 1,0 MeV."
+    },
+    {
+      "titulo": "Magnetómetro (MAG)",
+      "nivel": 4,
+      "texto": "El magnetómetro IMAP (MAG) consiste en un par de magnetómetros triaxiales idénticos que miden el campo magnético interplanetario 3D. Ambos magnetómetros se montan en una pluma de 1,8 m, uno en el extremo y el otro en una posición intermedia. Esta configuración, a través de la gradiometría, reduce el efecto de los campos magnéticos de las naves espaciales en las mediciones del instrumento mediante la remoción dinámica del campo espacial. Los sensores MAG se basan en los magnetómetros de misión Solar Orbiter y son construidos por el Imperial College London."
+    },
+    {
+      "titulo": "Experimento Interestelar de Polvo (IDEX)",
+      "nivel": 4,
+      "texto": "El Experimento Interestelar de Polvo (IDEX) es un analizador de polvo de alta resolución que proporciona la composición elemental, velocidad y distribución de masa de partículas de polvo interestelares. La cabeza del sensor de IDEX tiene una gran área objetivo efectiva (700 cm2 [110 sq in]), que le permite recoger un número estadísticamente significativo de impactos de polvo (> 100/año). Este instrumento fue construido en el Laboratorio de Física Atmosférica y Espacial (LASP) de la Universidad de Colorado Boulder."
+    },
+    {
+      "titulo": "Estructura solar de viento GLObal (GLOWS)",
+      "nivel": 4,
+      "texto": "La Estructura de Viento Solar GLObal (GLOWS) es un fotómetro Lyman-α de un solo píxel que observa la distribución del cielo del helioglow para entender mejor la evolución de la estructura de viento solar. El helioglow se forma por la interacción entre el hidrógeno neutro interestelar (ISN H) y los fotones solares en una región ultravioleta específica llamada la banda de onda Lyman-α.\nLos fotones entran en el detector a través de un colimador con un baffle que restringe los fotones a los que sólo desde el campo de visión de GLOWS (FOV). Un filtro espectral permite solo los fotones encontrados en la banda de longitud de onda Lyman-α en un detector de multiplicador de electrones de canal (CEM) que los cuenta. GLOWS’ FOV cambia con la redirección diaria del eje de giro de IMAP, permitiendo observaciones secuenciales de la estructura del viento solar desde ubicaciones separadas alrededor del Sol. El conteo de fotones Lyman-α de estas observaciones se puede utilizar para construir una imagen más completa de la estructura del viento solar y cómo cambia a través de los ciclos solares.\nEl diseño y montaje de GLOWS está dirigido por el Centro de Investigación Espacial de la Academia Polaca de Ciencias de Varsovia (Polonia) (CBK PAN)."
+    },
+    {
+      "titulo": "Comunicaciones",
+      "nivel": 3,
+      "texto": "Nominalmente, IMAP tiene dos contactos de 4 horas por semana a través de la NASA Deep Space Network (DSN). Esto es suficiente para subir cualquier comando, descargar el valor de la semana de datos científicos y limpieza, y realizar naves espaciales que se requieren para la navegación. DSN se comunica con el Centro de Operaciones de la Misión IMAP (MOC) del Laboratorio de Física Aplicada de la Universidad Johns Hopkins, que opera la nave espacial. Todos los datos científicos y auxiliares pasan por el MOC al Centro de Operaciones Científicas (SOC) de LASP. El Equipo de Operaciones Científicas y de Misión del IMAP es responsable de todos los aspectos de las operaciones de instrumentos: planificación, mando, monitoreo de salud y estado, respuesta a anomalías y mantenimiento de la ingeniería de los instrumentos. El IMAP Science Data System se encarga del procesamiento de datos científicos (incluyendo calibración, validación y análisis preliminar de datos), distribución y archivo. Los datos científicos se producen de forma centralizada utilizando algoritmos, software y datos de calibración proporcionados y gestionados por cada equipo de instrumentos. El Pipeline de datos IMAP, que incluye la gestión de datos y el acceso y algoritmos para todos los instrumentos IMAP, es de código abierto.\nTodos los datos científicos y de otra índole se comparten con la comunidad de heliofísica tan rápidamente como sea práctico, con una política de datos abierta que se ajuste a la política de gestión de datos científicos de la NASA. La NASA Space Physics Data Facility (SPDF) es el archivo final de IMAP, con transferencia regular de datos a las SPDF para que los datos puedan ser puestos a disposición a través de su sitio Web de Análisis de Datos Coordinados (CDAWeb)."
+    },
+    {
+      "titulo": "Datos meteorológicos espaciales",
+      "nivel": 3,
+      "texto": "IMAP suministra datos meteorológicos espaciales críticos en tiempo real a través de su \"IMAP Active Link for Real-Time\" o I-ALIRT. IMAP transmite continuamente un pequeño subconjunto (500 bit/s) de los datos científicos para I-ALIRT a estaciones terrestres de apoyo en todo el mundo cuando no está en contacto con el DSN. Durante las pistas de DSN, el sistema de vuelo incluye los datos meteorológicos espaciales en el flujo de datos científicos a toda velocidad, que el MOC recibe del DSN y envía al SOC. En cualquier caso, el SOC procesa estas observaciones en tiempo real para crear los productos de datos requeridos por la comunidad de meteorología espacial. Los datos incluyen todos los parámetros importantes proporcionados actualmente por Advanced Composition Explorer (ACE), pero con una cadencia significativamente mayor, y también incluyen varios nuevos parámetros clave."
+    },
+    {
+      "titulo": "Gestión",
+      "nivel": 3,
+      "texto": "Esta es la quinta misión en el programa de sondas terrestres solares de la NASA. La Oficina del Programa de Heliofísica del Centro de Vuelo Espacial Goddard de la NASA en Greenbelt, Maryland, administra el programa STP para la División de Ciencias Heliofísicas de la agencia en Washington, D.C.\nEl investigador principal de la misión es David J. McComas de la Universidad de Princeton.\nLa misión tiene un costo máximo de 564 millones de dólares de los EE.UU., sin incluir el costo del lanzamiento de un vehículo de lanzamiento SpaceX Falcon 9 desde el Complejo de Lanzamiento Espacial Cabo Cañaveral 40 (SLC-40) en la Estación de Fuerza Espacial Cabo Cañaveral (CCSFS) en Florida. En abril de 2020, el costo total preliminar de la misión se estimaba en 707,7 millones de dólares de los EE.UU. a 776,3 millones de dólares. La nave espacial fue cargada con 144 kg (317 libras) de combustible de hidracina el 18 de agosto de 2025 en preparación para su lanzamiento."
+    },
+    {
+      "titulo": "Misiones de oportunidad",
+      "nivel": 2,
+      "texto": "La NASA incluyó un adaptador de carga útil secundaria (ESPA) (vehículo de lanzamiento prescindible evolucionado) anillo grande debajo de la nave espacial IMAP, que dio la oportunidad de múltiples cargas útiles secundarias para montar junto con el lanzamiento IMAP. El despliegue de las cargas útiles secundarias se produciría después del despliegue de la IMAP en una órbita de transferencia al punto de lagrange Tierra-Sol L1. Se compitieron dos oportunidades para las franjas horarias para la División de Ciencias de la Heliofísica como parte de la Tercera Notificación de Misiones de Oportunidad (SALMON-3). El Observatorio Geocorona de Carruthers y SWFO-L1 de NOAA y la NASA fueron lanzados como rideshares junto con IMAP el 24 de septiembre de 2025."
+    }
+  ],
+  "num_palabras": 2448
+}

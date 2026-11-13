@@ -1,0 +1,30 @@
+{
+  "titulo": "Swarm (misión de la ESA)",
+  "titulo_wikipedia_en": "Swarm (spacecraft)",
+  "fecha_lanzamiento": "2013-11-22",
+  "año_lanzamiento": 2013,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión heliofísica"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Swarm_(misión_de_la_ESA)",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {},
+  "resumen": "Swarm es una misión de la Agencia Espacial Europea (ESA) para estudiar el campo magnético de la Tierra. Las mediciones de alta precisión y de gran resolución de la fuerza, dirección y variaciones del campo magnético de la Tierra, complementadas por una navegación precisa, mediciones del acelerómetro a bordo y del campo eléctrico, proporcionarán datos esenciales para la modelización del campo magnético terrestre y su interacción con otros aspectos físicos del sistema Tierra. Los resultados ofrecerán una visión única del interior de la Tierra desde el espacio, posibilitando el estudio en detalle de la composición y los procesos internos terrestres, y el aumento de nuestro conocimiento de los procesos atmosféricos y la circulación oceánica que afecta al clima y a las condiciones meteorológicas.",
+  "secciones": [
+    {
+      "titulo": "Objetivos científicos",
+      "nivel": 2,
+      "texto": "Objetivos primarios:\nDinámica de núcleo de la Tierra, procesos de la geodinamo, e interacción núcleo-manto.\nMagnetización litosférica y su interpretación geológica.\nConductividad eléctrica del manto en 3D.\nLas corrientes que fluyen en la magnetosfera e ionosfera.\nObjetivos secundarios:\nIdentificación de la circulación de océano por su signatura magnética\nCuantificación del forzamiento magnético de la atmósfera superior"
+    },
+    {
+      "titulo": "Descubrimientos y aplicaciones",
+      "nivel": 2,
+      "texto": "En diciembre de 2016, científicos anunciaron que gracias a los datos de los satélites de la misión SWARM, habían descubierto una característica nueva en el núcleo exterior de la Tierra. Una corriente en chorro de hierro líquido que fluye rápidamente a razón de 50 km al año."
+    }
+  ],
+  "num_palabras": 226
+}

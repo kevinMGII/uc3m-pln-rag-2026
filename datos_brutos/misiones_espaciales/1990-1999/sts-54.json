@@ -1,0 +1,56 @@
+{
+  "titulo": "STS-54",
+  "titulo_wikipedia_en": "STS-54",
+  "fecha_lanzamiento": "1993-01-13",
+  "año_lanzamiento": 1993,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/STS-54",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Otros nombres": "Sistema de Transporte Espacial-54",
+    "Tipo de misión": "Despliegue de satélites TDRS-F\nInvestigación tecnológica",
+    "Operador": "NASA",
+    "Distancia recorrida": "2.501.277 mi",
+    "Órbitas completadas": "96",
+    "Masa en el aterrizaje": "92988 kg",
+    "Masa de la carga útil": "18559 kg",
+    "Tripulación": "John Casper; Donald R. McMonagle; Mario Runco Jr.; Gregory J. Harbaugh; Susan Helms",
+    "Fecha de lanzamiento": "13 de enero de 1993, 13:59:30 UTC (8:59:30 am EST)",
+    "Lugar de lanzamiento": "Kennedy, LC-39B",
+    "Contratista del lanzamiento": "Rockwell Internacional",
+    "Fecha de aterrizaje": "19 de enero de 1993, 13:37:47 UTC (8:37:47 am EST)",
+    "Lugar de aterrizaje": "Kennedy, SLF Runway 33",
+    "Sistema de referencia orbital": "Órbita geocéntrica",
+    "Régimen orbital": "Órbita terrestre baja",
+    "Periapsis": "302 km",
+    "Apoapsis": "309 km",
+    "Inclinación orbital": "28,45 grados",
+    "Periodo orbital": "90,60 minutos",
+    "Instrumentos": "Aparatos comerciales generales de bioprocesamiento (CGPA); División de Cromosomas y Células Vegetales; Espectrómetro Difuso de Rayos X (DXS); Experimento de Rodentes Fisiológicos y Anatómicos (PARE); Equipo de Medición de Aceleración del Espacio (SAMS); Experimento de Combustión de Superficie Sólida (SSCE)",
+    "Actividades extravehiculares (EVA)": "1",
+    "Duración de las EVA": "4h, 28m",
+    "Programa": "Programa de transporte espacial",
+    "Misión anterior": "STS-53 (52)",
+    "Misión siguiente": "STS-56 (54)"
+  },
+  "resumen": "STS-54 fue una misión del Sistema de Transporte Espacial (Space Shuttle) de la NASA usando el Space Shuttle Endeavour. Este fue el tercer vuelo de Endeavour, y fue lanzado el 13 de enero de 1993, y Endeavour regresó al Centro Espacial Kennedy el 19 de enero de 1993.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Aspectos destacados de la misión",
+      "nivel": 2,
+      "texto": "La carga útil principal era el quinto satélite TDRS, TDRS-F, que se desplegó el primer día de la misión. Más tarde fue transferido con éxito a su órbita apropiada por la Etapa Superior Inercial (IUS). También se llevó a la órbita en la bahía de carga útil un experimento Hitchhiker llamado Espectrómetro Difuso de Rayos X (DXS). Este instrumento recogía datos sobre la radiación de rayos X de fuentes difusas en el espacio profundo.\nEntre otras cargas útiles para probar los efectos de la microgravedad cabe citar el equipo comercial general de bioprocesamiento (CGPA) para las ciencias de la vida; la División de Cromosomas y Celdas Vegetales en el Experimento Espacial (CHROMEX) para estudiar el crecimiento de las plantas; el experimento de roedores fisiológicos y anatómicos (PARE) para examinar el sistema esquelético y la adaptación de los huesos al vuelo espacial; el equipo de medición de la aceleración del espacio (SAMS) para medir y registrar el entorno de aceleración de la microgravedad de los experimentos de la mitad de la cubierta; y el experimento de combustión de superficie sólida (SSCE) para medir la velocidad de propagación de las llamas y la temperatura del papel filtro ardiente.\nAdemás, en el quinto día, los especialistas de la misión Mario Runco Jr. y Gregory J. Harbaugh pasó casi 5 horas en la bahía de carga abierta realizando una serie de tareas de caminata espacial diseñadas para aumentar el conocimiento de la NASA de trabajar en el espacio. Ellos probaron sus habilidades para moverse libremente en la bahía de carga, subir a las restricciones de los pies sin usar sus manos y simularon llevar objetos grandes en el ambiente de microgravedad. El EVA se completó después de 4 horas, 28 minutos.\nEl EVA fue una adición tardía al plan de misión como parte de los objetivos de la NASA para perfeccionar las habilidades de EVA necesarias para el montaje de hardware anticipando la Estación Espacial Internacional.\nLa misión terminó el 19 de enero de 1993, con un aterrizaje en el Kennedy Space Center."
+    }
+  ],
+  "num_palabras": 387
+}

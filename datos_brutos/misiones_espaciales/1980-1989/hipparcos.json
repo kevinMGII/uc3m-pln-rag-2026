@@ -1,0 +1,25 @@
+{
+  "titulo": "Hipparcos",
+  "titulo_wikipedia_en": "Hipparcos",
+  "fecha_lanzamiento": "1989-08-08",
+  "año_lanzamiento": 1989,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Telescopio espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Hipparcos",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {},
+  "resumen": "Hipparcos (The High Precision Parallax Collecting Satellite) fue un satélite astrométrico lanzado por la Agencia Espacial Europea (ESA) y dedicado a medir el paralaje y los movimientos propios de más de 2,5 millones de estrellas a menos de 150 pc de la Tierra. Los resultados se publicaron en forma de un catálogo estelar conocido como Catálogo Tycho.\nEl proyecto Hipparcos fue propuesto en 1980. El satélite fue lanzado por un cohete Ariane 4 el 18 de agosto de 1989. La misión se dio por concluida el 17 de agosto de 1993.",
+  "secciones": [
+    {
+      "titulo": "Catálogos publicados",
+      "nivel": 2,
+      "texto": "El catálogo final de Hipparcos fue el resultado de la comparación crítica y la fusión de los dos análisis (consorcios NDAC y FAST), y contiene 118 218 entradas (estrellas o estrellas múltiples), correspondientes a un promedio de unas tres estrellas por grado cuadrado en todo el cielo. La precisión mediana de los cinco parámetros astrométricos (Hp <9 mag) excedió los objetivos originales de la misión, y están entre 0,6-1,0 msa. Unas 20 000 distancias se determinaron a mejor que 10 %, y 50 000 a mejor que 20 %. La relación inferida de errores externos a estándar es ≈1,0-1,2, y los errores sistemáticos estimados están por debajo de 0,1 msa. El número de estrellas dobles o múltiples resueltas o sospechadas es de 23 882. Las observaciones fotométricas dieron una fotometría de varias épocas con un número medio de 110 observaciones por estrella, y una precisión fotométrica mediana (Hp <9 mag) de 0,0015 mag, con 11 597 entradas, fue identificada como variable o posiblemente variable.\nPara los resultados del mapeador de estrellas, el análisis de datos fue llevado a cabo por el Tycho Data Analysis Consortium (TDAC). El catálogo de Tycho comprende más de un millón de estrellas con 20-30 milisegundos de arco de astrometría y dos colores (banda B y V) fotometría.\nLos catálogos finales de Hipparcos y Tycho se completaron en agosto de 1996. Los catálogos fueron publicados por la ESA en nombre de los equipos científicos en junio de 1997.\nUn análisis más extenso de los datos del mapeador de estrellas (Tycho) extrajo estrellas débiles adicionales de la corriente de datos. Combinado con las viejas observaciones de la placa fotográfica realizadas varias décadas antes como parte del programa del catálogo de Astrographic, el catálogo de Tycho-2 de más de 2,5 millones de estrellas (y totalmente que substituye el catálogo original de Tycho) fue publicado en 2000.\nLos catálogos Hipparcos y Tycho-1 se utilizaron para crear el Atlas de estrellas del milenio: un atlas de todo el cielo de un millón de estrellas a la magnitud visual 11. También se incluyen unos 10 000 objetos no estelares para complementar los datos del catálogo.\nEntre 1997 y 2007, continuaron las investigaciones sobre efectos sutiles en la actitud del satélite y la calibración del instrumento. Se estudiaron varios efectos en los datos que no se habían explicado completamente, como las discontinuidades de la fase de exploración y los saltos de actitud inducidos por micrometeoróticos. Una re-reducción de los pasos asociados del análisis se llevó a cabo finalmente. Esto ha llevado a una precisión astrométrica mejorada para estrellas más brillantes que Hp = 9,0 mag, alcanzando un factor de alrededor de tres para las estrellas más brillantes (Hp <4,5 mag), al tiempo que subraya la conclusión de que el catálogo de Hipparcos publicado originalmente es generalmente confiable dentro del Precisiones citadas.\nTodos los datos del catálogo están disponibles en línea desde el Centro de Datos astronómicos de Estrasburgo."
+    }
+  ],
+  "num_palabras": 577
+}

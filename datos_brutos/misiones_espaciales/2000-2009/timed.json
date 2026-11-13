@@ -1,0 +1,42 @@
+{
+  "titulo": "TIMED",
+  "titulo_wikipedia_en": "TIMED",
+  "fecha_lanzamiento": "2001-12-07",
+  "año_lanzamiento": 2001,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión heliofísica"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/TIMED",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Observación terrestre",
+    "Operador": "NASA",
+    "Fecha de lanzamiento": "7 de diciembre de 2001",
+    "Lugar de lanzamiento": "Base Aérea de Vandenberg",
+    "Vehículo de lanzamiento": "Delt",
+    "ID NSSDC": "2001-055B",
+    "Masa en el lanzamiento": "660 kg",
+    "Periapsis": "623 km",
+    "Apoapsis": "624,2 km",
+    "Inclinación orbital": "74,1 grados",
+    "Periodo orbital": "97 minutos"
+  },
+  "resumen": "TIMED (acrónimo de Thermosphere Ionosphere Mesosphere Energetics and Dynamics) es un satélite artificial de la NASA dedicado al estudio de la ionosfera y termosfera terrestres. Fue lanzado el 7 de diciembre de 2001 desde la Base Aérea de Vandenberg mediante un cohete Delta.",
+  "secciones": [
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "La misión de TIMED era la de investigar los procesos físicos y químicos que tienen lugar en las capas más altas de la atmósfera, a alturas de entre 60 y 180 km, una zona de difícil estudio debido a que está demasiado alta como para ser estudiada mediante globos y demasiado baja como para ser estudiada eficientemente con satélites."
+    },
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "El satélite llevaba cuatro experimentos:\nSEE (Solar EUV Experiment, Experimento de Ultravioletas Extremos Solares)\nTIDI (TIMED Doppler Interferometer, Interferómetro Doppler de TIMED)\nGUVI (Global Ultraviolet Imager, Cámara Ultravioleta Global)\nSABER (Sounding of the Atmosphere using Broadband Emission Radiometry, Sondeo de la Atmósfera mediante Radiometría de Emisión de Banda Ancha)\nLa masa total del satélite es de 660 kg."
+    }
+  ],
+  "num_palabras": 160
+}

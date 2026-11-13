@@ -1,0 +1,20 @@
+{
+  "titulo": "Luna 2",
+  "titulo_wikipedia_en": "Luna 2",
+  "fecha_lanzamiento": "1959-09-12",
+  "año_lanzamiento": 1959,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración lunar",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Luna_2",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {},
+  "resumen": "El Luna 2 (en ruso: Луна-2) fue la primera sonda espacial del programa Luna de la Unión Soviética lanzada en dirección a la Luna, y fue la primera sonda humana que impactó en su superficie. La sonda fue lanzada el 12 de septiembre de 1959 desde el Cosmódromo de Baikonur y llegó a la luna el 13 de septiembre del mismo año a la zona conocida como Mare Imbrium.\nEsta sonda, de 390 kg de peso y un diámetro de 0.9 m, estaba destinada a estrellarse con la Luna, lográndolo con éxito en la posición, correspondiente a la región denominada Palus Putredinis, el 14 de septiembre de 1959, a las 21:02h; dos días después de su lanzamiento mediante un cohete Vostok.\nFue la primera misión lunar exitosa. El Luna 2 en el diseño era similar al Luna 1, una sonda esférica con antenas y partes de los instrumentos que sobresalían. La instrumentación también era semejante, incluyendo los mostradores de centelleo, los contadores Geiger, el magnetómetro, los detectores Cherenkov, y los detectores de micrometeoritos. No había ningún sistema de propulsión en el Luna 2.",
+  "secciones": [],
+  "num_palabras": 183
+}

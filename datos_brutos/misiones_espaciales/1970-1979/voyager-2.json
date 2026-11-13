@@ -1,0 +1,68 @@
+{
+  "titulo": "Voyager 2",
+  "titulo_wikipedia_en": "Voyager 2",
+  "fecha_lanzamiento": "1977-08-20",
+  "año_lanzamiento": 1977,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión heliofísica",
+    "Exploración de los planetas exteriores",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Voyager_2",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Activo",
+    "Tipo de misión": "Sonda interplanetaria e interestelar",
+    "Operador": "NASA",
+    "Fecha de lanzamiento": "20 de agosto de 1977",
+    "Sistema de referencia orbital": "Interestelar"
+  },
+  "resumen": "La sonda espacial Voyager 2 fue lanzada el 20 de agosto de 1977 desde Cabo Cañaveral, Estados Unidos, en un cohete Titán-Centauro. Es idéntica a su sonda hermana, la Voyager 1. Ambas sondas habían sido concebidas inicialmente como parte del programa Mariner con los nombres de Mariner 11 y Mariner 12, respectivamente.\nEn 1977, Voyager 1 y Voyager 2 iniciaron un largo viaje desde la Tierra hacia los lejanos planetas exteriores. Equipadas con instrumentos más modernos que las sondas anteriores, las sondas Voyager proporcionaron a los astrónomos visitas espectaculares de los cuatro planetas que visitaron. Fotografiaron, además, muchos de los satélites o lunas de estos planetas, así como los anillos que se encuentran alrededor de Júpiter, Urano y Neptuno\nA diferencia de su hermana, la Voyager 2 adoptó una trayectoria diferente en su encuentro con Saturno, sacrificando la cercanía a Titán, pero adoptando un mayor impulso gravitacional en su viaje hacia Urano y Neptuno. La sonda alcanzó su mayor cercanía con estos planetas en los años 1986 y 1989, respectivamente.\nA pesar de que muchos de sus instrumentos se encuentran fuera de servicio, aún continúa inspeccionando los alrededores del sistema solar. Tardará unos 40 000 años en alcanzar la estrella Ross 248, de la que pasará a una distancia de 1,7 años luz.\nSituada a una distancia de 125,32 UA (1,814×1010 km) el 21 de diciembre de 2020, se ha convertido en uno de los objetos más distantes que han creado los humanos. En la actualidad la única antena disponible para enviar órdenes a la sonda Voyager 2 es la DSS 43, la antena australiana de la infraestructura Red del Espacio Profundo. Desde marzo de 2020 se suspendieron las comunicaciones con la sonda pues era necesario realizar una serie de mejoras en la antena. La antena y la sonda volvieron a retomar el contacto a principios de 2021.\nEl 10 de diciembre de 2007 reveló que el sistema solar no tiene una forma esférica, sino ovalada, debido al campo magnético interestelar del espacio profundo.\nEl 5 de noviembre de 2018 salió de la heliopausa, evento registrado por un Instrumento de Plasma que midió una fuerte caída de las partículas del viento solar.",
+  "secciones": [
+    {
+      "titulo": "Planificación y lanzamiento",
+      "nivel": 2,
+      "texto": "La sonda Voyager 2 fue lanzada con el fin de aprovechar las posiciones de Júpiter y Saturno, así como la entonces reciente técnica de asistencia gravitatoria. De esta forma, una misma misión podría visitar varios planetas con el ahorro que ello suponía.\nLa Voyager 2 fue lanzada el 20 de agosto de 1977 desde el Centro Espacial Kennedy de la NASA en Cabo Cañaveral a bordo de un cohete Titan IIIE.\nEl personal de tierra estuvo tan concentrado en un problema ocurrido durante el lanzamiento de su gemela, la Voyager 1, que olvidó enviar a la Voyager 2 un código de activación de su antena de alta ganancia. Por suerte, el personal pudo contactar con la sonda a través de la antena de baja ganancia y activarlo."
+    },
+    {
+      "titulo": "Desarrollo de la misión",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Júpiter",
+      "nivel": 3,
+      "texto": "El máximo acercamiento a Júpiter tuvo lugar el 9 de julio de 1979, a 570 000 km sobre las nubes de las capas altas de la atmósfera del planeta.\nAunque los astrónomos habían estudiado Júpiter desde telescopios en la Tierra desde hacía siglos, los científicos se sorprendieron de los descubrimientos realizados por la sonda.\nLas cámaras de la nave revelaron una atmósfera de hidrógeno y helio cuyas nubes presentaban una dinámica mucho más compleja de lo que habían imaginado anteriormente. La sonda descubrió también que el planeta emitía mucha más energía de la que recibía del Sol, lo que podría justificar una actividad atmosférica tan intensa que permitía la existencia de fenómenos como la Gran Mancha Roja.\nLa existencia de vulcanismo en Ío (luna) fue, probablemente, uno de los descubrimientos más inesperados de la misión realizada con anterioridad por la Voyager 1 unos meses antes. En conjunto, las dos sondas registraron más de nueve erupciones, y hay evidencias de que hubo más en el intervalo de tiempo comprendido entre ambas visitas.\nLa Voyager 1 había descubierto en la luna Europa largas series de estrías que los científicos habían interpretado como fallas procedentes de procesos tectónicos. Sin embargo, las imágenes de mayor resolución enviadas por la Voyager 2 revelaron que se trataba de fracturas en una capa de hielo que cubre un océano interior.\nLa sonda descubrió que el satélite Ganímedes, la mayor luna del sistema solar, presentaba dos tipos bien diferenciados de terreno, uno cubierto de cráteres y otro estriado, sugiriendo que la costra helada de esta luna pudiera haber sufrido fenómenos tectónicos.\nCalisto presentaba una corteza de hielo muy antigua con muchos cráteres y anillos remanentes de grandes impactos. Los mayores cráteres aparentemente habían sido borrados por el flujo de la corteza de hielo a lo largo de los tiempos geológicos. No hay relieves topográficos aparentes de estos inmensos impactos, salvo una coloración diferente y los restos de anillos concéntricos.\nSe descubrió un pequeño anillo alrededor del planeta, así como los satélites Adrastea, Metis y Tebe."
+    },
+    {
+      "titulo": "Saturno",
+      "nivel": 3,
+      "texto": "El máximo acercamiento de la sonda a Saturno tuvo lugar el 25 de agosto de 1981, cuando la sonda investigó las capas superiores de la atmósfera del planeta.\nSus mediciones revelaron que en los máximos niveles de presión (7 kilopascales) la temperatura era de 70K (-203 °C). El polo podría estar 10 K más frío, si bien esto podría ser estacional.\nTras sobrevolar Saturno, la plataforma de la cámara de la Voyager 2 se bloqueó, poniendo en peligro los planes de continuar la misión hacia Urano y Neptuno. Había tres años hasta llegar a Urano, por lo que hubo tiempo de sobra para estudiar, entender y resolver el problema. Finalmente, luego de pruebas exhaustivas, se entendió que la causa era el escaso lubricante que llegaba. Se solucionó haciendo que nunca girara a su velocidad máxima, (1°/s) sino solo a una velocidad de 0,333 grados por segundo, o 0,083 grados por segundo. De esa forma la plataforma pudo seguir siendo utilizada."
+    },
+    {
+      "titulo": "Urano",
+      "nivel": 3,
+      "texto": "El máximo acercamiento a Urano tuvo lugar el 24 de enero de 1986 a 81 500 km de las capas más altas de la atmósfera.\nLa Voyager 2 descubrió diez lunas antes desconocidas, estudió la atmósfera del planeta, resultado de la inclinación del eje de rotación (97,77°) e investigó el sistema de anillos.\nLa luna Miranda resultó ser uno de los cuerpos más sorprendentes. La Voyager 2 descubrió al sobrevolarla cañones de 20 km de profundidad y una mezcla de superficies nuevas y viejas. Las cinco mayores lunas parecieron ser agregados de roca y hielo, como las lunas de Saturno.\nEl análisis de los anillos reveló que eran diferentes de los de Júpiter y Saturno, pudiendo ser relativamente recientes.\nLa Voyager 2 descubrió uno de los efectos más sorprendentes de la inclinación del planeta: el campo magnético está inclinado 60° respecto al eje de rotación planetario. El campo magnético es arrastrado por la rotación del planeta siguiendo un movimiento de sacacorchos.\nNo se conocía la existencia de campo magnético en el planeta antes de la llegada de la sonda. Su intensidad es semejante a la del campo magnético de la Tierra, y su orientación hace pensar que se forma a profundidades en las que el agua puede actuar como conductor.\nLa sonda descubrió, asimismo, que Urano es un tipo de planeta gigante muy diferente de Júpiter y Saturno. Su atmósfera no está formada por hidrógeno y helio, sino por metano y amoníaco. El planeta es de menor tamaño que Júpiter y Saturno, y los investigadores sospechan que en su interior puede haber océanos de agua y hielo."
+    },
+    {
+      "titulo": "Neptuno",
+      "nivel": 3,
+      "texto": "La máxima aproximación a Neptuno fue de 4950 km y tuvo lugar el 25 de agosto de 1989. Al ser el último gran planeta que la sonda visitaría, se decidió hacer un vuelo cercano a la luna Tritón, acercándose hasta los 39 800 km de forma similar a como la Voyager 1 sobrevoló Titán.\nLa sonda descubrió que el planeta tenía en su atmósfera una gran mancha oscura, si bien esta podría haber desaparecido más tarde, según muestran las imágenes del telescopio Hubble. Originalmente se pensó que podría ser una gran nube, aunque posteriormente se postuló que era un agujero en la capa de nubes que cubren el planeta.\nPese a encontrarse en los límites exteriores del sistema solar, donde la radiación solar es más débil, Neptuno desafió a los científicos mostrando unos fuertes vientos."
+    },
+    {
+      "titulo": "Futuro de la sonda",
+      "nivel": 2,
+      "texto": "Desde que su misión planetaria terminara, la Voyager 2 ha pasado a ser una sonda interestelar que la NASA piensa utilizar para medir las condiciones más allá de la heliosfera.\nAl igual que su gemela la Voyager 1, en 2007 cruzó el frente de choque de terminación.\nEl 4 de noviembre de 2011, el personal de la Red del Espacio Profundo de la NASA envió comandos a la Voyager 2 para activar el propulsor de reserva que controla la dirección de la nave espacial. Dicha estrategia permitió a esta nave reducir la cantidad de energía necesaria para operar usando propulsores no usados anteriormente, y al reducir el consumo de energía, su vida útil se podría alargar incluso otra década. La nave transmitió los resultados de la maniobra el 13 de noviembre de 2011 y se recibieron en la Tierra el 14, un día más tarde.\nEl 10 de diciembre de 2007 descubrió que el sistema solar no tiene una forma esférica, sino ovalada, debido al campo magnético interestelar del espacio profundo. Según un comunicado de la NASA, al comparar los datos de diferentes instrumentos a bordo de la nave espacial, los científicos de la misión determinaron que la sonda cruzó el borde exterior de la heliosfera el 5 de noviembre de 2018. Este límite, llamado heliopausa, es donde el viento solar caliente y tenue se encuentra con el medio interestelar frío y denso. Su gemela, la Voyager 1, cruzó este límite en 2012, pero la Voyager 2 lleva un instrumento de trabajo (PLS, subsistema de plasma) que proporcionará observaciones únicas respecto a esta puerta de entrada al espacio interestelar. El subsistema de plasma estudia las propiedades de los gases ionizados muy calientes que existen en las regiones interplanetarias. Un detector de plasma apunta en la dirección de la Tierra y el otro apunta a 180° del primero.\nEl 8 de julio de 2019, la NASA informó que apagó los calentadores de la Voyager 2 para reducir el consumo de corriente eléctrica y se planea hacer lo mismo con la Voyager 1.\nEl 5 de noviembre de 2019, según cinco estudios publicados en Nature Astronomy, se confirmó que la Voyager 2 es la segunda nave en abandonar la heliosfera después de que la Voyager 1 lo hiciera en 2012. Mientras que esta lo hizo marcando 122,6 UA, la Voyager 2, con una trayectoria diferente, estaba a 119,7 UA cuando reveló un aumento muy marcado de la densidad de plasma, en comparación con las bajas densidades que se miden dentro de la heliosfera, señal inequívoca de que la sonda la había abandonado.\nA fecha 31 de agosto de 2021 la sonda se encuentra a 19 062 126 485 km, a 127,42 UA, a 17 horas, 39 minutos, y 44 segundos luz\nSe espera que la Voyager 2 siga transmitiendo mensajes de radio por lo menos hasta el año 2025."
+    },
+    {
+      "titulo": "Disco de oro de las Voyager",
+      "nivel": 2,
+      "texto": "El disco de oro de las Voyager (titulado en inglés como \"The Sounds of Earth\", en castellano como Sonidos de la Tierra) son dos discos fonográficos de cobre bañado en oro y de 30 cm de diámetro que acompañan a las sondas espaciales Voyager, lanzadas en 1977 y que tardarán 40 000 años en alcanzar las proximidades de la estrella más cercana a nuestro sistema solar.\nComo las sondas son muy pequeñas comparadas con la inmensidad del espacio interestelar, la probabilidad de que una civilización que viaja por el espacio se encontrase con ellas es muy pequeña, sobre todo porque las sondas con el tiempo dejarán de emitir cualquier tipo de radiación electromagnética."
+    }
+  ],
+  "num_palabras": 1978
+}

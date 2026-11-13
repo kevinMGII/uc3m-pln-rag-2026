@@ -1,0 +1,68 @@
+{
+  "titulo": "Shenzhou 16",
+  "titulo_wikipedia_en": "Shenzhou 16",
+  "fecha_lanzamiento": "2023-05-30",
+  "año_lanzamiento": 2023,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Shenzhou_16",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Transporte de la tripulación de la estación espacial Tiangong",
+    "Operador": "Agencia Espacial tripulada de China",
+    "Tipo de nave": "Shenzhou",
+    "Fabricante": "China Aerospace Science and Technology Corporation",
+    "Tripulación": "Jing Haipeng\nZhu Yangzhu\nGui Haichao",
+    "Actividades extravehiculares (EVA)": "1",
+    "Duración de las EVA": "7 horas, 55 minutos",
+    "Fecha de lanzamiento": "30 de mayo de 2023, 01:31:13 UTC (09:31:13 CST)",
+    "Vehículo de lanzamiento": "Largo marzo 2F/G (Y16)",
+    "Lugar de lanzamiento": "Jiuquan, LA-4/SLS-1",
+    "Contratista del lanzamiento": "Academia China de Tecnología de Vehículos de Lanzamiento",
+    "Fecha de aterrizaje": "31 de octubre de 2023, 00:11:32 UTC",
+    "Lugar de aterrizaje": "Mongolia Interior",
+    "Sistema de referencia orbital": "Órbita geocéntrica",
+    "Régimen orbital": "Órbita terrestre baja",
+    "Periapsis": "380 km",
+    "Apoapsis": "385 km",
+    "Inclinación orbital": "41.47°",
+    "Acoplamiento": "destino de atraque: estación espacial Tiangong | puerto de atraque: Tianhe nadir | fecha de atraque: 30 de mayo de 2023, 08:29 UTC | fecha de atraque: 30 de octubre de 2023, 12:37 UTC",
+    "Programa": "Programa Shenzhou",
+    "Misión anterior": "Shenzhou 15",
+    "Misión siguiente": "Shenzhou 17"
+  },
+  "resumen": "Shenzhou 16 fue un vuelo espacial chino a la estación espacial Tiangong lanzado el 30 de mayo de 2023. La misión llevaba una tripulación de tres tripulantes a bordo de una nave espacial Shenzhou. Fue el undécimo vuelo espacial chino tripulado y la decimosexta misión del programa Shenzhou.\nLa misión fue el primer vuelo de la \"fase de aplicación\" de Tiangong tras la finalización del montaje de la estación. Su tripulación incluía a Gui Haichao, profesor e investigador de la Universidad de Beihang, que se convirtió en el primer científico civil en volar en una misión de Shenzhou.",
+  "secciones": [
+    {
+      "titulo": "Antecedentes",
+      "nivel": 2,
+      "texto": "Shenzhou 16 fue el quinto vuelo espacial a la estación espacial de Tiangong, con una duración de misión de aproximadamente cinco meses.\nLa nave terminó la construcción y las pruebas en diciembre de 2022, y antes del lanzamiento se mantuvo en un estado de preparación cercana si era necesario como bote salvavidas para la tripulación de Shenzhou 15."
+    },
+    {
+      "titulo": "Misión",
+      "nivel": 2,
+      "texto": "El vuelo fue lanzado desde el Centro de Lanzamiento de Satélites Jiuquan el 30 de mayo de 2023 a las 9:31 AM hora estándar de China (01:31 UTC), tras el lanzamiento de la nave de carga Tianzhou 6 y cerca del final de la misión Shenzhou 15. Poco menos de 7 horas después del lanzamiento, la nave espacial se atracó con el puerto de acoplamiento del módulo central de Tianhe.\nAl entrar en la estación, la tripulación fue recibida y realizó una ceremonia de entrega con la tripulación de Shenzhou 15, con la que compartirían una misión de cuatro días antes de la salida de la tripulación anterior el 3 de junio."
+    },
+    {
+      "titulo": "Paseo espacial",
+      "nivel": 3,
+      "texto": "El 20 de julio de 2023, la primera caminata espacial programada de Shenzhou 16 fue realizada por Jing Haipeng y Zhu Yangzhu a través de la esclusa de aire del módulo de laboratorio Wentian (Zhu Yangzhu siendo el primer ingeniero de vuelo chino en realizar una caminata espacial), con Gui Haichao ayudando a la pareja desde el interior del módulo central de Tianhe. La tripulación completó una variedad de tareas, incluyendo la instalación y elevación del marco de apoyo para una cámara panorámica fuera del módulo central de Tiangongs Tianhe y el desbloqueo y levantamiento de dos cámaras panorámicas fuera del módulo de experimento Mengtian. La caminata espacial duró 7 horas y 55 minutos, batiendo el récord de duración de EVA anterior de 7 horas y 6 minutos en Shenzhou 15."
+    },
+    {
+      "titulo": "Volver",
+      "nivel": 3,
+      "texto": "Shenzhou 16 regresó a la Tierra el 30 de octubre de 2023, aterrizando en el desembarco de Dongfeng en el desierto de Gobi en Mongolia Interior. La filmación del aterrizaje mostró un agujero aparente en el paracaídas de descenso y la cápsula cayendo en el impacto, pero la tripulación estaba ilesa."
+    },
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Shenzhou 16 marcó el cuarto viaje del Comandante Jing Haipeng al espacio, un nuevo récord para un taikonaut chino. El especialista en carga útil Gui Haichao, profesor de la Universidad de Beihang, se convirtió en el primer civil chino en el espacio. Gui Haichao y Zhu Yangzhu también fueron los primeros miembros del Grupo Chino 3 en volar al espacio."
+    }
+  ],
+  "num_palabras": 510
+}

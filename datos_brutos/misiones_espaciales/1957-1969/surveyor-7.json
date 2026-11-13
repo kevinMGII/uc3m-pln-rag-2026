@@ -1,0 +1,51 @@
+{
+  "titulo": "Surveyor 7",
+  "titulo_wikipedia_en": "Surveyor 7",
+  "fecha_lanzamiento": "1968-01-07",
+  "año_lanzamiento": 1968,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración lunar",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Surveyor_7",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Módulo de aterrizaje lunar",
+    "Operador": "NASA",
+    "Fabricante": "Hughes Aircraft",
+    "Fecha de lanzamiento": "Cabo Cañaveral LC-36A, 7 de enero de 1968",
+    "Vehículo de lanzamiento": "Atlas SLV-3C Centaur-D",
+    "Duración de la misión": "65 horas",
+    "ID NSSDC": "1968-001A",
+    "Masa en el lanzamiento": "1.039 kilogramos",
+    "Datos interplanetarios": "tipo: acercamiento | objeto: Luna"
+  },
+  "resumen": "Surveyor 7 fue el séptimo y último módulo de aterrizaje lunar del programa estadounidense Surveyor no tripulado enviado para explorar la superficie lunar. Fue lanzado el 7 de enero de 1968. Transmitió a la Tierra un total de 21.091 imágenes.\nSurveyor 7 fue la quinta y última nave espacial de la serie Surveyor para lograr un aterrizaje lunar suave. Los objetivos de esta misión eran realizar un aterrizaje suave (en un área bien separada de la maria para proporcionar un tipo de fotografía del terreno y una muestra lunar significativamente diferentes de las de otras misiones topográficas); obtener imágenes de TV post-aterrizaje; determinar las abundancias relativas de los elementos químicos; manipular el material lunar; obtener datos de dinámica de aterrizaje; y obtener datos de reflectividad térmica y radar. Esta nave espacial tenía un diseño similar al de los instrumentos anteriores, pero llevaba más equipamiento científico, incluida una cámara de televisión con filtros polarizadores, un muestreador de superficie, imanes de barra en dos almohadillas para las patas, dos imanes de herradura en la cuchara de superficie y espejos auxiliares. De los espejos auxiliares, tres se usaron para observar áreas debajo de la nave espacial, uno para proporcionar vistas estereoscópicas del área de la muestra de superficie, y siete para mostrar el material lunar depositado en la nave espacial. La sonda aterrizó en la superficie lunar el 10 de enero de 1968, en el borde exterior del cráter Tycho. Las operaciones comenzaron poco después del aterrizaje suave y se terminaron el 26 de enero de 1968, 80 horas después de la puesta del sol. El 20 de enero, mientras la nave todavía estaba a la luz del día, la cámara de TV observó claramente dos rayos láser apuntando desde el lado nocturno de la media luna, uno desde el Observatorio Nacional Kitt Peak, Tucson, Arizona, y el otro en Table Mountain en Wrightwood, California.\nLas operaciones en el segundo día lunar ocurrieron del 12 al 21 de febrero de 1968. Los objetivos de la misión se cumplieron completamente con las operaciones de la nave espacial. El daño de la batería se sufrió durante la primera noche lunar y el contacto de transmisión fue posteriormente esporádico. El contacto con Surveyor 7 se perdió el 21 de febrero de 1968.\nSe planeó que fuera visitado por la misión cancelada del Apolo 20, sin embargo Skylab y los recortes presupuestarios posteriores lo impidieron.\nSurveyor 7 fue la primera sonda que detectó el tenue resplandor en el horizonte lunar después del anochecer, que ahora se piensa que es luz reflejada por el polvo de la luna.",
+  "secciones": [
+    {
+      "titulo": "Instrumentos científicos",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Televisión",
+      "nivel": 3,
+      "texto": "La cámara de TV consistía en un tubo vidicón, lentes de distancia focal de 25 y 100 mm, obturadores, filtros polarizadores e iris montados casi verticalmente y superados por un espejo que podía ajustarse con motores paso a paso para moverse tanto en azimut como en elevaciones. Los filtros de polarización sirvieron como analizadores para la detección de mediciones de la componente de luz polarizada linealmente dispersada desde la superficie lunar. La cobertura fotograma a fotograma de la superficie lunar proporcionó una vista de azimut de 360 grados y una vista en alzado de aproximadamente +90 grados sobre el plano normal al eje de la cámara A a -60 grados debajo de este mismo plano. Se usaron modos de operación de 600 líneas y 200 líneas. El modo de 200 líneas se transmitió a través de una antena omnidireccional y escaneó un cuadro cada 61,8 segundos. Una transmisión de video completa de cada imagen de 200 líneas requirió 20 segundos y utilizó un ancho de banda de 1,2 kHz. La mayoría de las transmisiones consistían en 600 imágenes de línea, que fueron telemetradas por una antena direccional. Los marcos fueron escaneados cada 3,6 segundos. Cada cuadro requirió nominalmente un segundo para ser leído desde el vidicón y utilizó un ancho de banda de 220 kHz para la transmisión. El rango dinámico y la sensibilidad de esta cámara fueron ligeramente menores que los de la cámara Surveyor 6. La resolución y la calidad fueron excelentes. Las imágenes de televisión se muestran en un monitor de escaneo lento cubierto con un fósforo de larga persistencia. La persistencia se seleccionó para coincidir de forma óptima con la velocidad de fotogramas máxima nominal. Se recibió un cuadro de identificación de TV para cada fotograma de TV entrante y se visualizó en tiempo real a una velocidad compatible con la de la imagen entrante. Estos datos se grabaron en una grabadora de cinta magnética de video y en una película de 70 mm. La cámara transmitió 20.961 imágenes durante el primer día lunar, del 10 de enero al 22 de enero de 1968. Del 12 de febrero al 14 de febrero, la cámara fue operada en el modo de 200 líneas debido a la pérdida de barrido horizontal en el modo de 600 líneas. Durante el segundo día lunar, se transmitieron 45 imágenes antes de que la pérdida de energía ocasionara la suspensión de la operación de la cámara."
+    },
+    {
+      "titulo": "Analizador de superficie de alfa-dispersión",
+      "nivel": 3,
+      "texto": "El analizador de superficie de dispersión alfa se diseñó para medir directamente la abundancia de los elementos principales de la superficie lunar. La instrumentación consistía en una fuente alfa (curio 242) colimada para irradiar una abertura de 10 mm de diámetro en el fondo del instrumento donde se encontraba la muestra y dos sistemas de detección de partículas cargadas paralelas pero independientes. Un sistema, que contiene dos sensores, detectó los espectros de energía de las partículas alfa dispersas desde la superficie lunar y el otro, que contiene cuatro sensores, detectó los espectros de energía de los protones producidos por reacción (alfa y protón) en el material de la superficie. Cada conjunto de detector se conectó a un analizador de altura de pulso. Un paquete de electrónica digital, ubicado en un compartimiento de la nave espacial, telemétrico continuamente señales a tierra cada vez que el experimento estaba en funcionamiento. Los espectros contenían información cuantitativa sobre todos los elementos principales en las muestras a excepción de hidrógeno, helio y litio. El experimento proporcionó 46 horas de datos acumulados a partir de tres mediciones de muestras de superficie lunar. Estas mediciones fueron de una porción de la superficie lunar local no perturbada, una roca lunar y un área extensamente surcada de arena de la superficie lunar. Los datos se obtuvieron durante el primer y segundo día lunar, del 12 al 23 de enero de 1968 y del 13 al 21 de febrero de 1968.\nEl instrumento de retrodispersión alfa no se implementó correctamente. Los controladores de la misión utilizaron con éxito la pinza de muestreo del suelo de la superficie para empujar el instrumento de retrodispersión alfa a la posición adecuada para llevar a cabo sus experimentos."
+    },
+    {
+      "titulo": "Muestreador de Superficie de Mecánica de Suelos",
+      "nivel": 3,
+      "texto": "El muestreador de superficies mecánicas del suelo fue diseñado para recoger, excavar, raspar y trinchar la superficie lunar, y transportar el material de la superficie lunar mientras se fotografiaba para poder determinar las propiedades de la superficie lunar. La muestra consistía principalmente en una pala con un contenedor, una cuchilla afilada y un motor eléctrico para abrir y cerrar el contenedor. El pie plano de la pala incorpora dos imanes de herradura rectangulares incrustados. La pala se montó en un brazo de pantógrafo que podría extenderse aproximadamente 1,5 m o retraerse cerca del accionamiento del motor de la nave espacial. El brazo también podría moverse desde un azimut de +40 grados a -72 grados o elevarse 130 mm con motores. También podría caerse sobre la superficie lunar bajo la fuerza proporcionada por la gravedad y un resorte. La pala se montó debajo de la cámara de televisión en una posición que le permitía llegar al instrumento de dispersión alfa en su posición desplegada y volver a desplegarlo en otra ubicación seleccionada. El instrumento realizó 16 pruebas de rodamientos, siete pruebas de excavación de zanjas y dos pruebas de impacto. También liberó el instrumento de dispersión alfa cuando no se desplegó en la superficie lunar, sombreó este instrumento y movió este instrumento para evaluar otras muestras. El rendimiento fue impecable durante 36 horas de operación entre el 11 de enero y el 23 de enero de 1968. El instrumento respondió a órdenes el 14 de febrero de 1968, que verificaron que había sobrevivido a la noche lunar. El sistema de energía, sin embargo, no pudo soportar ninguna operación."
+    }
+  ],
+  "num_palabras": 1385
+}

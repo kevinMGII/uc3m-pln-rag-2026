@@ -1,0 +1,44 @@
+{
+  "titulo": "Soyuz 30",
+  "titulo_wikipedia_en": "Soyuz 30",
+  "fecha_lanzamiento": "1978-06-27",
+  "año_lanzamiento": 1978,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Soyuz_30",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Masa en el lanzamiento": "6800 kg",
+    "Fecha de lanzamiento": "27 de junio de 1978",
+    "Nave": "Soyuz 7K-T",
+    "Fecha de aterrizaje": "5 de julio de 1978",
+    "Duración de la misión": "7,91 días",
+    "Programa": "Programa Soyuz",
+    "Misión anterior": "Soyuz 29",
+    "Misión siguiente": "Soyuz 31"
+  },
+  "resumen": "Soyuz 30 fue una misión de una nave Soyuz 7K-T lanzada el 27 de junio de 1978 desde el cosmódromo de Baikonur con dos cosmonautas a bordo hacia la estación espacial Salyut 6. En ella viajaba el segundo cosmonauta no soviético en el marco del programa Intercosmos.\nLa Soyuz 30 se acopló a la estación Salyut 6 para realizar diversos experimentos científicos y técnicos mientras estaba ocupada por la tripulación de la misión Soyuz 29. El cosmonauta del programa Intercosmos fue Mirosław Hermaszewski, de Polonia, que realizó diversos experimentos biológicos, de observación terrestre y para el estudio de las auroras polares.\nLa Soyuz 30 regresó el 5 de julio de 1978.\nDurante este vuelo espacial, se probaron nuevos equipos desarrollados en la URSS y los países socialistas de Europa del este (por ejemplo, el cosmonauta polaco M. Hermaszewski tenía un pulsómetro desarrollado en la planta de Varsovia; después de completar estas pruebas, su producción en masa comenzó en 1979).",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Pyotr Klimuk (Comandante)\nMirosław Hermaszewski (Especialista científico, polaco)"
+    },
+    {
+      "titulo": "Tripulación de respaldo",
+      "nivel": 2,
+      "texto": "Valery Kubasov (Comandante)\nZenon Jankowski (Especialista científico, polaco)"
+    },
+    {
+      "titulo": "Memoria",
+      "nivel": 2,
+      "texto": "La cápsula en que la tripulación regresó está expuesta en el Museo Polaco del Ejército, en Varsovia."
+    }
+  ],
+  "num_palabras": 192
+}

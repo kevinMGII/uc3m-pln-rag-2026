@@ -1,0 +1,42 @@
+{
+  "titulo": "Expedición 9",
+  "titulo_wikipedia_en": "Expedition 9",
+  "fecha_lanzamiento": "2004-04-21",
+  "año_lanzamiento": 2004,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Expedición_9",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Fecha de lanzamiento": "19 de abril de 2004 a las 03:19 UTC",
+    "Fecha de aterrizaje": "24 de octubre de 2004 a las 00:35 UTC",
+    "Duración de la misión": "187 d, 21 h y 16 min",
+    "Duración de las EVA": "15 h y 45 min",
+    "Órbitas completadas": "2.940",
+    "Distancia recorrida": "~121.802.083 km",
+    "Misión anterior": "Expedición 8",
+    "Misión siguiente": "Expedición 10",
+    "Nave de llegada": "Soyuz TMA-4",
+    "Nave de regreso": "Soyuz TMA-4",
+    "Programa": "Programa de la EEI",
+    "Acoplamiento": "objetivo acople: EEI | tipo acople: acople | tiempo acoplado: 185 d, 16 h y 4 min",
+    "Estación espacial": "Estación Espacial Internacional",
+    "Tipo de misión": "Expedición a la EEI",
+    "Fecha de inicio": "21 de abril de 2004, 05:01 UTC",
+    "Fecha de fin": "23 de octubre de 2004, 20:08 UTC"
+  },
+  "resumen": "La Expedición 9 fue la novena estancia de larga duración en la Estación Espacial Internacional.",
+  "secciones": [
+    {
+      "titulo": "Parámetros de la misión",
+      "nivel": 2,
+      "texto": "Perigeo: 384 km\nApogeo: 396 km\nInclinación: 51.6°\nPeríodo: 92 min\nAcoplamiento: Soyuz TMA-4 - 21 de abril de 2004, 05:01 UTC\nDesacoplamiento: Soyuz TMA-4 - 23 de octubre de 2004, 21:05 UTC\nTiempo acoplamiento: 185 d, 16 h y 4 min"
+    }
+  ],
+  "num_palabras": 57
+}

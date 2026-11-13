@@ -1,0 +1,56 @@
+{
+  "titulo": "Shenzhou 23",
+  "titulo_wikipedia_en": "Shenzhou 23",
+  "fecha_lanzamiento": "2026-05-24",
+  "año_lanzamiento": 2026,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Shenzhou_23",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Transporte de tripulación a la estación espacial Tiangong",
+    "Operador": "Agencia Espacial Tripulada de China",
+    "Duración de la misión": "(en curso)\n180 días (planificados)",
+    "Tipo de nave": "Shenzhou",
+    "Fabricante": "Corporación de Ciencia y Tecnología Aeroespacial de China",
+    "Actividades extravehiculares (EVA)": "1",
+    "Duración de las EVA": "5 horas, 30 minutos",
+    "Fecha de lanzamiento": "24 de mayo de 2026, 15:08 UTC (23:08 CST)",
+    "Vehículo de lanzamiento": "Long March 2F (Y23)",
+    "Lugar de lanzamiento": "Jiuquan, LA-4/SLS",
+    "Contratista del lanzamiento": "Academia China de Tecnología de Vehículos de Lanzamiento",
+    "Fecha de aterrizaje": "Noviembre de 2026 (previsto)",
+    "Lugar de aterrizaje": "Mongolia Interior (planificada)",
+    "Sistema de referencia orbital": "Órbita geocéntrica",
+    "Régimen orbital": "Órbita terrestre baja",
+    "Inclinación orbital": "41.5°",
+    "Programa": "Programa Espacial Tripulado de China",
+    "Misión anterior": "Shenzhou 22",
+    "Misión siguiente": "Shenzhou 24",
+    "Acoplamiento": "tipo acople: acople | objetivo acople: estación espacial Tiangong | puerto acople: Tianhe | fecha acople: 24 de mayo de 2026, 18:45 UTC | fecha desacople: Noviembre de 2026 (previsto) | tiempo acoplado: (en curso)"
+  },
+  "resumen": "Shenzhou 23 (chino: 神舟二十三号; pinyin: Shénzhōu èrshíèr-hào; lit. 'Barco Divino Número 23') es un vuelo espacial chino en curso para transportar a 3 taikonautas en una nave Shenzhou hacia y desde la estación espacial Tiangong. La misión es el decimoséptimo vuelo espacial tripulado chino y el vigésimo tercer vuelo en total del programa Shenzhou.",
+  "secciones": [
+    {
+      "titulo": "Antecedentes",
+      "nivel": 2,
+      "texto": "Originalmente se esperaba su lanzamiento alrededor de noviembre de 2026, pero el lanzamiento de Shenzhou 23 se retrasó hasta mayo de 2026 debido al lanzamiento anticipado de su predecesor Shenzhou 22. Es el undécimo vuelo tripulado a la estación espacial Tiangong y se espera que dure aproximadamente 6 meses."
+    },
+    {
+      "titulo": "Misión",
+      "nivel": 2,
+      "texto": "El 19 de enero de 2026, la Televisión Central de China informó que la nave Shenzhou 23 había llegado al Centro de Lanzamiento de Satélites de Jiuquan aproximadamente 2 meses antes de lo previsto original. También se espera que la nave para Shenzhou 24 esté terminada en verano, restaurando la capacidad de \"lanzamiento a necesidad\" similar a la demostrada durante Shenzhou 22. La entrega anticipada de ambas naves, junto con sus vehículos de lanzamiento Long March 2F, garantiza que se pueda preparar una misión de respaldo con poca antelación si es necesario.\nLa misión despegó a bordo de un cohete Long March 2F y probablemente se acoplará al puerto nadir del módulo central Tianhe de la estación espacial Tiangong.\nA diferencias de misiones anteriores de 6 meses, la CMSA ha anunciado que se espera que un astronauta de Shenzhou 23 permanezca en el espacio durante un año completo. Esto permitiría a un astronauta paquistaní visitar Tiangong durante la misión Shenzhou 24 programada para octubre de 2026."
+    },
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "En consonancia con misiones tripuladas chinas anteriores, la tripulación se anunció un día antes de la fecha prevista para el lanzamiento. La misión está comandada por Zhu Yangzhu, quien anteriormente voló en la Shenzhou 16. Es responsable de toda la misión y de la finalización de los objetivos de la misión. Zhang Zhiyuan es un expiloto de la fuerza aérea, su responsabilidad será completar los objetivos de la misión y asistir durante las operaciones de vuelo espacial. Lai Ka-ying se convirtió en la primera persona de Hong Kong en viajar al espacio, sirviendo como especialista en carga útil. Llevará a cabo los experimentos científicos a bordo de la estación espacial y la gestión y mantenimiento de las cargas útiles.\nSe espera que un miembro de la tripulación permanezca a bordo de la estación aproximadamente un año junto a 2 miembros de Shenzhou 24. La selección se determinará más adelante en la misión en base a evaluaciones físicas y psicológicas. Este acuerdo permitiría a un astronauta paquistaní, ya fuera Muhammad Zeeshan Ali o Khurram Daud, hacer una visita de corta duración a la estación, despegando con el Shenzhou 24 y regresando aproximadamente una semana después con 2 miembros de la tripulación del Shenzhou 23."
+    }
+  ],
+  "num_palabras": 472
+}

@@ -1,0 +1,42 @@
+{
+  "titulo": "Soyuz TM-26",
+  "titulo_wikipedia_en": "Soyuz TM-26",
+  "fecha_lanzamiento": "1997-08-05",
+  "año_lanzamiento": 1997,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Soyuz_TM-26",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Operador": "Rosaviakosmos",
+    "ID COSPAR": "1997-038A",
+    "Duración de la misión": "197 días, 17 horas, 34 minutos, 36 segundos",
+    "Órbitas completadas": "~3,220",
+    "Tipo de nave": "Soyuz-TM",
+    "Fabricante": "RKK Energia",
+    "Masa en el lanzamiento": "7150 kg",
+    "Fecha de lanzamiento": "5 de agosto de 1997, 15:35:54 UTC",
+    "Vehículo de lanzamiento": "Soyuz-U",
+    "Fecha de aterrizaje": "19 de febrero de 1998, 09:10:30 UTC",
+    "Tripulación": "Anatoly Solovyev\nPavel Vinogradov",
+    "Tripulación en el aterrizaje": "Léopold Eyharts",
+    "Indicativo": "| (Rodnik - Primavera)",
+    "Sistema de referencia orbital": "Geocéntrico",
+    "Régimen orbital": "Órbita terrestre baja",
+    "Periapsis": "193 km",
+    "Apoapsis": "249 km",
+    "Inclinación orbital": "51,6 grados",
+    "Acoplamiento": "destino de acoplamiento: Mir | tipo de acoplamiento: muelle",
+    "Misión anterior": "Soyuz TM-25",
+    "Misión siguiente": "Soyuz TM-27",
+    "Programa": "Programa Soyuz\n(Misiones decretadas)"
+  },
+  "resumen": "Soyuz TM-26 era un vuelo espacial ruso que transportaba cosmonautas y suministros a Mir. Fue la expedición número 32 a Mir. Fue lanzado por un cohete Soyuz-U desde el cosmódromo de Baikonur el 5 de agosto de 1997. La misión principal era transportar a dos cosmonautas especialmente entrenados para reparar o salvar la estación espacial en problemas.\nTM-26 acoplado con Mir el 7 de agosto por control manual. La tripulación reparó el cable de alimentación y los arneses/conectores en el módulo Spektr gravemente dañado y restauró gran parte de la energía perdida; también repararon y reemplazaron los generadores de oxígeno en Mir. Los orificios en ese módulo que causaron la despresurización total del módulo no pudieron ser localizados durante su caminata espacial dentro de ese módulo.\nDurante el vuelo un anuncio de televisión protagonizado por Vasily Tsibliyev fue filmado en la estación. El anuncio, para la marca de Tnuva de leche UHT, fue el primer anuncio que se filmó en el espacio.",
+  "secciones": [],
+  "num_palabras": 162
+}

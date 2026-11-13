@@ -1,0 +1,109 @@
+{
+  "titulo": "Hera (sonda)",
+  "titulo_wikipedia_en": "Hera (space mission)",
+  "fecha_lanzamiento": "2024-10-07",
+  "año_lanzamiento": 2024,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración de Marte",
+    "Exploración de asteroides y planetas menores",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Hera_(sonda)",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Orbitador Didymos",
+    "Operador": "Agencia Espacial Europea",
+    "Duración de la misión": "1 mes, 15 días (transcurridos)\n2 años, 9 meses (planificado)",
+    "Fabricante": "OHB SE",
+    "Masa en el lanzamiento": "1.128 kg (2.487 libras)",
+    "Masa en seco": "350 kilogramos (770 libras)",
+    "Dimensiones": "1,6 × 1,6 × 1,7 m (5,2 × 5,2 × 5,6 pies)",
+    "Fecha de lanzamiento": "7 de octubre de 2024, 14:52 UTC (10:52 am EDT)",
+    "Vehículo de lanzamiento": "Falcon 9 Block 5 (B1061.23)",
+    "Lugar de lanzamiento": "Cabo Cañaveral, SLC-40",
+    "Contratista del lanzamiento": "SpaceX"
+  },
+  "resumen": "Hera es una sonda espacial desarrollada por la Agencia Espacial Europea para su programa de Seguridad Espacial. Su objetivo principal es estudiar el sistema binario de asteroides Didymos que fue impactado por DART y contribuir a la validación del método de impacto cinético para desviar un asteroide cercano a la Tierra en una trayectoria de colisión con la Tierra. Medirá el tamaño y la morfología del cráter creado y el momento transferido por un proyectil artificial que impacta contra un asteroide, lo que permitirá medir la eficiencia de la desviación producida por el impacto. También analizara la nube de escombros en expansión causada por el impacto.\nLa nave espacial fue lanzada el 7 de octubre de 2024 a bordo de un vehículo de lanzamiento Falcon 9 de SpaceX y estudiara los resultados del impactador DART, 4 años después del impacto. DART impactó el asteroide Dimorphos, el más pequeño de los 2 objetos que forman el asteroide binario 65803 Didymos, el 26 de septiembre de 2022. El vehículo de lanzamiento, B1061, utilizado anteriormente para la misión Crew-1, se gastó en este vuelo.\nHera tiene una masa de 1128 kg y lleva una carga útil de cámaras, un altímetro y un espectrómetro. También llevara 2ilogramosnanosatélites CubeSats, llamados Milani y Juventas.\nHera caracterizara completamente la composición y las propiedades físicas del sistema binario de asteroides, incluyendo, por primera vez, las estructuras internas y subsuperficiales. También realizara demostraciones tecnológicas relacionadas con operaciones en las proximidades de un cuerpo pequeño y el despliegue y la comunicación con CubeSats en el espacio interplanetario.",
+  "secciones": [
+    {
+      "titulo": "Historia del proyecto",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "AIDA el proyecto conjunto con la NASA",
+      "nivel": 3,
+      "texto": "AIDA es el primer programa operativo cuyo objetivo es probar un método de desvío de asteroides cercanos a la Tierra. Fue creado en 2013 conjuntamente por científicos apoyados por la NASA y la ESA. Su objetivo es probar el uso de un dispositivo de tipo impactador para desviar un asteroide que pudiera chocar contra la Tierra. Este programa prevé el lanzamiento al asteroide binario (65803) Didymos de 2 naves espaciales: el impactador DART desarrollado por la NASA encargado de estrellarse a gran velocidad sobre el más pequeño de los dos asteroides y el orbitador AIM desarrollado por la ESA, que debe medir los efectos del impacto. Tras una fase de evaluación en las 2 agencias espaciales, la Agencia Espacial Europea decidió a finales de 2016 abandonar el desarrollo de AIM debido a la falta de apoyo financiero suficiente de los Estados miembros. La NASA, por su parte, decidió continuar con el desarrollo de DART. En este nuevo contexto, los observatorios terrestres son los encargados de asumir parcialmente el papel de AIM. El proyecto DART evolucionará a partir de entonces incorporando el nanosatélite LICIACube, liberado antes del impacto y encargado de capturar y retransmitir los primeros 100 segundos del mismo."
+    },
+    {
+      "titulo": "Renacimiento del proyecto europeo",
+      "nivel": 3,
+      "texto": "En 2017, a petición de varios Estados miembros de la Agencia Espacial Europea, esta última reanudó los estudios de una nave sustituta de la AIM que recibió el nombre de Hera (en honor a la diosa griega del matrimonio Hera). Hera debe cumplir todos los objetivos asignados a la AIM, pero mientras tanto optimizar al máximo todos los componentes de la misión. Hera se lanzará en octubre de 2024 y estudiará los efectos del impacto del DART en Dimorphos, el satélite de Didymos, 4 años después de que se produjera. La misión Hera fue finalmente aprobada por el Consejo Ministerial de la ESA en noviembre de 2019. En septiembre de 2020, la Agencia Espacial Europea encargó la construcción de la nave espacial a un consorcio de empresas liderado por OHB, en virtud de un contrato de 129,4 millones de euros. También formalizó el equipo científico de la misión, formado por un investigador principal, un consejo científico, cuatro grupos de trabajo que cubren todos los aspectos de la misión y los responsables científicos de los instrumentos. La misión pasó a la fase de pruebas finales en marzo de 2024."
+    },
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "El objetivo principal de la misión Hera es evaluar el método de impacto cinético para desviar un objeto cercano a la Tierra que amenace con estrellarse contra ella. Este método de desvío consiste en modificar la trayectoria del asteroide lanzando una nave espacial a una velocidad de unos pocos kilómetros por segundo. De todos los métodos, este es el más maduro porque se basa en el uso de tecnologías espaciales disponibles y económicas. Para cumplir con este objetivo, Hera debe determinar:\nLa cantidad de transferencia de momento depende de la densidad, la porosidad y las características de la superficie y la estructura interna del asteroide.\n¿Qué proporción de la energía cinética se transfiere en la fragmentación y reestructuración del asteroide o en la energía cinética de los materiales expulsados?\nHera también tiene objetivos científicos elevados. Debe recopilar las características de los 2 asteroides: características de la superficie, porosidad interna y estructura interna. En particular, Hera será la primera misión que mida el subsuelo y las estructuras internas de un asteroide. Para ello, utilizará el radar de baja frecuencia JuRA a bordo del CubeSat Juventas. Se cartografiará toda la luna Dimorphos con una resolución espacial de unos pocos metros y las inmediaciones del impacto con una resolución de 10 cm. La masa de la luna Didymos se estimará con gran precisión, lo que permitirá una estimación directa de la eficiencia de transferencia de momento a partir del impacto de DART.\nLa misión también incluye varios objetivos tecnológicos. El más importante es la creación de un software de orientación que, utilizando datos de varios sensores, permitirá reconstruir el espacio circundante y, de esta manera, determinar de forma independiente una trayectoria segura alrededor del asteroide.\nHera también debe embarcar en dos CubeSats que se lanzarán una vez que se alcance el asteroide. Estos CubeSats son:\nJuventas, que debe realizar mediciones del subsuelo y de la estructura interna, contribuir a la determinación del campo gravitacional y proporcionar información sobre la respuesta mecánica de la superficie al aterrizar en Dimorphos.\nMilani, con la misión de recopilar datos espectrales de la superficie de los 2 asteroides (composición de la superficie) e identificar la presencia de polvo en el espacio circundante."
+    },
+    {
+      "titulo": "Realización de la misión",
+      "nivel": 2,
+      "texto": "La misión DART, lanzada el 24 de noviembre de 2021 a las 06:21 UTC por un cohete Falcon 9 desde la Base de la Fuerza Espacial Vandenberg, alcanzó el asteroide binario (65803) Didymos el 26 de septiembre de 2022, colisionando con su satélite Dimorphos a las 23:16 UTC a una velocidad relativa de unos 6,6 km/s.El impacto debe cambiar el período orbital de Dimorphos alrededor de Didymos, que es de 11,9 horas, en un mínimo de 73 segundos, lo que debería ser observado por telescopios terrestres.\nHera será lanzada en octubre de 2024 por un cohete Falcon 9 que despegará desde Cabo Cañaveral y realizará una maniobra en el espacio profundo en noviembre. Después de una asistencia gravitacional en Marte en marzo de 2025, donde Hera pasará algún tiempo observando la luna marciana Deimos, la nave espacial llegará al asteroide binario (65803) Didymos el 28 de diciembre de 2026, 4 años después de DART, para comenzar 6 meses de investigación. Hera será la primera en hacer un encuentro con un asteroide binario. Una vez cerca del asteroide doble, seguirán 5 etapas:\nla fase de caracterización temprana,\nla fase de despliegue de los 2 nanosatélites,\nla fase de caracterización detallada,\nla fase de observación cercana,\nel aterrizaje de Milani y Juventas en Dimorphos, y finalmente, un experimento que podría finalizar con un aterrizaje en Didymos de la nave espacial principal."
+    },
+    {
+      "titulo": "Astronave",
+      "nivel": 2,
+      "texto": "La misión Hera incluye el satélite principal homónimo y 2 CubeSats llamados Juventas y Milani.\nEl satélite Hera tiene forma cúbica, de 1,6 × 1,6 × 1,7 m y una masa de aproximadamente 1128 kg. Su energía es proporcionada por paneles solares con una superficie de 13 m². Incluye un enlace intersatélite para comunicarse con los 2 nanosatélites.\nEl satélite está estabilizado sobre 3 ejes. La actitud se mantiene mediante 4 ruedas de reacción, giroscopios, rastreadores de estrellas, sensores solares y 2 cámaras de encuadre de asteroides (AFC). La orientación de la actitud se realiza mediante el altímetro planetario (PALT)."
+    },
+    {
+      "titulo": "Instrumentos científicos",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Cámaras de encuadre de asteroides (AFC)",
+      "nivel": 3,
+      "texto": "Los instrumentos principales de Hera son las 2 cámaras AFC (Asteroid Framing Cameras), desarrolladas por la empresa JenaOptronik. Son idénticas y redundantes y cada una de ellas tiene un sensor pancromático FaintStar de 1020 x 1020 píxeles con un teleobjetivo. El campo de visión es de 5,5 x 5,5° y la resolución espacial alcanza un metro a una distancia de 10 km. Estas cámaras deben proporcionar características físicas de la superficie de los asteroides Didymos y Dimorphos, así como del cráter creado por DART y de la zona de aterrizaje de Juventas."
+    },
+    {
+      "titulo": "Cámara de imágenes hiperespectrales – HyperScout-H",
+      "nivel": 3,
+      "texto": "HyperScout-H es un generador de imágenes hiperespectrales que debe proporcionar imágenes en un rango espectral entre 665 y 975 nm (visible e infrarrojo cercano). El instrumento realiza sus observaciones en 25 bandas espectrales distintas. Está desarrollado por cosine Remote Sensing. Se trata de una versión específica desarrollada para Hera, diferente del HyperScout estándar."
+    },
+    {
+      "titulo": "Altímetro planetario (PALT)",
+      "nivel": 3,
+      "texto": "PALT es un altímetro planetario micro- Lidar que utiliza un láser que emite un haz de luz infrarroja a 1,5 micras. Su recorrido sobre el terreno es de 1 m a una altitud de 1 km (1 milirradián ). La precisión de la medición de la altitud es de 0,5 m. Su frecuencia es de 10 Hz."
+    },
+    {
+      "titulo": "Cámara termografica infrarroja (TIRI)",
+      "nivel": 3,
+      "texto": "TIRI es un sensor de imágenes infrarrojas térmicas proporcionado por la Agencia Espacial Japonesa. El rango espectral observado está entre 7 y 14 micras y cuenta con 6 filtros. Su alcance visual es de 13,3 x 10,6°. La resolución espacial es de 2,3 m a una distancia de 10 km."
+    },
+    {
+      "titulo": "Ciencia de radio en banda X (X-DST)",
+      "nivel": 3,
+      "texto": "La masa de los dos asteroides que forman el sistema binario, las características de su campo gravitatorio, su velocidad de rotación y sus órbitas se medirán mediante perturbaciones de ondas de radio provocadas."
+    },
+    {
+      "titulo": "Instrumentación a bordo de los 2 nanosatélites",
+      "nivel": 3,
+      "texto": "2 nanosatélites tipo CubeSat, llamados Milani y Juventas, son transportados por Hera y liberados antes de su llegada al sistema asteroidal (65803) Didymos.\nAmbos CubeSats están construidos sobre una plataforma similar. Se trata de CubeSats 6U-XL con una masa (incluyendo el combustible) de aproximadamente 12 kg. Están estabilizados en 3 ejes y tienen un sistema de propulsión de gas frío. Se comunican con la nave nodriza en banda S. El efecto Doppler que afecta a los enlaces de radio se utiliza para medir las características del campo gravitatorio del sistema binario. Tienen una cámara de luz visible y rastreadores de estrellas que se utilizan para determinar las variaciones dinámicas de Didymos. Por último, los 2 CubeSats están equipados con acelerómetros que se utilizarán para determinar las propiedades de la superficie de Dimorphos si los CubeSats aterrizan en su superficie como está previsto al final de su misión. Juventas está desarrollado por GomSpace mientras que Milani está fabricado por Tyvak International."
+    },
+    {
+      "titulo": "CubeSat Milani",
+      "nivel": 4,
+      "texto": "El CubeSat Milani (que debe su nombre a Andrea Milani) tiene como objetivo tomar imágenes y medir las características del polvo posiblemente presente. Debe cartografiar los dos asteroides que forman el asteroide binario.\nPara cumplir estos objetivos cuenta con los siguientes instrumentos:\nEl espectrómetro de imágenes hiperespectrales ASPECT es el instrumento principal. Trabaja en luz visible e infrarroja cercana (0,5 a 2,5 micras). Su resolución espacial es de 2 m a 10 km y su resolución espectral es inferior a 40 nm (20 nm en el visible). Tiene un total de 72 canales.\nEl termogravímetro VISTA es responsable de detectar polvo (de 5 a 10 micras), volátiles (como el agua) y materiales orgánicos ligeros."
+    },
+    {
+      "titulo": "CubeSat Juventas",
+      "nivel": 4,
+      "texto": "Juventas pretende determinar las características geofísicas de Dimorphos. La sonda debe cartografiar su campo gravitatorio\nPara cumplir estos objetivos cuenta con los siguientes instrumentos:\nEl radar JuRa opera en la frecuencia de 50-70 MHz con una resolución espacial de 10 a 15 m. Es el primer instrumento que ha sondeado las capas internas de un asteroide. Utiliza dos antenas dipolo con cada rama de 1,5 m. Cada sesión de medición puede durar hasta 45 minutos. Ocupa un volumen de menos de 1U y su masa es inferior a 1300 g.\nEl gravímetro GRASS cuyo rango dinámico es de 5 x 10 −4 y la sensibilidad es de 5 x 10 −7. Su masa es inferior a 380 g.\nUna cámara.\nEl enlace de radio con la nave nodriza (medición del efecto Doppler)."
+    }
+  ],
+  "num_palabras": 2028
+}

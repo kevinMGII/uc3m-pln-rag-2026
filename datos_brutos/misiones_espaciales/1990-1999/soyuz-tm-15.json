@@ -1,0 +1,50 @@
+{
+  "titulo": "Soyuz TM-15",
+  "titulo_wikipedia_en": "Soyuz TM-15",
+  "fecha_lanzamiento": "1992-07-27",
+  "año_lanzamiento": 1992,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Soyuz_TM-15",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Operador": "Rosaviakosmos",
+    "ID COSPAR": "1992-046A",
+    "Duración de la misión": "188 días, 21 horas, 41 minutos, 15 segundos",
+    "Órbitas completadas": "~3,070",
+    "Nave": "Soyuz 7K-STM No. 65",
+    "Tipo de nave": "Soyuz-TM",
+    "Fabricante": "NPO Energia",
+    "Masa en el lanzamiento": "7150 kg",
+    "Fecha de lanzamiento": "27 de julio de 1992, 06:08:42 UTC",
+    "Vehículo de lanzamiento": "Soyuz-U2",
+    "Fecha de aterrizaje": "1 de febrero de 1993, 03:49:57 UTC",
+    "Lugar de aterrizaje": "cerca de Dzhezkazgan",
+    "Tripulación": "Anatoly Solovyev\nSergei Avdeyev",
+    "Tripulación en el lanzamiento": "Michel Tognini",
+    "Indicativo": "Rodnik (Primavera)",
+    "Sistema de referencia orbital": "Geocéntrico",
+    "Régimen orbital": "Órbita terrestre baja",
+    "Periapsis": "196 km",
+    "Apoapsis": "216 km",
+    "Inclinación orbital": "51,6 grados",
+    "Acoplamiento": "destino de acoplamiento: Mir | tipo de acoplamiento: muelle | fecha de acoplamiento: 29 de julio de 1992, 07:49:05 UTC | fecha de desconexión: 1 de febrero de 1993, 00:19:47 UTC",
+    "Misión anterior": "Soyuz TM-14",
+    "Misión siguiente": "Soyuz TM-16",
+    "Programa": "Programa Soyuz\n(Misiones decretadas)"
+  },
+  "resumen": "Soyuz TM-15 fue la decimoquinta expedición a la estación espacial Mir. Incluyó a Michel Tognini, de Francia. El vuelo Soyuz TM-15 estableció lo que era entonces una nueva nave espacial Soyuz en un registro de resistencia orbital.",
+  "secciones": [
+    {
+      "titulo": "Aspectos destacados de la misión",
+      "nivel": 2,
+      "texto": "Michel Tognini, pasajero a bordo de Soyuz- TM 15, fue el tercer francés que visitó una estación espacial. Realizó diez experimentos utilizando 300 kg de equipo entregado por los vuelos Progress-M. Tognini pasó 2 semanas en el espacio como parte de la cooperación espacial entre Rusia y Francia."
+    }
+  ],
+  "num_palabras": 85
+}

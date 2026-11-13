@@ -1,0 +1,36 @@
+{
+  "titulo": "Galaxy Evolution Explorer",
+  "titulo_wikipedia_en": "GALEX",
+  "fecha_lanzamiento": "2003-04-28",
+  "año_lanzamiento": 2003,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Telescopio espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Galaxy_Evolution_Explorer",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Inactivo",
+    "Tipo de misión": "Observatorio espacial",
+    "Operador": "NASA",
+    "Fecha de lanzamiento": "28 de abril de 2003",
+    "Configuración": "Cilíndrica",
+    "Masa en el lanzamiento": "280 kg",
+    "Propulsión": "Sin Propulsión",
+    "Sistema de referencia orbital": "Órbita circular",
+    "Periapsis": "690 km",
+    "Inclinación orbital": "29 Grados"
+  },
+  "resumen": "Galaxy Evolution Explorer (GALEX, Explorador de la Evolución Galáctica) fue un observatorio espacial de la NASA lanzado el 28 de abril de 2003 a bordo de un cohete Pegasus y dedicado a observar galaxias en longitudes de onda ultravioleta. La misión fue dirigida desde el Instituto de Tecnología de California.\nEl objetivo de GALEX fue estudiar la evolución y cambios que se producen en las galaxias, así como los procesos de formación estelar en las primeras etapas del universo, hasta hace unos 10 000 millones de años.\nGALEX, que pesa unos 280 kg, fue situado en una órbita de unos 690 km de altura, con una inclinación orbital de 29 grados. Utiliza un único telescopio de tipo Richey-Chretien y 50 cm de apertura que dirige la luz hacia dos detectores de 65 mm de diámetro, uno para observar en el ultravioleta cercano (sensible a longitudes de onda de entre 175 y 280 nanómetros) y el otro para el ultravioleta lejano (entre 135 y 175 nanómetros). El observatorio sólo toma datos científicos cuando se encuentra en el lado nocturno de su órbita (cuando está a la sombra de la Tierra). La duración nominal de la misión era de 29 meses, periodo tras el cual la duración de la misión fue extendida.\nEl observatorio envió los datos en banda X y la telemetría en banda S a las estaciones terrestres situadas en Hawái y Dongara (Australia).\nEl 28 de junio de 2013 la NASA anunció la conclusión de la misión del GALEX tras 10 años de operación.",
+  "secciones": [
+    {
+      "titulo": "Especificaciones",
+      "nivel": 2,
+      "texto": "Masa total: 280 kg\nÓrbita: circular a 690 km de altura, 29 grados de inclinación orbital.\nAlimentación: paneles solares con una salida máxima de 290 vatios.\nControl de posición: estabilizado en los tres ejes mediante dos sistemas de giroscopios y cuatro volantes de inercia."
+    }
+  ],
+  "num_palabras": 299
+}

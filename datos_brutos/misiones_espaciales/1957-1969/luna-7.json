@@ -1,0 +1,31 @@
+{
+  "titulo": "Luna 7",
+  "titulo_wikipedia_en": "Luna 7",
+  "fecha_lanzamiento": "1965-10-04",
+  "año_lanzamiento": 1965,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración lunar",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Luna_7",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {},
+  "resumen": "Luna 7 fue una misión no tripulada del Programa Luna, propuesto por el Programa espacial soviético. La sonda fue lanzada el 4 de octubre de 1965 desde el Cosmódromo de Baikonur, en la Unión Soviética.",
+  "secciones": [
+    {
+      "titulo": "Objetivo",
+      "nivel": 2,
+      "texto": "El Luna 7 fue una sonda espacial diseñada para realizar un alunizaje suave sobre la Luna. Sin embargo, la nave se estrelló contra la superficie lunar en el Oceanus Procellarum."
+    },
+    {
+      "titulo": "Causas del fracaso",
+      "nivel": 2,
+      "texto": "A diferencia de sus precursores, Luna 7 realizó satisfactoriamente su corrección a mitad del camino hacia la Luna el 5 de octubre de 1965, en preparación de un suave alunizaje dos días más tarde. Lamentablemente, antes del frenado planeado durante el acercamiento a la superficie lunar, la nave espacial de repente perdió el control de actitud y falló en recuperarlo. Entonces, sistemas automáticos programados impidieron encender el motor. El Luna 7 cayó a la superficie lunar a una muy alta velocidad y se estrelló a las 22:08:24, el 7 de octubre al oeste del cráter Kepler, relativamente cerca del objetivo real intencionado. Las coordenadas del impacto fueron 9° de latitud norte y 49° de longitud oeste. La investigación posterior indicó que el sensor óptico del sistema de astronavegación había sido puesto en un ángulo incorrecto y había perdido de vista a la Tierra durante la maniobra de control de actitud crítica. Esto era el décimo fracaso consecutivo en el programa Ye-6."
+    }
+  ],
+  "num_palabras": 226
+}

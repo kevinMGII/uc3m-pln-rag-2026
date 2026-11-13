@@ -1,0 +1,41 @@
+{
+  "titulo": "Expedición 25",
+  "titulo_wikipedia_en": "Expedition 25",
+  "fecha_lanzamiento": "2010-09-25",
+  "año_lanzamiento": 2010,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Expedición_25",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Fecha de lanzamiento": "25 de septiembre de 2010 a las 02:02 UTC",
+    "Fecha de aterrizaje": "26 de noviembre de 2010 a las 04:46 UTC",
+    "Misión anterior": "Expedición 24",
+    "Misión siguiente": "Expedición 26",
+    "Nave de llegada": "Soyuz TMA-19, Soyuz TMA-01M",
+    "Programa": "Programa de la ISS",
+    "Estación espacial": "Estación Espacial Internacional",
+    "Tipo de misión": "Expedición a la ISS",
+    "Fecha de inicio": "25 de septiembre de 2010, 02:02 UTC",
+    "Fecha de fin": "26 de noviembre de 2010, 04:46 UTC"
+  },
+  "resumen": "La Expedición 25 fue la 25ª estancia de larga duración en la Estación Espacial Internacional. Durante esta expedición la nave Progress M-08M se acopló con la Estación Espacial Internacional, el 30 de octubre de 2010 llevando 2.5 toneladas de suministros de carga.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Fuente NASA"
+    },
+    {
+      "titulo": "Tripulación de Repuesto o de emergencia",
+      "nivel": 2,
+      "texto": "Andrei Borisenko - Comandante\nPaolo Nespoli\nCatherine Coleman\nAnatoli Ivanishin\nSergei Revin\nRonald J. Garan, Jr."
+    }
+  ],
+  "num_palabras": 60
+}

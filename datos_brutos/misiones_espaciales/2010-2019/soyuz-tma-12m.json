@@ -1,0 +1,32 @@
+{
+  "titulo": "Soyuz TMA-12M",
+  "titulo_wikipedia_en": "Soyuz TMA-12M",
+  "fecha_lanzamiento": "2014-03-25",
+  "año_lanzamiento": 2014,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Soyuz_TMA-12M",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Fecha de lanzamiento": "marzo de 2014",
+    "Nave": "Soyuz-FG",
+    "Fecha de aterrizaje": "Septiembre de 2014",
+    "Programa": "Programa Soyuz",
+    "Misión anterior": "Soyuz TMA-11M",
+    "Misión siguiente": "Soyuz TMA-13M"
+  },
+  "resumen": "Soyuz TMA-12M Fue lanzada del Cosmódromo de Baikonur en 25 de marzo de 2014 por un cohete Soyuz-FG desde la Plataforma Gagarin llevando a bordo a los cosmonautas rusos Aleksandr Skvortsov, Oleg Artemyev y al astronauta norteamericano Steven Swanson rumbo a la Estación Espacial Internacional. La TMA-12M fue el vuelo 121 de la Soyuz, desde el primer vuelo de su lanzamiento en 1967.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": ""
+    }
+  ],
+  "num_palabras": 63
+}

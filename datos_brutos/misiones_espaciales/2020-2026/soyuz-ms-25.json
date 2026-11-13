@@ -1,0 +1,74 @@
+{
+  "titulo": "Soyuz MS-25",
+  "titulo_wikipedia_en": "Soyuz MS-25",
+  "fecha_lanzamiento": "2024-03-23",
+  "año_lanzamiento": 2024,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Soyuz_MS-25",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Regresada",
+    "Tipo de misión": "Transporte de tripulación de la ISS",
+    "Operador": "Roscosmos",
+    "Duración planificada": "180 días",
+    "Nave": "Soyuz MS, N.º.756",
+    "Tipo de nave": "Soyuz MS 11F732A48",
+    "Fabricante": "Energiya",
+    "Fecha de lanzamiento": "23 de marzo de 2024, 12:36:10 UTC",
+    "Vehículo de lanzamiento": "Soyuz 2.1a",
+    "Lugar de lanzamiento": "Baikonur, Sitio 31/6",
+    "Fecha de aterrizaje": "23 de septiembre de 2024, 11:58 UTC",
+    "Lugar de aterrizaje": "Estepa kazaja, Kazajistán",
+    "Tripulación en el lanzamiento": "Oleg Novitskiy\nMarina Vasilévskaya\nTracy Caldwell-Dyson",
+    "Tripulación en el aterrizaje": "Oleg Kononenko\nNikolai Chub\nTracy Caldwell-Dyson",
+    "Expedición": "Expedición 71",
+    "Indicativo": "kazbek",
+    "Sistema de referencia orbital": "Órbita geocéntrica",
+    "Régimen orbital": "Órbita terrestre baja",
+    "Inclinación orbital": "51.66°",
+    "Acoplamiento": "objetivo acople: ISS | tipo acople: Acople | puerto acople: Mod. prichal en el Nauka nadir | fecha acople: 25 de marzo de 2024, 15:02:50 | fecha desacople: 23 de septiembre de 2024, 08:36 UTC",
+    "Programa": "Programa Soyuz",
+    "Misión anterior": "Soyuz MS-24",
+    "Misión siguiente": "Soyuz MS-26"
+  },
+  "resumen": "Soyuz MS-25 es el 152.º y anterior vuelo tripulado de una misión de la nave rusa Soyuz. Su lanzamiento hacia la ISS ocurrió el 23 de marzo de 2024, para transportar parte de la tripulación de la Expedición 71 y la expedición visitante Ep-21, y realizó su regresó el 23 de septiembre de 2024.",
+  "secciones": [
+    {
+      "titulo": "Misión",
+      "nivel": 2,
+      "texto": "La Soyuz MS-25 es un vuelo tripulado de una nave rusa Soyuz. Su lanzamiento hacia la ISS, ocurrió el 23 de marzo de 2024 a las 12:36 UTC, después de un primer intento realizado el día 21 de marzo, que fue cancelado en el último momento debido a un fallo al no separarse el mástil VKM (Verjniaia Kabel Machta, ‘mástil de cables superior’) a los T-15 segundos como estaba previsto. El sistema AVD (Avarinoe Vikliuchenie Dvigatelia, ‘apagado de emergencia de los motores’) se activó a los T-20 segundos y canceló la secuencia de despegue.\nLa misión transportó a la expedición visitante Ep-21, con los cosmonautas, Oleg Novitskiy y la primera ciudadana de Bielorrusia de la historia, Marina Vasilévskaya, que regresaron el 6 de abril de 2024 en la Soyuz MS-24. El tercer asiento lo ocupó la astronauta de la NASA, Tracy Caldwell-Dyson, para formar parte de la Expedición 71 durante 6 meses y que regresará con los cosmonautas Oleg Kononenko y Nikolai Chub que permaneceran un año en la estación, hasta septiembre de 2024.\nLa Soyuz MS-24 regresó a La Tierra el día 6 de abril de 2024 con los cosmonautas llegados en la Soyuz MS-25, Oleg Novitskiy y la bielorusa Marina Vasilévskaya después de casi 14 días en el espacio junto a la astronauta de la NASA Loral O'Hara que ha permanecido casi 204 días en el espacio en la Expedición 70.\nEl 25 de abril de 2024, los cosmonautas, Oleg Kononenko y Nikolai Chub, realizaron su segunda EVA, durante su misón de un año, la n.º 62 desde el segmento ROS de 4 horas y 36 minutos, en la que realizaron diferentes tareas de mantenimiento, como instalar hardware para los experimentos de investigación Kvartz-M y Perspektiva-KM fuera del módulo Poisk y completar el despliegue de un radar sintético en el Módulo de Laboratorio multipropósito de Nauka, que no pudo instalarse por completo durante la EVA anterior en octubre.\nLa misión realizó su regreso el 23 de septiembre de 2024, después de la llegada de la Soyuz MS-26 el 11 de septiembre con la tripulación de relevo de la Expedición 72 y dando por finalizada la Expedición 71."
+    },
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "En un principio antes de la avería de la Soyuz MS-22 en diciembre de 2022, esta nave tenía asignado a tres cosmonautas para la Expedición 71. La avería provocó varios cambios respecto a las tripulaciones de la ISS. El primero de ellos, el traspaso de la tripulación de la Soyuz MS-23 a la Soyuz MS-24 prevista para septiembre de 2023, retrasando todas las subsiguientes tripulaciones.\nLos 3 tripulantes despegaron el 23 de marzo en la Soyuz MS-25, los cosmonautas, Oleg Novitskiy y la bielorusa Marina Vasilévskaya junto a la astronauta de la NASA Tracy Caldwell-Dyson, quien se intercambió con el cosmonauta Konstantin Borisov, que viajó en la SpaceX Crew-7 gracias al intercambio de tripulación entre la NASA y Roscosmos con los miembros de la tripulación permanente de la Expedición 70 a la que debía pertenecer en principio la astronauta de la NASA de esta nave. Debido a la avería de la Soyuz MS-22, se traspasó a la tripulación a la Expedición 71 llegando hacia el final de la Expedición 70 en el relevo de tripulaciones de las Soyuz MS-24 y MS-25.\nEl segundo cambio que provocó, el traspaso de la tripulación de la Soyuz MS-23 a la Soyuz MS-24, aparte del retrasó de todas las subsiguientes tripulaciones a la siguiente nave, fue que el viaje previsto de una cosmonauta de Bielorrusia en 2023, fuera pospuesto a marzo de 2024. El 22 de febrero de 2023 el director ejecutivo de Roscosmos para programas espaciales tripulados, Serguéi Krikaliov, anunció que el vuelo de una cosmonauta de Bielorrusia a la ISS, que estaba previsto inicialmente para septiembre de 2023, fue pospuesto para la primavera europea de 2024 en esta Soyuz MS-25. En mayo de 2023 se eligió finalmente a la candidata a cosmonauta de Bielorrusia, la auxiliar de vuelo Marina Vasilévskaya y su suplente, la cirujana Anastasía Lenkova. Además se anunció que el cosmonauta que acompañaría finalmente a la cosmonauta Vasilévskaya en la MS-25 sería el veterano cosmonauta Oleg Novitskiy, también de origen bielorruso y su suplente el cosmonauta Iván Vágner.\nLos cosmonautas, Oleg Kononenko y Nikolai Chub que viajaron en la Soyuz MS-24 permaneceran más de un año en la ISS y regresaran en la Soyuz MS-25, junto a la astronauta de la NASA, Tracy Caldwell-Dyson en septiembre de 2024, posibilitando el viaje de la expedición visitante Ep-21 de la cosmonauta de Bielorrusia Marina Vasilévskaya, durante el relevo de las naves Soyuz MS-24 y MS-25."
+    },
+    {
+      "titulo": "Tripulación situación original",
+      "nivel": 3,
+      "texto": "En un principio antes de la avería de la Soyuz MS-22, esta nave tenía asignado desde diciembre de 2022 a tres cosmonautas para la Expedición 71, cuando se retrasaron todas las tripulaciones, inicialmente se asignaron a los cosmonautas Aleksey Ovchinin y Oleg Platonov para acompañar a la cosmonauta Marina Vasilévskaya en la Soyuz MS-25. Posteriormente en mayo de 2023 fueron asignados a la futura Soyuz MS-26, para septiembre de 2024. Posteriormente después del lanzamiento de la Soyuz MS-25 en marzo de 2024, el cosmonauta Oleg Platonov, fue retirado de la tripulación de la futura Soyuz MS-26, por motivos médicos y sustituido por el cosmonauta Iván Vágner. El cosmonauta Nikolai Chub, asignado a la Soyuz MS-23, tenía previsto realizar una misión de casi un año, siendo Oleg Platonov su reserva inicialmente, permaneciendo con la tripulación de la MS-24 original, el cosmonauta Aleksey Ovchinin y la astronauta de la NASA, Tracy Caldwell-Dyson regresando con ellos en marzo de 2024, posibilitando así la visita de la expedición visitante de la cosmonauta de bielorusia durante el relevo de las naves MS-23 y MS-24, y ocupando el asiento de Chub en el regreso de la MS-23 en septiembre de 2023."
+    },
+    {
+      "titulo": "Antecedentes",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Fuga Refrigerante Soyuz MS-22",
+      "nivel": 3,
+      "texto": "El día 14 de diciembre de 2022 durante los preparativos para una caminata espacial planificada para el día 15, por los cosmonautas Prokopyev y Petelin, los equipos de tierra detectaron una fuga significativa de una sustancia desconocida en la parte trasera de la nave espacial Soyuz MS-22 acoplada al módulo Rassvet en la ISS.\nLa Nasa y Roscosmos colaboraron en una investigación de la fuga externa detectada en la nave espacial rusa. Roscosmos identificó la fuente de la fuga como un agujero de 0,8 mm en una tubería del circuito de refrigeración externo de la Soyuz y la pérdida fue el líquido refrigerante del circuito, una sustancia denominada LZ-TK-2 (ЛЗ-ТК-2), una disolución que tiene como base el hidrocarburo 2,2,4-trimetilpentano (isooctano), que se usa como refrigerante de los circuitos primarios en las naves Soyuz y Progress.\nPara realizar la investigación de la causa de la fuga, Roscomos utilizó el día 15 de diciembre, el brazo ERA nuevo en el módulo Nauka para realizar inspecciones visuales mediante las cámaras del brazo, dirigido por la cosmonauta Anna Kikina. La Nasa proporcionó una inspección adicional del exterior de la Soyuz usando el brazo robótico Canadarm 2 del segmento americano, el 18 de diciembre y se determinó que lo más posible es que un micrometeoroide impactó a unos 7 km/s provocando la fuga, ya que un resto de basura espacial tan pequeño no dispone de tanta velocidad para causar ese agujero en el material de la tubería.\nFinalmente el 11 de enero de 2023, la agencia Roscosmos, tras considerar que el regreso de la tripulación en la capusula averiada era demasiado arriesgado por el aumento de temperatura excesivo durante la reentrada al no disponer de líquido de refrigeración en el sistema principal de la nave, y no siendo posible su reparación mediante una salida extravehicular, se anunció el plan de rescate de los tripulantes de la averiada Soyuz MS-22, sencillamente se adelantaría al 20 de febrero el lanzamiento de la Soyuz MS-23 previsto para el 16 de marzo de 2023, sin tripulación para sustituir a la Soyuz MS-22 averiada para que la tripulación regrese en la MS-23. El regreso de la MS-22 se realizará vacía en el mes de marzo.\nEsta elección trajo varios cambios respecto a las tripulaciones de la ISS, primero el traspaso de la tripulación de la MS-23 a la Soyuz MS-24 prevista para septiembre de 2023, retrasando todas las subsiguientes tripulaciones. Y segundo al tener que esperar la llegada de una nave de relevo con tripulación, se alargaba la duración prevista de 180 días de la misión de los 2 cosmonautas Prokopyev y Petelin y el astronauta de la NASA Frank Rubio pasando a formar parte de la Expedición 69, en principio hasta septiembre permaneciendo más de un año en la estación o al menos hasta que la futura MS-24 estuviera lista para lanzarse entre 90 y 180 días después. Tres días después Roscosmos anunció que mientras llegaba la nave de rescate, el plan de contingencia en caso de una evacuación urgente de la ISS, el asiento de la soyuz del astronauta Frank Rubio sería trasladado a la nave SpaceX Crew-5, ya que el aumento de temperatura y humedad de la MS-22 sería menor con solo 2 tripulantes en una posible reentrada de emergencia."
+    },
+    {
+      "titulo": "Fuga Refrigerante Progress MS-21",
+      "nivel": 3,
+      "texto": "El día 11 de febrero de 2023 mientras se acoplaba la nave de carga rusa, Progress MS-22, la agencia espacial Roscosmos registró una despresurización en el circuito de refrigeración de la nave de carga de Roscosmos Progress MS-21, que estaba acoplada al módulo MIM-2 Poisk orientado al espacio en la estación (zenit). Esta nueva fuga de refrigerante es prácticamente igual al accidente que tuvo lugar en diciembre de 2022 en la nave tripulada Soyuz MS-22, aunque con la diferencia de que en este caso el refrigerante de este vehículo era el PMS-1,5r, una mezcla de hidrocarburos con silicio, en vez del LZ-TK-2. Debido a esta nueva fuga, aunque la avería no afecta en absoluto a las actividades de la ISS al ser en una nave de carga, y ésta tenía programado su regreso a la tierra para el 18 de febrero, para dejar el puerto Poisk libre para la Soyuz MS-23, destruyendose en la reentrada, la agencia Roscosmos decidió revisar nuevamente a fondo la nave MS-23, retrasando su lanzamiento al día 24 de febrero, ante la posibilidad de un fallo sistémico provocado por un defecto de fabricación en la cadena de montaje de las naves Soyuz y Progress."
+    }
+  ],
+  "num_palabras": 1752
+}

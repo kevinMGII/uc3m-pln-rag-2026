@@ -1,0 +1,41 @@
+{
+  "titulo": "STS-51-D",
+  "titulo_wikipedia_en": "STS-51-D",
+  "fecha_lanzamiento": "1985-04-12",
+  "año_lanzamiento": 1985,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/STS-51-D",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Lugar de lanzamiento": "KSC LC-39A",
+    "Fecha de lanzamiento": "12 de abril de 1985, 13:59:05 UTC",
+    "Nave": "Discovery",
+    "Fecha de aterrizaje": "19 de abril de 1985 13:54:28 UTC Centro Espacial Kennedy Pista 33",
+    "Duración de la misión": "6 días, 23 horas, 55 min y 23 s",
+    "Inclinación orbital": "28.5 grados",
+    "Distancia recorrida": "4,650,658 kilómetros",
+    "Misión anterior": "STS-51-C",
+    "Misión siguiente": "STS-51-B",
+    "Programa": "Programa del Transbordador Espacial"
+  },
+  "resumen": "STS 51-D fue la misión 16º del programa STS y la cuarta del Discovery. Fue la quinta misión en aterrizar en el Centro Espacial Kennedy. Los objetivos de la misión fueron el de desplegar varios satélites de comunicación y el transporte de experimentos de diversa índole.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Karol J. Bobko (2) - Comandante\nDonald E. Williams (1) - Piloto\nM. Rhea Seddon (1) - Especialista de misión\nJeffrey A. Hoffman (1) - Especialista de misión\nS. David Griggs (1) - Especialista de misión\nCharles D. Walker (2) - Especialista de carga\nJake Garn (1) - Especialista de carga\nEntre paréntesis número de vuelos realizados incluido el STS-51-D."
+    },
+    {
+      "titulo": "Parámetros de la misión",
+      "nivel": 2,
+      "texto": "Masa:\nOrbitador al despegue: 113,802 kg\nOrbiter al aterrizaje: 89,816 kg\nCarga: 16,249 kg\nPerigeo: 445 km\nApogeo: 535 km\nInclinación: 28.5°\nPeriodo: 94.4 min"
+    }
+  ],
+  "num_palabras": 131
+}

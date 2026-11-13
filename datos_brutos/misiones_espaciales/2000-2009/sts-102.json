@@ -1,0 +1,66 @@
+{
+  "titulo": "STS-102",
+  "titulo_wikipedia_en": "STS-102",
+  "fecha_lanzamiento": "2001-03-08",
+  "año_lanzamiento": 2001,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/STS-102",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Lugar de lanzamiento": "KSC LC-39B",
+    "Fecha de lanzamiento": "8 de marzo de 2001, 06:42 EST",
+    "Nave": "Discovery",
+    "Fecha de aterrizaje": "21 de marzo de 2001, 02:33:06 EST, Pista 15 KSC",
+    "Duración de la misión": "12 días, 19 horas, 51 minutos y 57 segundos",
+    "Inclinación orbital": "51,6º",
+    "Distancia recorrida": "8,5 millones de km.",
+    "Misión anterior": "STS-98",
+    "Misión siguiente": "STS-100",
+    "Programa": "Programa del Transbordador Espacial"
+  },
+  "resumen": "La misión STS-102 fue una misión del Transbordador Espacial Discovery. Su propósito era suministrar y reemplazar a la tripulación de la Estación Espacial Internacional. Todos los objetivos fueron cumplidos, y en la reentrada y aterrizaje ocurridos el 21 de marzo de 2001 no hubo incidentes.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "James D. Wetherbee (5), Comandante\nJames M. Kelly (1), Piloto\nAndrew S. W. Thomas (3), Especialista de misión\nPaul W. Richards (1), Especialista de misión"
+    },
+    {
+      "titulo": "Expedición 2 de la EEI Lanzada",
+      "nivel": 3,
+      "texto": "Yury V. Usachev (4), Comandante\nJames S. Voss (5), Ingeniero de vuelo\nSusan J. Helms (5), Oficial científico"
+    },
+    {
+      "titulo": "Expedición 1 de la EEI de regreso",
+      "nivel": 3,
+      "texto": "William M. Shepherd (4), Comandante\nYuri P. Gidzenko (2), Comandante de la Soyuz\nSergei K. Krikalev (5), Ingeniero de Vuelo\nson los vuelos realizados por el astronauta incluida esta misión."
+    },
+    {
+      "titulo": "Parámetros de la misión",
+      "nivel": 2,
+      "texto": "Masa:\nAl lanzamiento: 99 503 kg\nAl aterrizaje: 90 043 kg\nCarga: 5760 kg\nPerigeo: 370 km\nApogeo: 381 km\nInclinación: 51,5º\nPeríodo: 92,1 min."
+    },
+    {
+      "titulo": "Acoplamiento con la EEI",
+      "nivel": 3,
+      "texto": "Acoplado: 10 de marzo de 2001, 06:38:00 UTC\nDesacoplado: 19 de marzo de 2001, 04:32:00 UTC\nTiempo acoplado: 8 días, 21 horas, 54 minutos y 00 segundos"
+    },
+    {
+      "titulo": "Paseos espaciales",
+      "nivel": 3,
+      "texto": "Voss y Helms - EVA 1\nComienzo EVA 1: 11 de marzo - 05:12 UTC\nFinal EVA 1: 11 de marzo, - 14:08 UTC\nDuración: 8 horas, 56 minutos\nThomas y Richards - EVA 2\nComienzo EVA 2: 13 de marzo - 05:23 UTC\nFinal EVA 2: 13 de marzo - 11:44 UTC\nDuración: 6 horas, 21 minutos"
+    },
+    {
+      "titulo": "Resumen de la misión",
+      "nivel": 2,
+      "texto": "La STS-102 fue la octava misión que visitó la estación y realizó una misión de reemplazo en la tripulación de la EEI. El Transbordador espacial Discovery llevó al equipo de la Expedición 2 a la estación y devolvió al equipo de la Expedición 1 a la Tierra. La carga primaria para esta misión fue el módulo logístico multiusos Leonardo, con seis racks para el Laboratorio Espacial Destiny, entregado e instalado en la estación durante la misión STS-98. La tripulación de la STS-102 conectó temporalmente el Leonardo a la estación para descargar su contenido.\nTambién se realizaron dos EVAs para completar esta misión de ensamblaje. Los objetivos del primer paseo eran mover el puerto de acoplamiento del transbordador para dejar espacio para el MPLM (Leonardo) y sujetar la base de ensamblaje del laboratorio (Lab Cradle Assembly) sobre este. El módulo se usó en la misión STS-100 cuando el Brazo Robótico de la Estación Canadarm2 se montó en la estación. En el segundo paseo, los astronautas atracaron una plataforma de almacenamiento y una bomba refrigerante en el exterior del módulo Destiny."
+    }
+  ],
+  "num_palabras": 407
+}

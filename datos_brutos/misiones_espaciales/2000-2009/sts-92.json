@@ -1,0 +1,56 @@
+{
+  "titulo": "STS-92",
+  "titulo_wikipedia_en": "STS-92",
+  "fecha_lanzamiento": "2000-10-11",
+  "año_lanzamiento": 2000,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/STS-92",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Lugar de lanzamiento": "KSC LC-39A",
+    "Fecha de lanzamiento": "11 de octubre de 2000, 7:17:00 p. m. EDT",
+    "Nave": "Discovery",
+    "Fecha de aterrizaje": "24 de octubre de 2000, 4:59:47 p. m. EDT, Pista 22 Base Edwards",
+    "Duración de la misión": "12 días, 21 horas, 43 minutos y 47 segundos",
+    "Inclinación orbital": "51.6º",
+    "Distancia recorrida": "5.3 millones de millas",
+    "Misión anterior": "STS-106",
+    "Misión siguiente": "STS-97",
+    "Programa": "Programa del Transbordador Espacial"
+  },
+  "resumen": "La STS-92 fue una misión llevada a cabo por el Transbordador espacial Discovery la cual instaló varios componentes de la Estación Espacial Internacional como el segmento Z1, giroscópios, un puerto de acoplamiento, entre otros.\nEsta misión fue la n.º 100 en la historia de los transbordadores espaciales.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Brian Duffy (4), Comandante\nPamela Melroy (1), Piloto\nKoichi Wakata (2), Especialista de misión -\nLeroy Chiao (3), Especialista de misión\nPeter Wisoff (4), Especialista de misión\nMiguel (Michael) López-Alegría (2), Especialista de misión\nWilliam McArthur (3), Especialista de misión\nnúmero de vuelos realizados."
+    },
+    {
+      "titulo": "Parámetros de la misión",
+      "nivel": 2,
+      "texto": "Masa:\nAl lanzamiento: 115,127 kg\nAl aterrizaje: 92,741 kg\nCarga: 9,513 kg\nPerigeo: 386 km\nApogeo: 394 km\nInclinación: 51.6°\nPeríodo: 92.3 min"
+    },
+    {
+      "titulo": "Acoplamiento de la EEI",
+      "nivel": 3,
+      "texto": "Acoplamiento: 13 de octubre de 2000, 17:45:10 UTC\nDesacoplamiento: 20 de octubre de 2000, 15:08:39 UTC\nTiempo acoplado: 6 días, 21 horas, 23 minutos, 29 segundos"
+    },
+    {
+      "titulo": "Paseos espaciales",
+      "nivel": 3,
+      "texto": "Chiao y McArthur - EVA 1\nEVA 1 Comienzo: 15 de octubre de 2000 - 14:27 UTC\nEVA 1 Final: 15 de octubre, - 20:55 UTC\nDuración: 6 horas, 28 minutos\nLopez-Alegria y Wisoff - EVA 2\nEVA 2 Comienzo: 16 de octubre de 2000 - 14:15 UTC\nEVA 2 Final: 16 de octubre, - 21:22 UTC\nDuración: 7 horas, 07 minutos\nChiao y McArthur - EVA 3\nEVA 3 Comienzo: 17 de octubre de 2000 - 14:30 UTC\nEVA 3 Final: 17 de octubre, - 21:18 UTC\nDuración: 6 horas, 48 minutos\nLopez-Alegria y Wisoff - EVA 4\nEVA 4 Comienzo: 18 de octubre de 2000 - 15:00 UTC\nEVA 4 Final: October 18, - 21:56 UTC\nDuración: 6 horas, 56 minutos"
+    },
+    {
+      "titulo": "Resumen de la misión",
+      "nivel": 2,
+      "texto": "La STS-92 era una misión de construcción la cual instaló el segmento Z1, giroscopios, el Adaptador Presurizado-3 (PMA-3 en inglés) y dos DDCU (tubos calentadores) a la Estación Espacial Internacional.\nEl segmento Z1 es una estructura destinada a alojar los primeros paneles solares estadounidenses de la estación en el vuelo 4A que fueron instalados temporalmente en el módulo Unity. La antena de comunicaciones de banda Ku entrega capacidad científica temprana y televisión a EE. UU. Los giroscopios pesan cerca de 27 kilos y ofrece control de dirección no-propulsiva cuando se activen en el vuelo 5A, y el PMA-3 ofrece un puerto de acoplamiento al transbordador para la instalación de los paneles solares en el 4A, y la instalación del laboratorio en el 5A.\nLa misión incluye 7 días acoplado a la estación, 4 EVAs planeados y 2 oportunidades de reingreso."
+    }
+  ],
+  "num_palabras": 403
+}

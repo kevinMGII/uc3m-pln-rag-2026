@@ -1,0 +1,41 @@
+{
+  "titulo": "Lunar Reconnaissance Orbiter",
+  "titulo_wikipedia_en": "Lunar Reconnaissance Orbiter",
+  "fecha_lanzamiento": "2009-06-18",
+  "año_lanzamiento": 2009,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración lunar",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Lunar_Reconnaissance_Orbiter",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {},
+  "resumen": "Lunar Reconnaissance Orbiter (LRO) es una sonda espacial estadounidense destinada a la exploración de la Luna. Fue lanzada en junio de 2009. Tras completar con éxito su misión principal en su primer año en servicio, la nave sigue estando operativa a día de hoy, ubicada en una órbita lunar alta desde la que continúa enviando imágenes a la Tierra.",
+  "secciones": [
+    {
+      "titulo": "Objetivos de la misión",
+      "nivel": 2,
+      "texto": "El Lunar Reconnaissance Orbiter (LRO) es el primer satélite del “Vision for Space Exploration”, programa de la NASA cuyo objetivo final es el envío de astronautas a la Luna, el establecimiento de bases permanentes sobre su superficie y la consecución del primer vuelo tripulado a Marte y más allá.\nLa misión se centró especialmente en el estudio de los polos lunares, relativamente inexplorados y extremadamente fríos ya que no reciben la luz directa del Sol. Otro objetivo de la LRO fue situarse en órbita lunar y rastrear gracias a sus siete instrumentos zonas de aterrizaje de naves tripuladas a la Luna. Además aportó datos sobre la posible existencia de agua helada en las zonas permanentemente en la sombra en el interior de cráteres cercanos a los polos.\nLa LRO obtuvo imágenes de los lugares de aterrizaje de las diferentes naves de las misiones Apolo, apareciendo en ellos los módulos lunares. También sirvieron para localizar el emplazamiento exacto y el recorrido de los róveres soviéticos Lunojod 1 y Lunojod 2.\nLa sonda LRO llevaba a bordo el módulo LCROSS (Lunar Crater Observation and Sensing Satellite), que impactó sobre la superficie lunar. Este módulo se valió de la última etapa del cohete Atlas, encargado de lanzar las dos sondas, para realizar dos impactos en la superficie de la Luna. El resultado del choque de la etapa del Atlas fue analizado por LCROSS, que voló a través de la pluma de materiales resultante, antes de estrellarse cuatro minutos después. Los resultados de los dos impactos fueron observados por telescopios terrestres y espaciales para ser posteriormente analizados."
+    },
+    {
+      "titulo": "La misión",
+      "nivel": 2,
+      "texto": "Inicialmente estaba previsto su lanzamiento usando un cohete Atlas V para octubre de 2008, pero finalmente fue atrasado hasta el 18 de junio de 2009. La nave fue finalmente lanzada desde Cabo Cañaveral el 18 de junio de 2009 a las 17.32 hora local y con 20 minutos de retraso sobre la hora prevista, tras haberse cancelado dos veces debido a la amenaza de tormenta.\nLa sonda se puso en órbita de servicio alrededor de la Luna el día 28 de junio de 2009.\nLRO era un programa inicialmente de tres años de duración, siendo la primera misión a la Luna de la NASA desde el lanzamiento de la sonda Lunar Prospector en 1998. El lanzamiento puso en órbita alrededor de la Luna un satélite no tripulado que recogió datos científicos durante su primer año en servicio, en preparación de la futura exploración de la Luna por el ser humano.\nEl satélite estudió la topografía general de la superficie lunar, registró las condiciones y recursos de iluminación, cartografió el flujo de neutrones procedente de la superficie lunar para determinar si hay signos de existencia de agua helada, proporcionó mediciones de la radiación espacial para posibles exploraciones humanas en el futuro, registró la temperatura de toda la superficie lunar, observó toda la superficie lunar en ultravioleta lejano e investigó los efectos de los rayos cósmicos galácticos en plásticos de composición similar a la del tejido humano.\nTras observar las actividades lunares, el satélite fue desviado a una órbita superior para reducir las necesidades de mantenimiento y realizar operaciones de retransmisión. Una vez allí el satélite llevará a cabo operaciones de fin de ciclo vital e impactará por último en la superficie lunar dando fin a la misión. Sin embargo, el buen estado operativo de la sonda ha permitido prolongar su vida útil, y a mediados de 2020 continúa enviando imágenes de la Luna, a pesar del problema en una de sus cámaras provocado por el impacto de un micrometeorito en 2014.\nAlgunos datos:\nObjetivo de la misión: exploración\nCoste: 460 M$ aproximadamente\nDuración de la misión: 1 año\nDuración del viaje hasta la Luna: 4 días\nInstrumentos a bordo: 100 kg de carga (cámara de alta resolución, altímetro láser, detectores de radiación, radiómetro de infrarrojos, etc…)"
+    },
+    {
+      "titulo": "Cerebro informático de la misión",
+      "nivel": 2,
+      "texto": "En 2005 la NASA realizó un exhaustivo análisis entre varias opciones presentadas para el desarrollo del Sistema de Planificación de Misión del LRO, cerebro informático encargado de coordinar todas las operaciones de cualquier misión. Para ello se tuvieron en cuenta las peticiones de uso de los diferentes instrumentos científicos embarcados por parte de los científicos, así como eventos orbitales y algunas restricciones asociadas a la plataforma y al segmento terreno.\nLas opciones seleccionadas para ese estudio fueron tres: un sistema propio de la NASA, un sistema de una empresa americana y flexplan de GMV (sistema desarrollado íntegramente en España y que ya era utilizado por operadores como la Agencia Europea del Espacio o EUMETSAT).\nTras este estudio la NASA concluyó que flexplan era el que mejor se adaptaba a las necesidades de LRO y permitiría el desarrollo del Sistema de Planificación de Misión con el mínimo coste y el menor riesgo.\nA mediados de 2006 GMV firmó un contrato con Honeywell Technology Solutions Inc. para el suministro de flexplan como sistema de Planificación y Programación de la misión LRO. El sistema fue integrado en el centro de control Goddard de la NASA en Greenbelt (Maryland), así como en el centro de control de seguridad.\nEl sistema flexplan utiliza un generador de algoritmos que permite la implementación, cambio y validación de las reglas de la misión y del vuelo sin necesidad de compilación. El estado y uso de los instrumentos a bordo, el sistema de propulsión y el registrador de estado sólido, así como la planificación de objetivos, volcado de datos y eventos dinámicos de vuelo (ej: eclipses, pérdida de contacto con estación terrestre o maniobras) serán totalmente coordinadas por medio de flexplan."
+    },
+    {
+      "titulo": "Equipos técnicos",
+      "nivel": 2,
+      "texto": "Lunar Orbiter Laser Altimeter (LOLA)\nLunar Reconnaissance Orbiter Camera (LROC)\nLunar Exploration Neutron Detector (LEND)\nDiviner Lunar Radiometer Experiment\nLyman-Alpha Mapping Project (LAMP)\nCosmic Ray Telescope for the Effects of Radiation (CRaTER)"
+    }
+  ],
+  "num_palabras": 1011
+}

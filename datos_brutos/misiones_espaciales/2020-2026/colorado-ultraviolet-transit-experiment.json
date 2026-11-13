@@ -1,0 +1,19 @@
+{
+  "titulo": "Colorado Ultraviolet Transit Experiment",
+  "titulo_wikipedia_en": "Colorado Ultraviolet Transit Experiment",
+  "fecha_lanzamiento": "2021",
+  "año_lanzamiento": 2021,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Telescopio espacial"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Colorado_Ultraviolet_Transit_Experiment",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {},
+  "resumen": "Colorado Ultraviolet Transit Experiment (CUTE) es un pequeño telescopio espacial UV para estudiar exoplanetas seleccionadas.\nFue lanzado como un rideshare en el Atlas V que lanzó Landsat 9 el 27 de septiembre de 2021. Diseñado para operar durante al menos 8 meses y estudiar 10 exoplanetas, CUTE permanece operativo a partir de diciembre de 2023, 27 meses después del lanzamiento. Se espera que la nave espacial permanezca en órbita hasta 2027.\nCUTE puede medir cerca de UV (255-330 nm) y hacer espectroscopia de baja resolución de trazadores atmosféricos (por ejemplo. Fe II, Mg II, Mg I, OH).\nEl sensor UV es una matriz CCD de 2048 x 515 píxeles, con el espectro longitudinalmente a través del sensor. El ancho de 515 píxeles proporciona tolerancia a los daños del sensor.",
+  "secciones": [],
+  "num_palabras": 129
+}

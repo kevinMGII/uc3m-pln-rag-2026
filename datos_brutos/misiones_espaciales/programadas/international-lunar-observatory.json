@@ -1,0 +1,30 @@
+{
+  "titulo": "International Lunar Observatory",
+  "titulo_wikipedia_en": "International Lunar Observatory",
+  "fecha_lanzamiento": "2026",
+  "año_lanzamiento": 2026,
+  "estado": "programada",
+  "tipo_mision": [
+    "Telescopio espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/International_Lunar_Observatory",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {},
+  "resumen": "El International Lunar Observatory (Observatorio Lunar Internacional (ILO-1, OLI-1) es una misión lunar, científica y comercial, privada, que tiene como objetivo colocar un pequeño observatorio en el Polo sur de la Luna para realizar estudios astrofísicos utilizando un telescopio óptico. La misión, que tiene previsto su lanzamiento para el año 2019, es proporcionar un diseño conceptual de un observatorio lunar que sea de confianza, barato y rápido de implementar. Además, se espera que sea un precursor tecnológico para un observatorio de radio con un plato de 2 metros (ILOweb) en la Luna y otras iniciativas comerciales.\nLa misión ILO-1, anunciada en julio de 2017, fue una iniciativa de la International Lunar Observatory Association (ILOA) y la Space Age Publishing Company. Las principales empresas privadas interesadas son Moon Express, que proporcionará el módulo de aterrizaje MX-1E, y Canadensys Aerospace, que proporcionará el sistema de telescopio óptico. El precio estimado en el año 2004 alcanzaba la cifra aproximada de 50 millones de dólares.",
+  "secciones": [
+    {
+      "titulo": "Perspectiva general",
+      "nivel": 2,
+      "texto": "La misión ILO-1 en principio estaba previsto que fuera lanzada en el año 2008, fue lanzada en 2019 con un cohete Electron desde Nueva Zelanda. El módulo de aterrizaje MX-1E que transporta el observatorio aterrizará en la montaña Malapert, un pico de 5 km de altura en la región de la Cuenca Aitken que tiene una línea de visión directa ininterrumpida hacia la Tierra, lo que facilitará las comunicaciones en cualquier momento.\nEl pequeño observatorio robótico está diseñado para resistir las largas noches lunares, por lo que se espera que funcione durante varios años. Moon Express durante su misión al Polo Sur de la Luna también se dedicará a explorar recursos minerales, incluida agua congelada. La parte óptica del sistema es un telescopio Schmidt-Cassegrain. El sistema óptico utiliza una lente de 7 cm de diámetro, con un plano focal de 18 cm, una apertura de 13 cm f/5.6, y una resolución de 6.4 megapíxeles. El sistema tiene \"aproximadamente el tamaño de una caja de zapatos\" con una masa de aproximadamente 2 kg.\nPosibles socios potenciales podrían ser también el National Astronomical Observatory of China (NAOC), la Agencia India de Investigación Espacial(ISRO), la recientemente formada Southeast Asia Principal Operating Partnership y algún otro"
+    },
+    {
+      "titulo": "Objetivo",
+      "nivel": 2,
+      "texto": "El objetivo de la misión es realizar observaciones astrofísicas sobre la superficie de la Luna, cuya escasez de atmósfera abarata el gasto de la tecnología de óptica adaptativa. Además, dado que algunos días de la Luna (unos catorce días terrestres) tienen cielo oscuro, permite realizar observaciones astronómicas sin interrupción. Las desventajas incluyen impactos de micrometeoritos, radiación cósmica y solar, polvo lunar y cambios de temperatura de 350° Celsius. La misión también tiene previsto tomar imágenes de galaxias, estrellas, planetas, la Luna y la Tierra. El proyecto promoverá el acceso comercial al uso del telescopio para escuelas, proyectos científicos y el público en general a través de Internet.\nEl módulo de aterrizaje llevará otras dos cargas útiles secundarias que son un monumento conmemorativo de Celestis, y un experimento de medición láser lunar llamado MoonLIGHT."
+    }
+  ],
+  "num_palabras": 496
+}

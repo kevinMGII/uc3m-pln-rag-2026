@@ -1,0 +1,35 @@
+{
+  "titulo": "Expedición 43",
+  "titulo_wikipedia_en": "Expedition 43",
+  "fecha_lanzamiento": "2015-03-11",
+  "año_lanzamiento": 2015,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Expedición_43",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Fecha de inicio": "11 de marzo de 2015 UTC",
+    "Misión anterior": "Expedición 42",
+    "Misión siguiente": "Expedición 44",
+    "Nave de llegada": "Soyuz TMA-15M Soyuz TMA-16M",
+    "Nave de regreso": "Soyuz TMA-15M Soyuz TMA-16M",
+    "Programa": "Programa de la ISS",
+    "Estación espacial": "Estación Espacial Internacional",
+    "Tipo de misión": "Expedición a la ISS",
+    "Fecha de fin": "11 de junio de 2015 UTC"
+  },
+  "resumen": "La Expedición 43 fue la 43.ª estancia de larga duración en la Estación Espacial Internacional (EEI). Comenzó el 11 de marzo de 2015 con el desacoplamiento de la Soyuz TMA-14M, y el retorno de la tripulación de la Expedición 42 a la Tierra y terminó con el desacoplamiento de la Soyuz TMA-15M el 11 de junio de 2015.\nLa tripulación de la Expedición 43 pasó un «mes extra» a bordo a la espera de la investigación del fallo de la nave de carga Progress M-27 M. El 8 de junio de 2015, la EEI ajustó su órbita para alejarse a una distancia segura de un fragmento de basura espacial orbital.\nLa expedición utilizó la máquina ISSpresso (la primera cafetera diseñada para el espacio exterior) y probó una taza especial diseñada para beber en microgravedad mediante el flujo capilar desarrollada por Mark Weislogel, un físico especializado en fluidos de la Universidad Estatal de Portland y su equipo. Se trataba de una evolución de la taza para gravedad cero inventada por el astronauta Donald Pettit y probada en la EEI en 2008.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Fuente Spacefacts\nYury Lonchakov se suponía que iba a ser el ingeniero de vuelo 3. Sin embargo, renunció de la Roscosmos el 6 de septiembre de 2013 para trabajar en Gazprom. También se suponía que él iba a ser el comandante de la Expedición 44."
+    }
+  ],
+  "num_palabras": 225
+}

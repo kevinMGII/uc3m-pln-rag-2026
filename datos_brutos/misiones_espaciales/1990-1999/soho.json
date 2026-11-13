@@ -1,0 +1,52 @@
+{
+  "titulo": "SOHO",
+  "titulo_wikipedia_en": "Solar and Heliospheric Observatory",
+  "fecha_lanzamiento": "1995-12-02",
+  "año_lanzamiento": 1995,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión heliofísica",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/SOHO",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Activo",
+    "Tipo de misión": "Observatorio espacial (solar)",
+    "Operador": "NASA/ESA",
+    "Fecha de lanzamiento": "2 de diciembre de 1995",
+    "Sistema de referencia orbital": "Alrededor del punto L1 entre el Sol y la Tierra"
+  },
+  "resumen": "El Solar and Heliospheric Observatory (SOHO) es una sonda espacial, lanzada el 2 de diciembre de 1995 para estudiar el sol, comenzando sus operaciones científicas en mayo de 1996.\nEs un proyecto conjunto entre la ESA y la NASA. Aunque originalmente se planeó como una misión de solo dos años, SOHO continúa en funcionamiento tras más de veinticinco años en el espacio. SOHO también ha descubierto más de 3000 cometas. Además, actualmente es la fuente principal de datos del sol en tiempo real, necesarios para la predicción del tiempo espacial.",
+  "secciones": [
+    {
+      "titulo": "Objetivos científicos",
+      "nivel": 2,
+      "texto": "Los tres objetivos científicos principales de SOHO son:\nInvestigación de la capa externa del Sol, que consiste en la cromosfera, la región de transición y la corona. Los instrumentos CDS, EIT, LASCO, SUMER, SWAN y UVCS se utilizan para esta teledetección de atmósfera solar.\nHacer observaciones del viento solar y los fenómenos asociados en las proximidades de L1. CELIAS y COSTEP se utilizan para observaciones de viento solar in situ.\nSondeando la estructura interior del sol. GOLF, MDI y VIRGO se utilizan para heliosismología."
+    },
+    {
+      "titulo": "Órbita",
+      "nivel": 2,
+      "texto": "Hoy por hoy es una de las dos sondas (junto con el Advanced Composition Explorer) que se encuentran en la vecindad del punto L1, uno de los puntos de Lagrange. Dicho punto se define como aquel en que la gravedad del Sol menos la de la Tierra son equivalentes a la fuerza centrípeta que provoca una órbita con periodo de un año terrestre; por lo que una sonda en dicho lugar quedaría orbitaria al Sol solidariamente con la Tierra; los puntos de Lagrange son puntos de inestabilidad orbital. En realidad SOHO orbita alrededor del punto L1 cada once meses, para contrarestar la inestabilidad."
+    },
+    {
+      "titulo": "Comunicación",
+      "nivel": 2,
+      "texto": "En condiciones normales, la sonda transmite continuamente a 200 Kbps de fotografías y otras medidas solares a través de la Red del Espacio Profundo (Deep Space Network). Los datos de actividad solar del SOHO se usan para predecir las llamaradas solares, que tan perjudiciales pueden resultar para los satélites."
+    },
+    {
+      "titulo": "Datos",
+      "nivel": 2,
+      "texto": "En 2003, la ESA comunicó el fallo de uno de los motores necesarios para reorientar la antena hacia la tierra para transmitir los datos, lo que causa entre dos y tres semanas de bloqueo de datos cada tres meses. De todos modos, los científicos de la ESA y de la Red de espacio profundo (DSN) usan la antena de baja ganancia junto con las antenas más grandes de las estaciones terrestres del DSN para evitar la pérdida de ningún dato, solamente una ligera reducción del flujo de datos una vez cada tres meses."
+    },
+    {
+      "titulo": "Instrumentos",
+      "nivel": 2,
+      "texto": "SOHO contiene doce instrumentos principales, cada uno capaz de observar de manera independiente el Sol o alguna de sus partes. Estos son:\nGlobal Oscillations at Low Frecuence (GOLF): mide variaciones de la velocidad en todo el disco solar para explorar el núcleo del sol.\nVariability of Solar Irradance (VIRGO): mide oscilaciones y constantes en todo el disco solar, también para estudiar su núcleo.\nMichelson Doppler Imager (MDI): El cual mide la velocidad y el campo magnético en la fotosfera, para estudiar la zona de convección, la cual forma la capa exterior del interior del Sol, y los campos magnéticos que controlan la estructura de la corona. Véase también Heliosismología.\nSolar UV Measurement of Emitted radiation (SUMER): mide los flujos de plasma, temperatura y densidad de la corona.\nCoronial Diagnostic Spectrometer (CDS): mide densidad, temperatura y flujos coronales.\nExtreme UV Imaging Telescope (EIT): mide la estructura y actividad de la zona baja de la corona.\nUV Coronagraph and Spectrometer (UVCS): mide densidades y temperaturas de la corona.\nSolar Wind Anisotropies (SWAN): Usa un telescopio sensible a la longitud de onda característica del hidrógeno para medir el flujo másico del viento solar, mapear la densidad de la heliosfera y observar las estructura de las corrientes de viento solar a gran escala.\nCharge, Element, Isotope Analysis (CELIAS): estudia la composición iónica del viento solar.\nSuprathermal & Energetic Particle Analyser (COSTEP): Estudia la composición iónica y electrónica del viento solar.\nEnergetic Particle Analyser (ERNE): Estudia la composición iónica y electrónica del viento solar.\nLarge Angle and Spectrometric Coronagraph (LASCO): Estudia la estructura y evolución de la corona solar mediante la creación de un falso eclipse solar.\nHard Giratory Oscillogram AThermal Coronagraph (HARDCO): Recoge mediante un oscilograma la temperatura de la corona solar.\nLas observaciones de algunos de estos instrumentos pueden tener formato de imagen, la mayoría de las cuales está disponible en internet para uso público o de investigación (ver página oficial). Otras series de datos, como espectros y medidas de partículas en el viento solar, no se prestan a este tipo de difusión. Las imágenes publicadas suelen estar en el rango de longitudes de onda o frecuencias de visible hasta ultravioleta. Las imágenes tomadas parcial o exclusivamente en longitudes de onda no visibles, se muestran (no solo en SOHO, sino cualquier imagen de este estilo) en falso color.\nComo consecuencia de su observación del Sol, SOHO ha descubierto cometas que bloqueaban la luz del Sol por un instante. Aproximadamente, la mitad de los cometas conocidos han sido descubiertos por el SOHO, de los cuales un 85 % son los llamados rasantes del sol Kreutz o Sungrazers. Hasta agosto de 2011 ha descubierto ya más de 2200 cometas."
+    }
+  ],
+  "num_palabras": 863
+}

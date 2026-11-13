@@ -1,0 +1,42 @@
+{
+  "titulo": "Mars 6",
+  "titulo_wikipedia_en": "Mars 6",
+  "fecha_lanzamiento": "1973-08-05",
+  "año_lanzamiento": 1973,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración de Marte",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Mars_6",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Aterrizaje",
+    "Fecha de lanzamiento": "5 de agosto de 1973",
+    "ID NSSDC": "1973-052D\n1973-052A (Mars 6 Orbiter, 05241)",
+    "Masa en el lanzamiento": "3260 kg Total // 635 kg Aterrizador",
+    "Datos interplanetarios": "tipo: orbitador | objeto: Marte"
+  },
+  "resumen": "La Mars 6 (también llamada Marte 6) (en ruso: Марс-6) fue una sonda del programa espacial soviético lanzada el 5 de agosto de 1973 a las 17:45:48 UT desde Baikonur por un cohete Protón SL-12/D-1-e hacia el planeta Marte, en el marco del Programa Mars. La masa total en el lanzamiento de la sonda (con combustible) era de 3.260 kg.",
+  "secciones": [
+    {
+      "titulo": "Desarrollo de la misión",
+      "nivel": 2,
+      "texto": "El 13 de agosto de 1973 realizó una corrección de trayectoria. Alcanzó las inmediaciones del planeta a inicios de marzo de 1974, iniciando la misión. El 12 de marzo, cuando se encontraba a 48.000 km del mismo, se separó una sonda de descenso y aterrizaje de 635 kg, que entró en la atmósfera marciana hacia las 09:05:53 UT a una velocidad de 5,6 km/s, transmitiendo datos durante 224 segundos que indicaban una temperatura ambiente de -43° y una concentración de entre un 20% y un 30% de gases nobles en la atmósfera de Marte. El paracaídas del módulo se abrió a las 09:08:32 UT tras lo que la velocidad de descenso del mismo se redujo a 600 m/s mediante aerofrenado.\nSe perdió el contacto con el módulo de descenso a las 09:11:05 UT, cerca del momento de encendido de los retrocohetes y de su toma de contacto con el suelo. Se calcula que aterrizó a 23,90° sur y entre 19,42° y 25° oeste a una velocidad prevista de 61 m/s, al nordeste de la Argyre Planitia, al sur de la región de Margaritifer Terra.\nEl módulo de sobrevuelo se situó en una órbita heliocéntrica de 1.01 x 1.67 UA, con una inclinación de 2,2 y un período de 567 días, tras aproximarse al planeta hasta una distancia de 1600 km."
+    },
+    {
+      "titulo": "Equipos del módulo de descenso",
+      "nivel": 2,
+      "texto": "Un telefotómetro panorámico destinado a obtener imágenes de la superficie.\nSensores de la temperatura, presión, densidad y viento atmosférico.\nUn acelerómetro para medir la densidad atmosférica durante el descenso.\nUn espectrómetro para estimar la composición química atmosférica.\nUn altímetro.\nUn experimento para analizar la composición del suelo\nSensores para estudiar las propiedades físicas del suelo."
+    },
+    {
+      "titulo": "Equipos del módulo de sobrevuelo",
+      "nivel": 2,
+      "texto": "Un telefotómetro para obtener imágenes de Marte desde el espacio.\nUn sensor Lyman-Alpha para buscar hidrógeno en la atmósfera superior.\nUn magnetómetro.\nUn sensor electrostático de plasma para estudiar la interacción entre el viento solar y la atmósfera de Marte.\nUn sensor de rayos cósmicos.\nUn sensor de micrometeoritos.\nUn radiómetro para medir para medir las emisiones de radio.\nUn experimento de para examinar la atmósfera y la ionosfera."
+    }
+  ],
+  "num_palabras": 404
+}

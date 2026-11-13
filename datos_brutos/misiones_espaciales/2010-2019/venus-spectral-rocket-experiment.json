@@ -1,0 +1,53 @@
+{
+  "titulo": "Venus Spectral Rocket Experiment",
+  "titulo_wikipedia_en": "Venus Spectral Rocket Experiment",
+  "fecha_lanzamiento": "2013-11-27",
+  "año_lanzamiento": 2013,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Telescopio espacial"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Venus_Spectral_Rocket_Experiment",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Otros nombres": "VeSpR",
+    "Operador": "NASA",
+    "Duración de la misión": "10 minutos",
+    "Fabricante": "Universidad de Boston",
+    "Fecha de lanzamiento": "27 de noviembre de 2013",
+    "Vehículo de lanzamiento": "Primera etapa: misil Terrier\n2a etapa: Black Brant",
+    "Lugar de lanzamiento": "Alcance de los misiles de arena blanca",
+    "Sistema de referencia orbital": "Suborbital",
+    "Apoapsis": "300 km",
+    "Tipo de telescopio": "Diseño de cassegrain",
+    "Diámetro del telescopio": "35 cm",
+    "Longitudes de onda": "Ultravioleta"
+  },
+  "resumen": "El Venus Spectral Rocket Experiment (VeSpR) fue un telescopio suborbital que recopiló datos sobre la luz ultravioleta (UV) que se emite desde la atmósfera de Venus, que puede proporcionar información sobre la historia del agua en Venus. Las mediciones de este tipo no se pueden hacer usando telescopios basados en la Tierra porque la atmósfera de la Tierra absorbe la mayor parte de la luz UV antes de llegar al suelo.",
+  "secciones": [
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "El experimento Venus Spectral Rocket Experiment (VeSpR) recopiló datos el 27 de noviembre de 2013 sobre la fuga de agua de la atmósfera de Venus durante el vuelo del cohete suborbital. El cohete sonda llevaba el telescopio por encima de la mayor parte de la atmósfera de la Tierra donde podía observar la luz ultravioleta de Venus que normalmente sería absorbida por la atmósfera de la Tierra. El tiempo total de vuelo fue de menos de 10 minutos, y el telescopio puede ser recuperado y reutilizado."
+    },
+    {
+      "titulo": "Cohete sondador",
+      "nivel": 2,
+      "texto": "VeSpR es un sistema de dos etapas, que combina un misil Terrier – originalmente construido como un misil tierra-aire y posteriormente reutilizado para apoyar misiones científicas – y un cohete de sondeo Black Brant modelo Mk1 con un telescopio dentro desarrollado por el Centro de Física Espacial de la Universidad de Boston.La integración tuvo lugar en la instalación de vuelo Wallops de la NASA en Virginia.\nLa etapa Terrier se dispara solo 6 segundos después del lanzamiento antes de que se queme y se separa del Mk 1, con una aceleración de cero a 2100 km/h (1300 mph). El Black Brant avanza hacia arriba durante 6 segundos, antes de disparar durante unos 30 segundos, llevando la carga útil a una velocidad de más de 7800 km/h (4800 mph). En ese punto el cohete tiene 46 km de altura, pero ya tiene suficiente velocidad para llegar a la costa por casi cuatro minutos más, alcanzando su pico de 300 km antes de comenzar su descenso de regreso a la Tierra. La carga útil hizo su descenso final con un paracaídas y aterrizó a unos 80 km (50 millas) de distancia baja del lugar de lanzamiento, donde se puede recuperar."
+    },
+    {
+      "titulo": "Ciencia",
+      "nivel": 2,
+      "texto": "Las atmósferas superiores de los tres planetas terrestres se evaporan lentamente hacia el espacio, con la tasa de pérdida más alta para el átomo más ligero, el hidrógeno. En Venus, la radiación solar UV penetra en la atmósfera media, donde la fotodisociación de H2O por la radiación solar UV libera H y O, que se difunden en la atmósfera superior y finalmente llegan a la exobase. Los átomos H pueden perderse en el espacio, mientras que relativamente menos átomos O escapan, principalmente debido a procesos no térmicos. Comprender los detalles de la fuga hoy es un requisito para poder extrapolar en el pasado para aprender la historia del agua de Venus.\nSe sabe que la atmósfera de Venus ha sufrido una evolución sustancial durante el tiempo geológico. La evidencia de esto incluye el contraste notable actual entre la atmósfera de Venus y la de la Tierra: Venus tiene muy poca agua, una atmósfera de CO2 del 95%, una temperatura superficial de 750 K, y una presión superficial de 90 bar. Se cree que la atmósfera venusiana temprana sufrió un episodio de calentamiento de invernadero húmedo o descontrolado para producir estas condiciones, y esto habría incluido el escape hidrodinámico de gases de luz de la atmósfera superior para agotar posiblemente tanto como un océano de agua. El apoyo para este escenario proviene de la relación medida de D/H en la atmósfera de Venus de aproximadamente un 1,6% del espectrómetro de masa Pioneer Venus, datos del espectrómetro de masa iónica en órbita (OIMS) y espectros IR de la atmósfera nocturna. Esta gran mejora sobre las abundancias cósmicas es consistente con la pérdida del valor de un océano de H2O sobre el tiempo geológico."
+    },
+    {
+      "titulo": "Telescopio",
+      "nivel": 3,
+      "texto": "El telescopio VeSpR es un diseño Cassegrain de propósito especial para realizar observaciones que otras misiones no son capaces de realizar. El uso de un prisma de predispersión para evitar que las longitudes de onda largas entren en el espectrógrafo permite una aproximación de larga apertura a la espectroscopia de echelle, y la combinación elegida de imágenes y escalas de dispersión proporciona una alta resolución espectral de los perfiles de las líneas de emisión con una abertura de varios sec de arco para una buena sensibilidad. Para una resolución espectral comparable, el HST/STIS utiliza una abertura de 0,2 segundos de arco, que proporciona 375 veces menos ángulo sólido en el cielo que una región de 3 x 5 segundos de arco observada por este telescopio cohete. Para comparar, la proporción de áreas del telescopio HST/cohete es aproximadamente 50 veces. Con eficiencias equivalentes, el Telescopio Espacial Hubble necesitaría 4 horas de tiempo de observación para lograr el mismo S/N que el cohete obtiene en 5 minutos. Sin embargo, no se permite que el telescopio Hubble apunte demasiado cerca del Sol para evitar dañar sus instrumentos, por lo que no se puede utilizar para esto.\nEl telescopio VeSpR es un diseño Cassegrain con una figura Dall-Kirkham, y con un primario elipsoidal de 35 cm de diámetro y un espejo esférico secundario que proporciona una calidad de imagen de 1-2 segundos de arco dentro de unos pocos minutos de arco del eje óptico. El telescopio entrega un haz f/21 al plano focal con una escala de placa de 26 sec de arco/mm. El espectrógrafo ha sido diseñado y construido para mediciones de perfil de línea UV echelle con imágenes de larga luz. La configuración de Ebert-Fastie empleada en el diseño del espectrógrafo tiene muchas características que se adaptan bien a las necesidades científicas de esta misión. Para eliminar las aberraciones se emplean reflejos simétricos fuera del eje de un solo espejo colimador: la resolución espacial está limitada por el telescopio y la resolución espectral por las características de rejilla y apertura.\nEl uso de un colimador paraboloidal, ha producido una calidad de imagen de 2 segundos de arco con un astigmatismo mínimo a lo largo del arco central 2-3 min. Un prisma objetivo de 2 grados de fluoruro de magnesio (MgF2) montado hacia delante de la placa de apertura se utiliza para dispersar el haz convergente del telescopio: con la imagen 1216 Å centrada en la abertura principal, otras longitudes de onda se excluyen del espectrógrafo que produce un nivel muy bajo de luz dispersa en el detector.\nEl espectrógrafo utiliza una réplica de un prototipo de rejilla para el Telescopio Espacial Hubble STIS. Para una anchura de apertura de 5 segundos de arco, la resolución medida en el último vuelo fue de 0.055 Å FWHM. Se incluye una cámara para reimaginar el plano focal en un detector separado, proporcionando una imagen del campo de visión del telescopio menos la luz que pasa a través de la abertura del espectrógrafo. La imagen de Venus en la placa de apertura estará suficientemente dispersa por el prisma objetivo que la imagen de Ly α estará claramente separada del continuum de longitud de onda más larga y las emisiones."
+    }
+  ],
+  "num_palabras": 1169
+}

@@ -1,0 +1,66 @@
+{
+  "titulo": "Phoenix (sonda)",
+  "titulo_wikipedia_en": "Phoenix (spacecraft)",
+  "fecha_lanzamiento": "2007-08-04",
+  "año_lanzamiento": 2007,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración de Marte",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Phoenix_(sonda)",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Aterrizador",
+    "Operador": "NASA",
+    "Fabricante": "Lockheed Martin",
+    "Fecha de lanzamiento": "2007 de agosto de 04 09:26 UTC",
+    "Vehículo de lanzamiento": "Delta II 7925",
+    "Duración de la misión": "Planeado: 90 días marcianos (Soles)\n157 Soles",
+    "ID NSSDC": "2007-034A",
+    "Masa en el lanzamiento": "670 kg (1477,1 lb)",
+    "Potencia": "Paneles solares"
+  },
+  "resumen": "Phoenix o Phoenix Mars Lander fue una sonda espacial construida por la NASA, lanzada el 4 de agosto de 2007 desde la base de Cabo Cañaveral con destino al planeta Marte. Su llegada se produjo a las 11:54 p. m. GMT del 25 de mayo de 2008 (MSD 47777 1:02 AMT, 25 Kumbha 212 Dariano).\nEl programa científico constituyó un esfuerzo conjunto entre las universidades de los Estados Unidos, Canadá, Suiza, Dinamarca y Alemania. Su principal objetivo era que la sonda llegara a una región cercana al Polo Norte marciano, que desplegase su brazo robot e hiciese prospecciones a diferentes profundidades para examinar el subsuelo de Marte.\nPhoenix no era el primer intento de esta naturaleza, ya que en 1999 la sonda Mars Polar Lander había llevado el mismo destino, aunque se estrelló al realizar la maniobra de aterrizaje. Por otra parte, la misión Mars Surveyor Lander se había suspendido antes incluso de partir en 2001. Dos de los instrumentos diseñados para esta última se renovaron e incorporaron en Phoenix. El nombre de Phoenix (Fénix, en español) se eligió para indicar de forma metafórica el renacimiento de las dos primeras misiones fallidas.\nLa diferencia entre los tres últimos descensos con éxito de sondas de la NASA en Marte (Mars Pathfinder, Spirit y Opportunity) es que no utilizaron bolsas de aire para amortiguar el impacto con el suelo. Phoenix descendió con pequeños cohetes similares a los que llevaban hace tres décadas las dos sondas Viking para posarse en el suelo marciano tras el inicio del descenso con paracaídas. Además, constituyó el precursor del revolucionario sistema de aterrizaje utilizado por la Curiosity, lanzada el 8 de octubre de 2009.",
+  "secciones": [
+    {
+      "titulo": "Lanzamiento y aterrizaje",
+      "nivel": 2,
+      "texto": "El lanzamiento se produjo el 4 de agosto de 2007 en un cohete Delta 7925 desde Cabo Cañaveral. La sonda solo tuvo que hacer una corrección de trayectoria el 10 de agosto para ponerse rumbo a Marte. Su llegada a Marte se produjo a las 11:54 p. m. GMT del 25 de mayo del 2008."
+    },
+    {
+      "titulo": "Objetivos de la misión",
+      "nivel": 2,
+      "texto": "La misión tuvo varios objetivos:\nDeterminar si hubo o pudo haber vida en Marte.\nCaracterizar el clima de Marte.\nEstudiar la geología de Marte.\nEfectuar estudios de la historia geológica del agua, factor clave para descifrar el pasado de los cambios climáticos del planeta.\nLa misión principal debió de durar 90 días marcianos (unos 92 días terrestres aproximadamente). Tras el descubrimiento de hielo de agua, se decidió prolongar la misión cinco semanas más para acabar finalmente el 10 de noviembre del 2008."
+    },
+    {
+      "titulo": "El aterrizador",
+      "nivel": 2,
+      "texto": "La nave consistía en un octágono. Sus medidas eran: 5,5 m de largo con los paneles solares desplegados y 2,2 m de longitud desde abajo. La cubierta de la nave medía 1,5 m. La masa de la sonda era de 350 kg, 55 de ellos de instrumentos científicos. La electricidad se obtenía gracias a dos paneles solares en forma de decágonos desplegables, que contaban con una superficie total de 4,2 m. La electricidad se acumulaba en dos baterías de ion de litio con capacidad de 25 Ah. La propulsión se usó para frenar la nave durante su descenso. Se usaron 12 propulsores de hidracina. Doce motores montados en el borde inferior de la nave servían para frenar la caída con un empuje de 293 N. Había dos tanques de hidracina en la parte inferior de la sonda. El control de altitud se determinó usando un altímetro de radar para medir la altitud. El control térmico se usó para mantener la temperatura exacta en la nave para su operación. Se utilizaron calentadores eléctricos, termostatos, sensores de temperatura y mantas térmicas aislantes. Las telecomunicaciones se hacían en banda UHF de 300 a 1000 MHz. La nave se enlazaba con otras naves en la órbita marciana. El componente principal era una antena de hélice y una antena monopolo montadas en la cubierta. La velocidad de envío de datos era de 8000, 32 000 o 128 000 bits/s y la de recepción de 2000 bits/s. Una computadora PowerPC dirigía la nave, mientras se usaba un procesador IBM RAD6000 para el control y manejo de datos. La memoria flash interna era de 74 Mb. El software de vuelo se usaba para controlar la nave, procesar los comandos, gestionar datos, etc., con numerosas aplicaciones y era capaz de resolver los problemas en la nave."
+    },
+    {
+      "titulo": "Instrumentos",
+      "nivel": 2,
+      "texto": "RA (Robotic Arm) - Brazo robótico que excavaba las zanjas para extraer las muestras del subsuelo marciano y depositarlas en los instrumentos de análisis TEGA y MECA. Medía 2.35 m y permitía excavar zanjas de 0.5 m de profundidad. La capa de hielo se encontró a 4 cm de profundidad. Este brazo se probó con éxito en el Valle de la Muerte, ya que se esperaba que la dureza del suelo allí fuera similar a la que se encontraron en la zona de descenso en Marte.\nRAC (Robotic Arm Camera) - La cámara se encontraba en el brazo robótico justo antes de la pala de excavación. Con esta cámara se tomaron imágenes cercanas del suelo de la zona de aterrizaje. También sirvió para elegir y comprobar la correcta toma de las muestras. Asimismo, se usó para estudiar la estructura y las capas del interior de la zanja.\nMARDI (Mars Descent Imager) - Es una cámara que tomaría imágenes de la zona de descenso. En la fase de descenso si fuera activada se detectó un posible fallo en la transmisión de datos críticos, lo que hizo tomar la decisión de no usarla. MARDI era uno de los instrumentos reciclados de la Mars Polar Lander.\nMET (Meteorological Station) - Esta estación meteorológica registró el clima de Marte en la zona de aterrizaje. MET medía la presión y la temperatura con termopares a tres alturas distintas. También disponía de un instrumento llamado LIDAR que determinaba la composición y localización de las partículas de polvo y hielo de la atmósfera marciana usando un láser.\nSSI (Surface Stereo Imager) - Cámara panorámica estereográfica de alta resolución. Se situaba en el extremo de un mástil de unos 2 metros de altitud. Se utilizó para generar imágenes tridimensionales de la zona de alcance del brazo robótico para ayudar en la decisión del mejor punto de excavación. Era capaz de observar en 12 bandas diferentes de frecuencia desde el visible hasta el infrarrojo cercano. También se utilizó para estudiar algunas propiedades de la atmósfera, como la opacidad, el contenido de vapor de agua, etc. Otra utilidad fue la de observar a la propia sonda para comprobar la deposición de polvo sobre los paneles solares.\nMECA (Microscopy, Electrochemistry and Conductivity Analyzer) - Este instrumento realizó estudios complejos de muestras del suelo marciano mediante la disolución de muestras de suelo con agua para determinar su acidez o alcalinidad (pH), el oxígeno y dióxido de carbono disueltos y la presencia de ciertos minerales. Este análisis se realizó en uno de los cuatro recipientes específicos de un solo uso. El instrumento también dispone de microscopios ópticos y de fuerza atómica para observar las muestras. También cuenta con un sensor en la punta del brazo robótico para realizar análisis de resistencia eléctrica en el interior de la zanja. MECA fue uno de los instrumentos diseñados inicialmente para la misión Mars Surveyor Lander.\nTEGA (Thermal and Evolved Gas Analyzer) - TEGA es un espectrómetro de masas que analizaba muestras del suelo calentadas hasta ser volatilizadas en gas. El instrumento constaba de ocho pequeños hornos de un solo uso que volatilizan muestras del suelo. Tras calentar las muestras, estas fueron analizadas por un espectrómetro de masas que determinaba con gran precisión su composición química y de isótopos. TEGA fue diseñado por el mismo equipo que diseño el espectrómetro de gases de la Mars Polar Lander."
+    },
+    {
+      "titulo": "DVD del Phoenix",
+      "nivel": 2,
+      "texto": "La sonda llevaba consigo un mini DVD llamado \"The Phoenix DVD\" diseñado por la Sociedad Planetaria. El contenido multimedia se denominó Visiones de Marte y lo componían, entre otros, una colección de literatura sobre Marte, incluyendo la obra de H. G. Wells «La guerra de los mundos» junto con la histórica transmisión de radio de Orson Welles, los mapas realizados por Percival Lowell sobre los canales de Marte, «Crónicas Marcianas» de Ray Bradbury y «Marte verde» de Kim Stanley Robinson. También contenía mensajes dirigidos a los futuros exploradores y colonizadores de Marte de parte de Carl Sagan y Arthur C. Clarke. A finales de 2006, la 'Sociedad Planetaria' reunió un cuarto de millón de nombres de personas que lo habían solicitado en su sitio web y los incluyó en el disco."
+    },
+    {
+      "titulo": "Resultados",
+      "nivel": 2,
+      "texto": "El fin de la misión, el 10 de noviembre de 2008, marcó el inicio de la interpretación detallada de los datos obtenidos. Sin embargo, algunos de los datos iniciales fueron sobresalientes. El 19 de junio de 2008 la NASA afirmó que la sonda Phoenix había encontrado hielo al realizar una excavación cerca del Polo Norte de Marte. Unos trozos de hielo se sublimaron (pasaron del estado sólido al gaseoso sin pasar por líquido) después de ser desenterrados el 15 de junio por el brazo mecánico del robot.\nPosteriormente se determinó que el suelo marciano —al menos donde aterrizó la sonda— es alcalino con un pH (acidez) de entre 8 y 9 y análogo al suelo de la superficie cercana en los valles de la Antártida.\nEl 31 de julio, TEGA transmitió los resultados de una muestra de suelo que al principio había tenido problemas para introducir en su horno, debido a que gran parte de ella se adhería a la pala del brazo robótico. Según estos resultados, su contenido era hielo de agua, con lo cual, quedó directamente confirmada su presencia en Marte.\nEl 30 de septiembre, Phoenix detectó nieve en la atmósfera de Marte, una observación sin precedentes. Un instrumento láser concebido para analizar las interacciones entre la atmósfera y la superficie del suelo marciano detectó nieve proveniente de nubes a 4000 metros de altitud sobre Phoenix. Según las observaciones, los copos de nieve se sublimaron antes de llegar a la superficie de Marte.\nExperimentos realizados con los instrumentos de Phoenix también revelaron rastros de reacciones químicas entre minerales del suelo marciano y agua líquida en el pasado. Esto indica períodos en el pasado de Marte en los cuales corría agua líquida por el suelo. Los datos generados por la sonda Phoenix también sugieren la presencia de carbonato de calcio, el principal componente de la roca caliza. La mayoría de los carbonatos y arcillas sobre la Tierra se forman con la presencia de agua líquida.\nEl análisis de algunas imágenes y datos muestra lo que parecen ser gotas de agua líquida salina que salpicaron las patas de la sonda tras su aterrizaje."
+    },
+    {
+      "titulo": "Finalizando la misión",
+      "nivel": 2,
+      "texto": "El 29 de octubre de 2008 se perdió el contacto con Phoenix para ser recuperado al día siguiente con la ayuda de la sonda orbital Mars Odyssey. Al parecer, la sonda entró en \"modo seguro\" o \"hibernación\" debido a la disminución de la luz solar conforme avanza el invierno en Marte. La sonda fue reactivada pero la poca energía solar disponible obligó a la desconexión de la mayoría de los calentadores necesarios para la función de los sistemas mecánicos y electrónicos, así como suspender todas las operaciones científicas a excepción del monitoreo climatológico. En días posteriores, se consiguió establecer contacto a diario con Phoenix, pero solo durante breves períodos de tiempo al amanecer. Finalmente se decidió dar la misión por finalizada al no recibirse más señales de ella, como era esperado con el avance del invierno.\nEl 25 de mayo de 2010 oficialmente se da por muerta a Phoenix."
+    }
+  ],
+  "num_palabras": 1905
+}

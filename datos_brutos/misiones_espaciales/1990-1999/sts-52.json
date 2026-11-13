@@ -1,0 +1,60 @@
+{
+  "titulo": "STS-52",
+  "titulo_wikipedia_en": "STS-52",
+  "fecha_lanzamiento": "1992-10-22",
+  "año_lanzamiento": 1992,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/STS-52",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Otros nombres": "Sistema de Transporte Espacial-52",
+    "Tipo de misión": "Despliegue de satélites LAGEOS 2\nInvestigación sobre la microgravedad",
+    "Operador": "NASA",
+    "Distancia recorrida": "6645026 km",
+    "Órbitas completadas": "159",
+    "Masa en el lanzamiento": "113460 kg",
+    "Masa en el aterrizaje": "97574 kg",
+    "Masa de la carga útil": "8078 kg",
+    "Tripulación": "Jim Wetherbee; Michael A. Baker; Charles L. Veach; William Shepherd; Tamara E. Jernigan; Steve MacLean",
+    "Fecha de lanzamiento": "22 de octubre de 1992, 17:09:39 UTC (1:09:39 pm EDT)",
+    "Lugar de lanzamiento": "Kennedy, LC-39B",
+    "Contratista del lanzamiento": "Rockwell Internacional",
+    "Fecha de aterrizaje": "1 de noviembre de 1992, 14:05:53 UTC (9:05:53 am EST)",
+    "Lugar de aterrizaje": "Kennedy, SLF Runway 33",
+    "Sistema de referencia orbital": "Órbita geocéntrica",
+    "Régimen orbital": "Órbita terrestre baja",
+    "Periapsis": "300 km",
+    "Apoapsis": "302 km",
+    "Inclinación orbital": "28.45°",
+    "Periodo orbital": "90,60 minutos",
+    "Instrumentos": "Experimento canadiense (CANEX-2); Experimento químico de transporte por vapor de calor por tuberías (CVTEHPPE); Experimento Lambda Point; Sensor de Tierra Cónico de Baja Altitud (LACES); Exposición de materiales en órbita terrestre baja (MELEO); Matériel pour l'Étude des Phénomènes Intéressant la Solidification sur eT en Orbite (MEPHISTO); Sensor de estrellas modulares (MOSS); Mission Peculiar Equipment Support Structures (MPESS); Orbiter Glow (OGLOW-2); Phase Partitioning in Liquids (PARLIQ); Queen's University Experiment in Liquid-Metal Diffusion (QUELD); Experimento de sistemas fisiológicos (PSE); Sistema de medición de la aceleración espacial (SAMS); Pruebas y observaciones de adaptación espacial (SATO); Experimento de impacto de la pluma de transporte (SPIE); Medición de la atmósfera de la Tierra fotoespectrométrica del sol (SPEAM-2); Sistema de visión espacial (SVS); Ensayo de control de la presión de tanques/fenómenosmo (TP);",
+    "Programa": "Programa de transporte espacial",
+    "Misión anterior": "STS-47 (50)",
+    "Misión siguiente": "STS-53 (52)"
+  },
+  "resumen": "STS-52 fue una misión del transbordador espacial de la NASA que utilizó el transbordador espacial Columbia, lanzado el 22 de octubre de 1992.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Aspectos destacados de la misión",
+      "nivel": 2,
+      "texto": "Los objetivos principales de la misión fueron el despliegue del satélite de geodinámica láser 2 (LAGEOS-2) y el funcionamiento de la carga útil de microgravedad de los Estados Unidos-1 (USMP-1). Lageos 2, un esfuerzo conjunto entre la NASA y la Agencia Espacial Italiana (ASI), fue desplegado el día 2 y impulsado a una órbita elíptica inicial por la etapa provisional de investigación italiana de ASI (IRIS). El motor de lanzamiento de apogeo de la nave espacial más tarde circularizó la órbita de LAGEOS 2 a su altitud operacional de 5900 km. El USMP-1, activado en el primer día, incluyó tres experimentos montados en dos estructuras de soporte de equipo Peculiar de la Misión conectadas (MPESS) montadas en la bahía de carga del orbitador. Los experimentos de USMP-1 fueron: Lambda Point Experiment; Matériel pour l'Étude des Phénomènes Intéressant la Solidification sur eT en Orbite (MEPHISTO), patrocinado por la agencia francesa Centre National d'Études Spatiales (CNES); y Space Aceleration Measurement System (SAMS).\nCargas útiles secundarias: 1) experimento canadiense (CANEX-2), situado tanto en la bahía de carga del orbitador como en el centro de la cubierta y que consistió en el Sistema de Visión Espacial (SVS); Exposición de materiales en órbita terrestre baja (MELEO); Experimento universitario de Queen's en difusión de metales líquidos (QUELD); Partición de fase en líquidos (PARLIQ); Medición de la atmósfera terrestre de fotoespectrometría solar-2 (SPEAM-2); Orbiter Glow-2 (OGLOW-2); y Ensayos y observaciones de adaptación espacial (SATO). El día nueve se desplegó un pequeño satélite, especialmente marcado, la Asamblea de Objetivos del Canadá (CTA), para apoyar los experimentos de SVS. (2) ASP, con tres sensores independientes montados en una placa Hitchhiker en la bahía de carga – Sensor Estelar Modular (MOSS), Sensor de Tierra Yaw (YES) y Sensor de Tierra Cónico de Baja Altitud (LACES), todos ellos proporcionados por la Agencia Espacial Europea (ESA).\nOtras cargas útiles de la cubierta media: Material comercial Dispersión Aparatos Tecnología Experimentos asociados; Experimento comercial de crecimiento de cristales de proteínas; Experimento químico de transporte de vapor Experimento de rendimiento de tuberías de calor (CVTEHPPE); Experimento de sistemas fisiológicos (PSE) (en el que participan 12 roedores); y Experimento de impacto de pluma de lanzadera (SPIE). El orbitador también se utilizó como punto de referencia para calibrar un instrumento de pluma ultravioleta en un satélite en órbita de la Organización de la Iniciativa de Defensa Estratégica (SDIO).\nEl Experimento de Control de Presión del Tanque/Fenómenos Termales (TPCE/TP) fue contenido en un bote especial de Escapada (GAS) en la bahía de carga del orbitador.\nAlgunas de las cenizas del creador de Star Trek, Gene Roddenberry, también fueron transportadas a bordo del orbitador durante la duración de la misión."
+    },
+    {
+      "titulo": "Llamadas de atención",
+      "nivel": 2,
+      "texto": "La NASA comenzó una tradición de tocar música a los astronautas durante el Proyecto Gemini, y primero usó música para despertar a una tripulación de vuelo durante el Apollo 15. Una pista musical especial es elegida para cada día en el espacio, a menudo por las familias de los astronautas, para tener un significado especial para un miembro individual de la tripulación, o en referencia a las actividades planeadas del día."
+    }
+  ],
+  "num_palabras": 535
+}

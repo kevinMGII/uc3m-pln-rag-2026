@@ -1,0 +1,43 @@
+{
+  "titulo": "Stardust (sonda espacial)",
+  "titulo_wikipedia_en": "Stardust (spacecraft)",
+  "fecha_lanzamiento": "1999-02-07",
+  "año_lanzamiento": 1999,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración de cometas",
+    "Exploración de asteroides y planetas menores",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Stardust_(sonda_espacial)",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Finalizada",
+    "Tipo de misión": "Sonda de cometa",
+    "Operador": "NASA",
+    "Fecha de lanzamiento": "7 de febrero de 1999",
+    "Sistema de referencia orbital": "Heliocéntrica"
+  },
+  "resumen": "Stardust fue una sonda espacial robótica, estadounidense, de 385 kilogramos lanzada por la NASA el 7 de febrero de 1999. Su misión principal consistía en recoger muestras de polvo de la coma del cometa Wild 2 (cometa 81P/Wild), así como muestras de polvo cósmico, y devolverlas a la Tierra para su análisis. Fue la primera misión de retorno de muestras de este tipo. En ruta hacia el cometa Wild 2, también sobrevoló y estudió el asteroide 5535 Annefrank. La misión principal concluyó con éxito el 15 de enero de 2006, cuando la cápsula de retorno de muestras regresó a la Tierra.\nSe cree que el material recogido por la sonda es de una época anterior a la formación del sistema solar y también restos de su constitución.",
+  "secciones": [
+    {
+      "titulo": "Antecedentes de la misión",
+      "nivel": 2,
+      "texto": "A partir de la década de 1980, los científicos empezaron a buscar una misión específica para estudiar un cometa. A principios de la década de 1990, varias misiones para estudiar el cometa Halley se convirtieron en las primeras misiones con éxito que devolvieron datos cercanos. Sin embargo, la misión estadounidense al cometa, Comet Rendezvous Asteroid Flyby, fue cancelada por motivos presupuestarios. A mediados de los años noventa, se dio más apoyo a una misión más barata, de clase Discovery, que estudiaría el cometa Wild 2 en 2004.\nLa construcción de Stardust comenzó en 1996, y estaba sujeta a la máxima restricción de contaminación, el nivel 5 de protección planetaria.\nEl cometa Wild 2 fue seleccionado como objetivo principal de la misión por la rara oportunidad de observar un cometa de periodo largo que se ha aventurado a acercarse al Sol.\nLos principales objetivos científicos de la misión eran\nRealizar un sobrevuelo de un cometa de interés (Wild 2) a una velocidad suficientemente baja (menos de 6,5 km/s) como para permitir la captura no destructiva de polvo cometario mediante un colector de aerogel.\nFacilitar la interceptación de un número significativo de partículas de polvo interestelar utilizando el mismo medio de recogida, también a una velocidad lo más baja posible.\nDevolver el mayor número posible de imágenes de alta resolución de la coma y el núcleo del cometa, dentro de las limitaciones de coste de la misión.\nLa nave espacial fue diseñada, construida y operada por Lockheed Martin Astronautics como una misión de clase Discovery en Denver, Colorado. El JPL se encargó de la gestión de la misión para la división de operaciones de la NASA. El investigador principal de la misión fue el Dr. Donald Brownlee de la Universidad de Washington."
+    },
+    {
+      "titulo": "Misión y retorno",
+      "nivel": 2,
+      "texto": "La Stardust voló cerca del Wild 2 el 2 de enero de 2004. Durante su paso por la cola del cometa recolectó muestras de polvo de su coma y tomó fotografías detalladas de su núcleo de hielo. Stardust aterrizó el 15 de enero de 2006 en el Gran Desierto del Lago Salado, en Utah, cerca del Campo de Pruebas del Ejército de los EE. UU. (Dugway), con la cápsula que contiene la muestra de material espacial.\nEs el primer intento de recoger polvo espacial más allá de la Luna. La edad de las partículas se remonta posiblemente a los orígenes del sistema solar.\nEn el momento de su retorno a la Tierra, la cápsula viajaba a 46 446 kilómetros por hora (28 860 millas por hora), lo cual la convierte en el objeto hecho por el hombre que más rápido ha reentrado en la atmósfera terrestre. Como punto de comparación, el representante de la NASA en Utah declaró que a esa velocidad sería capaz de viajar entre Salt Lake City y Nueva York en menos de 6 minutos. Una gran bola de fuego y la onda acústica debió haberse notado al oeste de Utah y al este de Nevada.\nLos responsables de la NASA dijeron que la nieve pronosticada por el Servicio Nacional del Clima, sobre una alerta de 12 pulgadas y acompañada de tormentas eléctricas, no representó ninguna complicación para la reentrada.\nDonald Brownlee, de la Universidad de Washington, fue el investigador principal de la misión Stardust."
+    },
+    {
+      "titulo": "La nave",
+      "nivel": 2,
+      "texto": "La nave espacial Stardust se compone de una caja principal en forma de bus de 1,6 m de largo, 0,66 m de ancho y 0,66 m de profundidad con una antena de alta ganancia instalada en una de las caras de la caja. La masa total de la nave espacial incluyendo la cápsula de retorno y 85 kg de combustible es de 385 kg. El bus está hecho de paneles planos fabricados con finas láminas de fibras de grafito en resina polycyanate cubriendo un ligero núcleo de nido de abeja de aluminio. Dos paneles solares rectangulares (4,8 m de punta a punta) conectados por puntales se extienden a los lados opuestos de la nave espacial a lo largo del eje longitudinal de la nave espacial con su superficie en el mismo plano de esta cara, que se extiende paralela a los demás en sus direcciones de largo. La cápsula de reentrada de muestras en forma de cono de 0,8 m de diámetro, 0,5 m de altura, 46 kg se adjunta por su extremo más estrecho a la cara trasera del bus. Un disco en forma de pala de recogida de muestras se extiende desde la cápsula durante los períodos de muestreo, y se almacenan dentro de la cápsula cerrada por una tapa cuando no esté en uso. Las unidades de propulsión están en la cara posterior de la nave. Un protector de polvo de Whipple en la parte delantera de la nave protege el núcleo principal del bus y está equipado con monitores de flujo de polvo, vibro-sensores acústicos capaz de detectar los impactos de partículas en el escudo. Los paneles solares también cuentan con dos pequeños escudos protectores.\nLa nave también está equipada con una cámara de navegación óptica, un monitor de flujo de polvo, y un espectrómetro de polvo / analizador de impacto de partículas. No hay plataformas de exploración, todos los instrumentos de ciencia están montados en el cuerpo. La propulsión es proporcionada por un sistema de monopropelentes de hidracina. El control de actitud se mantiene por ocho propulsores de 4,4 N y ocho propulsores de 0.9 N, todo montado en la parte inferior de la nave, lejos del colector de la muestra para evitar la contaminación. La detección de actitud de tres ejes es provista por una cámara de estrellas y giroscópico unidad de medición inercial. La alimentación se suministralos paneles solares de silicio que proporcionan entre 170 y 800 W dependiendo de la distancia desde el sol. En el encuentro con el cometa Wild-2 se generaron cerca de 330 W. Las telecomunicaciones se realizan a través de la banda X por medio de una antena de baja ganancia de 0,6 m de diámetro. La energía del sistema es de 15 W, la tasa de datos esperados en el momento del encuentro es de 7,9 kbits/seg con la antena de 70 m de la estación terrena \"Deep Space Network\" de la NASA."
+    }
+  ],
+  "num_palabras": 1151
+}

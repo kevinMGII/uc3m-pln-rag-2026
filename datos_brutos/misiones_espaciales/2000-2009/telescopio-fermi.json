@@ -1,0 +1,30 @@
+{
+  "titulo": "Telescopio Fermi",
+  "titulo_wikipedia_en": "Fermi Gamma-ray Space Telescope",
+  "fecha_lanzamiento": "2008-06-11",
+  "año_lanzamiento": 2008,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Telescopio espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Telescopio_Fermi",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {},
+  "resumen": "El telescopio Fermi o telescopio Espacial de Rayos Gamma Fermi es un observatorio espacial diseñado para estudiar las fuentes de rayos gamma del universo con el objeto de detallar un mapa de las mismas. Dos años después de su puesta en funcionamiento, había generado un mapa de las 1451 fuentes de rayos gamma más brillantes conocidas.\nFue puesto en órbita el 11 de junio de 2008 desde el cohete Delta II y su nombre honra al físico italiano Enrico Fermi.\nLa misión está financiada por la NASA, el Departamento Americano de Energía (DOE) y agencias de financiación de Francia, Alemania, Italia, Japón y Suecia.",
+  "secciones": [
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "Fermi sigue una órbita circular baja (550 km de altura) con un periodo de 95 minutos. En su modo habitual de operación, los instrumentos apuntan en dirección opuesta a la de la Tierra. Un ligero balanceo, combinado con la rápida órbita, le permite cubrir todo el cielo de forma uniforme varias veces al día.\nEl instrumento principal de Fermi es el telescopio de gran área ('Large Area Telescope') LAT, con el que se está mapeando todo el cielo en busca de fenómenos astrofísicos como núcleos activos de galaxia, púlsares o restos de supernova. LAT detecta el rayo gamma mediante una reacción de producción de un par electrón-positrón. La dirección de este par, de la que luego se extrae la del rayo gamma incidente, se mide en un detector de silicio (un \"tracker\"). La energía del par se mide después en un calorímetro de yoduro de cesio. El rango de energía de los rayos gamma a los que es sensible LAT es de 20 mega-electronvoltios (30 MeV) a 300 giga-electronvoltios (300 GeV). Su campo visual es de aproximadamente un 20% del cielo.\nEl segundo instrumento a bordo de Fermi se llama GBM (Gamma-ray Burst Monitor) y se emplea sólo para detectar brotes de rayos gamma en rayos X. Cubre el rango de 8 KeV a 30 MeV."
+    },
+    {
+      "titulo": "Aportes científicos",
+      "nivel": 2,
+      "texto": "A los dos años de su puesta en órbita, y aparte del mapa de fuentes de rayos gamma en proceso de elaboración, el telescopio ha permitido ofrecer pistas sobre la evolución de los agujeros negros supermasivos que se hallan en el centro de galaxias activas, en el sentido de que su emisión de rayos gamma disminuye a medida que envejecen. También, ha posibilitado la detección de 56 nuevos púlsares."
+    }
+  ],
+  "num_palabras": 389
+}

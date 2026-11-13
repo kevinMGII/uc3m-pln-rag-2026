@@ -1,0 +1,25 @@
+{
+  "titulo": "High Energy Transient Explorer",
+  "titulo_wikipedia_en": "HETE 2",
+  "fecha_lanzamiento": "2000-10-09",
+  "año_lanzamiento": 2000,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Telescopio espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/High_Energy_Transient_Explorer",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Ambos Activos",
+    "Tipo de misión": "Observatorio espacial",
+    "Operador": "NASA",
+    "Fecha de lanzamiento": "HETE-1: 4 de noviembre de 1996 (fallido)\nHETE-2: 9 de octubre de 2000",
+    "Instrumentos": "Cuatro detectores de rayos gamma\nUn detector de rayos X\nCuatro cámaras para el espectro ultravioleta cercano"
+  },
+  "resumen": "El High Energy Transient Explorer (HETE) es un satélite espacial lanzado por la NASA con el objetivo de detectar Explosiones de rayos gamma y notificarlas a estaciones terrestres para que se encarguen de su estudio detallado.\nLa idea de un satélite capaz de realizar observaciones de explosiones de rayos gamma (en inglés: Gamma Ray Burst, GRB) comenzó a sonar en ciertos círculos en 1981, aunque no sería hasta 1986 cuando se propuso la primera misión realista con este objetivo, haciendo especial hincapié en localizar con precisión las GRB's usando las observaciones en varias longitudes de onda. Una vez conocidas las coordenadas las envía a una red de telescopios observatorios terrestres, que se encargan de investigar el evento. En 1989 la NASA aprobó dar fondos para un satélite de bajo coste de búsqueda de GRBs, y en 1992 comenzó la construcción del HETE-1.\nLos instrumentos con los que contaría el HETE-1 consistían en:\nCuatro detectores de rayos gamma suministrado por el CESR de Toulouse, Francia.\nUn detector de rayos X suministrado por el Instituto de Los Álamos y el Instituto de Química y Física de Tokio, Japón\nCuatro cámaras para el espectro ultravioleta cercano, suministradas por el Instituto Tecnológico de Massachusetts\nEl satélite HETE-1 fue lanzado el 4 de noviembre de 1996 en un cohete Pegaso, que llegó bien a órbita, pero falló la tercera fase y el HETE-1 nunca se pudo desplegar.\nTras el fallo de HETE-1 la NASA decidió volver a intentarlo, usando gran parte del hardware de dicho satélite. En julio de 1997 se aprobó la financiación para un segundo satélite HETE, que sería lanzado a finales de 1999 o inicios de 2000.\nLa construcción de HETE-2 se llevó a cabo completamente en el Instituto Tecnológico de Massachusetts.\nLos resultados de observaciones de GRBs a principios de 1997 por la sonda BeppoSAX y por telescopios terrestres indicaron que no se debían esperar grandes cantidades de radiaciones ópticas o ultravioletas, y que el flujo de rayos X era bastante mayor del previsto inicialmente, por lo que se decidió que en el HETE-2 volara un segundo detector de rayos X en lugar de las cámaras ultravioletas, dejando las cámaras ópticas sólo como sistema de orientación con las estrellas. Los demás instrumentos serían similares a los de la perdida sonda HETE-1\nFinalmente HETE-2 fue lanzado el 9 de octubre de 2000 desde el atolón Kwajalein en las Islas Marshall\nActualmente se encuentra en órbita el Swift, un observatorio similar al HETE-2 pero que automáticamente se reorienta hacia la Explosión de rayos gamma detectada y la estudia en profundidad con sus propios instrumentos, eliminando el paso intermedio de tener que informar a las estaciones terrestres para que dicho fenómeno sea estudiado desde allí. Otra sonda también en órbita y con un instrumental similar al HETE-2 es la sonda europea INTEGRAL.",
+  "secciones": [],
+  "num_palabras": 468
+}

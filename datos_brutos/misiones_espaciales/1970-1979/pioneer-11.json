@@ -1,0 +1,20 @@
+{
+  "titulo": "Pioneer 11",
+  "titulo_wikipedia_en": "Pioneer 11",
+  "fecha_lanzamiento": "1973-04-06",
+  "año_lanzamiento": 1973,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración de los planetas exteriores",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Pioneer_11",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {},
+  "resumen": "La sonda espacial Pioneer 11 fue una de las primeras sondas del programa de exploración espacial de la NASA. Fue lanzada desde Cabo Cañaveral el 5 de abril de 1973. Después de atravesar con éxito el cinturón de asteroides el 19 de abril de 1974, se ajustó su velocidad para situar su trayectoria cerca de Júpiter. Durante su sobrevuelo de Júpiter, el 4 de diciembre de 1974, obtuvo imágenes de la Gran Mancha Roja, realizó las primeras observaciones de las regiones polares y determinó la masa de Calisto.\nEl 1 de septiembre de 1979 llegó a Saturno, tomando las primeras fotografías a corta distancia del planeta, donde pudo descubrir dos nuevos satélites y anillos adicionales. Después de su encuentro con Saturno, prosiguió su ruta hacia el exterior del sistema solar, estudiando las partículas energéticas del viento solar.\nLas sondas Pioneer obtenían su energía de una fuente de isótopos radiactivos (RTG). La pérdida de eficacia de estos generadores eléctricos determinó el final de su misión a finales de 1995.\nComo se hizo con la sonda Pioneer 10, y con las sondas Voyager posteriormente, la sonda incluía una placa sobre su estructura con un mensaje explicando el origen de la sonda a una posible cultura extraterrestre. La placa incluye una figura de un hombre, una mujer, las transiciones del átomo de hidrógeno y la posición del Sol y la Tierra en la galaxia, la cual muchas veces es atribuida a las naves Voyager 1 y 2, prestándose a la confusión general, ya que dichas naves poseen otras placas (véase Disco de oro de las Voyager). La placa fue diseñada por Carl Sagan y Frank Drake siendo dibujada por Linda Salzman Sagan.\nDesde el 21 de diciembre de 2020, la sonda se encuentra a 103.4 au del Sol.",
+  "secciones": [],
+  "num_palabras": 295
+}

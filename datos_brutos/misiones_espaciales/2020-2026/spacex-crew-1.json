@@ -1,0 +1,59 @@
+{
+  "titulo": "SpaceX Crew-1",
+  "titulo_wikipedia_en": "SpaceX Crew-1",
+  "fecha_lanzamiento": "2020-11-16",
+  "año_lanzamiento": 2020,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/SpaceX_Crew-1",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Rotación de tripulación de la ISS",
+    "Nave": "Crew Dragon C207 «Resilience»",
+    "Fabricante": "SpaceX",
+    "Vehículo de lanzamiento": "Falcon 9 Block 5",
+    "Lugar de lanzamiento": "Kennedy, LC-39A",
+    "Contratista del lanzamiento": "SpaceX",
+    "Lugar de aterrizaje": "Océano Atlántico",
+    "Tripulación": "Mike Hopkins\nVictor Glover\nSoichi Noguchi\nShannon Walker",
+    "Expedición": "Expedición 64",
+    "Sistema de referencia orbital": "Geocéntrica",
+    "Régimen orbital": "Órbita baja terrestre",
+    "Inclinación orbital": "51.66°",
+    "Programa": "Programa de Tripulación Comercial",
+    "Misión siguiente": "SpaceX Crew-2",
+    "Programa (2)": "Crew Dragon",
+    "Misión anterior (2)": "Demo-2",
+    "Misión siguiente (2)": "SpaceX Crew-2",
+    "Acoplamiento": "objetivo acople: ISS | tipo acople: acople | puerto acople: Harmony PMA/IDA frontal | fecha acople: 17 de noviembre de 2020,\n04:01 UTC | fecha desacople: 5 de abril de 2021,\n10:30 UTC\nobjetivo acople: ISS\n(Recolocación) | tipo acople: acople | puerto acople: Harmony PMA/IDA cénit | fecha acople: 5 de abril de 2021,\n11:08 UTC | fecha desacople: 2 de mayo de 2021,\n00:35 UTC | tiempo acoplado: 26 días"
+  },
+  "resumen": "SpaceX Crew-1, Crew-1 o USCV-1 (US Crew Vehicle-1) fue el primer vuelo operativo tripulado de la nave espacial Crew Dragon de SpaceX, como parte del programa de tripulación comercial impulsado por la NASA. Tuvo su lanzamiento desde el Centro Espacial Kennedy en un cohete Falcon 9 Block 5 el lunes 16 de noviembre de 2020 a las 00:27 UTC (19:27 hora local del domingo 15), y transportó a cuatro miembros de la tripulación de la Expedición 63/64 a la Estación Espacial Internacional. Finalizó exitosamente el 2 de mayo de 2021 tras amerizar en el Golfo de México.\nResilience acopló al adaptador de acoplamiento internacional (IDA) en el módulo Harmony el 17 de noviembre de 2020 a las 04:01 UTC. Durante el transcurso de la misión, los cuatro astronautas trabajaron junto a los tres astronautas de la misión Soyuz MS-17. Juntas, las dos misiones formaron la Expedición 64 de la ISS.",
+  "secciones": [
+    {
+      "titulo": "Planificación",
+      "nivel": 2,
+      "texto": "El administrador de la NASA, Jim Bridenstine, afirmó en abril de 2020 que, dependiendo de la disponibilidad de la nave Dragon por parte de SpaceX, la misión se lanzaría tan pronto como en agosto de 2020. La fecha original de lanzamiento propuesta por la NASA y SpaceX era el 23 de octubre aunque menos de un mes antes del lanzamiento fue cambiada al 31 de octubre. El cambio fue justificado por la NASA como una oportunidad para cerrar los trabajos abiertos. Finalmente, el 26 de octubre se anunció que la fecha de lanzamiento se retrasaría al 15 de noviembre, 4 días después de que otra misión de SpaceX en la que se pretende revisar el rendimiento del vehículo tras algunas modificaciones. El lanzamiento es el primer vuelo no de prueba de una compañía privada en conjunto con la NASA a la Estación Espacial Internacional como parte del programa espacial tripulado de la agencia estadounidense. El primer vuelo de este programa con tripulación se realizó el 31 de mayo de 2020 donde iban a bordo los astronautas Bob Behnken y Doug Hurley ambos de la NASA en la misión Demo-2 con la cápsula Dragon y el cohete Falcon 9.\nEl lanzamiento exitoso de un Falcon 9 desde la Estación de la Fuerza Aérea de Cabo Cañaveral el 5 de noviembre de 2020 confirmó que los ingenieros de SpaceX habían resuelto el problema con los motores Merlin 1D que provocaron un retraso de dicha misión y la Crew-1."
+    },
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Mike Hopkins y Victor Glover fueron anunciados como tripulación el 3 de agosto de 2018. Soichi Noguchi, astronauta de la JAXA, y Shannon Walker astronauta de la NASA, fueron anunciados por sus respectivas agencias el 31 de marzo de 2020."
+    },
+    {
+      "titulo": "Tripulación de Reserva",
+      "nivel": 3,
+      "texto": "En mayo de 2020 la NASA anunció que Kjell N. Lindgren servirá como piloto de reserva tanto para la vuelo de prueba como para las primeras tripulaciones de misiones operativas para Crew Dragon."
+    },
+    {
+      "titulo": "Retorno",
+      "nivel": 2,
+      "texto": "La cápsula Crew Dragon amerizó a primera hora del domingo 2 de mayo de 2021 frente a las costas de Florida. Después de un vuelo de seis horas y media desde la Estación Espacial Internacional (ISS), la cápsula amerizó a las 02H56 (06H56 GMT) en el Golfo de México frente a las costas de Panama City, en el sureste de Estados Unidos. Fue el primer amerizaje nocturno de la NASA desde el de la Apolo 8 en el Océano Pacífico el 27 de diciembre de 1968.\nLa Resiliense, con 160 días, batió el récord de estadía en el espacio de una nave espacial tripulada construida en Estados Unidos, establecido por la misión Skylab 4 en 1974 (84 días)."
+    }
+  ],
+  "num_palabras": 587
+}

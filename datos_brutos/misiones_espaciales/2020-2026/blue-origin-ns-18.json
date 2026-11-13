@@ -1,0 +1,45 @@
+{
+  "titulo": "Blue Origin NS-18",
+  "titulo_wikipedia_en": "Blue Origin NS-18",
+  "fecha_lanzamiento": "2021",
+  "año_lanzamiento": 2021,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Blue_Origin_NS-18",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Vuelo espacial humano suborbital",
+    "Operador": "Origen azul",
+    "Duración de la misión": "10 minutos, 17 segundos",
+    "Apogeo suborbital": "107 km",
+    "Nave": "RSS Primer paso",
+    "Fabricante": "Origen azul",
+    "Tripulación": "Audrey Powers; Chris Boshuizen; Glen de Vries; William Shatner",
+    "Vehículo de lanzamiento": "Nuevo Shepard (NS4)",
+    "Lugar de lanzamiento": "Corn Ranch, LS-1",
+    "Contratista del lanzamiento": "Origen azul",
+    "Lugar de aterrizaje": "Rancho de maíz",
+    "Programa": "Vuelos nuevos de Shepard",
+    "Misión anterior": "Origen azul NS-17",
+    "Misión siguiente": "Origen azul NS-19"
+  },
+  "resumen": "Blue Origin NS-18 fue una misión suborbital de vuelos espaciales dirigida por Blue Origin que se lanzó el 13 de octubre de 2021. La misión fue el decimoctavo vuelo del vehículo de lanzamiento integrado y nave espacial New Shepard de la compañía. Fue el segundo lanzamiento de New Shepard para transportar pasajeros. El vuelo, que transportaba a cuatro personas incluyendo al actor William Shatner, se lanzó desde el punto de lanzamiento suborbital de Blue Origin en el oeste de Texas a bordo del cuarto vuelo de New Shepard Booster NS4 y la nave espacial RSS First Step, ambos habiendo volado previamente en NS-14, NS-15 y NS-16 a principios de año.\nA los 90 años, Shatner se convirtió en la persona más antigua en volar al espacio, superando el récord de 82 que había sido retenido por Wally Funk durante tres meses desde su vuelo en Blue Origin NS-16. Por Blue Origin, Shatner era un invitado de la compañía en el vuelo y no tenía que pagar por el viaje. Cuando Ed Dwight voló como turista espacial en el vuelo suborbital de Origen Azul el 19 de mayo de 2024 a la edad de 90 años, 253 días, se convirtió en la persona más antigua para llegar al espacio, adelantando a Shatner.\nMientras estaba en el espacio, Shatner experimentó el efecto de visión general y lo articuló en vivo en cámara en una conversación posterior al vuelo con el fundador de Blue Origin, Jeff Bezos.",
+  "secciones": [
+    {
+      "titulo": "Pasajeros",
+      "nivel": 2,
+      "texto": "Los cuatro pasajeros a bordo incluyeron a la vicepresidenta de misión y operaciones de vuelo de Blue Origin Audrey Powers, ex ingeniero de la NASA y tercera persona nacida en Australia en el espacio Chris Boshuizen, vicepresidenta de ciencias de la vida y salud de la compañía de software francesa Dassault Systèmes Glen de Vries, y el actor canadiense William Shatner."
+    },
+    {
+      "titulo": "Canciones para el espacio",
+      "nivel": 2,
+      "texto": "Chris Boshuizen, que también es músico, llevó una unidad USB temática de Star Trek que contenía 400 canciones enviadas a él a través de un hilo Reddit junto con él en el viaje. La unidad USB fue subastada más tarde por caridad apoyando a Musack, recaudando US$8,448. Una lista de reproducción de SoundCloud de todas las canciones contenidas en la unidad fue creada para la posteridad."
+    }
+  ],
+  "num_palabras": 371
+}

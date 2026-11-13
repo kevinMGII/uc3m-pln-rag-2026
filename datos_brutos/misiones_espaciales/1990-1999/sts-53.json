@@ -1,0 +1,60 @@
+{
+  "titulo": "STS-53",
+  "titulo_wikipedia_en": "STS-53",
+  "fecha_lanzamiento": "1992-12-02",
+  "año_lanzamiento": 1992,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/STS-53",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Otros nombres": "Sistema de Transporte Espacial-53",
+    "Tipo de misión": "Despliegue de satélites del Departamento de Defensa",
+    "Operador": "NASA",
+    "Distancia recorrida": "3.034.680 mi",
+    "Órbitas completadas": "116",
+    "Masa en el lanzamiento": "110655 kg",
+    "Masa en el aterrizaje": "87565 kg",
+    "Masa de la carga útil": "11860 kg",
+    "Tripulación": "David M. Walker; Robert D. Cabana; Guion Bluford; Michael R. Clifford; James S. Voss",
+    "Fecha de lanzamiento": "2 de diciembre de 1992, 13:24:00 UTC (8:24 am EST)",
+    "Lugar de lanzamiento": "Kennedy, LC-39A",
+    "Contratista del lanzamiento": "Rockwell Internacional",
+    "Fecha de aterrizaje": "Diciembre 9, 1992, 20:43:17 UTC (12:43:47 pm PST)",
+    "Lugar de aterrizaje": "Edwards, Pista 22",
+    "Sistema de referencia orbital": "Órbita geocéntrica",
+    "Régimen orbital": "Órbita terrestre baja",
+    "Periapsis": "365 km",
+    "Apoapsis": "376 km",
+    "Inclinación orbital": "57.00°",
+    "Periodo orbital": "92.00 minutos",
+    "Instrumentos": "Prueba del sensor de adquisición de láser de Battlefield (BLAST); Lógica de la nube para optimizar el uso de sistemas de defensa (CLOUDS); Monitor de efectos de radiación cósmica y activación (CREAM); Experimento de adquisición y reabastecimiento de fluidos (FARE); Obtener especial (GAS); Experimento del tubo de calor criogénico/experimento de regadera (GCP); de mano, orientado a la Tierra, en tiempo real, cooperativo, fácil de usar, sistema de localización y medio ambiente (HERCULAS); Microcápsulas en el espacio (MIS-l); Equipo de vigilancia de radiación (RME-III); Pérdida de tejido espacial (STL); Testador de funciones visuales (VFT-2)",
+    "Programa": "Programa de transporte espacial",
+    "Misión anterior": "STS-52",
+    "Misión siguiente": "STS-54"
+  },
+  "resumen": "STS-53 fue una misión de la NASA en apoyo del Departamento de Defensa de los Estados Unidos (DoD). Fue el vuelo número 15 de Discovery. La misión fue lanzada el 2 de diciembre de 1992, desde el Centro Espacial Kennedy, Florida. Esta fue también la última misión que se realizó a través del MCR-2 en la JSC. Después la habitación fue restaurada enteramente a su apariencia de la era Apolo.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Aspectos destacados de la misión",
+      "nivel": 2,
+      "texto": "Discovery llevaba una carga útil primaria clasificada (DOD-1) para el Departamento de Defensa de los Estados Unidos (DOD), dos cargas útiles secundarias no clasificadas y nueve experimentos de media cubierta no clasificados.\nDiscoverys carga útil primaria, USA-89 (1992-086B) también es conocido como \"DoD-1\", y fue la última carga útil importante del transbordador para el Departamento de Defensa. El satélite fue el tercer lanzamiento de un satélite de comunicaciones militares Satellite Data System-2 (SDS 2-3), después de USA-40 en el STS-28 y el despliegue de STS-38 de USA-67.\nLas cargas útiles secundarias contenidas en el hardware Get Away Special (GAS) en la bahía de carga incluían los satélites ODERACS y el experimento combinado Shuttle Glow Experiment/Cryogenic Heat Pipe Experiment (GCP).\nLos experimentos de Middeck incluyeron microcápsulas en el espacio (MIS-l); pérdida de tejido espacial (STL); probador de funciones visuales (VFT-2); efectos de radiación cósmica y monitor de activación (CREAM); equipo de vigilancia de radiación (RME-III); experimento de adquisición y reabastecimiento de fluidos (FARE); equipo de mano, orientado a la Tierra, en tiempo real, cooperativo, fácil de usar, sistema de localización y medio ambiente (HERCULES); prueba de detección de adquisición de láser de campo de batalla (BLAST); y la lógica de nubes para optimizar el uso de sistemas de defensa (CLOUDS)."
+    },
+    {
+      "titulo": "Mission insignia",
+      "nivel": 2,
+      "texto": "Las cinco partes representan al Pentágono, el cuartel general del Departamento de Defensa. Las cinco estrellas y tres franjas de la insignia simbolizan la designación numérica del vuelo en la secuencia de misión del Sistema de Transporte Espacial."
+    }
+  ],
+  "num_palabras": 317
+}

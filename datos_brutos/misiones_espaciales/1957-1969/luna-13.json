@@ -1,0 +1,42 @@
+{
+  "titulo": "Luna 13",
+  "titulo_wikipedia_en": "Luna 13",
+  "fecha_lanzamiento": "1966-12-21",
+  "año_lanzamiento": 1966,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración lunar",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Luna_13",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Tierras lunares",
+    "Operador": "Programa espacial soviético",
+    "ID COSPAR": "1966-116A",
+    "Nº SATCAT": "02626",
+    "Duración de la misión": "6 días, 19 h, 56 min.",
+    "Fabricante": "GSMZ Lavochkin",
+    "Masa en el lanzamiento": "1.620 kg",
+    "Fecha de lanzamiento": "21 de diciembre de 1966, 10:17:08 HUC",
+    "Vehículo de lanzamiento": "Molniya-M 8K78M",
+    "Lugar de lanzamiento": "Baikonur, sitio 1/5",
+    "Última señal": "28 de diciembre de 1966, 06:13 GMT",
+    "Datos interplanetarios": "tipo: lander | objeto: Lunar | fecha de llegada: 24 diciembre 1966, 18:04 GMT",
+    "Programa": "Programa Luna",
+    "Misión anterior": "Luna 12",
+    "Misión siguiente": "Luna 1968A"
+  },
+  "resumen": "Luna 13 (serie E-6M) fue una misión espacial del programa Luna de la Unión Soviética.",
+  "secciones": [
+    {
+      "titulo": "Sinopsis",
+      "nivel": 2,
+      "texto": "La nave espacial Luna 13 fue lanzada hacia la Luna a bordo de un Molniya-M y logró un aterrizaje suave el 24 de diciembre de 1966, en la región de Oceanus Procellarum (\"Océano de Tormentas\").\nSe abrió el encapsulado pétalo de la nave espacial, se erigieron antenas y las transmisiones de radio a la Tierra comenzaron cuatro minutos después del aterrizaje. Los días 25 y 26 de diciembre de 1966, el sistema de televisión de naves espaciales transmitió panoramas del paisaje lunar cercano en diferentes ángulos solares. Cada panorama requería aproximadamente 100 minutos para transmitir. La nave espacial estaba equipada con un penetrómetro mecánico para medir el suelo, un dinamografo y un densitómetro de radiación para obtener datos sobre las propiedades mecánicas y físicas y la reflectividad de rayos cósmicos de la superficie lunar. Las transmisiones desde la nave espacial cesaron el 28 de diciembre de 1966.\nLuna 13 se convirtió en la tercera nave espacial en aterrizar con éxito en la superficie de la Luna (después de Luna 9 y el American Surveyor 1). La sonda aterrizó en el Océano de Tormentas a las 18:01 UT el 24 de diciembre de 1966, entre los cráteres Krafft y Seleucus a 18°52' de latitud norte y 62°3' de longitud oeste. A diferencia de su predecesor, la Luna 13 más pesada (113 kilogramos) llevaba un conjunto de instrumentos científicos, además del sistema de imágenes habitual.\nUn acelerómetro de tres ejes dentro del marco presurizado del módulo de aterrizaje registró las fuerzas de aterrizaje durante el impacto para determinar la estructura del suelo hasta una profundidad de 20 a 30 centímetros (7,9 a 11,8 pulgadas). También se desplegaron un par de booms cargados de resorte. Uno de estos booms llevaba un penetrómetro, diseñado para medir las fuerzas necesarias para penetrar en el regolito lunar – la fuerza penetrante suministrada por una carga explosiva de un minuto. El otro boom llevaba un densitómetro de retrodispersión que se utilizaba para inferir la densidad del regolito lunar cercano a la superficie. Cuatro radiómetros registraron radiación infrarroja de la superficie indicando una temperatura del mediodía de 117 ±3 °C, mientras que un detector de radiación indicó que los niveles de radiación serían menos peligrosos para los seres humanos.\nEl módulo de aterrizaje devolvió un total de cinco panoramas de la superficie lunar, mostrando un terreno más liso que el visto por Luna 9. Una de las dos cámaras (destinada a devolver imágenes estéreo) falló, pero esto no disminuyó la calidad de las fotografías. El penetrómetro midió la densidad de regolito a 800 kg/m3.\nDespués de una misión totalmente exitosa, el contacto se perdió a las 06:13 UTC el 28 de diciembre cuando las baterías a bordo se agotaron."
+    }
+  ],
+  "num_palabras": 466
+}

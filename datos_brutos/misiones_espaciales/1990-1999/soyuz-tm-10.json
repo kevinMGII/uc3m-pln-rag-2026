@@ -1,0 +1,49 @@
+{
+  "titulo": "Soyuz TM-10",
+  "titulo_wikipedia_en": "Soyuz TM-10",
+  "fecha_lanzamiento": "1990-08-01",
+  "año_lanzamiento": 1990,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Soyuz_TM-10",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "ID COSPAR": "1990-067A",
+    "Duración de la misión": "130 días, 20 horas, 35 minutos, 51 segundos",
+    "Órbitas completadas": "~2,125",
+    "Tipo de nave": "Soyuz-TM",
+    "Fabricante": "NPO Energia",
+    "Masa en el lanzamiento": "7150 kg",
+    "Fecha de lanzamiento": "1o de agosto de 1990, 09:32:21 UTC",
+    "Vehículo de lanzamiento": "Soyuz-U2",
+    "Fecha de aterrizaje": "10 de diciembre de 1990, 06:08:12 HUC",
+    "Lugar de aterrizaje": "69 km NW de Arkalyk",
+    "Tripulación": "Gennady Manakov\nGennady Strekalov",
+    "Tripulación en el aterrizaje": "Toyohiro Akiyama",
+    "Indicativo": "| (Vulkan – Volcán)",
+    "Sistema de referencia orbital": "Geocéntrico",
+    "Régimen orbital": "Órbita terrestre baja",
+    "Periapsis": "198 km",
+    "Apoapsis": "219 km",
+    "Inclinación orbital": "51,6 grados",
+    "Periodo orbital": "88,7 minutos",
+    "Acoplamiento": "objetivo de acoplamiento: Mir | tipo de acoplamiento: muelle | fecha de acoplamiento: 3 de agosto de 1990, 11:45:44 UTC | fecha de acoplamiento: 10 de diciembre de 1990, 02:48:11 UTC",
+    "Misión anterior": "Soyuz TM-9",
+    "Misión siguiente": "Soyuz TM-11",
+    "Programa": "Programa Soyuz\n(Misiones decretadas)"
+  },
+  "resumen": "Soyuz TM-10 fue la décima expedición a la Estación Espacial Rusa Mir.",
+  "secciones": [
+    {
+      "titulo": "Aspectos destacados de la misión",
+      "nivel": 2,
+      "texto": "TM-10 marcó el regreso a la Tierra del reportero japonés Toyohiro Akiyama.\nEl Soyuz llegó al puerto de popa de Mir con cuatro pasajeros: codornices para jaulas en Kvant-2. Una codorniz había puesto un huevo en camino a la estación. Fue devuelto a la Tierra, junto con 130 kg de resultados experimentales y productos industriales, en Soyuz TM-9. La nave aterrizó sin incidentes.\nPasó 131 días ligado a Mir. Se instaló una cámara en el módulo de descenso como parte del acuerdo con la red de Akiyama para filmar las reacciones de los cosmonautas que regresaban."
+    }
+  ],
+  "num_palabras": 108
+}

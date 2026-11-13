@@ -1,0 +1,83 @@
+{
+  "titulo": "Almaz",
+  "titulo_wikipedia_en": "Almaz program",
+  "fecha_lanzamiento": "1973",
+  "año_lanzamiento": 1973,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Estación espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Almaz",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "País": "Unión Soviética",
+    "Organización": "Ministerio de Construcción de Maquinaria General de la URSS"
+  },
+  "resumen": "El programa Almaz (en ruso: Алмаз, que significa \"Diamante\") fue una serie de estaciones espaciales militares (o \"Estaciones Orbitales Pilotadas\", OPS en ruso) lanzadas por la Unión Soviética a lo largo de la década de 1970.\nEl objetivo del programa Almaz era determinar la utilidad de las observaciones terrestres hechas por parte de humanos en órbita. Para ello las estaciones contaban con cámaras ópticas de muy alta resolución, como el telescopio Agat 1 de 6,38 metros de focal y una resolución de 1 metro, y sensores infrarrojos. Por su naturaleza y fines militares básicamente eran grandes satélites espías tripulados que lanzaron tres estaciones: Salyut 2, Salyut 3 y Salyut 5.\nComo era habitual en el programa espacial soviético el programa Almaz, promovido por Vladímir Cheloméi, entró en competición directa con el proyecto Soyuz R (R de Razvedki, \"inteligencia\", en ruso) de Sergéi Koroliov quien, para los mismos fines, proponía la adaptación de una cápsula Soyuz tripulada a la que se acoplaría con un módulo equipado con el equipo de reconocimiento militar.\nSu implementación tuvo lugar al amparo del programa civil DOS-17K (Estación espacial orbital) denominado Salyut después de 1971. La Salyut 2 falló justo después de alcanzar la órbita pero tanto la Salyut 3 como la Salyut 5 llevaron a cabo pruebas tripuladas con éxito. En 1978 el Ministerio de Defensa Soviético consideró que el tiempo y recursos empleados en el mantenimiento de dichas estaciones espaciales sobrepasaban los beneficios obtenidos con respecto al funcionamiento de los satélites de reconocimiento automáticos. Ello propició la cancelación del programa y su conversión, denominada Almaz-T, en un programa de lanzamiento de satélites no tripulados hasta su cancelación definitiva por falta de fondos en 1995.",
+  "secciones": [
+    {
+      "titulo": "Desarrollo",
+      "nivel": 2,
+      "texto": "Almaz fue promovido por Vladímir Cheloméi como respuesta al estadounidense proyecto MOL (Manned Orbital Laboratory o \"Laboratorio Orbital Tripulado\") de los años 1960. En su configuración original Almaz y MOL eran similares ya que, en el caso de Estados Unidos, se proponía la construcción de una estación espacial militar para espiar a la Unión Soviética que constaría de un gran telescopio orbital tripulado por dos astronautas. Activo entre diciembre de 1963 y junio de 1969 en el proyecto MOL se estima una inversión de 3000 millones de dólares y fue cancelado antes de lanzarse al espacio.\nEn el programa Almaz se contempló que la estación sería lanzada por un cohete Protón con una tripulación de dos hombres que regresarían a tierra en una cápsula tras un mes de observaciones militares. Tras el retraso del proyecto Soyuz, Almaz también asumió el papel de interceptor de satélites militares. Para ello se equipó con un cañón espacial con capacidad para disparar cinco proyectiles de 200 gramos de peso cada uno a una velocidad de salida de 2480 km/h por minuto. Almaz sería reabastecida por una nave TKS, también lanzado con un cohete Protón.\nChelomei obtuvo el permiso para iniciar el proyecto el 12 de octubre de 1964. En junio de 1965 tuvo lugar la misión Gemini 4 durante la que se realizaron los primeros experimentos militares americanos en el espacio. Esto alarmó a las autoridades soviéticas cuyos proyectos Almaz y Soyuz R apenas estaban en sus primeros pasos y no se preveían los primeros vuelos hasta 1968. Korolev murió inesperadamente en 1966, tras lo cual Cheloméi consiguió que el proyecto Soyuz R fuese cancelado, haciendo de Almaz el único proyecto soviético de estación espacial militar. La razón oficial de la cancelación de Soyuz R fue que era demasiado pesada para su vehículo lanzador. A Almaz se le dio el código de proyecto 11F71, previamente asignado a Soyuz R."
+    },
+    {
+      "titulo": "Estaciones Orbitales Pilotadas (OPS)",
+      "nivel": 2,
+      "texto": "Los módulos a ser utilizados en la estación Almaz medían 4,15 m de diámetro y tenían un peso de 20 toneladas. Entre 1965 y 1970 se construyeron 8 modelos de prueba y 2 modelos listos para ser lanzados. Además del equipo de reconocimiento con fines militares equipaba a bordo un cañón derivado del Nudelman-Rikhter NR-30. Salyut 3 realizó pruebas exitosas de funcionamiento sobre un satélite de pruebas aunque al día siguiente la nave tuvo que ser desorbitada. OPS-4 habría llevado un par de misiles no guiados."
+    },
+    {
+      "titulo": "OPS-1 (Salyut 2)",
+      "nivel": 3,
+      "texto": "La primera estación Almaz (OPS-1 o Almaz 101.1), anunciada como Salyut 2, fue lanzada el 3 de abril de 1973. Para mantener el secreto militar fue denominada Salyut 2 sólo tras alcanzar órbita. Se preparó una tripulación para volar a la estación pero un accidente en la propia estación pocos días después la dejó despresurizada e inutilizable. A finales de abril se partió en dos por problemas de estabilidad antes de que ningún vehículo tripulado se acoplara a ella."
+    },
+    {
+      "titulo": "OPS-2 (o Salyut 3)",
+      "nivel": 3,
+      "texto": "OPS-2 (o Almaz 101.2), anunciada como Salyut 3, fue lanzada el 25 de junio de 1974. La tripulación, lanzada en la misión Soyuz 14, pasó 15 días en la estación durante julio de 1974. Se lanzó una segunda tripulación en agosto de 1974 pero fue incapaz de acoplarse a la estación. Mientras estaba sin tripulación se probó un cañón a bordo de la estación disparando a un satélite objetivo. Salyut 3 fue desorbitada en enero de 1975 el día siguiente de la prueba con el cañón. Dado que para disparar el cañón se necesitaba mover toda la estación se especula con que los disparos alteraron significativamente la órbita de la misma."
+    },
+    {
+      "titulo": "OPS-3 (o Salyut 5)",
+      "nivel": 3,
+      "texto": "OPS-3 (o Almaz 103), denominada Salyut 5 tras la puesta en órbita, fue lanzada el 22 de junio de 1976. Fue visitada por dos tripulaciones: Boris Volynov y Vitali Zhólobov en julio de 1976 y Víktor Gorbatkó y Yuri Glazkov en febrero de 1977. Pese a la existencia de planes para enviar una tercera tripulación algunas dificultades surgidas para encontrar naves Soyuz disponibles hicieron que se cancelara. El 8 de agosto de 1977 la Salyut 5 fue desorbitada."
+    },
+    {
+      "titulo": "OPS-4",
+      "nivel": 3,
+      "texto": "La última de las estaciones del programa Almaz prevista para lanzarse al espacio incluía varias mejoras: modificación de puertos de atraque (que permitían el acoplamiento de naves con mayores cargas de suministros), los instrumentos ópticos de reconocimiento se sustituían por equipamiento electrónico como radares y computadoras y los cañones de autodefensa se reemplazaron por dos misiles no guiados. Sin embargo la OPS-4 se quedó en tierra por falta de fondos."
+    },
+    {
+      "titulo": "Almaz-T (satélites no tripulados)",
+      "nivel": 2,
+      "texto": "Tras la cancelación del programa original el 28 de junio de 1978 Almaz derivó en un programa para el lanzamiento de satélites pesados no tripulados portadores de un radar para realizar reconocimientos militares. Denominado Almaz-T se lanzaron tres satélites dos de los cuales funcionaron correctamente. El principal escollo para sus detractores era su excesivo presupuesto y que, por sus características técnicas, no era posible el lanzamiento de dos satélites simultáneos con lo que la monitorización de la superficie terrestre no podía ser total. En agosto de 1982 no obstante se dio luz verde al proyecto que incluso siguió adelante tras el fallecimiento de Vladímir Cheloméi el 8 de diciembre de 1984."
+    },
+    {
+      "titulo": "Almaz-T",
+      "nivel": 3,
+      "texto": "Pese a que el primer lanzamiento estaba previsto para 1981 la complejidad técnica y la disparidad de criterios políticos supusieron que el primer Almaz-T fuera lanzado desde Cosmódromo de Baikonur el 29 de octubre de 1986. No llegó a órbita debido a un fallo de separación de la primera y segunda etapas del lanzador Proton. El sistema de seguridad destruyó el cohete."
+    },
+    {
+      "titulo": "Cosmos-1870",
+      "nivel": 3,
+      "texto": "Cosmos-1870 fue lanzado el 25 de julio de 1987 y recibió su denominación oficial tras alcanzar órbita. El segundo satélite Almaz-T sí llegó a órbita alcanzando una inclinación de 71,92 grados con respecto del ecuador. Estuvo en funcionamiento durante dos años proporcionando imágenes radar con una resolución de menos de 25 metros. Fue desorbitado el 30 de julio de 1989."
+    },
+    {
+      "titulo": "Almaz-1",
+      "nivel": 3,
+      "texto": "Almaz 1 fue el tercer, y último, satélite del programa Almaz-T en alcanzar órbita. Lanzado el 31 de marzo de 1991 bajo el nombre Almaz 1, tras el lanzamiento hubo problemas con la antena de comunicaciones dedicada a la transmisión de las imágenes. Además uno de los paneles solares no desplegó del todo bloqueando parcialmente el radar principal. Coincidiendo con la disolución de la Unión Soviética el programa se reorientó hacia áreas no exclusivamente militares buscando su utilización en conocimientos como la geofísica, la agricultura, la geología o las aplicaciones medioambientales. Tras funcionar durante 18 meses, de los 30 previstos inicialmente, Almaz 1 fue desorbitado el 17 de octubre de 1992 sobre el océano Pacífico."
+    },
+    {
+      "titulo": "Almaz-2",
+      "nivel": 3,
+      "texto": "Almaz 2 (también denominado Almaz-1V) no llegó a ser lanzado. Proyecto en estudio en 1995, finalmente cancelado, tras la disolución de la Unión Soviética los fondos previstos para el programa se cancelaron y los intentos de obtener financiación privada o de entidades como el Fondo Monetario Internacional no prosperaron. Con una duración prevista superior a los cinco años en una órbita a 600 kilómetros de altitud, presentaba novedades como la equipación de un nuevo radar que habría proporcionado imágenes con una resolución de 5 a 7 metros. Además llevaba una cámara capaz de obtener imágenes ópticas con una resolución de entre 2,5 y 4 metros."
+    },
+    {
+      "titulo": "Otros usos",
+      "nivel": 2,
+      "texto": "Los módulos OPS fueron la base de las estaciones Salyut, Mir y la Estación Espacial Internacional.\nLa compañía espacial privada Excalibur Almaz tenía planes para lanzar estaciones Almaz modernizadas y darles servicio con cápsulas derivadas de las naves TKS para el turismo espacial."
+    }
+  ],
+  "num_palabras": 1515
+}

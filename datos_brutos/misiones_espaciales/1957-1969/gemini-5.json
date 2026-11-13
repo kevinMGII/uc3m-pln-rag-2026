@@ -1,0 +1,44 @@
+{
+  "titulo": "Gemini 5",
+  "titulo_wikipedia_en": "Gemini 5",
+  "fecha_lanzamiento": "1965-08-21",
+  "año_lanzamiento": 1965,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Gemini_5",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Lugar de lanzamiento": "Centro Espacial Kennedy, Florida\nLC 19",
+    "Masa en el lanzamiento": "3.605 kg",
+    "Fecha de lanzamiento": "21 de agosto de 1965\n13:59:59.518 UTC",
+    "Fecha de aterrizaje": "29 de agosto de 1965\n12:55:13 UTC",
+    "Duración de la misión": "7 días 22 h 55 min 14 s",
+    "Periodo orbital": "89,59 min",
+    "Inclinación orbital": "32,61°",
+    "Órbitas completadas": "120",
+    "Apoapsis": "350,1 km",
+    "Periapsis": "162 km",
+    "Misión anterior": "Gemini 4",
+    "Misión siguiente": "Gemini 6A",
+    "Programa": "Programa Gemini"
+  },
+  "resumen": "Gemini 5 fue una misión espacial tripulada del programa Gemini, de la NASA, realizada en agosto de 1965. Fue el tercer vuelo tripulado del programa Gemini, y el undécimo del programa espacial estadounidense. Superó el record de una semana en el espacio.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Gordon Cooper, Comandante\nCharles Conrad, Piloto"
+    },
+    {
+      "titulo": "Tripulación de reemplazo",
+      "nivel": 3,
+      "texto": "Neil Armstrong\nElliot M. See, Jr."
+    }
+  ],
+  "num_palabras": 54
+}

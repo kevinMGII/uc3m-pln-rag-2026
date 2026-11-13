@@ -1,0 +1,39 @@
+{
+  "titulo": "Soyuz T-5",
+  "titulo_wikipedia_en": "Soyuz T-5",
+  "fecha_lanzamiento": "1982-05-13",
+  "año_lanzamiento": 1982,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Soyuz_T-5",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Masa en el lanzamiento": "6850 kg",
+    "Fecha de lanzamiento": "13 de mayo de 1982",
+    "Nave": "Soyuz T",
+    "Fecha de aterrizaje": "27 de agosto de 1982",
+    "Duración de la misión": "106,21 días",
+    "Programa": "Programa Soyuz",
+    "Misión anterior": "Soyuz 40",
+    "Misión siguiente": "Soyuz T-6"
+  },
+  "resumen": "Soyuz T-5 fue una misión espacial soviética tripulada realizada en una nave Soyuz T. Fue lanzada el 13 de mayo de 1982 desde el cosmódromo de Baikonur mediante un cohete Soyuz hacia la estación Salyut 7 con dos cosmonautas a bordo. Se trató de la primera misión a la Salyut 7, y durante su estancia fueron visitados por las dos siguientes misiones. En el regreso viajaron tres cosmonautas pertenecientes a la Soyuz T-7.\nLos objetivos de la misión consistieron en realizar varias investigaciones y experimentos científicos a bordo de la Salyut 7.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Anatoli Beriozovói (Comandante)\nValentin Lebedev (Ingeniero de vuelo)"
+    },
+    {
+      "titulo": "Tripulación de sustitución",
+      "nivel": 3,
+      "texto": "Vladimir Titov (Comandante)\nGennady Strekalov (Ingeniero de vuelo)"
+    }
+  ],
+  "num_palabras": 108
+}

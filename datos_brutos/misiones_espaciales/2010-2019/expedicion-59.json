@@ -1,0 +1,28 @@
+{
+  "titulo": "Expedición 59",
+  "titulo_wikipedia_en": "Expedition 59",
+  "fecha_lanzamiento": "2019-03-15",
+  "año_lanzamiento": 2019,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Expedición_59",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Fecha de inicio": "15 de marzo de 2019 01:01 UTC",
+    "Fecha de fin": "24 de junio de 2019 23:25 UTC",
+    "Misión anterior": "Expedición 58",
+    "Misión siguiente": "Expedición 60",
+    "Nave de llegada": "Soyuz MS-11, Soyuz MS-12",
+    "Programa": "Programa de la ISS",
+    "Estación espacial": "Estación Espacial Internacional",
+    "Tipo de misión": "Expedición a la ISS"
+  },
+  "resumen": "La Expedición 59 fue la 59.ª Expedición a la ISS, que se programó y comenzó el 14 de marzo de 2019 con la llegada de la nave espacial Soyuz MS-12 con Aleksey Ovchinin, Nick Hague y Christina Koch y los otros tres miembros procedentes de la expedición anterior. Los tres se transferieron posteriormente a la tripulación de la Expedición 60, con Ovchinin como comandante, después del desacoplamiento de la nave espacial Soyuz MS-11, el 25 de junio de 2019.",
+  "secciones": [],
+  "num_palabras": 79
+}

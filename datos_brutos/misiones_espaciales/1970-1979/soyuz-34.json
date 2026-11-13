@@ -1,0 +1,53 @@
+{
+  "titulo": "Soyuz 34",
+  "titulo_wikipedia_en": "Soyuz 34",
+  "fecha_lanzamiento": "1979-06-06",
+  "año_lanzamiento": 1979,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Soyuz_34",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Fecha de lanzamiento": "6 de junio de 1979\n07:52:47 UTC\nBaikonur LC31",
+    "Fecha de aterrizaje": "19 de agosto de 1979\n12:29:26 UTC\n170 km SE de Dzhezkazgan",
+    "Duración de la misión": "73 días 18 horas 16 minutos 45 segundos",
+    "Órbitas completadas": "~1.200",
+    "Programa": "Programa Soyuz",
+    "Misión anterior": "Soyuz 33",
+    "Misión siguiente": "Soyuz T-1"
+  },
+  "resumen": "",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Despegaron",
+      "nivel": 3,
+      "texto": "Vacía"
+    },
+    {
+      "titulo": "Aterrizaron",
+      "nivel": 3,
+      "texto": "Vladimir Lyakhov (Comandante)\nValeri Ryumin (Ingeniero de vuelo)"
+    },
+    {
+      "titulo": "Parámetros de la misión",
+      "nivel": 2,
+      "texto": "Masa: ? kg\nPerigeo: 199 km\nApogeo: 271.5 km\nInclinación: 51,62°\nPeriodo: 88,91 minutos"
+    },
+    {
+      "titulo": "Lo más destacado de la misión",
+      "nivel": 2,
+      "texto": "Lanzada sin tripulación a Salyut 6, aterrizó con tripulación de larga estancia en el espacio.\nSe lanzó para reemplazar a la Soyuz 32, tras el fallo de la Soyuz 33.\nLa Soyuz 34 incluía importantes modificaciones en el motor a fin de prevenir la reproducción del fallo de la Soyuz 33."
+    }
+  ],
+  "num_palabras": 74
+}

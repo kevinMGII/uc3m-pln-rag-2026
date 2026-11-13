@@ -1,0 +1,35 @@
+{
+  "titulo": "Soyuz TMA-9",
+  "titulo_wikipedia_en": "Soyuz TMA-9",
+  "fecha_lanzamiento": "2006-09-18",
+  "año_lanzamiento": 2006,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Soyuz_TMA-9",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {},
+  "resumen": "Soyuz TMA-9 fue una misión tripulada del programa Soyuz, que fue lanzada al espacio desde la Plataforma Gagarin en el Cosmódromo de Baikonur el 18 de septiembre de 2006, transportando dos integrantes de la Expedición 14 para una estancia de seis meses en la Estación Espacial Internacional y una turista espacial, la empresaria Anousheh Ansari, que realizó diversas experiencias a bordo de la estación para la Agencia Espacial Europea.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Tripulación lanzada en la Soyuz TMA-9: (18 de octubre de 2006)\nMijaíl Tiurin\nMiguel López-Alegría\nAnousheh Ansari\nTripulación retornada en la Soyuz TMA-9: (21 de abril de 2007)\nMijaíl Tiurin\nMiguel López-Alegría\nCharles Simonyi\nAtraque con la ISS\nAtraque a la ISS: 20 de septiembre de 2006, 05:21:20 UTC\nDesatraque de la ISS: 21 de abril de 2007, 09:11:39 UTC"
+    },
+    {
+      "titulo": "Misión",
+      "nivel": 2,
+      "texto": "La Soyuz TMA-9 fue lanzada del Cosmódromo de Baikonur, en el Kazajistán, las 04:30 (UTC) de 18 de septiembre de 2006 y se acopló con la ISS dos días más tarde. En su bojo llevaba el astronauta norteamericano Miguel López-Alegría, el ruso Mijaíl Tiurin y la empresaria norteamericana de origen iraní Anousheh Ansari. Ansari formó parte del programa de turismo espacial de la empresa Space Adventures, que en acuerdo comercial con la Agencia Espacial Federal Rusa proporciona viajes espaciales a millonarios interesados en gastar millones de dólares para vivir esta experiencia y que sean aprobados en pruebas físicas realizados en Baikonur.\nFue la segunda turista en el espacio, tras la británica Helen Sharman, que en 18 de mayo de 1991 fue a la órbita terrestre después de ganar un concurso promovido entre ciudadanos comunes en Gran Bretaña, y la primera turista de pago. Ansari retornó a la Tierra en 29 de septiembre en la Soyuz TMA-8 junto con el cosmonauta Pável Vinográdov y el astronauta Jeffrey Williams.\nLópez-Alegría y Tiurin retornaron en la TMA-9 en 21 de abril de 2007, después del cierre de la Expedición 14, trayendo con ellos el turista espacial Charles Simonyi, empresario que así como Ansari participó del programa de Space Adventures pagado 25 millones de dólares por el viaje espacial y había sido lanzado en la nave Soyuz TMA-10, catorce días antes del retorno de la TMA-9, que a su regreso a tierra en el Kazajistán tras 215 días en órbita, estableció el vuelo más largo de una nave Soyuz."
+    },
+    {
+      "titulo": "Nota",
+      "nivel": 2,
+      "texto": "Anousheh Ansari era cosmonauta sustituta en esta misión. Su viaje al espacio estaba previsto para la misión siguiente, Soyuz TMA-10. Sin embargo, el turista titular Daisuke Enomoto, un empresario de Japón, no pasó la evaluación médica final hecha por los rusos dos meses antes del vuelo y Ansari, que entrenaba como su reserva, lo sustituyó."
+    }
+  ],
+  "num_palabras": 439
+}

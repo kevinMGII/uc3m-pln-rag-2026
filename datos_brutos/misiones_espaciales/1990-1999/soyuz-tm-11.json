@@ -1,0 +1,40 @@
+{
+  "titulo": "Soyuz TM-11",
+  "titulo_wikipedia_en": "Soyuz TM-11",
+  "fecha_lanzamiento": "1990-12-02",
+  "año_lanzamiento": 1990,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Soyuz_TM-11",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {},
+  "resumen": "Soyuz TM-11 fue a 11.ª expedición a la estación espacial soviética Mir, realizada entre diciembre de 1990 y mayo de 1991. Ella llevó al espacio por primera vez un japonés, el periodista-cosmonauta Toyohiro Akiyama.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Lanzados\nAterrizaron"
+    },
+    {
+      "titulo": "Parámetros de la Misión",
+      "nivel": 2,
+      "texto": "Masa: 7150 kg\nPerigeo: 367 km\nApogeo: 400 km\nInclinación: 51.6°\nPeriodo: 92.2 minutos"
+    },
+    {
+      "titulo": "Misión",
+      "nivel": 2,
+      "texto": "Pasó 175 días acoplada a Mir. Una cámara dentro del módulo de descenso filmó los cosmonautas durante el despegue de la nave junto con Akiyama.\nViktor Afanaseyev, Musa Manarov (en su segunda visita a Mir), y el periodista de televisión japonés Akiyama fueron recibidos a bordo de Mir por el grupo Vulkans. El Tokyo Broadcasting System (TBS) pagó el vuelo de Toyohiro Akiyama. Los soviéticos llamaron esto de \"primer vuelo espacial comercial\" y afirmaron haber recibido 28 millones de dólares.\nEl periodista tenía en su programa una transmisión de 10 minutos de imágenes para la televisión y dos transmisiones de 20 minutos para lo radio todos los días. Las incompatibilidades eléctricas entres la alimentación eléctrica y los sistemas de vídeo y televisión forzaron los japoneses a usar un gran número de conversores. Su equipamiento, que pesaba cerca de 170 kg, fue enviado usando la nave Progress-M y montado antes de su llegada por Manakov y Strekalov. En 5 de diciembre la cama de Akiyama fue transferida para la Soyuz TM-10. En 8 de diciembre Manakov y Strekalov comenzaron a cargar el módulo de descenso de la Soyuz TM-10 con películas y resultados de experimentos. La TBS transmitió el aterrizaje de Akiyama en vivo del Kazajistán."
+    },
+    {
+      "titulo": "Conexiones externas",
+      "nivel": 2,
+      "texto": "Soyuz-TM 11 - NASA\nSoyuz TM-11 - Weebau\nVídeo: SOYUZ TM 11 - japanese\nThe Soyuz TM manned transport spacecraft\nSoyuz-TM 1 - 15, 17 - 34 (7K-STM, 11F732A51)"
+    }
+  ],
+  "num_palabras": 284
+}

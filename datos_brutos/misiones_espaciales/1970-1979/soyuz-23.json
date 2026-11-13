@@ -1,0 +1,49 @@
+{
+  "titulo": "Soyuz 23",
+  "titulo_wikipedia_en": "Soyuz 23",
+  "fecha_lanzamiento": "1976-10-14",
+  "año_lanzamiento": 1976,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Soyuz_23",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Masa en el lanzamiento": "6760 kg",
+    "Fecha de lanzamiento": "14 de octubre de 1976",
+    "Nave": "Soyuz 7K-T/A9",
+    "Fecha de aterrizaje": "16 de octubre de 1976",
+    "Duración de la misión": "2 días",
+    "Programa": "Programa Soyuz",
+    "Misión anterior": "Soyuz 22",
+    "Misión siguiente": "Soyuz 24"
+  },
+  "resumen": "Soyuz 23 fue una misión de una nave Soyuz 7K-T modificada (Soyuz 7K-T/A9) lanzada el 14 de octubre de 1976 desde el cosmódromo de Baikonur con dos cosmonautas a bordo para acoplarse a la estación espacial militar Salyut 5 en el marco del programa Almaz.",
+  "secciones": [
+    {
+      "titulo": "Misión",
+      "nivel": 2,
+      "texto": "La misión de la Soyuz 23 era realizar experimentos militares, científicos y técnicos en la estación Salyut 5. El 15 de octubre, durante la fase de aproximación automática, cuando la Soyuz estaba a apenas unas decenas de metros de la Salyut, el sistema Iglá de telemetría para el atraque automático sufrió una avería. Un sensor defectuoso indicó erróneamente que el módulo no llevaba aceleración lateral, con lo que la nave encendió uno de sus cohetes de manera automática tratando de compensar la trayectoria, desviándose casi 100 metros de su rumbo. Ese impulso imprevisto dejó a la nave sin combustible suficiente para intentar la maniobra de forma manual. Debido al fallo se produjo un gasto excesivo de propelente que impidió reintentar el acoplamiento de nuevo y aunque la tripulación estaba entrenada para un acople manual, no lo estaba para una aproximación manual a esa estación, por lo que la misión tuvo que ser abandonada y se ordenó el regreso de la nave.\nHabían perdido la ventana de reentrada para aquel día, por lo que tuvieron que esperar al día siguiente. La cápsula tenía tan sólo dos días de energía en sus baterías, por lo que los sistemas se apagaron, incluida la radio, para conservar energía, en forma similar a lo ocurrido con el Apolo 13, esperando para la oportunidad de aterrizar al día siguiente en el cosmódromo de Baikonur.\nLa reentrada se produjo el 16 de octubre de 1976, y aunque estaba previsto que tomara tierra en el cosmódromo de Baikonur, acabó aterrizando a las 17:46 GMT a 150 kilómetros de donde estaba previsto, en el helado lago Tengiz (un enorme lago salado en Kazajistán de 1,382 km²), a 8 km de tierra, en medio de una tempestad de nieve y con temperaturas de -22 °C.\nEl peso de la cápsula hizo romper el hielo, y aunque la cápsula estaba preparada para flotar, el paracaídas de la cápsula de reentrada enseguida se empapó, arrastrando la cápsula bajo el agua. Los cosmonautas tuvieron que cerrar la válvula del aire fresco y la portilla de escape, y apagar, salvo una tenue luz, todos los sistemas eléctricos, incluidos los de calentamiento, para ahorrar energía para el sistema de purificación de CO2 del aire, quedándose el interior extremadamente helado. La antena de radio quedó obviamente inoperativa bajo el agua.\nPero aunque los cosmonautas esperaban un rescate rápido, no fue así. Las balizas de la cápsula no se podían ver en la densa niebla, y las balsas de goma utilizadas para tratar de llegar a ellos quedaron bloqueadas por el hielo y lodo. Se llevaron vehículos anfibios por aire, pero no pudieron llegar a la cápsula, debido a los pantanos que rodean el lago. Tras varios e infructuosos intentos de rescate mediante los vehículos anfibios durante los que la cápsula fue viajando varios kilómetros a través del agua helada durante varias horas, la tripulación fue finalmente rescatada al día siguiente gracias a que los buceadores de rescate consiguieron enganchar la cápsula a un cable arrojado por un helicóptero. El helicóptero fue incapaz de levantar la cápsula por su gran peso, así que la arrastró por el fondo 6 kilómetros hasta llegar a tierra firme. El dramático rescate duró 9 horas y los cosmonautas estuvieron sumergidos más de 24 horas. El equipo de rescate se sorprendió de que los cosmonautas siguiesen vivos a esas alturas.\nLas autoridades soviéticas decidieron a raíz de este suceso la creación de un grupo especial de rescate, preparado para intervenir en todo tipo de condiciones adversas. Como curiosidad, uno de los dos cosmonautas, Valeri Rozhdestvensky, había sido comandante de una unidad de buceadores militares."
+    },
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Vyacheslav Zudov (Comandante)\nValeri Rozhdestvenski (Ingeniero de vuelo)"
+    },
+    {
+      "titulo": "Tripulación de respaldo",
+      "nivel": 2,
+      "texto": "Viktor Gorbatko (Comandante)\nYuri Glazkov (Ingeniero de vuelo)"
+    },
+    {
+      "titulo": "Tripulación de reserva",
+      "nivel": 2,
+      "texto": "Anatoli Berezovoy (Comandante)\nMikhail Lisun (Ingeniero de vuelo)"
+    }
+  ],
+  "num_palabras": 671
+}

@@ -1,0 +1,59 @@
+{
+  "titulo": "Mars Global Surveyor",
+  "titulo_wikipedia_en": "Mars Global Surveyor",
+  "fecha_lanzamiento": "1996-11-07",
+  "año_lanzamiento": 1996,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración de Marte",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Mars_Global_Surveyor",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Titulo": "Mars Global Surveyor",
+    "Etiqueta1": "Controlador",
+    "Datos1": "NASA\nJet Propulsion Laboratory",
+    "Etiqueta2": "Misión",
+    "Datos2": "Cartografiar la superficie marciana.",
+    "Etiqueta3": "Lanzamiento",
+    "Datos3": "7 de noviembre de 1996",
+    "Etiqueta4": "Llegada a Marte",
+    "Datos4": "12 de septiembre de 1997",
+    "Etiqueta5": "Comienzo misión primaria",
+    "Datos5": "Marzo de 1999",
+    "Etiqueta6": "Comienzo misión extendida",
+    "Datos6": "Enero de 2001",
+    "Etiqueta7": "Fin de misión extendida",
+    "Datos7": "Junio de 2006",
+    "Etiqueta8": "Motivo de fin de la misión",
+    "Datos8": "Error de programación"
+  },
+  "resumen": "Mars Global Surveyor es una misión de la NASA destinada a estudiar el planeta Marte a fondo mediante varios instrumentos científicos de alta utilidad. La misión ha sido la primera en 20 años en llegar con éxito al planeta rojo. Durante su primer año y medio se dedicó a la fase de aerofrenado consistente en ir adquiriendo la órbita definitiva a base de pasar por las capas superiores de la atmósfera marciana y así ir frenando su velocidad hasta conseguir una órbita adecuada. Este período fue más largo de lo previsto, para no dañar los paneles solares en exceso.\nSiguió una órbita polar cercana a la superficie y desde allí envió a la Tierra las fotos con mayor resolución de la exploración de Marte y ha mandado más datos que todas las misiones anteriores juntas.\nLa nave tiene forma de caja de 1,7 x 1,17 x 1,17 metros, con dos partes bien diferenciadas; una para los instrumentos y otra para la propulsión. Los paneles solares tienen una envergadura de 3,5 x 1,9 m y proporcionan 980 W de potencia para los instrumentos. La parabólica tiene un diámetro de 15 dm y un brazo extensible de dos metros.\nLa misión fue financiada por la NASA y controlada desde el Jet Propulsion Laboratory (JPL) y por Lockheed Martin Astronautics.",
+  "secciones": [
+    {
+      "titulo": "La nave",
+      "nivel": 2,
+      "texto": "La nave espacial es una caja rectangular de 1,17 m x 1,17 m x 1,7 m de tamaño, con dos módulos, uno de equipo y otro de propulsión. Sus experimentos excepto el magnetómetro (montado en el panel solar) se montan en el módulo de equipamiento de de superficie. El módulo de propulsión mide 3,5 x 1,9 m, contiene 380 kg de combustible con hidracina, un principal de N2O4 y dos propulsores 596 N Wil para correcciones e inserción orbital. Las comunicaciones se realizan mediante una antena parabólica de 1,5 m de diámetro con un asta de 2 m, dos antenas de baja ganancia con transmisor x de 21,33 kbit/s, 2 kbit/s de datos de ingeniería y 10 bit/s auxiliar. La electricidad es obtenida mediante dos paneles solares de 3,5 x 1,9 m de tamaño, montados en los lados opuestos de la nave; proporcionan 980 W de potencia en la nave, almacenada en dos baterías de hidrógeno y níquel."
+    },
+    {
+      "titulo": "Instrumentos",
+      "nivel": 2,
+      "texto": "Mars Orbiter Camera (MOC): encargada de tomar las imágenes de alta resolución del planeta así como otras de menor calidad para tener una visión general de la atmósfera y el clima en todo el planeta. La cámara MOC está controlada por Malin Space Science Systems (MSSS).\nThermal Emission Spectrometer (TES): es un interferómetro que mide la cantidad de luz infrarroja emitida por la superficie de Marte.\nMars Orbiter Laser Altimeter (MOLA): su misión es construir un mapa topográfico de Marte con un rayo láser lanzado a la superficie.\nRadio Science Investigations (RS): mide las variaciones de la señal enviada desde la Tierra para medir las desviaciones gravitatorias.\nMagnetic Fields Investigation (MAG/ER): magnetómetro dedicado al estudio del campo magnético de Marte y su intensidad.\nMars Relay: antena de apoyo a otras misiones de la NASA, Japón y la ESA."
+    },
+    {
+      "titulo": "Observaciones de la Tierra",
+      "nivel": 2,
+      "texto": "Esta sonda observó el sistema Tierra-Luna en 2003, cuando mostró que nuestro planeta también presenta fases, al igual que Mercurio, Venus y la Luna. La fase lunar es un efecto puramente geométrico que es debido a la posición relativa del elemento que ilumina (el Sol), el iluminado y el observador.\nEl Global Surveyor también detectó manchas oscuras en las dunas debajo de la capa de hielo del polo sur de Marte, entre las latitudes 60°-80°. La peculiaridad de estas manchas, es que el 70 % de ellas recurre anualmente en el mismo lugar del año anterior. Las manchas de las dunas aparecen al principio de cada primavera y desaparecen al principio de cada invierno, por lo que un equipo de científicos de Budapest, han propuesto que estas manchas podrían ser de origen biológico y de carácter extremófilo. La agencia espacial ESA también está analizando el fenómeno de estas manchas mediante el Mars Express.\nPor su parte, los diseñadores de la cámara a bordo del 'Mars Global Surveyor', quienes obtuvieron las imágenes, estiman que las manchas simplemente podrían ser causadas por la evaporación y congelamiento de áreas en el hielo que contienen principalmente dióxido de carbono ( CO2)."
+    },
+    {
+      "titulo": "Fin de la misión",
+      "nivel": 2,
+      "texto": "El 5 de noviembre de 2006 se recibió la última señal de la sonda, tras comunicar a los controladores de tierra que tenía problemas con uno de los paneles solares. Durante semanas, la NASA intentó sin éxito recuperar contacto con la sonda, tanto desde tierra como desde su sonda Mars Reconnaissance Orbiter y también con sus todoterrenos Spirit y Opportunity. El 22 de noviembre de 2006, la sonda se dio por perdida, finalizando así una de las más exitosas misiones de la NASA a Marte. Sin embargo, los esfuerzos por recuperar contacto no se han dado por finalizados; la ESA, a través de su sonda Mars Express, podría haber fotografiado la sonda el 9 de diciembre que, según parece, estaría girando fuera de control. La Mars Express intentó de nuevo detectar la Mars Global Surveyor el 21 de diciembre.\nLos resultados preliminares de la investigación indican que en junio de 2006 se envió a la sonda un software que contenía un error en dos direcciones de memoria (que ya estaban ocupadas por otros procesos, por lo que fueron reescritas). Cuando en noviembre los paneles solares se bloquearon, el radiador de la batería, que debía evitar que se calentara demasiado, fue orientado por error hacia el Sol, lo que produjo un sobrecalentamiento de la batería que la hizo inservible. La sonda habría entrado en modo de seguridad pero, sin batería, no estaría en condiciones de contactar con la Tierra."
+    }
+  ],
+  "num_palabras": 948
+}

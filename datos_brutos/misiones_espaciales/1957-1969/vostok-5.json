@@ -1,0 +1,39 @@
+{
+  "titulo": "Vostok 5",
+  "titulo_wikipedia_en": "Vostok 5",
+  "fecha_lanzamiento": "1963-06-14",
+  "año_lanzamiento": 1963,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Vostok_5",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Indicativo": "Ястреб - Yastreb (Halcón)",
+    "Lugar de lanzamiento": "Baikonur Plataforma Gagarin",
+    "Masa en el lanzamiento": "4 720 kg",
+    "Fecha de lanzamiento": "14 de junio de 1963\n11:58:58 UTC",
+    "Fecha de aterrizaje": "19 de junio de 1963\n11:06 UTC\n53.39777°N 67.60500°E",
+    "Duración de la misión": "4 días, 23 horas y 7 minutos",
+    "Inclinación orbital": "64,96°",
+    "Órbitas completadas": "82",
+    "Apoapsis": "222,1 km",
+    "Periapsis": "174,7 km",
+    "Programa": "Programa Vostok",
+    "Misión anterior": "Vostok 4",
+    "Misión siguiente": "Vostok 6"
+  },
+  "resumen": "Vostok 5 (en ruso Восток-5) fue una cosmonave tripulada del programa Vostok (que en ruso significa \"Este\"). La Vostok 5 realizó su misión conjuntamente con la Vostok 6. Alcanzó a orbitar a 5 kilómetros de la nave Vostok 6 tripulada por Valentina Tereshkova. En esta misión Valeri Bykovski estableció el vuelo espacial en solitario más prolongado, récord aún no superado.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Piloto: Valeri Bykovski.\nTripulación de respaldo: Borís Volinov.\nTripulación de reserva: Alexey Leonov"
+    }
+  ],
+  "num_palabras": 73
+}

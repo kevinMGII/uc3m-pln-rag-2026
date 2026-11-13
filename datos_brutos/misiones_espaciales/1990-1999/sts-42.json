@@ -1,0 +1,59 @@
+{
+  "titulo": "STS-42",
+  "titulo_wikipedia_en": "STS-42",
+  "fecha_lanzamiento": "1992-01-22",
+  "año_lanzamiento": 1992,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/STS-42",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Otros nombres": "Sistema de Transporte Espacial-42",
+    "Tipo de misión": "Laboratorio Internacional de Microgravedad-1",
+    "Operador": "NASA",
+    "Distancia recorrida": "4701140 km",
+    "Órbitas completadas": "129",
+    "Masa en el lanzamiento": "110400 kg",
+    "Masa en el aterrizaje": "98924 kg",
+    "Masa de la carga útil": "13066 kg",
+    "Tripulación": "Ronald J. Grabe; Stephen S. Oswald; Norman Thagard; William F. Readdy; David C. Hilmers; Roberta Bondar; Ulf Merbold",
+    "Fecha de lanzamiento": "22 de enero de 1992, 14:52:33 UTC (9:52:33 am EDT)",
+    "Lugar de lanzamiento": "Kennedy, LC-39A",
+    "Contratista del lanzamiento": "Rockwell Internacional",
+    "Fecha de aterrizaje": "30 de enero de 1992, 16:07:17 UTC (8:07:17 am PDT)",
+    "Lugar de aterrizaje": "Edwards, Pista 22",
+    "Sistema de referencia orbital": "Órbita geocéntrica",
+    "Régimen orbital": "Órbita terrestre baja",
+    "Periapsis": "291 km",
+    "Apoapsis": "307 km",
+    "Periodo orbital": "90,50 minutos",
+    "Inclinación orbital": "57.00°",
+    "Programa": "Programa de transporte espacial",
+    "Misión anterior": "STS-44 (44)",
+    "Misión siguiente": "STS-45 (46)"
+  },
+  "resumen": "STS-42 fue una misión de NASA Space Shuttle Discovery con el módulo Spacelab. El despegue estaba programado originalmente para las 8:45 EST (13:45 UTC) el 22 de enero de 1992, pero el lanzamiento se retrasó debido a las limitaciones climáticas. Discovery se levantó con éxito una hora más tarde a las 9:52:33 EST (14:52:33 UTC) en su vuelo 14. El objetivo principal de la misión era estudiar los efectos de la microgravedad en una variedad de organismos. El transbordador aterrizó a las 8:07:17 PST (16:07:17 UTC) el 30 de enero de 1992, en la pista 22, base de la Fuerza Aérea Edwards, California. STS-42 fue el primero de dos vuelos en 1992 de Discovery, el segundo de los cuales ocurrió durante STS-53, que se lanzó el 2 de diciembre de 1992. La misión fue también la última misión del transbordador espacial Discovery en tener una tripulación de siete miembros hasta el STS-82, que fue lanzado el 11 de febrero de 1997.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Los astronautas fueron divididos en un equipo rojo y un equipo azul para permitir el monitoreo de las 24 horas de los experimentos.\nLa tripulación de STS-42 incluyó a los primeros astronautas no americanos en una misión de transporte desde el desastre de Challenger, Ulf D. Merbold y Roberta Bondar. Merbold fue el primer astronauta de Alemania Occidental y estaba haciendo su segundo vuelo en el transbordador. Bondar fue la primera astronauta de Canadá.\nMary L. Cleave fue seleccionada originalmente para volar como especialista de la misión 3 para esta misión, pero se retiró por razones personales. Fue reemplazada por Manley Lanier \"Sonny\" Carter Jr., quien murió siete meses antes del lanzamiento en un accidente de avión. David Hilmers fue entonces elegido para reemplazarlo."
+    },
+    {
+      "titulo": "Aspectos destacados de la misión",
+      "nivel": 2,
+      "texto": "STS-42 fue lanzado el 22 de enero de 1992, 9:52:33 a.m. EST. El lanzamiento se retrasó una hora debido a las limitaciones climáticas. El peso de lanzamiento fue de 243396 libras.\nDiscovery llevó a órbita el Laboratorio Internacional de Microgravedad-1 (IML-1), un módulo presurizado de Spacelab tripulado, para explorar en profundidad los complejos efectos de la ingravidez en los organismos vivos y el procesamiento de materiales. La tripulación internacional, dividida en equipos Rojo y Azul, llevó a cabo experimentos sobre la adaptación del sistema nervioso humano a la baja gravedad y los efectos de la microgravedad en otras formas de vida como huevos de camarón, plántulas de lentejas, huevos de mosca de fruta y bacterias. Los experimentos de procesamiento de materiales de baja gravedad incluyeron el crecimiento de cristales de una variedad de sustancias como enzimas, mercurio, yodo y un virus. Otras cargas útiles incluyen 10 botes Get Away Special (GAS), una serie de cargas útiles de media cubierta, dos experimentos de Shuttle Student Involvement Program (SSIP) y un telescopio ultravioleta australiano desarrollado Endeavour. Entre las cargas útiles de la cubierta media figuraban la gelatización de SOLS: investigación aplicada de la microgravedad (GOSAMR), investigaciones sobre el procesamiento de membranas de polímeros (IPMP) y el experimento de vigilancia de la radiación (RME-III).\nLa misión aterrizó el 30 de enero de 1992, a las 8:07:17 a.m. PST, Pista 22, Base de la Fuerza Aérea Edwards, California, después de ser extendido por un día para la experimentación científica continua. La distancia de despliegue fue de 9811 pies. El orbitador regresó al Centro Espacial Kennedy el 16 de febrero de 1992. El peso de aterrizaje fue de 218016 libras."
+    },
+    {
+      "titulo": "Mission insignia",
+      "nivel": 2,
+      "texto": "Las cuatro estrellas en el campo azul inferior y dos estrellas en el campo azul superior de la insignia simbolizan la designación numérica del vuelo en la secuencia de misión del Sistema de Transporte Espacial. La única estrella de oro sobre el horizonte a la derecha es en honor del astronauta Manley Lanier \"Sonny\" Carter Jr., quien murió en el accidente del vuelo 2311 de Atlantic Southeast Airlines en Brunswick, Georgia mientras viajaba en un avión comercial para la NASA. Carter fue asignado originalmente como un especialista de la misión en STS-42 en el momento de su muerte."
+    }
+  ],
+  "num_palabras": 658
+}

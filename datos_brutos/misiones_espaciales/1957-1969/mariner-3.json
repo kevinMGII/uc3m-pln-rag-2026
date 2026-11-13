@@ -1,0 +1,40 @@
+{
+  "titulo": "Mariner 3",
+  "titulo_wikipedia_en": "Mariner 3",
+  "fecha_lanzamiento": "1964-11-05",
+  "año_lanzamiento": 1964,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración de Marte",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Mariner_3",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Fallido",
+    "Tipo de misión": "Científico",
+    "Operador": "NASA",
+    "Fecha de lanzamiento": "5 de noviembre de 1964",
+    "Lugar de lanzamiento": "Cabo Cañaveral",
+    "Vehículo de lanzamiento": "Atlas",
+    "ID NSSDC": "1964-073A",
+    "Masa en el lanzamiento": "260 kg"
+  },
+  "resumen": "Mariner 3 fue una sonda que inició una nueva etapa del programa Mariner destinada a Marte en vez de a Venus como el Mariner 2. Estaba diseñada para realizar mediciones científicas en las cercanías de Marte y para obtener fotografías de la superficie del planeta. El intento consistía en que la nave llegase a Marte tras un viaje de 500 millones de kilómetros en menos de ocho meses.\nPoco después del lanzamiento, la cubierta protectora que la recubría no se separó, por lo que todos los instrumentos y sensores quedaron tapados. Esto y el peso adicional que cargaba la sonda impidió que la nave adquiriese una trayectoria hacia Marte.",
+  "secciones": [
+    {
+      "titulo": "Experimentos",
+      "nivel": 2,
+      "texto": "Un sensor solar fue diseñado para medir las partículas cargadas que forman el viento solar.\nUn detector de radiación debía medir los cinturones de Van Allen en la Tierra y su equivalente en Marte.\nUna cámara de ionización y un tubo Geiger-Mueller deberían de medir la ionización causada por las partículas cargadas y determinar su número.\nUn detector de rayos cósmicos estaba acoplado en la zona de sombra de la nave para detectar los protones en tres niveles de energía.\nUn magnetómetro de helio estaba montado en la parte superior del brazo telescópico de la antena de baja ganancia para minimizar el efecto de los campos producidos por la propia nave.\nUn detector de polvo cósmico completaba la instrumentación.\nLa energía eléctrica era proporcionada por 28.244 células solares montadas en cuatro paneles solares plegados que debían de abrirse en vuelo. En total suministraban 700 W de energía. A la distancia de Marte, debían mantenerse sobre los 300 W, suficiente para alimentar todos los instrumentos."
+    },
+    {
+      "titulo": "Enlacex externos",
+      "nivel": 2,
+      "texto": "sondasespaciales.com: Web sobre astronomía, y astrofísica\nsondasespaciales.com: Artículo relacionado por Pedro León del que se ha obtenido la información\nde:Mariner"
+    }
+  ],
+  "num_palabras": 293
+}

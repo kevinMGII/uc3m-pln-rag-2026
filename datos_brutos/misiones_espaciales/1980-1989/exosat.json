@@ -1,0 +1,29 @@
+{
+  "titulo": "EXOSAT",
+  "titulo_wikipedia_en": "EXOSAT",
+  "fecha_lanzamiento": "1983-05-26",
+  "año_lanzamiento": 1983,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Telescopio espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/EXOSAT",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Retirado",
+    "Tipo de misión": "Observatorio espacial",
+    "Operador": "ESA",
+    "Fecha de lanzamiento": "26 de mayo de 1983",
+    "Duración planificada": "3 años",
+    "Masa en el lanzamiento": "500 kg",
+    "Sistema de referencia orbital": "Circular",
+    "Periapsis": "350 km",
+    "Periodo orbital": "90 horas"
+  },
+  "resumen": "Exosat fue un satélite de la Agencia Espacial Europea lanzado el 26 de mayo de 1983 y que estuvo operativo hasta abril de 1986. Durante ese período se realizaron 1780 observaciones en la banda de rayos X de la mayoría de clases de objetos astronómicos, que incluían núcleos galácticos activos, coronas estelares, estrellas variables cataclísmicas, enanas blancas, binarias de rayos X agrupaciones galácticas y restos de supernovas.\nEl equipamiento que llevaba a bordo eran tres instrumentos que producían espectros, imágenes y curvas de luz en diferentes bandas de energía.",
+  "secciones": [],
+  "num_palabras": 89
+}

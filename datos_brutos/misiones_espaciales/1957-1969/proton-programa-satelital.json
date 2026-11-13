@@ -1,0 +1,73 @@
+{
+  "titulo": "Proton (programa satelital)",
+  "titulo_wikipedia_en": "Proton (satellite program)",
+  "fecha_lanzamiento": "1965-07-16",
+  "año_lanzamiento": 1965,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Telescopio espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Proton_(programa_satelital)",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Operador": "Unión Soviética",
+    "ID COSPAR": "1965-054A (Proton 1)\n1965-087A (Proton 2)\n1966-060A (Proton 3)\n1968-103A (Proton 4)",
+    "Fabricante": "OKB-52",
+    "Masa en el lanzamiento": "12,200 kg (26,900 lb) (Proton 1) 12,200 kg (26,900 lb) (Proton 2) 12,200 kg (26,900 lb) (Proton 3) 17,000 kg (37,000 lb) (Proton 4)",
+    "Vehículo de lanzamiento": "UR-500 (1–3), Proton-K (4)",
+    "Lugar de lanzamiento": "Cosmódromo de Baikonur (1-4)",
+    "Fecha de reentrada": "Proton 1: 11 de octubre de 1965\nProton 2: 6 de febrero de 1966\nProton 3: 6 de septiembre de 1966\nProton 4: 24 de julio de 1969",
+    "Excentricidad": ".030 (1–3), .017 (4)",
+    "Periapsis": "Proton 1: 183 kilómetros (114 mi)\nProton 2: 189 kilómetros (117 mi)\nProton 3: 185 kilómetros (115 mi)\nProton 4: 248 kilómetros (154 mi)",
+    "Apoapsis": "Proton 1: 589 kilómetros (366 mi)[1]\nProton 2: 608 kilómetros (378 mi)[2]\nProton 3: 585 kilómetros (364 mi)[3]\nProton 4: 477 kilómetros (296 mi)",
+    "Inclinación orbital": "63.5° (1–3), 31.5° (4)",
+    "Periodo orbital": "92 minutos (1-4)"
+  },
+  "resumen": "Proton (протон) ('protón') era una serie soviética de cuatro satélites detectores de rayos cósmicos y partículas elementales. Orbitados de 1965 a 1968, tres en vuelos de prueba del misil balístico intercontinental UR-500 y uno en un cohete Proton-K, los cuatro satélites completaron sus misiones con éxito, el último reingresó a la atmósfera terrestre en 1969.",
+  "secciones": [
+    {
+      "titulo": "Forma de lanzamiento",
+      "nivel": 2,
+      "texto": "Los satélites Proton eran grandes laboratorios automatizados lanzados de 1965 a 1968 para estudiar partículas de alta energía y rayos cósmicos. Estos satélites utilizaron los lanzamientos de prueba del UR-500, un misil balístico intercontinental pesado de dos etapas diseñado por el OKB-52 de Vladimir Chelomey para transportar una carga útil nuclear de 100 megatones. Cada Proton se alojó en una tercera etapa especialmente diseñada que se agregó a la pila UR-500."
+    },
+    {
+      "titulo": "Diseño de naves espaciales",
+      "nivel": 2,
+      "texto": "Los protones del 1 al 3 eran naves prácticamente idénticas con una masa de 12200 kg, con paquetes científicos desarrollados bajo la supervisión del académico Sergey Nikolayevich Vernov del Instituto de Investigación Científica de Física Nuclear de la Universidad Estatal de Moscú. Los experimentos incluyeron un telescopio de rayos gamma, un telescopio centelleador y contadores proporcionales. Los contadores pudieron determinar la energía total de cada partícula cósmica de energía súper alta individualmente, una capacidad que ningún satélite anterior había poseído. Aunque el equipo había sido desarrollado ocho años antes (por el profesor NL Grigorov), el UR-500 fue el primer propulsor lo suficientemente potente como para orbitar un satélite que lleva el contador de partículas sensibles. Los contadores podrían medir rayos cósmicos con niveles de energía de hasta 100 millones de eV.\nEl protón 3 también estaba equipado con un telescopio centelleador de gas Cerenkov para intentar detectar la partícula fundamental recién postulada, el quark. El paquete de experimentos completo llegó a 4000 kg y estaba compuesto de bloques de metal, plástico y parafina.\nLa telemetría se transmitió a través de una baliza de 19,910 MHz. Cuatro paneles solares alimentaron las naves, que fueron enfriadas por intercambiadores de calor. Los Protones fueron estabilizados por giro, su actitud controlada por chorro y un amortiguador a bordo. Los sistemas de satélite estaban controlados por una computadora interna.\nEl protón 4 era considerablemente más masivo con 17000 kg. Su instrumento principal era un calorímetro de ionización compuesto por barras de acero y centelleadores de plástico. Un dispositivo de medición compuesto por un trozo de carbono y otro de polietileno, proporcionó datos sobre los rayos cósmicos y el espectro de energía en órbita, las posibles colisiones de partículas de rayos cósmicos con núcleos atmosféricos de hidrógeno, carbono y hierro, y continuó la búsqueda del quark."
+    },
+    {
+      "titulo": "Misiones",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Protón 1",
+      "nivel": 3,
+      "texto": "El protón 1 fue lanzado a la órbita terrestre el 16 de julio de 1965 11:16 UTC del sitio 81/23 del cosmódromo de Baikonur, aunque el lanzamiento se vio amenazado por una fuga en la tubería del oxidante que provocó el derrame de tetróxido de nitrógeno en los cables eléctricos. Al principio del vuelo, los especialistas en lanzamiento solo recibieron señales que indicaban que el satélite estaba funcionando. Luego el Protón 1 comenzó a devolver datos físicos sobre partículas cósmicas de energía ultra alta. Su misión duró 45 días, y el satélite volvió a entrar en la atmósfera terrestre el 11 de octubre de 1965."
+    },
+    {
+      "titulo": "Protón 2",
+      "nivel": 3,
+      "texto": "El Protón 2, prácticamente idéntico al modelo anterior, se lanzó el 2 de noviembre de 1965 12:28 UTC, también del sitio 81/23 del cosmódromo de Baikonur. Volvió a entrar en la atmósfera de la Tierra el 6 de febrero de 1966. En el momento de su lanzamiento, los expertos estadounidenses creían que los primeros protones eran componentes experimentales de la estación espacial debido a su peso y al uso soviético de la palabra \"estación\" para describir los satélites del observatorio."
+    },
+    {
+      "titulo": "Protón 3",
+      "nivel": 3,
+      "texto": "Después de un lanzamiento fallido de la tercera prueba UR-500 el 24 de marzo de 1966 14:39 UTC, Protón 3 se lanzó con éxito a la órbita terrestre el 6 de julio de 1966 12:57 UTC, en el cuarto y último vuelo de prueba del UR-500, y comenzó a buscar quarks y otras partículas elementales de carga fraccional de electrones. El satélite volvió a entrar en la atmósfera terrestre el 6 de septiembre de 1966."
+    },
+    {
+      "titulo": "Protón 4",
+      "nivel": 3,
+      "texto": "Después del final de la prueba UR-500, el cohete (ahora denominado Protón) y sus sucesores se emplearon en gran medida en el lanzamiento de la nave espacial lunar Zond. Sin embargo, el 16 de noviembre de 1968 11:40 UTC, el Protón 4 final y mucho más grande se puso en órbita a través del cohete Protón-K desde el Sitio 81/24 del Cosmódromo de Baikonur para continuar la búsqueda del quark y complementar las mediciones de rayos cósmicos de los satélites Protón anteriores. Este último satélite volvió a entrar en la atmósfera de la Tierra el 24 de julio de 1969."
+    },
+    {
+      "titulo": "Legado",
+      "nivel": 2,
+      "texto": "Los satélites Protón fueron anunciados por los medios soviéticos como el comienzo de una nueva etapa en la exploración espacial soviética. El éxito de Protón otorgó a Chelomey un estatus en la industria de cohetes soviética igual al de Sergei Korolev de OKB-1 (desarrollador de Sputnik, Vostok y Voskhod) y Mikhail Yangel de OKB-456 (un importante diseñador de misiles militares). El UR-500, originalmente llamado \"Gerkules\" (Геркулес) (' Hércules '), pasó a llamarse \"Protón\" cuando los informes de noticias combinaron el lanzador y su carga útil. Aunque el Protón nunca se usó en una función de misiles balísticos intercontinentales, se convirtió en un propulsor extraordinariamente exitoso para los satélites comerciales, sirviendo hasta bien entrada la década de 1990."
+    }
+  ],
+  "num_palabras": 903
+}

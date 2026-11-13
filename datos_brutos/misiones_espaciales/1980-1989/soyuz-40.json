@@ -1,0 +1,39 @@
+{
+  "titulo": "Soyuz 40",
+  "titulo_wikipedia_en": "Soyuz 40",
+  "fecha_lanzamiento": "1981-05-14",
+  "año_lanzamiento": 1981,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Soyuz_40",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Masa en el lanzamiento": "6800 kg",
+    "Fecha de lanzamiento": "14 de mayo de 1981",
+    "Nave": "Soyuz 7K-T",
+    "Fecha de aterrizaje": "22 de mayo de 1981",
+    "Duración de la misión": "7,86 días",
+    "Programa": "Programa Soyuz",
+    "Misión anterior": "Soyuz 39",
+    "Misión siguiente": "Soyuz T-5"
+  },
+  "resumen": "Soyuz 40 fue la última misión de una nave Soyuz 7K-T, al ser sustituida por el modelo Soyuz T. Fue lanzada el 14 de mayo de 1981 desde el cosmódromo de Baikonur con dos cosmonautas a bordo hacia la estación espacial Salyut 6, siendo uno de ellos el rumano Dumitru Prunariu, lanzado en el marco del programa Intercosmos, cuya primera fase finalizó con esta misión.\nLa misión de Soyuz 40 consistió en acoplarse a la estación Salyut 6 para realizar diversos experimentos científicos, entre ellos el estudio del campo magnético terrestre y realizar observaciones terrestres centradas en el territorio de Rumanía.\nLa Soyuz 40 regresó el 22 de mayo de 1981.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Leonid Popov (Comandante)\nDumitru Prunariu (Especialista científico de Rumanía)"
+    },
+    {
+      "titulo": "Tripulación de respaldo",
+      "nivel": 2,
+      "texto": "Yuri Romanenko (Comandante)\nDumitru Dediu (Especialista científico de Rumanía)"
+    }
+  ],
+  "num_palabras": 129
+}

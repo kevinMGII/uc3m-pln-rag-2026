@@ -1,0 +1,48 @@
+{
+  "titulo": "Apolo 10",
+  "titulo_wikipedia_en": "Apollo 10",
+  "fecha_lanzamiento": "1969-05-18",
+  "año_lanzamiento": 1969,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada",
+    "Exploración lunar",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Apolo_10",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Lugar de lanzamiento": "Centro Espacial Kennedy\nLC 39B",
+    "Masa en el lanzamiento": "CSM 28.834 kg;\nLM 13.941 kg",
+    "Fecha de lanzamiento": "18 de mayo de 1969\n16:49:00 UTC",
+    "Nave": "Módulo de mando:\nCSM-Charlie Brown\nMódulo lunar:\nLM-10 Snoopy",
+    "Fecha de aterrizaje": "26 de mayo de 1969\n16:52:23 UTC",
+    "Duración de la misión": "8 días 0 h 03 min 23 s",
+    "Misión anterior": "Apolo 9",
+    "Misión siguiente": "Apolo 11",
+    "Programa": "Apolo",
+    "Datos interplanetarios": "tipo: orbitador | objeto: Lunar | componente: Módulo de mando y servicio | órbitas: 31 | tiempo órbita: 61 h 37 min 23.6 s\nDel 21 de mayo 20:44:54 al 24 de mayo 10:25:29 UTC"
+  },
+  "resumen": "La misión Apolo 10 fue la cuarta misión tripulada del programa Apolo (denominado oficialmente como AS-505), fue lanzado el día 18 de mayo de 1969 con Thomas P. Stafford —comandante—, John W. Young y Eugene A. Cernan a bordo. Esta misión fue una combinación de las dos anteriores, ya que por primera vez se situó el módulo lunar (LM) en una órbita próxima a la Luna, y se realizaron allí las maniobras necesarias que ya se habían efectuado en órbita alrededor de la Tierra.\nStafford y Cernan se situaron en el módulo lunar Snoopy, tras abandonar el de mando y servicio CSM, y lograron situarse en órbita lunar elíptica, cuyo perilunio quedó situado a unos 14 kilómetros sobre su superficie.\nDurante la segunda y última vuelta a la Luna el módulo lunar perdió el control, recuperado poco después por su piloto Thomas Stafford. Tras finalizar esta maniobra, se abandonó el módulo lunar, que fue lanzado en órbita alrededor del Sol, y tras embarcar en el módulo de mando Charlie Brown, se dirigieron a la Tierra.\nEsta misión supuso el ensayo final del descenso a la Luna, realizándose además multitud de fotografías de las zonas de alunizaje en las 31 órbitas que realizó a la misma. Amarizó el día 26 de mayo tras 192 horas, 3 minutos y 23 segundos de vuelo.",
+  "secciones": [
+    {
+      "titulo": "Aspectos destacados de la misión",
+      "nivel": 2,
+      "texto": "El Apolo 10 fue la primera misión en llevar una cámara para televisión en color en el interior de la nave espacial, e hizo las primeras transmisiones de televisión en color en vivo desde el espacio.\nFue la segunda misión tripulada en orbitar la Luna.\nEl descenso de los astronautas Stafford y Cernan fue la máxima aproximación a otro cuerpo celeste que se había hecho nunca.\nDe acuerdo con los récords mundiales Guinness de 2002, el Apolo 10 estableció el récord de velocidad alcanzada por un vehículo tripulado a durante el regreso de la Luna el 26 de mayo de 1969.\nJohn Young llegó a hacer una caminata lunar como comandante de la misión Apolo 16 y Eugene Cernan, comandante del Apolo 17, fue el último hombre en pisar la Luna. En total 12 astronautas han caminado sobre la superficie de la Luna."
+    },
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "Este ensayo general para un alunizaje llevó el Módulo Lunar Apolo a 15,6 km de la superficie lunar, en el punto donde comenzaría el descenso motorizado en el aterrizaje real. Practicar este enfoque en órbita refinaría el conocimiento del campo gravitacional lunar necesario para calibrar el sistema de guía de descenso motorizado a menos de 1,9 km necesaria para un aterrizaje. Las observaciones basadas en la Tierra, las naves espaciales sin tripulación y el Apolo 8 permitieron respectivamente la calibración dentro de 370,4 km, 37,0 km y 9,3 km. Excepto por este tramo final, la misión fue diseñada para duplicar cómo habría sido un aterrizaje, tanto en el espacio como para el control en tierra, poniendo a prueba los controladores de vuelo de la NASA y su extensa red de seguimiento y control.\nLa etapa de ascenso se cargó con la cantidad de combustible y oxidante que le habría quedado si se hubiera despegado de la superficie y alcanzado la altitud a la que se disparó la etapa de ascenso del Apolo 10; esto era solo aproximadamente la mitad de la cantidad total requerida para despegar y encontrarse con el CSM. El LM cargado de misión pesaba 13.941 kg, en comparación con 15.094 kg para el Apolo 11 LM que realizó el primer aterrizaje. Craig Nelson escribió en su libro Rocket Men que la NASA tomó precauciones especiales para asegurarse de que Stafford y Cernan no intentaran realizar el primer aterrizaje. Nelson citó a Cernan diciendo: \"Mucha gente pensó en el tipo de personas que éramos: '¡No les den a esos muchachos la oportunidad de aterrizar, porque podrían hacerlo!' Así que el módulo de ascenso, la parte con la que levantamos la superficie lunar, tenía poco combustible. Los tanques de combustible no estaban llenos. Entonces, si literalmente hubiéramos intentado aterrizar en la Luna, no podríamos haber bajado\"."
+    },
+    {
+      "titulo": "Puntos destacados de la misión",
+      "nivel": 2,
+      "texto": "Poco después de la inyección trans-lunar, Young realizó la maniobra de transposición, acoplamiento y extracción, separando el módulo de mando y servicio (CSM) de la etapa S-IVB, dando la vuelta y acoplando su nariz a la parte superior del módulo lunar (LM), antes de separarse del S-IVB. Apolo 10 fue la primera misión en llevar una cámara de televisión en color dentro de la nave espacial, y realizó las primeras transmisiones de TV en vivo desde el espacio.\nDespués de alcanzar la órbita lunar tres días después, Young permaneció en el módulo de comando (CM) Charlie Brown mientras Stafford y Cernan ingresaron al LM Snoopy y lo volaron por separado. La tripulación del LM realizó la maniobra de inserción de la órbita de descenso disparando su motor de descenso y probó el radar de aterrizaje de su nave a medida que se acercaban a los 15.240 m de altitud, donde la posterior misión del Apolo 11 comenzaría el descenso motorizado para aterrizar realmente en la Luna. Inspeccionaron el futuro sitio de aterrizaje del Apolo 11 en el Mar de la Tranquilidad, luego desecharon la etapa de descenso y encendieron el motor de la etapa de ascenso para regresar al Módulo de Comando Charlie Brown. La etapa de descenso se dejó en órbita, pero en algún momento pudo haberse estrellado contra la superficie lunar debido al campo gravitacional no uniforme de la Luna. Su ubicación es desconocida ya que no fue rastreado.\nDurante la separación de la etapa de descenso, el módulo lunar comenzó a rodar inesperadamente porque la tripulación duplicó accidentalmente los comandos en la computadora de vuelo que sacó el LM del modo de aborto, la configuración correcta para esta maniobra. Las transmisiones de la red en vivo atraparon a Cernan y Stafford pronunciando varios improperios antes de recuperar el control de la LM. Décadas más tarde, Cernan dijo que observó el horizonte girando ocho veces, lo que indica ocho giros 360° de la nave espacial bajo la potencia del motor de ascenso. Las grabaciones del vuelo no respaldan este dramático recuerdo. Si bien el incidente fue minimizado por la NASA, el descontrolado giro estuvo a pocas revoluciones de ser irrecuperable por bloqueo del cardán, lo que habría resultado en que el LM se estrellara en la superficie lunar.\nDespués de que Stafford y Cernan atracaran y reingresaran en el Charlie Brown, el motor del Snoopy se encendió para eliminar combustible para enviar la etapa de ascenso en una trayectoria más allá de la Luna y en una órbita heliocéntrica. Esta maniobra fue diferente al destino de la posterior etapa de ascenso del Apolo 11, que se dejó en órbita lunar para finalmente chocar (las etapas de ascenso posteriores al Apolo 11 fueron dirigidas a la Luna para obtener lecturas de los sismómetros colocados en la superficie, excepto el ascenso de la etapa del Apolo 13, que la tripulación usó como un \"bote salvavidas\" para regresar con seguridad a la Tierra antes de soltarla para quemarla en la atmósfera terrestre).\nLa órbita de la etapa de ascenso del Snoopy no fue rastreada después de 1969, y se desconoce su ubicación actual. En 2011, un grupo de astrónomos aficionados en el Reino Unido comenzó un proyecto para buscarlo. En 2019, la Royal Astronomical Society anunció un posible redescubrimiento del Snoopy, determinando que el pequeño asteroide que cruza la Tierra 2018 AV2 es probablemente la cápsula con una certeza del \"98%\". Es la única nave espacial que alguna vez estuvo tripulada y que aún está en el espacio exterior sin tripulación.\nEl amerizaje se produjo en el Océano Pacífico el 26 de mayo de 1969 a las 16:52:23 UTC, a unos 740 km al este de Samoa Americana. Los astronautas fueron recuperados por el USS Princeton, y posteriormente volaron al Aeropuerto Internacional Pago-Pago en Tafuna para una recepción de bienvenida, antes de ser trasladados en un avión de carga C-141 a Honolulu.\nDespués del Apolo 10, la NASA exigió a los astronautas que elijan nombres más \"dignos\" para su comando y módulos lunares. Esto resultó inaplicable: los astronautas del Apolo 16 Young, Mattingly y Duke eligieron a Casper, como en Casper the Friendly Ghost, por su nombre de módulo de comando. La idea era darles a los niños una forma de identificarse con la misión usando el humor."
+    }
+  ],
+  "num_palabras": 1388
+}

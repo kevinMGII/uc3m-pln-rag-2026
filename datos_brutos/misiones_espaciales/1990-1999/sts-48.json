@@ -1,0 +1,65 @@
+{
+  "titulo": "STS-48",
+  "titulo_wikipedia_en": "STS-48",
+  "fecha_lanzamiento": "1991-09-12",
+  "año_lanzamiento": 1991,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/STS-48",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Otros nombres": "Sistema de Transporte Espacial-48",
+    "Tipo de misión": "Despliegue de satélites UARS",
+    "Operador": "NASA",
+    "Distancia recorrida": "3530369 km",
+    "Órbitas completadas": "81",
+    "Masa en el lanzamiento": "108890 kg",
+    "Masa en el aterrizaje": "87440 kg",
+    "Masa de la carga útil": "7865 kg",
+    "Tripulación": "John Oliver Creighton; Kenneth S. Reightler Jr.; Charles D. Gemar; James Buchli; Mark N. Marrón",
+    "Fecha de lanzamiento": "12 de septiembre de 1991, 23:11:04 UTC (7:11:04 pm EDT)",
+    "Lugar de lanzamiento": "Kennedy, LC-39A",
+    "Contratista del lanzamiento": "Rockwell Internacional",
+    "Fecha de aterrizaje": "18 de septiembre de 1991, 07:38:42 UTC (12:38:42 am PDT)",
+    "Lugar de aterrizaje": "Edwards, Pista 22",
+    "Sistema de referencia orbital": "Órbita geocéntrica",
+    "Régimen orbital": "Órbita terrestre baja",
+    "Periapsis": "575 km",
+    "Apoapsis": "580 km",
+    "Inclinación orbital": "57.00°",
+    "Periodo orbital": "96,20 minutos",
+    "Instrumentos": "Sitio óptico Maui de la Fuerza Aérea (AMOS); Monitor de partículas ascendentes (APM); Monitor de efectos de rayos cósmicos y activación (CREAM); Investigaciones sobre el procesamiento de membranas de polímeros (IPMP); Experimento de dinámica de 0 grados de cubierta media (MODE); Experimento de roedores fisiológicos y anatómicos (PARE); Crecimiento de cristales de proteínas (PCG II-2); Monitor de activación de trasbordadores (SAM)",
+    "Programa": "Programa de transporte espacial",
+    "Misión anterior": "STS-43 (42)",
+    "Misión siguiente": "STS-44 (44)"
+  },
+  "resumen": "STS-48 fue una misión del transbordador espacial que se lanzó el 12 de septiembre de 1991, desde el Kennedy Space Center, Florida. El orbitador estaba en su vuelo 13. La carga útil principal era el Satélite de Investigación de la Alta Atmósfera (UARS). La misión aterrizó el 18 de septiembre a las 12:38 a.m. EDT en la Base de la Fuerza Aérea Edwards en la pista 22. La misión se completó en 81 revoluciones de la Tierra y viajó 3530369 km. Los cinco astronautas realizaron una serie de experimentos y desplegaron varios satélites. La masa total de lanzamiento fue de 108890 kg y la masa de aterrizaje de 87440 kg.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Aspectos destacados de la misión",
+      "nivel": 2,
+      "texto": "El transbordador espacial Discovery fue lanzado en una órbita de inclinación de 57.00° desde el Complejo de Lanzamiento del Centro Espacial Kennedy (KSC) 39A a las 7:11 p.m. EDT el 12 de septiembre de 1991. El lanzamiento se retrasó durante 14 minutos en la marca de T-5 minutos debido a un problema de ruido en el enlace aire-tierra. El ruido se aclaró, y la cuenta regresiva procedió normalmente a lanzarse.\nEl tercer día de la misión, el Satélite de Investigación de la Alta Atmósfera (UARS) fue desplegado desde la bahía de carga útil de Discovery 650 km sobre la Tierra para estudiar los efectos humanos en la atmósfera del planeta y su capa de ozono protectora. Los objetivos de la misión de la UARS eran proporcionar una mayor comprensión de la entrada de energía en la atmósfera superior, fotoquímica global de la atmósfera superior, dinámica de la atmósfera superior, el acoplamiento entre estos procesos, y el acoplamiento entre la atmósfera superior e inferior. Esto proporcionó datos para un estudio coordinado de la estructura, química, balance energético y la acción física de la atmósfera media de la Tierra, esa rebanada de aire entre 16 km y 97 km sobre la Tierra. La UARS fue el primer elemento de vuelo importante de la Misión al Planeta Tierra de la NASA, un programa de investigación mundial de varios años que usaría instrumentos terrestres, aéreos y espaciales para estudiar la Tierra como un sistema ambiental completo. El UARS tenía diez dispositivos de detección y medición: Espectrómetro de Etalón de Array Limb Criogénico (CLAES); Sordera Estratosférico y Mesosférica mejorada (ISAMS); Sordera de Microondas (MLS); Experimento de Ocultación de Halógenos (HALOE); Imagen Doppler de Alta Resolución (HRDI); Interferómetro de Imágenes de Viento (WINDII); Monitor de Irradiancia Espectral Ultravioleta Solar (SUSIM); Experimento de Comparación de Irradiancia Solar/Estelar (SOLSTICE); Monitor de Entorno de Partículas (PEM) y Monitor de Radiación Radiométrica de Cavidad Activa (ACRIM II). La misión inicial de 18 meses de UARS se extendió varias veces, finalmente se retiró después de 14 años de servicio.\nLas cargas útiles secundarias fueron: Monitor de Partículas de Ascenso (APM); Experimento de Dinámica de 0 Gravity Middeck (MODE); Monitor de Activación de Shuttle (SAM); Efectos y Monitor de Activación de Rayos Cósmicos (CREAM); Experimento de Rodentes Fisiológicos y Anatómicos (PARE); Crecimiento de Cristal de Proteína (PCG II-2); Investigaciones en el Procesamiento de Membrana Polimérica (IPMP); y el experimento de Sitio Óptico Maui de la Fuerza Aérea (AMOS).\nEl vuelo fue el primero en probar una cámara electrónica en el espacio, un Nikon NASA F4 modificado. Las imágenes obtenidas durante el vuelo fueron monocromáticas con 8 bits de información digital por píxel (256 niveles grises) y almacenadas en un disco duro extraíble. Las imágenes podían verse y mejorarse a bordo utilizando una computadora portátil modificada antes de transmitirse al suelo a través de los enlaces de abajo digitales del orbitador.\nSTS-48 fue la segunda misión post-Challenger en tener al Centro Espacial Kennedy como el lugar de aterrizaje previsto para el final de la misión, y la primera misión en tener un aterrizaje nocturno planificado en KSC. Sin embargo, debido a las condiciones meteorológicas en el KSC en Florida, Discovery voló una órbita adicional y aterrizó en la Base de la Fuerza Aérea Edwards, California, a las 3:38 a.m. EDT el 18 de septiembre de 1991. El orbitador regresó a la KSC el 26 de septiembre de 1991."
+    },
+    {
+      "titulo": "Partículas de hielo",
+      "nivel": 2,
+      "texto": "El video mientras se encuentra en órbita el 15 de septiembre de 1991 muestra un destello de luz y varios objetos que parecen estar volando de manera artificial o controlada. NASA explicó los objetos como partículas de hielo reaccionando a los chorros del motor. Philip C. Plait discutió el tema en su libro Bad Astronomy, de acuerdo con la NASA. Este tema también fue discutido en un episodio de los cazadores de OVNIs."
+    },
+    {
+      "titulo": "Llamadas de atención",
+      "nivel": 2,
+      "texto": "La NASA comenzó una tradición de tocar música a los astronautas durante el Proyecto Gemini, y primero usó música para despertar a una tripulación de vuelo durante el Apollo 15. Cada pista es elegida especialmente, a menudo por las familias de los astronautas, y generalmente tiene un significado especial para un miembro individual de la tripulación, o es aplicable a sus actividades diarias."
+    }
+  ],
+  "num_palabras": 811
+}

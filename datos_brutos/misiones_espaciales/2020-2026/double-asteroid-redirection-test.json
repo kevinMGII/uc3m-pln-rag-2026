@@ -1,0 +1,99 @@
+{
+  "titulo": "Double Asteroid Redirection Test",
+  "titulo_wikipedia_en": "Double Asteroid Redirection Test",
+  "fecha_lanzamiento": "2021-11-24",
+  "año_lanzamiento": 2021,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración de asteroides y planetas menores",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Double_Asteroid_Redirection_Test",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Finalizada",
+    "Tipo de misión": "Misión de defensa planetaria",
+    "Operador": "Laboratorio de Física Aplicada (APL)",
+    "Coste": "US$ 324.000.000",
+    "ID COSPAR": "2021-110A",
+    "Nº SATCAT": "49497",
+    "Duración de la misión": "DART:\nLICIACube:",
+    "Nave": "Impactador: DART\nCubesat: LICIACube",
+    "Fabricante": "Laboratorio de Física Aplicada (APL) de Universidad Johns Hopkins",
+    "Masa en el lanzamiento": "DART: 610 kg\nLICIACube: 14 kg",
+    "Dimensiones": "DART: 1,8 × 1,9 × 2,6 m\nLICIACube: 10 × 20 × 30 cm",
+    "Fecha de lanzamiento": "24 de noviembre de 2021, 06:21:02 UTC",
+    "Vehículo de lanzamiento": "Falcon 9 Block 5, B1063.3",
+    "Lugar de lanzamiento": "SLC-4E, Vanderberg",
+    "Contratista del lanzamiento": "SpaceX",
+    "Instrumentos lista": "• Didymos Cámara de reconocimiento y asteroides para navegación óptica (DRACO)",
+    "Instrumentos": "• Didymos Cámara de reconocimiento y asteroides para navegación óptica (DRACO)"
+  },
+  "resumen": "La prueba de redireccionamiento de un asteroide binario (en inglés: Double Asteroid Redirection Test; o DART, que significa \"dardo\") fue una misión espacial de la NASA destinada a probar un nuevo método de defensa planetaria contra objetos próximos a la Tierra (NEO). De manera deliberada, estrelló una sonda espacial contra el asteroide Dimorphos, satélite de Didymos, para probar si la energía cinética del impacto de una nave espacial podría desviar con éxito un asteroide en curso de colisión con la Tierra. DART es un proyecto conjunto entre la NASA y el Laboratorio de Física Aplicada (APL) de la Universidad Johns Hopkins, administrado por la Oficina de Coordinación de Defensa Planetaria de la NASA, y con el soporte técnico de varios laboratorios y oficinas de la NASA. Otras agencias espaciales, como la Agencia Espacial Europea, la Agencia Espacial Italiana o la Agencia Japonesa de Exploración Aeroespacial, están contribuyendo en proyectos relacionados o posteriores. En agosto de 2018, la NASA aprobó el proyecto para iniciar la fase final de diseño y montaje de la sonda DART, que finalmente se lanzó el 24 de noviembre de 2021, a las 06:21:02 UTC, y la colisión con el asteroide ocurrió el 26 de septiembre de 2022.\nEl 11 de octubre de 2022, la NASA confirmó que había acortado el período orbital de Dimorphos en unos 32 minutos, superando el umbral de éxito mínimo, que era de 73 segundos, en más de 25 veces.",
+  "secciones": [
+    {
+      "titulo": "Historia",
+      "nivel": 2,
+      "texto": "Originalmente, la Agencia Espacial Europea (ESA) y la NASA planearon de forma independiente misiones para probar estrategias de deflexión de asteroides, y para 2015 establecieron una colaboración llamada AIDA (Evaluación de Impacto y Deflexión de Asteroides, en inglés: Asteroid Impact and Deflection Assessment) que involucraría dos lanzamientos de naves espaciales funcionando de forma sinérgica. Según la propuesta, la nave espacial europea, AIM, se habría lanzado en diciembre de 2020, y DART en julio de 2021. AIM habría orbitado el asteroide más grande para estudiar su composición y la de su luna, para posteriormente hacer impactar a la sonda DART en la luna del asteroide en septiembre de 2022, durante una aproximación cercana a la Tierra. AIM habría estudiado la fuerza del asteroide, las propiedades físicas de la superficie y la estructura interna, así como también habría medido el efecto en la órbita de la luna del asteroide alrededor del asteroide más grande.\nEl orbitador AIM fue cancelado, por lo que no se obtendrá la caracterización planeada de los asteroides; y los efectos del impacto de DART serán monitoreados desde telescopios y radares terrestres y desde la sonda Hera.\nEn junio de 2017 la NASA aprobó el paso del desarrollo del concepto a la fase de diseño preliminar, y en agosto de 2018 la NASA aprobó el proyecto para iniciar la fase final de diseño y montaje.\nEl 11 de abril de 2019 la NASA anunció que se utilizaría un SpaceX Falcon 9 para lanzar DART. Originalmente se planeó que DART fuera una carga útil secundaria en un lanzamiento comercial para mantener bajos los costos; sin embargo, en una presentación de actualización de la misión en noviembre de 2018 señaló que utilizaría un vehículo de lanzamiento dedicado únicamente para la misión.\nLos científicos estiman que hay 25.000 grandes asteroides en el sistema solar, aunque hasta la fecha los estudios han detectado unos 8.000; por lo tanto, los funcionarios de la NASA creen que es imperativo desarrollar un plan efectivo para evitar que un objeto cercano amenace la Tierra.\nEl impacto de un satélite en un asteroide ya se había llevado a cabo una vez, con un propósito completamente diferente (el análisis de la estructura y composición de un cometa), por la nave espacial impactora de la sonda Deep Impact de la NASA, de 372 kilogramos. Al impactar, liberó 19 gigajulios de energía (el equivalente a 4,8 toneladas de TNT), excavó un cráter de hasta 150 metros de ancho, disminuyó el perihelio del cometa Tempel 1 en 10 metros, cambió la órbita en 10 centímetros y se predijo un cambio de velocidad de 0,0001 mm/s tras impactar con el cometa a una velocidad de ~10,2 km/s el 4 de julio de 2005."
+    },
+    {
+      "titulo": "Descripción",
+      "nivel": 2,
+      "texto": "DART es un impactador con una masa de 610 kilogramos, que no alberga ninguna carga útil científica más que un sensor solar, un rastreador de estrellas y una cámara fotográfica telescópica. La cámara, denominada Reconocimiento Didymos y Asteroides para Navegación Óptica - DRACO, en inglés: Didymos Reconnaissance and Asteroid Camera for Optical navigation, tiene una apertura de 20,8 centímetros y una relación focal de 12,6; su diseño está basado en el Generador de Imágenes de Reconocimiento de Largo Alcance (Long Range Reconnaissance Imager, LORRI) montado bordo de la nave espacial New Horizons, y sirve para respaldar la autonomía de navegación del satélite en su objetivo de impactar en el centro de la luna del pequeño asteroide.\nSe estimó que el impacto de DART de 500 kilogramos a 6,6 km/s produciría un cambio de velocidad del orden de 0,4 mm/s, resultando en un pequeño cambio en la trayectoria del sistema de asteroides, que, con el tiempo, llevaría a un gran cambio de ruta. El impacto, que ocurrió a 11 millones de kilómetros de la Tierra, tuvo como objetivo el centro de Dimorphos y debería disminuir el período orbital, actualmente 11,92 horas, en aproximadamente 10 minutos. En un lapso de años, el artificialmente generado cambio de trayectoria acumulativo de un cambio tan pequeño en la velocidad podría asemejarse al cambio orbital necesario para mitigar el riesgo de que un hipotético asteroide con destino a la Tierra le alcance.\nEl cambio de velocidad real y el cambio orbital son inciertos. Hay un efecto de \"mejora del momentum\" malentendido debido a la contribución del impulso de retroceso de la eyección del impacto. Se espera que el impulso final transferido al fragmento restante más grande del asteroide pueda ser hasta 3-5 veces el impulso incidente, y obtener buenas mediciones de los efectos, que ayudarán a refinar los modelos de tales impactos, es uno de los principales objetivos de la misión. Las estimaciones iniciales del cambio en el período de la órbita binaria deben conocerse dentro de una semana. Unos años más tarde, una nave espacial llamada Hera, aprobada por la ESA en noviembre de 2019, realizará un reconocimiento y una evaluación detallados.\nEn España, el Centro de Astrobiología realizó experimentos de laboratorio para optimizar el impacto de DART, impacto a ser evaluado vía la misión de seguimiento Hera.\nLa nave espacial DART utiliza el propulsor de iones NEXT, un tipo de propulsión eléctrica solar. Será impulsado por paneles solares de 22 metros cuadrados para generar los ~3,5-kW necesarios para alimentar el motor Evolutionary Xenón Thruster – Commercial (NEXT-C) de la NASA.\nLos paneles solares de la nave espacial utilizan un diseño Roll Out Solar Array (ROSA), el cual se probó en la Estación Espacial Internacional en junio de 2017 como parte de la Expedición 52, entregada a la estación por la misión de carga comercial de SpaceX CRS-11.\nUsando ROSA como estructura, una pequeña parte del panel solar de DART está configurada para demostrar la tecnología Transformational Solar Array, que tiene células solares de muy alta eficiencia y concentradores reflectantes que proporcionan tres veces más energía que la tecnología actual de paneles solares.\nLa nave espacial DART es la primera nave espacial en utilizar un nuevo tipo de antena de comunicación de alta ganancia, es decir, una matriz de ranuras de línea radial en espiral (Spiral Radial Line Slot Array, RLSA). La antena opera en las frecuencias de la Red de Espacio Profundo de la NASA de banda X (NASA DSN) de 7,2 y 8,4 GHz. La antena fabricada excede los requisitos dados y ha sido probada en entornos dando como resultado un diseño TRL-6."
+    },
+    {
+      "titulo": "Nave espacial secundaria",
+      "nivel": 3,
+      "texto": "La Agencia Espacial Italiana (ASI) contribuirá a la misión con una nave espacial secundaria llamada LICIACube (Light Italian CubeSat for Imaging of Asteroids), con un pequeño CubeSat que se acoplará a DART y se separará 10 días antes del impacto; con el objetivo de adquirir imágenes del impacto y de la eyección a medida que se desplaza rebasando el asteroide. LICIACube se comunicará directamente con la Tierra, enviando imágenes de la eyección después del sobrevuelo de Dimorphos."
+    },
+    {
+      "titulo": "Misión de seguimiento",
+      "nivel": 3,
+      "texto": "En un proyecto colaborativo paralelo la Agencia Espacial Europea está desarrollando Hera, una nave espacial que se lanzará en dirección a Didymos en 2024, llegando al mismo en 2027 (5 años después del impacto de DART), con el fin de realizar una evaluación más detallada del resultado del impacto. Hera se ha diseñado para llevar dos CubeSats, APEX y Juventus."
+    },
+    {
+      "titulo": "Perfil de la misión",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Asteroide objetivo",
+      "nivel": 3,
+      "texto": "El objetivo de la misión es el asteroide Dimorphos del sistema (65803) Didymos, un sistema de asteroides binarios en el que un asteroide es orbitado por otro más pequeño. El asteroide principal (Didymos A) mide aproximadamente 780 metros de diámetro y su pequeño satélite Dimorphos (o Didymos B) mide unos 160 metros de diámetro, y realiza una órbita de aproximadamente 1 kilómetro de diámetro alrededor del primario. El satélite DART apuntará al asteroide más pequeño, Dimorphos. El sistema Didymos no es un objeto con órbita de impacto con la Tierra y se ha calculado que no hay posibilidad de que el experimento de desviación pueda crear un nuevo peligro de impacto."
+    },
+    {
+      "titulo": "Lanzamiento",
+      "nivel": 3,
+      "texto": "La nave espacial DART se lanzó el 24 de noviembre de 2021.\nEn un inicio se pretendía lanzar a DART desde una órbita terrestre de gran altitud y gran excentricidad con la idea de evitar el campo gravitatorio de la Luna, usando su motor de iones NEXT, hasta posicionarse en una órbita solar ligeramente inclinada cercana a la Tierra desde la cual alcanzar una trayectoria de colisión con el objetivo. Pero debido a que se decidió usar el cohete Falcon 9 para la misión, la carga útil se colocó en la segunda etapa directamente en una trayectoria de velocidad de escape de la Tierra pasando a una órbita heliocéntrica. Por lo tanto, aunque DART lleva un propulsor eléctrico único en su clase y suficiente combustible de xenón, el Falcon 9 hizo casi todo el trabajo, dejando que la nave espacial realizara algunas correcciones de trayectoria mediante los propulsores químicos simples, dirigiendo su trayectoria a la luna Dimorphos del sistema Didymos."
+    },
+    {
+      "titulo": "Curso del impacto",
+      "nivel": 3,
+      "texto": "Dos meses antes del impacto, el 27 de julio de 2022, la cámara DRACO detectó el sistema Didymos a unos 32 millones de kilómetros de distancia y afinó su trayectoria. El nanosatélite LICIACube fue liberado el 11 de septiembre de 2022, 15 días antes del impacto. Cuatro horas antes del impacto, a unos 90.000 km de distancia, el DART comenzó a operar con total autonomía bajo el control de su sistema de guía SMART Nav. Tres horas antes del impacto, el DART realizó un inventario de los objetos cercanos al objetivo. Noventa minutos antes de la colisión, cuando el DART se encontraba a 38.000 kilómetros de distancia del Dimorphos, se estableció la trayectoria final. Cuando DART se encontraba a 24.000 kilómetros de distancia, Dimorphos se hizo visible (1,4 píxeles) a través de la cámara DRACO, que continuó capturando imágenes de la superficie del asteroide y transmitiéndolas en tiempo real.\nDRACO fue el único instrumento capaz de proporcionar una visión detallada de la superficie de Dimorphos. El uso de los propulsores de DART provocó vibraciones en toda la nave y los paneles solares, lo que dio lugar a imágenes borrosas. Para garantizar la nitidez de las imágenes, la última corrección de la trayectoria se ejecutó 4 minutos antes del impacto y los propulsores se desactivaron después.\nEl impacto tuvo lugar el 26 de septiembre de 2022, a las 23:14 UTC.\nEl impacto frontal de la nave DART de 500 kg a 6,6 km/s produjo probablemente una energía equivalente a unas tres toneladas de TNT y una reducción estimada de la velocidad de Dimorphos entre 1,75 cm/s y 2,54 cm/s, dependiendo de numerosos factores como la porosidad del material. La reducción de la velocidad orbital de Dimorphos la acerca a Didymos, lo que hace que la luna experimente una mayor aceleración gravitatoria y, por tanto, un periodo orbital más corto. Aunque el cambio en la órbita de Dimorphos es pequeño, el desfase en su posición orbital se acumulará y se hará más notable con el tiempo. La reducción del periodo orbital debida al impacto frontal sirve para facilitar las observaciones en tierra de Dimorphos. Un impacto en el lado posterior del asteroide aumentaría su período orbital a 12 horas y coincidiría con el ciclo diurno y nocturno de la Tierra, lo que limitaría a los telescopios terrestres la observación de todas las fases orbitales de Dimorphos durante la noche. El impacto se dirigió al centro de Dimorphos y debería disminuir el período orbital, actualmente de 11,92 horas, en unos 10 minutos. Si bien el cambio orbital en este caso fue muy pequeño, con el transcurso de los años la pequeña diferencia de cada órbita se irá acumulando.\nEn el caso de un hipotético cuerpo amenazante para la Tierra, incluso un cambio tan minúsculo, si se aplicara con suficiente antelación, podría ser suficiente para mitigar o evitar un impacto. Dado que el diámetro de la Tierra es sólo de unos 13.000 kilómetros, el impacto de un hipotético asteroide podría evitarse con tan sólo un cambio de la mitad de ese diámetro (6.500 kilómetros). Un cambio de velocidad de 2 cm/s se acumula hasta esa distancia en aproximadamente 10 años."
+    },
+    {
+      "titulo": "Órbita posterior",
+      "nivel": 3,
+      "texto": "Un estudio liderado por Rahil Makadia determinó que el impacto de la sonda DART no solo alteró la órbita local del satélite Dimorphos, sino que desvió la trayectoria de todo el sistema binario Didymos en su órbita alrededor del Sol. Esta es la primera medición de un cambio provocado por el ser humano en la órbita heliocéntrica de un cuerpo celeste."
+    },
+    {
+      "titulo": "Motivos del cambio de velocidad",
+      "nivel": 4,
+      "texto": "El cambio en la velocidad del sistema se debió a dos factores principales:\nImpacto cinético directo: La transferencia de momento del choque de la sonda a más de 22,000 km/h.\nEfecto de los eyectos (\"Motor de escombros\"): El impacto lanzó una gran cantidad de roca pulverizada y polvo al espacio. Este material expulsado actuó como el chorro de un cohete, proporcionando un empuje adicional. El estudio calculó un factor de mejora del momento (β) de aproximadamente 2.0, lo que significa que el retroceso provocado por los escombros que escaparon del sistema duplicó el empuje del impacto inicial de la nave."
+    },
+    {
+      "titulo": "Implicaciones en la órbita",
+      "nivel": 4,
+      "texto": "Aunque el impacto fue significativo para la tecnología de defensa planetaria, el cambio en la órbita heliocéntrica es extremadamente ligero debido a la gran masa de Didymos (unas 200 veces mayor que la de Dimorphos). Los datos indican:\nUna reducción en la velocidad a lo largo de la trayectoria de 11.7 ± 1.3 micrómetros por segundo.\nUn cambio de aproximadamente -360 metros en el semieje mayor de su órbita.\nUna reducción de apenas 150 ± 20 milisegundos en su periodo orbital de 2.1 años.\nEl estudio confirma que estos cambios no suponen ningún riesgo de colisión con la Tierra en el futuro previsible."
+    },
+    {
+      "titulo": "Datos que corroboran el cambio",
+      "nivel": 4,
+      "texto": "Para detectar esta desviación infinitesimal, los investigadores combinaron múltiples fuentes de datos de alta precisión:\nOcultaciones estelares: Se registraron 22 eventos entre octubre de 2022 y marzo de 2025, donde el asteroide bloqueó la luz de estrellas distantes, permitiendo fijar su posición con precisión de milisegundos de arco.\nAstrometría histórica: Un conjunto de casi 6,000 mediciones terrestres recopiladas durante 29 años.\nMediciones de radar y navegación óptica: Datos obtenidos durante la aproximación de la sonda DART y mediante radares terrestres.\nValidación independiente: Los resultados fueron verificados mediante dos bibliotecas de software distintas (el simulador GRSS y programas del JPL), obteniendo resultados estadísticamente consistentes.\nSe espera que la misión Hera de la ESA, al llegar al sistema a finales de 2026, proporcione mediciones in situ que permitan refinar aún más estos cálculos"
+    }
+  ],
+  "num_palabras": 2617
+}

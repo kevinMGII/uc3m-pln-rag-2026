@@ -1,0 +1,47 @@
+{
+  "titulo": "STS-119",
+  "titulo_wikipedia_en": "STS-119",
+  "fecha_lanzamiento": "2009-03-15",
+  "año_lanzamiento": 2009,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/STS-119",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Lugar de lanzamiento": "KSC LC-39A",
+    "Fecha de lanzamiento": "15 de marzo de 2009 a las 23:43 UTC",
+    "Nave": "Discovery",
+    "Fecha de aterrizaje": "28 de marzo de 2009 a las 19:13 UTC",
+    "Duración de la misión": "12 d 19 h 29 min 33 s",
+    "Inclinación orbital": "51,6 grados",
+    "Órbitas completadas": "202",
+    "Distancia recorrida": "Sin determinar",
+    "Misión anterior": "STS-126",
+    "Misión siguiente": "STS-125",
+    "Programa": "Programa del Transbordador Espacial"
+  },
+  "resumen": "STS-119 fue una misión de la NASA con el transbordador espacial Discovery que tenía como objetivo dar continuidad a la construcción de la Estación Espacial Internacional instalando nuevos paneles solares. Fue la 28ª misión con destino a la EEI y el 125.º vuelo de un transbordador espacial.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Lee Archambault Comandante\nDominic Antonelli Piloto\nJohn Lynch Phillips Especialista de misión\nSteven Swanson Especialista de misión\nJoseph Acaba Especialista de misión\nRichard Arnold Especialista de misión"
+    },
+    {
+      "titulo": "Llevado a la EEI Expedición 18",
+      "nivel": 3,
+      "texto": "Koichi Wakata Ingeniero de vuelo"
+    },
+    {
+      "titulo": "Traído de la EEI Expedición 18",
+      "nivel": 3,
+      "texto": "Sandra Magnus Ingeniera de vuelo"
+    }
+  ],
+  "num_palabras": 84
+}

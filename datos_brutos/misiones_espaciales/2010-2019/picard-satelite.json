@@ -1,0 +1,53 @@
+{
+  "titulo": "Picard (satélite)",
+  "titulo_wikipedia_en": "Picard (satellite)",
+  "fecha_lanzamiento": "2010-06-15",
+  "año_lanzamiento": 2010,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Picard_(satellite)",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Investigación solar",
+    "Operador": "CNES",
+    "ID COSPAR": "2010-028A",
+    "Nº SATCAT": "36598",
+    "Plataforma (bus)": "Myriade",
+    "Fecha de lanzamiento": "15 de junio de 2010, 14:42:21 UTC",
+    "Vehículo de lanzamiento": "Dnepr",
+    "Lugar de lanzamiento": "Dombarovsky, Sitio 370/13",
+    "Contratista del lanzamiento": "ISC Kosmotras",
+    "Última señal": "4 de abril de 2014 HUC",
+    "Sistema de referencia orbital": "Geocéntrico",
+    "Régimen orbital": "Órbita terrestre baja"
+  },
+  "resumen": "PICARD es un satélite dedicado a la medición simultánea de la irradiación solar total y espectral absoluta, el diámetro y la forma solar, y al sondeo interior del Sol mediante el método helioseismology. Estas mediciones obtenidas durante toda la misión permiten estudiar sus variaciones en función de la actividad solar. Lanzó, junto con la nave espacial Prisma, el 15 de junio de 2010 en un lanzador Dnepr de Dombarovskiy Cosmodrome, cerca de Yasny, Rusia. La misión, prevista inicialmente para dos años, terminó el 4 de abril de 2014.",
+  "secciones": [
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "Los objetivos de la misión PICARD son mejorar el conocimiento de la humanidad de:\nel funcionamiento de nuestra estrella mediante nuevas observaciones,\nla influencia de la actividad solar en el clima de la Tierra."
+    },
+    {
+      "titulo": "Histórico",
+      "nivel": 2,
+      "texto": "La misión PICARD fue nombrada en honor al astrónomo francés del siglo XVII Jean Picard (1620-1682), quien logró las primeras mediciones precisas del diámetro solar. Estas mediciones son especialmente importantes ya que se realizaron durante un período en el que la actividad solar fue mínima y se caracterizó por un sol casi sin manchas solares entre 1645 y 1710. Este período fue encontrado por Gustav Spörer utilizando manchas solares observaciones reunidas en Europa y este período se llama ahora Maunder mínimo. Al comparar el diámetro durante el mínimo de Maunder y el diámetro cuando el sol estaba activo se ha encontrado una variación, lo que lleva a la pregunta todavía no contestada, \"¿Está el diámetro y la actividad vinculados?\" Durante este período en Europa, hubo un clima inusualmente frío."
+    },
+    {
+      "titulo": "Plataforma",
+      "nivel": 2,
+      "texto": "PICARD utilizó la plataforma de microsatélites Myriade, desarrollada por el CNES para utilizar todo lo posible equipo común. Esta plataforma fue diseñada para una masa total de unos 120 kg de masa en el lanzamiento. Su actitud en el espacio se mantiene utilizando un sensor estelar, sensores solares, un magnetómetro, girometros, varias varillas magnéticas y ruedas de reacción. Si se necesita un control orbital y maniobras orbitales, puede utilizarse un sistema de hidracina. La gestión a bordo está centralizada y utiliza un microprocesador T805 de 10 MIPS. Una memoria de masa está disponible para el almacenamiento de datos. La telemetría y el teletrabajo utilizaron el estándar CCDS."
+    },
+    {
+      "titulo": "Carga útil",
+      "nivel": 2,
+      "texto": "La carga útil de PICARD se compone de los siguientes instrumentos:\nSOVAP (SOlar VAriability PICARD): compuesto de un radiómetro diferencial y un sensor bolométrico para medir la irradiancia solar total (anteriormente llamada constante solar),\nPREMOS (Sensor de MOnitores de Precisión): un conjunto de 3 fotometros para estudiar la formación y destrucción del ozono, realizar observaciones helioseismológicas, y un radiometro diferencial para medir la irradiación solar total,\nSODISM (Imagenador de diámetro solar y mapeador de superficie): telescopio de imágenes apuntado con precisión y CCD que permite medir el diámetro solar y la forma con una precisión de unos pocos miliarcos segundos, y realizar observaciones helioseismológicas para sondear el interior solar."
+    }
+  ],
+  "num_palabras": 467
+}

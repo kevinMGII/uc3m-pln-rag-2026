@@ -1,0 +1,57 @@
+{
+  "titulo": "STS-64",
+  "titulo_wikipedia_en": "STS-64",
+  "fecha_lanzamiento": "1994-09-09",
+  "año_lanzamiento": 1994,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/STS-64",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Otros nombres": "Sistema de Transporte Espacial-64",
+    "Tipo de misión": "Investigación\nTecnología",
+    "Operador": "NASA",
+    "Órbitas completadas": "176",
+    "Distancia recorrida": "7242048 km",
+    "Duración de la misión": "10 días, 22 horas, 49 minutos, 57 segundos",
+    "Masa de la carga útil": "9260 kg",
+    "Lugar de lanzamiento": "Kennedy, LC-39B",
+    "Fecha de lanzamiento": "9 de septiembre de 1994, 22:22:35 HUC",
+    "Fecha de aterrizaje": "20 de septiembre de 1994, 21:12:52 HUC",
+    "Lugar de aterrizaje": "Edwards, Pista 4",
+    "Tripulación": "Richard N. Richards; L. Blaine Hammond, Jr.; Jerry M. Linenger; Susan J. Helms; Carl J. Meade; Mark Charles Lee",
+    "Sistema de referencia orbital": "Geocéntrico",
+    "Régimen orbital": "Órbita terrestre baja",
+    "Periapsis": "259 km",
+    "Apoapsis": "269 km",
+    "Periodo orbital": "89,5 min",
+    "Inclinación orbital": "56,9 grados",
+    "Programa": "Programa de transporte espacial",
+    "Misión anterior": "STS-65 (63)",
+    "Misión siguiente": "STS-68 (65)"
+  },
+  "resumen": "STS-64 era una misión de Space Shuttle Discovery que estaba preparada para realizar múltiples paquetes de experimentos. Fue el vuelo número 19 de Discovery. El STS-64 fue lanzado desde el Kennedy Space Center, Florida, el 9 de septiembre de 1994, y desembarcó nuevamente el 20 de septiembre de 1994 en la Base de la Fuerza Aérea de Edwards.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Paseos espaciales",
+      "nivel": 3,
+      "texto": "Lee y Meade – EVA 1\nInicio: 16 de septiembre de 1994 – 14:42 UTC\nEVA 1 Fin: 16 de septiembre de 1994 – 21:33 UTC\nDuración: 6 horas, 51 minutos"
+    },
+    {
+      "titulo": "Aspectos destacados de la misión",
+      "nivel": 2,
+      "texto": "STS-64 marcó el primer vuelo de Lidar In-space Technology Experiment (LITE) y la primera actividad extravehicular de EE.UU. sin atar (EVA) en 10 años. La carga útil LITE emplea lidar, que significa detección de luz y alcance, un tipo de radar óptico que utiliza pulsos láser en lugar de ondas de radio para estudiar la atmósfera de la Tierra. El primer vuelo espacial de Lidar fue una prueba tecnológica de gran éxito. El instrumento LITE funcionó durante 53 horas, produciendo más de 43 horas de datos de alta tasa. Se obtuvieron vistas sin precedentes de estructuras de nubes, sistemas de tormentas, nubes de polvo, contaminantes, quema de bosques y reflectancia superficial. Los sitios estudiados incluyeron atmósfera sobre el norte de Europa, Indonesia y el sur del Pacífico, Rusia y África. Sesenta y cinco grupos de 20 países realizaron mediciones de validación con instrumentos terrestres y aéreos para verificar los datos de LITE. El programa científico LITE fue parte de la Misión de la NASA al Planeta Tierra.\nLos especialistas en misión Lee y Meade completaron el 28o EVA del programa del transbordador espacial el 16 de septiembre. Durante las seis horas y 15 minutos de EVA, probaron una nueva mochila llamada Ayuda Simplificada para el Rescate de EVA (SAFER), diseñada para su uso en caso de que el miembro de la tripulación se desenrolle mientras realiza un EVA. Las operaciones con SAFER marcaron el primer EVA sin atar desde STS 51-A en 1984, y también el último EVA del programa. SAFER pasó a convertirse en un pilar de los EE.UU. y las caminatas espaciales conjuntas durante el montaje de la Estación Espacial Internacional y más allá.\nEn el quinto día de la misión, el Shuttle Pointed Autonomous Research Tool for Astronomy-201 (SPARTAN-201) fue lanzado con el brazo del Sistema de Manipulador Remoto. Realizando su segundo vuelo en el transbordador, SPARTAN-201 fue diseñado para recopilar datos sobre la aceleración y velocidad del viento solar y para medir aspectos de la corona solar. Los datos fueron registrados para su reproducción después de regresar a la Tierra. SPARTAN-201 fue recuperado después de dos días de recolección de datos.\nOtras cargas útiles de la bahía de carga: Shuttle Plume Impingement Flight Experiment (SPIFEX), una extensión instrumentada de 33 pies de largo para el brazo robot de Shuttle. SPIFEX diseñado para recopilar datos sobre los propulsores del sistema de control de reacciones orbitales (RCS) para ayudar a entender los posibles efectos de los plumones del propulsador en grandes estructuras espaciales, como la estación espacial Mir o la estación espacial internacional prevista. El Robot Operated Processing System (ROMPS) fue el primer sistema de robótica estadounidense operado en el espacio, montado en dos botes Get Away Special (GAS) unidos a la pared de la bahía de carga. Un conjunto de puentes GAS en la bahía de carga llevaba 12 latas, 10 con experimentos autónomos.\nEntre los experimentos realizados en Middeck cabe mencionar los siguientes: el experimento de investigación biológica en canister (BRIC) para investigar los efectos de los vuelos espaciales en los especímenes de las plantas; la aplicación militar de las vías de los buques para tomar imágenes de alta resolución de las vías de los buques y analizar la formación y disipación de las vigilias; el experimento de combustión de superficie sólida (SSCE) para suministrar información sobre la propagación de las llamas sobre los combustibles en el espacio; el equipo de vigilancia de la radiación III (RME III) para medir la radiación ionizante; el experimento de radioaficionado del transbordador II (SAREX II) para demostrar la viabilidad de los contactos por radio de onda corta entre operadores de radioaficionados en órbita y en tierra; y el ensayo de la estación óptica Maui de la Fuerza Aérea (AMOS), que no requería equipo a bordo.\nSTS-64 fue la primera misión en ver el uso del nuevo traje de escape de tripulación avanzado a plena presión, que finalmente reemplazó al traje de entrada de lanzamiento de presión parcial."
+    }
+  ],
+  "num_palabras": 747
+}

@@ -1,0 +1,50 @@
+{
+  "titulo": "Luna 21",
+  "titulo_wikipedia_en": "Luna 21",
+  "fecha_lanzamiento": "1973-01-08",
+  "año_lanzamiento": 1973,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración lunar",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Luna_21",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Inactivo",
+    "Tipo de misión": "Ciencias planetarias\nVehículo lunar Lunojod 2, que recorrió 42 km",
+    "Operador": "URSS",
+    "Fabricante": "NPO Lavochkin",
+    "Fecha de lanzamiento": "8 de enero de 1973; 06:55:38 UTC",
+    "Lugar de lanzamiento": "Cosmódromo de Baikonur",
+    "Vehículo de lanzamiento": "Proton 8K82K + Bloque D",
+    "Duración planificada": "146 días\nFin de la misión el 3 de junio de 1973",
+    "ID NSSDC": "1973-001A",
+    "Masa en el lanzamiento": "5950 kg",
+    "Sistema de referencia orbital": "~36 (a partir del 12 de enero de 1973)",
+    "Semieje mayor": "6467,8 km",
+    "Excentricidad": "0,002",
+    "Periapsis": "90 km",
+    "Apoapsis": "100 km",
+    "Inclinación orbital": "60°",
+    "Periodo orbital": "118 minutos",
+    "Datos interplanetarios": "tipo: acercamiento | objeto: Luna"
+  },
+  "resumen": "Luna 21 (Serie E-8) fue un nave espacial robótica del Programa Luna. La astronave alunizó y desplegó con éxito el segundo rover lunar soviético (el Lunojod 2). Los objetivos primarios de la misión eran recoger imágenes de la superficie lunar, examinar los niveles de luz ambientales para determinar la viabilidad de observaciones astronómicas de la Luna, preparar experimentos de mediciones láser desde la Tierra, observar rayos X solares, medir campos magnéticos locales, y estudiar las propiedades mecánicas del material de la superficie lunar.",
+  "secciones": [
+    {
+      "titulo": "Misión",
+      "nivel": 2,
+      "texto": "Luna 21 transportó con exitoso el segundo rover lunar soviético, Lunojod 2, siendo lanzado menos de un mes después del último aterrizaje lunar de las naves Apolo. El lanzador Protón-K/D puso la aeronave en órbita estacionaria alrededor de la Tierra, efectuando después la inyección translunar. El 12 de enero de 1973, Luna 21 fue frenado en una órbita de unos 90 a 100 km sobre la Luna, con una inclinación de 60°. El 13 y el 14 enero, el ápside de la órbita se rebajó hasta una altitud de 16 km. El 15 de enero, después de 40 órbitas, el cohete de frenado fue despedido a una altitud de 16 km, y la nave descendió en caída libre. A una altitud de 750 metros se encendieron los propulsores principales, retrasando la caída hasta alcanzar una altura de 22 metros. Al llegar a este punto, los propulsores principales fueron cerrados y se accionaron los secundarios, retrasando la caída hasta que el módulo de aterrizaje estuvo a 1,5 metros por encima de la superficie, cuando fue cortado el motor. El alunizaje se produjo a las 23:35 UT en el cráter Le Monnier, en las coordenadas 25.85° N, 30.45° E, entre el Mare Serenitatis (\"Mar de la Serenidad\") y las Montañas Taurus. El módulo lunar portaba un bajorrelieve de Vladimir Lenin y el escudo de armas soviético.\nMenos de tres horas más tarde, a las 01:14 UT del 16 de enero, el rover desembarcó sobre la superficie lunar. El Lunojod 2, de 840 kilogramos, era una versión mejorada de su predecesor. Estaba equipado con una tercera cámara de televisión, un sistema mejorado de tracción con ocho ruedas, e instrumentación científica adicional. Al finalizar su primer día lunar, el Lunojod 2 ya había viajado más lejos que el Lunojod 1 en toda su vida operacional. El 9 de mayo, el rover rodó inadvertidamente sobre un cráter, cubriéndose de polvo sus tableros solares y radiadores, lo que alteró irremediablemente la temperatura en el interior del vehículo. Los intentos de salvar el rover fallaron, y el 3 de junio, la Agencia de Noticias Soviética anunció que su misión se daba por finalizada.\nAntes de su último contacto, el rover tomó 80.000 imágenes de televisión y 86 fotos panorámicas, efectuando centenares de ensayos mecánicos y químicos del terreno. Los soviéticos revelaron posteriormente que durante una conferencia sobre exploración planetaria en Moscú, del 29 de enero al 2 de febrero de 1973 (es decir, después del alunizaje del Luna 21), un científico americano había facilitado fotos de la superficie lunar alrededor del lugar de aterrizaje del Luna 21 a un ingeniero soviético a cargo de la misión Lunojod 2. Estas fotos, tomadas con anterioridad al aterrizaje del Apolo 17, fueron más tarde utilizadas por el \"equipo de guiado\" que condujo el nuevo rover a lo largo de su misión en la Luna.\nFecha/Hora de lanzamiento: 1973-01-08 a las 06:55:38 UTC\nMasa seca en órbita: 4850 kg"
+    },
+    {
+      "titulo": "Propiedad actual",
+      "nivel": 2,
+      "texto": "Luna 21 y el Lunojod 2 fueron adquiridos por Richard Garriott en diciembre de 1993 en una subasta de Sotheby en Nueva York."
+    }
+  ],
+  "num_palabras": 594
+}

@@ -1,0 +1,35 @@
+{
+  "titulo": "Expedición 41",
+  "titulo_wikipedia_en": "Expedition 41",
+  "fecha_lanzamiento": "2014-09-10",
+  "año_lanzamiento": 2014,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Expedición_41",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Fecha de inicio": "10 de septiembre de 2014 UTC",
+    "Fecha de fin": "10 de noviembre de 2014 UTC",
+    "Misión anterior": "Expedición 40",
+    "Misión siguiente": "Expedición 42",
+    "Nave de llegada": "Soyuz TMA-13M\nSoyuz TMA-14M",
+    "Nave de regreso": "Soyuz TMA-13M\nSoyuz TMA-14M",
+    "Programa": "Programa de la ISS",
+    "Estación espacial": "Estación Espacial Internacional",
+    "Tipo de misión": "Expedición a la ISS"
+  },
+  "resumen": "La Expedición 41 fue la 41.ª estancia de larga duración en la Estación Espacial Internacional. Comenzó el 10 de septiembre de 2014 con el desacoplamiento de la Soyuz TMA-12M, y el retorno de la tripulación de la Expedición 40 a la Tierra.\nLa expedición concluyó con el desacoplamiento de la Soyuz TMA-13M el 10 de noviembre de 2014. El resto de la tripulación de la Expedición 41 se unió a la Expedición 42.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Fuente ESA"
+    }
+  ],
+  "num_palabras": 75
+}

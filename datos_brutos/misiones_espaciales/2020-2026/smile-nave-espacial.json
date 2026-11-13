@@ -1,0 +1,91 @@
+{
+  "titulo": "SMILE (nave espacial)",
+  "titulo_wikipedia_en": "SMILE (spacecraft)",
+  "fecha_lanzamiento": "2026-05-19",
+  "año_lanzamiento": 2026,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión heliofísica",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/SMILE_(spacecraft)",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Misión magnetosférico",
+    "Operador": "Agencia Espacial Europea y Academia China de Ciencias",
+    "Duración de la misión": "3 años (previsto)\n(en curso)",
+    "Fabricante": "Airbus (módulo de carga útil)",
+    "Masa en el lanzamiento": "2250 kg",
+    "Masa en seco": "708 kg",
+    "Potencia": "850 W",
+    "Fecha de lanzamiento": "19 de mayo de 2026, 03:52:10 UTC",
+    "Vehículo de lanzamiento": "Vega C (VV29)",
+    "Lugar de lanzamiento": "Guayana, ELV",
+    "Contratista del lanzamiento": "Avio",
+    "Sistema de referencia orbital": "Órbita geocéntrica",
+    "Régimen orbital": "Órbita altamente elíptica",
+    "Periapsis": "5000 km",
+    "Apoapsis": "121182 km",
+    "Inclinación orbital": "73°",
+    "Programa": "Visión Cósmica (Programa Científico de la ESA)",
+    "Misión anterior": "Euclides",
+    "Misión siguiente": "Platón"
+  },
+  "resumen": "Viento solar Magnetosfera Ionosfera Link Explorer (SMILE) es una misión espacial de la Agencia Espacial Europea y la Academia China de Ciencias lanzada el 19 de mayo de 2026 desde el Centro Espacial Guayana en la Guayana Francesa. SMILE visualizará por primera vez la magnetosfera de la Tierra en rayos X suaves y UV durante hasta 40 horas por órbita, mejorando la comprensión de la interacción dinámica entre el viento solar y la magnetosfera de la Tierra. Se estima que la misión durará tres años. Las principales cuestiones científicas de la misión SMILE involucran los modos fundamentales de interacción entre el viento solar y la magnetosfera, los procesos que definen el ciclo de subtormentas y cómo las tormentas de eyección de masa coronal se desarrollan y se relacionan con las subtormentas.",
+  "secciones": [
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "La misión observará la interacción del viento solar con la magnetosfera con sus cámaras de rayos X y ultravioleta (SXI y UVI), reuniendo imágenes y videos simultáneos de la magnetopausa del lado del día (donde la magnetosfera de la Tierra se encuentra con el viento solar), los cúspides polares (una región en cada hemisferio donde las partículas del viento solar tienen acceso directo a la ionosfera de la Tierra), y el óvalo auroral (la región alrededor de cada polo geomagnético donde más a menudo ocurren las auroras). SMILE también reunirá simultáneamente mediciones in situ con sus otros dos instrumentos que componen su carga útil: un analizador de iones llamado LIA y un magnetómetro de flowgate llamado MAG. Estos instrumentos monitorearán los iones en el viento solar, la magnetosola y la magnetosfera mientras detectan cambios en el campo magnético DC local."
+    },
+    {
+      "titulo": "Orbit",
+      "nivel": 2,
+      "texto": "SMILE tuvo que alcanzar una altitud lo suficientemente alta para ver el borde exterior de la magnetopausia de la Tierra y al mismo tiempo obtener una buena resolución espacial del óvalo auroral. La órbita elegida es por lo tanto altamente elíptica y altamente inclinada (73 grados), y toma SMILE un tercio del camino a la Luna a apogeo (una altitud de 19 radios terrestres).\nEste tipo de órbita permite que SMILE pase gran parte de su tiempo (alrededor del 80%, equivalente a nueve meses del año) a gran altitud, permitiendo que la nave espacial recopile observaciones continuas por primera vez durante más de 40 horas. Esta órbita también limita el tiempo pasado en los cinturones de Van Allen de alta radiación.\nSMILE fue lanzado en órbita terrestre baja en mayo de 2026 por un vehículo de lanzamiento Vega-C desde Kourou, Guayana Francesa. A lo largo de un mes, su módulo de propulsión llevó a la nave espacial a su órbita nominal, una órbita polar con altitudes de apogeo y perigeo de 120.920 km por encima del Polo Norte y 5.027 km por encima del Polo Sur, respectivamente. Al pasar sobre la Antártida, el satélite transmite datos a la estación de recepción antártica alemana, operada por el DLR."
+    },
+    {
+      "titulo": "Vehículo espacial",
+      "nivel": 2,
+      "texto": "La nave espacial SMILE consiste en una plataforma proporcionada por CAS que se adjunta debajo de un módulo de carga útil proporcionado por la ESA. La plataforma CAS se compone de un módulo de propulsión y servicio, junto con los dos detectores del instrumento LIA. El módulo de carga útil, construido por Airbus, alberga 3 de los 4 instrumentos científicos y un sistema de comunicaciones de banda X."
+    },
+    {
+      "titulo": "Segmento terrestre",
+      "nivel": 2,
+      "texto": "El segmento terrestre SMILE comprende el segmento terrestre de la Academia China de Ciencias (CAS) y el segmento terrestre de la Agencia Espacial Europea (ESA), que colaboran estrechamente en esta misión. El Sistema de Apoyo a la Tierra (SGS) y el Sistema de Ciencia y Aplicación (SAS) son dos componentes importantes del segmento de tierra CAS. El SAS se encarga de fomentar la colaboración entre CAS y la ESA, diseñando marcos eficaces para coordinar a los científicos en la planificación de las operaciones científicas de SMILE."
+    },
+    {
+      "titulo": "Instrumentos",
+      "nivel": 2,
+      "texto": "La nave espacial está equipada con cuatro instrumentos científicos:\nImágenes de rayos X suaves (SXI) – telescopio de amplio campo con ojo de langosta que utiliza óptica micropora para mapear espectralmente la ubicación, forma y movimiento de los límites magnetosféricos de la Tierra, incluyendo el choque de arco, magnetopausia y cúspides, observando la emisión del proceso [Solar Wind Charge eXchange (SWCX). El SXI está equipado con dos detectores de carga (CCD) sensibles a rayos X que cubren la banda de energía de 0,2 keV a 2,5 keV, y tiene un campo de visión óptico de 15,5° × 26,5°. Este telescopio fue desarrollado, construido y calibrado en la Universidad de Leicester, Reino Unido, y otras instituciones en toda Europa. Los CCD han sido adquiridos por la ESA en Teledyne e2v, Reino Unido, y calibrados por The Open University, Reino Unido.\nUV Imager (UVI) – una cámara ultravioleta para la imagen de las regiones auroras del norte de la Tierra. Estudiará la conexión entre los procesos que tienen lugar en los límites magnetosféricos – como lo ve el SXI – y aquellos que actúan sobre las partículas cargadas que precipitan en nuestra ionosfera. UVI es un telescopio de cuatro espejos que capta emisiones ultravioletas con longitudes de onda de 160 a 180 nm utilizando un detector CCD. Se divide en tres particiones lógicas: UVI-Camera (UVI-C) y UVI-Electronics (UVI-E) conectadas a través de un arnés (UVI-H). La filosofía de diseño óptico UVI se basa en un sistema de 4 espejos en el eje, optimizado para la órbita SMILE y la cadencia y resolución espacial requeridas. La tecnología de filtros UV junto con el diseño de 4 espejos proporciona órdenes de magnitud más de supresión de luz visible que las misiones auroras anteriores y es un factor habilitador para los objetivos científicos de UVI. El módulo del detector comprende una placa de microcanal (MCP) basada en intensificador de imagen acoplado ópticamente a un detector CCD. La UVI tiene un campo de visión de 10 × 10 ° y tendrá una resolución de imagen espacial a apogeo de 150 km, utilizando cuatro espejos delgados recubiertos con película para guiar la luz hacia su detector. La resolución temporal será de hasta 60. UVI es construida por NSSC con la colaboración de Bélgica Lieja Space Center (CSL), ESA, Calgary University y el Instituto de Investigación Polar de China.\nLight Ion Analyser (LIA) – determinará las propiedades y el comportamiento del viento solar y de los iones magnetoespacios bajo diversas condiciones midiendo la distribución tridimensional de la velocidad de los protones y las partículas alfa. Está hecho de dos analizadores electrostáticos de tipo top-hat, cada uno montado en el lado opuesto de la plataforma. Es capaz de tomar muestras de la distribución tridimensional completa de 4 γ del viento solar, y puede medir iones en el rango de energía de 0,05 a 20 keV a 0,5 segundos de resolución. Es una empresa conjunta entre el Centro Nacional Chino de Ciencias Espaciales, CAS, y el Laboratorio de Ciencias Espaciales Mullard de la Universidad de Londres (UCL-MSSL), Reino Unido y LPP/CNRS/Ecole Polytechnique, Francia.\nMagnetómetro (MAG) – se utilizará para determinar la orientación y magnitud del campo magnético en el viento solar y la capa magnetométrica, y para detectar cualquier choque o discontinuidad del viento solar que pase por encima de la nave espacial. Dos sensores triaxiales se montarán lejos de la nave espacial en un brazo de 3 m de largo con una separación de 80 cm, con una unidad electrónica correspondiente montada en el cuerpo principal de SMILE. Esta configuración permitirá que el MAG actúe como un radiómetro, y permitirá que el campo magnético de fondo de SMILE se determine con precisión y se sustraiga de cualquier medición. MAG medirá los tres componentes del campo magnético en el rango +/- 12800 nT. Es una empresa conjunta entre el Centro Nacional Chino de Ciencias Espaciales (CAS) y el Instituto de Investigaciones Espaciales de la Academia de Ciencias de Austria."
+    },
+    {
+      "titulo": "Histórico",
+      "nivel": 2,
+      "texto": "Tras el éxito de la misión Double Star, la ESA y CAS decidieron seleccionar, diseñar, implementar, lanzar y explotar conjuntamente los resultados de una misión espacial por primera vez. Después de los talleres iniciales, se anunció una convocatoria de propuestas en enero de 2015. Después de una revisión conjunta por pares de las propuestas de misión, SMILE fue seleccionado como el candidato principal de 13 propuestas. La propuesta de la misión SMILE fue dirigida conjuntamente por el University College London y el Centro Nacional Chino de Ciencias Espaciales."
+    },
+    {
+      "titulo": "Desarrollo",
+      "nivel": 3,
+      "texto": "De junio a noviembre de 2015, la misión inició estudios de preparación conceptual, y el Comité del Programa Científico de la ESA dio su aprobación final para la misión en noviembre de 2015. La revisión de los requisitos del sistema de misiones se completó en octubre de 2018, y el Comité del Programa Científico de la ESA aprobó la misión en marzo de 2019. La Revisión Preliminar del Diseño (PDR) se llevó a cabo en enero de 2020 y verificó que el diseño de la nave espacial estaba cumpliendo los objetivos científicos."
+    },
+    {
+      "titulo": "Construcción",
+      "nivel": 3,
+      "texto": "SMILE completó con éxito la revisión de diseño crítico de naves espaciales y misiones (CDR) en junio de 2023 en Shanghai. El módulo de carga útil de SMILE, construido por Airbus en España, llegó a ESTEC en septiembre de 2024, seguido por la plataforma de construcción china que llegó a ESTEC en un vuelo dedicado desde Shanghai el 9 de diciembre de 2024. Las dos partes estaban conectadas el 21 de enero de 2025. En abril de 2025, la nave espacial fue trasladada a la Cámara de Prueba Maxwell de ESTEC para realizar pruebas de entorno espacial y posteriormente fue sometida a mediciones de propiedades de masa y pruebas de vibración. La nave espacial ha pasado su examen de calificación y aceptación de vuelo en octubre de 2025."
+    },
+    {
+      "titulo": "Campaña de lanzamiento",
+      "nivel": 3,
+      "texto": "El 11 de febrero de 2026, la nave salió de ESTEC, fue cargada en el buque de carga Colibri de Nantaise Marítimo en el Puerto de Amsterdam, y partió en un viaje de dos semanas a Guayana Francesa. Dos días más tarde, el barco recogió la etapa superior del cohete Vega-C de SMILE en Saint Nazaire. El 26 de febrero de 2026, el buque atracó en Kourou, Guayana Francesa. El 20 de marzo de 2026, los cuatro tanques de la nave fueron llenados con 1.520 litros de hidracina y la ESA reveló la fecha de lanzamiento prevista del 9 de abril de 2026. El 26 de marzo de 2026, la nave espacial fue encapsulada en el carenado de carga útil Vega-C.\nEl 5 de abril de 2026, Avio pospuso el lanzamiento después de que se identificara un problema en el cohete Vega-C. El 23 de abril, la ESA anunció una nueva fecha de lanzamiento para SMILE: 19 de mayo de 2026. El 8 de mayo de 2026, la nave espacial, dentro de su carenado de carga útil, fue transportada a la plataforma de lanzamiento y colocada sobre Vega-C, completando el cohete para su lanzamiento. La nave espacial despegó el 19 de mayo de 2026 a las 3:52 UTC, su primera señal fue recibida por la estación de Nueva Norcia a las 4:48 UTC, y sus paneles solares desplegados a las 4:49 UTC. Este fue el primer lanzamiento Vega gestionado directamente por Avio en lugar de Arianespace."
+    },
+    {
+      "titulo": "En órbita",
+      "nivel": 3,
+      "texto": "Después del lanzamiento, la nave espacial realizó 11 maniobras de levantamiento de apogeos y una maniobra de levantamiento de perigeos y alcanzó su órbita científica designada el 20 de junio de 2026. El 23 de septiembre de 2026, SMILE concluyó su período de puesta en marcha e inició observaciones científicas. El 30 de septiembre de 2026, la ESA publicó un vídeo grabado por UVI el 24 de julio de 2026, el primer video ultravioleta del anillo completo de las auroras boreales desde 2008."
+    }
+  ],
+  "num_palabras": 1928
+}

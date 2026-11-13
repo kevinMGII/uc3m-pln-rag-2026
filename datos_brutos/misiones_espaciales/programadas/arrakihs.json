@@ -1,0 +1,60 @@
+{
+  "titulo": "ARRAKIHS",
+  "titulo_wikipedia_en": "ARRAKIHS",
+  "fecha_lanzamiento": "2030-12",
+  "año_lanzamiento": 2030,
+  "estado": "programada",
+  "tipo_mision": [
+    "Telescopio espacial"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/ARRAKIHS",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Astrofísica (Formación y montaje de galaxias, Astronomía de baja luminosidad superficial)",
+    "Operador": "ESA",
+    "Duración de la misión": "3 años (nominal)",
+    "Fabricante": "Satlantis (Instrumento) AVS y Redwire (primas de plataforma a PDR)",
+    "Masa en el aterrizaje": "600 kg",
+    "Masa de la carga útil": "160 kg",
+    "Dimensiones": "~1,5 x 1,5 x 1,2 m^3 (estibado)",
+    "Fecha de lanzamiento": "Diciembre de 2030",
+    "Tipo de telescopio": "Dos telescopios binoculares (configuración Maksutov-Cassegrain) con 2 cámaras iSIM170",
+    "Longitudes de onda": "280-900 nm visibles;\n900-1600 nm cerca de infrarrojos",
+    "Distancia focal": "1500 mm (f/10)",
+    "Programa": "Visión Cósmica (Programa de Ciencia)",
+    "Misión anterior": "Interceptor de cometas",
+    "Misión siguiente": "Ariel"
+  },
+  "resumen": "ARRAKIHS es una misión espacial de clase F de la Agencia Espacial Europea (ESA), seleccionada como la segunda misión rápida (F2) dentro del programa de Visión Cósmica. El objetivo de la misión es probar el modelo de materia oscura fría (MDL) analizando las discrepancias entre las predicciones teóricas y las observaciones de estructuras de pequeña escala, como las corrientes estelares de mareas y las galaxias satélite enanas. Está diseñado específicamente para explorar el Universo de baja luminosidad superficial, apuntando a las estructuras más débiles y difusas de las galaxias a través de una muestra estadística de galaxias cercanas de la Vía Láctea.\nCon un lanzamiento previsto en 2030, la misión está encabezada por España, con importantes contribuciones de Suiza, Bélgica, Austria, Suecia, Noruega, Portugal y el Reino Unido. Se llama así por el planeta Arrakis de la novela de ciencia ficción Dune. El nombre es un backrónimo de \"Análisis de restos resueltos de galaxias Acretadas como instrumento clave para las encuestas de Halo\".",
+  "secciones": [
+    {
+      "titulo": "Ciencia",
+      "nivel": 2,
+      "texto": "Las débiles estructuras a las que apunta la misión incluyen el halo estelar difuso que rodea una galaxia, corrientes y conchas estelares de mareas, y otras características de muy baja luminosidad, todas ellas difíciles de detectar con estudios astronómicos convencionales. Juntos, estos débiles componentes de galaxia conservan evidencia de eventos de acreción y fusión pasadas, proporcionando un registro fósil de ensamblaje de galaxias. Como tales, proporcionan valiosas limitaciones en los procesos de montaje y formación de galaxias, así como en el papel de la materia oscura en la formación de halos galácticos, vinculando las propiedades observables de las galaxias con su estructura gravitacional subyacente.\nARRAKIHS investigará cómo las galaxias se ensamblan y cómo la materia oscura y los procesos bariónicos dan forma a sus periferias a través de observaciones visibles profundas y de infrarrojos cercanos de una muestra estadísticamente representativa de galaxias de masa cercanas a la Vía Láctea. Combinando una profundidad sin precedentes con observaciones homogéneas a través de una gran muestra, la misión superará los estudios de sistemas individuales y permitirá las investigaciones a nivel poblacional del ensamblaje de galaxias. La estrategia de diseño y estudio ARRAKIHS está optimizada para lograr una sensibilidad sin precedentes a la emisión difusa débil, minimizando al mismo tiempo los efectos observacionales sistemáticos.\nAl alcanzar límites de brillo superficial más allá de los alcanzados por los estudios de campo amplio existentes, ARRAKIHS revelará y caracterizará estructuras débiles que hasta ahora han sido estudiadas en detalle en un pequeño número de galaxias cercanas. Al extender estos estudios más allá de nuestro Grupo Local, la misión colocará estas galaxias en un contexto galáctico más amplio, ayudando a limitar la historia de ensamblaje de masas de galaxias similares a la Vía Láctea, mejorar nuestra comprensión de los procesos de formación de galaxias, e investigar cómo los flujos estelares se pueden utilizar para sondear las propiedades de los halos de materia oscura."
+    },
+    {
+      "titulo": "Instrumentos",
+      "nivel": 2,
+      "texto": "La carga útil principal de la misión ARRAKIHS es un sistema de telescopio binocular dual con un diseño modificado de Maksutov Cassegrain equipado con dos cámaras de onda visible y dos cámaras infrarrojas, optimizadas para la astronomía de bajo brillo superficial. Desarrollado por la empresa aeroespacial española Satlantis, el contratista principal para el diseño y fabricación del instrumento, el sistema está diseñado para detectar estructuras estelares extremadamente débiles que rodean galaxias con alta sensibilidad y precisión. El sistema de imágenes de campo amplio de la nave tiene una cobertura de longitud de onda continua de 280 a 1600 nm a través de cuatro bandas fotométricas (VIS1 y VIS2 en el visible, y NIR1 y NIR2 en el infrarrojo cercano).\nEl sistema de telescopio binocular cuenta con:\nMódulo de telescopio y cámara: Incluye conjuntos optomecánicos, bafles de luz perdida, estructura de instrumentos, conjuntos de plano focal con sensores CMOS visibles y detectores H2RG, y control térmico pasivo/activo. También incluye el Straylight Baffle Assembly que rechaza la luz fuera del campo de visión, como las estrellas brillantes y el brillo de la tierra.\nCaja Electrónica: Unidades de control y procesamiento de datos, sistemas de regulación térmica y distribución de energía.\nFiltros:\nFiltros VIS que funcionan a longitudes de onda visibles (VIS1: 280-420 nm, VIS2: 381-863 nm), detectores CIS304 2x Te2v.\nFiltros NIR, que funcionan a longitudes de onda cercanas al infrarrojo (NIR1: 857-1255 nm, NIR2: 1168-1567 nm), 2 detectores Teledyne H2RG."
+    },
+    {
+      "titulo": "Vehículo espacial",
+      "nivel": 2,
+      "texto": "El telescopio se integrará en una pequeña plataforma satelital con una masa total de aproximadamente 600 kg. Operando en una órbita sol-sincrónica baja de la Tierra (LEO) a una altitud de 800 km, para la cual la nave espacial está diseñada con sistemas de control térmico y desconcertantes especializados para minimizar la luz perdida y el ruido térmico, garantizando condiciones de observación estables."
+    },
+    {
+      "titulo": "Consorcio de la Misión",
+      "nivel": 2,
+      "texto": "El Consorcio de la Misión ARRAKIHS (AMC) es una red colaborativa de científicos, ingenieros y expertos técnicos de institutos de investigación y empresas líderes de toda Europa y más allá. Incluye miembros de España, Austria, Bélgica, Suecia, Suiza, Noruega, Portugal y el Reino Unido, que son colectivamente responsables de financiar, diseñar y operar los componentes científicos e instrumentales de la misión. El consorcio también colabora con instituciones de investigación de los Países Bajos, Francia, Dinamarca, los Estados Unidos, Tailandia y Taiwán. La empresa española Satlantis es el contratista principal del instrumento, liderando un grupo de empresas tecnológicas de toda Europa. El AMC se organiza en tres áreas operacionales clave: Instrumentación, Ciencia, y el Centro de Operaciones de Datos de Instrumentos y Ciencia (IOSDC), cada una de las cuales está estructurada en paquetes de trabajo especializados."
+    },
+    {
+      "titulo": "Cronología",
+      "nivel": 2,
+      "texto": "ARRAKIHS es la segunda misión de clase F de la Agencia Espacial Europea (ESA) dentro de su campaña de Visión Cósmica. Fue seleccionado el 2 de noviembre de 2022. En noviembre de 2023, el consorcio ARRAKIHS ha aprobado con éxito la revisión de la definición de misión del proyecto.\nEn marzo de 2024, la misión completó su Revisión de los Requisitos Preliminares del Instrumento (iPRR), concluyendo la Fase A del desarrollo y la ESA publicó un llamamiento para la definición, el desarrollo y el funcionamiento de la misión.\nEn enero de 2025, la empresa española Added Value Solutions (AVS) y una filial belga de Redwire han ganado contratos para las fases iniciales del proyecto. Los contratos incluyen el diseño preliminar de naves espaciales y el trabajo para desprestigiar tecnologías clave. En mayo de 2025, la fase de preparación científica de ARRAKIHS, utilizando un manifestante terrestre de la cámara iSIM-170, ha comenzado oficialmente en el Observatorio Astrofísico de Javalambre en España.\nLa misión ha completado su fase de diseño y logró su adopción en junio de 2026 con el lanzamiento previsto para finales de 2030."
+    }
+  ],
+  "num_palabras": 1099
+}

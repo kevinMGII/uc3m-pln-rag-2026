@@ -1,0 +1,51 @@
+{
+  "titulo": "Virgin Galactic Unity 25",
+  "titulo_wikipedia_en": "Virgin Galactic Unity 25",
+  "fecha_lanzamiento": "2023-05-25",
+  "año_lanzamiento": 2023,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Virgin_Galactic_Unity_25",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Vuelo espacial suborbital tripulado",
+    "Operador": "Virgen Galáctica",
+    "Duración de la misión": "14 minutos",
+    "Apogeo suborbital": "87,2 km",
+    "Nave": "Unidad VSS",
+    "Tipo de nave": "SpaceShipDos",
+    "Fabricante": "Compañía de Naves Espaciales",
+    "Tripulación": "Michael Masucci\nFrederick W. Sturckow\nBet Moses\nLuke Mays\nJamila Gilbert\nChristopher Huie",
+    "Fecha de lanzamiento": "25 de mayo de 2023 15:15:00 UTC",
+    "Lugar de lanzamiento": "Autopista del puerto espacial América 34",
+    "Fecha de aterrizaje": "25 de mayo de 2023 16:37:00 UTC",
+    "Lugar de aterrizaje": "Autopista del puerto espacial América 34",
+    "Programa": "VSS Vuelos espaciales de la Unidad",
+    "Misión anterior": "Unidad 22",
+    "Misión siguiente": "Galáctico 01"
+  },
+  "resumen": "Virgin Galactic Unity 25 fue un vuelo espacial sub-orbital de Virgin Galactic que tuvo lugar el 25 de mayo de 2023. El vuelo utilizó su SpaceShipDos avión espacial VSS Unity. La tripulación estaba compuesta por seis empleados de Virgin Galáctica. Unity 25 fue el primer vuelo espacial de la compañía desde Unity 22 en 2021, cuando el fundador Richard Branson voló al espacio.",
+  "secciones": [
+    {
+      "titulo": "Antecedentes",
+      "nivel": 2,
+      "texto": "Unity 25 fue el primer vuelo espacial de Virgin Galactic desde que Richard Branson voló al espacio en julio de 2021. La compañía había planeado volar un vuelo de investigación para la Fuerza Aérea Italiana, Unity 23, más tarde ese mismo año, pero la flota fue puesta temporalmente en tierra tras un error durante el vuelo de Branson, junto con mejoras y modificaciones que se estaban haciendo a los vehículos. Virgin Galáctica planea volar su primer vuelo comercial a finales de junio de 2023, siguiendo el éxito de Unity 25."
+    },
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "La tripulación de Unity 25 incluía dos pilotos y cuatro pasajeros, todos empleados de Virgin Galáctica. Ambos pilotos han volado SpaceShipTwo al espacio anteriormente, y CJ Sturckow ha volado al espacio en el transbordador espacial. De los cuatro pasajeros, sólo Bet Moisés había volado al espacio antes."
+    },
+    {
+      "titulo": "Vuelo",
+      "nivel": 2,
+      "texto": "La misión fue el quinto vuelo espacial de Virgin Galáctica. VMS Eve, una nave nodriza WhiteKnightTwo, despegó de Spaceport America en Nuevo México, y llevó VSS Unity en una configuración parasitaria antes de lanzarla. A partir de ahí, el avión espacial encendió su motor cohete y voló a más de 50 millas de altitud, por encima de la definición estadounidense para el inicio del espacio, pero por debajo de la línea Kármán definida por la FAI a 100 km. Luego volvió a entrar en la atmósfera y aterrizó en la misma pista de la que despegó."
+    }
+  ],
+  "num_palabras": 296
+}

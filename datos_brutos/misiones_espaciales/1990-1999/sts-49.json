@@ -1,0 +1,32 @@
+{
+  "titulo": "STS-49",
+  "titulo_wikipedia_en": "STS-49",
+  "fecha_lanzamiento": "1992-05-07",
+  "año_lanzamiento": 1992,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/STS-49",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Programa": "Programa del Transbordador Espacial"
+  },
+  "resumen": "La misión STS-49 fue el vuelo inaugural del transbordador espacial Endeavour. El objetivo principal de esta misión de nueve días era recuperar el satélite Intelsat VI, que había fallado al dejar la órbita dos años antes, amarrarlo a una nueva etapa superior, y volver a lanzarlo hasta una órbita geosíncrona. Después de varios intentos, se completó su captura con una actividad extravehicular de tres astronautas, la primera vez que tres personas de la misma nave salían al espacio exterior a la vez. Hasta la STS-102 en 2001 se mantuvo como la EVA más larga jamás realizada.",
+  "secciones": [
+    {
+      "titulo": "Parámetros de la misión",
+      "nivel": 2,
+      "texto": "Masa:\nAterrizaje con la carga: 91.214 kg\nCarga útil: 14.618 kg\nPerigeo: 268 km\nApogeo: 341 km\nInclinación: 28.35°\nPeriodo: 90,6 min"
+    },
+    {
+      "titulo": "Caminatas espaciales",
+      "nivel": 3,
+      "texto": "Thuot y Hieb - EVA 1\nEVA 1 Inicio: 10 de mayo de 1992 - 20:40 UTC\nEVA 1 Fin: 11 de mayo, - 00:23\nDuración: 3 horas, 43 minutos\nThuot y Hieb - EVA 2\nEVA 2 Inicio: 11 de mayo de 1992 - 21:05 UTC\nEVA 2 Fin: 12 de mayo - 02:35 UTC\nDuración: 5 horas, 30 minutos\nThuot, Hieb y Akers - EVA 3\nEVA 3 Inicio: 13 de mayo de 1992 - 21:17 UTC\nEVA 3 Fin: 14 de mayo - 05:46 UTC\nDuración: 8 horas, 29 minutos\nThornton y Akers - EVA 4\nEVA 4 Inicio: 14 de mayo de 1992 - ~21:00 UTC\nEVA 4 Fin: 15 de mayo ~05:00 UTC\nDuración: 7 horas, 44 minutos"
+    }
+  ],
+  "num_palabras": 241
+}

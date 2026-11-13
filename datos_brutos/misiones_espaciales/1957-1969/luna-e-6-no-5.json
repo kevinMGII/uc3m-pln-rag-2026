@@ -1,0 +1,32 @@
+{
+  "titulo": "Luna E-6 No.5",
+  "titulo_wikipedia_en": "Luna E-6 No.5",
+  "fecha_lanzamiento": "1964-04-20",
+  "año_lanzamiento": 1964,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración lunar"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Luna_E-6_No.5",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Tierras lunares",
+    "Operador": "Programa espacial soviético",
+    "Duración de la misión": "Falló a la órbita",
+    "Tipo de nave": "Ye-6",
+    "Fabricante": "OKB-1",
+    "Masa en el lanzamiento": "1422 kg",
+    "Fecha de lanzamiento": "20 de abril de 1964, 08:08:28 UTC",
+    "Vehículo de lanzamiento": "Molniya-M 8K78M s/n T15000-21",
+    "Lugar de lanzamiento": "Baikonur 1/5",
+    "Programa": "Programa Luna",
+    "Misión anterior": "Luna 1964A",
+    "Misión siguiente": "Kosmos 60"
+  },
+  "resumen": "Luna E-6 No.5, a veces identificada por la NASA como Luna 1964B, era una nave espacial soviética que se perdió en un fallo de lanzamiento en 1964. Fue una nave espacial Luna Ye-6 de 1.422 kilogramos, la quinta de doce en ser lanzada. Estaba destinado a ser la primera nave espacial en realizar un aterrizaje suave en la Luna, un objetivo que eventualmente sería alcanzado por la nave espacial Ye-6 final, Luna 9.\nLuna E-6 No.5 fue lanzada a las 08:08:28 UTC el 20 de abril de 1964, sobre un cohete portador Molniya-M 8K78M, volando desde el Sitio 1/5 en el Cosmodrome de Baikonur. El sistema de alimentación en la etapa superior falló 340 segundos en el vuelo, causando que el motor se desconectara antes de llegar a la órbita. La etapa superior y la nave espacial se desintegró al reingreso en la atmósfera poco después. Antes de la publicación de información sobre su misión, la NASA identificó correctamente que había sido un intento de aterrizar una nave espacial en la Luna.",
+  "secciones": [],
+  "num_palabras": 172
+}

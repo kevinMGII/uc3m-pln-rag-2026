@@ -1,0 +1,50 @@
+{
+  "titulo": "EQUULEUS",
+  "titulo_wikipedia_en": "EQUULEUS",
+  "fecha_lanzamiento": "2022-11-16",
+  "año_lanzamiento": 2022,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración lunar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/EQUULEUS",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {},
+  "resumen": "EQUULEUS (EQUilibriUm Lunar-Earth point 6U Spacecraft) es una misión de bajo precio proyectada por la NASA, para desarrollar un satélite tipo CubeSat, cuyo objetivo será medir la distribución del plasma que rodea la Tierra (plasmasfera) para ayudar a la comunidad científica a comprender el entorno de radiación en esa región. También servirá para experimentar el funcionarmiento de la trayectoria de bajo empuje, como múltiples sobrevuelos lunares, dentro de la región Tierra-Luna usando vapor de agua como propulsor. La nave espacial fue diseñada y desarrollada conjuntamente por la Agencia Japonesa de Exploración Aeroespacial (JAXA) y la Universidad de Tokio.\nEn principio se transportará como carga secundaria en el primer vuelo de la misión Exploration Mission 1 a una órbita heliocéntrica, que tiene programado su lanzamiento en 2019.",
+  "secciones": [
+    {
+      "titulo": "Resumen",
+      "nivel": 2,
+      "texto": "Hacer un mapeo de la plasmasfera alrededor de la Tierra podrá proporcionar importante información que servirá para proteger tanto a los humanos como a los ingenioer electrónicos del daño por radiación solar durante los viajes espaciales. También demostrará técnicas de control de trayectoria de bajo empuje, como múltiples sobrevuelos lunares, dentro de los puntos Lagrangianos Tierra-Luna (Earth-Moon Lagrangian points - EML). Otra de los objetivos será demostrar que desde el EML se podrán transferir a distintas órbitas, como órbitas terrestres, órbitas lunares y órbitas interplanetarias, sólo con un pequeño control orbital. El cubesat se abastece de energía a partir de 2 paneles solares desplegables y baterías de litio.\nLa misión será monitorizada desde las antenas japonesas de espacio profundo (antena de 64 metros y antena de 34 metros) con el apoyo de la Red del Espacio Profundo (Deep Space Network - DSN) del Laboratorio de Propulsión a Reacción (JPL). El investigador principal es el profesor Hashimoto en la Agencia de Exploración Aeroespacial de Japón (JAXA). La misión lleva el nombre de la constelación de \"caballito\" Equuleus."
+    },
+    {
+      "titulo": "Propulsión",
+      "nivel": 2,
+      "texto": "El sistema de propulsión, llamado AQUARIUS, emplea 8 propulsores de agua que también serán utilizados para el control de actitud (orientación) y la gestión del momento. La nave espacial transportará 1,5 kg de agua, y el sistema de propulsión ocupará aproximadamente 2,5 unidades del total de las 6 unidades del volumen de la nave espacial. El calor residual de los componentes de comunicación se reutilizará para ayudar a calentar el vapor de agua, que se calienta a 100 °C (212 °F) en el termo. Los propulsores de agua de AQUARIUS producen un total de 4.0 mN, un impulso específico (Isp) de 70 s, y consume aproximadamente 20 W de potencia."
+    },
+    {
+      "titulo": "Carga científica",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "PHOENIX",
+      "nivel": 3,
+      "texto": "PHOENIX (Plasmaspheric Helium ion Observation by Enhanced New Imager in eXtreme ultraviolet) es un pequeño telescopio UV que trabajará en las longitudes de onda ultravioleta extrema de alta energía. Consiste en un espejo de entrada de 60 mm de diámetro y un dispositivo contador de fotones. La reflectividad del espejo se optimiza para la línea de emisión de ion de helio (30,4 nm de longitud de onda), que es el componente relevante de la plasmasfera de la Tierra. La plasmasfera es el lugar donde se dan varios fenómenos causados por perturbaciones electromagnéticas cuyo origen es el viento solar. Al situarse a bastante distancia de la Tierra, el telescopio PHOENIX proporcionará una imagen global de la plasmasfera de la Tierra y contribuirá a su evolución espacial y temporal."
+    },
+    {
+      "titulo": "DELPHINUS",
+      "nivel": 3,
+      "texto": "DELPHINUS (DEtection camera for Lunar impact PHenomena IN 6U Spacecraft), o DLP, es una cámara conectada al telescopio PHOENIX que observará los destellos de impacto lunar y los asteroides cercanos a la Tierra (NEO), así como las posibles 'mini-lunas' desde su posición en el punto Lagrangiano punto L2 Tierra-Luna en la órbita del halo. Teóricamente, los NEO que se aproximan a la Tierra pueden ser atrapados brevemente dentro de la gravedad terrestre, y aunque en términos de astrodinámica los movimientos del objeto todavía se centran alrededor del Sol, para un observador en la Tierra se moverá como si fuera una Luna más del planeta. 15] Un ejemplo de este tipo de objeto es 2006 RH120, que orbitó la Tierra entre 2006 y 2007. Si se identifica una mini-luna o NEO que pueda encontrar EQUULEUS, el CubeSat intentará realizar un sobrevuelo. One example of such an object is 2006 RH120, which orbited Earth between 2006 and 2007. If a mini-moon or NEO that can be rendezvoused by EQUULEUS is identified, the CubeSat will attempt a flyby. Esta carga útil ocupa aproximadamente 0.5 unidades del volumen total de 6 unidades. Los resultados contribuirán a la evaluación del riesgo para la futura infraestructura o actividad humana en la superficie lunar."
+    },
+    {
+      "titulo": "CLOTH",
+      "nivel": 3,
+      "texto": "CLOTH (Cis-Lunar Object Detector within Thermal Insulation) detectará y evaluará el flujo de impacto de meteoroides en el espacio cislunar mediante el uso de detectores de polvo montados en el exterior de la nave espacial. El objetivo de este instrumento es comprender el tamaño y la distribución espacial de polvo en los objetos sólidos en el espacio cislunar. CLOTH utiliza el aislamiento multicapa (MLI) de la nave espacial como detector, realizando así un contador de polvo adecuado para CubeSats de masa restringida. Será el primer instrumento para medir el entorno de polvo del punto lagrangiano Tierra-Luna L2, y tiene como objetivo descubrir el origen del polvo, así como realizar una evaluación del riesgo de las partículas de polvo de punto L2 en anticipación de una futura misión tripulada. CLOTH descifrará el polvo de punto L2 (probablemente procedente de mini-lunas) del polvo esporádico por las diferencias en su velocidad de impacto."
+    }
+  ],
+  "num_palabras": 896
+}

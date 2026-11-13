@@ -1,0 +1,27 @@
+{
+  "titulo": "Soyuz TMA-15M",
+  "titulo_wikipedia_en": "Soyuz TMA-15M",
+  "fecha_lanzamiento": "2014-11-23",
+  "año_lanzamiento": 2014,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Soyuz_TMA-15M",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Vehículo de lanzamiento": "Cosmódromo de Baikonur",
+    "Fecha de lanzamiento": "23 de noviembre de 2014",
+    "Nave": "Soyuz-FG",
+    "Fecha de aterrizaje": "mayo de 2015",
+    "Programa": "Programa Soyuz",
+    "Misión anterior": "Soyuz TMA-14M",
+    "Misión siguiente": "Soyuz TMA-16M"
+  },
+  "resumen": "Soyuz TMA-15M es un vuelo realizado en noviembre de 2014 a la Estación Espacial Internacional. Transportó a tres miembros de la tripulación de la Expedición 42 de la Estación Espacial Internacional. TMA-15M es el vuelo 124 de la Soyuz. La Soyuz seguirá probablemente a bordo de la estación espacial luego de transportar a la Expedición 43, para servir como vehículo de escape de emergencia.",
+  "secciones": [],
+  "num_palabras": 64
+}

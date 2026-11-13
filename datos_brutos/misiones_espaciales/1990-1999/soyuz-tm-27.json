@@ -1,0 +1,59 @@
+{
+  "titulo": "Soyuz TM-27",
+  "titulo_wikipedia_en": "Soyuz TM-27",
+  "fecha_lanzamiento": "1998-01-29",
+  "año_lanzamiento": 1998,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Soyuz_TM-27",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Operador": "Rosaviakosmos",
+    "ID COSPAR": "1998-004A",
+    "Duración de la misión": "207 días, 12 horas, 51 minutos, 2 segundos",
+    "Órbitas completadas": "3,284",
+    "Tipo de nave": "Soyuz-TM",
+    "Fabricante": "RKK Energia",
+    "Masa en el lanzamiento": "7150 kg",
+    "Fecha de lanzamiento": "29 de enero de 1998, 16:33:42 UTC",
+    "Vehículo de lanzamiento": "Soyuz-U",
+    "Fecha de aterrizaje": "25 de agosto de 1998, 05:24:44 UTC",
+    "Tripulación": "Talgat Musabayev\nNikolai Budarin",
+    "Tripulación en el lanzamiento": "Léopold Eyharts",
+    "Tripulación en el aterrizaje": "Yuri Baturin",
+    "Indicativo": "| (Kristall)",
+    "Sistema de referencia orbital": "Geocéntrico",
+    "Régimen orbital": "Órbita terrestre baja",
+    "Periapsis": "382 km",
+    "Apoapsis": "390 km",
+    "Inclinación orbital": "51,6 grados",
+    "Acoplamiento": "destino de acoplamiento: Mir | tipo de acoplamiento: muelle",
+    "Misión anterior": "Soyuz TM-26",
+    "Misión siguiente": "Soyuz TM-28",
+    "Programa": "Programa Soyuz\n(Misiones decretadas)"
+  },
+  "resumen": "Soyuz TM-27 era un vuelo espacial ruso que transportaba cosmonautas y suministros a la estación espacial rusa Mir. Fue la 33a expedición a Mir. Fue lanzado por un cohete Soyuz-U desde el cosmódromo de Baikonur el 29 de enero de 1998. La misión principal era intercambiar un miembro de la tripulación, llevar a cabo la misión francesa PEGASE, y llevar a cabo experimentos científicos de rutina.\nTM-27 acoplado con Mir. La tripulación reparó el panel solar Spektr e instaló un nuevo sistema de orientación de la estación VDU.",
+  "secciones": [
+    {
+      "titulo": "Logros de la Misión",
+      "nivel": 2,
+      "texto": "Atracado con Mir\nParte de intercambio de la tripulación\nRealización de la misión francesa PEGASE\nRealización de experimentos científicos de rutina"
+    },
+    {
+      "titulo": "Programa EVA",
+      "nivel": 2,
+      "texto": "03.03.1998 abortado por escotilla defectuosa\n01.04.1998 (6h 40m)\n06.04.1998 (4h 23m)\n11.04.1998 (6h 25m)\n17.04.1998 (6h 32m)\n22.04.1998 (6h 21m)\nEn el transcurso de estos 5 paseos, los cosmonautas repararon el panel solar Spektr e instalaron un nuevo sistema de orientación de estación VDU."
+    },
+    {
+      "titulo": "Notas sobre la misión",
+      "nivel": 2,
+      "texto": "Ambos cosmonautas y astronauta Andy Thomas (llegado en STS-89) se convirtió en la 25a tripulación residente. Eyharts aterrizó el 19.02.1998 con Soyuz TM-26-naves espaciales. Incluido astronauta de Francia."
+    }
+  ],
+  "num_palabras": 181
+}

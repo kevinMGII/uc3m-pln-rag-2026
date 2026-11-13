@@ -1,0 +1,92 @@
+{
+  "titulo": "Magnetospheric Multiscale Mission",
+  "titulo_wikipedia_en": "Magnetospheric Multiscale Mission",
+  "fecha_lanzamiento": "2015-03-13",
+  "año_lanzamiento": 2015,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión heliofísica"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Magnetospheric_Multiscale_Mission",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Otros nombres": "MMS",
+    "Tipo de misión": "Investigación sobre la magnetosfera",
+    "Operador": "NASA",
+    "Nº SATCAT": "40482\n40483\n40484\n40485",
+    "Duración de la misión": "Previsto: 2 años\nOcasionó:",
+    "Fabricante": "Centro de Vuelo Espacial Goddard",
+    "Masa en el lanzamiento": "1360 kg",
+    "Dimensiones": "Estucado: 3.5 xx\nDesplegado: 112 xx",
+    "Potencia": "318 vatios",
+    "Fecha de lanzamiento": "13 de marzo de 2015, 02:44 UTC",
+    "Vehículo de lanzamiento": "Atlas V 421\nAV-053",
+    "Lugar de lanzamiento": "Cabo Cañaveral, SLC-41",
+    "Contratista del lanzamiento": "United Launch Alliance",
+    "Entrada en servicio": "Septiembre de 2015",
+    "Última señal": "2040 (previsto)",
+    "Sistema de referencia orbital": "Órbita geocéntrica",
+    "Régimen orbital": "Órbita altamente elíptica",
+    "Periapsis": "2550 km",
+    "Apoapsis": "Fase diurna: 70080 km\nFase nocturna: 152900 km",
+    "Inclinación orbital": "28.0°",
+    "Programa": "Grandes misiones científicas estratégicas\nDivisión de Heliofísica",
+    "Misión anterior": "Sondas Van Allen",
+    "Misión siguiente": "Parker",
+    "Programa (2)": "Programa de sondas terrestres solares",
+    "Misión anterior (2)": "STEREO",
+    "Misión siguiente (2)": "IMAP"
+  },
+  "resumen": "La Misión Multiescala Magnetosférico (MMS) es una misión espacial robótica de la NASA para estudiar la magnetosfera de la Tierra, utilizando cuatro naves espaciales idénticas que vuelan en una formación tetraédrica. La nave espacial fue lanzada el 13 de marzo de 2015 a las 02:44 UTC. La misión está diseñada para reunir información sobre la microfísica de la reconexión magnética, la aceleración de partículas energéticas y la turbulencia, procesos que ocurren en muchos plasmas astrofísicos. En marzo de 2020, la nave espacial MMS tenía suficiente combustible para seguir funcionando hasta 2040.",
+  "secciones": [
+    {
+      "titulo": "Antecedentes",
+      "nivel": 2,
+      "texto": "La misión se basa en la premisa de la misión del Cluster de la ESA, pero la instrumentación del MMS lo supera en resolución espacial y resolución temporal, permitiendo por primera vez mediciones de la región crítica de difusión de electrones, el lugar donde se produce la reconexión magnética. Su órbita está optimizada para pasar largos períodos en lugares donde se sabe que se produce la reconexión: en la magnetopausia diurna, el lugar donde la presión del viento solar y el campo magnético de los planetas son iguales; y en el magnetotail, que está formado por la presión del viento solar en la magnetosfera de un planeta y que puede extenderse a grandes distancias de su planeta de origen.\nPara resolver la estructura tridimensional de la reconexión magnética a diferentes escalas espaciales, las cuatro naves espaciales MMS idénticas orbitan la Tierra en una formación tetraédrica con distancias de separación ajustables. Esto permite el muestreo simultáneo del plasma y de los campos en múltiples puntos del espacio para medir los gradientes espaciales y las variaciones temporales. Tales mediciones son esenciales para cuantificar términos en las ecuaciones de Maxwell que describen la evolución de los campos electromagnéticos, y permite distinguir entre estructuras espaciales y temporales. La capacidad de medición multipunto es crucial para estudiar la reconexión magnética y no puede lograrse con una misión de una sola nave espacial.\nLa reconexión magnética en la magnetosfera de la Tierra es uno de los mecanismos responsables de la aurora, y es importante para la ciencia de la fusión nuclear controlada porque es un mecanismo que impide el confinamiento magnético del combustible de fusión. Estos mecanismos son estudiados en el espacio exterior por la medición de movimientos de materia en atmósferas estelares, como la del Sol. La reconexión magnética es un fenómeno en el que la energía puede transferirse eficientemente desde un campo magnético al movimiento de partículas cargadas."
+    },
+    {
+      "titulo": "Vehículo espacial",
+      "nivel": 2,
+      "texto": "La misión MMS consta de cuatro naves espaciales. Cada uno tiene una masa de lanzamiento de 1.360 kg (3.000 libras). En su configuración de lanzamiento estibado, cada uno es aproximadamente 3,5 por 1,2 m (11,5 por 3,9 pies), y cuando se apilan juntos tienen una altura total de 4,9 m (16 pies). Después de ser desplegado en órbita, un total de ocho booms axiales y de alambre son desplegados, incluyendo cuatro Spin-Plane Double Probe (SDP) de alambre cada 60 m (200 pies) de largo.\nLa nave espacial MMS está estabilizada, girando a una velocidad de tres revoluciones por minuto para mantener la orientación. Cada nave espacial contiene 12 propulsores conectados a cuatro tanques de combustible de hidracina. Los datos de posición son proporcionados por equipos GPS altamente sensibles, mientras que la actitud es mantenida por rastreadores de cuatro estrellas, dos acelerómetros y dos sensores Sun.\nLa misión se divide en tres fases. La fase de puesta en marcha durará aproximadamente cinco meses y medio después del lanzamiento, mientras que las fases científicas durarán dos años. La primera fase científica se centrará en el límite magnético entre la Tierra y el Sol (operaciones laterales de un día) durante un año y medio, con la formación de naves espaciales en órbita alrededor de la Tierra a 2.550 por 70.080 km (1.580 por 43.550 millas). La segunda fase científica estudiará la reconexión en la cola magnética de la Tierra (operaciones nocturnas laterales) durante medio año, aumentando la órbita a 2.550 por 152.900 km (1.580 por 95.010 millas)."
+    },
+    {
+      "titulo": "Instrumentos",
+      "nivel": 2,
+      "texto": "Cada nave espacial lleva varios experimentos, divididos en tres suites: la Suite de plasma caliente, la Suite de detector de partículas energéticas y la Suite Fields."
+    },
+    {
+      "titulo": "Suite de plasma caliente",
+      "nivel": 3,
+      "texto": "La Suite de Plasma Caliente mide los recuentos de partículas de plasma, las direcciones y las energías durante la reconexión. Consta de dos instrumentos:\nInvestigación de Plasma Rápido (FPI), un conjunto de cuatro espectrómetros de electrones duales (DES) y cuatro espectrómetros de iones duales (DIS).\nEl analizador de composición de plasma caliente (HPCA), detecta la velocidad de las partículas para determinar su masa y tipo."
+    },
+    {
+      "titulo": "Detector de partículas energéticas",
+      "nivel": 3,
+      "texto": "La Suite Detector de Partículas Energéticas detecta partículas en energías que superan con creces las detectadas por la Suite de Plasma Caliente. Consta de dos instrumentos:\nSensor de partículas energéticas (FEEPS), un conjunto de detectores de estado sólido de silicio para medir la energía de los electrones. Entre dos FEEPS por nave espacial, los detectores individuales están dispuestos a proporcionar 18 ángulos de visión diferentes simultáneamente; de ahí el término \"ojo de la mosca\".\nEspectrómetro Ion Energético (EIS), mide la energía y la velocidad total de los iones detectados para determinar su masa. El EIS puede detectar helio e iones de oxígeno en energías más altas que la de la HPCA."
+    },
+    {
+      "titulo": "Suite Fields",
+      "nivel": 3,
+      "texto": "La Suite Fields mide las características del campo magnético y eléctrico. Consta de seis instrumentos:\nEl magnetómetro analógico Fluxgate (AFG), determina la fuerza de los campos magnéticos.\nEl magnetómetro digital Fluxgate (DFG) determina la fuerza de los campos magnéticos.\nInstrumento de deriva de electrones (EDI), mide la fuerza del campo eléctrico y magnético enviando un haz de electrones al espacio y midiendo cuánto tiempo tardan los electrones en girar de vuelta en presencia de estos campos.\nSpin-plane Double Probe (SDP), consiste en electrodos en el extremo de cuatro brazos de alambre de 60 m (200 pies) que se extienden desde la nave espacial para medir campos eléctricos.\nDoble sonda Axial (ADP), un conjunto de electrodos en dos antenas de 15 m montados axialmente en la nave espacial.\nMagnetómetro de bobina de búsqueda (SCM), un magnetómetro de inducción utilizado para medir campos magnéticos."
+    },
+    {
+      "titulo": "Personal y desarrollo",
+      "nivel": 2,
+      "texto": "El investigador principal es James L. Burch del Southwest Research Institute, asistido por un equipo internacional de investigadores, líderes de instrumentos y expertos en teoría y modelado. El científico del proyecto es Thomas E. Moore del Centro de Vuelo Espacial Goddard. La educación y la divulgación pública es un aspecto clave de la misión, y se están desarrollando actividades estudiantiles, sonificación de datos y espectáculos planetarios.\nLa misión fue seleccionada para recibir apoyo de la NASA en 2005. La ingeniería de sistemas, el diseño, la integración y las pruebas de autobuses espaciales han sido realizados por el Centro de Vuelo Espacial Goddard en Maryland. Se está mejorando la Instrumentación, con una amplia experiencia aportada por otros proyectos, como las misiones IMAGE, Cluster y Cassini. En junio de 2009, se permitió al MMS pasar a la fase C, habiendo aprobado una revisión preliminar del diseño. La misión pasó su Critical Design Review en septiembre de 2010. La nave espacial se lanzó en un vehículo de lanzamiento Atlas V 421, en marzo de 2015."
+    },
+    {
+      "titulo": "Vuelo de formación",
+      "nivel": 2,
+      "texto": "Para reunir los datos científicos deseados, la constelación de cuatro satélites MMS debe mantener una formación tetraédrica a través de una región definida de interés en una órbita altamente elíptica. La formación se mantiene mediante el uso de un receptor GPS de alta altitud, Navigator, para proporcionar conocimiento de órbita y maniobras de mantenimiento de formación regular. A través de Navigator, la misión MMS rompió el récord mundial Guinness dos veces para fijar la altitud más alta de una señal GPS (a 70.000 km (43.000 millas) y 187.200 km (116.300 millas) por encima de la superficie en 2016 y 2019 respectivamente)."
+    },
+    {
+      "titulo": "Descubrimientos",
+      "nivel": 2,
+      "texto": "En 2016, la misión MMS fue la primera en detectar directamente la reconexión magnética, el fenómeno que impulsa el clima espacial en la magnetosfera de la Tierra.\nDesde entonces MMS ha detectado reconexión magnética en lugares inesperados. En 2018, MMS hizo la primera detección de reconexión magnética en la magnetocapa, una región del espacio que antes se consideraba demasiado caótica e inestable para sostener la reconexión. Las cuerdas de flujo magnético y los vórtices Kelvin-Helmholtz son otros fenómenos en los que MMS ha detectado eventos de reconexión contra las expectativas.\nEn agosto de 2019, los astrónomos informaron que MMS realizó las primeras mediciones de alta resolución de una onda de choque interplanetaria del Sol.\nUn artículo de 2025 reportó la detección de un cambio magnético en el campo magnético de la Tierra con datos de MMS."
+    }
+  ],
+  "num_palabras": 1412
+}

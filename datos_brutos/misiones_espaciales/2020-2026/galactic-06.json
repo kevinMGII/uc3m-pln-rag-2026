@@ -1,0 +1,42 @@
+{
+  "titulo": "Galactic 06",
+  "titulo_wikipedia_en": "Galactic 06",
+  "fecha_lanzamiento": "2024-01-26",
+  "año_lanzamiento": 2024,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Galactic_06",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Vuelo espacial suborbital tripulado",
+    "Operador": "Virgen Galáctica",
+    "Duración de la misión": "9 minutos",
+    "Apogeo suborbital": "88,8 km",
+    "Nave": "Unidad VSS",
+    "Tipo de nave": "SpaceShipDos",
+    "Fabricante": "Compañía de Naves Espaciales",
+    "Tripulación": "CJ Sturckow\nNicola Pecile\nLina Borozdina\nRobie Vaughn\nFranz Haider\nNeil Kornswiet",
+    "Fecha de lanzamiento": "26 de enero de 2024, 17:00 UTC",
+    "Lugar de lanzamiento": "Autopista del puerto espacial América 34",
+    "Desplegado desde": "VMS Eve",
+    "Fecha de aterrizaje": "26 de enero de 2024, 17:56 UTC",
+    "Lugar de aterrizaje": "Autopista del puerto espacial América 34",
+    "Programa": "VSS Vuelos espaciales de la Unidad",
+    "Misión anterior": "Galáctico 05",
+    "Misión siguiente": "Galáctico 07"
+  },
+  "resumen": "Galáctico 06 fue un vuelo espacial suborbital tripulado del SpaceShipTwo-class VSS Unity, que se lanzó el 26 de enero de 2024. Fue el sexto vuelo espacial comercial y el undécimo vuelo espacial general de la compañía aeroespacial estadounidense Virgin Galactic.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "La tripulación de Galáctica 06 incluyó cuatro pasajeros privados y dos empleados de Virgin Galáctica. Primera misión sin instructor de astronauta a bordo. Franz Haider se convirtió en el segundo ciudadano austriaco en el espacio después de Franz Viehböck, mientras que Lina Borozdina se convirtió en la primera mujer ucraniana en el espacio."
+    }
+  ],
+  "num_palabras": 93
+}

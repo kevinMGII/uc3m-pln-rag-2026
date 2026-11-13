@@ -1,0 +1,31 @@
+{
+  "titulo": "ASTRO-C",
+  "titulo_wikipedia_en": "Ginga (satellite)",
+  "fecha_lanzamiento": "1987-02-05",
+  "año_lanzamiento": 1987,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Telescopio espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/ASTRO-C",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Destruido",
+    "Tipo de misión": "Observatorio espacial",
+    "Operador": "JAXA",
+    "Fecha de lanzamiento": "5 de febrero de 1987",
+    "Propulsión": "Sin Propulsión",
+    "Periapsis": "510 Km",
+    "Inclinación orbital": "31 Grados",
+    "Periodo orbital": "96 minutos",
+    "Instrumentos": "Large Area Proportional Counter (LAC 1,7-37 keV)\nAll-Sky Monitor (ASM 1-20 keV)\nGamma-ray Burst Detector (GBD 1,5-500 keV)",
+    "Tipo de fin de misión": "reingreso",
+    "Fecha de reentrada": "Reingreso= 1 de noviembre de 1991"
+  },
+  "resumen": "ASTRO-C, rebautizado como Ginga (galaxia en japonés) tras su lanzamiento fue el tercer satélite lanzado para estudiar el cielo en rayos X desde Japón. Fue lanzado el 5 de febrero de 1987 desde el Kagoshima Space Center a una órbita con unos 510 km de perigeo y 670 de apogeo, con una inclinación de 31° y un periodo de unos 96 minutos. El satélite operó hasta el 1 de noviembre de 1991, fecha en la que se incineró en la atmósfera. El programa de observación estaba abierto a científicos de Japón, Estados Unidos, Reino Unido y algunos países europeos. Los instrumentos que llevaba a bordo este satélite eran los siguientes:\nLarge Area Proportional Counter (LAC 1,7-37 keV, desarrollado en colaboración con el Reino Unido)\nAll-Sky Monitor (ASM 1-20 keV)\nGamma-ray Burst Detector (GBD 1,5-500 keV, desarrollado en colaboración con los Estados Unidos)",
+  "secciones": [],
+  "num_palabras": 142
+}

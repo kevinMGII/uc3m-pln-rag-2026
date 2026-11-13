@@ -1,0 +1,40 @@
+{
+  "titulo": "Pioneer 1",
+  "titulo_wikipedia_en": "Pioneer 1",
+  "fecha_lanzamiento": "1958-10-11",
+  "año_lanzamiento": 1958,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración lunar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Pioneer_1",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Reentrada en la atmósfera",
+    "Operador": "NASA",
+    "Fecha de lanzamiento": "11 de octubre de 1958",
+    "Lugar de lanzamiento": "Cabo Cañaveral",
+    "Vehículo de lanzamiento": "Thor",
+    "ID NSSDC": "1958-007A",
+    "Masa en el lanzamiento": "34,2 kg",
+    "Tipo de fin de misión": "reingreso",
+    "Fecha de reentrada": "12 de octubre de 1958"
+  },
+  "resumen": "La sonda Pioneer 1 forma parte del primer proyecto de la NASA, denominado Able para llegar a la Luna, junto con las sondas Pioneer 0 y la Pioneer 2. Ninguna de ellas obtuvo los resultados esperados.",
+  "secciones": [
+    {
+      "titulo": "Características técnicas",
+      "nivel": 2,
+      "texto": "Pioneer 1, al igual que sus dos hermanas Pioneer 0 y Pioneer 2, comparten un diseño original muy parecido. Con una longitud de 8 dm, un diámetro de 7 dm y un peso que no alcanzaba los 40 kg."
+    },
+    {
+      "titulo": "La misión",
+      "nivel": 2,
+      "texto": "Su misión principal era llegar a la Luna, estudiar las radiaciones ionizantes, los rayos cósmicos, los campos magnéticos, y el estudio de los micrometeoritos en las órbitas de la Luna y la tierra. Lanzada al espacio el 11 de octubre de 1958, su órbita parabólica, no le permitió abandonar la gravedad de la tierra, aunque alcanzó un nuevo récord, situado en 113.800 km de altura. Se desintegró casi dos días después de su lanzamiento, el día 13 de octubre en el Océano Pacífico. Durante su corta misión pudo recoger importantes datos, y entre sus descubrimientos destacar que la radiación terrestre está formada en bandas. No es menos importante también las mediciones que hizo del campo magnético planetario."
+    }
+  ],
+  "num_palabras": 192
+}

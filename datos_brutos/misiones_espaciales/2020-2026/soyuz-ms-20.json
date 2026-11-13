@@ -1,0 +1,43 @@
+{
+  "titulo": "Soyuz MS-20",
+  "titulo_wikipedia_en": "Soyuz MS-20",
+  "fecha_lanzamiento": "2021-12-08",
+  "año_lanzamiento": 2021,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Soyuz_MS-20",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Misión tripulada a la ISS EP-20",
+    "Operador": "Roscosmos",
+    "Nave": "Soyuz MS No. 752 Altair",
+    "Tipo de nave": "Soyuz MS 11F732A48",
+    "Fabricante": "S. P. Korolev Rocket and Space Corporation Energia",
+    "Tripulación": "Aleksandr Misurkin\nYusaku Maezawa\nYozo Hirano",
+    "Vehículo de lanzamiento": "Soyuz 2.1a",
+    "Lugar de lanzamiento": "Baikonur, Sitio 31/6",
+    "Contratista del lanzamiento": "Centro Espacial de Cohetes Progress",
+    "Lugar de aterrizaje": "Estepa kazaja, Kazajistán",
+    "Sistema de referencia orbital": "Órbita geocéntrica",
+    "Régimen orbital": "Órbita terrestre baja",
+    "Inclinación orbital": "51.66°",
+    "Programa": "Programa Soyuz",
+    "Misión anterior": "Soyuz MS-19",
+    "Misión siguiente": "Soyuz MS-21",
+    "Acoplamiento": "tipo acople: acople | objetivo acople: ISS | puerto acople: Poisk cénit | fecha acople: 8 de diciembre de 2021, 13:40:44 UTC | fecha desacople: 19 de diciembre de 2021, 23:50 UTC"
+  },
+  "resumen": "Soyuz MS-20 fue una misión turística y el vuelo 148 tripulado de la nave rusa Soyuz. Fue lanzada el 8 de diciembre de 2021 hacia la ISS.\nA diferencia de otras misiones habituales a la ISS, la MS-20 no llevó ningún miembro de la tripulación permanente de la estación ni servirá de bote salvavidas para los miembros de la tripulación de la estación. Esta misión fue de corta duración EP-20 y llevó dos turistas a la ISS durante unos días establecidos. A los mandos de la Soyuz estuvo un único cosmonauta profesional, piloto y comandante de la soyuz, estando los otros dos asientos ocupados por turistas espaciales japoneses. Dichos asientos fueron organizados por Space Adventures, que anteriormente había planificado y ejecutado ocho misiones de este tipo a la ISS con un total de 7 turistas espaciales(uno de ellos viajó 2 veces) de 2001 a 2009.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "A principios de 2020, fuentes no oficiales habían afirmado que uno de los dos asientos estará ocupado por la piloto de aerolínea y deportista austríaca Johanna Maislinger. Durante un tiempo se especuló que el segundo asiento sería ocupado por el emprendedor japonés Satoshi Takamatsu, a quien se le ofreció un asiento en la Soyuz TMA-18M tras retirarse la cantante británica Sarah Brightman por razones personales, que rechazó por no tener suficiente tiempo para entrenar para la Soyuz TMA-18M. En noviembre de 2020, la publicación The Space Review reveló que una celebridad femenina japonesa acompañaría a Aleksandr Misurkin y Johanna Maislinger en el vuelo.\nFinalmente el 13 de mayo de 2021, Roscosmos confirmó que la tripulación estaría conformada por el empresario japonés Yusaku Maezawa y su asistente Yozo Hirano, acompañando al cosmonauta Aleksandr Misurkin."
+    }
+  ],
+  "num_palabras": 278
+}

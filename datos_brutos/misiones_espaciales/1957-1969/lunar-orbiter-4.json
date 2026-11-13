@@ -1,0 +1,37 @@
+{
+  "titulo": "Lunar Orbiter 4",
+  "titulo_wikipedia_en": "Lunar Orbiter 4",
+  "fecha_lanzamiento": "1967-05-04",
+  "año_lanzamiento": 1967,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración lunar",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Lunar_Orbiter_4",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Orbitador",
+    "Operador": "NASA",
+    "Fabricante": "Boeing",
+    "Fecha de lanzamiento": "4 de mayo de 1967",
+    "Vehículo de lanzamiento": "Atlas SLV-3 Agena-D",
+    "Duración de la misión": "180 días",
+    "ID NSSDC": "1967-041A",
+    "Masa en el lanzamiento": "385,6 kilogramos",
+    "Inclinación orbital": "85,5 grados",
+    "Datos interplanetarios": "tipo: orbitador | objeto: Luna"
+  },
+  "resumen": "Lunar Orbiter 4 fue una nave espacial no tripulada de los EE. UU., lanzada en 1967 hacia una órbita alrededor de la Luna. Fue parte del Programa Lunar Orbiter, concebido después de que los tres orbitadores anteriores completaran sus respectivas misiones para la cartografía necesaria para el Programa Apolo y la selección del lugar de alunizaje. Se le dio un objetivo más general, para \"realizar una amplia encuesta fotográfica sistemática de las características de la superficie lunar con el fin de aumentar el conocimiento científico de su naturaleza, origen y procesos, y para servir de base para la selección de sitios para un estudio científico más detallado por misiones orbitales y de aterrizaje subsiguientes \". También estaba equipado para recolectar datos de impacto selenodetico, intensidad de radiación y micrometeoroides. La nave espacial se colocó en una trayectoria cislunar y se inyectó en una órbita lunar elíptica casi polar alta para la adquisición de datos.",
+  "secciones": [
+    {
+      "titulo": "Detalles",
+      "nivel": 2,
+      "texto": "Después de la fotografía inicial el 11 de mayo de 1967, comenzaron a ocurrir problemas con la puerta térmica de la cámara, que no respondía bien a los comandos para abrir y cerrar. El temor de que la puerta se atasque en la posición cerrada que cubre los lentes de la cámara llevó a la decisión de dejar la puerta abierta. Esto requirió maniobras adicionales de control de actitud en cada órbita para evitar fugas de luz en la cámara que arruinarían la película. El 13 de mayo se descubrió que la fuga de luz estaba dañando parte de la película, y la puerta se probó y se cerró parcialmente. Entonces se sospechó un poco de empañamiento de la lente debido a la condensación resultante de las temperaturas más bajas. Los cambios en la actitud elevaron la temperatura de la cámara y generalmente eliminaron el empañamiento. Los problemas continuos con el mecanismo de lectura y arranque comenzando y deteniéndose a partir del 20 de mayo dieron como resultado la decisión de terminar la parte fotográfica de la misión el 26 de mayo. A pesar de los problemas con la unidad de lectura, toda la película fue leída y transmitida. La nave espacial adquirió datos fotográficos del 11 al 26 de mayo de 1967, y la lectura se produjo hasta el 1 de junio de 1967. Luego, se bajó la órbita para recopilar datos orbitales para la próxima misión Lunar Orbiter 5.\nSe adquirieron un total de 419 cuadros de alta resolución y 127 de resolución media, que cubren el 99% del lado cercano de la Luna a resoluciones de 58 a 134 metros. Se obtuvieron datos precisos de todos los demás experimentos a lo largo de la misión. Los datos de radiación mostraron dosis aumentadas debido a eventos de partículas solares que producen protones de baja energía.\nFinalmente se estrelló contra la Luna debido a la descomposición natural de la órbita a más tarda el 31 de octubre de 1967, entre 22 y 30 grados de longitud W."
+    }
+  ],
+  "num_palabras": 492
+}

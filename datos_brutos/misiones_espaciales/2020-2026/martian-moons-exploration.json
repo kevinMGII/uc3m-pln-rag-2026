@@ -1,0 +1,67 @@
+{
+  "titulo": "Martian Moons Exploration",
+  "titulo_wikipedia_en": "Martian Moons eXploration",
+  "fecha_lanzamiento": "2026-10-19",
+  "año_lanzamiento": 2026,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración de Marte",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Martian_Moons_Exploration",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Misión de retorno de muestras",
+    "Operador": "JAXA",
+    "Duración de la misión": "(en proceso)\n5 años (planificado)",
+    "Fabricante": "JAXA",
+    "Masa en el lanzamiento": "4.000 kg (8.800 lb)",
+    "Masa en seco": "2.100 kg (4.600 lb)",
+    "Fecha de lanzamiento": "19 de octubre de 2026 19:41 UTC (20 de octubre, 04:41 am JST)",
+    "Vehículo de lanzamiento": "H3-24L",
+    "Lugar de lanzamiento": "Tanegashima, LA-Y2",
+    "Contratista del lanzamiento": "Mitsubishi Heavy Industries"
+  },
+  "resumen": "Martian Moons Exploration (MMX) es una sonda espacial robótica operada por la Agencia de Exploración Aeroespacial de Japón (JAXA) que se lanzó en 2026, con la misión principal de traer de vuelta las primeras muestras de luna más grande de Marte, Fobos. MMX desplegará un rover en la superficie de Fobos, aterrizará y recogerá muestras de la superficie, y también realizará observaciones de sobrevuelo de Deimos y monitorizará la atmósfera de Marte. La misión pretende proporcionar información clave para ayudar a determinar si las lunas marcianas son asteroides capturados o el resultado de que un cuerpo mayor impacte en Marte, además de varios otros objetivos científicos.",
+  "secciones": [
+    {
+      "titulo": "Resumen",
+      "nivel": 2,
+      "texto": "La nave entrará en órbita alrededor de Marte en agosto de 2027 antes de transferirse a Fobos un mes después. En 2029 llevará el rover Idefix a la superficie de Fobos, que entra otras misiones identificará un lugar adecuado para aterrizar y muestrear MMX. MMX aterrizará una o dos veces en 2030 y recogerá muestras de regolito utilizando un sistema neumático de muestreo. La misión está diseñada para devolver al menos 10 gramos (0,35 oz) de material desde la superficie lunar. Durante los acercamientos se realizarán varias observaciones sucesivas de la atmósfera marciana. Tras salir de Fobos, la nave realizará varios sobrevuelos de Deimos antes de liberar una cápsula de retorno para la Tierra en 2030, con el regreso de la muestra que llegará a la Tierra en 2031.\nLa nave tiene una masa total de lanzamiento aproximadamente 4.000 kilogramos (8.800 lb), incluyendo unos 1.900 kilogramos (4.200 lb) de propelente. La nave consta de 3 elementos principales: un módulo de propulsión de 1.800 kilogramos (4.000 lb), un módulo de exploración de 150 kilogramos (330 lb) y un módulo de retorno de 1.050 kilogramos (2.310 lb).\nDebido a que Fobos y Deimos no tienen suficiente masa para soportar órbitas convencionales de satélites, MMX operará en orbitas cuasi-satélite (QSOs), una clase de trayectorias que pueden permanecer estables durante largos periodos manteniéndose en estrecha proximidad a las lunas.\nEl proyecto MMX está liderado por Yasuhiro Kawakatsu, Hisashi Otake y Kiyoshi Kuramoto."
+    },
+    {
+      "titulo": "Propósito de la misión y selección de Fobos",
+      "nivel": 3,
+      "texto": "Entre los principales objetivos científicos de la misión esta obtener información sobre la formación de las lunas marcianas, Fobos y Deimos, (se desconoce si Fobos y Deimos son asteroides capturados o restos consolidados de un cuerpo mayor que colisiona con Marte), y aclarar la naturaleza de compuestos volátiles que migraron a través de la línea de escarcha hacia los planetas rocosos durante el desarrollo temprano del sistema solar.\nFobos fue elegida como luna preferible para una misión de retorno de muestras sobre Deimos por tres razones principales, primero: la superficie de Fobos muestra una mayor densidad espectral que Deimos, lo que indica una posible mayor diversidad compositiva del material superficial, y el segundo, la probable presencia en Fobos de material expulsado por impactos tempranos en Marte, y en tercer lugar, la existencia de un mayor cuerpo de imágenes de la superficie de Fobos en el momento de la planificación de la misión daba mayor confianza en los posibles lugares de aterrizaje."
+    },
+    {
+      "titulo": "Colaboración internacional",
+      "nivel": 2,
+      "texto": "MMX está dirigido por JAXA con la participación de la NASA, el CNES francés, el DLR de Alemania y la Agencia Espacial Europea (ESA), que aportan instrumentos científicos.\nLa NASA contribuye con un espectrómetro de neutrones y rayos gamma llamado MEGANE (acrónimo de Mars-Moon Exploration with GAmma rays and NEutrons, que también significa \"gafas\" en japonés). El CNES proporciona el Espectrómetro de Infrarrojo Cercano (NIRS4/MarcOmega). El CNES también aporta experiencia en dinámica de vuelo para planificar las maniobras de órbita y aterrizaje de la misión.\nLa ESA proporciona equipos de comunicación en espacio profundo: un transpondedor y amplificador de potencia, así como soporte a la estación terrestre desde la red Estrack.\nLa cápsula de retorno de muestra aterrizará en Australia."
+    },
+    {
+      "titulo": "Instrumentos de la nave espacial",
+      "nivel": 2,
+      "texto": "MMX cuenta con 7 instrumentos científicos:\nTENGOO – Sensor nadir telescópico para GeOmOrphology, una cámara de campo estrecho para estudios detallados del terreno\nOROCHI – RadiÓmetro Óptico compuesto por Imágenes Cromáticas, una cámara de luz visible de campo amplio\nLIDAR – Light Detection and Ranging – utiliza una laser para reflejar la luz de la superficie lunar, con el fin de estudiar la altitud y el albedo superficiales\nMIRS – MMX infrarrojo, un dispositivo de observación en infrarrojo cercano para caracterizar los minerales que componen las lunas de Marte. Desarrollado en colaboración con CNES, Francia\nMEGANE – (MEGANE significa \"gafas\" en japonés) Exploración de Marte-Lunas con rayos GAmma y NEutrons, un espectrómetro de rayos gamma y neutrones desarrollado por la NASA, el Laboratorio de Física Aplicada Johns Hopkins y el Laboratorio Nacional Lawrence Livermore\nCMDM – Monitor de Polvo Circum-Marciano, un dispositivo de conteo de polvo para caracterizar el entorno alrededor de las lunas marcianas.\nMSA – Analizador de Espectro de Masas, un instrumento para estudiar el entorno iónico alrededor de Marte.\nJAXA se asoció con la Corporación de Radiofusión de Japón (NHK) para desarrollar la \"Super Hi-Vision Camara\", que combina cámaras 4K y 8K, siendo la primera vez que Marte se filmará en resolución 8K. Las imágenes se transmitirán regularmente a la Tierra junto con datos de vuelo, para recrear la exploración MMX alrededor de Marte y sus lunas. Los datos originales de la imagen se almacenarán en un dispositivo de grabación en la cápsula de retorno de MMX y se traerán de vuelta a la Tierra como parte de la devolución de muestras de la misión.\nSe propusieron como instrumentos adicionales el GradioMetro de Gravedad (GGM), el Espectroscopio de Descomposición Inducida por Laser (LIBS) y el Módulo de Supervivencia de Misión (MSM)."
+    },
+    {
+      "titulo": "Rover Idéfix",
+      "nivel": 2,
+      "texto": "Tras un estudio de la agencia espacial francesa CNES, se decidió que la nave desplegaría un pequeño rover proporcionado por el CNES y el Centro Aeroespacial Alemán (DLR). IDEFIX es un rover que pesa menos de 30 kg, y recibe su nombre de Idéfix, el nombre original de Ideafix, el perro de Obélix en el cómic francés Astérix.\nEstá equipado con cámaras, un radiómetro y un espectrómetro Raman para la exploración superficial in situ. Los instrumentos son: dos cámaras de navegación (NavCams), dos cámaras (WheelCams) \"que observan las interacciones de las ruedas traseras y delanteras con el regolito\", un espectrómetro Raman (RAX) y un radiómetro miniaturizado (miniRad).\nSus objetivos son tocar la superficie de Fobos, comprobar el comportamiento de la superficie bajo acciones mecánicas y transmitir esta información a la Tierra. También debe demostrar que es posible usar locomoción con ruedas en un cuerpo con tan baja gravedad. Finalmente, tomará mediciones in situ, observando el suelo de Fobos con una resolución de 100 μm y moviéndose sobre él.\nDebido a la baja gravedad en Fobos de 0,0057 m/s 2, el rover no necesitará tren de aterrizaje y puede rebotar en la superficie hasta detenerse. El descenso del rover será iniciado por un mecanismo de resorte que lo empujará lejos del orbitador MMX. Se espera que el rover opere durante 100 días. Su velocidad esperada al recorrer la superficie es de 1 mm por segundo."
+    },
+    {
+      "titulo": "Muestreo",
+      "nivel": 2,
+      "texto": "El muestreador de MMX está equipado con dos métodos de muestreo: el Muestreador de Testigos (C-SMP) para obtener regolito a profundidades superiores a 2 cm desde la superficie de Fobos, y el Muestreador Neumático (P-SMP) para muestras de la superficie de Fobos. El brazo robótico recoge regolito del suelo disparando el mecanismo C-SMP. El mecanismo C-SMP está diseñado para realizar rápidamente muestreos subterráneos y recoger más de 10 gramos de regolito. Está equipado con un actuador de expulsión que utiliza una aleación especial de memoria de forma, SCSMA. El P-SMP se instala cerca de la base de la pata de aterrizaje y utiliza un cañón de aire para expulsar gas presurizado, empujando unos 10 gramos de tierra en el contenedor de muestras. Tanto C-SMP como P-SMP pueden recoger muestras rápidamente porque todo el procedimiento de muestreo está programado para realizarse en tan solo 2,5 horas.\nTras tomar una muestra, el brazo robótico transferirá tanto los contenedores S-SMP como P-SMP a la cápsula de retorno de muestras. La nave espacial realizará varios sobrevuelos de la luna más pequeña Deimos antes de transportar la Cápsula de Retorno de Muestras de regreso a la Tierra, llegando en 2031.\nUn estudio publicado en 2026 afirma, basándose en restricciones realistas, que la misión tiene oportunidades claras para descubrir residuos orgánicos."
+    },
+    {
+      "titulo": "Historia",
+      "nivel": 2,
+      "texto": "Anunciado por primera vez el 9 de junio de 2015, JAXA y otros funcionarios del gobierno japonés aprobaron oficialmente el desarrollo del proyecto de MMX el 19 de febrero de 2020. y fue lanzado por el cohete H3-24L el 19 de octubre de 2026 a las 19:41 UTC (20 de octubre, 04:41 am JST) durante la ventana de lanzamiento del año. Esta fue la primera vez que el vehículo de lanzamiento H3 se utilizó para enviar una nave en una trayectoria interplanetaria. El vehículo de lanzamiento voló según lo previsto y posteriormente se confirmó la separación de la nave MMX."
+    }
+  ],
+  "num_palabras": 1468
+}

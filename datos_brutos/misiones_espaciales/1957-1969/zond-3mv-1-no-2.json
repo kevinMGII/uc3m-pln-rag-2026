@@ -1,0 +1,46 @@
+{
+  "titulo": "Zond 3MV-1 No.2",
+  "titulo_wikipedia_en": "Zond 3MV-1 No.2",
+  "fecha_lanzamiento": "1964-02-19",
+  "año_lanzamiento": 1964,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración de Venus",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Zond_3MV-1_No.2",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Venus vuela",
+    "Operador": "OKB-1",
+    "Duración de la misión": "Fallo de lanzamiento",
+    "ID COSPAR": "1964-F01",
+    "Nº SATCAT": "00277",
+    "Tipo de nave": "3MV-1",
+    "Fabricante": "Lavochkin",
+    "Masa en el lanzamiento": "800 kg",
+    "Fecha de lanzamiento": "19 de febrero de 1964, 05:47:40 UTC",
+    "Vehículo de lanzamiento": "Molniya 8K78M s/n T15000-19",
+    "Lugar de lanzamiento": "Baikonur 1/5",
+    "Programa": "Venera",
+    "Misión anterior": "Kosmos 21",
+    "Misión siguiente": "Kosmos 27"
+  },
+  "resumen": "Zond 3MV-1 No.2 (o Zond 3MV-1A No. 4A ), también conocido como Venera 1964A en el oeste, fue una nave espacial soviética, que fue lanzada en 1964 como parte del programa Zond. Debido a un problema con su cohete portador en la tercera etapa, no alcanzó la órbita terrestre baja.",
+  "secciones": [
+    {
+      "titulo": "Lanzamiento",
+      "nivel": 2,
+      "texto": "Zond 3MV-1 No.2 fue lanzado a las 05:47:40 UTC el 19 de febrero de 1964, sobre un cohete portador Molniya 8K78M volando desde el Sitio 1/5 en el cosmódromo de Baikonur. El lanzamiento comenzó nominalmente, sin embargo, la tercera etapa fracasó. Una investigación posterior concluyó que una válvula no presurizada (B4311-O) permitió que LOX (oxigeno líquido) se filtrara y entrara en contacto con el propulsor RP-1 mientras el cohete seguía en la plataforma de lanzamiento. Esto causó que un oleoducto se rompiera y, cuando comenzó el encendido del bloque I, una explosión destruyó la sección de empuje.\nLos restos de la etapa y la sonda aterrizaron a 85 kilómetros al norte de la ciudad de Barabinsk en Siberia.\nEl radar occidental aparentemente detectó el intento de lanzamiento, sin embargo, fue identificado erróneamente como una sonda lunar fallida en fuentes públicas."
+    },
+    {
+      "titulo": "Instrumentos científicos",
+      "nivel": 2,
+      "texto": "El autobús espacial incluía varios instrumentos científicos:\nDetector de radiación\nDetector de partículas cargado\nMagnetómetro\nDetector piezoeléctrico\nDetector de hidrógeno atómico LA-2\nRadiotelescopio Kassoipeya\nRSK-2M experimento de radiación solar ultravioleta y Roentgen\nExperimento de tecnología VIKT-2\nMotores de plasma"
+    }
+  ],
+  "num_palabras": 229
+}

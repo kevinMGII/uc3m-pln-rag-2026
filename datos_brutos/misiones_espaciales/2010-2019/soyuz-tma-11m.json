@@ -1,0 +1,37 @@
+{
+  "titulo": "Soyuz TMA-11M",
+  "titulo_wikipedia_en": "Soyuz TMA-11M",
+  "fecha_lanzamiento": "2013-11-07",
+  "año_lanzamiento": 2013,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Soyuz_TMA-11M",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Fecha de lanzamiento": "7 de noviembre de 2013",
+    "Nave": "Soyuz-FG",
+    "Fecha de aterrizaje": "mayo de 2014",
+    "Programa": "Programa Soyuz",
+    "Misión anterior": "Soyuz TMA-10M",
+    "Misión siguiente": "Soyuz TMA-12M"
+  },
+  "resumen": "La Soyuz TMA-11M fue una misión tripulada de Roscosmos que llevó a tres astronautas a la Estación Espacial Internacional como parte de la Expedición 38, donde realizaron investigaciones científicas y tareas de mantenimiento antes de regresar con éxito a la Tierra.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Notas y hechos de interés",
+      "nivel": 2,
+      "texto": "El acoplamiento de la nave espacial Soyuz TMA-11M el 7 de noviembre de 2013 marcó la primera vez desde octubre de 2009 que nueve personas residían en la estación espacial sin la presencia de un transbordador espacial.\nEl cohete y la nave espacial llevaban el logo de los Juegos Olímpicos de Sochi en el casco. Durante la misión, la antorcha olímpica salió por primera vez al espacio exterior. Los astronautas rusos Oleg Kotov y Sergey Ryazansky la llevaron en la sección rusa de la Estación Espacial Internacional."
+    }
+  ],
+  "num_palabras": 128
+}

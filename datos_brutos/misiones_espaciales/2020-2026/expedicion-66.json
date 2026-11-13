@@ -1,0 +1,64 @@
+{
+  "titulo": "Expedición 66",
+  "titulo_wikipedia_en": "Expedition 66",
+  "fecha_lanzamiento": "2021-10-17",
+  "año_lanzamiento": 2021,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Expedición_66",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Finalizada",
+    "Tipo de misión": "Misión de larga duración a la ISS",
+    "Operador": "NASA / Roscosmos",
+    "Estación espacial": "Estación Espacial Internacional",
+    "Fecha de inicio": "17 de octubre de 2021, 01:14:00 UTC",
+    "Fecha de fin": "30 de marzo de 2022, 07:21 UTC",
+    "Nave de llegada": "SpaceX Crew-3\nSoyuz MS-20\nSoyuz MS-21",
+    "Nave de regreso": "SpaceX Crew-2\nSoyuz MS-20\nSoyuz MS-19",
+    "Actividades extravehiculares (EVA)": "4",
+    "Duración de las EVA": "27 horas y 31 minutos",
+    "Programa": "Programa de la ISS",
+    "Misión anterior": "Expedición 65",
+    "Misión siguiente": "Expedición 67"
+  },
+  "resumen": "La Expedición 66 fue la 66.ª y anterior misión de larga duración a la Estación Espacial Internacional. La misión comenzó el 17 de octubre de 2021, con la partida de la Soyuz MS-18 y finalizó el 30 de marzo de 2022 con la marcha de la Soyuz MS-19.",
+  "secciones": [
+    {
+      "titulo": "Misión",
+      "nivel": 2,
+      "texto": "La misión Crew-2 de SpaceX se esperaba que regresase a la Tierra a mediados de noviembre después de la llegada de la Crew-3, y los cuatro miembros de la tripulación, los astronautas de la NASA, Robert S. Kimbrough, K. Megan McArthur, el astronauta de la JAXA, Akihiko Hoshide junto al astronauta de ESA, Thomas Pesquet, en su segunda misión europea Alpha como comandante inicial de la expedición, pasarían a formar parte de la tripulación de esta expedición de forma temporal siendo transferidos desde la Expedición 65, hasta la llegada de la Crew-3 a partir del 30 de octubre de 2021 con el resto de la tripulación permanente de esta expedición. Pero debido al retraso del lanzamiento de la Crew-3, finalmente la Crew-2 regresó a la Tierra el día 9 de noviembre antes de la llegada de la Crew-3, que llegó el día 11 de noviembre de 2021.\nEl 4 de octubre de 2021, Thomas Pesquet asumió el mando de la estación durante el pequeño corto periodo de tiempo de relevos que debía llegar a tener 11 personas en la estación, pero finalmente solo fue comandante de la expedición en su primera parte con 7 personas a bordo. La expedición propiamente dicha la compusieron: Los cosmonautas de Roscosmos, Anton Shkaplerov como comandante de la expedición, que llegó a la estación en la Soyuz MS-19 el 5 de octubre de 2021 y Piotr Dubrov, que junto al astronauta de la NASA, Mark T. Vande Hei, que llegaron a bordo de la estación el 9 de abril de 2021 en la Soyuz MS-18, poco antes de la partida de la Soyuz MS-17 para asegurar una presencia rusa continuada en la estación, y que permanecieron en la estación en una misión ampliada durante casi un año (355 días) consiguinedo el 4.º récord conjunto de permanencia seguida en el espacio. Los últimos componentes de la expedición permanentes, fueron los miembros de la misión, SpaceX Crew-3, tres de la NASA, el veterano astronauta Thomas Marshburn, los novatos Raja Chari y Kayla Barron, junto con el astronauta Matthias Maurer de la ESA, en su primera misión europea Cosmic Kiss, formaran la Expedición 66 de 7 miembros propiamente dicha, hasta el 18 de marzo de 2022, momento en que llegó la nave de relevo, Soyuz MS-21 para la futura Expedición 67. La expedición terminó con la vuelta a la Tierra de la Soyuz MS-19 el 30 de marzo de 2022."
+    },
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Tripulación visitante EP-20",
+      "nivel": 3,
+      "texto": "Es la primera misión turística realizada en una soyuz por la empresa Space Adventures, desde el paron de 2009, ya que anteriormente había planificado y ejecutado ocho misiones de este tipo a la ISS con un total de 7 turistas espaciales (uno de ellos viajó 2 veces) de 2001 a 2009. Además es la primera misión a la ISS con dos cosmonautas no profesionales como turistas, sin contar con la tripulación de la Soyuz MS-19, ya que era una misión oficialmente de Roscosmos. También, es la primera misión espacial en la que un turista ha pagado el billete a otro para que sirva como su asistente de producción en órbita, ya que Yusaku Maezawa se ha dedicado a realizar una serie de vídeos. En su blog, Maezawa ha publicado videos, hablando desde cómo funciona el nuevo baño del módulo Nauka o cómo se lava uno los dientes en el espacio, hasta cómo era su camarote a bordo del módulo Zvezdá. De paso, Maezawa también aprovechó para promocionar varias marcas y productos. Los vídeos fueron grabados por Yozo Hirano, empleado de Maezawa y asistente de este en su misión espacial."
+    },
+    {
+      "titulo": "Operaciones",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Acoplamiento/Desacoplamiento de naves",
+      "nivel": 3,
+      "texto": "La Expedición 66 comenzó oficialmente el 17 de octubre de 2021 con la partida de la Soyuz MS-18. Las naves acopladas antes de esta fecha llegaron en expediciones anteriores.\nLeyenda"
+    },
+    {
+      "titulo": "Actividad extravehicular",
+      "nivel": 3,
+      "texto": "En esta expedición se realizaron un total de 4 EVA,s. Tres en el segmento americano desde el módulo esclusa QUEST y una en el ROS desde el módulo esclusa MIM-2, Poisk.\nLa primera EVA de esta expedición y la última caminata espacial del año 2021, se realizó el 2 de diciembre de 2021, después de que fuera aplazada el día 30 de noviembre debido al riesgo por aproximación de escombros espaciales a la ISS. Fue realizada desde el segmento espacial americano, la US EVA-78 por los astronautas de la NASA, Thomas Marshburn y Kayla Barron con una duración total de 6 H y 32 minutos, en la que se realizaron trabajos de mantenimiento de la estación, centrados en la sustitución de un subconjunto de antena de banda S (SASA).\nEl 19 de enero de 2022 se realizó la primera actividad extravehicular del año 2022, la EVA-51 desde el Segmento Orbital Ruso (ROS). Los participantes fueron los cosmonautas de Roscosmos Anton Shkaplerov y Pyotr Dubrov. La duración de la salida fueron 7 horas y 11 minutos fuera de la ISS, en el que se realizaron trabajos en el nuevo Módulo Prichal que llegó el pasado 26 de noviembre de 2022. Se integró en el segmento ruso de la ISS y se preparó para el acoplamiento de naves espaciales tripuladas y de carga. Para esto, Shkaplerov y Dubrov instalaron y conectaron las antenas del sistema de encuentro pasivo Kurs-P en la superficie exterior del nuevo módulo ruso, movieron una cámara y colocaron un cable de televisión entre los módulos Prichal y Nauka y también blancos montados para atracar naves espaciales. Fue la tercera salida en la carrera espacial de Shkaplerov y la cuarta de Dubrov.\nLa primera nave, que atracó en el nuevo módulo Prichal el 18 de marzo de 2022, fue la nave espacial tripulada Soyuz MS-21, cuya tripulación principal incluye a los cosmonautas de Roscosmos Oleg Artemyev, Denis Matveev y Sergei Korsakov que serán miembros de la futura Expedición 67.\nEl 15 de marzo de 2022 se llevó a cabo la segunda caminata espacial del año y tercera de esta expedición, esta vez realizada desde el segmento espacial americano, la US EVA-79 por los astronautas de la NASA, Raja Chari y Kayla Barron, con una duración total de 6 horas y 54 minutos, en el que se trabajó en la preparación para la instalación del panel solar iROSA 3A, que será el tercero en instalarse de los 6 que están planeados para aumentar la potencia de la estación de 160 kW a 215 kW.\nLa cuarta y última caminata espacial de esta expedición, la US EVA-80 se realizó el 23 de marzo de 2022 por los astronautas, Raja Chari y Matthias Maurer de la ESA.\nAmbos astronautas realizaran diversas tareas de mantenimiento para preparar la próxima instalación de paneles solares iROSA y además completaron su objetivo principal de instalar mangueras en un módulo de válvula de haz del radiador que dirige el amoníaco a través de los radiadores de rechazo de calor de la estación para mantener los sistemas a la temperatura adecuada, también instalaron un cable de alimentación y datos en la plataforma científica Bartolomeo del módulo Columbus y reemplazaron una cámara externa en el armazón de la estación, además de realizar otras actualizaciones de hardware de la estación. La duración total de la salida fue de 6 horas y 54 minutos fuera de la estación.\nTras la finalización de la caminata espacial se descubrió una fina capa de humedad dentro del casco del astronauta de la ESA Matthias Maurer, después de la represurización de la esclusa de aire QUEST de la estación, lo que provocó el inicio de una investigación, que incluyó el envío del traje espacial de regreso a la Tierra que usó Maurer para su análisis en la misión de abastecimiento SpaceX CRS-25 en agosto y que no hubiera ninguna salida extravehicular desde el segmento americano en la Expedición 67."
+    }
+  ],
+  "num_palabras": 1323
+}

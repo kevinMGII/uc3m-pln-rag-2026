@@ -1,0 +1,30 @@
+{
+  "titulo": "HEAO-3",
+  "titulo_wikipedia_en": "High Energy Astronomy Observatory 3",
+  "fecha_lanzamiento": "1979-09-20",
+  "año_lanzamiento": 1979,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Telescopio espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/HEAO-3",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Retirado",
+    "Tipo de misión": "Observatorio espacial",
+    "Operador": "NASA",
+    "Fecha de lanzamiento": "20 de septiembre de 1979",
+    "Masa en el lanzamiento": "2660 kg",
+    "Propulsión": "Sin Propulsión",
+    "Sistema de referencia orbital": "Circular",
+    "Periapsis": "486 Km",
+    "Inclinación orbital": "43.6 Grados",
+    "Instrumentos": "Heavy Nuclei Experiment\nCosmic Ray Isotope Experiment\nGamma-Ray Spectroscopy Experiment"
+  },
+  "resumen": "El satélite HEAO-3 fue el tercero de la serie de observatorios astronómicos espaciales de altas energías High Energy Astronomy Observatory, desarrollada por la NASA. Fue lanzado el 20 de septiembre de 1979 a una órbita de 500 km de altitud y 43,6 grados de inclinación, continuando operativo hasta el 29 de mayo de 1981. Fue el mayor espectrómetro en órbita de su tiempo.\nFue construido por el Jet Propulsion Laboratory (JPL) y constaba de los siguientes instrumentos para estudiar las bandas de rayos cósmicos y de rayos gamma:\nHeavy Nuclei Experiment\nCosmic Ray Isotope Experiment\nGamma-Ray Spectroscopy Experiment\nEl análisis posterior de los datos obtenidos por el HEAO-3 reveló aproximadamente 130 destellos de rayos gamma.",
+  "secciones": [],
+  "num_palabras": 115
+}

@@ -1,0 +1,46 @@
+{
+  "titulo": "STS-61-A",
+  "titulo_wikipedia_en": "STS-61-A",
+  "fecha_lanzamiento": "1985-10-30",
+  "año_lanzamiento": 1985,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/STS-61-A",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Lugar de lanzamiento": "39A",
+    "Fecha de lanzamiento": "30 de octubre de 1985, 17:00:00 UTC",
+    "Nave": "Challenger",
+    "Fecha de aterrizaje": "6 de noviembre de 1985, 17:44:51 UTC",
+    "Duración de la misión": "7d/00:44:51",
+    "Inclinación orbital": "57°",
+    "Distancia recorrida": "4.682.148 km",
+    "Misión anterior": "STS-51-J",
+    "Misión siguiente": "STS-61-B",
+    "Programa": "Programa del Transbordador Espacial"
+  },
+  "resumen": "La STS-61-A fue la misión del transbordador espacial número 22. Fue una misión científica para el Spacelab equipada por Alemania, por consiguiente el nombre de la carga útil fue D-1 (Deutschland 1). Fue además la última misión exitosa del Transbordador espacial Challenger. La misión STS-61-A conserva el récord de la tripulación más grande, ocho personas, a bordo de una nave espacial durante todo el vuelo, desde el lanzamiento hasta el aterrizaje.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Los números entre paréntesis indican el número de vuelos realizados por cada miembro incluyendo esta misión.\nHenry W. Hartsfield (3) - Comandante\nSteven R. Nagel (2) - Piloto\nBonnie J. Dunbar (1) - Especialista de la misión\nJames F. Buchli (2) - Especialista de la misión\nGuion S. Bluford (2) - Especialista de la misión\nReinhard Furrer (1) - Especialista de la carga - DLR\nErnst Messerschmid (1) - Especialista de la carga - DLR\nWubbo Ockels (1) - Especialista de la carga - ESA"
+    },
+    {
+      "titulo": "Tripulación de reserva",
+      "nivel": 3,
+      "texto": "Ulf Merbold - Especialista de la carga - ESA"
+    },
+    {
+      "titulo": "Mission parameters",
+      "nivel": 2,
+      "texto": "Masa:\ndel Orbitador al despegue: 110.568 kg\ndel Orbitador al aterrizar: 97.144 kg\nde la carga útil: 14.451 kg\nPerigeo: 319 km\nApogeo: 331 km\nInclinación: 57,0°\nPeriodo: 91,0 min"
+    }
+  ],
+  "num_palabras": 195
+}

@@ -1,0 +1,50 @@
+{
+  "titulo": "SpaceX Crew-5",
+  "titulo_wikipedia_en": "SpaceX Crew-5",
+  "fecha_lanzamiento": "2022-10-05",
+  "año_lanzamiento": 2022,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/SpaceX_Crew-5",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Regresada",
+    "Tipo de misión": "Rotación de tripulación de la ISS",
+    "Operador": "SpaceX",
+    "Duración planificada": "180",
+    "Nave": "Crew Dragon",
+    "Fabricante": "SpaceX",
+    "Tripulación": "Nicole Aunapu Mann\nJosh A. Cassada\nKoichi Wakata\nAnna Kíkina",
+    "Expedición": "Expedición 68",
+    "Fecha de lanzamiento": "5 de octubre de 2022, 16:00 UTC",
+    "Vehículo de lanzamiento": "Falcon 9 Block 5",
+    "Lugar de lanzamiento": "Kennedy, LC-39A",
+    "Contratista del lanzamiento": "SpaceX",
+    "Fecha de aterrizaje": "12 de marzo de 2023, 2:02 UTC",
+    "Lugar de aterrizaje": "Océano Atlántico",
+    "Sistema de referencia orbital": "Geocéntrica",
+    "Régimen orbital": "Órbita baja terrestre",
+    "Inclinación orbital": "51.66°",
+    "Programa": "Programa de Tripulación Comercial",
+    "Misión anterior": "SpaceX Crew-4",
+    "Misión siguiente": "SpaceX Crew-6",
+    "Programa (2)": "Crew Dragon",
+    "Misión anterior (2)": "SpaceX Crew-4",
+    "Misión siguiente (2)": "SpaceX Crew-6",
+    "Acoplamiento": "tipo acople: acople | objetivo acople: ISS | puerto acople: Harmony PMA 2/IDA-2 frontal | fecha acople: 6 de octubre de 2022, 21:01 UTC | fecha desacople: 11 de marzo de 2023, 07:20 UTC"
+  },
+  "resumen": "SpaceX Crew-5 es el quinto vuelo operacional de una nave Crew Dragon dentro del programa COTS, el séptimo vuelo tripulado a la ISS y el octavo tripulado en general. La misión estaba planeada para lanzarse en agosto del 2022 y después se planificó para el 29 de septiembre de 2022 con el relevo de la Expedición 67. Posteriormente, el lanzamiento fue atrasado al día 3 de octubre para evitar coincidir con el regreso de la Soyuz MS-21, el día 29 de septiembre. A pocos días del lanzamiento, debido al paso del huracán Ian, se retrasó nuevamente el lanzamiento, que se realizó finalmente el día 5 de octubre de 2022. Esta misión llevó a cuatro miembros de la tripulación permanente de la Expedición 68 a la ISS.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Los astronautas de la NASA Nicole Aunapu Mann y Josh A. Cassada fueron anunciados el, asignados anteriormente la misiones Boe-CFT y Boeing Starliner-1 y reasignados a esta nave, debido a los retrasos en los lanzamientos en la nave de prueba Boe-OFT-2. Posteriormente el astronauta de la JAXA, Koichi Wakata que también estaba asignado a la misión Boeing Starliner-1, fue anunciado como tercer pasajero. Finalmente y como se esperaba, el cuarto miembro de la tripulación será un cosmonauta ruso, en este caso, Anna Kíkina, la única cosmonauta femenina en activo de la agencia Roscosmos. Después del anuncio de que el intercambio de tripulaciones empezaría en el otoño de 2022, en julio de 2022, se firmó un nuevo acuerdo de intercambio de tripulaciones entre la NASA y Roscosmos. El acuerdo de intercambio de tripulaciones tiene como objetivo asegurar que, en caso de una situación de emergencia relacionada con la cancelación o un retraso en el lanzamiento de una nave espacial rusa o estadounidense, se garantice la presencia a bordo de la ISS de al menos un cosmonauta de Ruso y un astronauta de la NASA para servir a los segmentos ruso y estadounidense, respectivamente."
+    }
+  ],
+  "num_palabras": 318
+}

@@ -1,0 +1,49 @@
+{
+  "titulo": "Soyuz 31",
+  "titulo_wikipedia_en": "Soyuz 31",
+  "fecha_lanzamiento": "1978-08-26",
+  "año_lanzamiento": 1978,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Soyuz_31",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Masa en el lanzamiento": "6800 kg",
+    "Fecha de lanzamiento": "26 de agosto de 1978",
+    "Nave": "Soyuz 7K-T",
+    "Fecha de aterrizaje": "2 de noviembre de 1978",
+    "Duración de la misión": "67,84 días",
+    "Programa": "Programa Soyuz",
+    "Misión anterior": "Soyuz 30",
+    "Misión siguiente": "Soyuz 32"
+  },
+  "resumen": "Soyuz 31 fue una misión de una nave Soyuz 7K-T lanzada el 26 de agosto de 1978 desde el cosmódromo de Baikonur con dos cosmonautas a bordo hacia la estación espacial Salyut 6. A bordo viajaba el tercer cosmonauta no soviético en el marco del programa Intercosmos, Sigmund Jähn, de la antigua República Democrática Alemana y primer alemán en viajar al espacio.\nLa Soyuz 31 se acopló a la estación Salyut 6 para realizar diversos experimentos científicos y técnicos mientras estaba ocupada por la tripulación de la misión Soyuz 29.\nLa tripulación de la Soyuz 31 regresó a tierra en la nave de la misión Soyuz 29 para permitir a la tripulación de esta última pasar más tiempo en la Salyut 6 de lo que su nave Soyuz original podría haber permanecido en el espacio.\nLa nave de la misión Soyuz 31 regresó el 2 de noviembre de 1978.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Despegaron",
+      "nivel": 3,
+      "texto": "Valery Bykovsky (Comandante)\nSigmund Jähn (Especialista científico de la República Democrática Alemana)"
+    },
+    {
+      "titulo": "Aterrizaron",
+      "nivel": 3,
+      "texto": "Vladimir Kovalyonok (Comandante)\nAleksandr Ivanchenkov (Ingeniero de vuelo)"
+    },
+    {
+      "titulo": "Tripulación de respaldo",
+      "nivel": 2,
+      "texto": "Viktor Gorbatko (Comandante)\nEberhard Köllner (Especialista científico de la República Democrática Alemana)"
+    }
+  ],
+  "num_palabras": 181
+}

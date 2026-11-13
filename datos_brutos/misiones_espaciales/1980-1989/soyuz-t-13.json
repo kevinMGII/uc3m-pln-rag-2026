@@ -1,0 +1,49 @@
+{
+  "titulo": "Soyuz T-13",
+  "titulo_wikipedia_en": "Soyuz T-13",
+  "fecha_lanzamiento": "1985-06-06",
+  "año_lanzamiento": 1985,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Soyuz_T-13",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Masa en el lanzamiento": "6850 kg",
+    "Fecha de lanzamiento": "6 de junio de 1985",
+    "Nave": "Soyuz T",
+    "Fecha de aterrizaje": "26 de septiembre de 1985",
+    "Duración de la misión": "112,13 días",
+    "Programa": "Programa Soyuz",
+    "Misión anterior": "Soyuz T-12",
+    "Misión siguiente": "Soyuz T-14"
+  },
+  "resumen": "Soyuz T-13 fue una misión espacial soviética tripulada realizada en una nave Soyuz T. Fue lanzada el 6 de junio de 1985 desde el cosmódromo de Baikonur mediante un cohete Soyuz hacia la estación Salyut 7 con dos cosmonautas a bordo.",
+  "secciones": [
+    {
+      "titulo": "Recuperación de Salyut 7",
+      "nivel": 2,
+      "texto": "La misión fue la primera en acoplarse (manualmente) a una estación inerte: el 12 de febrero de 1985, mientras la estación se encontraba desocupada, se perdió el contacto con la misma en el control de Misión. Se decidió su reconocimiento y explorar posibilidad de recuperación.\nLa estación comenzó a vagar sin control rotando sobre su eje en forma axial, con los sistemas desconectados y se decidió intentar su recuperación mediante la misión Soyuz T-13.\nTras el lanzamiento, la cápsula se aproximó a la estación, que giraba lentamente sobre sí misma, y realizó varias maniobras alrededor de la misma en las que los cosmonautas determinaron que el exterior de la estación no había sufrido daños.\nLa maniobra de acoplamiento manual, única en la historia, consistió en realizar una serie de maniobras a baja velocidad para emparejarse con el movimiento rotatorio de la Salyut 7, al segundo intento se logró acoplarse con éxito.\nTras el acoplamiento manual comprobaron, con cuidado, que el aire del interior de la estación, aunque muy frío, era respirable, y que una capa de escarcha recubría las paredes. El sistema eléctrico no funcionaba y de las ocho baterías de la estación dos estaban destruidas. Se descubrió que un impacto hizo fallar a un sensor de orientación de los paneles solares había impedido su correcta orientación hacia el sol y la consiguiente recarga de las baterías. El control de tierra no pudo detectar la avería debido a un problema en la telemetría. Esto llevó a la estación se quedase sin energía y a la deriva. La causa probable fue impacto con micrometeoritos a elevada velocidad.\nLos cosmonautas de la Soyuz T-13 utilizaron su nave para girar todo el complejo y apuntarlo hacia el Sol para comenzar a recargar las baterías que quedaban en buen estado. El 10 de junio activaron los calentadores de aire y hasta la reactivación completa de la estación utilizaron el sistema de regeneración de aire de la Soyuz T.\nEl 13 de junio consiguieron reactivar el sistema de control de actitud de la estación, lo que suponía en la práctica la posibilidad de realizar acoplamientos automáticos y, por tanto, reaprovisionar nuevamente la estación mediante las naves automáticas Progress. Los calentadores de las paredes se activaron sólo después de la desaparición de la capa de escarcha para evitar que la humedad pudiese entrar en equipamiento electrónico delicado. Los tanques de agua potable se descongelaron del todo a finales de junio y finales de julio el nivel de humedad en la atmósfera de la estación había alcanzado niveles normales.\nLa recuperación de la Salyut 7 por la tripulación de la Soyuz T-13 supuso una de las mayores hazañas de la astronáutica en la era soviética y es un hecho poco conocido en occidente ya que los soviéticos ocultaron algunos eventos durante la realización de esta."
+    },
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Vladimir Dzhanibekov (Comandante)\nViktor Savinykh (Ingeniero de vuelo)"
+    },
+    {
+      "titulo": "Tripulación de respaldo",
+      "nivel": 3,
+      "texto": "Leonid Popov (Comandante)\nAleksandr Pavlovich Aleksandrov (Ingeniero de vuelo)"
+    },
+    {
+      "titulo": "En el cine",
+      "nivel": 2,
+      "texto": "La hazaña de recuperación de la estación Saliut 7 fue llevada al cine con toques de ficción en la película rusa de 2017 Saliut 7"
+    }
+  ],
+  "num_palabras": 551
+}

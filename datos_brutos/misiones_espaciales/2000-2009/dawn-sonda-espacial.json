@@ -1,0 +1,106 @@
+{
+  "titulo": "Dawn (sonda espacial)",
+  "titulo_wikipedia_en": "Dawn (spacecraft)",
+  "fecha_lanzamiento": "2007-09-27",
+  "año_lanzamiento": 2007,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración de Marte",
+    "Exploración de asteroides y planetas menores",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Dawn_(sonda_espacial)",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Inactivo",
+    "Tipo de misión": "Sonda de asteroides",
+    "Operador": "NASA",
+    "Fecha de lanzamiento": "27 de septiembre de 2007",
+    "Configuración": "Cilíndrica",
+    "Masa en el lanzamiento": "1237 kg",
+    "Propulsión": "Iónica",
+    "Sistema de referencia orbital": "Heliocéntrica"
+  },
+  "resumen": "Dawn fue una sonda espacial lanzada por la NASA y dirigida por el Laboratorio de Propulsión a Chorro (JPL, Estados Unidos), cuya finalidad fue examinar el planeta enano Ceres y el asteroide Vesta, localizados en el cinturón de asteroides situado entre Marte y Júpiter. Fue lanzada el 27 de septiembre de 2007, exploró Vesta entre 2011 y 2012 y orbitó Ceres desde 2015 hasta 2018. En octubre de 2017, la NASA anunció que la misión sería extendida hasta agotar el combustible de la sonda, lo que según comunicado del JPL, se produjo a finales de octubre de 2018.",
+  "secciones": [
+    {
+      "titulo": "La misión Dawn",
+      "nivel": 2,
+      "texto": "Observaciones desde la Tierra de los dos cuerpos objeto de estudio por parte de la sonda, indican que tienen una composición bastante diferente uno del otro y que permanecen intactos desde su formación 4.600 millones de años atrás.\nLa nave espacial Dawn interceptó y orbitó el asteroide Vesta durante ocho meses. En 2015 alcanzó Ceres, donde se mantuvo activo en órbita hasta que el JPL dio por finalizada la misión el 1 de noviembre de 2018. La sonda permanecerá orbitando Ceres durante décadas.\nLa sonda Dawn es la primera sonda espacial estadounidense propulsada por un propulsor de iones, considerado el más avanzado y eficiente sistema de propulsión en el espacio."
+    },
+    {
+      "titulo": "La nave",
+      "nivel": 2,
+      "texto": "La nave espacial Dawn tiene forma de caja hecha de aluminio y grafito compuesto con un peso seco de 747,1 kg y una masa de lanzamiento de combustible 1217,7 kg. El núcleo de la nave es un cilindro de grafito compuesto, con la hidracina y los tanques de titanio montado en el interior del xenón. El montaje, el acceso, y otros grupos son núcleo del aluminio con caras de aluminio. Dos alas de paneles fotovoltaicos con una superficie de 19,7 m están montados en los lados opuestos de la nave. Una antena parabólica de alta ganancia de 1,52 m está montada en el frente de la nave en el mismo plano que los paneles solares. Tres antenas de baja ganancia también están montadas en la nave espacial. Un brazo largo de 5 m lleva el magnetómetro desde el panel superior de la nave. También, en la parte superior lleva los instrumentos científicos (la cámara, el espectrómetro de cartografía, altímetro láser, rastreadores de estrellas, un espectrómetro de rayos gamma y otro de neutrones).\nLa nave es alimentada mediante energía solar fotovoltaica. Dos paneles solares de, con células de triple unión, proporcionan a una distancia de 150 millones de kilómetros (1 UA) y 1000 W al final de su vida a una distancia de 450 millones de kilómetros (3 UA) para alimentar la nave (22-35 V) y el sistema de propulsión solar eléctrica de iones (80-140 V). La energía se almacena en una batería de 35 A/h de NiH2. La propulsión se compone de tres propulsores de iones y se basa en la nave Deep Space 1, que usa xenón ionizado y acelerado por los electrodos. Los motores de iones de xenón tienen un empuje máximo de 92 mN y una potencia de entrada de 2,6 kW, con un impulso específico de 3.200 a 1.900 s. Los propulsores de 30 cm de diámetro, son de dos ejes cardán montados en la base de la nave. El tanque de xenón tiene 425 kg de combustible en el lanzamiento.\nEl control de actitud se mantiene por las ruedas de reacción y doce motores de 0,9 N de hidrazina colocados alrededor de la nave espacial. El tanque de hidrazina tiene 45,6 kg de propelente en el lanzamiento. Los propulsores de hidrazina también se usan para las maniobras de inserción orbital. La actitud usa rastreadores de estrellas y giroscopios. El control térmico usa tubos de calor de amoniaco y persianas, y requiere de aproximadamente 200 W a 3 UA. Las comunicaciones son en banda X, y usa antenas de baja, media y alta ganancia y una antena omnidireccional, utilizando un amplificador de 100 W con tubo de ondas. El control y el manejo de datos utiliza un procesador de RAD6000, con 8 Gb de memoria principal, y un bus de datos Mil-STD-1553B. El envío de datos es de 7,8 b/s a 2,0 kb/s y recepción de 10 b/s a 124 kb/s."
+    },
+    {
+      "titulo": "Lanzamiento",
+      "nivel": 2,
+      "texto": "La sonda fue programada para su lanzamiento mediante un cohete Delta 7925-H desde la plataforma de lanzamiento 17-B de Cabo Cañaveral. El 10 de abril de 2007, la sonda llegó a Titusville, Florida, donde fue preparada para su lanzamiento en las instalaciones de SPACEHAB Inc. El lanzamiento, programado para el 20 de junio, se retrasó hasta el día 30 por diversos problemas. La rotura de una grúa en la zona de lanzamiento retrasó una semana más el lanzamiento, hasta el 7 de julio. Más problemas y el mal tiempo provocaron sucesivos retrasos hasta el 8 de julio, luego el 15 y finalmente hasta el 26 de septiembre, para evitar la coincidencia con el lanzamiento de la misión Phoenix a Marte.\nUn nuevo retraso por el mal tiempo situó la fecha en el 27 de septiembre. Finalmente la sonda fue lanzada, no sin antes sufrir un nuevo susto causado por un barco que invadió la zona de exclusión poco antes del lanzamiento. La sonda abandonó la rampa de lanzamiento a las 11:34 GMT."
+    },
+    {
+      "titulo": "Primera etapa",
+      "nivel": 2,
+      "texto": "Después del lanzamiento la nave espacial realizó un encendido inicial de su propulsor de iones durante 11 días. Dawn comenzó la propulsión de crucero el 17 de diciembre de 2007. El 31 de octubre de 2008, Dawn completó la primera etapa de propulsión para el recorrido hacia Marte donde realizó un sobrevuelo para una asistencia gravitatoria en febrero de 2009. Durante esta fase de primer crucero interplanetario, Dawn pasó 270 días, u 85 % del tiempo de esta etapa, con sus propulsores encendidos. Se gastaron menos de 72 kilogramos del xenón propulsor para un cambio total de la velocidad de 1,81 kilómetros por segundo. El 20 de noviembre de 2008, Dawn realizó su primera maniobra de corrección de trayectoria (TCM-1), disparando su propulsor durante 2 horas, 11 minutos. Después de la conjunción solar de Dawn, se determinó que no era necesaria una maniobra de corrección de curso originalmente programada para enero de 2009."
+    },
+    {
+      "titulo": "Sobrevuelo de Marte",
+      "nivel": 2,
+      "texto": "La sonda sobrevoló Marte a las 00:28 GMT del 18 de febrero de 2009, a una distancia mínima de 549 km. El cambio de velocidad producido en el sobrevuelo fue de 9.330 km/h, un cambio equivalente al uso de 104 kg de propelente xenón. Ese día la nave paso a modo seguro, lo que resultó en una pérdida de adquisición de datos. La nave espacial reportó estar de nuevo en pleno funcionamiento dos días más tarde, sin ningún impacto posterior en la misión. La causa del evento se reportó como causado por un error de programación de software.\nDurante el encuentro se activaron una de las cámaras y el instrumento GRaND de medición de partículas y rayos gamma para realizar medidas de Marte en conjunto con las naves que orbitan el planeta."
+    },
+    {
+      "titulo": "Vesta",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Aproximación",
+      "nivel": 3,
+      "texto": "El 3 de mayo de 2011, Dawn tomó su primera imagen de Vesta a una distancia de kilómetros, y comenzó su fase de aproximación al asteroide. El 12 de junio Dawn realizó un frenado de su velocidad relativa con respecto a Vesta para su inserción orbital 34 días después.\nEstaba prevista la inserción orbital de Dawn a las 05:00 UTC del 16 de julio después de un período empuje con sus motores de iones. Debido a que su antena estaba apuntando lejos de la Tierra durante la propulsión, los científicos no pudieron confirmar de inmediato el éxito de la maniobra de Dawn. La nave espacial entonces comenzó a reorientarse y tenía previsto hacer una transmisión a las 06:30 UTC del 17 de julio. NASA confirmó más tarde que recibió la telemetría de Dawn que indicaba que la nave entró exitosamente en órbita alrededor de Vesta."
+    },
+    {
+      "titulo": "Investigación en Vesta",
+      "nivel": 3,
+      "texto": "Dawn durante su misión ha confirmado que Vesta es un protoplaneta con una estructura interna diferenciada, el principal descubrimiento ha sido la enorme cuenca de impacto situada en el polo sur. Denominada Rheasilvia, esta cuenca de 500 kilómetros de diámetro se formó durante el impacto de un asteroide de gran tamaño que casi despedaza a Vesta durante la colisión. En el centro de Rheasilvia se eleva el pico del cráter de impacto, una enorme montaña de 20 km de altura donde las paredes exteriores de Rheasilva tienen una altura absoluta mayor que la del pico central. Por otro lado, el conteo del número de cráteres ha permitido estimar la edad de Rheasilva en unos mil o dos mil millones de años, mientras que el hemisferio norte sería mucho más antiguo (unos cuatro mil millones de años). Esta dicotomía norte-sur se traduce también en una diferencia en la composición. Mientras que el sur está formado principalmente por basalto, el norte presenta una composición más compleja.\nEl primer mapa topográfico detallado de Vesta determinó que el diámetro medio del asteroide es de 525 kilómetros (es decir, este sería el tamaño que tendría el asteroide si fuese perfectamente esférico) y que su densidad es de 3,34 g/cm. El desnivel entre los puntos más altos y bajos alcanza los 60 kilómetros, lo que influye en la irregularidad de su campo gravitatorio. Igualmente, en esta fase se ha descartado que Vesta posea lunas con un tamaño superior a los 10 metros. Según el nuevo sistema de coordenadas confeccionado para este asteroide, el meridiano cero pasa ahora por un pequeño cráter de 500 metros de diámetro denominado Claudia.\nVesta puede presumir de tener la segunda montaña más alta del sistema solar después del Monte Olimpo (Marte), en el planeta rojo."
+    },
+    {
+      "titulo": "De Vesta a Ceres",
+      "nivel": 2,
+      "texto": "Durante su tiempo en órbita alrededor de Vesta, la sonda experimentó varios fallos en sus ruedas de reacción. Los investigadores planearon modificar sus actividades al llegar a Ceres para realizar un mapeo geográfico de cerca. El equipo de Dawn declaró que orientarían la sonda utilizando un modo \"híbrido\" que utilizara tanto ruedas de reacción como impulsores de iones. Los ingenieros determinaron que este modo híbrido conservaría el combustible. El 13 de noviembre de 2013, durante el tránsito, en una preparación de prueba, los ingenieros de Dawn completaron una serie de ejercicios de 27 horas de duración de dicho modo híbrido.\nEl 11 de septiembre de 2014, el impulsor de iones de Dawn inesperadamente dejó de funcionar y la sonda comenzó a operar en un modo seguro activado. Para evitar un lapso en la propulsión, el equipo de la misión cambió rápidamente el motor de ion activo y el controlador eléctrico con otro. El equipo declaró que tenían un plan en marcha para reactivar este componente deshabilitado más adelante en 2014. El controlador en el sistema de propulsión de iones podría haberse dañado por una partícula de alta energía. Al salir del modo seguro el 15 de septiembre de 2014, el propulsor iónico de la sonda reanudó su funcionamiento normal.\nAdemás, los investigadores de Dawn también encontraron que, después del problema de la propulsión, Dawn no podía dirigir su antena de comunicaciones principal hacia la Tierra. En cambio, otra antena de capacidad más débil se volvió a utilizar temporalmente. Para corregir el problema, se reinició la computadora de la sonda y se restauró el mecanismo de orientación."
+    },
+    {
+      "titulo": "Ceres",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Aproximación",
+      "nivel": 3,
+      "texto": "La sonda empezó a sacar fotos del planeta enano el 1 de diciembre de 2014. El 25 de enero de 2015 Dawn sacó la primera imagen con mejor resolución que las sacadas anteriormente por el telescopio espacial Hubble. Por los problemas con el motor de iones, la sonda no pudo realizar muchas observaciones de Ceres en su fase de aproximación."
+    },
+    {
+      "titulo": "Órbita",
+      "nivel": 3,
+      "texto": "La sonda entró en órbita el 6 de marzo de 2015, tan solo cuatro meses antes de la llegada de New Horizons a Plutón, Dawn se convirtió la primera sonda en visitar un planeta enano.\nLa sonda orbitó Ceres a diferentes alturas para realizar diferentes mapas de su superficie:\n(Para realizar la tabla, se utilizaron los datos de la página de Wikipedia en inglés de la sonda Dawn)."
+    },
+    {
+      "titulo": "Fin de la misión",
+      "nivel": 2,
+      "texto": "El 1 de noviembre de 2018, el Jet Propulsion Laboratory publicó que la sonda Dawn ha quedado en silencio, finalizando una histórica misión que estudió cápsulas de tiempo de los primeros momentos del sistema solar. La pérdida de las comunicaciones programadas para el 31 de octubre y 1 de noviembre, llevó a la conclusión de que la sonda había agotado la hidrazina, y por tanto, ya no podía mantener la antena orientada ni girar los paneles solares hacia el sol para recargar las baterías.\nSegún los ingenieros de NASA, Dawn permanecerá en órbita de Ceres durante al menos 20 años, con un 99% de confianza de que la órbita se mantendrá durante 50 años."
+    },
+    {
+      "titulo": "Programa de vuelo previsto al principio de la misión",
+      "nivel": 2,
+      "texto": "Lanzamiento: 27 de septiembre de 2007\nAsistencia gravitacional en Marte: 17 de febrero de 2009\nLlegada a Vesta: 16 de julio de 2011\nPartida de Vesta: julio de 2012\nLlegada a Ceres: marzo de 2015\nFin de la misión: julio de 2016"
+    },
+    {
+      "titulo": "Sobrevuelos de Palas y de Adeona",
+      "nivel": 2,
+      "texto": "Se propuso hacer sobrevuelos del asteroide 2 Palas o del asteroide 145 Adeona, pero estos fueron cancelados."
+    }
+  ],
+  "num_palabras": 2156
+}

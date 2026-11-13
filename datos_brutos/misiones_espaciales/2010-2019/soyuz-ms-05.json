@@ -1,0 +1,27 @@
+{
+  "titulo": "Soyuz MS-05",
+  "titulo_wikipedia_en": "Soyuz MS-05",
+  "fecha_lanzamiento": "2017-07-28",
+  "año_lanzamiento": 2017,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Soyuz_MS-05",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Vehículo de lanzamiento": "Soyuz-FG",
+    "Fecha de lanzamiento": "28 de julio de 2017",
+    "Nave": "Soyuz MS 11F747",
+    "Fecha de aterrizaje": "14 de diciembre de 2017",
+    "Programa": "Programa Soyuz",
+    "Misión anterior": "Soyuz MS-04",
+    "Misión siguiente": "Soyuz MS-06"
+  },
+  "resumen": "Soyuz MS-05 fue un vuelo espacial del Soyuz lanzado el 28 de julio de 2017. Transportó a tres miembros de la tripulación de la Expedición 52 hacia la Estación Espacial Internacional. MS-05 fue el vuelo número 134 de una nave espacial Soyuz. El equipo estuvo compuesto por un comandante ruso, un ingeniero de vuelo italiano y un ingeniero de vuelo estadounidense. Regresó a la Tierra el 14 de diciembre de 2017, después de 139 días en órbita.",
+  "secciones": [],
+  "num_palabras": 77
+}

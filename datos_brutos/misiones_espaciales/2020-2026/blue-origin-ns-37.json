@@ -1,0 +1,35 @@
+{
+  "titulo": "Blue Origin NS-37",
+  "titulo_wikipedia_en": "Blue Origin NS-37",
+  "fecha_lanzamiento": "2025-12-20",
+  "año_lanzamiento": 2025,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Blue_Origin_NS-37",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Vuelo espacial humano suborbital",
+    "Duración de la misión": "10 minutos, 26 segundos",
+    "Apogeo suborbital": "106 km",
+    "Nave": "RSS Kármán Line",
+    "Fabricante": "Origen azul",
+    "Tripulación": "Michaela Benthaus; Joey Hyde; Hans Koenigsmann; Neal Milch; Adonis Pouroulis; Jason Stansell",
+    "Fecha de lanzamiento": "20 de diciembre de 2025, 14:15:00 UTC",
+    "Vehículo de lanzamiento": "Nuevo Shepard (NS5)",
+    "Lugar de lanzamiento": "Corn Ranch, West Texas",
+    "Contratista del lanzamiento": "Origen azul",
+    "Fecha de aterrizaje": "20 de diciembre de 2025, 14:25:26 UTC",
+    "Lugar de aterrizaje": "Rancho de maíz",
+    "Programa": "Vuelos nuevos de Shepard",
+    "Misión anterior": "Origen azul NS-36",
+    "Misión siguiente": "Origen azul NS-38"
+  },
+  "resumen": "Blue Origin NS-37 fue un vuelo espacial suborbital operado por Blue Origin como parte de su programa de turismo espacial New Shepard. La misión se lanzó desde el Sitio de Lanzamiento Uno en el oeste de Texas el 20 de diciembre de 2025, con el tiempo exacto de despegue determinado por la ventana de lanzamiento. La transmisión en vivo comenzó aproximadamente 40 minutos antes del lanzamiento. Se esperaba que el vuelo durara aproximadamente 10-12 minutos, llevando a seis pasajeros a un apogeo por encima de la línea Kármán, el límite internacionalmente reconocido del espacio.\nLa tripulación incluye a la ingeniera aeroespacial Michaela Benthaus, que ha utilizado una silla de ruedas desde que sufrió una lesión de la médula espinal en un accidente de ciclismo de montaña de 2018, el físico Joey Hyde, el ingeniero aeroespacial Hans Koenigsmann, el ejecutivo de negocios Neal Milch, el empresario Adonis Pouroulis, y el entusiasta del espacio Jason Stansell.",
+  "secciones": [],
+  "num_palabras": 154
+}

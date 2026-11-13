@@ -1,0 +1,46 @@
+{
+  "titulo": "Mars Cube One",
+  "titulo_wikipedia_en": "Mars Cube One",
+  "fecha_lanzamiento": "2018-05-05",
+  "año_lanzamiento": 2018,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración de Marte",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Mars_Cube_One",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {},
+  "resumen": "Mars Cube One (o MarCO) es una misión para sobrevolar Marte en la que interactúan dos nano-naves espaciales, de formato 6U CubeSat, fue lanzado el 5 de mayo de 2018 junto con la misión InSight Mars Lander de la NASA. El Mars Cube One tiene como misión proporcionar un enlace de comunicaciones a la Tierra para InSight durante la entrada, descenso y aterrizaje de misiones críticas cuando InSight no esté visible desde la Tierra. Se espera que Mars Cube One sea la primera nave espacial construida con formato CubeSat para operar más allá de la órbita terrestre.\nEl módulo de aterrizaje InSight retransmitirá sus datos de telemetría poco después del aterrizaje. Por lo tanto, la prueba MarCO no es indispensable para la misión de Insight, pero demostrará el nuevo sistema de retransmisión y la tecnología para su uso futuro en misiones a otros cuerpos exteriores del sistema solar.",
+  "secciones": [
+    {
+      "titulo": "Perspectiva general",
+      "nivel": 2,
+      "texto": "Se espera que Mars Cube One sea la primera nave espacial construida en formato CubeSat para operar más allá de la órbita terrestre durante una misión interplanetaria. Los CubeSats son pequeños satélites en forma de cubo de fácil y rápido desarrollo y bajo precio, perfectos para operar en una órbita terrestre baja. Son utilizados con fines de investigación, por ejemplo: estudios biológicos, misiones de mapeo, etc. La tecnología de CubeSat fue desarrollada por la Universidad Politécnica Estatal de California y la Universidad Stanford, con el propósito de realizar proyectos rápidos y fáciles que permitan a los estudiantes hacer uso de la tecnología. A menudo forman parte de la carga útil en una misión más grande, lo que los hace aún más rentables.\nLas dos nano-naves son idénticas y oficialmente fueron denominadas MarCO-A y MarCO-B, se lanzaron juntas para redundancia; más tarde, los ingenieros de JPL decidieron apodarlas como WALL-E y Eva en referencia a los personajes principales de la película animada WALL·E."
+    },
+    {
+      "titulo": "Lanzamiento",
+      "nivel": 2,
+      "texto": "El lanzamiento de Mars Cube One está siendo administrado por el Programa de Servicios de Lanzamiento de la NASA. Originalmente, la primera fecha de lanzamiento estaba prevista para el 4 de marzo de 2016 en un cohete Atlas V 401, pero la misión se pospuso hasta el 5 de mayo de 2018 después de que un instrumento científico de InSight diera un fallo en un test de prueba. El cohete Atlas V Booster lanzará la nave espacial junto con InSight, después los dos MarCO se separarán y se posicionarán en su propia trayectoria hacia Marte."
+    },
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "La misión principal de MarCO es proporcionar comunicaciones retransmitiendo en tiempo real mientras el módulo de aterrizaje InSight realiza la fase de entrada, descenso y aterrizaje. A lo largo de los años, varios CubeSats han sobrevolado alrededor de la órbita terrestre, Mars Cube One irá más allá de la órbita terrestre. Con esto se conseguirán datos únicos fuera de la atmósfera y la órbita terrestre. En lugar de esperar durante varias horas para que la información retransmitida llegue a la Tierra, el MarCO recuperará los datos importantes durante la entrada en la atmósfera, descenso y aterrizaje, a un ritmo más rápido. Sin el MarCO CubeSats, InSight tendría que transmitir la información del sobrevuelo a la Mars Reconnaissance Orbiter (MRO) que no transmite información tan rápidamente. Estimando el inconveniente existente de comunicarse con el control de tierra durante situaciones especialmente de riesgo, varios equipos se propusieron estudiar y mejorar la manera en que los datos se transmiten a la Tierra. La táctica actual dependen del envío de datos a orbitadores cercanos, que después envían esos datos a través del espacio en dirección a la Tierra, o incluso intentan enviar datos directamente a la Tierra. Debido a que las misiones futuras ya no podrán confiar en estos métodos, los CubeSats con suerte mejorará los relés de datos en tiempo real, y también reducirá el gasto total de la misión."
+    },
+    {
+      "titulo": "Diseño y componentes",
+      "nivel": 2,
+      "texto": "Incluye dos CubeSats de comunicación y relé construidos por el Laboratorio de Propulsión a Chorro de la NASA, que son 6U (10×20×30 cm) cada uno (1U es 10×10×10 cm). Un factor limitador para el desarrollo de los CubeSats es que deben integrar todos los componentes necesarios en el satélite dentro de un determinado espacio de tamaño y peso, entre ellos debe contener una estructura externa, la antena, la aviónica para controlar el satélite, un sistema de propulsión, potencia y carga útil.\nCada CubeSats llevará implantado a bordo una antena UHF polarizada circularmente. La información transmitida mientras se efectúa el descenso y aterrizaje de InSight viajará a través de una frecuencia ultra alta (UHF) a 8 kbit/s y CubeSats recogerá estos datos, junto con una frecuencia de banda X que recibirá y transmitirá la información a 8 kbit/s. MarCO también utilizará un panel solar desplegable, pero debido a la cantidad limitada de energía que puede producir el panel solar, la potencia para la frecuencia de banda X solo puede tener un máximo de aproximadamente 5 W.\nPara que los CubeSats puedan retransmitir la información, necesitan una antena de alta ganancia (HGA) de confianza, que cumpla con las especificaciones de masa, que tenga una baja complejidad y que sea asequible su construcción. Una antena de alta ganancia es aquella que tiene un ancho de haz de onda de radio concentrado y estrecho (antena direccional). Se debatieron tres posibles tipos de antenas: una antena de parche de microbanda estándar, una reflectarray y un reflector de malla. Con el requisito de tamaño específico de los CubeSats, el tipo de antena reflectarray cumple con todas las especificaciones adecuadas para la misión. Los componentes de un HGA reflectarray son tres paneles plegados, una bisagra de raíz que conecta las alas con el cuerpo del CubeSat, cuatro alas traseras y un mecanismo de liberación de alambrado. Los paneles de antena deben ser capaces de soportar un grado variable de cambios de temperatura a lo largo de la misión, así como también vibraciones durante el despliegue.\nEl sistema de propulsión comprende dos componentes para asegurarse que los CubeSats lleguen a las ubicaciones correctas. Tendrán cuatro propulsores de gas frío que controlarán la trayectoria de los cubos y su actitud (orientación). Para asegurar que las transmisiones sean correctas durante su trayectoria, el sistema de propulsión realizará cinco pequeños ajustes para garantizar que los cubos estén en la trayectoria correcta hacia su destino. Debido a las condiciones de gravedad cero en el espacio, un pequeño cambio en la trayectoria al principio del despliegue de la misión podría cambiar la trayectoria de un objeto de manera más efectiva y con menos combustible que si el cohete tuviera constantemente un sistema de propulsión activado. Estas pequeñas correcciones no solo ahorran combustible sino también el espacio que ocupa el combustible, que es necesario para conservar el volumen de otros componentes importantes dentro del cubo."
+    },
+    {
+      "titulo": "Lanzamientos similares",
+      "nivel": 2,
+      "texto": "La próxima misión Exploration Mission 1 a la Luna llevará 13 CubeSats como carga secundaria. Cada CubeSat será desarrollado por un equipo diferente con distintos objetivos."
+    }
+  ],
+  "num_palabras": 1139
+}

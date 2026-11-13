@@ -1,0 +1,35 @@
+{
+  "titulo": "Soyuz TMA-6",
+  "titulo_wikipedia_en": "Soyuz TMA-6",
+  "fecha_lanzamiento": "2005-04-15",
+  "año_lanzamiento": 2005,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Soyuz_TMA-6",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {},
+  "resumen": "Soyuz TMA-6 fue el vigésimo-sexto vuelo tripulado a la Estación Espacial Internacional, lanzada del Cosmódromo de Baikonur en 15 de abril de 2005.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Tripulación lanzada en la Soyuz TMA-6: (15 de abril de 2005)\nTripulación regreso en la Soyuz TMA-6: (10 de octubre de 2005)"
+    },
+    {
+      "titulo": "Parámetros de la Misión",
+      "nivel": 2,
+      "texto": "Masa: 7 200 kg\nPerigeu: 349 km\nApogeu: 360 km\nInclinación: 51.64°\nPeriodo: 92.6 minutos"
+    },
+    {
+      "titulo": "Misión",
+      "nivel": 2,
+      "texto": "La nave Soyuz TMA transportó hasta la Estación Espacial Internacional ISS a los integrantes de la Expedición 11, el cosmonauta ruso Sergei Krikalev y el astronauta norteamericano John Phillips, además del italiano Roberto Vittori, astronauta de la ESA (Agencia Espacial Europea), acoplándose el 17 de abril y permaneciendo en órbita hasta su regreso el 10 de octubre, con la tripulación.\nEl astronauta Roberto Vittori (primer astronauta europeo en hacer dos viajes hasta la ISS), en su periodo de 10 días en la ISS condujo experimentos e investigación sobre la germinación de semillas de plantas herbáceas para posible uso en la nutrición de astronautas en el espacio; retornó a Tierra con la tripulación de la Expedición 10 en el vehículo espacial Soyuz TMA-5."
+    }
+  ],
+  "num_palabras": 182
+}

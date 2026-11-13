@@ -1,0 +1,26 @@
+{
+  "titulo": "UNITEC-1",
+  "titulo_wikipedia_en": "Shin'en (spacecraft)",
+  "fecha_lanzamiento": "2010-05-20",
+  "año_lanzamiento": 2010,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración de Venus",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/UNITEC-1",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {},
+  "resumen": "UNITEC-1 o UNISEC Technology Experiment Carrier 1, llamada también Shin'en, es una sonda espacial desarrollada por los alumnos de varias universidades japonesas, cuyo objetivo principal es el de realizar un sobrevuelo sobre el planeta Venus.",
+  "secciones": [
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "La sonda es un cubo de 30 por 35 centímetros con una masa de 20 kg. No dispone de ACS ni de sistema de estabilización. La energía es proporcionada por células solares situadas sobre la superficie de la sonda, las cuales producen 25 W de electricidad.\nFue lanzada el 20 de mayo de 2010 junto a la PLANET-C e IKAROS, a bordo de un cohete H-IIA.\nEl 21 de mayo a las 15:43 UTC, estando la sonda ya a 320.000 km de la Tierra, dejó de transmitir señales. UNISEC, responsable de la UNITEC-1 consideró en cualquier caso un éxito la sonda, al ser la primera no lanzada por una agencia espacial que va más allá del cinturón de Van Allen. Se calcula que la sonda pasó por las cercanías de Venus en diciembre de 2010."
+    }
+  ],
+  "num_palabras": 170
+}

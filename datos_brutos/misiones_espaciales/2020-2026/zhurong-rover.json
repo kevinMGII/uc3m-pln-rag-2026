@@ -1,0 +1,67 @@
+{
+  "titulo": "Zhurong (rover)",
+  "titulo_wikipedia_en": "Zhurong (rover)",
+  "fecha_lanzamiento": "2020-07-23",
+  "año_lanzamiento": 2020,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración de Marte",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Zhurong_(rover)",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "vehículo explorador tipo «astromóvil»",
+    "Operador": "Administración Espacial Nacional China",
+    "Distancia recorrida": ">1,4 km en Marte al 1 de enero de 2022",
+    "Masa en el lanzamiento": "240 kg",
+    "Dimensiones": "2,86 m x 3 m x 1,85 m",
+    "Potencia": "sistema fotovoltaico (FV)",
+    "Fecha de lanzamiento": "23 de julio de 2020, 23:18 UTC",
+    "Vehículo de lanzamiento": "Larga Marcha 5",
+    "Fecha de aterrizaje": "22 de mayo de 2021, 02:40 UTC",
+    "Lugar de aterrizaje": "Utopia Planitia (Marte)"
+  },
+  "resumen": "Zhurong (chino: 祝融; pinyin: Zhùróng) es un rover propulsado de exploración marciana gestionado por la Administración Espacial Nacional China (CNSA), cuyo objetivo es explorar la superficie del planeta Marte. Es el primer vehículo explorador chino en aterrizar en otro planeta. Es parte de la misión Tianwen-1.\nLa nave espacial se lanzó el 23 de julio de 2020 y se insertó en la órbita marciana el 10 de febrero de 2021. El módulo de aterrizaje, que transportaba el vehículo, realizó un aterrizaje suave con éxito en Marte el 14 de mayo de 2021, convirtiendo a China en el segundo país que aterriza con éxito una nave espacial en Marte y establece comunicaciones desde la superficie, después de Estados Unidos. Zhurong se desplegó con éxito el 22 de mayo de 2021, 02:40 UTC.",
+  "secciones": [
+    {
+      "titulo": "Nombre",
+      "nivel": 2,
+      "texto": "Zhurong lleva el nombre de una figura mitológica histórica china generalmente asociada con el fuego y la luz, ya que a Marte se le llama «el planeta del fuego» (chino:火星) en China y en algunos otros países del este de Asia. Fue seleccionado mediante una votación pública en línea realizada entre el 20 de enero de 2021 y el 28 de febrero de 2021, y Zhurong ocupó el primer lugar con 504,466 votos. El nombre fue elegido con el significado de «encender el fuego de la exploración interestelar en China y simbolizar la determinación del pueblo chino de explorar las estrellas y descubrir incógnitas en el universo»."
+    },
+    {
+      "titulo": "Historia",
+      "nivel": 2,
+      "texto": "China comenzó su primer intento de exploración interplanetaria en 2011 enviando a Yinghuo-1, un orbitador a Marte, en una misión conjunta con Rusia. No abandonó la órbita terrestre debido a una falla del vehículo de lanzamiento ruso. Como resultado, la agencia espacial china se embarcó en su misión independiente al planeta rojo.\nEl primer modelo temprano del futuro explorador de Marte se exhibió en noviembre de 2014 en la 10ª Exposición Internacional de Aviación y Aeroespacial de China. Tenía una apariencia similar al explorador lunar Yutu, que se había desplegado en la Luna.\nEl 22 de abril de 2016, Xu Dazhe, jefe de la CNSA, anunció que la misión a Marte había sido aprobada el 11 de enero de 2016. Se enviaría una sonda a la órbita marciana e intentaría aterrizar en Marte en 2020.\nEl 23 de agosto de 2016, China reveló las primeras imágenes de la versión final de las naves espaciales de la misión al planeta rojo, que confirmaron la composición de un orbitador, módulo de aterrizaje y vehículo explorador en Marte en una misión.\nLos objetivos científicos y las cargas útiles de la misión a Marte fueron declarados en un artículo publicado en Journal of Deep Space Exploration en diciembre de 2017.\nEl 24 de abril de 2020, la CNSA anunció formalmente el programa de exploración interplanetaria de China, junto con el nombre Tianwen y un emblema del programa. La primera misión del programa, la misión a Marte que se llevará a cabo en 2020, se denominó Tianwen-1.\nEl 24 de abril de 2021, en previsión del próximo intento de amartizaje, CNSA anunció formalmente que el vehículo explorador se llamaría Zhurong (chino:祝融号)."
+    },
+    {
+      "titulo": "Selección de la zona de amartizaje",
+      "nivel": 2,
+      "texto": "La zona de amartizaje se determinó sobre la base de dos criterios:\nViabilidad técnica, incluyendo la latitud, la altitud, la pendiente, el estado de la superficie, la distribución de las rocas, la velocidad del viento local, los requisitos de visibilidad durante el proceso de reentrada atmosférica.\nObjetivos científicos, incluyendo la geología, la estructura del suelo y la distribución del hielo de agua, los elementos de la superficie, los minerales y la distribución de las rocas, la detección del campo magnético.\nEn la siguiente etapa se preseleccionaron dos zonas: Chryse Planitia y Utopia Planitia.\nLa zona candidata en Utopia Planitia fue la más favorecida por el equipo debido a las mayores probabilidades de encontrar pruebas sobre la existencia de un antiguo océano en la parte boreal del planeta rojo. Finalmente fue seleccionada como zona de amartizaje final de la misión."
+    },
+    {
+      "titulo": "Cronología de la misión",
+      "nivel": 2,
+      "texto": "Tianwen-1, junto con el vehículo Zhurong, fue lanzado a las 12:41 UTC + 8 el 23 de julio de 2020, desde el sitio de lanzamiento de la nave espacial Wenchang por un cohete pesado Long March 5.\nDespués de un viaje de 202 días a través del espacio interplanetario, Tianwen-1 se insertó en la órbita marciana el 10 de febrero de 2021, convirtiéndose así en el primer orbitador chino en Marte. Posteriormente, realizó varias maniobras orbitales y comenzó a inspeccionar los lugares de aterrizaje objetivo en Marte en preparación para el próximo intento de aterrizaje.\nEl 14 de mayo de 2021, el módulo de aterrizaje y el vehículo Zhurong se separaron del orbitador Tianwen-1. Después de experimentar la entrada atmosférica de Marte que duró unos nueve minutos, el módulo de aterrizaje y el vehículo hicieron un amartizaje suave exitoso en la Utopia Planitia, utilizando una combinación de aeroescudo, paracaídas y retrocohete. Con el aterrizaje, China se convirtió en el segundo país en operar una nave espacial completamente funcional en la superficie marciana, después de Estados Unidos.\nDespués de establecer una comunicación estable con el vehículo, CNSA publicó sus primeras imágenes desde la superficie de Marte el 19 de mayo de 2021.\nEl 22 de mayo de 2021, a las 10:10 a. m. hora de Beijing (0240 GMT), Zhurong condujo desde su plataforma de aterrizaje hasta la superficie de Marte, comenzando su misión de exploración.\nEl 11 de junio de 2021, CNSA publicó el primer lote de imágenes científicas de la superficie del planeta rojo, incluida una imagen panorámica tomada por Zhurong y una foto grupal en color de Zhurong y el módulo de aterrizaje Tianwen-1 tomada por una cámara inalámbrica colocada en suelo marciano . La imagen panorámica está compuesta por 24 tomas individuales tomadas por la NaTeCam antes de que el astromóvil fuera desplegado a la superficie marciana. La imagen revela que la topografía y la abundancia de rocas cerca del lugar de amartizaje era consistente con las anticipaciones previas del científico sobre las características típicas del sur de Utopía Planitia con rocas pequeñas pero extendidas, patrones de ondas blancas y volcanes de lodo.\nEl 27 de junio de 2021, CNSA liberado imágenes y vídeos de Zhurong 's proceso y el movimiento EDL en superficie de Marte, incluyendo un clip de sonidos emitidos por Zhurong registrado por su instrumento, Marte estación climática (MCS).\nEl 11 de julio de 2021, CNSA también anunció que Zhurong había viajado más de 410 m sobre la superficie marciana.\nEl 12 de julio de 2021, Zhurong visitó el paracaídas y la carcasa trasera que cayó sobre la superficie marciana durante su aterrizaje el 14 de mayo."
+    },
+    {
+      "titulo": "Exploración",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Objetivos",
+      "nivel": 3,
+      "texto": "Las tareas previstas en la misión del astromóvil son:\nEstudiar la topografía y la geología de la zona\nExaminar el suelo y su contenido en hielo\nExaminar los elementos, minerales y rocas\nTomar muestras de la atmósfera"
+    },
+    {
+      "titulo": "Instrumentos",
+      "nivel": 3,
+      "texto": "El astromóvil de seis ruedas pesa 240 kilogramos y mide 1,85 metros. Se alimenta de cuatro paneles solares y de n-undecano almacenado en 10 contenedores bajo dos ventanas circulares en la cubierta, que absorbe el calor y se funde durante el día y se solidifica y libera calor por la noche. Lleva seis instrumentos científicos:\nMars Rover Penetrating Radar (RoPeR) Radar de penetración en el suelo (GPR), de dos frecuencias, para obtener imágenes a unos 100 m por debajo de la superficie marciana Fue uno de los dos primeros radares de penetración en el suelo desplegados en Marte, junto con el equipado por el astromóvil Perseverance de la NASA lanzado y amartizado en los mismos años.\nMars Rover Magnetometer (RoMAG) obtiene las estructuras finas del campo magnético de la corteza terrestre a partir de mediciones móviles en la superficie marciana.\nMars Climate Station (MCS) (también MMMI Instrumento de Medición Meteorológica de Marte) mide la temperatura, la presión, la velocidad del viento y la dirección de la atmósfera de la superficie, y tiene un micrófono para captar los sonidos marcianos. Durante el despliegue del rover, grabó el sonido, convirtiéndose en el segundo instrumento sonoro marciano que registra con éxito los sonidos marcianos después de los micrófonos del rover de la misión Mars 2020 Perseverance.\nMars Surface Compound Detector (MarSCoDe) combina la espectroscopia de descomposición inducida por láser (LIBS) y la espectroscopia infrarroja.\nCámara multiespectral (MSCam) Combinada con el MarSCoDe, la MSCam investiga los componentes minerales para establecer la relación entre el entorno de agua de la superficie marciana y los tipos de minerales secundarios, y para buscar condiciones ambientales históricas para la presencia de agua líquida.\nCámaras de navegación y topografía (NaTeCam) Con una resolución de 2048 × 2048, la NaTeCam se utiliza para construir mapas topográficos, extraer parámetros como la pendiente, la ondulación y la rugosidad, investigar las estructuras geológicas y realizar un análisis exhaustivo de la estructura geológica de los parámetros de la superficie.\nEntre los seis instrumentos científicos, RoPeR funciona durante la itinerancia; MarSCoDe, MSCam y NaTeCam funcionan cuando están estacionados; RoMAG y MCS funcionan tanto en movimiento como en reposo.\nOtros instrumentos son:\nCámara remota: Una pequeña cámara lanzada por el rover para tomar fotos del rover y del módulo de aterrizaje el 1 de junio de 2021. Las imágenes capturadas se transfieren al astromóvil mediante wifi."
+    }
+  ],
+  "num_palabras": 1522
+}

@@ -1,0 +1,44 @@
+{
+  "titulo": "Soyuz 9",
+  "titulo_wikipedia_en": "Soyuz 9",
+  "fecha_lanzamiento": "1970-06-01",
+  "año_lanzamiento": 1970,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Soyuz_9",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Masa en el lanzamiento": "6590 kg",
+    "Fecha de lanzamiento": "1 de junio de 1970",
+    "Nave": "Soyuz 7K-OK",
+    "Fecha de aterrizaje": "19 de junio de 1970",
+    "Duración de la misión": "17,71 días",
+    "Programa": "Programa Soyuz",
+    "Misión anterior": "Soyuz 8",
+    "Misión siguiente": "Soyuz 10"
+  },
+  "resumen": "Soyuz 9 fue una misión tripulada de una nave Soyuz 7K-OK lanzada el 1 de junio de 1970 desde el cosmódromo de Baikonur con dos cosmonautas a bordo.\nSoyuz 9 fue básicamente una misión de resistencia en la que se realizaron experimentos y pruebas médicas, técnicas y biológicas durante una estancia relativamente prolongada en el espacio (unos 17 días).\nEn la órbita número 47 los cosmonautas informan que uno de los paneles solares solo produce 26 amperios de corriente, lo que es interpretado como que el control automático de los paneles no está funcionando bien. La baja producción eléctrica implica que la misión no podría durar más de ocho días. El control de misión indica a los cosmonautas que pongan la nave a girar a una velocidad de 0,5 grados/s alrededor de su eje y apuntando hacia el Sol, método que mantiene orientada la nave hacia el Sol constantemente e impide que las baterías se agoten prematuramente.\nEl día 17 de junio la tripulación establece un nuevo récord de permanencia en órbita. La cápsula de regreso realiza la reentrada atmosférica el 19 de junio y aterriza sin problemas. El estado de la tripulación no parece ser bueno: tienen dificultades para levantarse y permanecer de pie, y se caen durante sus primeros pasos, así que son llevados en brazos por el equipo de rescate. Los cosmonautas parecen estar bastante enfermos y tras ser recibidos por las autoridades son enviados a las dependencias médicas. Los cosmonautas se recuperan lentamente y a raíz de la experiencia los técnicos recomiendan que la duración de los vuelos a partir de entonces no excedan los 25 días de duración y que se construya un nuevo modelo de Soyuz mejor preparada para vuelos de larga duración.\nSoyuz 9 fue la última misión realizada por una Soyuz de tipo 7K-OK.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Andrián Nikoláyev (Comandante)\nVitali Sevastyanov (Ingeniero de vuelo)"
+    },
+    {
+      "titulo": "Tripulación de respaldo",
+      "nivel": 2,
+      "texto": "Anatoly Filipchenko (Comandante)\nGeorgi Grechko (Ingeniero de vuelo)"
+    },
+    {
+      "titulo": "Tripulación de reserva",
+      "nivel": 2,
+      "texto": "Vasili Lazarev (Comandante)\nValeri Yazdovsky (Ingeniero de vuelo)"
+    }
+  ],
+  "num_palabras": 326
+}

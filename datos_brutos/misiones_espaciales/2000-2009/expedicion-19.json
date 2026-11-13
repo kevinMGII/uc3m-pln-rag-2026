@@ -1,0 +1,37 @@
+{
+  "titulo": "Expedición 19",
+  "titulo_wikipedia_en": "Expedition 19",
+  "fecha_lanzamiento": "2009-03-28",
+  "año_lanzamiento": 2009,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Expedición_19",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Fecha de lanzamiento": "28 de marzo de 2009 a las 13:05 UTC",
+    "Fecha de aterrizaje": "29 de mayo de 2009 a las 12:34 UTC",
+    "Misión anterior": "Expedición 18",
+    "Misión siguiente": "Expedición 20",
+    "Nave de llegada": "STS-119, Soyuz TMA-14",
+    "Nave de regreso": "Soyuz TMA-14, STS-127",
+    "Programa": "Programa de la EEI",
+    "Estación espacial": "Estación Espacial Internacional",
+    "Tipo de misión": "Expedición a la EEI",
+    "Fecha de inicio": "28 de marzo de 2009, 13:05 UTC",
+    "Fecha de fin": "29 de mayo de 2009, 12:34 UTC"
+  },
+  "resumen": "La Expedición 19 fue la decimonovena estancia de larga duración en la Estación Espacial Internacional. Esta expedición será la primera en contar con 6 tripulantes en su fase final, por lo que será necesario doblar las misiones para poder mantener a esta nueva tripulación.\nLos primeros tripulantes de esta expedición serán Koichi Wakata (procedente de la Expedición 18) Gennady Padalka y Michael R. Barratt. La llegada de estos dos nuevos tripulantes está prevista para marzo de 2009 en la misión Soyuz TMA-14, más tarde se les unirá Timothy Kopra en la misión STS-127 sustituyendo a Koichi Wakata.",
+  "secciones": [
+    {
+      "titulo": "Tripulación de reserva",
+      "nivel": 2,
+      "texto": "Jeffrey Williams - Comandante - NASA (por Barratt)\nMaksim Surayev - Ingeniero de vuelo - RSA (por Padalka)\nSoichi Noguchi - Ingeniero de vuelo - JAXA (por Wakata)"
+    }
+  ],
+  "num_palabras": 125
+}

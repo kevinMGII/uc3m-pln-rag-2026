@@ -1,0 +1,60 @@
+{
+  "titulo": "STS-40",
+  "titulo_wikipedia_en": "STS-40",
+  "fecha_lanzamiento": "1991-06-05",
+  "año_lanzamiento": 1991,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/STS-40",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Otros nombres": "Sistema de Transporte Espacial-40",
+    "Tipo de misión": "Spacelab Life Sciences-1 (SLS-1)",
+    "Operador": "NASA",
+    "Distancia recorrida": "6083223 km",
+    "Órbitas completadas": "146",
+    "Masa en el lanzamiento": "114290 kg",
+    "Masa en el aterrizaje": "102283 kg",
+    "Masa de la carga útil": "12374 kg",
+    "Tripulación": "Bryan D. O'Connor; Sidney M. Gutiérrez; James P. Bagian; Tamara E. Jernigan; Rhea Seddon; F. Drew Gaffney; Millie Hughes-Fulford",
+    "Fecha de lanzamiento": "5 de junio de 1991, 13:24:51 UTC (9:24:51 am EDT)",
+    "Lugar de lanzamiento": "Kennedy, LC-39B",
+    "Contratista del lanzamiento": "Rockwell Internacional",
+    "Fecha de aterrizaje": "14 de junio de 1991, 15:39:11 UTC (8:39:11 am PDT)",
+    "Lugar de aterrizaje": "Edwards, Pista 22",
+    "Sistema de referencia orbital": "Órbita geocéntrica",
+    "Régimen orbital": "Órbita terrestre baja",
+    "Periapsis": "287 km",
+    "Apoapsis": "296 km",
+    "Inclinación orbital": "39.02°",
+    "Periodo orbital": "90,40 minutos",
+    "Instrumentos": "Latas especiales de Escapada (GAS); Experimento de Dinámica de ZeroGravity de Middeck (MODE)",
+    "Programa": "Programa de transporte espacial",
+    "Misión anterior": "STS-39 (40)",
+    "Misión siguiente": "STS-43 (42)"
+  },
+  "resumen": "STS-40, el undécimo lanzamiento del transbordador espacial Columbia, fue una misión de nueve días en junio de 1991. Llevaba el módulo Spacelab para Spacelab Life Sciences 1 (SLS-1), la quinta misión Spacelab y la primera dedicada exclusivamente a la biología. El STS-40 fue el primer vuelo espacial en el que participaron tres tripulantes.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Aspectos destacados de la misión",
+      "nivel": 2,
+      "texto": "El lanzamiento se fijó originalmente para el 22 de mayo de 1991. La misión se aplazó menos de 48 horas antes del lanzamiento, cuando se supo que un transductor de hidrógeno líquido con fugas en el sistema de propulsión principal del orbitador, que fue retirado y reemplazado durante las pruebas de fugas en 1990, había fallado en un análisis realizado por un proveedor. Los ingenieros temían que uno o más de los nueve transductores líquidos de hidrógeno y oxígeno que sobresalían en líneas de combustible y oxidante pudieran romperse y ser ingeridos por las turbobombas del motor, causando un fallo del motor.\nAdemás, uno de los cinco ordenadores de propósito general del orbitador falló por completo, junto con uno de los demultiplexers multiplexores que controlaba la ordenanza hidráulica del orbitador y las funciones del Sistema de Maniobra Orbital / Sistema de Control de Reacción en el compartimento de popa.\nSe instalaron y probaron una nueva computadora de uso general y un desmultiplexador multiplexador. Un hidrógeno líquido y dos transductores de oxígeno líquido fueron reemplazados aguas arriba en el sistema de flujo de propulsante cerca del área de desconexión de 43 cm, que está protegido por una pantalla interna. Tres transductores de oxígeno líquido fueron reemplazados en el área del colector del motor, mientras que tres transductores de hidrógeno líquido fueron retirados aquí y las aberturas tapadas. El lanzamiento fue reiniciado a las 8:00 a.m. EDT, 1 de junio de 1991, pero pospuesto de nuevo después de varios intentos de calibrar la unidad de medición inercial 2 falló. La unidad fue reemplazada y reensayada, y el lanzamiento fue reprogramado para el 5 de junio de 1991. La misión comenzó con éxito el 5 de junio de 1991, a las 9:24:51 a.m. EDT y la misión tenían un peso de lanzamiento de 114290 kg. El lanzamiento también fue capturado en cámaras IMAX, y utilizado en la película documental de 2015 Journey to Space.\nFue la quinta misión dedicada a Spacelab, Spacelab Life Sciences-1, y la primera dedicada exclusivamente a las ciencias de la vida, utilizando el módulo habitable. La misión contó con las mediciones fisiológicas más detalladas e interrelacionadas en el espacio desde las misiones Skylab 1973-1974. Los sujetos involucrados fueron humanos, 30 roedores y miles de pequeñas jaleas lunares (Aurelia aurita). Los experimentos primarios SLS-1 estudiaron seis sistemas corporales; de 18 investigaciones, diez involucraron a humanos, siete a roedores y una medusa usada.\nSeis sistemas corporales investigados fueron cardiovasculares/cardiopulmonares (corazón, pulmones y vasos sanguíneos); renal/endocrina (rentos y órganos y glándulas que secretan hormonas); sangre (plasma de sangre); sistema inmunitario (glóbulos blancos); musculoesqueléticos (músculos y huesos); y neurovestibular (cerebros y nervios, ojos y oído interno). Otras cargas útiles fueron doce botes especiales de Escapada (GAS) instalados en el puente de GAS en la bahía de carga para experimentos en ciencia de materiales, biología vegetal y radiación cósmica (véase G-616); Experimento de Dinámica de ZeroGravity Middeck (MODE); y siete Experimentos de Orbiter (OEX).\nColumbia aterrizó el 14 de junio de 1991, a las 8:39:11 a.m. PDT, en la Pista 22, en la Base Aérea Edwards, California. Volvió a KSC el 21 de junio de 1991."
+    },
+    {
+      "titulo": "Llamadas de atención",
+      "nivel": 2,
+      "texto": "La NASA comenzó una tradición de tocar música a los astronautas durante el Proyecto Gemini, que se utilizó por primera vez para despertar a una tripulación de vuelo durante el Apollo 15. Cada pista es elegida especialmente, a menudo por las familias de los astronautas, y generalmente tiene un significado especial para un miembro individual de la tripulación, o es aplicable a sus actividades diarias."
+    }
+  ],
+  "num_palabras": 640
+}

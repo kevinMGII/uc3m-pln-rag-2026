@@ -1,0 +1,33 @@
+{
+  "titulo": "Pioneer 0",
+  "titulo_wikipedia_en": "Pioneer 0",
+  "fecha_lanzamiento": "1958-08-17",
+  "año_lanzamiento": 1958,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración lunar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Pioneer_0",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Destruida durante el lanzamiento",
+    "Operador": "NASA",
+    "Fecha de lanzamiento": "17 de agosto de 1958",
+    "Lugar de lanzamiento": "Cabo Cañaveral",
+    "Vehículo de lanzamiento": "Thor",
+    "ID NSSDC": "ABLE1",
+    "Masa en el lanzamiento": "38,1 kg"
+  },
+  "resumen": "La sonda Pioneer 0 (también conocida como Thor-Able) fue diseñada para orbitar la Luna y equipaba una cámara de TV y otros instrumentos científicos. Formó parte del primer Año Geofísico Internacional. Fue el primer intento de misión lunar estadounidense, y el primer objeto que intentó una órbita fuera de la terrestre. El 17 de agosto de 1958 resultó destruida como consecuencia de la explosión de la primera etapa del cohete Thor que iba a ponerla en órbita, 77 segundos tras el lanzamiento, a 16 km de altitud sobre el Atlántico. El fallo se cree que se debió a una ruptura de la línea de abastecimiento de oxígeno o a una turbobomba defectuosa. Se recibieron señales telemétricas erráticas desde la carga y las etapas posteriores durante 123 segundos tras la explosión, y dichas partes fueron obligadas a caer en el océano. El plan de la misión consistía en un viaje a la Luna de 2,6 días de duración. Al pasar ese tiempo, un cohete de propelente sólido TX-8-6 situaría a la nave en una órbita lunar de 29.000 km, donde permanecería 2 semanas.",
+  "secciones": [
+    {
+      "titulo": "Diseño",
+      "nivel": 2,
+      "texto": "La Pioneer 0 tenía una forma cilíndrica con dos conos truncados en cada extremo del cilindro. Dicho cilindro tenía 74 cm de diámetro y la distancia desde la tapa de un cono hasta la tapa del otro era de 76 cm. A lo largo del eje longitudinal del cilindro se situaba un cohete de propelente sólido con 11 kg de combustible, que formaba el cuerpo principal del vehículo. Ocho pequeños cohetes destinados a ajustes de velocidad se situaban en el extremo del cono superior. La carcasa estaba construida con plástico laminado y estaba pintada a franjas de color claro y oscuro para regular la temperatura interior.\nLos instrumentos científicos tenían una masa de 11,3 kg, y eran:\nUna cámara de televisión en infrarrojos para estudiar la superficie lunar,\nUn micrófono de diagragma para detectar posibles impactos de micrometeoritos\nUn magnetómetro\nTermómetros basados en resistencias (termistores) para registrar las condiciones en el interior de la nave.\nLa sonda obtenía su energía eléctrica de pilas de níquel-cadmio para el sistema de propulsión, pilas de óxido de plata para el sistema de televisión y pilas de mercurio para los circuitos restantes.\nLos sistemas de transmisión operaban a 108.06 MHz a través de una antena de dipolo eléctrico para la telemetría y otra de dipolo magnético para el sistema de televisión. Los comandos desde la Tierra los recibía una antena de dipolo eléctrico a una frecuencia de 115 MHz.\nLa Pioneer 0 estaría estabilizada por rotación a una velocidad de 1,8 rpm, en una dirección aproximadamente perpendicular a los planos meridionales geomagnéticos terrestres.\nSu nombre iba a ser Pioneer 1, pero el fallo de lanzamiento supuso que se llamase Pioneer 0."
+    }
+  ],
+  "num_palabras": 459
+}

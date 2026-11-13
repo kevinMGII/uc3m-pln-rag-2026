@@ -1,0 +1,39 @@
+{
+  "titulo": "Soyuz T-4",
+  "titulo_wikipedia_en": "Soyuz T-4",
+  "fecha_lanzamiento": "1981-03-12",
+  "año_lanzamiento": 1981,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Soyuz_T-4",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Masa en el lanzamiento": "6850 kg",
+    "Fecha de lanzamiento": "12 de marzo de 1981",
+    "Nave": "Soyuz T",
+    "Fecha de aterrizaje": "26 de mayo de 1981",
+    "Duración de la misión": "74,73 días",
+    "Programa": "Programa Soyuz",
+    "Misión anterior": "Soyuz T-3",
+    "Misión siguiente": "Soyuz 39"
+  },
+  "resumen": "Soyuz T-4 fue una misión espacial soviética tripulada realizada en una nave Soyuz T. Fue lanzada el 12 de marzo de 1981 desde el cosmódromo de Baikonur mediante un cohete Soyuz hacia la estación Salyut 6 con dos cosmonautas a bordo.\nLos objetivos de la misión consistieron en hacer reparaciones en la Salyut 6 y en realizar pruebas de los sistemas de a bordo durante un vuelo tripulado y durante el acoplamiento a la Salyut 6 y varios experimentos científicos.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Vladimir Kovalyonok (Comandante)\nViktor Savinykh (Ingeniero de vuelo)"
+    },
+    {
+      "titulo": "Tripulación de sustitución",
+      "nivel": 3,
+      "texto": "Vyacheslav Zudov (Comandante)\nBoris Andreyev (Ingeniero de vuelo)"
+    }
+  ],
+  "num_palabras": 96
+}

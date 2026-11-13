@@ -1,0 +1,55 @@
+{
+  "titulo": "Expedición 37",
+  "titulo_wikipedia_en": "Expedition 37",
+  "fecha_lanzamiento": "2013-09-10",
+  "año_lanzamiento": 2013,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Expedición_37",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Fecha de inicio": "10 de septiembre de 2013",
+    "Misión anterior": "Expedición 36",
+    "Misión siguiente": "Expedición 38",
+    "Nave de llegada": "Soyuz TMA-09M\nSoyuz TMA-10M",
+    "Nave de regreso": "Soyuz TMA-09M\nSoyuz TMA-10M",
+    "Programa": "Programa de la ISS",
+    "Estación espacial": "Estación Espacial Internacional",
+    "Tipo de misión": "Expedición a la ISS",
+    "Fecha de fin": "10 de noviembre de 2013"
+  },
+  "resumen": "La Expedición 37 fue la 37.ª estancia de larga duración en la Estación Espacial Internacional, desarrollada entre septiembre de 2013 a noviembre de 2013. Integró a seis astronautas de Rusia, Estados Unidos e Italia, centró su labor en investigaciones sobre salud y biología",
+  "secciones": [
+    {
+      "titulo": "Propósito",
+      "nivel": 2,
+      "texto": "Remplazo de personal: Tanto la misión Soyuz TMA-09M, como la misión Soyuz TMA-10M formaron parte de la expedición 37 la cual remplazó la expedición 36\nInvestigación: En esta expedición se realizaron una gran variedad de investigaciones, que abarcaron desde estudios sobre salud, fisiología humana, biología y biotecnología y realizaron demostraciones de tecnología relacionadas con las ciencias de la Tierra y el espacio. Además, participaron en actividades educativas como El Programa de Experimentos de Vuelos Espaciales para Estudiantes"
+    },
+    {
+      "titulo": "Caminatas espaciales",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "9 de noviembre de 2013",
+      "nivel": 3,
+      "texto": "Nota: Aunque mucha gente atribuye esta caminata a la Expedición 38, en realidad fue realizada por los tripulantes rusos de la Soyuz TMA-10M, quienes participaron en la transición entre la Expedición 37 y la 38, lo que explica la confusión.\nDos astronautas rusos, Oleg Kotov y Serguéi Ryazanskiy, realizaron una caminata espacial de 5 horas y 50 minutos durante la cual pasaron el testigo olímpico como parte de un acto simbólico. Salieron del módulo Pirs a las 9:34 a. m. (EST) y comenzaron una sesión de fotos con la antorcha, la cual no estaba encendida.\nLa antorcha, había llegado a la estación dos días antes a bordo de una nave Soyuz junto a tres nuevos miembros de la expedición.\nTras completar las imágenes con la antorcha y guardarla de nuevo en el interior, Kotov y Ryazanskiy, se desplazaron al módulo Zvezda para seguir montando una plataforma y estación de trabajo instaladas parcialmente durante una caminata anterior en agosto. Añadieron pasamanos, retiraron un soporte de lanzamiento y prepararon la zona donde en diciembre se instalaría una cámara de alta resolución. Uno de los trabajos previstos, colocar un soporte para los pies, se pospuso por problemas de alineación.\nTambién desactivaron el experimento Radiometria, destinado a recopilar datos para estudios sísmicos el cual había sido instalado en 2011. Parte del desmontaje quedó pendiente para otra caminata.\nFuentes:"
+    },
+    {
+      "titulo": "Experimentos realizados",
+      "nivel": 2,
+      "texto": "Marcadores Salivales: La investigación consistió en la recolección de sangre, saliva y orina, así como en una evaluación de salud de seis sujetos antes, durante y después del vuelo espacial para determinar si hubo deterioro del sistema inmunitario. La investigación se diseño para determinar los efectos de la exposición prolongada a la microgravedad en proteínas, virus, propiedades antibacterianas de la saliva y marcadores sanguíneos.\nPerfil bioquímico: La investigación consistió en el análisis de las muestras recogidas en la investigación Marcadores Salivales, los resultados se almacenaron en una base de datos proporcionando perfiles metabólicos de los efectos de los vuelos espaciales en la fisiología humana.\nMedidas Corporales: La investigación consistió en la recopilación de datos de medidas corporales mediante imágenes digitales fijas y de vídeo, y una cinta métrica para medir la longitud, la altura, la profundidad y la circunferencia de todos los segmentos corporales (pecho, cintura, cadera, brazos, piernas, etc.) de los astronautas antes, durante y después del vuelo.\nExperimentos con NanoRacks: Once experimentos provienen del Programa de Experimentos Estudiantiles de Vuelos Espaciales, parte del Centro Nacional para la Educación en Ciencias de la Tierra y el Espacio. Las áreas de investigación incluyen resistencia antibacteriana, hidroponía, división celular, combinación de sustancias con oxígeno en microgravedad, crecimiento de semillas, fotosíntesis y el proceso de elaboración de alimentos en microgravedad.\nFuentes:"
+    },
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Fuentes\nNASA, ESA"
+    }
+  ],
+  "num_palabras": 566
+}

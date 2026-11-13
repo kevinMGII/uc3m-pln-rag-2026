@@ -1,0 +1,47 @@
+{
+  "titulo": "Soyuz MS-21",
+  "titulo_wikipedia_en": "Soyuz MS-21",
+  "fecha_lanzamiento": "2022-03-18",
+  "año_lanzamiento": 2022,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Soyuz_MS-21",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Regresada a Tierra",
+    "Tipo de misión": "Transporte de tripulación a la ISS",
+    "Operador": "Roscosmos",
+    "Duración planificada": "196 Días",
+    "Nave": "Soyuz MS Nº.750 S.P. Korolyov",
+    "Tipo de nave": "Soyuz MS 11F732A48",
+    "Fabricante": "Energiya",
+    "Fecha de lanzamiento": "18 de marzo de 2022 15:55 UTC",
+    "Vehículo de lanzamiento": "Soyuz 2.1a",
+    "Lugar de lanzamiento": "Baikonur, Sitio 31/6",
+    "Fecha de aterrizaje": "29 de septiembre de 2022, 10:57 UTC",
+    "Lugar de aterrizaje": "Estepa kazaja, Kazajistán",
+    "Tripulación": "Oleg Artemyev\nDennis Matveev\nSergei Korsakov",
+    "Expedición": "Expedición 67",
+    "Sistema de referencia orbital": "Órbita geocéntrica",
+    "Régimen orbital": "Órbita terrestre baja",
+    "Inclinación orbital": "51.66°",
+    "Acoplamiento": "objetivo acople: ISS | tipo acople: acople | puerto acople: Mod. prichal en el Nauka nadir | fecha acople: 18 de marzo de 2022, 19:12 UTC | fecha desacople: 29 de septiembre de 2022, 07:34 UTC",
+    "Programa": "Programa Soyuz",
+    "Misión anterior": "Soyuz MS-20",
+    "Misión siguiente": "Soyuz MS-22"
+  },
+  "resumen": "Soyuz MS-21 es el vuelo 149 tripulado de una misión de la nave rusa Soyuz. Se lanzó hacia la ISS, el 18 de marzo de 2022 con tres miembros de la tripulación de la Expedición 67 que comenzó el 30 de marzo de 2022 con el desacoplamiento de la Soyuz MS-19 y fue lanzada desde el cosmódromo de Baikonur.\nAnteriormente estuvo programada para el 30 de marzo pero fue trasladada en el manifiesto de vuelo provisional publicado por Roscosmos en el verano de 2020 al 18 de marzo de 2022.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "A fecha de otoño de 2020 se creía que esta misión podría significar la primera dentro de un nuevo acuerdo entre la NASA y Roscosmos para asegurar la presencia de miembros de la tripulación de ambos lados capaces de operar los respectivos segmentos orbitales de la estación durante expediciones de larga duración y que la SpaceX Crew-3 podría ser además el primer vuelo de un cosmonauta ruso en una Crew Dragon dentro de este acuerdo.\nEn mayo de 2021 Roscosmos anunció la tripulación de la misión integrada completamente por cosmonautas. En caso de que finalmente se hubiera alcanzado un acuerdo para que un astronauta de la NASA fuera incluido, la astronauta de la NASA, Loral O'Hara hubiera sustituido al cosmonauta Korsakov, cosa que finalmente no ocurrió."
+    }
+  ],
+  "num_palabras": 216
+}

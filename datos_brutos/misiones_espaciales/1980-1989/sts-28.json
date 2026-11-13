@@ -1,0 +1,54 @@
+{
+  "titulo": "STS-28",
+  "titulo_wikipedia_en": "STS-28",
+  "fecha_lanzamiento": "1989-08-08",
+  "año_lanzamiento": 1989,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/STS-28",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Otros nombres": "Sistema de Transporte Espacial-28\nSTS-28R",
+    "Tipo de misión": "Despliegue de satélites del Departamento de Defensa",
+    "Operador": "NASA",
+    "Distancia recorrida": "3400000 km",
+    "Órbitas completadas": "81",
+    "Masa en el aterrizaje": "90816 kg",
+    "Masa de la carga útil": "19600 kg",
+    "Tripulación": "Brewster H. Shaw; Richard N. Richards; James C. Adamson; David Leestma; Mark N. Marrón",
+    "Fecha de lanzamiento": "Agosto 8, 1989, 12:37:00 UTC (8:37 am EDT)",
+    "Lugar de lanzamiento": "Kennedy, LC-39B",
+    "Contratista del lanzamiento": "Rockwell Internacional",
+    "Fecha de aterrizaje": "13 de agosto de 1989, 13:37:08 UTC (6:37:08 am PDT)",
+    "Lugar de aterrizaje": "Edwards, Pista 17",
+    "Sistema de referencia orbital": "Órbita geocéntrica",
+    "Régimen orbital": "Órbita terrestre baja",
+    "Periapsis": "289 km",
+    "Apoapsis": "306 km",
+    "Inclinación orbital": "57.00°",
+    "Periodo orbital": "90,50 minutos",
+    "Instrumentos": "Distribución de la dosis de radiación en vuelo (IDRD); Sensación de la temperatura en el lado de Lee del transbordador (SILTS)",
+    "Programa": "Programa de transporte espacial",
+    "Misión anterior": "STS-30 (29)",
+    "Misión siguiente": "STS-34 (31)"
+  },
+  "resumen": "STS-28 fue la 30a misión del transbordador espacial de la NASA, la cuarta misión dedicada al Departamento de Defensa de los Estados Unidos (DoD) y el octavo vuelo del transbordador espacial Columbia. La misión comenzó el 8 de agosto de 1989 y viajó 3400000 km durante 81 órbitas de la Tierra, antes de aterrizar en la pista 17 de la Base de la Fuerza Aérea Edwards, California, el 13 de agosto de 1989. STS-28 fue también el primer vuelo de Columbias desde enero de 1986, cuando había volado STS-61-C, la misión que precedió directamente al desastre de Challenger de STS-51-L. Los detalles de la misión de STS-28 están clasificados, pero se cree que la carga útil fue el primer satélite de comunicaciones por relé SDS-2. La altitud de la misión fue de entre 295 km y 307 km.\nLa misión fue designada oficialmente STS-28R como la designación original de STS-28 pertenecía a STS-51-J, la 21a misión del transbordador espacial. La documentación oficial para esa misión contenía al designador STS-28 en todo momento. Dado que STS-51-L fue designado STS-33, los futuros vuelos con los designadores STS-26 a través de STS-33 requerirían la R en su documentación para evitar conflictos en el seguimiento de los datos de una misión a otra.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Resumen de la misión",
+      "nivel": 2,
+      "texto": "Transbordador espacial Columbia (OV-102) se levantó de Pad 39B, Complejo de Lanzamiento 39 en el Kennedy Space Center, Florida, el 8 de agosto de 1989. El lanzamiento tuvo lugar a las 8:37 a.m. EDT.\nDurante el STS-28, Colombia desplegó dos satélites: USA-40 y USA-41. Los primeros informes especularon que la carga útil primaria de STS-28 era un satélite de reconocimiento fotográfico avanzado KH-11. Informes posteriores, y observaciones de satélites amateurs, sugieren que USA-40 era en cambio un relé del Sistema de Datos de Satélites de segunda generación (SDS), similar a los que probablemente se lanzaron en STS-38 y STS-53. Estos satélites tenían el mismo diseño de autobús que los satélites LEASAT desplegados en otras misiones de transporte, y probablemente se desplegaron de la misma manera.\nLa misión marcó el primer vuelo de un cráneo humano de 5 kg, que sirvió como el elemento principal del \"Objetivo secundario detallado 469\", también conocido como el experimento de distribución de dosis de radiación a bordo (IDRD). Este experimento conjunto NASA/DoD fue diseñado para examinar la penetración de la radiación en el cráneo humano durante los vuelos espaciales. El cráneo femenino estaba sentado en una matriz plástica, representativa del tejido, y cortado en diez capas. Cientos de dosímetros termoluminiscentes fueron montados en las capas del cráneo para registrar los niveles de radiación a múltiples profundidades. Este experimento, que también voló en STS-36 y STS-31, fue localizado en los casilleros de la lanzadera en los tres vuelos, registrando niveles de radiación en diferentes inclinaciones orbitales.\nDurante el vuelo, la tripulación cerró un propulsor en el sistema de control de reacción (RCS) después de recibir indicaciones de una fuga. Un calentador RCS también falló durante el vuelo. El análisis posterior al vuelo de STS-28 descubrió un calentamiento inusual del sistema de protección térmica (TPS) durante la reentrada, causado por una transición temprana al flujo de plasma turbulento alrededor del vehículo. Un informe detallado identificó el relleno de huecos como la causa probable. Este material de relleno era el mismo que fue removido durante una caminata espacial durante el STS-114, el desastre del transbordador espacial después de Columbia Return to Flight Mission, en 2005.\nEl paquete de la cámara infrarroja de detección de temperatura del lado del transbordador Lee (SILTS) realizó su segundo vuelo a bordo de Columbia en esta misión. La vaina cilíndrica y los azulejos negros circundantes en el estabilizador vertical del orbitador albergaban un sistema de imagen, diseñado para trazar las condiciones termodinámicas durante la reentrada, en las superficies visibles desde la parte superior de la aleta de la cola. El sistema SILTS se utilizó para sólo seis misiones antes de ser desactivado, pero la cápsula permaneció durante la carrera de Columbias. El sistema de protección térmica de Columbia también se actualizó a una configuración similar como Discovery y Atlantis entre la pérdida de Challenger y STS-28, con muchas de las baldosas blancas LRSI reemplazadas por mantas aislantes de fieltro para reducir el peso y el tiempo de giro. Otra modificación menor que debutó en el STS-28 fue el movimiento del nombre de Columbia desde sus puertas de la bahía de carga útil hasta el fuselaje, permitiendo que el orbitador sea fácilmente reconocido mientras está en órbita.\nColumbia aterrizó en la Base Aérea Edwards, California, a las 9:37:08 a.m. EDT el 13 de agosto de 1989, después de una misión de 5 días, 1 hora y 8 segundos. Debido a un fallo en el software con los sensores de pesas sobre ruedas instalados en el tren de aterrizaje, la tripulación recibió instrucciones de aterrizar en la pista lo más suavemente posible. Esta instrucción resultó en una velocidad de aterrizaje de 154 kn, la más lenta de todo el programa de Shuttle por un amplio margen y apenas por encima de la velocidad de parada del Orbiter."
+    }
+  ],
+  "num_palabras": 841
+}

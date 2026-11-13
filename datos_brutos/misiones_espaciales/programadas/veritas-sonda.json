@@ -1,0 +1,41 @@
+{
+  "titulo": "VERITAS (sonda)",
+  "titulo_wikipedia_en": "VERITAS (spacecraft)",
+  "fecha_lanzamiento": "2032-11",
+  "año_lanzamiento": 2032,
+  "estado": "programada",
+  "tipo_mision": [
+    "Exploración de Venus"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/VERITAS_(sonda)",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Satélite orbital",
+    "Operador": "Laboratorio de Propulsión a Reacción / NASA",
+    "Fecha de lanzamiento": "Entre 2027 y 2031",
+    "Vehículo de lanzamiento": "Atlas V 411 o equivalente",
+    "Duración de la misión": "3 años planeados"
+  },
+  "resumen": "VERITAS (Venus Emitancia, Radio científica, InSAR, Topografía, y Esprectoscopia, por sus siglas en inglés) es una futura misión del Laboratorio de Propulsión a Reacción (LPR) de la NASA con el objetivo de mapear la superficie del planeta Venus en alta resolución. La combinación de topografía, espectroscopia de infrarrojo e imágenes de radar, proporcionará hallazgos sobre la historia tectónica y de cráteres de impacto en Venus, así como información sobre su gravedad, la geoquímica del planeta, el momento y los mecanismos del reavivamiento volcánico y los procesos del manto responsables de estos.\nEl 4 de noviembre de 2022, la NASA anunció el aplazamiento del lanzamiento de la misión de 2027 a 2031, citando problemas institucionales en el JPL que retrasaron el lanzamiento de Psyche. Después de la presión de los científicos planetarios, la NASA indicó que un lanzamiento en 2029 era una posibilidad.",
+  "secciones": [
+    {
+      "titulo": "Historial de propuestas",
+      "nivel": 2,
+      "texto": "VERITAS fue una de las docenas de propuestas presentadas en 2015 para convertirse potencialmente en la misión número 13 del Programa Discovery de la NASA. Suzanne Smrekar del Laboratorio de Propulsión a Chorro (LPR) de la NASA sería la investigadora principal y el JPL en sí, la agencia administradora. El 30 de septiembre de 2015, VERITAS fue seleccionada como una de las cinco finalistas. El 4 de enero de 2017, se seleccionaron otras dos propuestas para estudiar cuerpos pequeños, Lucy y Psyche, como las misiones Discovery 13 y 14, respectivamente.\nERITAS se propuso nuevamente para el programa Discovery en 2019 y se seleccionó para la financiación de la Fase A el 13 de febrero de 2020. El 2 de junio de 2021 fue seleccionado, junto con la sonda DAVINCI, para volar como una de las próximas misiones Discovery. Cada misión obtendrá aproximadamente 500 millones de dólares de financiación. VERITAS se planeó originalmente para ser lanzado entre los años 2028 y 2030. Sin embargo, el trabajo en la misión se suspendió en noviembre de 2022 y el lanzamiento se retrasó al menos tres años (no antes de 2031), después de que una revisión independiente de la misión Psyche encontró problemas institucionales importantes en la NASA y el JPL."
+    },
+    {
+      "titulo": "La misión",
+      "nivel": 2,
+      "texto": "VERITAS recopilará datos para ayudar a los científicos a responder tres preguntas principales sobre Venus:\n¿Cómo ha evolucionado su geología a lo largo del tiempo?\n¿Qué procesos geológicos ocurren actualmente en él?\n¿Ha habido agua en o cerca de su superficie?\nComprender la geología de Venus es de gran interés científico debido a sus similitudes con la Tierra. El tamaño, la edad y la composición de Venus son muy similares a los de la Tierra, pero su entorno es significativamente diferente y menos hospitalario para la vida. Comprender la evolución geológica de Venus, por lo tanto, ayudará a responder preguntas sobre la formación de planetas con condiciones para la vida tal y como la conocemos. Un paso clave para desarrollar una comprensión de esta evolución es una investigación de la geología actual de Venus. Los datos actuales son muy sugestivos de vulcanismo reciente y activo en Venus, pero el alcance de esta actividad volcánica no se conoce por completo. Además, se desconoce en qué medida el agua superficial estuvo históricamente presente en Venus y qué papel juega el agua subterránea en la geología moderna de Venus.\nVERITAS recopilará datos para ayudar a responder estas preguntas de varias maneras. Se obtendrán imágenes de alta resolución utilizando un radar de banda X configurado como un radar de apertura sintética interferométrica de un solo paso (InSAR). Estos datos de radar se combinarán con una capacidad de mapeo de emisividad de infrarrojo cercano (NIR) multiespectral . VERITAS cartografiará la topografía de la superficie con una resolución espacial de 250 m y una precisión vertical de 5 m, y generará imágenes de radar con una resolución espacial de 30 m. Estos datos de imágenes en alta resolución permitirán a los científicos ubicar erupciones volcánicas activas, comprender la edad y la composición de las características en la superficie del planeta y comprender mejor la geología general del planeta. El sistema de comunicación de la nave espacial también se utilizará para realizar un experimento científico de la gravedad para investigar las variaciones en el campo gravitatorio de Venus. El sistema de telecomunicaciones de la nave espacial se utilizará para mapear la fuerza de la gravedad en la superficie de Venus, proporcionando una resolución uniforme de más de 160 km. Los datos proporcionarán una estimación del tamaño del núcleo de Venus e información sobre las características topográficas que se encuentran debajo de la superficie del planeta."
+    },
+    {
+      "titulo": "La sonda",
+      "nivel": 2,
+      "texto": "ERITAS está diseñado para producir imágenes y topografía global de alta resolución de la superficie de Venus y producir los primeros mapas de deformación y composición de la superficie planetaria, la emisividad térmica y los campos de gravedad. A bordo de la nave espacial habrá dos instrumentos científicos, el Mapeador de emisividad de Venus y el Venus Interferometric Synthetic Aperture Radar (VISAR).\nVEM (Venus Emissivity Mapper) está diseñado para mapear la emisividad de la superficie usando seis bandas espectrales en cinco ventanas atmosféricas que es capaz de \"ver\" a través de las nubes. Será construido por el Centro Aeroespacial Alemán (DLR).\nVEM también lleva ocho bandas atmosféricas para la calibración y detección de vapor de agua cerca de la superficie.\nAdemás de estos dos instrumentos, la nave espacial también llevará el Reloj Atómico del Espacio Profundo-2 como carga útil secundaria. Este dispositivo es el sucesor de la carga útil del Reloj Atómico del Espacio Profundo utilizado en la misión STP-2 en junio de 2019, y está destinado a proporcionar una sincronización muy precisa para las misiones del espacio profundo."
+    }
+  ],
+  "num_palabras": 926
+}

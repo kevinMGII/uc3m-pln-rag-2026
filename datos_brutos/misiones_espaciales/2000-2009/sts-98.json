@@ -1,0 +1,56 @@
+{
+  "titulo": "STS-98",
+  "titulo_wikipedia_en": "STS-98",
+  "fecha_lanzamiento": "2001-02-07",
+  "año_lanzamiento": 2001,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/STS-98",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Lugar de lanzamiento": "KSC LC-39A",
+    "Fecha de lanzamiento": "7 de febrero de 2001, 06:13 p. m. EST",
+    "Nave": "Atlantis",
+    "Fecha de aterrizaje": "20 de febrero de 2001, 03:33 p. m. EST, Pista 22 Base Edwards",
+    "Duración de la misión": "12 días, 21 horas, 21 minutos y 0 segundos",
+    "Inclinación orbital": "51.6º",
+    "Distancia recorrida": "8500 millones de km.",
+    "Misión anterior": "STS-97",
+    "Misión siguiente": "STS-102",
+    "Programa": "Programa del Transbordador Espacial"
+  },
+  "resumen": "La STS-98 fue una misión del Transbordador espacial Atlantis el cual se acopló con, y entregó, el laboratorio espacial Destinity a la Estación Espacial Internacional. Todos los objetivos fueron realizados y el transbordador reingresó y aterrizó en la Base Edwards el 20 de febrero de 2001 sin complicaciones, después de 12 días en el espacio, de los cuales seis estuvieron acoplados a la EEI. Esta misión fue la más larga para el Transbordador Atlantis.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Kenneth Cockrell (4), Comandante\nMark Polansky (1), Piloto\nRobert Curbeam (2), Especialista de misión\nThomas Jones (4), Especialista de misión\nMarsha Ivins (5), Especialista de misión\nnúmero de vuelos que han realizado incluyendo esta misión."
+    },
+    {
+      "titulo": "Parámetros de la misión",
+      "nivel": 2,
+      "texto": "Masa:\nAl lanzamiento: 115 529 kg\nAl aterrizaje: 90 225 kg\nCarga: 14 515 kg\nPerigeo: 365 km\nApogeo: 378 km\nInclinación: 51.5°\nPeríodo: 92 min"
+    },
+    {
+      "titulo": "Acoplamiento con la EEI",
+      "nivel": 3,
+      "texto": "Acoplamiento: 9 de febrero de 2001, 16:51:00 UTC\nDesacoplamiento: 16 de febrero de 2001, 14:05:50 UTC\nTiempo acoplado: 6 días, 21 horas, 14 minutos, 50 segundos"
+    },
+    {
+      "titulo": "Paseos Espaciales",
+      "nivel": 3,
+      "texto": "Jones y Curbeam - EVA 1\nComienzo EVA 1: 10 de febrero de 2001 - 15:00 UTC\nFinal EVA 1: 10 de febrero - 23:24 UTC\nDuración: 7 horas, 34 minutos\nJones y Curbeam - EVA 2\nComienzo EVA 2: 12 de febrero de 2001 - 15:59 UTC\nFinal EVA 2: 12 de febrero - 22:49 UTC\nDuración: 6 horas, 50 minutos\nJones y Curbeam - EVA 3\nComienzo EVA 3: 14 de febrero de 2001 - 14:48 UTC\nFinal EVA 3: 14 de febrero - 20:13 UTC\nDuración: 5 horas, 25 minutos"
+    },
+    {
+      "titulo": "Resumen de la misión",
+      "nivel": 2,
+      "texto": "La tripulación continuó con la tarea de construir y complementar a la Estación Espacial Internacional entregando el laboratorio espacial Destinity. El transbordador estuvo seis días acoplado a la EEI mientras el Destinity se instalaba y se realizaban tres EVAs para completar esta fase de construcción. La misión ocurrió mientras la Expedición 1 esta a bordo de la estación."
+    }
+  ],
+  "num_palabras": 312
+}

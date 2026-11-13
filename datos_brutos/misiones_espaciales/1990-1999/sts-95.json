@@ -1,0 +1,108 @@
+{
+  "titulo": "STS-95",
+  "titulo_wikipedia_en": "STS-95",
+  "fecha_lanzamiento": "1998-10-29",
+  "año_lanzamiento": 1998,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/STS-95",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Investigación en biociencia\nAstronomía",
+    "Operador": "NASA",
+    "ID COSPAR": "1998-064A",
+    "Nº SATCAT": "25519",
+    "Distancia recorrida": "5800000 km",
+    "Duración de la misión": "9 días, 19 horas, 54 minutos, 2 segundos",
+    "Masa en el aterrizaje": "103322 kg",
+    "Masa de la carga": "11130 kg",
+    "Lugar de lanzamiento": "Kennedy LC-39B",
+    "Fecha de lanzamiento": "29 de octubre de 1998, 19:19:34 UTC",
+    "Fecha de aterrizaje": "7 de noviembre de 1998, 17:04 UTC",
+    "Lugar de aterrizaje": "Kennedy SLF Runway 33",
+    "Tripulación": "Curtis L. Brown Jr.; Steven W. Lindsey; Pedro Duque; Scott E. Parazynski; Stephen K. Robinson; Chiaki Mukai; John H. Glenn Jr.",
+    "Sistema de referencia orbital": "Geocéntrica",
+    "Régimen orbital": "LEO",
+    "Periapsis": "550 km",
+    "Apoapsis": "561 km",
+    "Periodo orbital": "96 min",
+    "Inclinación orbital": "28.45 grados",
+    "Programa": "Programa del transbordador espacial",
+    "Misión anterior": "STS-91",
+    "Misión siguiente": "STS-88"
+  },
+  "resumen": "La STS-95 fue una misión del programa del transbordador espacial lanzada desde el Centro Espacial Kennedy, Florida, el 29 de octubre de 1998, utilizando el orbitador Discovery. Fue el 25.º vuelo del Discovery y la 92.ª misión realizada desde el inicio del programa en abril de 1981. Fue una misión muy publicitada debido a la vuelta del ex astronauta del Programa Mercury y Senador de los Estados Unidos John H. Glenn Jr. al espacio para realizar su segundo vuelo espacial. A la edad de 77 años, Glenn se convirtió en la persona más vieja, hasta la fecha, en ir al espacio. Esta misión también destaca por inaugurar el ATSC y el estándar HDTV en Estados Unidos, con una cobertura del lanzamiento en directo de costa a costa. Como novedad, Pedro Duque se convirtió en el primer español en viajar al espacio.\nLos objetivos de la misión se centraban en la investigación en ciencias de la vida, utilizando el módulo Spacehab para realizar experimentos con el senador Glenn. Los objetivos científicos de esta misión no se limitaban a profundizar en el conocimiento del cuerpo humano, sino también a aumentar los conocimientos astronómicos con respecto al Sol, y cómo este afecta a la vida en la Tierra. El satélite Spartan 201 fue liberado por la tripulación, volando libre desde el transbordador, estudiando la aceleración del viento solar que se origina en la corona solar del Sol. La misión duró algo menos de diez días, y el Discovery completó su viaje aterrizando en la instalación de aterrizaje de transbordadores del Centro Espacial Kennedy.\nEl lanzamiento fue algo raro, ya que la previsión meteorológica oficial del 45.º Escuadrón Meteorológico era 100% favorable para el lanzamiento y para la instalación de aterrizaje del transbordador.\nBill Clinton se convirtió en el segundo presidente estadounidense en ejercicio que presenció el lanzamiento de un cohete, acompañado por su esposa Hillary en la azotea del edificio de ensamblaje de vehículos; y el único que asistió al lanzamiento de un transbordador (el presidente Richard Nixon presenció el lanzamiento del Apolo 12).",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Detalles de la misión",
+      "nivel": 2,
+      "texto": "Los objetivos principales incluían la realización de una variedad de experimentos científicos en el módulo presurizado Spacehab, el despliegue y la recuperación de la carga útil del Spartan, y las operaciones con el HST Orbital Systems Test (HOST) y el International Extreme Ultraviolet Hitchhiker (IEH) transportadas en la bahía de carga útil."
+    },
+    {
+      "titulo": "Spacehab",
+      "nivel": 3,
+      "texto": "El módulo Spacehab que voló en el STS-95 fue proporcionado por Spacehab, Inc., una empresa privada. El sistema Spacehab proporcionó un espacio de trabajo presurizado adicional para experimentos, carga y actividades de la tripulación. Los módulos Spacehab sirvieron para varias misiones científicas del transbordador y para varias misiones conjuntas del Shuttle-Mir.\nPara la misión STS-95, un módulo Spacehab voló en la parte delantera de la bahía de carga útil del Discovery, con la tripulación accediendo al módulo a través del sistema de túnel de la esclusa. Una variedad de experimentos patrocinados por la NASA, la Agencia Espacial Japonesa (NASDA) y la Agencia Espacial Europea (ESA) se centraron en las ciencias de la vida, las ciencias de la microgravedad y la tecnología avanzada durante el vuelo."
+    },
+    {
+      "titulo": "Spartan",
+      "nivel": 3,
+      "texto": "El satélite Spartan 201-5 se desplegó y recuperó utilizando el brazo mecánico del transbordador. Fue diseñado para investigar las condiciones físicas y los procesos de las capas exteriores calientes de la atmósfera del Sol, o corona solar. Mientras se desplegaba desde el transbordador, el Spartan recogía mediciones de la corona solar y del viento solar. La NASA esperaba que la información recopilada durante esta misión condujera a una comprensión mucho mejor de los vientos solares que influyen directamente en los satélites en órbita y en las condiciones meteorológicas en la Tierra, que a su vez repercuten en las comunicaciones televisivas y telefónicas. Este fue el quinto vuelo del Spartan, ya que voló por primera vez en la misión STS-56 en abril de 1993.\nEn su misión anterior, la STS-87 en noviembre de 1997, el Spartan desarrolló problemas poco después de ser desplegado desde el transbordador y tuvo que ser devuelto a la bahía de carga útil manualmente mediante una caminata espacial. Estos problemas se debieron al sistema de control de actitud para apuntar con precisión hacia los objetivos solares, por lo que el Spartan fue autorizado para ser utilizado de nuevo en el STS-95. Su misión era realizar con éxito los mismos experimentos del año anterior."
+    },
+    {
+      "titulo": "HOST",
+      "nivel": 3,
+      "texto": "El Hubble Orbital Systems Test (HOST) llevó a cabo experimentos para validar los componentes previstos para su instalación durante la tercera misión de servicio del Telescopio Espacial Hubble (STS-103) y para evaluar nuevas tecnologías en un entorno orbital terrestre. Hubo cuatro experimentos en la plataforma HOST. El sistema de refrigeración NICMOS permitió la verificación en gravedad cero de un refrigerador de ciclo Brayton con turbocompresor inverso, que permitía un funcionamiento más duradero que el sistema dewar utilizado en el Hubble en ese momento. El procesador 486 del HST permitió identificar cualquier pieza susceptible a la radiación en el procesador redundante DF-224 que se llevaría en la tercera misión de servicio, y demostrar las respuestas del hardware y el software a los Single Event Upsets (SEUs). Una grabadora de estado sólido comparó el funcionamiento en órbita de la grabadora de estado sólido de repuesto del vuelo con la unidad instalada en el Hubble. En la prueba de la línea de fibra óptica se utilizó el mismo flujo de datos de 4 kbit/s que se envió al Payload Data Interrogator (PDI) del orbitador y se dirigió a un ordenador portátil para su comparación posterior al vuelo."
+    },
+    {
+      "titulo": "IEH",
+      "nivel": 3,
+      "texto": "El International Extreme Ultraviolet Hitchhiker (IEH) consistía en una media docena de experimentos diferentes montados en una estructura de soporte que se transportaba en la bahía de carga útil del Discovery. Los seis experimentos que componían la carga útil del IEH eran el Solar Extreme Ultraviolet Hitchhiker (SEH), que obtenía flujos EUV y FUV que se requieren cuando se estudia la parte superior de la atmósfera de la Tierra; un UVSTAR diseñado para medir flujos EUV que podrían utilizarse para formar imágenes de fuentes de plasma extendidas (p.e. Júpiter, estrellas calientes, etc.); el STAR-LITE, que realizó observaciones de objetivos astrofísicos extendidos y difusos; el CONCAP-IV, diseñado para el crecimiento de películas delgadas mediante el transporte físico de vapor; el Petite Amateur Navy Satellite (PANSAT), gestionado por el Programa de Pruebas Espaciales del Departamento de Defensa de los Estados Unidos; el Space Test Program, que consistía en un pequeño satélite desplegable que almacenaba y transmitía comunicaciones digitales a las estaciones terrestres de PANSAT; y una carga del programa Getaway Special (GAS)."
+    },
+    {
+      "titulo": "Experimentos médicos con Glenn",
+      "nivel": 3,
+      "texto": "Según el New York Times, Glenn \"ganó su asiento en el vuelo del transbordador presionando a la NASA durante dos años para volar como conejillo de indias humano para estudios geriátricos\", que fueron las principales razones para su participación en la misión STS-95. Esta serie de experimentos realizados con Glenn durante la misión fue patrocinada por la NASA y el National Institute on Aging, y se basó en el hecho de que el proceso de envejecimiento y una experiencia de vuelo espacial comparten una serie de respuestas fisiológicas similares. Se esperaba que las investigaciones reunieran información que pudiera proporcionar un modelo para ayudar a los científicos a comprender el envejecimiento. Algunas de estas similitudes son la pérdida ósea y muscular, los trastornos del equilibrio y las alteraciones del sueño. Poco antes del vuelo, los investigadores se enteraron de que Glenn tuvo que ser descalificado de otro de los dos experimentos humanos prioritarios del vuelo (sobre los efectos de la melatonina) porque no cumplía una de las condiciones médicas del estudio; aun así, participó en otros dos experimentos sobre la monitorización del sueño y el uso de proteínas. Los datos proporcionados por Glenn durante esta misión se compararon con los obtenidos en la misión orbital Friendship 7 de Glenn en 1962."
+    },
+    {
+      "titulo": "Trivia",
+      "nivel": 3,
+      "texto": "Glenn fue la persona de mayor edad, y el tercer miembro del Congreso en activo, en volar al espacio. Le precedieron el senador estadounidense de Utah Jake Garn (STS-51-D) y el representante estadounidense (más tarde senador) de Florida Bill Nelson (STS-61-C). En ese momento, Glenn era el senador de mayor rango de Ohio. Otros astronautas que más tarde se dedicaron a la política son Harrison Schmitt (Apolo 17), que más tarde fue senador estadounidense de Nuevo México, Jack Swigert (Apolo 13), que fue elegido congresista por el estado de Colorado pero murió antes de jurar su cargo, y el senador estadounidense de Arizona Mark Kelly (STS-108, STS-121, STS-124 y STS-134).\nEn una repetición de su primer vuelo espacial, mientras estaba en órbita, Glenn fue saludado de nuevo por los ciudadanos de Perth y Rockingham en Australia. Dejaron sus luces privadas y municipales encendidas mientras el Discovery pasaba por encima, al igual que hicieron durante su vuelo Friendship 7.\nSe trata de la primera misión en la que un transbordador espacial (Discovery en esta misión) utiliza la insignia de la albóndiga en su marca, sustituyendo así al logotipo del gusano que tenían todos los orbitadores. El Endeavour, el Atlantis, y el Columbia también lo harían en sus respectivas misiones STS-88, STS-101, y STS-109. Los orbitadores Enterprise y Challenger no se vieron afectados por este cambio, ya que el Enterprise pasó a ser propiedad del Instituto Smithsoniano en 1985 y el Challenger fue destrozado en 1986."
+    },
+    {
+      "titulo": "Premio a la tripulación",
+      "nivel": 2,
+      "texto": "La tripulación de la STS-95 fue galardonada con el premio Douglas S. Morrow Public Outreach Award de la Space Foundation en 1999. El premio se concede anualmente a una persona u organización que haya hecho contribuciones significativas a la concienciación pública de los programas espaciales."
+    },
+    {
+      "titulo": "Anomalías",
+      "nivel": 2,
+      "texto": "La puerta del paracaídas de frenado se desprendió y cayó del orbitador al encender el motor principal. Hubo cierta preocupación por la idea de que el paracaídas de frenado pudiera desplegarse prematuramente antes del aterrizaje, por lo que se tomó la decisión de no utilizarlo durante el mismo. Los frenos de las ruedas y los frenos de velocidad fueron suficientes para que el Discovery se detuviera en la pista 33 de la instalación de aterrizaje de transbordadores.\nSe observó en órbita una fuga de RCS que salía de un propulsor de la cápsula del OMS izquierdo. Se utilizó una válvula de aislamiento para desactivar el chorro. El control de actitud se mantuvo gracias a la redundancia del sistema; había 44 chorros situados alrededor del orbitador."
+    },
+    {
+      "titulo": "Emisión inaugural de la TVAD",
+      "nivel": 2,
+      "texto": "El sistema de televisión de alta definición estadounidense Advanced Television Systems Committee (ATSC) se inauguró públicamente durante la cobertura en directo del despegue. La señal se transmitió de costa a costa, y fue vista por el público en centros científicos y otros teatros públicos especialmente equipados para recibir y mostrar la emisión. La emisión fue posible gracias a la Harris Corporation, que patrocinó el equipo necesario para transmitir y recibir la emisión. La emisión fue presentada por el antiguo presentador de CBS News Walter Cronkite, y el antiguo astronauta de la época del Gemini/Apollo Pete Conrad."
+    },
+    {
+      "titulo": "Llamadas para despertar",
+      "nivel": 2,
+      "texto": "La NASA había iniciado la tradición de poner música a los astronautas durante el programa Gemini, que se utilizó por primera vez para despertar a una tripulación de vuelo durante el Apolo 15. Cada pista se elige especialmente y a menudo tiene un significado particular para un miembro individual de la tripulación, o es de alguna manera aplicable a su situación."
+    },
+    {
+      "titulo": "Insignia de la misión",
+      "nivel": 2,
+      "texto": "La insignia de la misión STS-95 fue diseñada por la tripulación, y evoca los elementos científicos, de ingeniería e históricos del vuelo. Simboliza un estilizado transbordador espacial azul con serpentinas amarillas, rojas y azules que salen de su popa y que representan los beneficios globales de los experimentos científicos de la misión y los objetivos de ciencia solar del satélite Spartan. Una pequeña cápsula espacial del Mercury se dibuja orbitando al transbordador, mientras que la serpentina roja se extiende hacia el centro del transbordador para formar un \"7\". La cápsula y el número siete hacen referencia a la asociación histórica de Glenn con los astronautas del Mercury Seven y su nave espacial: todas las naves espaciales Mercury tripuladas tenían el \"7\" como parte de su nombre. Las cargas útiles de la misión -la ciencia de los materiales en microgravedad, la investigación médica para los seres humanos en la Tierra y en el espacio, y la astronomía- representan tres campos científicos principales y se simbolizan mediante la insignia con penachos de cohetes."
+    }
+  ],
+  "num_palabras": 2040
+}

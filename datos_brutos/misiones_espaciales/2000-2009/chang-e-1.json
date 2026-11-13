@@ -1,0 +1,29 @@
+{
+  "titulo": "Chang'e 1",
+  "titulo_wikipedia_en": "Chang'e 1",
+  "fecha_lanzamiento": "2007-10-24",
+  "año_lanzamiento": 2007,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración lunar",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Chang'e_1",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Destruida",
+    "Tipo de misión": "Sonda lunar",
+    "Operador": "Administración Espacial Nacional China",
+    "Fecha de lanzamiento": "24 de octubre de 2007",
+    "Sistema de referencia orbital": "Lunar",
+    "Programa": "Chino de Exploración Lunar",
+    "Misión anterior": "Chang'e 1",
+    "Misión siguiente": "Chang'e 2"
+  },
+  "resumen": "Chang'e 1 (Chino simplificado: 嫦娥一号; chino tradicional: 嫦娥一號; pinyin: Cháng'é Yī Hào) fue una sonda espacial no tripulada parte de la primera fase del Programa Chino de Exploración Lunar. La primera fase se llama \"Chang'e-1\". La sonda espacial fue bautizada en honor a la diosa China de la luna, Chang'e, que según la leyenda, voló a la Luna, y que cuenta con un cráter lunar bautizado con su nombre.\nEl lanzamiento de Chang'e-1 tuvo lugar el 24 de octubre de 2007 a las 10:05 horas UTC desde el Centro Espacial de Xichang usando el cohete Larga Marcha 3A.\nLa sonda entró en órbita lunar, según lo previsto, el 5 de noviembre. La misión de la sonda duró 16 meses, hasta el 1 de marzo de 2009, día en que se estrelló con la Luna.",
+  "secciones": [],
+  "num_palabras": 134
+}

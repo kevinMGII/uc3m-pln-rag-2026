@@ -1,0 +1,42 @@
+{
+  "titulo": "VSS Unity VF-01",
+  "titulo_wikipedia_en": "VSS Unity VF-01",
+  "fecha_lanzamiento": "2019-02-22",
+  "año_lanzamiento": 2019,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/VSS_Unity_VF-01",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Vuelo espacial suborbital tripulado",
+    "Operador": "Virgen Galáctica",
+    "Duración de la misión": "15 minutos",
+    "Apogeo suborbital": "89,99 km",
+    "Nave": "Unidad VSS",
+    "Tipo de nave": "SpaceShipDos",
+    "Fabricante": "Compañía de Naves Espaciales",
+    "Tripulación": "David Mackay; Mike Masucci; Beth Moses",
+    "Fecha de lanzamiento": "22 de febrero de 2019, 16:57 UTC",
+    "Lugar de lanzamiento": "Pista de Mojave 30",
+    "Desplegado desde": "VMS Eve",
+    "Fecha de aterrizaje": "22 de febrero de 2019, 17:23 UTC",
+    "Lugar de aterrizaje": "Pista de Mojave 30",
+    "Programa": "VSS Vuelos espaciales de la Unidad",
+    "Misión anterior": "VP-03",
+    "Misión siguiente": "Unidad 21"
+  },
+  "resumen": "VF-01 fue un vuelo espacial sub-orbital del SpaceShipTwo-class VSS Unity que tuvo lugar el 22 de febrero de 2019, pilotado por David Mackay y copilotado por Mike Masucci. Fue operado por Virgin Galactic, una empresa privada dirigida por Richard Branson que tiene la intención de realizar vuelos de turismo espacial en el futuro. Después de VSS Unity VP-03, VF-01 fue una demostración de la capacidad de la nave para transportar pasajeros. La entrenadora de astronautas jefe de Virgin Galactic, Beth Moses, actuó como pasajero de prueba, evaluando la experiencia para clientes potenciales.\nAl llegar a un apogeo de 55,92 millas, el vuelo satisfacía la definición de vuelo espacial de los Estados Unidos (50 millas), pero no alcanzaba la línea Kármán (100 kilómetros), la definición de la Federación Aérea Internacional. Fue el vuelo más alto de la Unidad y el SpaceShipDos.",
+  "secciones": [
+    {
+      "titulo": "Vuelo",
+      "nivel": 2,
+      "texto": "El 22 de febrero de 2019, la nave nodriza VMS Eve la llevó a volar en una configuración parasitaria. Poco antes de las 9 a.m., la unidad fue lanzada. Los pilotos Mackay y Masucci volaron Unity a un máximo de Mach de 3.04 a una altitud máxima de más de 55.9 millas. Esta altitud superó el límite de 50 millas utilizado en los Estados Unidos para denotar el límite de espacio, pero no alcanzó la línea de Kármán. Ambas naves aterrizaron a salvo después. Durante el vuelo, Moisés se desenganchó de su asiento y experimentó ingravidez. Según la convención de Estados Unidos, Moisés también fue la primera mujer a bordo de una nave espacial comercial.\nDespués de Unity 22 en 2021, cuando ocurrió un incidente de luz roja de advertencia, The New Yorker publicó un artículo revelando que Unity había sido dañada durante el vuelo VF-01: el pegamento que aseguraba el borde del estabilizador horizontal cedió. Todd Ericson, vicepresidente de seguridad y pruebas en Virgin Galáctica, dijo que estaba sorprendido de que los que estaban a bordo no hubieran sido asesinados, y finalmente renunció a su posición porque juzgó a la compañía para tomar la seguridad insuficientemente en serio."
+    }
+  ],
+  "num_palabras": 339
+}

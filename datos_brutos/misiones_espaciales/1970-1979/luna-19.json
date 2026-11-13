@@ -1,0 +1,51 @@
+{
+  "titulo": "Luna 19",
+  "titulo_wikipedia_en": "Luna 19",
+  "fecha_lanzamiento": "1971-09-28",
+  "año_lanzamiento": 1971,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración lunar",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Luna_19",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Órbita lunar",
+    "Operador": "Programa espacial soviético",
+    "ID COSPAR": "1971-082A",
+    "Nº SATCAT": "5488",
+    "Duración de la misión": "Entre 371 y 388 días (lanzamiento hasta el último contacto)",
+    "Tipo de nave": "E-8-LS",
+    "Fabricante": "GSMZ Lavochkin",
+    "Masa en seco": "5600 kg",
+    "Masa en el lanzamiento": "5600 kg",
+    "Instrumentos": "Sistema de imágenes\nEspectrómetro de rayos gamma\nRadioaltímetro\nDetectores de meteoritos\nMagnetómetro\nDetectores de rayos cósmicos\nDetectores de radiación",
+    "Fecha de lanzamiento": "28 de septiembre de 1971, 10:00:22 HUC",
+    "Vehículo de lanzamiento": "Proton-K/D",
+    "Lugar de lanzamiento": "Baikonur 81/24",
+    "Última señal": "1o de noviembre de 1972",
+    "Sistema de referencia orbital": "Selenocéntrico",
+    "Periapsis": "140 km",
+    "Apoapsis": "140 km",
+    "Inclinación orbital": "40,58 grados",
+    "Periodo orbital": "121,13 minutos",
+    "Excentricidad": "0.18",
+    "Datos interplanetarios": "tipo: orbitador | objeto: Lunar | órbitas: ~4,315 | fecha de llegada: 3 octubre 1971",
+    "Programa": "Programa Luna",
+    "Misión anterior": "Luna 18",
+    "Misión siguiente": "Luna 20"
+  },
+  "resumen": "Lugar de nacimiento: Luna 19 (alias Luna 19) Lunik 19) (serie E-8-LS), fue una misión espacial del programa Luna. Luna 19 amplió el estudio sistemático de los campos gravitacionales lunares y la ubicación de los mascones (concentraciones de masa). También estudió el ambiente de radiación lunar, la superficie lunar gamma-activa, y el viento solar. También se obtuvo cobertura fotográfica a través de un sistema de televisión.",
+  "secciones": [
+    {
+      "titulo": "Sinopsis",
+      "nivel": 2,
+      "texto": "Luna 19 fue el primero de los orbitadores lunares “avanzados” cuyo diseño se basó en\nel mismo autobús de clase Ye-8 utilizado para los rovers lunares y los colectores de muestras. Para estos orbitadores, designados Ye-8LS, la \"etapa de aterrizaje\" básica fue rematada por un marco sin ruedas Lunokhod-como que albergaba toda la instrumentación científica en un contenedor presurizado.\nLuna 19 fue lanzada en una órbita de estacionamiento de la Tierra el 28 de septiembre, del año 1971 y, desde esta órbita, fue enviada hacia la Luna. Luna 19 entró en una órbita alrededor de la Luna el 2 de octubre de 1971 después de dos correcciones a mitad de curso el 29 de septiembre y el 1 de octubre. Los parámetros orbitales iniciales fueron 140 x 140 kilómetros a 40,58° de inclinación.\nPoco después, la nave espacial comenzó su misión principal de imagen, proporcionando imágenes panorámicas de la región montañosa de la Luna entre 30° y 60° de latitud sur y entre 20° y 80° de longitud este. Otros experimentos científicos incluyeron extensos estudios sobre la forma y la fuerza del campo gravitacional lunar y las ubicaciones de los mascones. Los experimentos de ocultación en mayo y junio de 1972 permitieron a los científicos determinar la concentración de partículas cargadas a una altitud de 10 kilómetros. Estudios adicionales del viento solar se coordinaron evidentemente con los realizados por los orbitadores Marte 2 y 3 y Veneras 7 y 8. Las comunicaciones con Luna 19 se perdieron el 1o de noviembre de 1972, después de un año de operación y más de 4.000 órbitas alrededor de la Luna."
+    }
+  ],
+  "num_palabras": 334
+}

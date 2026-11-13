@@ -1,0 +1,26 @@
+{
+  "titulo": "Suisei (sonda espacial)",
+  "titulo_wikipedia_en": "Suisei (spacecraft)",
+  "fecha_lanzamiento": "1985-08-18",
+  "año_lanzamiento": 1985,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración de cometas",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Suisei_(sonda_espacial)",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {},
+  "resumen": "La Suisei (llamada antes de su lanzamiento PLANET-A) fue una sonda espacial japonesa lanzada el 18 de agosto de 1985 a bordo de un cohete M-3SII-2, desde el Centro Espacial de Kagoshima. Su lanzamiento fue responsabilidad del Institute of Space and Astronautical Science (ISAS), actualmente integrado en la JAXA.\nSu objetivo, como el de su sonda gemela, la Sakigake, era un encuentro cercano con el cometa Halley, siendo parte del grupo de cinco sondas llamado Armada del Halley que exploró el cometa en su última aproximación. El de 8 de marzo de 1986 la sonda llegó a su punto más próximo al cometa, que fue de 152.400 km.",
+  "secciones": [
+    {
+      "titulo": "Datos técnicos",
+      "nivel": 2,
+      "texto": "Peso de la sonda: 140 kg\nTipo de órbita: Heliocéntrica\nMínima distancia al cometa: 152.400 km."
+    }
+  ],
+  "num_palabras": 124
+}

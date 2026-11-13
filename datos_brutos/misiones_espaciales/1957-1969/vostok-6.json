@@ -1,0 +1,44 @@
+{
+  "titulo": "Vostok 6",
+  "titulo_wikipedia_en": "Vostok 6",
+  "fecha_lanzamiento": "1963-06-16",
+  "año_lanzamiento": 1963,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Vostok_6",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Lugar de lanzamiento": "Plataforma Gagarin, Cosmódromo de Baikonur",
+    "Masa en el lanzamiento": "4,713 toneladas",
+    "Fecha de lanzamiento": "16 de junio de 1963\n09:29:52 UTC\nBaikonur LC1",
+    "Nave": "Востоk-6 (Vostok-6)",
+    "Fecha de aterrizaje": "19 de junio de 1963\n08:20 UTC\n53° 16' N, 80° 27' E",
+    "Duración de la misión": "2 días, 22 horas y 50 minutos",
+    "Inclinación orbital": "64.9°",
+    "Órbitas completadas": "48",
+    "Apoapsis": "231 km",
+    "Periapsis": "180 km",
+    "Programa": "Programa Vostok",
+    "Misión anterior": "Vostok 5",
+    "Misión siguiente": "Voskhod 1"
+  },
+  "resumen": "Vostok 6 (en ruso: Восток-6) fue una cosmonave soviética tripulada, la última (tripulada) del programa Vostok.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Piloto: cosmonauta Valentina Vladimírovna Tereshkova, la primera mujer en volar al espacio.\nTripulación de respaldo: Irina Bayanovna Solovyova.\nTripulación de apoyo: Valentina Leonídovna Ponomariova."
+    },
+    {
+      "titulo": "El vuelo",
+      "nivel": 2,
+      "texto": "Este era un vuelo conjunto. En su primera órbita, la Vostok 6 se aproximó a casi cinco kilómetros de la Vostok 5 (pilotado por Valeri Bikovski), el punto más cercano alcanzado en el vuelo, y estableció el contacto por radio. Los objetivos del vuelo incluían: análisis comparativo de los efectos del vuelo espacial en el organismo de hombres y mujeres; investigación médico-biológica; desarrollo y mejora de los sistemas de la nave espacial bajo condiciones de vuelo conjunto. En este vuelo en particular fue solucionado de manera definitiva el problema de la alimentación de los cosmonautas.\nSe realizaron adaptaciones tanto al traje espacial como en la construcción de la nave de manera que estuvieran adaptados para el organismo femenino.\nLa mayor parte del tiempo los cosmonautas se ocuparon de los experimentos de radiocomunicación. Los cosmonautas mantenían un enlace con la Tierra a través de Onda Corta y ultracorta, y también mantenían el contacto radial entre ellos, coordinando las acciones y comparando los resultados de las observaciones.\nFue idea de Serguéi Koroliov, después del vuelo de Yuri Gagarin, el poner una mujer en el espacio como novedad. Nikita Jrushchov hizo la selección final de la tripulación.\nEste vuelo también fue usado con fines propagandísticos para mostrar los logros del socialismo, tanto por los alcances de la técnica espacial como para demostrar que en la URSS las mujeres tenían iguales posibilidades que los hombres. Sin embargo, pasaron 19 años antes que otra mujer soviética, Svetlana Savítskaya, volara al espacio."
+    }
+  ],
+  "num_palabras": 286
+}

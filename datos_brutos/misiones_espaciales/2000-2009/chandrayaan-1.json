@@ -1,0 +1,55 @@
+{
+  "titulo": "Chandrayaan-1",
+  "titulo_wikipedia_en": "Chandrayaan-1",
+  "fecha_lanzamiento": "2008-10-22",
+  "año_lanzamiento": 2008,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración lunar",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Chandrayaan-1",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Orbitador polar",
+    "Operador": "ISRO",
+    "Fecha de lanzamiento": "22 de octubre de 2008",
+    "Vehículo de lanzamiento": "PSLV",
+    "Duración de la misión": "Planeado: 2 años terrestres.\nTotal: 312 días.",
+    "ID NSSDC": "CHANDRYN1",
+    "Masa en el lanzamiento": "590 kg",
+    "Potencia": "Solar (750 W)",
+    "Excentricidad": "Circular",
+    "Periapsis": "~100 km",
+    "Apoapsis": "~100 km",
+    "Misión siguiente": "Chandrayaan-2",
+    "Datos interplanetarios": "tipo: orbitador | objeto: La Luna | fecha llegada: 28 de octubre de 2008"
+  },
+  "resumen": "Chandrayaan I (en Sánscrito चंद्रयान - \"Chandra\": Luna, \"Yaan\": vehículo) es un satélite de la Agencia India de Investigación Espacial (Indian Space Research Organization, ISRO) cuya misión se desarrolló en órbita polar en torno a la Luna. Esta misión incluyó cooperación de otras agencias espaciales como la Agencia Espacial Europea y la NASA. La sonda dejó de funcionar el 28 de agosto de 2009 después de un buen desempeño en el que cubrió un 95% de sus objetivos.\nEl satélite estaba equipado con instrumentos para obtener imágenes de la Luna en el espectro visible, infrarrojo cercano y rayos X. Durante 312 días estudió la superficie lunar y produjo un mapa completo de la topografía lunar en tres dimensiones, así como de sus características químicas. Hay especial interés en el estudio de las regiones polares, ya que se sospecha que pueden contener agua en forma de hielo.\nEl lanzador indio PSLV-C11, que transportó la sonda, despegó el 21 de octubre de 2008 desde el Centro espacial Satish Dhawan de Sriharikota, a las 6:22 de la mañana, hora local; el 8 de noviembre se situó en órbita en torno a la Luna, dejando caer el módulo de impacto lunar MIP (Moon Impact Probe) desde una distancia de 100 kilómetros el día 14 del mismo mes.",
+  "secciones": [
+    {
+      "titulo": "Datos técnicos",
+      "nivel": 2,
+      "texto": "La nave está formada por dos partes: un orbitador con un peso de 1304 kilogramos y un impactador, el cual fue diseñado para impactar la superficie de la Luna para analizar a los gases producidos por la colisión. El proyecto se planeó inicialmente para una duración aproximada de 2 años en órbita polar a unos 100 km de altura respecto a la superficie lunar.\nLa sonda está compuesta principalmente por doce instrumentos científicos. Algunos de ellos de nacionalidad propia y otros de origen internacional."
+    },
+    {
+      "titulo": "Instrumentos internacionales",
+      "nivel": 3,
+      "texto": "Sub-keV Atom Reflecting Analyzer (SARA), de origen europeo. Con él se estudió la composición superficial de la Luna.\nMoon Mineralogy Mapper (M3), de origen estadounidense. Se trata de un espectrómetro para analizar los minerales en la superficie lunar.\nS-Band MiniSAR: Se encargó de rastrear el posible hielo en los casquetes polares de la Luna.\nNear Infrared Spectrometer (SIR-2), de origen europeo. Inspeccionó los minerales de la superficie lunar, utilizando frecuencias infrarrojas.\nRadiation Dose Monitor (RDM), de origen búlgaro. Su misión fue de medir la radiación ambiental en la Luna."
+    },
+    {
+      "titulo": "Instrumentos nacionales indios",
+      "nivel": 3,
+      "texto": "Terrain Mapping Camera (TCM): se encargó de obtener fotografías pancromáticas con una resolución aproximada de cinco metros.\nLunar Laser Ranging Instrument (LLRI): mediante un láser, este instrumento determinó la topografía de la superficie.\nEnergy X-ray spectrometer (LEX): se encargó de detectar la presencia de ciertos minerales como el silicio, el aluminio, el magnesio, el carbono o el hierro, en una resolución máxima de diez kilómetros.\nHyper Spectral Imager (HySI): creó un mapa mineralógico en las bandas comprendidas entre cuatrocientos y seiscientos nm.\nMoon Impact Probe (MIP): se trata del impactador que acompañó al satélite para colisionar contra la superficie de la Luna y así estudiar los componentes del material eyectado."
+    },
+    {
+      "titulo": "Incidentes",
+      "nivel": 2,
+      "texto": "A principios de 2009 uno de los sensores de la sonda resultó quemado por la radiación solar, lo que provocó que los técnicos elevaran la órbita de Chandrayaan-1 a 200 km sobre la superficie lunar en lugar de los 100 km previstos.\nEl 28 de agosto de 2009 a las 20:00 GMT se perdió el contacto con la sonda, según declaraciones de la ISRO. La sonda funcionó por 312 días en órbita lunar y realizó 3400 órbitas alrededor de la misma cuando se anunció la pérdida del contacto por radio.\nEn septiembre de 2009, se anunció que la sonda india Chandrayaan-1, que orbitaba la Luna, detectó suelo húmedo en la superficie, confirmando la existencia de agua en su superficie."
+    }
+  ],
+  "num_palabras": 615
+}

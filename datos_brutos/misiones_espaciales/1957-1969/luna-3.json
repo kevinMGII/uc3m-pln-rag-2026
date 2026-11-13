@@ -1,0 +1,59 @@
+{
+  "titulo": "Luna 3",
+  "titulo_wikipedia_en": "Luna 3",
+  "fecha_lanzamiento": "1959-10-04",
+  "año_lanzamiento": 1959,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración lunar",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Luna_3",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Inactivo",
+    "Tipo de misión": "Ciencias planetarias\nSobrevuelo lunar",
+    "Operador": "URSS",
+    "Fabricante": "OKB-1",
+    "Fecha de lanzamiento": "4 de octubre de 1959 a ls 00:43:39.7 UTC",
+    "Vehículo de lanzamiento": "Luna 8K72",
+    "Duración planificada": "207 días",
+    "ID NSSDC": "1959-008A",
+    "Masa en el lanzamiento": "278.5 kg",
+    "Propulsión": "8 motores de nitrógeno",
+    "Excentricidad": "0.8379",
+    "Periapsis": "40,638 km",
+    "Apoapsis": "460,725 km",
+    "Inclinación orbital": "76.8°",
+    "Periodo orbital": "15 días",
+    "Instrumentos": "Yenisey-2 Cámara/procesador de película (fotografía lunar)",
+    "Datos interplanetarios": "tipo: orbitador | objeto: Tierra | fecha llegada: 6 de octubre de 1959, 14:16 UTC a una distancia de 6.200 km en el polo sur lunar\ntipo: acercamiento | objeto: Luna | fecha llegada: 6 de octubre de 1959, 14:16 UTC a una distancia de 6.200 km en el polo sur lunar"
+  },
+  "resumen": "Luna 3 (o E-2A) (en ruso: Луна-3) fue una sonda espacial soviética del Programa Luna, diseñada por el ingeniero Serguéi Koroliov. Lanzada el día 4 de octubre de 1959, fue la tercera sonda espacial enviada a la Luna, y esta misión fue una hazaña a principios de la exploración del Espacio exterior. Realizó las primeras fotografías de la cara oculta de nuestro satélite. A pesar de que envió imágenes de pobre calidad (especialmente si se comparan con los estándares posteriores), las históricas y nunca antes vistas imágenes de la cara oculta de la Luna causaron entusiasmo e interés cuando se publicaron en todo el mundo, creando un Atlas provisional de la cara oculta de la Luna después de mejorar dichas imágenes gracias a su procesamiento. Esta sonda espacial ha sido comúnmente llamado \"Lunik 3\", sobre todo en el mundo occidental debido a un error lingüístico de intentar asignar nombres con terminación -nik a los aparatos espaciales soviéticos (Lunik, Marsnik, Venusik...).\nEstas vistas mostraron un terreno montañoso, muy diferente al de la cara visible, y solo dos regiones oscuras y bajas que fueron nombradas Mare Moscoviense (Mar de Moscú) y Mare Desiderii (Mar del deseo). Se observó a posteriori que Mare Desiderii se compone de un mar pequeño, Mare Ingenii (Mar del Ingenio), y varios cráteres oscuros.",
+  "secciones": [
+    {
+      "titulo": "Misión",
+      "nivel": 2,
+      "texto": "Después de haber sido lanzada en un cohete desde el Cosmódromo de Baikonur en el sur de Kazajistán, la fase de liberación del Blok-E fue encendida por radio control para poner al Luna 3 en curso a la luna. El contacto por radio inicial con la frecuencia de la sonda mostró ser solo la mitad de fuerte de lo que se esperaba, mientras que su temperatura interna aumentaba. El eje de giro de la nave fue reorientado, y algunos de sus equipos fueron apagados, lo cual redujo la temperatura de 40 °C a cerca de 30 °C. A una distancia de 60.000 a 70.000 km de la luna, el sistema de orientación fue encendido y el sistema de rotación apagado. El punto inferior de la nave fue apuntado hacia el sol, el cual brillaba en la cara oculta de la luna.\nLa sonda rebasó el polo sur lunar (logrando su aproximación máxima inferior a 6.200 km a las 14:16 UT el 6 de octubre de 1959), continuando su camino hacia la cara oculta. El 7 de octubre, cuando la fotocélula ubicada en la parte superior de la sonda detectó el brillo solar en la cara oculta, inició la secuencia fotográfica. La primera fotografía fue tomada a las 03:30 UT a una distancia de 63.500 km de la luna, y la última fue tomada 40 minutos después a una distancia de 66.700 km\nSe tomaron un total de 29 fotografías, cubriendo el 70% de la cara oculta. Después de completar las fotografías la nave regresó a su sistema de rotación, pasando sobre el polo norte de la luna e iniciando el viaje de regreso a la Tierra. Los intentos de transmitir las imágenes a la Unión Soviética se iniciaron el 8 de octubre. Los primeros intentos no fueron satisfactorios dada la baja frecuencia de la señal. Mientras Luna 3 se acercaba a la Tierra, el 18 de octubre, transmitió un total de 17 fotografías visibles pero de baja calidad. El contacto con la sonda se perdió el 22 de octubre de 1959. Se cree que la sonda se quemó en la atmósfera de la Tierra en marzo o abril de 1960, pero también pudo haber sobrevivido y quedar en órbita hasta 1962."
+    },
+    {
+      "titulo": "Primera asistencia gravitatoria",
+      "nivel": 3,
+      "texto": "La maniobra de asistencia gravitatoria se utilizó por primera vez en 1959, cuando la Luna 3 fotografió la cara oculta de la Luna de la Tierra. Después del lanzamiento desde el Cosmódromo de Baikonur, Luna 3 pasó por detrás de la Luna de sur a norte y se dirigió de nuevo a la Tierra. La gravedad de la Luna cambió la órbita de la nave espacial; también debido al propia movimiento orbital de la Luna, el plano orbital de la nave espacial fue también modificado. La órbita de retorno se calculó de manera que la nave espacial pasó de nuevo sobre el hemisferio norte, donde se encuentran las estaciones de tierra soviéticas. La maniobra se basó en la investigación realizada bajo la dirección de Mstislav Keldysh en el Instituto Steklov de Matemáticas."
+    },
+    {
+      "titulo": "La nave",
+      "nivel": 2,
+      "texto": "La nave fue construida en aluminio, de forma cilíndrica con tapas hemisféricas. Medía 130 cm de longitud y 95 cm de diámetro. La parte superior contenía las antenas, la tapa de la cámara y los instrumentos científicos.\nLa parte de abajo contenía los paneles solares. El cilindro estaba cerrado herméticamente, y contenía los equipos electrónicos, cableado, persianas y un depósito de combustible. La parte inferior contenía los motores de propulsión, las antenas de cinta y el sistema de orientación. La masa de la nave era de 278,5 kg.\nLa energía fue obtenida mediante energía solar fotovoltaica, con varios paneles solares montados en la parte inferior y superior del cilindro, convirtiéndose el Luna 3 en la primera nave en operar con energía solar. La energía era almacenada en baterías de zinc-plata con capacidad de 6 Ah. La propulsión usaba 8 motores de nitrógeno para la posición de la nave, alimentados por un tanque de nitrógeno con presión de 150 atm, con un regulador para reducir la presión a 4 atm. Un ordenador a bordo controlaba la nave.\nLas comunicaciones se hacían a través de 4 antenas en la parte superior, que transmitían a 183,6 MHz y 2 antenas de cinta, en la parte inferior que transmitían a 39,986 MHz, usando un nuevo sistema de telemetría. Para determinar la orientación se usaron 3 giroscopios, un sensor de Luna, dos pares de motores de nitrógeno, células fotoeléctricas y 2 sensores solares.\nEl control térmico usó nitrógeno con presión de 1,3 atm en el interior de la nave, un ventilador para recircular el gas, y un motor para expulsar la temperatura excesiva. Varias persianas fueron usadas para el control de temperatura y protección contra los micrometeoritos. La nave fue mantenida a 25 °C.\nLos instrumentos científicos fueron: un contador Cherenkov, un contador de centelleo, tres contadores de descarga gaseosos y cuatro trampas de iones; así como cuatro contadores para detectar micrometeoritos de menos de 1 cm. También había un espectrómetro de masas en el exterior de la nave, pero es posible que no funcionara bien, ya que no hay datos aportados por el mismo. Estaba diseñado para detectar la atmósfera lunar."
+    },
+    {
+      "titulo": "Fotografía lunar",
+      "nivel": 2,
+      "texto": "El propósito de este experimento era obtener fotografías de la superficie lunar mientras la nave espacial sobrevolaba la Luna. El sistema de imágenes fue designado Yenisey-2 y consistía en una cámara *AFA-E1 de doble lente, una unidad de película con procesado automático y un escáner. Las lentes de la cámara eran de una longitud focal de 200 mm, f/5,6 de apertura y un objetivo de 500 mm, f/9,5. La cámara usaba película 35 mm Isochrome resistente a la radiación y a temperaturas extremas, con capacidad para tomar 40 imágenes. El objetivo de 200 mm estaba pensado para obtener la imagen del disco completo de la Luna mientras que el de 500 mm podría tomar una imagen de una región en la superficie. La cámara se fijó en la nave y su apuntamiento se logró mediante la rotación de la propia nave.\nLuna-3 fue el primer éxito de una nave espacial de estabilización en tres ejes. Durante la mayor parte de la misión, la nave estuvo en giro estabilizado, pero para la fotografía de la Luna, la nave espacial orientó uno de sus ejes hacia el Sol y usó luego una fotocélula para detectar la Luna y orientar las cámaras hacia ella. La detección de la Luna activó la apertura de la cubierta de la cámara y el inicio automático de la secuencia de fotografías. Las imágenes se alternan entre ambas cámaras durante la secuencia. Una vez completada la secuencia de fotografías la película se trasladó a un procesador de a bordo donde se reveló, fijó, y secó. A continuación, mediante comandos enviados desde la Tierra, se movió la película a un escáner donde un punto de luz producido por un tubo de rayos catódicos se proyectó a través de la película sobre un multiplicador fotoeléctrico. El punto exploraba la película y el fotomultiplicador convertía la intensidad de la luz que pasaba a través de la película en una señal eléctrica que se transmitía a la Tierra (a través de frecuencia modulada de vídeo analógica, similar a un facsímil). Una imagen podía ser escaneada con una resolución de 1000 líneas (horizontal) y la transmisión se podía hacer con el método SSTV (televisión de barrido lento) a grandes distancias de la Tierra, o a un ritmo más rápido desde localizaciones más cercanas.\nLa cámara tomó 29 fotos durante más de 40 minutos, el 7 de octubre de 1959, desde las 3:30 UT a las 04:10 UT, a distancias entre los 63.500 kilómetros y los 66.700 kilómetros por encima de la superficie, cubriendo el 70% de la cara oculta lunar. Diecisiete (también se dice que doce) de estas imágenes fueron transmitidas con éxito a la Tierra, y se publicaron seis (imágenes numeradas 26, 28, 29, 31, 32 y 35). Eran las primeras vistas que la humanidad contemplaba del hemisferio oculto de la Luna.\nEl sistema de imagen fue desarrollado por P.F. Bratslavets y por I.A. Rosselevich en el Instituto de Investigación Científica para la Televisión de Leningrado, y las imágenes enviadas fueron procesadas y analizadas por Iu.N. Lipskii y su equipo en el Instituto Astronómico Sternberg. La cámara AFA-E1 fue desarrollada y construida por la fábrica KMZ (Krasnogorskiy Mekhanicheskiy Zavod)."
+    }
+  ],
+  "num_palabras": 1603
+}

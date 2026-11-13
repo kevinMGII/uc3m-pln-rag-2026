@@ -1,0 +1,37 @@
+{
+  "titulo": "Spektr-RG",
+  "titulo_wikipedia_en": "Spektr-RG",
+  "fecha_lanzamiento": "2019-07-13",
+  "año_lanzamiento": 2019,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Telescopio espacial",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Spektr-RG",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Fecha de lanzamiento": "13 de julio de 2019",
+    "Lugar de lanzamiento": "Cosmódromo de Baikonur",
+    "Vehículo de lanzamiento": "Proton-M",
+    "Duración planificada": "6.5 años",
+    "Masa en el lanzamiento": "1100 kg"
+  },
+  "resumen": "Spektr-RG (ruso para Spectrum (espectro electromagnético) + Röntgen (rayos X) + Gamma (rayos Gamma)), también llamado Spectrum-X-Gamma, SRG, SXG, es un observatorio espacial rusoalemán lanzado el 13 de julio de 2019.",
+  "secciones": [
+    {
+      "titulo": "General",
+      "nivel": 2,
+      "texto": "El principal instrumento de la misión es eROSITA, construido por el Instituto Max Planck para Física Extraterrestre (MPE) en Alemania. Está diseñado para realizar un estudio de rayos X de 4 años, el primero en una banda de rayos X de hasta 10 keV de energía. Este estudio debería detectar muchos grupos nuevos de galaxias y núcleos galácticos activos. El segundo instrumento, ART-XC, es un telescopio de rayos X de alta energía ruso. Este instrumento y nave espacial se está construyendo bajo el liderazgo del Instituto Ruso de Investigación Espacial (IKI)."
+    },
+    {
+      "titulo": "Nave espacial",
+      "nivel": 2,
+      "texto": "El programa Spektr-RG fue reactivado en 2005, su construcción terminó en 2016, y a mediados de 2018 pasó las pruebas de integración. Fue lanzado el 13 de julio de 2019. El observatorio está integrado con un \"navegador\" de satélite explorador."
+    }
+  ],
+  "num_palabras": 162
+}

@@ -1,0 +1,41 @@
+{
+  "titulo": "STS-107",
+  "titulo_wikipedia_en": "STS-107",
+  "fecha_lanzamiento": "2003-01-16",
+  "año_lanzamiento": 2003,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/STS-107",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Lugar de lanzamiento": "KSC LC-39A",
+    "Fecha de lanzamiento": "16 de enero de 2003, 9:39 a. m. CST",
+    "Nave": "Columbia",
+    "Fecha de aterrizaje": "El Orbiter se desintegró durante la reentrada el 1 de febrero de 2003. El aterrizaje estaba previsto para las 8:16 a. m. CST del mismo día",
+    "Duración de la misión": "15 días, 22 horas, 20 minutos, 32 segundos",
+    "Inclinación orbital": "40,3 grados",
+    "Distancia recorrida": "6,59 millones de millas (10,6 millones de km)",
+    "Misión anterior": "STS-113",
+    "Misión siguiente": "STS-114",
+    "Programa": "Programa del Transbordador Espacial"
+  },
+  "resumen": "La misión STS-107 fue una misión fallida del transbordador espacial Columbia que terminó en tragedia cuando el transbordador se desintegró en su reentrada en la atmósfera terrestre el 1 de febrero de 2003 causando la muerte de toda la tripulación. La STS-107 había sido lanzada el 16 de enero anterior. La causa del accidente fue presumiblemente una pieza arrancada del escudo térmico del transbordador durante el lanzamiento. Esta pieza originó un pequeño agujero en el ala izquierda del transbordador. Durante la reentrada el ala dañada se sobrecalentó, rompiéndose y produciendo la pérdida total del control de la reentrada y la desintegración del vehículo.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "En su vuelo inaugural, el STS-107 llevaba en su carga:\nel SPACEHAB (doble módulo de investigación)\nel experimento Freestar (montado en un bastidor Programa Hitchhiker) y\nla paleta de duración extendida Orbiter.\nA bordo del Columbia había una copia de un dibujo de Petr Ginz, el redactor jefe de la revista Vedem, que representaba lo que él se imaginaba cuando tenía 14 años y era prisionero en un campo de concentración): que la Luna era la Tierra. La copia estaba en posesión de Ilan Ramon y se perdió en el accidente.\nEl piloto israelí Ilan Ramon fue uno de los pilotos que participaron en Bagdad (Irak) en la operación Ópera (7 de junio de 1981), en que murieron diez soldados iraquíes y un ingeniero civil francés."
+    },
+    {
+      "titulo": "Parámetros de la misión",
+      "nivel": 2,
+      "texto": "Masa:\nDel Orbiter al despegar: 119 615 kg\nDel Orbiter al aterrizar: 105 593 kg (14 023 kg de diferencia)\nCarga: 14 553 kg\nPerigeo: 270 km\nApogeo: 285 km\nInclinación: 39,0º\nVelocidad: -\nPeríodo: 90,1 minutos"
+    }
+  ],
+  "num_palabras": 266
+}

@@ -1,0 +1,42 @@
+{
+  "titulo": "Galactic 05",
+  "titulo_wikipedia_en": "Galactic 05",
+  "fecha_lanzamiento": "2023-11-02",
+  "año_lanzamiento": 2023,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Galactic_05",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Vuelo espacial suborbital tripulado",
+    "Operador": "Virgen Galáctica",
+    "Duración de la misión": "14 min y 20 segundos",
+    "Apogeo suborbital": "87,2 km",
+    "Nave": "Unidad VSS",
+    "Tipo de nave": "SpaceShipDos",
+    "Fabricante": "Compañía de Naves Espaciales",
+    "Tripulación": "Michael Masucci\nKelly Latimer\nColin Bennett\nAlan Stern\nKellie Gerardi\nKetty Maisonrouge",
+    "Fecha de lanzamiento": "2 de noviembre de 2023, 15:00 UTC",
+    "Lugar de lanzamiento": "Autopista del puerto espacial América 34",
+    "Desplegado desde": "VMS Eve",
+    "Fecha de aterrizaje": "2 de noviembre de 2023, 15:59 UTC",
+    "Lugar de aterrizaje": "Autopista del puerto espacial América 34",
+    "Programa": "VSS Vuelos espaciales de la Unidad",
+    "Misión anterior": "Galáctico 04",
+    "Misión siguiente": "Galáctico 06"
+  },
+  "resumen": "Galáctico 05 fue un vuelo espacial suborbital tripulado del SpaceShipTwo-class VSS Unity, que se lanzó el 2 de noviembre de 2023. Fue el quinto vuelo espacial comercial y el décimo vuelo espacial general de la compañía aeroespacial estadounidense Virgin Galactic.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "La tripulación de Galáctica 05 incluyó tres pasajeros privados y tres empleados de Virgin Galáctica.\nStern realizó estudios de la reacción del cuerpo humano a la gravedad cero usando un arnés de monitorización biomédica. También quería desarrollar la operación en el espacio de una cámara de alta tecnología particular que se planea utilizar en una misión de investigación astronómica en el futuro por la NASA. Su vuelo e investigación fueron financiados por Southwest Research Institute.\nGerardi voló la misión Galáctica 05 como especialista en carga útil haciendo investigación científica con Alan Stern, un pasajero privado también a bordo. A bordo, Gerardi llevó a cabo tres experimentos de fluidos biomédicos y termodinámicos en nombre del IIAS (Instituto Internacional de Ciencias Astronáuticas, centro privado de educación e investigación internacional). Gerardi operaba una célula de fluido diseñada para ayudar a predecir y controlar mejor la forma y ubicación del líquido dentro de un recipiente en microgravedad. También usó el dispositivo de biomonitorización Astroskin para recopilar una amplia gama de datos biométricos durante su vuelo. En un tercer experimento se estudió la resistencia a la insulina durante los vuelos espaciales, y Gerardi usó un monitor continuo de glucosa (CGM) para medir y almacenar las lecturas de glucosa. Su vuelo fue pagado por el IIAS y la investigación realizada fue desarrollada por el Consejo Nacional de Investigación de Canadá."
+    }
+  ],
+  "num_palabras": 264
+}

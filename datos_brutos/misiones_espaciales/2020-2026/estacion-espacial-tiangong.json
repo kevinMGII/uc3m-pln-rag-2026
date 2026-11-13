@@ -1,0 +1,113 @@
+{
+  "titulo": "Estación espacial Tiangong",
+  "titulo_wikipedia_en": "Tiangong space station",
+  "fecha_lanzamiento": "2021-04-29",
+  "año_lanzamiento": 2021,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada",
+    "Estación espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Estación_espacial_Tiangong",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estación": "Estación espacial Tiangong\n天宫空间站",
+    "ID COSPAR": "2021-035A",
+    "Nº SATCAT": "48274",
+    "Operadores": "CNSA",
+    "Lanzamiento": "29 de abril de 2021 (Tianhe)\n2022 (Wentian y Mengtian)",
+    "Plataforma lanzamiento": "Centro de Lanzamiento de Satélites de Wenchang\nSitio LC-1",
+    "Estado": "Activo",
+    "Masa": "100000 kg",
+    "Longitud": "20 m",
+    "Ancho": "4 m",
+    "Volumen": "110 m³",
+    "Periastro": "389.5 km",
+    "Apoastro": "395 km",
+    "Inclinación": "41.58°",
+    "Velocidad": "7.68 km/s",
+    "Período": "92.2 minutos"
+  },
+  "resumen": "Tiangong (chino: 天宫; pinyin: Tiāngōng; lit. 'Palacio celestial'), oficialmente la Estación Espacial Tiangong (chino: 天宫空间站), o también conocida como CSS (Estación Espacial China) por sus siglas en inglés, es la tercera estación espacial de la Administración Espacial Nacional China (CNSA) en la órbita baja de la Tierra entre 340 y 450 km sobre la superficie. Se trata de la primera estación espacial multimodular de larga duración de China y constituye el objetivo del \"Tercer Paso\" del Programa Espacial Tripulado de China. La Estación Espacial Tiangong tiene una masa de unas 100 toneladas, similar a la ya clausurada estación espacial soviética Mir y aproximadamente una quinta parte de la Estación Espacial Internacional.\nLa construcción de la estación descansa en la experiencia adquirida con sus precursoras, Tiangong-1 y Tiangong-2. El primer módulo, el módulo central Tianhe (\"Armonía de los Cielos\"), se lanzó el 29 de abril de 2021, seguido de múltiples misiones con y sin tripulación y dos módulos más que se lanzaron en 2022. Los dirigentes chinos esperan que las investigaciones realizadas en la estación mejoren la capacidad de los investigadores para llevar a cabo experimentos científicos en el espacio, más allá de la duración que ofrecen los actuales laboratorios espaciales de China.",
+  "secciones": [
+    {
+      "titulo": "Nomenclatura",
+      "nivel": 2,
+      "texto": "Deng Xiaoping decidió que los nombres utilizados en el programa espacial, antes todos elegidos a partir de la historia revolucionaria de la República Popular China, serían sustituidos por otros de carácter místico-religioso.\nEstos nombres poéticos continúan ya que la primera, la segunda, la tercera, la cuarta y la quinta sondas lunares chinas se llaman Chang'e en honor a la diosa de la Luna. El nombre \"Tiangong\" significa \"palacio celestial\".\nWang Wenbao, director de la Agencia Espacial Tripulada de China (CMSA), declaró en una conferencia de prensa en 2011: \"Teniendo en cuenta los logros del pasado y el brillante futuro, creemos que el programa espacial tripulado debería tener un símbolo más vivo, y que la futura estación espacial debería llevar un nombre rotundo y alentador. Ahora creemos que el público debe participar en los nombres y símbolos, ya que este gran proyecto aumentará el prestigio nacional y reforzará el sentimiento nacional de cohesión y orgullo\". Las imágenes del programa espacial chino han sido utilizadas por el Partido (gobierno) para reforzar su posición y promover el patriotismo desde finales de los años 50 y principios de los 60.\nEl 31 de octubre de 2013, la CMSA anunció los nuevos nombres para todo el programa:\nLos laboratorios espaciales precursores se llamarían Tiangong (chino simplificado: 天宫; chino tradicional: 天宮; pinyin: Tiān Gōng; lit. 'Palacio Celestial'), código TG. Tiangong-1 fue lanzado en 2011. Tiangong-2 se lanzó en 2016.\nLa gran estación espacial modular se llamaría también Tiangong, sin número.\nLa nave espacial de transporte de carga se llamaría Tianzhou (chino: 天舟; pinyin: Tiān Zhōu; lit. 'Nave Celestial'), código TZ. La primera misión Tianzhou 1 se lanzó con éxito y se desorbitó en 2017. La primera misión a la estación espacial, Tianzhou 2, voló el 29 de mayo de 2021. Posteriormente, Tianzhou 3 se lanzó el 20 de septiembre de 2021.\nEl módulo central de la estación espacial modular se llamaría Tianhe (chino: 天和; pinyin: Tiān Hé; lit. 'Armonía de los cielos'), código TH. Tianhe se lanzó con éxito el 29 de abril de 2021.\nEl Módulo Experimental Modular de la Estación Espacial I se llamaría Wentian (chino simplificado: 问天; chino tradicional: 問天; pinyin: Wèn Tiān; lit. 'Búsqueda de los cielos'), código WT. Lanzamiento previsto para mayo-junio de 2022.\nEl Módulo Experimental Modular de la Estación Espacial II se llamaría Mengtian (chino simplificado: 梦天; chino tradicional: 夢天; pinyin: Mèng Tiān; lit. 'Soñar con los cielos'), código MT. Lanzamiento previsto para agosto-septiembre de 2022.\nEl módulo del telescopio espacial separado se llamaría Xuntian (chino: 巡天; pinyin: Xún Tiān; lit. 'Recorrido por los cielos'), código XT (telescopio), recibiendo el nombre previsto anteriormente para el Módulo Experimental II. Lanzamiento previsto para 2024."
+    },
+    {
+      "titulo": "Estructura",
+      "nivel": 2,
+      "texto": "La estación será estación espacial modular de tercera generación. Las estaciones de primera generación, como Salyut, Almaz y Skylab eran estaciones de una sola pieza y no estaban diseñadas para el reabastecimiento. Las de segunda generación, Salyut 6 y 7 y Tiangong 1 and 2, están diseñadas para el reabastecimiento a mitad de la misión. Estaciones de la tercera generación como Mir, la Estación Espacial Internacional, OPESEK y esta son estaciones espaciales modulares, puestas en órbita a partir de piezas lanzadas por separado. Los métodos de diseño modular pueden mejorar considerablemente la confiabilidad, reducir los costos, acortar el ciclo de desarrollo y cumplir con los requisitos de tareas diversificadas."
+    },
+    {
+      "titulo": "Intercambios tecnológicos",
+      "nivel": 3,
+      "texto": "El método de ensamblaje de la estación se puede comparar con la estación espacial soviética-rusa Mir y el segmento orbital ruso de la estación espacial internacional. Si se construye la estación, China será la segunda nación en desarrollar y utilizar la localización y el acoplamiento automáticos para la construcción de la estación espacial modular. La nave espacial Shenzhou y las estaciones espaciales usan un mecanismo de acoplamiento fabricado domésticamente similar o compatible con el adaptador de acoplamiento de diseño ruso APAS.\nDurante las cordiales relaciones chino-soviéticas de la década de 1950, la URSS realizó un programa cooperativo de transferencia de tecnología con China en el cual enseñaron a estudiantes chinos y proporcionaron al programa una muestra del cohete R-2.\nEl primero misil chino fue construido en 1958 con ingeniería inversa a partir del R-2 soviético, una versión mejorada del cohete alemán V-2. Pero cuando el primer ministro soviético Nikita Khrushchev fue denunciado como revisionista por Mao, la relación amistosa entre los dos países se convirtió en una confrontación. Como consecuencia, toda la asistencia tecnológica soviética se retiró bruscamente después de la ruptura sino-soviética de 1960.\nEl desarrollo de los cohetes Larga Marcha le permitió a China un lanzamiento comercial en 1985, que desde entonces ha lanzado más de 30 satélites extranjeros, principalmente de intereses europeos y asiáticos.\nEn 1994, Rusia vendió parte de su avanzada tecnología espacial y de aviación a los chinos. En 1995 un acuerdo se firmó entre dos países para la transferencia tecnológica de la nave rusa Soyuz a China. En el acuerdo se incluía entrenamiento, provisión de cápsulas Soyuz, sistemas de soporte vital, sistemas de acoplamiento y trajes espaciales. En 1996 dos astronautas chinos, Wu Jie y Li Qinglong, comenzaron a entrenar en el Centro de Entrenamiento Cosmonauta Yuri Gagarin en Rusia. Después del entrenamiento, los dos volvieron a China y procedieron a entrenar a otros astronautas chinos en sitios cerca de Pekín y Jiuquan. El hardware y la información vendida por los rusos llevaron a modificaciones de la nave Phase One, eventualmente llamada Shenzhou, que se puede traducir como «barco divino». Se construyeron nuevas instalaciones de lanzamiento en el sitio de lanzamiento de Jiuquan en Mongolia, y en 1998 se implementó una maqueta del vehículo de lanzamiento Long March 2F con la nave espacial Shenzhou para la integración y las pruebas de las instalaciones.\nUn representante del programa espacial tripulado chino afirmó que alrededor del año 2000, China y Rusia estaban realizando intercambios tecnológicos con respecto al desarrollo de un mecanismo de acoplamiento. El jefe adjunto de diseño, Huang Weifen, declaró que hacia fines de 2009, la agencia china comenzó a entrenar a los astronautas sobre cómo atracar naves espaciales."
+    },
+    {
+      "titulo": "Módulos",
+      "nivel": 3,
+      "texto": "El elemento base de la estación, Tianhe, proporciona soporte vital y viviendas para tres miembros de la tripulación, y provee orientación, navegación y control de orientación para la estación. El módulo también proporciona los sistemas de alimentación, propulsión y soporte vital de la estación. El módulo consta de tres secciones, viviendas, sección de servicio y un centro de acoplamiento. Las habitaciones contendrán una cocina y un baño, equipos de control de incendios, equipos de procesamiento y control atmosféricos, computadoras, aparatos científicos, equipos de comunicaciones para ver y escuchar el control terrestre en Beijing y otros equipos. En 2018 se presentó públicamente una maqueta de CCM a gran escala en la China International Aviation & Aerospace Exhibition en Zhuhai.\nEl primero de dos módulos de cabina de laboratorio proporcionará control adicional de aviónica, propulsión y orientación de navegación como funciones de respaldo para el CCM. Ambos MCM proporcionarán un entorno presurizado para que los investigadores realicen experimentos científicos en caída libre o microgravedad que no podrían realizarse en la Tierra durante más de unos pocos minutos. Los experimentos también se pueden colocar en el exterior de los módulos para la exposición al entorno espacial, los rayos cósmicos, el vacío y los vientos solares.\nAl igual que Mir y el segmento orbital ruso de la ISS, los módulos de la estación china se ensamblarán completamente en órbita, en contraste con los segmentos orbitales de Estados Unidos de la ISS, que requirió caminar por el espacio para interconectar cables, tuberías y elementos estructurales manualmente. El puerto axial de los LCM se equipará con equipo de encuentro y primero se acoplará al puerto axial del CCM. Un brazo mecánico similar al brazo Lyappa ruso utilizado en la estación espacial Mir luego moverá el módulo a un puerto radial del CCM."
+    },
+    {
+      "titulo": "Calendario",
+      "nivel": 3,
+      "texto": "En 2011, la estación tenía planeada ser ensamblada durante el 2020 al 2022. Para el 2013, el módulo principal de la estación tenía planeado ser lanzado antes, en 2018, seguido por el primer módulo de laboratorio en 2020, y el segundo en 2022. Para 2018 esto se había deslizado del 2020 al 2023.\nEl lanzamiento del módulo central fue realizado el 29 de abril de 2021."
+    },
+    {
+      "titulo": "Sistemas",
+      "nivel": 3,
+      "texto": ""
+    },
+    {
+      "titulo": "Eléctrico",
+      "nivel": 4,
+      "texto": "La potencia eléctrica es proporcionada por dos conjuntos de energía solar dirigibles en cada módulo, que utilizan células de energía solar fotovoltaica para convertir la luz solar en electricidad. La energía se almacena para alimentar la estación cuando pasa a la sombra de la Tierra. Las naves de reabastecimiento repondrán el combustible para los motores de propulsión de la estación para mantener la estación, para contrarrestar los efectos del arrastre atmosférico."
+    },
+    {
+      "titulo": "Acoplamiento",
+      "nivel": 4,
+      "texto": "Fuentes extranjeras han declarado que el mecanismo de acoplamiento se parece mucho al APAS-89/APAS-95, con una fuente estadounidense que va tan lejos como para llamarlo un clon. Ha habido afirmaciones contradictorias sobre la compatibilidad del sistema chino con los mecanismos de acoplamiento actuales y futuros en la ISS."
+    },
+    {
+      "titulo": "Operación",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Misiones tripuladas",
+      "nivel": 3,
+      "texto": "Las primeras misiones tripuladas a Tiangong, incluida su primera misión Shenzhou 12, que duró los 90 días previstos, utilizan la nave espacial Shenzhou. Las misiones posteriores, empezando por la Shenzhou 13, durarán 180 días, lo que se convertirá en la duración normal de las misiones en Tiangong.\nLa CNSA está probando una nave espacial con tripulación de próxima generación para reemplazar eventualmente a Shenzhou. Está diseñada para transportar astronautas a la estación espacial china y ofrecer la capacidad de exploración lunar. La nueva generación de naves de transporte de tripulación de China es reutilizable y cuenta con un escudo térmico desmontable construido para soportar retornos a altas temperaturas a través de la atmósfera terrestre. El nuevo diseño de la cápsula es más grande que la Shenzhou, según los funcionarios chinos. La nave es capaz de llevar astronautas a la Luna, y puede acomodar hasta seis o siete miembros de la tripulación a la vez, tres astronautas más que Shenzhou. La nueva nave tripulada tiene una sección de carga que permite a los astronautas traer carga a la Tierra, mientras que la nave de reabastecimiento de carga Tianzhou no está diseñada para traer ninguna carga a la Tierra."
+    },
+    {
+      "titulo": "Reabastecimiento de carga",
+      "nivel": 3,
+      "texto": "Tianzhou (nave celestial), un derivado modificado de la nave Tiangong-1, se utilizará como nave espacial de carga robótica para reabastecer esta estación. Se espera que la masa de lanzamiento de Tianzhou sea de unos 13.000 kg con una carga útil de unos 6.000 kg. El lanzamiento, el encuentro y el acoplamiento serán totalmente autónomos, con el control de la misión y la tripulación en funciones de control o supervisión. Este sistema se vuelve muy fiable con estandarizaciones que proporcionan importantes beneficios de costes en las operaciones rutinarias repetitivas. Un enfoque automatizado podría permitir el ensamblaje de módulos que orbitan otros mundos antes de las misiones con tripulación."
+    },
+    {
+      "titulo": "Seguridad",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Basura orbital",
+      "nivel": 3,
+      "texto": "La estación operará en la órbita baja terrestre, de 340 a 450 kilómetros sobre la Tierra, a una inclinación orbital de 42 a 43 grados, en el centro de la termosfera de la Tierra. A esa altitud hay una gran variedad de desechos espaciales, que consisten en muchos objetos diferentes, incluyendo etapas completas de cohetes gastados, satélites muertos, fragmentos de explosión, escamas de pintura, escoria de motores de cohetes sólidos, refrigerante liberado por los satélites de propulsión nuclear RORSAT y algunos grupos restantes de las 750 000 000 agujas pequeñas del proyecto militar estadounidense West Ford. Esos objetos, además de los micrometeoroides naturales, son una amenaza significativa. Los objetos grandes podrían destruir la estación, pero son una amenaza menor ya que sus órbitas pueden predecirse. Los objetos demasiado pequeños para ser detectados por los instrumentos ópticos y de radar, desde aproximadamente 1 cm hasta el tamaño microscópico, ascienden a trillones. A pesar de su pequeño tamaño, algunos de estos objetos siguen siendo una amenaza debido a su energía cinética y dirección en relación con la estación. Los trajes espaciales del equipo de caminatas espaciales se podrían pinchar, causando exposición al vacío.\nLos objetos de la basura espacial se rastrean de forma remota desde el suelo, y se puede notificar a los tripulantes de la estación. Esto permite que se realice una Maniobra de Evitación de Escombros (DAM), que utiliza propulsores en la estación para cambiar la velocidad orbital y la altitud, evitando los escombros. Los DAM se llevarán a cabo si los modelos computacionales muestran que los escombros se acercarán dentro de una cierta distancia de amenaza. Por lo general, la órbita se aumentará ahorrando combustible, ya que la órbita de la estación debe aumentarse periódicamente para contrarrestar los efectos del arrastre atmosférico. Si se identifica una amenaza de escombros orbitales demasiado tarde para que se lleve a cabo un DAM de manera segura, el equipo de la estación cierra todas las escotillas a bordo de la estación y se retira a su nave espacial Shenzhou, para que puedan evacuar en caso de que se dañe por la basura. El blindaje de micrometeorito se incorpora a la estación para proteger las secciones presurizadas y los sistemas críticos. El tipo y grosor de estos paneles varía según la exposición prevista a daños."
+    },
+    {
+      "titulo": "Radiación",
+      "nivel": 3,
+      "texto": "Las estaciones en la órbita terrestre baja están parcialmente protegidas del entorno espacial por el campo magnético de la Tierra. Desde una distancia promedio de aproximadamente 70000 km, dependiendo de la actividad solar, la magnetosfera comienza a desviar el viento solar alrededor de la Tierra y las estaciones espaciales en órbita. Sin embargo, las erupciones solares siguen siendo un peligro para la tripulación, que puede recibir solo unos minutos de advertencia. La tripulación de la ISS se refugió como medida de precaución en 2005 en una parte protegida más fuerte de esa estación diseñada para ese propósito durante la tormenta de protones inicial de una llamarada solar de clase X-3. Pero sin la protección limitada de la magnetosfera de la Tierra, la misión tripulada planificada de China a Marte está especialmente en riesgo.\nLas partículas subatómicas cargadas, principalmente protones de radiación cósmica y el viento solar, normalmente son absorbidas por la atmósfera de la Tierra, cuando interactúan en cantidad suficiente su efecto se hace visible a simple vista en un fenómeno llamado aurora boreal. Sin la protección de la atmósfera de la Tierra, que absorbe esta radiación, las cuadrillas de la estación están expuestas a aproximadamente 1 sievert cada día, lo que es casi lo mismo que alguien obtendría en un año en la Tierra, de fuentes naturales. Esto resulta en un riesgo de que los miembros de la tripulación desarrollen cáncer. La radiación puede penetrar en el tejido vivo y dañar el ADN, causando daño a los cromosomas de los linfocitos. Estas células son fundamentales para el sistema inmunitario y, por lo tanto, cualquier daño en ellas podría contribuir a la disminución de la inmunidad experimentada por la tripulación. La radiación también se ha relacionado con una mayor incidencia de cataratas en los astronautas. El blindaje protector y las drogas protectoras pueden reducir los riesgos a un nivel aceptable.\nLos niveles de radiación experimentados en la ISS son aproximadamente 5 veces mayores que los experimentados por los pasajeros y la tripulación de las aerolíneas. El campo electromagnético de la Tierra proporciona casi el mismo nivel de protección contra la radiación solar y de otro tipo en la órbita baja terrestre así como en la estratosfera. Los pasajeros de las aerolíneas, sin embargo, experimentan este nivel de radiación durante no más de 15 horas en los vuelos intercontinentales más largos. Por ejemplo, en un vuelo de 12 horas, un pasajero de una aerolínea experimentaría 0.1 milisievert de radiación, o una tasa de 0.2 milisieverts por día."
+    },
+    {
+      "titulo": "Cooperación internacional",
+      "nivel": 2,
+      "texto": "En 2011, se examinó la cooperación en el campo de los vuelos espaciales tripulados entre la CMSEO y la Agencia Espacial Italiana (ASI), la participación en el desarrollo de las estaciones espaciales tripuladas de China y la cooperación con China en campos como el vuelo de los astronautas y se discutió la investigación científica. Las áreas potenciales y las formas de cooperación futura en los campos del desarrollo de la estación espacial tripulada, la medicina espacial y la ciencia espacial también se discutieron durante la reunión.\nEl 22 de febrero de 2017, la Agencia Espacial Tripulada de China (CMSA) y la ASI firmaron un acuerdo para cooperar en actividades de vuelos espaciales humanos a largo plazo. Las consecuencias de este acuerdo podrían ser importantes, considerando, por un lado, la posición de liderazgo que Italia ha alcanzado en el campo del vuelo espacial humano con respecto a la creación y explotación de la Estación Espacial Internacional (Nodo 2, Nodo 3, Colón, Cúpula, Leonardo, Raffaello, Donatello, PMM, etc) y, por otro lado, el importante programa de vuelos espaciales humanos que China está desarrollando, especialmente con la creación de la estación espacial."
+    }
+  ],
+  "num_palabras": 2970
+}

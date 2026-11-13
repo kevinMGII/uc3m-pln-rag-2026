@@ -1,0 +1,21 @@
+{
+  "titulo": "Near-Earth Asteroid Scout",
+  "titulo_wikipedia_en": "Near-Earth Asteroid Scout",
+  "fecha_lanzamiento": "2022-11-16",
+  "año_lanzamiento": 2022,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración lunar",
+    "Exploración de asteroides y planetas menores",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Near-Earth_Asteroid_Scout",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {},
+  "resumen": "Near-Earth Asteroid Scout (NEA Scout) es una misión de bajo precio proyectada por la NASA, para desarrollar una satélite tipo CubeSat, cuyo objetivo es encontrarse con asteroides cercanos a la Tierra (NEA). El NEA Scout será uno de los 13 CubeSats que se transportarán con la misión Exploration Mission 1 a una órbita heliocéntrica en espacio cis-lunar en el vuelo inaugural del Sistema de Lanzamiento Espacial (SLS) programado para su lanzamiento en 2019. El principal objetivo previsto para la misión es 1991 VG, aunque puede ser cualquier otro dependiendo de la fecha de lanzamiento u otros factores. Después de ser desplegado en el espacio cislunar, NEA Scout realizará una serie de sobrevuelos lunares para conseguir una trayectoria óptima antes de comenzar su crucero de dos años.\nEl Centro Marshall de vuelos espaciales (MSFC) y el Laboratorio de Propulsión a Chorro (JPL) de la NASA están desarrollando conjuntamente esta misión con el apoyo del Centro de vuelo espacial Goddard de la NASA, el Centro Espacial Lyndon B. Johnson, el Langley Research Center y la Sede de la NASA. La investigadora principal es Julie Castillo-Rogez del JPL de la NASA.",
+  "secciones": [],
+  "num_palabras": 188
+}

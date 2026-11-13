@@ -1,0 +1,39 @@
+{
+  "titulo": "Soyuz T-12",
+  "titulo_wikipedia_en": "Soyuz T-12",
+  "fecha_lanzamiento": "1984-07-17",
+  "año_lanzamiento": 1984,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Soyuz_T-12",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Masa en el lanzamiento": "6850 kg",
+    "Fecha de lanzamiento": "17 de julio de 1984",
+    "Nave": "Soyuz T",
+    "Fecha de aterrizaje": "29 de julio de 1984",
+    "Duración de la misión": "11,8 días",
+    "Programa": "Programa Soyuz",
+    "Misión anterior": "Soyuz T-11",
+    "Misión siguiente": "Soyuz T-13"
+  },
+  "resumen": "Soyuz T-12 fue una misión espacial soviética tripulada realizada en una nave Soyuz T. Fue lanzada el 17 de julio de 1984 desde el cosmódromo de Baikonur mediante un cohete Soyuz hacia la estación Salyut 7 con tres cosmonautas a bordo. Fue la séptima expedición a esa estación espacial.\nLa tripulación llevó experimentos, correo y otras cargas a la Salyut 7. El 25 de julio Dzhanibekov y Savitskaya realizaron una actividad extravehicular de 3 horas y 30 minutos, durante la cual Savitskaya se convirtió en la primera mujer en realizar una caminata espacial.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Vladimir Dzhanibekov (Comandante)\nSvetlana Savítskaya (Ingeniero de vuelo)\nIgor Volk (Especialista científico)"
+    },
+    {
+      "titulo": "Tripulación de respaldo",
+      "nivel": 3,
+      "texto": "Vladimir Vasyutin (Comandante)\nYekaterina Ivanova (Ingeniero de vuelo)\nViktor Savinykh (Especialista científico)"
+    }
+  ],
+  "num_palabras": 117
+}

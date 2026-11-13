@@ -1,0 +1,70 @@
+{
+  "titulo": "STS-43",
+  "titulo_wikipedia_en": "STS-43",
+  "fecha_lanzamiento": "1991-08-02",
+  "año_lanzamiento": 1991,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/STS-43",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Otros nombres": "Sistema de Transporte Espacial-43",
+    "Tipo de misión": "Despliegue de satélites TDRS-E\nTecnología",
+    "Operador": "NASA",
+    "Distancia recorrida": "5955217 km",
+    "Órbitas completadas": "142",
+    "Masa en el lanzamiento": "117650 kg",
+    "Masa en el aterrizaje": "89239 kg",
+    "Masa de la carga útil": "21067 kg",
+    "Tripulación": "John E. Blaha; Michael A. Baker; Shannon Lucid; G. David Low; James C. Adamson",
+    "Fecha de lanzamiento": "2 de agosto de 1991, 15:02:00 UTC (11:02 am EDT)",
+    "Lugar de lanzamiento": "Kennedy, LC-39A",
+    "Contratista del lanzamiento": "Rockwell Internacional",
+    "Fecha de aterrizaje": "11 de agosto de 1991, 12:23:25 UTC (8:23:25 am EDT)",
+    "Lugar de aterrizaje": "Kennedy, SLF Runway 15",
+    "Sistema de referencia orbital": "Órbita geocéntrica",
+    "Régimen orbital": "Órbita terrestre baja",
+    "Periapsis": "301 km",
+    "Apoapsis": "306 km",
+    "Periodo orbital": "90,60 minutos",
+    "Inclinación orbital": "28.46°",
+    "Instrumentos": "Comunicaciones ópticas a través de Windows (OCTW); Experimento de combustión de superficie sólida (SSCE); Elemento avanzado de radiador de tuberías de calor de estación espacial (SHARE II); Transbordador de retrodispersión solar ultravioleta (SSBUV); Equipo de control de presión de tanques (TPCE)",
+    "Programa": "Programa de transporte espacial",
+    "Misión anterior": "STS-40 (41)",
+    "Misión siguiente": "STS-48 (43)"
+  },
+  "resumen": "STS-43, la novena misión del transbordador espacial Atlantis, fue una misión de nueve días cuyo objetivo principal era lanzar el satélite TDRS-E (TDRS-5). El vuelo también probó un radiador avanzado de tubo de calor para su posible uso en la estación espacial de entonces y llevó a cabo una variedad de investigaciones médicas y científicas de materiales.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Preparativos y lanzamiento",
+      "nivel": 2,
+      "texto": "El lanzamiento tuvo lugar el 2 de agosto de 1991 a las 15:02:00 UTC (11:02 am EDT, hora local en el sitio de lanzamiento). El lanzamiento se fijó originalmente para el 23 de julio de 1991, pero se trasladó al 24 de julio para dar tiempo a reemplazar un ensamblaje electrónico integrado defectuoso que controla la separación de los tanques orbitales y externos. La misión fue pospuesta de nuevo unas cinco horas antes del despegue el 24 de julio de 1991, debido a un controlador principal defectuoso en el motor principal número tres. El controlador fue reemplazado y reensayado; el lanzamiento fue reiniciado para el 1 de agosto de 1991. Set de despegue para las 11:01 a.m. retrasado debido a la lectura de la válvula de ventilación de presión de cabina y pospuesto a las 12:28 p.m. debido a condiciones meteorológicas inaceptables de retorno al lugar de lanzamiento. El lanzamiento finalmente ocurrió el 2 de agosto de 1991, sin más demoras."
+    },
+    {
+      "titulo": "Aspectos destacados de la misión",
+      "nivel": 2,
+      "texto": "La carga útil primaria, TDRS-E, unida a una etapa superior inercial (IUS), fue desplegada unas seis horas en vuelo, y el IUS propulsó el satélite en órbita geosincrónica. TDRS-5 se convirtió en el cuarto miembro del grupo de TDRS en órbita. Las cargas útiles secundarias fueron el elemento avanzado del radiador de tuberías de calor de la estación espacial (SHARE II); el instrumento de ultravioleta de retrodispersión solar del transbordador (SSBUV); el equipo de control de la presión del tanque (TPCE) y las comunicaciones ópticas a través de Windows (OCTW). Otros experimentos incluyeron el experimento de fotografía auronal (APE-B) Protein Crystal Growth III (PCG Ill); Bioserve / Instrumentation Technology Associates Material Dispersion Apparatus (BIMDA); Investigaciones en el procesamiento de membranas de polímeros (IPMP); Space Aceleration Measurement System (SAMS); Solid Surface Combustion Experiment (SSCE); Ultraviolet Plume imager (UVPI); y el experimento del sitio óptico Maui de la Fuerza Aérea (AMOS).\nTDRS-E, que se convirtió en TDRS-5 en órbita, fue impulsado con éxito a la órbita geosincrónica a más de 32,000 millas (35400 km) sobre la Tierra por dos disparos del impulsor de la etapa superior inercial (IUS), el último de los cuales ocurrió aproximadamente 121⁄2 horas en la misión. TDRS entonces desplegó sus antenas y paneles solares, y la separación del IUS tuvo lugar menos de 45 minutos después.\nLa red de satélites TDRS proporciona el vínculo vital de comunicación entre la Tierra y las naves espaciales de órbita baja, como el transbordador espacial. Hasta el despliegue STS-43, había tres naves espaciales TDRS en órbita por encima del ecuador: dos estaban en la posición oeste sobre el Océano Pacífico, al suroeste de Hawai. TDRS-4 estaba en la posición este sobre la esquina noreste de Brasil. TDRS-B se perdió en el accidente de Challenger en 1986. Después de STS-43, los dos satélites en el oeste se convirtieron en piezas de repuesto en órbita; TDRS-5, después de la activación, salida y calibración, se convirtió oficialmente en el principal proveedor de servicios en la ubicación oeste el 7 de octubre de 1991. Estaba estacionado a 175° de longitud oeste.\nAnteriormente, las naves espaciales en órbita sólo podían comunicarse con la Tierra a la vista de una estación de rastreo terrestre, aproximadamente el 15 por ciento de cada órbita. La red TDRS permite la comunicación del 85% al 100% de una órbita, dependiendo de la altitud de la nave espacial.\nLa tripulación se mantuvo ocupada con la operación de experimentos variados durante el vuelo de nueve días. El experimento del elemento avanzado de radiador de la estación espacial (SHARE-II) probó un proceso de refrigeración natural para transferir energía térmica que podría servir como sistema de refrigeración para la Estación Espacial Libertad. El Experimento de Combustión de Superficie Sólida (SSCE) proporcionó algunas respuestas sobre cómo se comporta el fuego en la microgravedad. La tripulación también activó otros experimentos científicos de materiales previamente volados y participó en experimentos médicos en apoyo de vuelos de larga duración. Una prueba mostró que las fibras ópticas podían proporcionar enlaces de vídeo y audio entre la cubierta de vuelo y la bahía de carga útil.\nLos miembros de la tripulación en el espacio y los controladores de vuelo en tierra demostraron su ingenio cuando adaptaron una parte de la cámara para reemplazar una que no había sido empacada para la misión.\nLa misión también fue notable por ser la primera en enviar un correo electrónico desde el espacio. El 9 de agosto de 1991, los astronautas Lucid y Adamson usaron AppleLink para escribir un correo electrónico de un Macintosh Portable dirigido a Marsha S. Ivins en el Centro Espacial Johnson. El mensaje decía:\nLa tripulación experimentó algunos problemas menores, ninguno de ellos crítico para la seguridad o el éxito de la misión. Un sistema de refrigeración para la unidad auxiliar de energía (APU 2) no se pudo activar durante una prueba en órbita. La APU 2 es uno de los tres sistemas redundantes que proporcionan presurización hidráulica a los sistemas de dirección orbitales durante la entrada y el aterrizaje. La APU 2 todavía estaba disponible para su uso en el aterrizaje.\nAtlantis aterrizó el 11 de agosto de 1991, a las 8:23:25 a.m. EDT, en la pista 15, en el Centro Espacial Kennedy."
+    },
+    {
+      "titulo": "Mission insignia",
+      "nivel": 2,
+      "texto": "Según el kit oficial de prensa de la misión, la insignia STS-43 retrata la evolución y la continuidad del programa espacial estadounidense destacando treinta años de experiencia en vuelos espaciales tripulados estadounidenses, desde el Proyecto Mercurio hasta el Transbordador Espacial. La aparición del transbordador Atlantis de la configuración esbozada de la cápsula espacial Mercurio conmemora esta relación especial. La energía y el impulso del lanzamiento son transmitidos por las gradaciones de azul que marcan el ascenso de la lanzadera de la Tierra al espacio. Una vez en la órbita terrestre, la bahía de carga de Atlantis se abre para revelar el Satélite de Seguimiento y Relé de Datos (TDRS), que aparece en énfasis dorado contra las alas blancas de Atlantis y la negrura del espacio. Como objetivo primordial de la misión, el Sistema de Satélites de Seguimiento y Retransmisión de Datos (TDRSS) permitirá la comunicación casi continua de la Tierra al espacio para futuras misiones espaciales. Las estrellas de la insignia están dispuestas para sugerir la designación numérica de esta misión, con cuatro estrellas a la izquierda de Atlantis y tres a la derecha."
+    },
+    {
+      "titulo": "Llamadas de atención",
+      "nivel": 2,
+      "texto": "La NASA comenzó una tradición de tocar música a los astronautas durante el Proyecto Gemini, y primero usó música para despertar a una tripulación de vuelo durante el Apollo 15. Cada pista es elegida especialmente, a menudo por las familias de los astronautas, y generalmente tiene un significado especial para un miembro individual de la tripulación, o es aplicable a sus actividades diarias."
+    }
+  ],
+  "num_palabras": 1167
+}

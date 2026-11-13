@@ -1,0 +1,59 @@
+{
+  "titulo": "Soyuz MS-26",
+  "titulo_wikipedia_en": "Soyuz MS-26",
+  "fecha_lanzamiento": "2024-09-11",
+  "año_lanzamiento": 2024,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Soyuz_MS-26",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Regresada",
+    "Tipo de misión": "Transporte de tripulación a la ISS",
+    "Operador": "Roscosmos",
+    "Duración planificada": "202 Días",
+    "Nave": "Soyuz MS-26 N° 757",
+    "Tipo de nave": "Soyuz MS 11F732A48",
+    "Fabricante": "Energiya",
+    "Tripulación": "Aleksey Ovchinin; Ivan Vagner; Donald Pettit",
+    "Indicativo": "Burlak",
+    "Expedición": "Expedición 71/72",
+    "Fecha de lanzamiento": "11 de septiembre de 2024 16:23 UTC (21:23 AQTT)",
+    "Vehículo de lanzamiento": "Soyuz 2.1a",
+    "Lugar de lanzamiento": "Baikonur, Sitio 31/6",
+    "Contratista del lanzamiento": "Progress",
+    "Fecha de aterrizaje": "20 de abril de 2025 06:20 UTC",
+    "Lugar de aterrizaje": "Estepa kazaja, Kazajistán",
+    "Sistema de referencia orbital": "Órbita geocéntrica",
+    "Régimen orbital": "Órbita terrestre baja",
+    "Inclinación orbital": "51,66°",
+    "Acoplamiento": "objetivo acople: ISS | tipo acople: Acople | puerto acople: MIM-2 Rassvet nadir | fecha acople: 11 de septiembre de 2024, 19:32:09 | fecha desacople: 19 de abril de 2025, 21:57",
+    "Programa": "Programa Soyuz",
+    "Misión anterior": "Soyuz MS-25",
+    "Misión siguiente": "Soyuz MS-27"
+  },
+  "resumen": "Soyuz MS-26 fue el 153.º vuelo tripulado de una misión de la nave rusa Soyuz. Su lanzamiento hacia la ISS, ocurrió el 11 de septiembre de 2024 a la Estación Espacial Internacional, para transportar parte de la tripulación de la Expedición 71/72, y realizó su regreso el 20 de abril de 2025.",
+  "secciones": [
+    {
+      "titulo": "Misión",
+      "nivel": 2,
+      "texto": "La Soyuz MS-26 fue un vuelo tripulado de una nave rusa Soyuz lanzada desde el Sitio 31/6 en el Cosmódromo de Baikonur. Su lanzamiento hacia la ISS, ocurrió el 11 de septiembre de 2024 a las 16:23 UTC.La misión transportó a 3 miembros permanentes de la Expedición 72, los cosmonautas de Roscosmos, Alekséi Ovchinin e Ivan Vagner, junto con el astronauta en activo de mayor edad de la NASA, Donald Pettit.\nCuando la nave espacial cruzó la línea de Karman poco después del lanzamiento, se batio el récord de personas en órbita alrededor de la tierra, siendo actualmente de 19 personas en órbita: 3 tripulantes de la misión MS-26, 3 tripulantes procedentes de la Shenzhou 18 en la estación espacial Tiangong de China, 4 personas en vuelo libre en la misión Polaris Dawn de SpaceX y los 9 miembros de la Expedición 71 a bordo de la Estación Espacial Internacional.\nEl 19 de diciembre de 2024, los dos cosmonautas, Alekséi Ovchinin e Ivan Vagner, realizaron su primera EVA, durante esta misón, la n.º 63 desde el segmento ROS de 7 horas y 17 minutos, en la que realizaron diferentes tareas de mantenimiento, como instalar un paquete de experimentos diseñado para monitorizar las fuentes de rayos X celestiales, el SPIN-X1 MVN en el módulo Zvezda y nuevos paneles de conexión de conectores eléctricos y retirar varios experimentos para su eliminación. Los dos cosmonautas también reubicaron un panel de control para el Brazo Robótico Europeo, ERA que está conectado al Módulo de Laboratorio multipropósito de Nauka. El cosmonauta de Roscosmos, Alexsandr Gorbunov, operó el brazo ERA durante la caminata espacial desde el interior de la estación.\nLa misión realizó su regreso el 20 de abril de 2025, después de la llegada de la Soyuz MS-27, el 8 de abril con la tripulación de relevo que formaran parte de la Expedición 73 y dando por finalizada la Expedición 72 y batiendo el record de permanencia anterior de la nave Soyuz, realizado por la Soyuz MS-23, lanzada en 2023, que estuvo 215 días y 11 horas en el espacio. La Soyuz MS-27 será la primera Soyuz que debe permanecer ocho meses (unos 245 días) acoplada a la ISS en vez de los habituales seis meses. De este modo, Roscosmos pretende reducir el número de lanzamientos de naves Soyuz de dos por año a tres cada dos años. La extensión de la vida útil de la Soyuz ha implicado certificar de nuevo varios sistemas de la nave para permitir una permanencia orbital más prolongada, con especial énfasis en los catalizadores de los propulsores SIO-S de la cápsula (SA), a base de peróxido de hidrógeno, empleados durante la reentrada."
+    },
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "En un principio antes de la avería de la Soyuz MS-22 en diciembre de 2022, la nave Soyuz MS-26 tenía asignado a tres cosmonautas para la Expedición 72. La avería provocó varios cambios respecto a las tripulaciones de la ISS. El primero de ellos, el traspaso de la tripulación de la Soyuz MS-23 a la Soyuz MS-24 prevista para septiembre de 2023, retrasando todas las subsiguientes tripulaciones que estaban previstas hasta la Soyuz MS-26 en septiembre de 2024.\nEl segundo cambio que provocó, el traspaso de la tripulación de la Soyuz MS-23 a la Soyuz MS-24, aparte del retrasó de todas las subsiguientes tripulaciones a la siguiente nave, fue que el viaje previsto de una cosmonauta de Bielorrusia en 2023, fuera pospuesto a marzo de 2024, que iba a ser acompañada por el cosmonauta Aleksey Ovchinin. El 22 de febrero de 2023 el director ejecutivo de Roscosmos para programas espaciales tripulados, Serguéi Krikaliov, anunció que el vuelo de una cosmonauta de Bielorrusia a la ISS, que estaba previsto inicialmente para septiembre de 2023, fue pospuesto para la primavera europea de 2024 en la Soyuz MS-25. En mayo de 2023 se eligió finalmente a la candidata a cosmonauta de Bielorrusia, la auxiliar de vuelo Marina Vasilévskaya y su suplente, la cirujana Anastasía Lenkova. Además se anunció que el cosmonauta que acompañaría finalmente a la cosmonauta Vasilévskaya en la MS-25 sería el veterano cosmonauta Oleg Novitskiy, también de origen bielorruso y su suplente el cosmonauta Iván Vágner, siendo reasignados los cosmonautas Aleksey Ovchinin y Oleg Platonov a esta misión MS-26 y volviendo a retrasarse nuevamente las 2 siguientes tripulaciones. Posteriormente después del lanzamiento de la Soyuz MS-25 en marzo de 2024, el cosmonauta Oleg Platonov, fue retirado de la tripulación de la futura Soyuz MS-26, por motivos médicos y sustituido por el cosmonauta Iván Vágner.\nEn abril de 2024 la NASA anunció que junto a los cosmonautas ya anunciados viajaría el astronauta de la NASA de mayor edad en activo Donald Pettit, quien se intercambió con el cosmonauta Alexander Grebyonkin, que viajó en la SpaceX Crew-8 gracias al intercambio de tripulación entre la NASA y Roscosmos con los miembros de la tripulación permanente de la Expedición 71 a la que debía pertenecer en principio el astronauta de la NASA de esta nave."
+    },
+    {
+      "titulo": "Tripulación situación original",
+      "nivel": 3,
+      "texto": "En un principio antes de la avería de la Soyuz MS-22, esta nave tenía asignados desde diciembre de 2022 a tres cosmonautas para la Expedición 72, que fueron trasladados a misiones posteriores, debido a diversos cambios en las tripulaciones."
+    }
+  ],
+  "num_palabras": 914
+}

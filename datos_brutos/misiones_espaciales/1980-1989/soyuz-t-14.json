@@ -1,0 +1,39 @@
+{
+  "titulo": "Soyuz T-14",
+  "titulo_wikipedia_en": "Soyuz T-14",
+  "fecha_lanzamiento": "1985-09-17",
+  "año_lanzamiento": 1985,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Soyuz_T-14",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Masa en el lanzamiento": "6850 kg",
+    "Fecha de lanzamiento": "17 de septiembre de 1985",
+    "Nave": "Soyuz T",
+    "Fecha de aterrizaje": "21 de noviembre de 1985",
+    "Duración de la misión": "64,91 días",
+    "Programa": "Programa Soyuz",
+    "Misión anterior": "Soyuz T-13",
+    "Misión siguiente": "Soyuz T-15"
+  },
+  "resumen": "Soyuz T-14 fue una misión espacial soviética tripulada realizada en una nave Soyuz T. Fue lanzada el 17 de septiembre de 1985 desde el cosmódromo de Baikonur mediante un cohete Soyuz hacia la estación Salyut 7 con tres cosmonautas a bordo.\nLa tripulación llevó experimentos, correo y otras cargas a la Salyut 7, mientras la Soyuz T-13 todavía permanecía acoplada a la estación. La duración de la misión, inicialmente planeada en seis meses, fue acortada debido al regreso de emergencia de la Soyuz T-14 por enfermedad de su comandante.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Vladimir Vasyutin (Comandante)\nGeorgi Grechko (Ingeniero de vuelo)\nAlexander Alexandrovich Volkov (Especialista científico)"
+    },
+    {
+      "titulo": "Tripulación de respaldo",
+      "nivel": 3,
+      "texto": "Aleksandr Viktorenko (Comandante)\nGennady Strekalov (Ingeniero de vuelo)\nYevgeni Saley (Especialista científico)"
+    }
+  ],
+  "num_palabras": 114
+}

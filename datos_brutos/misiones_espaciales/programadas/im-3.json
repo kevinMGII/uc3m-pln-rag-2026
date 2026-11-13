@@ -1,0 +1,54 @@
+{
+  "titulo": "IM-3",
+  "titulo_wikipedia_en": "IM-3",
+  "fecha_lanzamiento": "2027",
+  "año_lanzamiento": 2027,
+  "estado": "programada",
+  "tipo_mision": [
+    "Exploración lunar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/IM-3",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Alunizaje",
+    "Operador": "Intuitive Machines",
+    "Tipo de nave": "Nova-C",
+    "Fabricante": "Intuitive Machines",
+    "Fecha de lanzamiento": "Segunda mitad de 2026",
+    "Vehículo de lanzamiento": "Falcon 9 Block 5",
+    "Lugar de lanzamiento": "Cabo Cañaveral, SLC-40",
+    "Programa": "Intuitive Machines Nova-C",
+    "Misión anterior": "IM-2 (Athenea)",
+    "Misión siguiente": "IM-4",
+    "Programa (2)": "Servicios Comerciales de Carga Útil Lunar",
+    "Misión anterior (2)": "Blue Moon Pathfinder Mission 1",
+    "Misión siguiente (2)": "Blue Ghost Mission 2"
+  },
+  "resumen": "IM-3 es una misión robótica de vuelo espacial planificada por Intuitive Machines para su lanzamiento en la segunda mitad de 2026 para el programa CLPS de la NASA, utilizando un módulo lunar Nova-C. Entregará cargas útiles al remolino lunar en la región de Reiner Gamma.",
+  "secciones": [
+    {
+      "titulo": "Antecedentes",
+      "nivel": 2,
+      "texto": "La NASA seleccionó una misión Nova-C para la orden de tarea CP-11 del CLPS. En agosto de 2021, Intuitive Machines seleccionó a SpaceX para lanzar su tercera misión lunar, IM-3. A fecha 7 de enero de 2026, se espera que el lanzamiento del IM-3 tenga lugar en la segunda mitad de 2026. El módulo de aterrizaje realizará experimentos para investigar las propiedades del inesperado campo magnético que se ha detectado en las proximidades del remolino Reiner Gamma."
+    },
+    {
+      "titulo": "Hardware de misión",
+      "nivel": 2,
+      "texto": "Se anunció el lugar de aterrizaje Reiner Gamma para la primera oportunidad PRISM y se seleccionó la carga útil Lunar Vertex del Laboratorio de Física Aplicada de la JHU para realizar un análisis científico detallado de la superficie y el entorno superficial. David Blewett (APL) es el investigador principal y lidera el equipo científico. Lunar Vertex incluye elementos de carga útil en el módulo de aterrizaje Nova-C (magnetómetro APL, espectrómetro de plasma SwRI y matrices de cámaras Redwire) y en un rover de Lunar Outpost (magnetómetro APL e imager microscópico Canadensys). APL también proporcionó gestión general, ingeniería de sistemas, SMA e integración y pruebas de rovers.\nLas cargas útiles adicionales del IM-3 incluyen los rovers Cooperative Autonomous Distributed Robotic Explorers (CADRE), el MoonLIGHT Pointing Actuator (MPAc) de la ESA, el Lunar Space Environment Monitor (LUSEM), de KASI y el Vestri de AstroForge.\nEn 2024, el director ejecutivo de Intuitive Machines indicó que, además del módulo de aterrizaje, la misión IM-3 podría llevar un satélite de retransmisión de datos de órbita lunar. La NASA afirma: \"Los revelos lunares jugaran un papel esencial en la campaña Artemis de la NASA para establecer una presencia a largo plazo en la Luna\". Informes adicionales en 2025 indicaron que este trabajo se realizara bajo un contrato de Near Space Network Services que la NASA había adjudicado previamente a Intuitive Machines.\nEn diciembre de 2025, la organización financiada por la ASA Lunaria One fue aprobada para añadir la carga útil Australian Lunar Experiment Promoting Horticulture (ALEPH-1), que evaluará el crecimiento y la supervivencia de las plantas en el entorno lunar."
+    },
+    {
+      "titulo": "Eventos de la misión",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Antes del lanzamiento",
+      "nivel": 3,
+      "texto": "A enero de 2026, la misión está programada para su lanzamiento en la segunda mitad de 2026."
+    }
+  ],
+  "num_palabras": 403
+}

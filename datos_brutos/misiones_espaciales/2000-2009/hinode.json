@@ -1,0 +1,40 @@
+{
+  "titulo": "Hinode",
+  "titulo_wikipedia_en": "Hinode (satellite)",
+  "fecha_lanzamiento": "2006-09-22",
+  "año_lanzamiento": 2006,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión heliofísica",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Hinode",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Activo",
+    "Tipo de misión": "Observatorio espacial",
+    "Operador": "JAXA",
+    "Fecha de lanzamiento": "22 de septiembre de 2006",
+    "Configuración": "Cilíndrica",
+    "Propulsión": "Sin Propulsión",
+    "Sistema de referencia orbital": "Circular",
+    "Instrumentos": "SOT (Solar Optical Telescope)\nXRT (X-Ray Telescope)\nEIS (Extreme-ultraviolet Imaging Spectrograph)"
+  },
+  "resumen": "Hinode (amanecer en japonés), conocida antes del despegue como SOLAR-B, es una misión de la JAXA en colaboración con los Estados Unidos y el Reino Unido destinada al estudio del Sol. Sigue la estela de la misión Yohkoh (SOLAR-A) y fue lanzada en el vuelo final del cohete M-V desde el Centro Espacial de Uchinoura en Japón, el 22 de septiembre de 2006 a las 21:36 GMT (06:36 del 23 de septiembre JST). Su órbita inicial tenía un perigeo de 280 km, un apogeo de 686 km y una inclinación de 98,3 grados, aunque el satélite maniobró para alcanzar una órbita casi circular que le permitía una observación continua del Sol. El 28 de octubre de 2006 los instrumentos de la sonda capturaron sus primeras imágenes.",
+  "secciones": [
+    {
+      "titulo": "Instrumentos",
+      "nivel": 2,
+      "texto": "La Hinode lleva tres instrumentos principales para el estudio del Sol:\nSOT (Solar Optical Telescope): Un telescopio de medio metro para luz visible\nXRT (X-Ray Telescope):Para estudiar los componentes más calientes de la corona solar\nEIS (Extreme-ultraviolet Imaging Spectrograph): Para identificar los procesos responsables del calentamiento de la corona."
+    },
+    {
+      "titulo": "Misiones",
+      "nivel": 2,
+      "texto": "La sonda espacial está preparada para realizar estudios sobre el flujo de gas de hidrógeno (principalmente), este gas es expulsado por el sol en todas direcciones a una velocidad cercana a 1,6 millones de kilómetros por hora, conocido como viento solar. Otro objetivo es el de explicar las diferencias de temperatura que existen entre la superficie del Sol y su atmósfera (corona). Ambos estudios están relacionados por la amenaza en las telecomunicaciones, sistemas de navegación y las redes de suministro eléctrico en la Tierra que producen estos fenómenos."
+    }
+  ],
+  "num_palabras": 263
+}

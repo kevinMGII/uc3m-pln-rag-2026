@@ -1,0 +1,51 @@
+{
+  "titulo": "STS-3",
+  "titulo_wikipedia_en": "STS-3",
+  "fecha_lanzamiento": "1982-03-22",
+  "año_lanzamiento": 1982,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/STS-3",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Lugar de lanzamiento": "KSC LC-39A",
+    "Fecha de lanzamiento": "22 de marzo de 1982, 11:00:00 a. m. EST",
+    "Nave": "Columbia",
+    "Fecha de aterrizaje": "30 de marzo de 1982, 9:04:46 a. m. MST",
+    "Duración de la misión": "8 d 0 h 4 min 46 s",
+    "Inclinación orbital": "38,0 grados",
+    "Distancia recorrida": "3.334.904 millas (5.367.008 km)",
+    "Misión anterior": "STS-2",
+    "Misión siguiente": "STS-4",
+    "Programa": "Programa del Transbordador Espacial"
+  },
+  "resumen": "La misión STS-3 fue la tercera misión del transbordador espacial, y fue la tercera misión para el transbordador espacial Columbia. Fue el primer lanzamiento con el tanque externo sin pintar, y el único aterrizaje en la Base Espacial de White Sands en Las Cruces (Nuevo México).",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Jack Lousma (2), Comandante\nC. Gordon Fullerton (2), Piloto\n(1) número de vuelos espaciales hechos por cada miembro de la tripulación, hasta la fecha inclusive esta misión."
+    },
+    {
+      "titulo": "Tripulación de reserva",
+      "nivel": 3,
+      "texto": "Comandante de reserva: Thomas K. Mattingly\nPiloto de reserva: Henry W. Hartsfield Jr."
+    },
+    {
+      "titulo": "Parámetros de la misión",
+      "nivel": 2,
+      "texto": "Masa:\nOrbitador al despegue: 235 514 lb (106 782 kg)\nOrbitador al aterrizaje: 207 067 lb (93 924 kg)\nCarga DFI: 22 710 lb (10 301 kg)\nPerigeo: 150 mi (241 km)\nApogeo: 155 mi (249 km)\nInclinación: 38,0°\nPeríodo: 89,4 min"
+    },
+    {
+      "titulo": "Insignia de la misión",
+      "nivel": 2,
+      "texto": "La estrella de tres vértices en el fondo negro del parche de la misión identifica la designación numérica en la secuencia de misiones del sistema de transporte espacial."
+    }
+  ],
+  "num_palabras": 156
+}

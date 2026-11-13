@@ -1,0 +1,35 @@
+{
+  "titulo": "Apolo 7",
+  "titulo_wikipedia_en": "Apollo 7",
+  "fecha_lanzamiento": "1968-10-11",
+  "año_lanzamiento": 1968,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Apolo_7",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Lugar de lanzamiento": "Centro Espacial Kennedy, Florida\nLC 34",
+    "Masa en el lanzamiento": "CSM 14.781 kg",
+    "Fecha de lanzamiento": "11 de octubre de 1968\n15:02:45 UTC",
+    "Nave": "Módulo de mando:\nApolo 7",
+    "Fecha de aterrizaje": "22 de octubre de 1968\n11:11:48 UTC",
+    "Duración de la misión": "10 d 20 h 9 min 3 s",
+    "Periodo orbital": "89,78 min",
+    "Inclinación orbital": "31,63º",
+    "Órbitas completadas": "163",
+    "Apoapsis": "297 km",
+    "Periapsis": "231 km",
+    "Misión anterior": "Apolo 6",
+    "Misión siguiente": "Apolo 8",
+    "Programa": "Apolo"
+  },
+  "resumen": "Apolo 7 fue la séptima misión del programa estadounidense Apolo (denominado oficialmente AS-205), lanzado el día 11 de octubre de 1968 mediante un cohete del tipo Saturno IB y con la segunda tripulación compuesta por los astronautas Walter M. Schirra —comandante—, Donn F. Eisele y Walter Cunningham.\nLa nave fue puesta en una órbita de aparcamiento (entre 230 y 285 km de altura) y durante las 163 órbitas a la Tierra se comprobaron el funcionamiento de la cápsula espacial C.M. y del módulo de servicio, así como los sistemas de comunicaciones.\nTambién se probó un atraque espacial con la tercera fase del cohete Saturno, a la que se acercó hasta estar a unos 15 metros de distancia, simulando así la unión con el módulo lunar.\nDurante el vuelo se encendió el motor principal en ocho ocasiones para efectuar correcciones de trayectoria, y se realizó en directo la primera transmisión de las maniobras realizadas, que pudieron ver en nuestro planeta millones de personas.\nTras 10 días de misión, el amerizaje se efectuó el 22 de octubre de 1968 a menos de 15 kilómetros del lugar previsto para su descenso, a 7 mn (13 km) al norte del buque de recuperación designado, el USS Essex. El vuelo duró 260 horas, 8 minutos y 58 segundos.",
+  "secciones": [],
+  "num_palabras": 213
+}

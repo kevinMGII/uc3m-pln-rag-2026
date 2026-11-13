@@ -1,0 +1,64 @@
+{
+  "titulo": "Lunojod 1",
+  "titulo_wikipedia_en": "Lunokhod 1",
+  "fecha_lanzamiento": "1970-11-10",
+  "año_lanzamiento": 1970,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración lunar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Lunojod_1",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "astromóvil lunar",
+    "Operador": "URSS",
+    "Fecha de lanzamiento": "10 de noviembre de 1970",
+    "Lugar de lanzamiento": "Baikonur",
+    "Vehículo de lanzamiento": "Proton-K/D",
+    "Duración planificada": "302 días (Estacionado en )",
+    "ID NSSDC": "1970-095A",
+    "Masa en el lanzamiento": "756 kg (astromóvil )"
+  },
+  "resumen": "Lunojod 1 (en ruso: Луноход-1) es un vehículo controlado a distancia enviado a la Luna por la Unión Soviética en noviembre de 1970. Fue el primer aparato automático que se controló a distancia fuera de la Tierra, hecho que lo convierte en un logro histórico. El astromóvil recorrió más de 10 km entre el 17 de noviembre de 1970 y el 14 de septiembre de 1971, permaneciendo operativo durante más de 300 días hasta el agotamiento de su batería que se esperaba un periodo de apenas 90 días. El recorrido se realizó en una región de la Luna llamada Mare Imbrium, más específicamente en el Sinus Iridum.\nEl Lunojod I fue el primer vehículo del Programa Lunojod, que incluyó tres vehículos (el último no llegó a lanzarse). El 14 de septiembre de 1971 se recibió el último mensaje del Lunojod 1 y desde entonces no hubo más noticias directas del róver, hasta que el 18 de marzo de 2010 fue fotografiado por el satélite lunar LRO (de la NASA), pudiendo determinarse su localización con exactitud (coordenadas lunares -35,007964° de longitud y +38,315158° de latitud).",
+  "secciones": [
+    {
+      "titulo": "Descripción del vehículo",
+      "nivel": 2,
+      "texto": "Lunojod 1 era un vehículo lunar con ocho ruedas motrices independientes, formado por un compartimento en forma de bañera coronado con una gran tapa convexa. Su longitud era de 2,3 m. con un peso de 756 kg. Estaba equipado con una antena en forma de cono, una antena helicoidal altamente direccional, cuatro cámaras de televisión, y dispositivos extensibles especiales para realizar ensayos de la densidad y las propiedades mecánicas del suelo lunar. También se incluyó un espectrómetro de rayos X, un telescopio de rayos X, detectores de rayos cósmicos, y un dispositivo láser. El vehículo fue alimentado por baterías que se recargaban durante el día lunar mediante una matriz de células solares montadas en la parte inferior de la tapa. Para ser capaz de trabajar en el vacío, se utilizó un lubricante especial a base de fluoruros para las piezas mecánicas y los motores eléctricos (uno en cada cubo de la rueda), que estaban encerrados en compartimentos estancos presurizados.\nDurante las noches lunares, la tapa se cerraba, y una unidad de potencia alimentada por el radio isóptopo polonio-210 mantenía los componentes internos a su temperatura operativa. El Lunojod estaba previsto que funcionase durante tres días lunares (aproximadamente 3 meses en la Tierra), pero en realidad funcionó durante once días lunares."
+    },
+    {
+      "titulo": "Fabricación y diseño",
+      "nivel": 2,
+      "texto": "Su fabricación fue realizado en uno de los almacenes de la empresa rusa Uraltransmash, fabricante de tanques durante la Segunda Guerra Mundial. Fue un proyecto secreto de la URSS iniciado en 1964 para ser manipulado desde la tierra por control remoto a unos de distancia, el vehículo fue diseñado con ocho ruedas con un penetrómetro para medir la densidad de la tierra lunar alimentada por una batería de polonio 210 radiactivo y provisto de otros aparatos electrónicos y científicos; dirigido por un grupo de ingenieros Serguéi Koroliov diseñador de tanques pesados que falleció en 1966 durante una intervención quirúrgica, Aleksandr Kemurdzhián, junto a Pável Soloviov, Gueorgui Babakin y Mijaíl Malenkov."
+    },
+    {
+      "titulo": "Lanzamiento y órbita lunar",
+      "nivel": 2,
+      "texto": "La misión Luna 17 se puso en marcha el 10 de noviembre de 1970, a las 14:44:01 UTC. Después de alcanzar una órbita estable alrededor de la Tierra, se disparó la etapa final del cohete de lanzamiento para colocar la nave en una trayectoria hacia la Luna (11/10/1970 a las 14:54 UTC). Después de dos maniobras de corrección de curso (el 12 de noviembre y el 14), entró en órbita lunar el 15 de noviembre de 1970 a las 22:00 UTC."
+    },
+    {
+      "titulo": "Operaciones de desembarque y de superficie",
+      "nivel": 2,
+      "texto": "El alunizaje de la nave espacial se produjo en el Mare Imbrium el 17 de noviembre a las 03:47 UTC. El módulo de aterrizaje tenía una rampa doble por la que el Lunojod 1 podía descender a la superficie lunar. A las 06:28 UTC el vehículo se movió por primera vez sobre la superficie de la Luna. El vehículo robótico trabajaba durante el día lunar, deteniéndose periódicamente para recargar sus baterías a través de los paneles solares. Por la noche el vehículo quedaba en hibernación hasta el siguiente amanecer, calentado por la fuente radiactiva."
+    },
+    {
+      "titulo": "Fin de la misión y resultados",
+      "nivel": 2,
+      "texto": "Los controladores de Tierra terminaron la última sesión de comunicaciones con el Lunojod 1 a las 13:05 UTC del 14 de septiembre de 1971. Los intentos por restablecer el contacto fueron finalmente abandonados, y las operaciones cesaron oficialmente el 4 de octubre de 1971, coincidiendo con el aniversario del Sputnik 1. Durante los 322 días de operaciones controladas desde la Tierra, el Lunojod 1 recorrió 10 540 metros y envió más de 20 000 imágenes de televisión y 206 vistas panorámicas de alta resolución. Además, realizó el análisis de 25 muestras del suelo lunar con su espectrómetro RIFMA de fluorescencia de rayos X, y utilizó su penetrómetro en 500 lugares diferentes."
+    },
+    {
+      "titulo": "Ubicación actual",
+      "nivel": 2,
+      "texto": "En el Lunojod 1 fue instalado un reflector angular, de diseño y fabricación francesa, para permitir la reflexión de un rayo láser enviado desde la Tierra, y medir así la distancia exacta de separación con la Luna, además de permitir medir los movimientos de la Luna con total exactitud. Este reflector también fue utilizado durante el tiempo en que el róver fue manejado desde la tierra. Sin embargo, tras perderse el contacto, el vehículo quedó en una posición que no era conocida con precisión, por lo que nunca pudo ser usado para apuntarle con un rayo láser, a pesar de los intentos que se hicieron.\nEsta situación cambió radicalmente el 17 de marzo de 2010, cuando Albert Abdrakhimov encontró tanto el módulo de aterrizaje como el astromóvil en la imagen M114185541RC del Lunar Reconnaissance Orbiter (LRO).\nEn abril de 2010, el equipo Apache Point Observatory Lunar Laser-ranging Operation (Apolo) de la Universidad de California en San Diego utilizó las imágenes del LRO para situar el orbitador en una posición adecuada para poder efectuar mediciones de distancia con láser. El 22 de abril de 2010 y los días siguientes, el equipo midió correctamente la distancia varias veces. La intersección de las esferas descritas por las distancias medidas a continuación sirvieron para determinar con exactitud la localización actual del Lunojod 1 con una precisión de un metro. APOLO pudo usar el reflector del Lunojod 1 para realizar algunos experimentos, descubriéndose con sorpresa que reflejaba mucha más luz que otros reflectores situados en la Luna. De acuerdo con un comunicado de prensa de la NASA, el investigador portavoz del equipo Apolo Tom Murphy, manifestó: «Tenemos alrededor de 2000 fotones del Lunojod 1 en nuestro primer intento. Después de casi 40 años de silencio, este róver todavía tiene mucho que decir».\nEn noviembre de 2010, la localización del vehículo se había determinado con una precisión de aproximadamente un centímetro. La ubicación cerca del borde de la Luna, combinada con la posibilidad de medir su posición incluso cuando se encuentra a plena luz del sol, promete ser particularmente útil para determinar aspectos del sistema Tierra-Luna.\nEn un informe publicado en mayo de 2013, los científicos franceses del Observatorio de la Costa Azul dirigido por Jean-Marie Torre informaron acerca de la repetición de los experimentos de medición láser del 2010 realizados por científicos estadounidenses usando imágenes del Lunar Reconnaissance Orbiter de la NASA. En ambos casos, los pulsos de láser fueron devueltos desde el retrorreflector del Lunojod 1."
+    },
+    {
+      "titulo": "Cráteres denominados por la misión del Lunojod 1",
+      "nivel": 2,
+      "texto": "La ubicación del Lunojod 1, de las huellas sobre la superficie lunar de su recorrido, y del módulo de aterrizaje fueron observadas por Albert Abdrakhimov el 17 de marzo de 2010 en una imagen tomada por la misión Lunar Reconnaissance Orbiter.\nCon ocasión de este descubrimiento, la Unión Astronómica Internacional (UAI) aprobó el 14 de junio de 2012 doce nuevos nombres para una serie de pequeños cráteres (el más grande no supera los 400 m de diámetro, y varios otros no superan los 100) próximos al recorrido del astromóvil lunar. Las denominaciones elegidas están inspiradas en nombres de persona masculinos y femeninos de origen ruso (algunos de ellos, diminutivos).\nLa relación está formada por los doce cráteres siguientes:"
+    }
+  ],
+  "num_palabras": 1320
+}

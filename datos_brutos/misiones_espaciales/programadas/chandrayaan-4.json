@@ -1,0 +1,55 @@
+{
+  "titulo": "Chandrayaan-4",
+  "titulo_wikipedia_en": "Chandrayaan-4",
+  "fecha_lanzamiento": "2028",
+  "año_lanzamiento": 2028,
+  "estado": "programada",
+  "tipo_mision": [
+    "Exploración lunar"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Chandrayaan-4",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {},
+  "resumen": "Chandrayaan-4 (Chun-dr-YAHN ; ; ; desde Sánscrito: Chandra, \"Luna\" e yana, \"vehículos, vehículos\") es una próxima misión de retorno de muestra lunar del subdesarrollo ISRO ahora y la cuarta iteración en su programa Chandrayaan. A partir de enero de 2025, se ha completado la fase de conceptualización, y la fase de diseño está a punto de terminarse. Se espera que la misión se ponga en marcha alrededor de 2028. Está previsto volver hasta 3 kg (6,6 lb) de regolith lunar.",
+  "secciones": [
+    {
+      "titulo": "Histórico",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Fase conceptual",
+      "nivel": 3,
+      "texto": "El plan para una misión de retorno de muestras lunares fue revelado por el director del Centro de Aplicaciones Espaciales (SAC), Nilesh M Desai, el 17 de noviembre de 2023, durante la 62a ceremonia de fundación del Instituto Indio de Meteorología Tropical (IITM) en Pune. Esto fue confirmado por S. Somanath, entonces presidente de ISRO, durante el Simposio Nacional de Ciencia Espacial celebrado en Goa el 26 de febrero de 2024. Dijo que la misión es extremadamente difícil ya que incorpora múltiples lanzamientos, capacidad de acoplamiento y capacidad robótica. Expresó el aumento de confianza sobre el éxito de la operación de 'hop' de la operación de aterrizaje y retorno de la Tierra realizada por el módulo de propulsión de Chandrayaan-3.\nDespués del lanzamiento de INSAT-3DS, el presidente declaró la insuficiencia de la capacidad de cohetes que conduce a un \"diseño novedoso\" para esta misión y el secretario del Departamento de Espacio (DoS) dijo que la misión incorpora \"tecnología de alta gama\" y está pendiente la aprobación del gobierno para que tenga una última palabra. Somanath declaró que la misión exige capacidad de atraque tanto en órbitas terrestres como lunares y la agencia está planeando demostrar esta capacidad a través de Space Docking Experiment (SPADEX), que está programado para su lanzamiento a finales de año.\nEl 20 de agosto de 2024, S. Somanath anunció que la Organización de Investigación Espacial de la India (ISRO) había completado el diseño de Chandrayaan-4 y LUPEX, y solicitaría la aprobación del gobierno."
+    },
+    {
+      "titulo": "Aprobación del Gabinete",
+      "nivel": 4,
+      "texto": "El 18 de septiembre de 2024, Chandrayaan-4 recibió la aprobación del Gabinete de la Unión, presidido por el Primer Ministro Narendra Modi por un crore de 2.104,06 coronas (equivalentes a 22 mil millones de libras o 240 millones de dólares en 2026), y se espera que se complete en un plazo de 36 meses. La misión tendrá cinco módulos que se llevarán al espacio en dos lanzamientos diferentes. La misión está diseñada para aterrizar en la superficie lunar, recoger muestras, almacenarlas en un contenedor sellado al vacío, y devolverlas a la Tierra. La misión también verá fases de atraque y desmontaje en órbita lunar."
+    },
+    {
+      "titulo": "Diseño y desarrollo",
+      "nivel": 4,
+      "texto": "El 13 de febrero de 2025, el Ministro de Ciencia y Tecnología de la India, Jitendra Singh Rana, declaró en el Rajya Sabha que Chandrayaan-4 será una misión fundacional que validará las tecnologías clave necesarias para un aterrizaje lunar tripulado en 2040. En febrero de 2025, ISRO está desarrollando una serie de subsistemas, como brazos robóticos para la recolección de muestras, cargas útiles especializadas y un sistema de propulsión de alta capacidad. ISRO organizó una reunión de investigación en abril de 2025 para deliberar sobre la investigación científica que se puede llevar a cabo con el regolito lunar dentro de la India. Se planificaron y ejecutaron más detalles de la misión en una reunión nacional de ISRO en septiembre de 2026."
+    },
+    {
+      "titulo": "Objetivos de la Misión",
+      "nivel": 2,
+      "texto": "El objetivo de la misión es recoger muestras de la superficie lunar y llevar las muestras de forma segura a la Tierra para estudios científicos. Los objetivos de esta misión son:\nPara realizar un aterrizaje seguro y suave en la superficie lunar.\nPara demostrar la recolección de muestras lunares y la containerización.\nPara demostrar el ascenso desde la superficie de la Luna.\nPara demostrar el atraque y desmontaje en órbita lunar.\nPara demostrar la transferencia de muestras de un módulo a otro.\nDemostrar el retorno y reingreso a la Tierra para la entrega de muestras."
+    },
+    {
+      "titulo": "Vehículo espacial",
+      "nivel": 2,
+      "texto": "La misión se lanzará en dos fases a bordo de dos cohetes LVM3 desarrollados por el ISRO. La nave espacial incluirá cinco módulos envasados en dos compuestos, que se lanzarán por separado, utilizando dos vehículos de lanzamiento LVM 3. Como cohete LVM3 individual tiene una capacidad de carga útil de sólo 8.000 kilogramos, superando la masa de combustible y el tamaño combinados de la nave espacial. Por lo tanto, el vuelo se optimizó para una estrategia de lanzamiento dual. Los elementos de las naves espaciales incluyen:\nEl módulo de propulsión es similar al módulo de propulsión de Chandrayaan-3. Transbordará la nave espacial modular combinada a la luna.\nMódulo Lander aterrizará en la Luna con instrumentación. Apoya la fase de ascenso junto con la instrumentación de muestreo del suelo. Está diseñado para durar 1 día lunar o 14 días terrestres en la luna. El módulo Lander estará equipado con una cuchara y un taladro para obtener muestras lunares.\nEl módulo ascendente se expulsará del módulo de aterrizaje y se lanzará desde la Luna utilizando el módulo de aterrizaje como plataforma de lanzamiento después de que se recojan y almacenen las muestras de la Luna. Luego entrará en órbita lunar baja.\nEl módulo de transferencia recogerá las muestras desde la etapa de ascenso, las transferirá al módulo de reingreso, disparará su motor para colocarse a sí mismo y el módulo de reingreso hacia la Tierra, liberará la carga útil y recorrirá la Tierra.\nEl módulo de reingreso mantendrá la muestra de la órbita lunar. Está diseñado para sobrevivir a la reentrada atmosférica y aterrizar con los regolitos lunares.\nEl primer lanzamiento está planeado para llevar el módulo ascendente y el módulo descendente. El segundo lanzamiento llevaría el módulo de transferencia, el módulo de reingreso y el módulo de propulsión. La nave espacial final se ensamblará en un módulo integrado atracando en la órbita terrestre antes de proceder a la Luna. Esto se hará a través de maniobras de acoplamiento de órbita terrestre.\nUna vez que la nave espacial alcance la órbita lunar, la pila de aterrizaje/ascendente descenderá a la superficie lunar. Se prevé que después del touchdown, un brazo robótico, montado en el módulo Lander, recogerá aproximadamente 2-3 kg de muestras de alrededor del lugar de aterrizaje y las transferirá a un contenedor en el módulo de ascenso. Además, un mecanismo de perforación recogerá muestras subsuperficiales y las transferirá a otro contenedor del módulo de ascenso. El módulo de ascenso despegaría justo antes del final de un día lunar para una órbita lunar que se encontraría con el módulo de transferencia, que transferiría la carga útil a un módulo de reentrada antes de partir de la luna y aterrizar en la tierra.\nAdemás del módulo de propulsión, el módulo de transferencia también está equipado con un motor de Apogeo Líquido (LAM) a bordo para maniobras de operación de retorno, incluida la inyección transterrestre. Según informes anteriores, el módulo de aterrizaje tendrá seis propulsores de aterrizaje acelerados capaces de producir 800 newtons de empuje cada uno, mientras que el módulo de ascenso tendrá dos propulsores de despegue capaces de producir 800 newtons de empuje fijo cada uno. Se espera que el montaje integrado de todos los módulos después de acoplarse en órbita terrestre pese al menos 9.200 kg (20.300 lb)."
+    },
+    {
+      "titulo": "Desembarco",
+      "nivel": 2,
+      "texto": "El lugar de aterrizaje se planificó inicialmente cerca de la Estación Shiv Shakti, el lugar de aterrizaje de Chandrayaan-3 que se encuentra entre los cráteres lunares Manzinus P y Boguslawsky M cerca de la región del polo sur. ISRO había llevado a cabo un estudio exhaustivo de esta región del lugar de aterrizaje en relación con la morfología, la hidratación y las anomalías de gravedad, utilizando datos obtenidos de cargas útiles del orbitador Chandrayaan-2, Orbiter de Reconocimiento Lunar (LRO), Prospector Lunar y GRAIL. ISRO también evaluó el aterrizaje de la nave espacial en Chandrayaan-3's y Chandrayaan-2's sitios de aterrizaje alternativos.\nEn 2026 se propuso aterrizar la nave espacial en las llanuras montañosas cerca de Mons Mouton de la Luna, sobre la base de datos del instrumento de la OHRC sobre el orbitador Chandrayaan-2 y los conjuntos de datos del SIS, situados aún más cerca del polo sur lunar.Se evaluaron cinco sitios de los cuales se seleccionaron cuatro, después de que se descubrió que uno de ellos se encontraba en una región sombreada, impidiendo la generación de energía solar. De los otros sitios dados, MM4 fue sugerido como el lugar de aterrizaje. Investigadores del IIT Kharagpur y PRL estudiaron los sitios para rocas ricas en hierro y titanio conocidas como acumulaciones que contienen ilmenita (IBC), entre 4,3 y 4,4 mil millones de años de edad que pueden haber conservado registros de la historia temprana de la luna. También hay potencial para que las muestras tengan contenido de agua lunar dentro de ellas. Se espera que todos los nuevos sitios propuestos estén cerca de regiones permanentemente sombreadas en la Luna.\nLos factores que afectan a la selección del lugar de aterrizaje incluyen:\nPendiente de menos o hasta 10 grados\nBoulders de menos de 0,32 metros (1 pie 1 pulg.)\nBaja distribución de cráteres y rocas en topografía local\nLa luz solar durante al menos 11-12 días.\nLas características del terreno local no hacen sombra durante mucho tiempo\nDistribución de una red segura de 24 por 24 metros (79 pies × 79 pies) dentro de 1 por 1 kilómetro (0,62 mi × 0,62 mi) de área de aterrizaje"
+    }
+  ],
+  "num_palabras": 1549
+}

@@ -1,0 +1,26 @@
+{
+  "titulo": "Soyuz TMA-14M",
+  "titulo_wikipedia_en": "Soyuz TMA-14M",
+  "fecha_lanzamiento": "2014-09-25",
+  "año_lanzamiento": 2014,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Soyuz_TMA-14M",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Vehículo de lanzamiento": "Cosmódromo de Baikonur",
+    "Nave": "Soyuz-FG",
+    "Fecha de aterrizaje": "12 de marzo de 2015",
+    "Programa": "Programa Soyuz",
+    "Misión anterior": "Soyuz TMA-13M",
+    "Misión siguiente": "Soyuz TMA-15M"
+  },
+  "resumen": "Soyuz TMA-14M fue una misión a la Estación Espacial Internacional lanzada mediante un cohete Soyuz-FG el 26 de septiembre. Que transporto a tres miembros de la Expedición 41 a la Estación Espacial Internacional. TMA-14M será el vuelo 123 de la nave Soyuz, el primer vuelo de su lanzamiento en 1967. La nave regresó el 12 de marzo de 2015 aterrizando al sureste de Dzhezkazgan en Kazajistán dando por finalizada la expedición 42.",
+  "secciones": [],
+  "num_palabras": 72
+}

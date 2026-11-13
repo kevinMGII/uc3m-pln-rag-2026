@@ -1,0 +1,42 @@
+{
+  "titulo": "Xuntian",
+  "titulo_wikipedia_en": "Xuntian",
+  "fecha_lanzamiento": "2027",
+  "año_lanzamiento": 2027,
+  "estado": "programada",
+  "tipo_mision": [
+    "Telescopio espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Xuntian",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "En desarrollo",
+    "Tipo de misión": "Observatorio espacial",
+    "Fecha de lanzamiento": "2026 o 2027",
+    "Vehículo de lanzamiento": "Larga Marcha 5",
+    "Duración planificada": "10 años",
+    "Sistema de referencia orbital": "Órbita terrestre baja"
+  },
+  "resumen": "El Xuntian (en chino, 巡天; pinyin, Xún Tiān; literalmente, ‘Crucero de los cielos’) o CSST (por las siglas del inglés China Space Station Telescope) es un telescopio espacial que China planea lanzar a finales de 2026 o 2027.",
+  "secciones": [
+    {
+      "titulo": "Historia",
+      "nivel": 2,
+      "texto": "El proyecto del telescopio espacial Xuntian fue elaborado a partir de 2011 y sus características fueron evolucionando progresivamente durante los años siguientes. En 2012 se concebía como una parte integrante de la futura gran estación espacial china. En 2014 pasó a ser un telescopio espacial independiente pero que dispondría de la capacidad de amarrarse periódicamente a la estación espacial china. En 2015 se adoptó el principio de una cámara de gran campo. El proyecto se hizo público en 2017. En 2022 el telescopio debería ser puesto en órbita mediante un cohete pesado Larga Marcha 5."
+    },
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "Sus principales objetivos son:\nRealización de imágenes en las longitudes de onda 255-1000 nm de objetos que tengan una magnitud aparente de hasta 25,5 situados en una gran parte del cielo (17500 grados cuadrados cubiertos) utilizando 6 filtros.\nRealización de espectros de la misma región del cielo con una resolución espectral de 200 en longitudes de onda idénticas.\nRealización de imágenes y de espectros de objetos del cielo profundo en porciones limitadas del cielo (400 grados cuadrados) con una magnitud aparente superior de 1.\nEn el plano científico algunos de los temas cubiertos son:\nCosmología: energía oscura, materia oscura, gravedad, estructuras del universo a gran escala, neutrinos, etc.\nGalaxias activas: galaxias activas con elevado corrimiento al rojo, grupos de galaxias activas, etc.\nGalaxias: formación y evolución, fusiones, corrimiento al rojo elevado, galaxias enanas, etc.\nVía Láctea: estructuras, satélites, polvo, extinción, etc.\nCiencia estelar: formación de las estrellas, estrellas enanas, estrellas de baja metalicidad, etc.\nSistema solar: asteroides próximos a la Tierra, objetos transneptunianos, etc.\nAstrometría: grupos de estrellas, sistemas de referencia, etc."
+    },
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "Xuntian será capaz de observar en luz visible y en el ultravioleta cercano (255 nm~1700 nm). Estará dotado de un espejo primario de unos 2 metros de diámetro y dispondrá de un campo de vista particularmente extendido (1,1 x 1,1°). El instrumento principal es una cámara de 2,5 millones de pixeles. Su resolución angular es de 0,15 segundos de arco. El telescopio estará equipado igualmente de un espectrómetro.\nPara permitir su mantenimiento el telescopio espacial estará ubicado en una órbita terrestre baja (altitud de 400 km) para permitir su acoplamiento con la gran estación espacial china, cuyo despliegue debería empezar en 2020. Cada 1 o 2 años se acoplara a la estación, posibilitando así el reabastecimiento de combustible y las operaciones de mantenimiento sobre los equipos, los instrumentos o la parte óptica, la cual se conoce también con la apelación técnica CSS-OM (por las siglas del inglés Chinese Space Estación - Optical Module).\nEl telescopio dispondrá de un sistema de propulsión propio que le permitirá corregir su orientación y su órbita. La duración de vida prevista es de 10 años."
+    }
+  ],
+  "num_palabras": 485
+}

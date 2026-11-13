@@ -1,0 +1,40 @@
+{
+  "titulo": "Shenzhou 18",
+  "titulo_wikipedia_en": "Shenzhou 18",
+  "fecha_lanzamiento": "2024-04-25",
+  "año_lanzamiento": 2024,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Shenzhou_18",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {},
+  "resumen": "Shenzhou 18 es un vuelo espacial chino a la estación espacial Tiangong, lanzado el 25 de abril de 2024, cerca del final de la misión Shenzhou 17. Llevó a tres taikonautas a bordo de una nave espacial Shenzhou. La misión es el decimotercer vuelo espacial chino tripulado y el decimoctavo vuelo en general del programa Shenzhou.",
+  "secciones": [
+    {
+      "titulo": "Trasfondo",
+      "nivel": 2,
+      "texto": "Shenzhou 18 se lanzó antes de la finalización de la misión anterior, Shenzhou 17. Está previsto que dure unos seis meses, como es habitual en las misiones de Shenzhou a Tiangong. Partirá tras la llegada de la tripulación del Shenzhou 19.\nLa tripulación del Shenzhou 18 está formada por Ye Guangfu, Li Cong y Li Guangsu."
+    },
+    {
+      "titulo": "Misión",
+      "nivel": 2,
+      "texto": "La misión se lanzó desde el Centro de Lanzamiento de Satélites de Jiuquan a bordo de un cohete Larga Marcha 2F a las 20:59 hora de Beijing (UTC+8). La nave espacial Shenzhou se acopló al módulo central Tianhe de la estación, donde ingresará la tripulación antes de la salida de Shenzhou 17."
+    },
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "El 24 de abril de 2024, la CMSA anunció la tripulación de la misión Shenzhou 18 durante una conferencia de prensa en Jiuquan, China."
+    },
+    {
+      "titulo": "Programa Shenzhou",
+      "nivel": 2,
+      "texto": "misión anterior = Shenzhou 17\n/ misión siguiente = Shenzhou 19"
+    }
+  ],
+  "num_palabras": 199
+}

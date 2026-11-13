@@ -1,0 +1,78 @@
+{
+  "titulo": "Chang'e 3",
+  "titulo_wikipedia_en": "Chang'e 3",
+  "fecha_lanzamiento": "2013-12-01",
+  "año_lanzamiento": 2013,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Telescopio espacial",
+    "Exploración lunar",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Chang'e_3",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Misión concluida",
+    "Tipo de misión": "Sonda Lunar",
+    "Operador": "Administración Espacial Nacional China",
+    "Fecha de lanzamiento": "1 de diciembre de 2013, 17:30 UTC",
+    "Masa en el lanzamiento": "3.700 kg (rover 140 kg)",
+    "Sistema de referencia orbital": "Lunar",
+    "Instrumentos": "Aterrizador y Rover",
+    "Programa": "Chino de Exploración Lunar",
+    "Misión anterior": "Chang'e 2",
+    "Misión siguiente": "Chang'e 4"
+  },
+  "resumen": "Chang'e 3 (Chino simplificado: 嫦娥三号; chino tradicional: 嫦娥三號) es una misión de exploración lunar china, que incorpora un aterrizador y un rover lunar. El 14 de diciembre de 2013, a las 13:12 UTC, logró un alunizaje controlado, siendo la primera misión china en lograrlo. El último alunizaje controlado había ocurrido 37 años atrás: el Luna 24, de la Unión Soviética. La nave toma su nombre de Chang'e, la diosa china de la luna, y es continuación de los orbitadores lunares Chang'e 1 y Chang'e 2, dentro del Programa Chino de Exploración Lunar.",
+  "secciones": [
+    {
+      "titulo": "Introducción",
+      "nivel": 2,
+      "texto": "El primer orbitador lunar chino, Chang'e 1, fue lanzado desde el Centro de Lanzamiento de Satélites de Xichang el 24 de octubre de 2007 y entró en órbita lunar el 5 de noviembre.\nLa sonda operó hasta el 1 de marzo de 2009, cuando se impactó intencionadamente en la superficie lunar. Los datos recopilados por Chang'e 1 fueron usados para crear un mapa de alta resolución en 3D de toda la superficie lunar, ayudando a la elección del lugar de aterrizaje de Chang'e 3.\nLa sucesora de Chang'e 1, Chang'e 2, fue lanzada el 1 de octubre de 2010 para llevar a cabo investigación desde una órbita lunar a 100 km de altitud, en preparación para el aterrizaje suave de Chang'e 3 en 2013. Chang'e 2, aun siendo similar en diseño a Chang'e 1, estaba equipada con instrumentos mejorados con lo que se pudieron tomar imágenes de mayor resolución de la superficie lunar en preparación de la misión Chang'e 3.\nComo sus predecesoras, la misión Chang'e 3 se planea como precursora de misiones de exploración robótica de la superficie lunar posteriores, incluyendo una misión de retorno de muestras en 2017. Siguiendo estas misiones automáticas, las autoridades chinas prevén realizar un aterrizaje tripulado en torno a 2025."
+    },
+    {
+      "titulo": "Desarrollo de la misión",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Rover",
+      "nivel": 3,
+      "texto": "La misión Chang'e 3 incorpora un rover lunar, llamado Yutu (Conejo de Jade), diseñado para descolgarse del aterrizador y explorar la superficie lunar de manera independiente. El desarrollo del rover de seis ruedas comenzó en 2002 en el Shanghai Aerospace System Egineering Institute, donde un laboratorio especializado se ha preparado para replicar la superficie lunar. El ensamblaje del rover, con sus 1,5 metros de alto y sus 120 kg de peso se completó en mayo de 2012. Con una capacidad de carga de aproximadamente 20 kg, el rover está diseñado para transmitir video en tiempo real, excavar y analizar muestras de polvo. Puede navegar por pendientes y tiene sensores automáticos para evitar que colisione con rocas.\nLa energía le viene suministrada por un generador termoeléctrico de radioisótopos, que permite al rover operar durante las noches lunares. La duración nominal de la misión es de tres meses. La parte inferior del rover lleva un radar para medir la profundidad y composición del polvo lunar a lo largo de su ruta.\nEl rover tuvo problemas en el repliegue de sus paneles solares en su preparación para la hibernación durante la noche lunar que dificultaron la reactivación posterior. Los medios de comunicación chinos, después de varios intentos fracasados de reactivación, dieron por concluida la misión de Yutu, aunque posteriormente se comunicó la posibilidad de ser recuperado para la misión cuando se tuvieron indicios de que volvía a tener actividad pese a la avería."
+    },
+    {
+      "titulo": "Alunizador",
+      "nivel": 3,
+      "texto": "En marzo de 2012 se dio a conocer que China había comenzado la fabricación del cuerpo y la carga del aterrizador del Chang'e 3, que llevará a cabo estudios de la superficie lunar y del espacio de manera independiente del rover. El aterrizador pesa 100 kilogramos y tiene siete instrumentos y cámaras. Además de sus tareas científicas, las cámaras también están tomando fotos de la tierra y otros cuerpos celestes. El aterrizador tiene capacidad para operar ininterrumpidamente durante tres meses.\nEl aterrizador está equipado con un telescopio astronómico y una cámara de ultravioleta extremo. Es el primer observatorio astronómico basado en la Luna de la historia, y llevará a cabo observaciones continuas de importantes cuerpos celestes para estudiar sus variaciones. La cámara de ultravioleta extremo llevará a cabo un estudio de la capa iónica cercana a la Tierra, para investigar cómo afecta la actividad solar a dicha capa."
+    },
+    {
+      "titulo": "Sitio de alunizaje",
+      "nivel": 3,
+      "texto": "Los datos de Chang'e 1 y 2 se usaron para seleccionar el lugar de alunizaje de Chang'e 3. El aterrizador tenía previsto alunizar en el Sinus Iridum (bahía de los arco iris), a una latitud de 44° norte. El Sinus Iridum es una llanura de lava basáltica que forma una extensión al noroeste del Mare Imbrium. Pero por motivos no aclarados alunizó unos kilómetros más al este, en el Mare Imbrium.\nCon el alunizaje suave de Chang'e 3, finalizó un periodo de 37 años sin exploración de la superficie lunar, desde la llegada de la sonda Luna 24 de la Unión Soviética en 1976.\nToponimia relacionada\nPara conmemorar este hecho, la Unión Astronómica Internacional aprobó oficialmente el 5 de octubre de 2015 la inclusión de cuatro nuevos topónimos en la cartografía lunar:\nEl lugar de aterrizaje de la sonda, denominado Guang Han Gong.\nTres pequeños cráteres situados junto al lugar de alunizaje de la Chang'e 3: Tai Wei, Tian Shi y Zi Wei."
+    },
+    {
+      "titulo": "Lunar-based ultraviolet telescope (LUT)",
+      "nivel": 3,
+      "texto": "El módulo de aterrizaje está equipado con un telescopio Ritchey-Chrétien de 50 mm que se utiliza para observar galaxias, núcleos galácticos activos, estrellas variables, binarias, novas, cuásares y blazares en la banda de UV cercano (245-340 nm), y es capaz de detectar objetos con un brillo tan bajo como magnitud 13. La exosfera delgada y la rotación lenta de la Luna permiten observaciones extremadamente largas e ininterrumpidas de un objetivo. El LUT es el primer observatorio astronómico lunar a largo plazo, que realiza observaciones continuas de importantes cuerpos celestes para estudiar su variación de luz y mejorar mejor los modelos actuales."
+    },
+    {
+      "titulo": "Cámara ultravioleta extrema (UVE)",
+      "nivel": 3,
+      "texto": "El módulo de aterrizaje también lleva una cámara ultravioleta extrema (30,4 nm), que se utilizará para observar la plasmasfera de la Tierra con el fin de examinar su estructura y dinámica e investigar cómo se ve afectada por la actividad solar."
+    },
+    {
+      "titulo": "Cámaras Lander",
+      "nivel": 3,
+      "texto": "Tres cámaras panorámicas están instaladas en el módulo de aterrizaje, orientadas en diferentes direcciones. El módulo de aterrizaje está equipado con una cámara de descenso único que se probó en la nave espacial Chang'e 2."
+    },
+    {
+      "titulo": "Sonda terrestre",
+      "nivel": 3,
+      "texto": "El módulo de aterrizaje Chang'e 3 también lleva una sonda de suelo extensible."
+    }
+  ],
+  "num_palabras": 1039
+}

@@ -1,0 +1,20 @@
+{
+  "titulo": "Venera 12",
+  "titulo_wikipedia_en": "Venera 12",
+  "fecha_lanzamiento": "1978-09-14",
+  "año_lanzamiento": 1978,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración de Venus",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Venera_12",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {},
+  "resumen": "La Venera 12 (en ruso: Венера-12 - \"Venus 12\") fue una de las sondas espaciales del programa Venera de la Unión Soviética para explorar el planeta Venus. Venera 12 fue lanzada el 14 de septiembre de 1978 en el horario de 02:25:13 UTC.\nLa separación de su plataforma de vuelo ocurrió el 19 de diciembre de 1978,el módulo de aterrizaje (Lander) entró en la atmósfera de Venus dos días después a 11,2 km/s. Durante el descenso empleó frenado aerodinámico, seguido de abrir su paracaídas de frenado y terminando con el frenado atmosférico. Se hizo un aterrizaje suave en la superficie el 21 de diciembre a las 06:30 hora de Moscú (03:30 UTC) después de un tiempo de descenso de aproximadamente 1 hora. La velocidad de toma de contacto fue 8,7 m/s. Las coordenadas de aterrizaje son 7ºS 294ºE. Los datos se transmitieron a la plataforma de vuelo durante 110 minutos después de la toma de contacto hasta que la plataforma de vuelo se movió fuera del alcance mientras permanecía en una órbita heliocéntrica. Instrumentos idénticos se utilizaron en Venera 11 y 12.",
+  "secciones": [],
+  "num_palabras": 182
+}

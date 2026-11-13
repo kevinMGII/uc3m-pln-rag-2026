@@ -1,0 +1,49 @@
+{
+  "titulo": "Soyuz 37",
+  "titulo_wikipedia_en": "Soyuz 37",
+  "fecha_lanzamiento": "1980-07-23",
+  "año_lanzamiento": 1980,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Soyuz_37",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Masa en el lanzamiento": "6800 kg",
+    "Fecha de lanzamiento": "23 de julio de 1980",
+    "Nave": "Soyuz 7K-T",
+    "Fecha de aterrizaje": "11 de octubre de 1980",
+    "Duración de la misión": "79,64 días",
+    "Misión siguiente": "Soyuz 38",
+    "Programa": "Programa Soyuz",
+    "Misión anterior": "Soyuz T-2"
+  },
+  "resumen": "Soyuz 37 fue una misión de una nave Soyuz 7K-T lanzada el 23 de julio de 1980 desde el cosmódromo de Baikonur con dos cosmonautas a bordo hacia la estación espacial Salyut 6, siendo uno de ellos el vietnamita Pham Tuân, en el marco del programa Intercosmos.\nLa misión de Soyuz 37 consistía en acoplarse a la estación Salyut 6 para realizar diversos experimentos relacionados con la observación terrestre (centrando las observaciones en Vietnam), la biología (incluyendo pruebas del crecimiento de la Azolla vietnamita con vistas a su aplicación en futuros sistemas de soporte de vida de ciclo cerrado) y procesamiento de materiales. Los dos cosmonautas de la Soyuz 37 regresaron a bordo de la Soyuz 36, acoplada a la estación en el momento de llegar ellos, y la nave de la Soyuz 37 fue utilizada para el regreso de los tripulantes de la misión Soyuz 35.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Despegaron",
+      "nivel": 3,
+      "texto": "Viktor Gorbatko (Comandante)\nPham Tuân (Especialista científico de Vietnam)"
+    },
+    {
+      "titulo": "Aterrizaron",
+      "nivel": 3,
+      "texto": "Leonid Popov (Comandante)\nValeri Ryumin (Ingeniero de vuelo)"
+    },
+    {
+      "titulo": "Tripulación de respaldo",
+      "nivel": 2,
+      "texto": "Valery Bykovsky (Comandante)\nBui Thanh Liem (Especialista científico de Vietnam)"
+    }
+  ],
+  "num_palabras": 174
+}

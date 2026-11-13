@@ -1,0 +1,49 @@
+{
+  "titulo": "Luna 22",
+  "titulo_wikipedia_en": "Luna 22",
+  "fecha_lanzamiento": "1974-05-29",
+  "año_lanzamiento": 1974,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración lunar",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Luna_22",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Órbita lunar",
+    "Operador": "Programa espacial soviético",
+    "ID COSPAR": "1974-037A",
+    "Nº SATCAT": "7315",
+    "Plataforma (bus)": "Ye-8-LS",
+    "Fabricante": "GSMZ Lavochkin",
+    "Masa en el lanzamiento": "5700 kg",
+    "Fecha de lanzamiento": "29 de mayo de 1974, 08:56:51 UTC",
+    "Vehículo de lanzamiento": "Proton-K/D",
+    "Lugar de lanzamiento": "Baikonur 81/24",
+    "Desactivación": "Temprano",
+    "Sistema de referencia orbital": "Selenocéntrico",
+    "Periapsis": "219 km",
+    "Apoapsis": "222 km",
+    "Inclinación orbital": "19,35 grados",
+    "Periodo orbital": "130 minutos",
+    "Semieje mayor": "6598,3 km",
+    "Excentricidad": "0.18",
+    "Datos interplanetarios": "tipo: orbitador | objeto: Lunar | órbitas: ~3.875 | fecha de llegada: 2 junio 1974",
+    "Programa": "Programa Luna",
+    "Misión anterior": "Luna 21",
+    "Misión siguiente": "Luna 23"
+  },
+  "resumen": "Luna 22 (serie Ye-8-LS) fue una misión espacial no descremada, parte del programa Luna Soviética, también llamado Lunik 22.",
+  "secciones": [
+    {
+      "titulo": "Sinopsis",
+      "nivel": 2,
+      "texto": "Luna 22 era una misión orbital lunar. La nave espacial llevaba cámaras de imagen y también tenía los objetivos de estudiar el campo magnético de la Luna, las emisiones de rayos gamma de superficie y la composición de rocas de superficie lunar, y el campo gravitacional, así como micrometeoritas y rayos cósmicos. Luna 22 fue lanzada a la órbita de estacionamiento terrestre y luego a la Luna. Fue insertado en una órbita lunar circular el 2 de junio de 1974. La nave espacial realizó muchos ajustes orbitales durante su vida útil de 18 meses con el fin de optimizar el funcionamiento de diversos experimentos, reduciendo el peligro a tan sólo 25 km.\nLuna 22 fue el segundo de dos orbitadores lunares \"avanzados\", el primero de los cuales fue Luna 19 . El orbitador fue diseñado para realizar extensos estudios científicos desde la órbita. Bien en camino a la Luna, Luna 20 tuvo que realizar una sola corrección a mitad de curso el 30 de mayo, y entró en órbita lunar el 2 de junio de 1974. Cuando el orbitador entró por primera vez en órbita de la Luna, comenzó a una altitud periapsis a 219 kilómetros (136 millas) y a una altitud apoapsis de 222 kilómetros (138 millas), y una inclinación de 19°35', estos parámetros orbitales cambiaron durante toda su misión. A lo largo de los orbitadores, diversos cambios orbitales, Luna 22 había actuado sin ningún problema, y continuó regresando fotografías quince meses después de la conclusión de su misión primaria, que había terminado el 2 de abril de 1975. El propulsor de maniobra de la nave espacial se agotó el 2 de septiembre de 1975, y la misión concluyó oficialmente a principios de noviembre de 1975, tras una misión altamente exitosa."
+    }
+  ],
+  "num_palabras": 311
+}

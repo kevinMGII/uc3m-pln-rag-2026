@@ -1,0 +1,124 @@
+{
+  "titulo": "Chandrayaan-3",
+  "titulo_wikipedia_en": "Chandrayaan-3",
+  "fecha_lanzamiento": "2023-07-14",
+  "año_lanzamiento": 2023,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración lunar",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Chandrayaan-3",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "en curso",
+    "Tipo de misión": "Aterrizador y rover lunares",
+    "Operador": "Agencia India de Investigación Espacial",
+    "Nave": "Chandrayaan",
+    "Fabricante": "Agencia India de Investigación Espacial",
+    "Fecha de lanzamiento": "14 de julio de 2023, 09:05 UTC",
+    "Vehículo de lanzamiento": "LVM3 M4",
+    "Lugar de lanzamiento": "Centro espacial Satish Dhawan",
+    "Contratista del lanzamiento": "ISRO",
+    "Duración planificada": "Módulo de alunizaje Vikram: ~14 días terrestres\nRover Pragyan: ~14 días terrestres",
+    "Duración de la misión": "Viaje hacia la Luna:\nOperación en la superficie lunar:\nMódulo de alunizaje Vikram:\nRover lunar Pragyan:",
+    "Masa en el lanzamiento": "3900 kg",
+    "Masa de la carga": "Módulo de propulsión: 2148 kg\nMódulo de alunizaje (Vikram): 1726 kg\nRover (Pragyan): 26 kg",
+    "Potencia": "Módulo de propulsión: 758 vatios\nMódulo de alunizaje: 738 vatios, WS con Bias\nRover: 50 vatios",
+    "Datos interplanetarios": "tipo: aterrizador | nota: lunar | objeto: lunar | componente: rover | fecha llegada: 23 de agosto de 2023 12:34 UTC | localización: 69.367621 S, 32.348126 E\n(entre los cráteres Manzinus y Simpelius)\ntipo: rover | nota: lunar | objeto: lunar | fecha llegada: 23 de agosto de 2023 12:34 UTC | localización: 69.367621 S, 32.348126 E\n(entre los cráteres Manzinus y Simpelius) | distancia: 100 m",
+    "Misión anterior": "Chandrayaan-2",
+    "Misión siguiente": "LUPEX"
+  },
+  "resumen": "Chandrayaan-3 (del sánscrito, \"Chandra\": Luna, \"Yaan\": vehículo) es la tercera misión de exploración lunar de la Agencia India de Investigación Espacial (ISRO). Consiste en un módulo de aterrizaje y el rover Pragyan similar a Chandrayaan-2, pero no tiene un orbitador. Su módulo de propulsión se comporta como un satélite de retransmisión de comunicaciones. El módulo de propulsión transporta la configuración del módulo de alunizaje y el rover hasta que la nave espacial se encuentre en una órbita lunar de 100 km.\nDespués de Chandrayaan-2, donde una falla de último minuto en el software de guía de alunizaje provocó que el módulo se estrellara después de entrar en la órbita lunar, se propuso otra misión lunar.\nEl lanzamiento de Chandrayaan-3 tuvo lugar el 14 de julio de 2023 a las 2:35 p. m. IST de manera exitosa y la inyección de una órbita polar circular de 100 km se completó también con éxito como parte de la fase uno. El módulo de alunizaje y el rover se encuentra cerca de la región del polo sur lunar tras el alunizaje exitoso ocurrido a las 12:34 UTC del 23 de agosto de 2023.",
+  "secciones": [
+    {
+      "titulo": "Historia",
+      "nivel": 2,
+      "texto": "En la segunda fase del programa Chandrayaan para demostrar el aterrizaje suave en la Luna, ISRO lanzó Chandrayaan-2 a bordo de un vehículo lanzador GSLV Mk III. Dicha misión constaba de un orbitador, un aterrizador y un rover. El aterrizador estaba programado para aterrizar en la superficie lunar en septiembre de 2019 para desplegar el rover Pragyan.\nInformaciones anteriores habían sugerido una colaboración con Japón en una misión al polo sur de la Luna, donde India proporcionaría el módulo de aterrizaje, mientras que Japón proporcionaría el lanzador y el rover. La misión puede incluir muestreo del sitio y tecnologías de supervivencia nocturna lunar.\nEl subsiguiente fallo del aterrizador Vikram llevó a la búsqueda de otra misión para demostrar las capacidades de aterrizaje necesarias para la Misión de Exploración Polar Lunar propuesta conjuntamente con Japón para 2024."
+    },
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "Conseguir un módulo de aterrizaje seguro y suave y un aterrizaje perfecto en la superficie\nObservar y demostrar las capacidades de merodeo del rover en la Luna\nObservar científicamente in situ realizando experimentos científicos sobre los elementos químicos y naturales, suelo, agua, etc. disponibles en la superficie de la Luna para comprender mejor y practicar la composición de la Luna. Lo interplanetario se refiere al desarrollo y demostración de nuevas tecnologías requeridas para misiones entre dos planetas."
+    },
+    {
+      "titulo": "Diseño",
+      "nivel": 2,
+      "texto": "El módulo de aterrizaje de Chandrayaan-3 solo tendrá cuatro motores con aceleración ajustable, a diferencia del Vikram de Chandrayaan-2, el cual tenía cinco motores de 800 Newtons (siendo el quinto motor emplazado en el centro y con empuje fijo). Además, el módulo de aterrizaje de Chandrayaan-3 también estará equipado con un velocímetro láser Doppler (LDV)."
+    },
+    {
+      "titulo": "Cargas útiles",
+      "nivel": 3,
+      "texto": "Las cargas útiles científicas en el módulo de propulsión, módulo de aterrizaje y el rover de la misión Chandrayaan-3:"
+    },
+    {
+      "titulo": "Módulo de propulsión",
+      "nivel": 4,
+      "texto": ""
+    },
+    {
+      "titulo": "Espectropolarimetría del Planeta Tierra Habitable (SHAPE)",
+      "nivel": 5,
+      "texto": "Permitirá estudiar las medidas espectrales y polarimétricas de la Tierra desde la órbita lunar."
+    },
+    {
+      "titulo": "Módulo de aterrizaje Vikram",
+      "nivel": 4,
+      "texto": ""
+    },
+    {
+      "titulo": "Radioanatomía de la ionosfera y la atmósfera hipersensibles a la luna (RABHA)",
+      "nivel": 5,
+      "texto": "Medirá la densidad del plasma cerca de la superficie (iones y electrones) y sus cambios con el tiempo."
+    },
+    {
+      "titulo": "Experimento termofísico de superficie de Chandra (ChaSTE)",
+      "nivel": 5,
+      "texto": "Medirá la conductividad térmica y la temperatura de la superficie lunar."
+    },
+    {
+      "titulo": "Instrumento para la Actividad Sísmica Lunar (ILSA)",
+      "nivel": 5,
+      "texto": "Medirá la sismicidad alrededor del lugar de aterrizaje."
+    },
+    {
+      "titulo": "Conjunto de retro-reflectores láser (LRA)",
+      "nivel": 5,
+      "texto": "Experimento pasivo para comprender la dinámica del sistema lunar."
+    },
+    {
+      "titulo": "Sonda Langmuir (LP)",
+      "nivel": 5,
+      "texto": "Estimará la densidad del plasma y sus variaciones."
+    },
+    {
+      "titulo": "Rover Pragyan",
+      "nivel": 4,
+      "texto": ""
+    },
+    {
+      "titulo": "Espectroscopio de descomposición inducida por láser (LIBS)",
+      "nivel": 5,
+      "texto": "Realizará un análisis elemental cualitativo y cuantitativo y derivará la composición química e inferirá la composición mineralógica para mejorar nuestra comprensión de la superficie lunar."
+    },
+    {
+      "titulo": "Espectrómetro de Rayos X de partículas Alfa (APXS)",
+      "nivel": 4,
+      "texto": "Determinará la composición elemental (Mg, Al, Si, K, Ca, Ti, Fe) del suelo lunar y las rocas alrededor del lugar de alunizaje."
+    },
+    {
+      "titulo": "Perfil de la misión",
+      "nivel": 2,
+      "texto": "El conjunto Chandrayaan-3 se lanzó el 14 de julio de 2023, a las 09:05 UTC a un perigeo con una órbita de estacionamiento de 170 km. Posteriormente, siguiendo con la planificación de la misión, se realizaron una serie de operaciones de elevación orbital (utilizando un motor de apogeo líquido (LAE) y propulsores químicos para posicionarse en órbita de inyección translunar y su posterior inserción en órbita lunar."
+    },
+    {
+      "titulo": "Financiación",
+      "nivel": 2,
+      "texto": "En diciembre de 2019, se informó de que ISRO solicitó la financiación inicial del proyecto, que asciende a ₹750 millones, de los cuales ₹600 millones ($8 millones) se destinarán a cubrir gastos de maquinaria, equipo y otros gastos de capital, mientras que los restantes ₹150 millones ($2 millones) se solicitan en el rubro de gastos de ingresos.\nConfirmando la existencia del proyecto, el presidente de ISRO, K. Sivan, declaró que el coste sería de alrededor de ₹6150 millones."
+    }
+  ],
+  "num_palabras": 737
+}

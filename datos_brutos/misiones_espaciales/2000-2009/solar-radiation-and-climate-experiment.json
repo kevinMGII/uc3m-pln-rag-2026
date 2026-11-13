@@ -1,0 +1,48 @@
+{
+  "titulo": "Solar Radiation and Climate Experiment",
+  "titulo_wikipedia_en": "Solar Radiation and Climate Experiment",
+  "fecha_lanzamiento": "2003-01-25",
+  "año_lanzamiento": 2003,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión heliofísica"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Solar_Radiation_and_Climate_Experiment",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Activo",
+    "Tipo de misión": "Observación solar y terrestre",
+    "Operador": "NASA",
+    "Fecha de lanzamiento": "25 de enero de 2003",
+    "Duración planificada": "5-6 años",
+    "Masa en el lanzamiento": "290 kg",
+    "Dimensiones": "Diámetro 1,16 m, longitud 1,6 m",
+    "Sistema de referencia orbital": "Terrestre",
+    "Periapsis": "617 km",
+    "Inclinación orbital": "40 Grados",
+    "Periodo orbital": "97,31 min",
+    "Instrumentos": "Total Irradiance Monitor (TIM)\nSolar Stellar Irradiance Comparison Experiment (SOLSTICE)\nSpectral Irradiance Monitor (SIM)\nXUV Photometer System (XPS)"
+  },
+  "resumen": "Solar Radiation and Climate Experiment (acrónimo SORCE) fue un satélite artificial de la NASA destinado a medir la radiación solar (en el espectro de rayos X, ultravioleta, visible e infrarrojo cercano) que llega a la Tierra para mejorar el conocimiento del clima y mejorar las predicciones climáticas, así como obtener datos sobre el ozono atmosférico. Para realizar las medidas, SORCE utiliza radiómetros, espectrómetros, fotodiodos y bolómetros.\nLa nave fue construida por Orbital Sciences Corporation y fue lanzada a bordo de un cohete Pegasus XL el 25 de enero de 2003 y está dirigido desde el Laboratory for Atmospheric and Space Physics (LASP) en la Universidad de Colorado, en Boulder (Colorado).",
+  "secciones": [
+    {
+      "titulo": "Instrumentos",
+      "nivel": 2,
+      "texto": "Total Irradiance Monitor (TIM)\nSolar Stellar Irradiance Comparison Experiment (SOLSTICE)\nSpectral Irradiance Monitor (SIM)\nXUV Photometer System (XPS)\nFuente: Earthdata - NASA."
+    },
+    {
+      "titulo": "Especificaciones",
+      "nivel": 2,
+      "texto": "Masa: 290 kg\nPotencia: 348 W\nComunicaciones: transceptores redundantes en banda S\nPaneles solares: arseniuro de galio\nLongitud: 1,6 m\nDiámetro: 1,16 m\nFuente: European Space Agency."
+    },
+    {
+      "titulo": "Parámetros orbitales",
+      "nivel": 2,
+      "texto": "Perigeo: 617 km\nApogeo: 657 km\nInclinación orbital: 40 grados\nPeríodo: 97,31 min"
+    }
+  ],
+  "num_palabras": 172
+}

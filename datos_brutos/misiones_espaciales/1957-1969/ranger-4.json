@@ -1,0 +1,50 @@
+{
+  "titulo": "Ranger 4",
+  "titulo_wikipedia_en": "Ranger 4",
+  "fecha_lanzamiento": "1962-04-23",
+  "año_lanzamiento": 1962,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración lunar",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Ranger_4",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Impactador lunar",
+    "Operador": "NASA",
+    "Designación Harvard": "1962 Mu 1",
+    "ID COSPAR": "1962-012A",
+    "Nº SATCAT": "280",
+    "Duración de la misión": "10 horas (operativas)\n64 horas (al impacto)",
+    "Fabricante": "Laboratorio de Propulsión Jet",
+    "Masa en el lanzamiento": "331,1 kg",
+    "Dimensiones": "1,52 x",
+    "Potencia": "135 W",
+    "Fecha de lanzamiento": "23 de abril de 1962, 20:50:00 UTC",
+    "Vehículo de lanzamiento": "Atlas LV-3 Agena-B",
+    "Lugar de lanzamiento": "Cabo Cañaveral LC-12",
+    "Datos interplanetarios": "tipo: impactador | objeto: Lunar | fecha de llegada: UTC\nFalló antes del impacto",
+    "Instrumentos": "Cámara de televisión ; Espectrómetro de rayos gamma ; Altímetro de radar ; Sismometer",
+    "Programa": "Ranger",
+    "Misión anterior": "Ranger 3",
+    "Misión siguiente": "Ranger 5"
+  },
+  "resumen": "Ranger 4 fue una nave espacial del programa Ranger, lanzada en 1962. Fue diseñado para transmitir imágenes de la superficie lunar a las estaciones de la Tierra durante un período de 10 minutos de vuelo antes de estrellarse sobre la Luna, a tierra áspera una cápsula de sismómetro en la Luna, para recoger datos de rayos gamma en vuelo, para estudiar la reflectividad del radar de la superficie lunar, y para continuar las pruebas del programa Ranger para el desarrollo de naves espaciales lunares e interplanetarias.\nUn fallo informático a bordo causó un fallo en el despliegue de los paneles solares y los sistemas de navegación; como resultado, la nave espacial se estrelló en el lado lejano de la Luna sin devolver ningún dato científico. Fue la primera nave espacial de los Estados Unidos en llegar a otro cuerpo celestial y la primera de cualquier nación en llegar a la superficie del lado lejano de la Luna.",
+  "secciones": [
+    {
+      "titulo": "Diseño de naves espaciales",
+      "nivel": 2,
+      "texto": "Ranger 4 era una nave espacial Ranger Block II prácticamente idéntica a Ranger 3. El vehículo básico era de 331 kg (730 lb), 3,1 m (10 pies) de altura y consistía en una cápsula lunar cubierta con un limitador de impacto de madera de balsa, 0,65 m (26 pulgadas) de diámetro, un motor monopropulsante de medio curso, un retrocohete de empuje de 22,6 kN (5.080 lbf) y una base hexagonal chapada en oro y cromo de 1,5 m (4 pies 11 pulgadas) de diámetro. Una gran antena de plato de alta ganancia fue conectada a la base. Dos paneles solares similares a alas (5,2 m de ancho) se unieron a la base y se desplegaron al principio del vuelo.\nLa energía fue generada por 8.680 células solares contenidas en los paneles solares que cargaron una batería de lanzamiento y respaldo AgZn de 11,5 kg (25 libras) de capacidad de 1 kWh. El control de la nave espacial fue proporcionado por un ordenador de estado sólido y un secuenciador y un sistema de mando controlado por la Tierra. El control de la actitud fue proporcionado por los sensores del Sol y la Tierra, giroscopios y chorros de pitch and roll. El sistema de telemetría a bordo de la nave espacial, que consta de dos transmisores de 960 MHz, uno a 3 W de potencia y el otro a 50 mW de potencia, la antena de alta ganancia y una antena omnidireccional. Pintura blanca, dorado y cromado, y una chapa plateada de plástico que envuelve el retrocohete equipado control térmico.\nDebido a que se sospechaba que la esterilización por calor había causado el mal funcionamiento de la computadora del Ranger 3, este procedimiento se dejó caer en el Ranger 4. La cápsula del sismómetro también fue pintada con un patrón de dientes de sierra para una mejor protección térmica.\nEl aparato experimental incluía: (1) una cámara de televisión de vidicón, que empleaba un mecanismo de escaneo que producía un marco completo en diez segundos; 2) un espectrómetro de rayos gamma montado en una pluma de 1,8 m (5 pies 11 pulgadas); (3) un altímetro de radar; y (4) un sismómetro que debía aterrizarse en bruto sobre la superficie lunar. El sismómetro fue encerrado en la cápsula lunar junto con un amplificador, un transmisor de 50 milivatios, control de voltaje, una antena de torniquete y seis baterías de cádmio plateado capaces de operar el transmisor de cápsula lunar durante 30 días, todas diseñadas para aterrizar en la Luna a 130 a 160 km/h (80 a 100 mph). El altímetro de radar se utilizaría para estudios de reflectividad, pero también fue diseñado para iniciar la separación de las cápsulas y encender el retrocohete."
+    },
+    {
+      "titulo": "Misión",
+      "nivel": 2,
+      "texto": "Atlas 133D y Agena 6004 llegaron a Cabo Cañaveral en marzo y comenzaron las compras de prevuelo. A diferencia de los lanzamientos anteriores de Ranger, no se encontraron serias dificultades para preparar el vehículo de lanzamiento para el vuelo y la sonda también pasó todas las pruebas de sistemas con facilidad. El 20 de abril, Ranger 4 fue apilado en la cima del booster y el despegue tuvo lugar a las 3:50 pm EST el 23 de abril. El lanzamiento siguió perfectamente esta vez y no hubo anomalías ni con el Atlas ni con el Agena, que realizó su segunda quemadura para enviar al Ranger 4 en una trayectoria translúnar.\nDespués de la separación de la Agena, era evidente que algo estaba seriamente mal cuando las estaciones de rastreo recogieron el transmisor de radio Ranger 4, pero no había datos de telemetría que se devolvieran ni respuesta alguna cuando los comandos se enviaban a la computadora. Sin telemetría, no se podía confirmar que los paneles solares de la sonda se hubieran desplegado, pero el fluctuante transpondedor de radio indicaba que el Ranger 4 se estaba derrumbando y que los paneles solares y la antena de alta ganancia tampoco se habían desplegado.\nEl Atlas y Agena habían funcionado perfectamente, de hecho tan bien que el Ranger 4 ni siquiera necesitaría una quemadura de corrección a mitad de curso para impactar en la Luna. Sin embargo, todo esto era inútil si la nave espacial era inoperante. Los controladores de tierra enviaron órdenes a la sonda para desplegar los paneles solares y la antena de alta ganancia y utilizar manualmente el sistema de control de actitud para detener el movimiento de rodadura en el que estaba, pero la sonda no respondió. El equipo de análisis de datos de la nave espacial de JPL concluyó que el temporizador principal del ordenador del Ranger 4 se había detenido, lo que desactivó el sistema de telemetría, eventos preprogramados como el despliegue de paneles solares, y también hizo que la sonda no respondiera completamente a los comandos manuales. A pesar de que el impacto lunar se produciría según lo planeado, la misión fue para todos los propósitos y propósitos un fracaso. Hacer una píldora más amarga para tragar fue el rendimiento casi impecable del vehículo de lanzamiento. Los problemas de refuerzo que afectaron a Rangers 1-3 se habían resuelto, sólo para que la propia sonda fallara por completo, ya que a diferencia de las misiones anteriores, Ranger 4 no devolvió ningún dato útil. Encontrar la causa del mal funcionamiento del temporizador también podría ser difícil, ya que había ocurrido durante la fase de navegación costera antes de la inyección translunar cuando Ranger 4 estaba pasando entre estaciones de rastreo en el Caribe y Sudáfrica.\nSin energía solar, las baterías del Ranger 4 se apagaron en la mañana del 26 de abril y el transpondedor de radio dejó de funcionar. El pequeño transmisor en la cápsula del sismómetro continuó enviando una señal de 50 milímetros. Según la NASA, el Ranger 4 impactó en el lado lejano de la Luna (229,3 grados E, 15,5 grados S) a 9.600 km/h (5.970 mph) a las 12:49:53 UT el 26 de abril de 1962, después de 64 horas de vuelo. Sin embargo, las coordenadas fueron \"adivinadas\", y mientras que el cráter de impacto fue presumiblemente fotografiado por el posterior Orbiter de Reconocimiento Lunar, el cráter exacto no ha sido identificado.\nFuncionarios de la NASA trataron de dar un giro positivo a la misión, señalando que era la primera vez que una nave espacial estadounidense había alcanzado la superficie de la Luna y que la sonda era \"mucho más sofisticada\" que la sonda espacial Luna 2 soviética en 1959, que había sido poco más que una esfera presurizada diseñada para depositar banderines en la superficie en el impacto. El excelente rendimiento del booster Atlas-Agena también había elevado la moral.\nEsta nave espacial, similar en diseño al Ranger 3, fue la primera nave espacial estadounidense en alcanzar otro cuerpo celestial. También fue la primera nave espacial que impactó en el lado lejano de la Luna. Aunque la nave espacial no logró su objetivo principal, la combinación Atlas-Agena-Ranger se realizó sin fallas por primera vez."
+    }
+  ],
+  "num_palabras": 1306
+}

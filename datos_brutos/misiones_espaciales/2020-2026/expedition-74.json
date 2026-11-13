@@ -1,0 +1,49 @@
+{
+  "titulo": "Expedition 74",
+  "titulo_wikipedia_en": "Expedition 74",
+  "fecha_lanzamiento": "2025-12-09",
+  "año_lanzamiento": 2025,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Expedition_74",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Expedición de larga duración",
+    "Operador": "NASA / Roscosmos",
+    "Estación espacial": "Estación Espacial Internacional",
+    "Fecha de inicio": "9 de diciembre de 2025",
+    "Fecha de fin": "26 de julio de 2026",
+    "Nave de llegada": "SpaceX Crew-11; Soyuz MS-28; SpaceX Crew-12; Soyuz MS-29",
+    "Nave de regreso": "SpaceX Crew-11; Soyuz MS-28",
+    "Tripulación": "Expedición 73/74: Zena Cardman; Michael Fincke; Kimiya Yui; Oleg Platonov; Sergey Kud-Sverchkov; Sergey Mikayev; Christopher Williams; Expedición 74/75:; Jessica Meir; Jack Hathaway; Sophie Adénot; Andrey Fedyaev; Piotr Dubrov; Anna Kikina; Anil Menon",
+    "Actividades extravehiculares (EVA)": "3",
+    "Duración de las EVA": "20 horas, 27 minutos",
+    "Programa": "Expediciones",
+    "Misión anterior": "Expedición 73",
+    "Misión siguiente": "Expedición 75"
+  },
+  "resumen": "La Expedición 74 fue la 74a expedición de larga duración a la Estación Espacial Internacional (ISS). La expedición comenzó con la salida de Soyuz MS-27 el 9 de diciembre de 2025 con el astronauta de la NASA Michael Fincke tomando el mando de la ISS y concluyó con la destrucción de Soyuz MS-28 el 26 de julio de 2026. Continuó la extensa investigación científica llevada a cabo a bordo de la ISS, centrándose en diversos campos, incluyendo la biología, la fisiología humana, la física y la ciencia de materiales. Los miembros de la tripulación también mantuvieron y actualizaron los sistemas de estaciones espaciales.",
+  "secciones": [
+    {
+      "titulo": "Antecedentes, Tripulación y Eventos",
+      "nivel": 2,
+      "texto": "La expedición comenzó con una tripulación compuesta por los astronautas de la NASA Zena Cardman, Michael Fincke y Christopher Williams, el astronauta de la JAXA Kimiya Yui, y los cosmonautas Roscosmos Oleg Platonov, Sergey Kud-Sverchkov y Sergey Mikayev.\nEl 7 de enero de 2026, la NASA anunció que SpaceX Crew-11 regresaría a la Tierra aproximadamente un mes antes debido a una \"situación médica\" no revelada que afectaba a un miembro de la tripulación. El incidente llevó a la cancelación de dos caminatas espaciales previstas el 8 y 15 de enero, incluyendo los preparativos para la instalación de ISS Roll-Out Solar Arrays (iROSAs) y otras tareas de mantenimiento en el módulo Harmony y la truss S6 y S4 de la estación. El administrador de la NASA, Jared Isaacman, confirmó el regreso temprano el 8 de enero.\nEl 12 de enero, Fincke entregó el mando de la estación espacial a Kud-Sverchkov. La tripulación-11 partió con Cardman, Fincke, Yui y Platónov el 14 de enero aproximadamente un mes antes de lo previsto. Más tarde Fincke declaró que experimentó el evento médico, fue estabilizado por compañeros de tripulación bajo la dirección de los cirujanos de vuelo de la NASA, y regresó temprano para acceder a imágenes médicas avanzadas no disponibles en la estación. Después de la salpicadura, fue tratado en el Hospital Memorial Scripps La Jolla y más tarde informó que \"lo estaba haciendo muy bien\".\nSpaceX Crew-12 llegó a la ISS el 14 de febrero, transportando a las astronautas de la NASA Jessica Meir y Jack Hathaway, a la astronauta de la ESA Sophie Adenot y al cosmonauta Roscosmos Andrey Fedyaev.\nLa expedición vio tres caminatas espaciales. El 18 de marzo, Meir y Williams llevaron a cabo una caminata espacial de 7 horas y 2 minutos para preparar el canal de alimentación 2A para la futura instalación de otra matriz solar iROSA. El 27 de mayo, Kud-Sverchkov y Mikayev realizaron una caminata espacial de 6 horas y 5 minutos para instalar un experimento solar en el módulo de servicio Zvezda, eliminar el hardware científico de los módulos Poisk y Nauka, y fotografiar la antena de encuentro Kurs en la nave de carga Progress MS-33 que no se había desplegado después de su lanzamiento en marzo. El 30 de junio, Williams y Meir llevaron a cabo una caminata espacial de 7 horas y 20 minutos para reparar Canadarm2, retirando una articulación de muñeca de repuesto de ESP2, cambiándola por la rota, y llevando la articulación rota dentro de la estación para regresar a la Tierra para inspección y posible remodelación.\nSoyuz MS-29 llegó a la estación el 14 de julio, transportando a Roscosmos cosmonautas Piotr Dubrov y Anna Kikina, junto con el astronauta de la NASA Anil Menon. Después de dos semanas de traspaso, Kud-Sverchkov transfirió el mando de la ISS a Meir el 25 de julio. La expedición terminó el 26 de julio con la salida de Kud-Sverchkov, Mikayev y Williams en Soyuz MS-28."
+    },
+    {
+      "titulo": "Manifestación de acontecimientos",
+      "nivel": 2,
+      "texto": "Los eventos relacionados con naves espaciales tripuladas se enumeran en negrita.\nMisión anterior: Expedición 73\n9 de diciembre de 2025 – Soyuz MS-27 undocking, cambio oficial de Expedición 73\n7 de enero de 2026 – \"Situación médica\" no revelada experimentada por Fincke, EE.UU. cancelada\n12 de enero de 2026 – Expedición ISS 74 cambio de mando de Michael Fincke a Sergey Kud-Sverchkov\n14 de enero de 2026 – SpaceX Crew-11 deshacercking\n14 de febrero de 2026 – Atraque de la tripulación SpaceX-12\n26 de febrero de 2026 – SPR SpX-33 unlockcking\n6 de marzo de 2026 – HTV-X1 unberthing y lanzamiento\n12 de marzo de 2026 – CRS NG-23 unberthing y lanzamiento\n16 de marzo de 2026 – Progreso MS-31 deshacercking\n18 de marzo de 2026 – EVA 1 (US-94) Meir/Williams: 7 horas, 2 minutos\n24 de marzo de 2026 – Progreso en el acoplamiento MS-33\n13 de abril de 2026 – Captura y atraque CRS NG-24\n20 de abril de 2026 – Progreso MS-32\n28 de abril de 2026 – Atraque MS-34\n17 de mayo de 2026 – Atraque CRS SpX-34\n27 de mayo de 2026 – EVA 2 (VKD-66) Kud-Sverchkov/Mikayev: 6 horas, 5 minutos\n16 de junio de 2026 – SPR SpX-34 unlockcking\n30 de junio de 2026 – EVA 3 (US-95) Williams/Meir: 7 horas, 20 minutos\n14 de julio de 2026 – Atraque Soyuz MS-29\n25 de julio de 2026 – Expedición de la ISS 74/75 cambio de mando de Sergey Kud-Sverchkov a Jessica Meir\n26 de julio de 2026 – Soyuz MS-28, cambio oficial a Expedición 75\nPróxima misión: Expedición 75"
+    },
+    {
+      "titulo": "Manifiesto del vehículo",
+      "nivel": 2,
+      "texto": "Los puertos de popa, proa, estribor y popa de Prichal todavía no se han utilizado desde que el módulo se acopló originalmente a la estación y no están incluidos en la tabla."
+    }
+  ],
+  "num_palabras": 891
+}

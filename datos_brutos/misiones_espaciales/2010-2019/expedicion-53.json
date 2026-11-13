@@ -1,0 +1,36 @@
+{
+  "titulo": "Expedición 53",
+  "titulo_wikipedia_en": "Expedition 53",
+  "fecha_lanzamiento": "2017-09-02",
+  "año_lanzamiento": 2017,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Expedición_53",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Fecha de inicio": "3 de septiembre de 2017",
+    "Fecha de fin": "14 de diciembre de 2017",
+    "Misión anterior": "Expedición 52",
+    "Misión siguiente": "Expedición 54",
+    "Nave de llegada": "Soyuz MS-05\nSoyuz MS-06",
+    "Nave de regreso": "Soyuz MS-05\nSoyuz MS-06",
+    "Programa": "Programa de la ISS",
+    "Estación espacial": "ISS",
+    "Tipo de misión": "Expedición a la ISS",
+    "Acoplamiento": "objetivo acople: ISS | tipo acople: acople | tiempo acoplado: 102 días"
+  },
+  "resumen": "La Expedición 53 fue la 53.ª misión de larga duración en la ISS, que comenzó con el desacoplamiento de la Soyuz MS-04 el 3 de septiembre de 2017 y concluyó con el desacoplamiento de la Soyuz MS-05, el 14 de diciembre de 2017. Randolph Bresnik, Paolo Nespoli y Sergey Ryazansky fueron transferidos de la Expedición 52, con Randolph Bresnik tomando el papel de comandante. El resto de miembros de la Expedición, llegaron el 12 de septiembre a bordo de la Soyuz MS-06. La transferencia del mando de la Expedición 53 a la Expedición 54 se realizó el 13 de diciembre de 2017. La Expedición 53 finalizó oficialmente el 14 de diciembre de 2017, 5:14 UTC, con el desacoplamiento de Soyuz MS-05, siendo el cosmonauta y nuevo comandante, Alexander Misurkin y los astronautas de la NASA, Mark T. Vande Hei y Joseph M. Acaba transferidos a la Expedición 54.",
+  "secciones": [
+    {
+      "titulo": "Misión",
+      "nivel": 2,
+      "texto": "Durante la expedición se supervisaron el acoplamiento de las naves de carga, SpaceX Dragon CRS-12, Progress MS-07 y Cygnus CRS OA-8E, además de la nave tripulada Soyuz MS-06 con la segunda parte de la tripulación el día 12 de septiembre de 2017.\nBresnik realizó 3 caminatas espaciales junto con Mark T. Vande Hei y Joseph M. Acaba desde el segmento americano de la Estación, las número 203, 204 y 205 de la historia de la ISS.\nTambién se continuó y finalizó la misión \"Vita\" (Vitality, Innovation, Technology and Ability) de la ESA a cargo de Paolo Nespoli durante las expediciones 52/53."
+    }
+  ],
+  "num_palabras": 249
+}

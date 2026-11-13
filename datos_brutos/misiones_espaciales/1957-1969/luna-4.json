@@ -1,0 +1,61 @@
+{
+  "titulo": "Luna 4",
+  "titulo_wikipedia_en": "Luna 4",
+  "fecha_lanzamiento": "1963-04-02",
+  "año_lanzamiento": 1963,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración lunar",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Luna_4",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Tierras lunares",
+    "Operador": "Programa espacial soviético",
+    "ID COSPAR": "1963-008B",
+    "Nº SATCAT": "566",
+    "Duración de la misión": "13 días (lanzamiento hasta el último contacto)",
+    "Nave": "Ye-6 No.4",
+    "Fabricante": "OKB-1",
+    "Masa en el lanzamiento": "1422 kg",
+    "Fecha de lanzamiento": "2 de abril de 1963, 08:04:00 UTC",
+    "Vehículo de lanzamiento": "Molniya-L 8K78/E6",
+    "Lugar de lanzamiento": "Baikonur 1/5",
+    "Última señal": "15 de abril de 1963",
+    "Época": "2 de abril de 1963",
+    "Periapsis": "690000 km",
+    "Apoapsis": "89250 km",
+    "Programa": "Programa Luna",
+    "Misión anterior": "Luna 1963B",
+    "Misión siguiente": "Luna 1964A",
+    "Datos interplanetarios": "tipo: aterrizador/sobrevuelo | object: Lunar | arrival date: April 5, 1963, 13:25 UT | distance: 8400 km"
+  },
+  "resumen": "Luna 4, o E-6 No.4 (serie Ye-6), a veces conocida en Occidente como Lunik 4, fue una nave espacial soviética lanzada en 1963 como parte del programa Luna para intentar el primer aterrizaje suave en la Luna. Después de un lanzamiento exitoso, la nave espacial no pudo realizar una corrección de curso y como resultado no pudo alcanzar la Luna, permaneciendo en su lugar en órbita terrestre antes de posiblemente pasar a una órbita solar. Aunque la misión fue infructuosa, marcó una nueva época en la Carrera Espacial, que culminó con el exitoso desembarco de Luna 9 en 1966.",
+  "secciones": [
+    {
+      "titulo": "Antecedentes",
+      "nivel": 2,
+      "texto": "Tras el éxito de la misión Luna 3, que devolvió las primeras imágenes del Lejano Lado de la Luna, la Unión Soviética centró su atención en aprender más sobre la superficie lunar y si era lo suficientemente sólida como para aterrizar y construir estructuras. Con este fin, el 10 de diciembre de 1959, el Primer Ministro soviético Nikita Khrushchev firmó una resolución del Comité Central y el Consejo de Ministros para la creación de un módulo de aterrizaje lunar equipado con instrumentos científicos y una televisión. Esta tarea fue asignada a un grupo dirigido por Nikolay Beresnev, trabajando en la sección del departamento de Mikhail Tikhonravov en el OKB-1 dirigido por Gleb Maksimov. El jefe de OKB-1, Sergei Korolev, tomó una mano personal en dirigir el proyecto inicialmente antes de entregar las riendas a Beresnev. En 1963, la gestión de facto del proyecto se había transferido a Boris Chertok. La designación de trabajo fue Ye-6 (\"Ye\" siendo la letra en el alfabeto que sucedió a \"D\", la designación dada al proyecto de satélite que se convirtió en Sputnik 3).\nDebido a la complejidad de la nave espacial Ye-6, su masa era demasiado grande para la Luna de tres etapas (cohete) que había lanzado las sondas Luna anteriores. El Ye-6 en su lugar sería lanzado en el impulsor 8K78 que permitió una carga útil más grande y proporcionó la capacidad de poner la sonda en una órbita de estacionamiento en lugar de la ascensión directa inexacta de las sondas Luna de primera generación, aunque de los diez primeros intentos de lanzamiento 8K78, sólo dos (Mars 1 y Venera 1) tuvieron éxito, el resto no llegó a la órbita o ser incapaz de salir de LEO. Combinado con la avanzada naturaleza del módulo de aterrizaje, el equipo Ye-6 estimó que la misión tenía un 10% de posibilidades de éxito."
+    },
+    {
+      "titulo": "Vehículo espacial",
+      "nivel": 2,
+      "texto": "La nave espacial Ye-6 consistía en una pila de tres módulos cilíndricos, con una altura de 2,7 m (8 pies 10 pulgadas) y una masa de lanzamiento de 1.422 kg (3.135 libras). El primer módulo fue el módulo de cohetes Isayev, que tenía el motor principal, utilizado para la corrección a mitad del curso y el descenso al aterrizaje, cuatro propulsores para el control de actitud, y dos módulos de crucero. El principal propulsor del motor fue el hipergólico, que consiste en ácido nítrico y amina y produce un empuje de alrededor de 45.000 N. Los cuatro propulsores estaban montados en los desgranadores y podían producir 245 N cada uno. Un boom de 5 m (16 pies) se desplegaría desde el fondo de la nave espacial, utilizado para desencadenar la secuencia de aterrizaje final. El segundo módulo era un compartimiento presurizado herméticamente sellado que sostenía el propulsor y el oxígeno y contenía comunicación, orientación de la actitud, un altímetro y el sistema de control a bordo (\"I-100\").\nLuna 4 llevaba un sistema de astronavigación para que pudiera cambiar autónomamente el curso a mitad de vuelo. Este dispositivo (SAN) se deriva de sistemas similares desarrollados para aeronaves. El sistema de control autónomo de la nave espacial, los giroscopios, los circuitos de control y los circuitos lógicos se combinaron en el paquete I-100 de 80 kg que también controlaba aspectos de las etapas tercera y cuarta del cohete Molniya; se trataba de una medida de ahorro de peso que, sin embargo, conducía a fallos, como había ocurrido cuando se habían aplicado soluciones similares a la nave espacial Marte y Venera.\nEl tercer módulo fue el aterrizaje lunar, una esfera de 58 cm de diámetro protegida por dos airbags hemisféricos. La esfera de 105 kg (231 lb) tenía un compartimento herméticamente sellado que contenía aparatos de comunicaciones, baterías, sistemas de control térmico, un temporizador y los experimentos científicos. La parte superior de la esfera tenía cuatro pétalos, que se abrirían al aterrizar, permitiendo el despliegue de cuatro antenas de látigo de 75 cm (30 pulgadas) y la torreta de la cámara de aterrizaje. El control del módulo de aterrizaje se hizo por el dispositivo de sincronización a bordo o por comunicación desde la Tierra. Las baterías fueron diseñadas para funcionar durante un total de 5 horas durante unos 4 días.\nLa carga útil científica comprendía un sistema de imágenes y un detector de radiación SBM-10. Este último era un contador de descarga de gas, de 50 mm (2,0 pulgadas) de largo y 10 mm (0,39 pulgadas) de diámetro, fuertemente blindado por un lado. Los recuentos de radiación se telemetrizaron continuamente con una precisión estadística de aproximadamente el 0,1%.\nEl plan de la misión era inicializar la secuencia de aterrizaje a una altitud de unos 8.300 km. A 70 km (43 mi) a 75 km (47 mi) de altitud los módulos de crucero serían desechados, el motor principal se iniciaría, el altímetro de radar se activaría, y los airbags de aterrizaje se inflarían. A 250 m (820 pies) a 265 m (869 pies) de altitud el motor principal se apagaría y los cuatro propulsores se encenderían. El auge de 5 m (16 pies) metros tocaría primero la superficie, causando la expulsión del módulo de aterrizaje, que golpearía la superficie, amortiguada por los airbags, a unos 15 m/s (49 pies/s). Los airbags se desinflaban, los pétalos se abrían, haciendo que la esfera se orientara correctamente, y las antenas y los instrumentos podían ser desplegados. Este artículo incorpora texto de esta fuente, que es de dominio público."
+    },
+    {
+      "titulo": "Misión",
+      "nivel": 2,
+      "texto": "Después de un proceso de desarrollo cargado de retrasos técnicos y jurisdiccionales, la primera versión de vuelo del Ye-6 fue construida en diciembre de 1962. Los lanzamientos el 4 de enero de 1963 (Luna E-6 No.2) y el 3 de febrero de 1963 (Luna E-6 No.3) fracasaron, uno quedó atascado en la órbita terrestre baja y otro no alcanzó la órbita.\nLuna 4 fue lanzada por un cohete portador Molniya-L a las 08:16:37 UTC el 2 de abril de 1963. El lanzamiento tuvo lugar desde el sitio 1/5 en el cosmódromo de Baikonur, y la misión fue rastreada y controlada desde Simferopol, incluyendo la antena parabólica de 32 metros situada allí. Después de alcanzar una órbita inicial de estacionamiento de 167 por 182 kilómetros (104 por 113 millas), la etapa superior del cohete se reinicio para colocar Luna 4 en una trayectoria translúnar.\nLa trayectoria inicial de Luna 4 fue de acuerdo con el plan, pero debido a un fallo del sistema de astronavigación Yupiter, lo más probable debido a problemas de control térmico, la nave espacial no podía estar orientada correctamente para la quemadura de corrección planeada a mitad del curso. Como resultado, Luna 4 perdió la Luna en unos 8.400 kilómetros a las 13:25 UT del 5 de abril de 1963. Luego entró en una órbita terrestre baricéntrica de 90.000 km (56.000 mi) × 700.000 km (430.000 mi).\nAunque la cobertura del vuelo era noticia en primera plana fuera de la URSS, los detalles publicados por TASS, la agencia de noticias soviética, eran escasos. Esto irritaba a Chertok y a su equipo, que sentían el secreto \"poco significativo del programa espacial y generaban dudas entre el público en cuanto a su practicidad\".\nA pesar (y de alguna manera debido a) la relativa falta de información, los científicos occidentales fueron capaces de deducir mucho acerca de la Luna 4 (conocido como \"Lunik 4\") misión. Por ejemplo, la lógica dictaba que el siguiente paso después de las misiones lunares previas sería un orbitador lunar o un soft-lander. La duración comparativamente larga de la misión de 3,5 días implicó una carga útil mayor, apoyando esta creencia. Que Luna 4 no llegó a la Luna, y por un margen más amplio que Luna 1 y Luna 3, así sugirió un fracaso de la misión.\nEl silencio virtual de Radio Moscú con respecto al vuelo, así como la cancelación del programa de televisión \"Hitting the Moon\", programado para las 7:45pm hora de Moscú el 5 de abril, coincidiendo con la llegada de Luna 4 a la Luna. En su lugar se tocaba un programa de poesía y un interludio de piano. Los informes de TASS sobre la sonda fueron inusualmente breves, y la última mención de la sonda en el periódico Pravda fue una breve referencia dentro de un artículo general sobre la Luna, que fue publicado el 7 de abril."
+    },
+    {
+      "titulo": "Resultados y situación",
+      "nivel": 2,
+      "texto": "La nave transmitió a 183,6 MHz hasta el 15 de abril. Los astrónomos franceses e italianos informaron de la recepción de imágenes de la Luna tomadas por Luna 4. Un telescopio de 2,6 metros (8 pies 6 pulgadas) en Rusia fotografió a Luna 4 a principios de su vuelo cuando apareció como un objeto de magnitud 14. Aunque Luna 4 no aterrizó en la Luna, sí devolvió datos sobre el ambiente de radiación en el espacio cislunar. La nave espacial informó de variaciones en el flujo de radiación a lo largo del tiempo comparables a las medidas por misiones anteriores, pero con tiempos de transición más suaves. Debido a que Luna 4, a diferencia de sus predecesores, fue lanzada durante la parte menos activa del ciclo solar de 11 años, se conjeturaba que, en lugar de ser causada por estallidos solares esporádicos, las variaciones más suaves detectadas por Luna 4 podrían ser causadas por cambios en los efectos del campo magnético local, normalmente indetectables en tiempos más activos. Luna 4 también descubrió que la cola geomagnética de la Tierra se filtró al menos hasta la órbita lunar.\nEl camino de Luna 4 parece haber sido perturbado de tal manera que ahora orbita el Sol en lugar de la Tierra. El programa Ye-6 fue finalmente exitoso, con el 12o de la serie, Luna 9, aterrizando en la Luna el 3 de febrero de 1966."
+    }
+  ],
+  "num_palabras": 1708
+}

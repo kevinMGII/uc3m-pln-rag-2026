@@ -1,0 +1,41 @@
+{
+  "titulo": "STS-41-C",
+  "titulo_wikipedia_en": "STS-41-C",
+  "fecha_lanzamiento": "1984-04-06",
+  "año_lanzamiento": 1984,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/STS-41-C",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Lugar de lanzamiento": "KSC LC-39A",
+    "Fecha de lanzamiento": "6 de abril de 1984 13:58:00 UTC",
+    "Nave": "Challenger",
+    "Fecha de aterrizaje": "13 de abril de 1984 13:38:07 UTC Base Aérea Edwards",
+    "Duración de la misión": "6 días, 23 horas, 40 min y 7 s",
+    "Inclinación orbital": "28,5 °",
+    "Distancia recorrida": "4 619 000 kilómetros",
+    "Misión anterior": "STS-41-B",
+    "Misión siguiente": "STS-41-D",
+    "Programa": "Programa del Transbordador Espacial"
+  },
+  "resumen": "STS-41-C fue la misión 11 del programa STS y la quinta del transbordador Challenger. El lanzamiento fue el primero con una trayectoria ascendente directa en una misión. El vuelo se extendió por un día debido a los problemas para atrapar al satélite Solar Max. El aterrizaje se realizó en la base Edwards pese a que estaba programado en el Centro Espacial Kennedy.\nLos dos objetivos principales de la misión fueron el recuperar, reparar y relanzar el satélite Solar Max, y el lanzamiento del Servicio de Exposición de Larga Duración (LDEF).",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Robert L. Crippen (3) - Comandante\nFrancis R. Scobee (1) - Piloto\nGeorge D. Nelson (1) - Especialista de misión\nJames D. A. van Hoften (1) - Especialista de misión\nTerry J. Hart (1) - Especialista de misión\nEntre paréntesis número de vuelos realizados incluido el STS-41-C."
+    },
+    {
+      "titulo": "Parámetros de la misión",
+      "nivel": 2,
+      "texto": "Masa:\nOrbitador al despegue: 115 361 kg\nOrbitador al aterrizaje: 83 344 kg\nCarga: 17 357 kg\nPerigeo: 222 km\nApogeo: 468 km\nInclinación: 28,5°\nPeriodo: 91,4 min"
+    }
+  ],
+  "num_palabras": 165
+}

@@ -1,0 +1,50 @@
+{
+  "titulo": "Soyuz TMA-8",
+  "titulo_wikipedia_en": "Soyuz TMA-8",
+  "fecha_lanzamiento": "2006-03-30",
+  "año_lanzamiento": 2006,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Soyuz_TMA-8",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Órbitas completadas": "2886",
+    "Misión anterior": "Soyuz TMA-7",
+    "Programa": "Programa Soyuz",
+    "Misión siguiente": "Soyuz TMA-9"
+  },
+  "resumen": "Soyuz TMA-8 fue la vigésima-novena misión tripulada a la Estación Espacial Internacional. Fue lanzada del Cosmódromo de Baikonur en 30 de marzo de 2006 por un cohete Soyuz-FG, llevando a bordo el cosmonauta ruso Pavel Vinogradov, el astronauta norteamericano Jeffrey Williams, integrantes de la Expedición 13 en la estación orbital, y a Marcos Puentes, el primer cosmonauta brasileño, el primero lusófono, primero de Sudamérica y el segundo latinoamericano a ir al espacio.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Despegue",
+      "nivel": 3,
+      "texto": "Pavel Vinogradov Comandante\nJeffrey Williams ingeniero de vuelo\nMarcos Puentes ingeniero de vuelo"
+    },
+    {
+      "titulo": "Aterrizaje",
+      "nivel": 3,
+      "texto": "Pavel Vinogradov\nJeffrey Williams\nAnousheh Ansari turista espacial"
+    },
+    {
+      "titulo": "Atraque con la ISS",
+      "nivel": 3,
+      "texto": "Atraque con la ISS: 1 de abril de 2006, 04:19:26 UTC (al módulo Zvezdá )\nDesatraque de la ISS: 28 de septiembre de 2006, 21:53:09 UTC (del módulo Zvezdá )"
+    },
+    {
+      "titulo": "Misión",
+      "nivel": 2,
+      "texto": "La Misión Centenario, como fue designado el lanzamiento, recibió este nombre en homenaje al centenario del vuelo de Santos Dumont en el 14 Bis, ocurrido el día 23 de octubre de 1906.\nLa Agencia Espacial Brasileña (AEB) y la Agencia Espacial Federal Rusa (Roscosmos) firmaron un acuerdo para realizar la misión, que costó al gobierno brasileño veinte millones de dólares.\nLos miembros de la Expedición 13 sustituyeron el grupo de la Expedición 12, formado por William McArthur y Valery Tokarev, que retornaron a la Tierra, junto con Marcos César Puentes a bordo de la nave Soyuz TMA-7, misión anterior que había llevado la tripulación de la Expedición 12 y que aún estaba acoplada a la ISS.\nAntes de llegar hasta la ISS la tripulación descubrió la existencia de agua en el interior del Módulo Orbital, causada por una diferencia de temperatura entre la cápsula de reentrada y el Módulo Orbital. El problema no era crítico, pero como los experimentos estaban almacenados dentro del Módulo Orbital podrían ser dañados por el agua. La tripulación encontró la solución gracias a una frase que el Marcos Puentes dijo en tono de broma: \"Seria bueno si tuviéramos un tubo extra para conectar la ventilación de la cápsula con el Módulo Orbital, pero la única cosa que tenemos son las perneras de nuestros pantalones\". Finalmente solucionaron el problema con 2 monos extras, amarrando las piernas izquierdas para evitar fuga y uniendo las piernas derechas con algunos elásticos en torno a un tubo de papel fabricado con la portada de un manual bobinado y colocado en el interior de la unión. Una de las extremidades del \"tubo\" quedó en la salida de la ventilación de la cápsula y la otra, en el interior de la Módulo Orbital.\nEl aterrizaje de la Soyuz TMA-7 sucedió en 8 de abril de 2006.\nEl teniente-coronel de Aeronáutica Marcos Puentes realizó 155 órbitas y la duración total de su misión fue de 9 días, 21 horas y 17 minutos, durante los cuales emprendió diversos experimentos científicos, inclusive la observación de crecimiento de alubias en microgravedad, encomendada por estudiantes de secundaria de escuelas públicas brasileñas.\nEn su retorno a la Tierra en septiembre de 2006, la tripulación de la TMA-8 trajo con ella a turista espacial Anousheh Ansari, que había pasado siete días en la estación, después de subir con la tripulación de la Soyuz TMA-9, que sustituyó Vinogradov y Williams."
+    }
+  ],
+  "num_palabras": 523
+}

@@ -1,0 +1,41 @@
+{
+  "titulo": "STS-73",
+  "titulo_wikipedia_en": "STS-73",
+  "fecha_lanzamiento": "1995-10-20",
+  "año_lanzamiento": 1995,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/STS-73",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Vehículo de lanzamiento": "Transbordador espacial",
+    "Lugar de lanzamiento": "Kennedy LC-39B",
+    "Fecha de lanzamiento": "20 de octubre de 1995, 13:53:00 UTC",
+    "Nave": "Columbia",
+    "Inclinación orbital": "39.0°",
+    "Apoapsis": "241 kilómetros (150 millas)",
+    "Periapsis": "241 kilómetros (150 millas)",
+    "Misión anterior": "STS-69",
+    "Misión siguiente": "STS-74",
+    "Programa": "Programa del Transbordador Espacial"
+  },
+  "resumen": "STS-73 fue una misión del programa del transbordador espacial, durante octubre-noviembre de 1995, a bordo del transbordador espacial Columbia. Fue la segunda misión para el Laboratorio de Microgravedad de los Estados Unidos. La tripulación, que pasó 16 días en el espacio, se dividió en 2 equipos, el equipo rojo y el equipo azul. La misión también incluyó varios objetivos de prueba detallados o DTO.",
+  "secciones": [
+    {
+      "titulo": "Personal",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Puntos destacados de la misión",
+      "nivel": 2,
+      "texto": "La segunda misión Spacelab del Laboratorio de Microgravedad de los Estados Unidos (USML-2) fue la carga principal en STS-73. El vuelo de 16 días continuó un esfuerzo cooperativo del gobierno, las universidades y la industria de los EE. UU. para hacer retroceder las fronteras de la ciencia y la tecnología en la \"microgravedad\", el entorno espacial casi sin peso.\nAlgunos de los experimentos realizados en la carga útil USML-2 fueron sugeridos por los resultados de la primera misión USML que voló a bordo de Columbia en 1992 durante STS-50. La misión USML-1 proporcionó nuevos conocimientos sobre modelos teóricos de física de fluidos, el papel de la gravedad en la combustión y la propagación de llamas, y cómo la gravedad afecta la formación de cristales semiconductores. Los datos recopilados de varios cristales de proteínas cultivados en USML-1 permitieron a los científicos determinar las estructuras moleculares de esas proteínas.\nUSML-2 Construido sobre esa base. El conocimiento técnico adquirido se incorporó al plan de la misión para mejorar los procedimientos y las operaciones. Donde sea posible, los equipos experimentales refinaron su hardware para aumentar la comprensión científica de los procesos físicos básicos en la Tierra y en el espacio, así como para prepararse para operaciones más avanzadas a bordo de la Estación Espacial Internacional y otros programas espaciales futuros.\nLos experimentos USML-2 incluyeron:\nEl Experimento de Convección Impulsada por Tensión Superficial (STDCE), el módulo de física de caída, el experimento de dinámica de caída; el experimento de Ciencia y Tecnología de Fenómenos Controlados en Superficie\nEl experimento de la celda de flujo de fluido geofísico; el horno de crecimiento de cristales, el procesamiento orbital de semiconductores compuestos de telururo de cadmio y zinc de alta calidad\nAnálisis del rendimiento de las unidades de disco duro en el espacio\nEl estudio del comportamiento de segregación de dopantes durante el crecimiento de cristales de Arseniuro de Galio (GaAs) en un experimento de microgravedad\nEl Crecimiento Cristalino de Aleaciones Semiconductoras II-VI seleccionadas mediante un experimento de solidificación direccional\nEl Crecimiento de Cristales de Transporte de Vapor de Mercurio Cadmio Telurita en el Experimento de Microgravedad\nEl Horno de Crecimiento de Cristal de Zeolita (ZCG), el experimento de configuración de interfaz (ICE), el experimento de flujo termocapilar oscilatorio\nEl experimento de combustión de gotitas con soporte de fibra\nEl experimento de dispersión de partículas\nEl experimento de crecimiento de cristales de proteínas de un solo casillero; (incluido el Aparato de Cristalización de Proteínas para Microgravedad (PCAM) y el Aparato de Cristalización Controlado por Difusión para Microgravedad (DCAM)\nEl crecimiento de cristales por difusión líquido-líquido, el experimento comercial de crecimiento de cristales de proteínas; la instalación avanzada de cristalización de proteínas, experimento de cristalización de apocrystacianina C\nAnálisis de estructura cristalina de la lisozima lambda bacteriófaga, experimento de cristalización de moléculas de ARN en condiciones de microgravedad;\nCristalización de la proteína Grb2 y el experimento de la lisozima triclínica\nCristalización por microgravedad de experimento de aspartil-tRNA sintetasa y taumatina termofílica;\nCristalización en un entorno de microgravedad del experimento CcdB\nUn análisis multivariante de los datos de difracción de rayos X obtenidos del experimento de glutatión S-transferasa\nCrecimiento de cristales de proteínas: translocación de carga impulsada por la luz a través del experimento de bacteriorrodopsina\nCristalización del experimento del ribosoma\nCristalización del experimento Sulfolobus Solfataricus Alcohol Deshidrogenasa\nCristalización del virus del mosaico amarillo del nabo, virus del aspermia del tomate, virus del mosaico del satélite panicum, canavalina, catalasa de hígado de res, experimento de concanavalina B\nCristalización del factor de crecimiento epidérmico (EGF)\nEstructura del fotosistema complejo de proteínas embebidas en membrana I\nCristalización del pigmento visual Rhodopsin\nAparato de bioprocesamiento genérico comercial\nInstalación de Astrocultura y Experimento. Los experimentos de Spacelab Glovebox Facility incluyeron la caja de guantes de crecimiento de cristal de zeolita, la caja de guantes de crecimiento de cristal de proteína y las transiciones de orden del trastorno coloidal.\nLos controladores de vuelo USML-2 y los científicos experimentales dirigieron actividades científicas desde la instalación de Control de Operaciones de Misión Spacelab de la NASA en el Centro de Vuelo Espacial Marshall. Además, los equipos científicos en varios centros y universidades de la NASA monitorearon y respaldaron las operaciones de una serie de experimentos.\nOtras cargas útiles a bordo incluyeron el Experimento de Investigación de Aceleración Orbital (OARE), el Sistema de Medición de Aceleración Espacial (SAMS), el Acelerómetro de Microgravedad Tridimensional (3DMA), la Supresión de Aceleraciones Transitorias por Evaluación de Levitación (ESTABLE) y el sistema de Demostración Técnica de Televisión Digital de Alto Contenido.\nAlgunos miembros de la tripulación aparecieron en el episodio del 13 de febrero de 1996 de Home Improvement, \"Fear of Flying\", en un segmento de Tool Time.\nEl lanzamiento estaba originalmente programado para el 25 de septiembre de 1995, pero soportó seis intentos de lanzamiento antes del despegue del 20 de octubre de 1995. STS-73 y STS-61C tienen la distinción de estar atados para los lanzamientos más fregados, cada uno de ellos lanzado en su séptimo intento."
+    }
+  ],
+  "num_palabras": 889
+}

@@ -1,0 +1,36 @@
+{
+  "titulo": "Expedición 55",
+  "titulo_wikipedia_en": "Expedition 55",
+  "fecha_lanzamiento": "2018-02-27",
+  "año_lanzamiento": 2018,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Expedición_55",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Fecha de inicio": "27 de febrero de 2018",
+    "Fecha de fin": "3 de junio de 2018",
+    "Misión anterior": "Expedición 54",
+    "Misión siguiente": "Expedición 56",
+    "Nave de llegada": "Soyuz MS-07 Soyuz MS-08",
+    "Nave de regreso": "Soyuz MS-07",
+    "Programa": "Programa de la ISS",
+    "Estación espacial": "ISS",
+    "Tipo de misión": "Expedición a la ISS",
+    "Acoplamiento": "objetivo acople: ISS | tipo acople: acople | tiempo acoplado: 95 días"
+  },
+  "resumen": "La Expedición 55 fue la 55.ª misión de larga duración en la ISS. Comenzó el 27 de febrero de 2018 a las 23:09 UTC con la partida de la nave espacial Soyuz MS-06, quedando en la Estación el cosmonauta y comandante de la expedición, Anton Shkaplerov, y los astronautras de la NASA, Scott D. Tingle y de la JAXA, Norishige Kanai procedentes de la Soyuz MS-07 que llegó el 19 de diciembre de 2017.\nLos otros tres componentes de la expedición llegaron a bordo de la Soyuz MS-08, el 23 de marzo de 2018, durante el transcurso de la expedición.\nLa Expedición terminó con el desacople de la Soyuz MS-07 el 3 de junio de 2018, quedando en la ISS, el cosmonauta Oleg Artemyev y los astronautas de la NASA, Andrew J. Feustel y Richard R. Arnold, que formaron parte de la Expedición 56 junto con los tripulantes de la Soyuz MS-09 que llegarían 3 días más tarde.",
+  "secciones": [
+    {
+      "titulo": "Misión",
+      "nivel": 2,
+      "texto": "Las principales experiencias realizadas durante la misión fueron el estudio de truenos y rayos en la atmósfera terrestre, biología, pruebas sobre el impacto de la microgravidade en la médula ósea, el estudio de la reacción en el espacio de diversos tipos de materiales y sus compuestos y la simulación de gravedad dentro de la estación. Desarrollada por Techshot, la plataforma multiuso 2G variable simula hasta 2G de gravedad artificial con dos carruseles internos que giran simultáneamente. Se usó para investigar la reacción de gran variedad de tipos de muestras expuestas a esa miniatmosfera, como moscas de la fruta, gusanos, plantas, peces, células, cristales de proteína y muchos otros.\nDurante la expedición se realizaron dos caminadas espaciales por la pareja de astronautas americanos, Andrew J. Feustel y Richard R. Arnold. Estas caminatas espaciales, fueron las número 209 y 210 en la historia de la ISS, donde entre otras actividades fueron instaladas antenas wifi, barandillas en los radiadores externos, y hecha la eliminación de protectores térmicos de la ESP-2, una de las plataformas de acero, construidas para almacenamiento de componentes y piezas de reposición del lado externo de la estructura.\nDos naves no-tripuladas llegaron a la ISS durante y la expedición: La cápsula de suministros SpaceX CRS-14 y la nave Cygnus CRS OA-9E, ambas americanas, trayendo cerca de seis toneladas de carga entre suministros, nuevos experimentos científicos, un mini laboratorio y diversos componentes para el complejo orbital; Además, una nave de carga no-tripulada rusa, acoplada desde la expedición anterior, la Progress MS-07, fue desacoplada por el Control de Misión desde Moscú. De estas naves, las no-reutilizables, son colocadas en una órbita descendiente y destruidas por la reentrada en la atmósfera, que generalmente ocurre en las áreas despobladas del Pacífico Sur, a diferencia de la nave SpaceX Dragon CRS-14, que son recuperadas por la empresa SpaceX, y reacondicionadas para volver a ser usadas en una misión posterior."
+    }
+  ],
+  "num_palabras": 472
+}

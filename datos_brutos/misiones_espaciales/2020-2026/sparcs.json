@@ -1,0 +1,41 @@
+{
+  "titulo": "SPARCS",
+  "titulo_wikipedia_en": "SPARCS",
+  "fecha_lanzamiento": "2026-01-11",
+  "año_lanzamiento": 2026,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Telescopio espacial"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/SPARCS",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Telescopio espacial (Astrofísica)",
+    "Operador": "NASA",
+    "ID COSPAR": "2026-004?",
+    "Nº SATCAT": "673??",
+    "Fecha de lanzamiento": "11 de enero de 2026, 13:44:50 UTC",
+    "Vehículo de lanzamiento": "Falcon 9 (aumento 1097)",
+    "Lugar de lanzamiento": "Complejo de Lanzamiento Espacial Vandenberg 4",
+    "Contratista del lanzamiento": "SpaceX",
+    "Sistema de referencia orbital": "Geocéntrico",
+    "Régimen orbital": "Amanecer/ocaso órbita síncrona solar"
+  },
+  "resumen": "SPARCS (Star-Planet Activity Research CubeSat) es un telescopio espacial pequeño en formato CubeSat 6U (30x20x10 cm en el lanzamiento) cuyo objetivo es monitorear las bengalas y la actividad de las manchas solares de estrellas de baja masa de tipo espectral M y K. La misión seleccionada por la NASA es desarrollada y administrada por la Universidad Estatal de Arizona con la participación del Laboratorio de Propulsión Jet (JPL) que proporciona el telescopio y sus detectores.",
+  "secciones": [
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "El objetivo de la misión SPARCS es estudiar las emisiones ultravioletas de unas diez enanas rojas para modelar su impacto. SPARCS es con ASTERIA una de las primeras misiones de astronomía espacial utilizando el formato CubeSat extremadamente miniaturizado. Esta nueva categoría de satélite abre perspectivas en el campo de las observaciones a largo plazo de fenómenos astronómicos gracias a su costo reducido."
+    },
+    {
+      "titulo": "Calendario",
+      "nivel": 2,
+      "texto": "SPARCS lanzó el 11 de enero de 2026 en una misión \"Twilight\" de Falcon 9 junto con los telescopios Pandora y BlackCAT de la NASA. El 12 de marzo de 2026, la NASA publicó las primeras imágenes de luz de la nave espacial tomadas el 6 de febrero de 2026."
+    }
+  ],
+  "num_palabras": 187
+}

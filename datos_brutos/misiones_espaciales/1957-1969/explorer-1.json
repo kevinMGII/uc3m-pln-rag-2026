@@ -1,0 +1,59 @@
+{
+  "titulo": "Explorer 1",
+  "titulo_wikipedia_en": "Explorer 1",
+  "fecha_lanzamiento": "1958-02-01",
+  "año_lanzamiento": 1958,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Explorer_1",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Destruido en la reentrada",
+    "Tipo de misión": "Ciencias de la Tierra",
+    "Operador": "Army Ballistic Missile Agency",
+    "Fabricante": "Jet Propulsion Laboratory",
+    "Fecha de lanzamiento": "1 de febrero de 1958, 03:48 (UTC)\n(31 de enero de 1958, 22:48 hora local)",
+    "Lugar de lanzamiento": "Estación de la Fuerza Aérea de Cabo Cañaveral, EE.UU.",
+    "Vehículo de lanzamiento": "Jupiter-C, Juno I",
+    "Duración planificada": "111 días",
+    "ID NSSDC": "1958-001A",
+    "Masa en el lanzamiento": "13,97 kg",
+    "Semieje mayor": "7832,2 km",
+    "Excentricidad": "0,139849",
+    "Periapsis": "358 km (altura sobre superficie)",
+    "Apoapsis": "2550 km (altura sobre superficie)",
+    "Inclinación orbital": "33,24 grados",
+    "Periodo orbital": "114,8 minutos",
+    "Tipo de fin de misión": "reingreso",
+    "Fecha de reentrada": "31 de marzo de 1970 (+58 000 órbitas)"
+  },
+  "resumen": "El Explorer 1, oficialmente 1958 Alpha 1, fue el primer satélite artificial puesto en órbita terrestre por Estados Unidos. Fue lanzado a las 22:48 horas EST del 31 de enero (03:48 del 1 de febrero en UTC) de 1958 desde el Complejo de Lanzamiento 26 (LC-26) de la estación de la Fuerza Aérea de Cabo Cañaveral a bordo del cohete Juno I, como parte del Año Geofísico Internacional y en respuesta al lanzamiento del Sputnik I y del Sputnik II por parte de la Unión Soviética, con lo que se dio así comienzo a la carrera espacial, estrechamente relacionada con la Guerra Fría.\nFue el primer vehículo espacial que detectó los cinturones de radiación de Van Allen, bautizados así en honor a James van Allen, quien había dirigido el diseño y la construcción de la instrumentación científica del Explorer 1, que envió datos durante algo menos de cuatro meses, hasta que sus baterías se agotaron. El pequeño satélite permaneció en órbita hasta el 31 de marzo de 1970, cuando se produjo su reentrada en la atmósfera y se precipitó al océano Pacífico. Fue el primer lanzamiento del programa Explorer, una larga serie de más de noventa satélites estadounidenses.",
+  "secciones": [
+    {
+      "titulo": "Contexto y comienzos",
+      "nivel": 2,
+      "texto": "El programa estadounidense de satélites terrestres comenzó en el año 1954 como una propuesta conjunta del Ejército y de la Armada de los Estados Unidos llamada Project Orbiter, que pretendía poner en órbita un satélite científico durante el Año Geofísico Internacional. La idea, que utilizaría un misil Redstone como lanzador, fue rechazada en 1955 por el gobierno del presidente Dwight D. Eisenhower, que se inclinó por el Project Vanguard de la Armada, que no contemplaba el uso de un misil sino el de un cohete pensado expresamente para lanzamientos civiles. Tras el lanzamiento del satélite soviético Sputnik I el 4 de octubre de 1957, el Project Orbiter inicial fue retomado como programa Explorer con la intención de estar al mismo nivel que la Unión Soviética.\nEl Explorer 1 fue diseñado y construido por el Jet Propulsion Laboratory (JPL) al tiempo que la Army Ballistic Missile Agency (ABMA) modificaba un cohete Jupiter-C para dar cabida a la carga útil, lo que dio origen al Juno I. El diseño del Jupiter-C utilizado para el lanzamiento ya se había probado en ensayos de vuelo y reentrada para el misil balístico de alcance intermedio PGM-19 Jupiter. Gracias al trabajo conjunto, ABMA y JPL completaron la construcción del Explorer 1 y la modificación del Jupiter-C en ochenta y cuatro días. A pesar de su rapidez, la URSS pudo colocar en órbita un segundo satélite, el Sputnik II, el 3 de noviembre de 1957. Además, el intento de la Armada estadounidense de situar su primer satélite en órbita el 6 de diciembre de 1957 con el Vanguard TV3 fracasó."
+    },
+    {
+      "titulo": "Diseño",
+      "nivel": 2,
+      "texto": "El diseño y la construcción de Explorer 1 se llevaron a cabo por el Jet Propulsion Laboratory del Instituto de Tecnología de California bajo la dirección del Dr. William Hayward Pickering. Fue el segundo satélite que llevó «carga», solo por detrás del Sputnik II.\nPresentaba una forma fuselada muy esbelta, con 203 cm de largo y 15,9 cm de diámetro. Del peso total del satélite, que era de 13,97 kg, la instrumentación sumaba 8,3 kg. La sección de instrumentación en la parte frontal del satélite y la estructura del cohete de cuatro etapas —una versión reducida del MGM-29 Sergeant— orbitaban como un único cuerpo girando alrededor de su eje de revolución 750 veces por minuto. Es reseñable la diferencia de peso y forma del Explorer 1 respecto al primer satélite ruso, el Sputnik I, que pesaba 83,6 kg y tenía forma esférica.\nLa transmisión de datos de los aparatos científicos a la base en tierra se realizaba mediante dos antenas. Un transmisor de 60 mW alimentaba una antena dipolo formada por dos antenas de ranura de fibra de vidrio situadas en el cuerpo del satélite cuya frecuencia de operación era de 108,03 MHz; otro transmisor de 10 mW operando a 108,00 MHz alimentaba cuatro latiguillos flexibles que conformaban una antena de torniquete.\nDebido al escaso espacio disponible en el satélite y a los requisitos de bajo peso, la instrumentación de la carga útil fue diseñada teniendo como pilares su simplicidad y su alta fiabilidad. Se usaron transistores consistentes en aparatos de germanio y silicio, una tecnología muy nueva por aquellos años para la que su utilización en el mundo espacial supuso un importante desarrollo. Asimismo, es el primer uso documentado de transistores en el programa de satélites de Estados Unidos. En total, el Explorer 1 contaba con veintinueve transistores, además de algunos adicionales del detector de micrometeoritos de la Armada. La potencia eléctrica del satélite era generada por unas pilas de mercurio, que por sí solas suponían un 40% del peso de la carga útil.\nLa estructura que encerraba la sección de instrumentos se pintó a rayas, alternando blanco y verde oscuro para proveer de control térmico pasivo al satélite. Las proporciones de las rayas se determinaron estudiando los intervalos de luz y sombra basados en momento de lanzamiento, trayectoria, órbita e inclinación."
+    },
+    {
+      "titulo": "Vuelo",
+      "nivel": 2,
+      "texto": "El cohete Juno I fue lanzado el 31 de enero de 1958 a las 22:48 hora local (UTC-5). Situó al Explorer 1 satisfactoriamente en una órbita cuyo perigeo dejaba al satélite a 358 km de la superficie terrestre y cuyo apogeo se alejaba 2550 km de ella, con un periodo orbital de 114,8 minutos.\nAlrededor de la 1:30 de la madrugada en la costa este de Estados Unidos y tras la confirmación de que el Explorer 1 estaba efectivamente en órbita, se celebró una rueda de prensa en el Great Hall de la Academia Nacional de Ciencias de Estados Unidos en Washington D. C. para anunciarlo al resto del mundo.\nLas pilas de mercurio suministraron energía al transmisor de mayor potencia durante treinta y un días y al de menor potencia durante ciento cinco días. El Explorer 1 dejó de enviar datos el 23 de mayo de 1958, momento en el que sus baterías se agotaron, pero permaneció en órbita a lo largo de más de doce años, durante los cuales completó más de 58 000 órbitas. Finalmente, a causa del deterioro orbital reentró en la atmósfera sobre el océano Pacífico el 31 de marzo de 1970, y se desintegró durante la reentrada."
+    },
+    {
+      "titulo": "Carga útil e instrumentación",
+      "nivel": 2,
+      "texto": "La carga útil del Explorer 1 consistía principalmente en un instrumento de rayos cósmicos (Iowa Cosmic Ray Instrument) sin grabador de cinta para datos que no se modificó a tiempo para poder incorporar uno. Los datos recibidos en tiempo real por la estación en tierra eran por tanto muy escasos y desconcertantes, mostrando frecuencias de conteo normales o ningún conteo en absoluto. Posteriormente, la misión del Explorer 3, que sí incluía una grabadora para los datos, pudo completar la información adicional necesaria para comprobar los datos enviados por el Explorer 1.\nLa instrumentación científica a bordo del Explorer 1 fue diseñada y construida por el Dr. James van Allen, de la Universidad de Iowa. Contenía:\nUn tubo de Geiger-Müller omnidireccional Anton 314, diseñado por el Dr. George Ludwig del Laboratorio de Radiación Cósmica de Iowa para la detección de rayos cósmicos. Era capaz de detectar protones de energía superior a 30 MeV y electrones de energía superior a 3 MeV. Gran parte del tiempo este instrumento se encontraba saturado. Dejó de funcionar el 16 de marzo de 1958, a causa de las baterías.\nCinco sensores de temperatura (uno interno, tres externos y uno en la ojiva de la parte frontal).\nUn detector acústico para detectar impactos de micrometeoros (polvo cósmico). Cada impacto en la superficie de la nave sería función de la masa y la velocidad. Su área efectiva era de 0,075 m² y el límite medio de sensibilidad era 2,5 × 10−3 g cm/s;\nUn detector de malla, también usado para detectar impactos de micrometeoros. Estaba formado por doce placas conectadas paralelas montadas en un anillo de fibra de vidrio. Cada una de las placas se encontraba envuelta por dos capas de cable de aleación de níquel con aislamiento, que tenían un diámetro de 17 µm (21 µm incluyendo el aislamiento de esmalte), de tal manera que se cubría completamente una superficie de 1 cm² En caso de que impactara un micrometeoro de unos 10 µm de longitud, rompería el cable y detendría la conexión eléctrica, para así dejar grabado el suceso."
+    }
+  ],
+  "num_palabras": 1390
+}

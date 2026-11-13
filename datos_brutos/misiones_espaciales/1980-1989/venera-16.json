@@ -1,0 +1,54 @@
+{
+  "titulo": "Venera 16",
+  "titulo_wikipedia_en": "Venera 16",
+  "fecha_lanzamiento": "1983-06-07",
+  "año_lanzamiento": 1983,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración de Venus",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Venera_16",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Venus orbitador",
+    "Operador": "Academia Soviética de Ciencias",
+    "ID COSPAR": "1983-054A",
+    "Nº SATCAT": "14107",
+    "Duración de la misión": "Total:\nEn Venus:",
+    "Tipo de nave": "4V-2",
+    "Fabricante": "NPO Lavochkin",
+    "Masa en seco": "4000 kg",
+    "Masa en el lanzamiento": "5300 kg",
+    "Fecha de lanzamiento": "7 de junio de 1983, 02:32 UTC",
+    "Vehículo de lanzamiento": "Proton-K/D-1",
+    "Lugar de lanzamiento": "Baikonur 200/40",
+    "Sistema de referencia orbital": "Citerocéntrico",
+    "Semieje mayor": "45.632,0 km",
+    "Periapsis": "7.081 km",
+    "Apoapsis": "72,079 km",
+    "Inclinación orbital": "92,5 grados",
+    "Periodo orbital": "24 horas",
+    "Datos interplanetarios": "tipo: orbitador | objeto: Venus | órbitas: 243 | fecha de llegada: 11 de octubre de 1983",
+    "Programa": "Venera",
+    "Misión anterior": "Venera 15",
+    "Misión siguiente": "Venera-D"
+  },
+  "resumen": "Venera 16 (Венера-16 significa Venus 16) fue una nave espacial enviada a Venus por la Unión Soviética. Este orbitador desencriptado fue a cartografiar la superficie de Venus usando sistemas de imágenes de alta resolución. La nave espacial era idéntica a Venera 15 y se basaba en modificaciones de las sondas espaciales Venera anteriores. Los últimos datos de la nave fueron recibidos el 13 de junio de 1985, cuando respondió a la señal enviada desde la Tierra para Vega 1.",
+  "secciones": [
+    {
+      "titulo": "Perfil de la misión",
+      "nivel": 2,
+      "texto": "Venera 16 fue lanzada el 7 de junio de 1983, a las 02:32:00 UTC y llegó a la órbita de Venus el 11 de octubre de 1983.\nLa nave espacial fue insertada en la órbita de Venus un día aparte de Venera 15, con su plano orbital desplazado por un ángulo de aproximadamente 4° en relación entre sí. Esto hizo posible reimaginar un área si fuera necesario. La nave espacial estaba en una órbita casi polar con una periapsis de ~1000 km, a 62°N de latitud, y una apoapsis de ~65000 km, con una inclinación ~90°, el período orbital es ~24 horas.\nJunto con Venera 15, la nave espacial imaginó el área desde el polo norte hasta unos 30°N de latitud (es decir, aproximadamente el 25% de la superficie de Venus) durante los 8 meses de operaciones de mapeo."
+    },
+    {
+      "titulo": "Estructura de la nave espacial",
+      "nivel": 2,
+      "texto": "Las naves espaciales Venera 15 y 16 eran idénticas y se basaban en modificaciones de las partes orbitales de las sondas Venera 9 y Venera 14. Cada nave espacial consistía en un cilindro de 5 m de largo con un diámetro de 0,6 m, antena parabólica de 1,4 m de alto para el radar de apertura sintética en un extremo. Una antena parabólica de 1 m de diámetro para el radioaltímetro también fue localizada en este extremo. El eje eléctrico de la antena del radioaltímetro estaba alineado con el eje del cilindro. El eje eléctrico de la SAR se desvió 10 grados del eje de la nave espacial. Durante la toma de imágenes, el radioaltímetro estaría alineado con el centro del planeta (vertical local) y la SAR estaría mirando hacia el lado a 10 grados. Una protuberancia en el extremo opuesto del cilindro tenía tanques de combustible y unidades de propulsión. Dos conjuntos solares cuadrados se extendieron como alas desde los lados del cilindro. Una antena de antena de radio de 2,6 m para comunicaciones también fue conectada al lado del cilindro. La nave espacial pesaba 4000 kg cada una.\nTanto Venera 15 como 16 fueron equipados con un radar de apertura sintética. Un radar era necesario en esta misión porque nada más sería capaz de penetrar las densas nubes de Venus. Las sondas estaban equipadas con ordenadores a bordo que guardaban las imágenes hasta que se completara toda la imagen.\nLista de instrumentos y experimentos de naves espaciales:\nRadar de apertura sintético Polyus-V\nAltímetro de radar Omega\nEspectrómetro de infrarrojos Fourier\nDetectores de rayos cósmicos (6 sensores)\nDetectores de plasma solar\nPara llegar a Venus, Venera 16 fue colocada en una órbita heliocéntrica con perihelio de 0,71 unidades astronómicas, afelio de 1,01 unidades astronómicas, excentricidad de 0,17, inclinación orbital de 2,3 grados y período orbital de 293 días."
+    }
+  ],
+  "num_palabras": 527
+}

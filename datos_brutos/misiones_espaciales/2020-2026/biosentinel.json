@@ -1,0 +1,20 @@
+{
+  "titulo": "BioSentinel",
+  "titulo_wikipedia_en": "BioSentinel",
+  "fecha_lanzamiento": "2022-11-16",
+  "año_lanzamiento": 2022,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración lunar",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/BioSentinel",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {},
+  "resumen": "BioSentinel es una misión de bajo precio proyectada por la NASA, para desarrollar un satélite tipo CubeSat, cuyo objetivo está relacionado con la astrobiología, en el que fermentando organismos, detectará, medirá y comparará el impacto de la radiación del espacio profundo en la reparación del ADN durante mucho tiempo más allá de la órbita baja de la Tierra.\nSeleccionada en 2013 para ser lanzada en 2019, la nave espacial operará en el entorno de radiación del espacio profundo a lo largo de su misión de 18 meses. Esto ayudará a los científicos a comprender el perjuicio para la salud de los rayos cósmicos y el ambiente del espacio profundo en los organismos vivos, así como reducir el riesgo asociado con la exploración humana a largo plazo, puesto que la NASA tiene planeado enviar humanos a lugares más alejados que nunca se había realizado antes.",
+  "secciones": [],
+  "num_palabras": 144
+}

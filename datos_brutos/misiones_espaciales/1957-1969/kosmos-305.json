@@ -1,0 +1,42 @@
+{
+  "titulo": "Kosmos 305",
+  "titulo_wikipedia_en": "Kosmos 305",
+  "fecha_lanzamiento": "1969-10-22",
+  "año_lanzamiento": 1969,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración lunar"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Kosmos_305",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Operador": "Programa espacial soviético",
+    "ID COSPAR": "1969-092A",
+    "Nº SATCAT": "4150",
+    "Tipo de nave": "Ye-8-5",
+    "Fabricante": "GSMZ Lavochkin",
+    "Masa en el lanzamiento": "5600 kg",
+    "Fecha de lanzamiento": "22 de octubre de 1969, 14:09:00 UTC",
+    "Vehículo de lanzamiento": "Proton-K/D",
+    "Lugar de lanzamiento": "Baikonur 81/24",
+    "Tipo de fin de misión": "Fallo de lanzamiento",
+    "Fecha de reentrada": "24 de octubre de 1969",
+    "Sistema de referencia orbital": "Geocéntrico",
+    "Periapsis": "182 km",
+    "Apoapsis": "208 km",
+    "Inclinación orbital": "51.4°",
+    "Periodo orbital": "88,4 min",
+    "Programa": "Programa Luna",
+    "Misión anterior": "Kosmos 300",
+    "Misión siguiente": "Luna 1970A",
+    "Programa (2)": "Kosmos (satélites)",
+    "Misión anterior (2)": "Kosmos 304",
+    "Misión siguiente (2)": "Kosmos 306"
+  },
+  "resumen": "Kosmos 305 (en ruso: Космос 305 que significa Cosmos 305) (serie Ye-8-5) fue el quinto intento soviético de un retorno de muestra lunar sin crear. Probablemente era similar en diseño a la nave espacial Luna 16. Fue lanzado en un cohete Proton el 22 de octubre de 1969. Los motores de la etapa superior del bloque D fallaron, terminando la misión. Esto dejó la nave espacial varada en órbita terrestre. Volvió a entrar en dos días.",
+  "secciones": [],
+  "num_palabras": 76
+}

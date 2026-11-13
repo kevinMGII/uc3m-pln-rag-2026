@@ -1,0 +1,36 @@
+{
+  "titulo": "Soyuz MS-13",
+  "titulo_wikipedia_en": "Soyuz MS-13",
+  "fecha_lanzamiento": "2019-07-20",
+  "año_lanzamiento": 2019,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Soyuz_MS-13",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Vehículo de lanzamiento": "Soyuz-FG",
+    "Fecha de lanzamiento": "20 de julio de 2019, 16:28:21 UTC",
+    "Fecha de aterrizaje": "6 de febrero de 2020, 09:12 UTC",
+    "Nave": "Soyuz MS N.º 746",
+    "Tipo de nave": "Soyuz MS 11F747",
+    "Fabricante": "Energiya",
+    "Inclinación orbital": "51.6°",
+    "Programa": "Programa Soyuz",
+    "Misión anterior": "Soyuz MS-12",
+    "Misión siguiente": "Soyuz MS-15"
+  },
+  "resumen": "La misión Soyuz MS-13, fue el vuelo tripulado número 142 de una nave espacial Soyuz, también designado como vuelo 59S de la ISS, es un vuelo espacial Soyuz lanzado el 20 de julio de 2019 que transportó a tres miembros de la tripulación de la Expedición 60/ 61 a la Estación Espacial Internacional.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "El comandante de la nave, Aleksandr Skvortsov fue el único tripulante de origen ruso. El resto de la tripulación fueron un ingeniero de vuelo y astronauta de la ESA, Luca Parmitano, en su segunda misión europea Beyond y otro ingeniero de vuelo americano, Andrew R. Morgan que permaneció después del regreso de la nave Soyuz durante la Expedición 62 en la Estación Internacional como parte de una misión de larga duración de la NASA. Su asiento en el regreso fue ocupado por otra astronauta de la NASA, Cristina Koch que había volado anteriormente en la Soyuz MS-12 y a su regreso con la MS-13, consiguió el record de permanencia en el espacio para una mujer de 329 días, superando el anterior record de la astronauta Peggy Whitson de 289 días."
+    }
+  ],
+  "num_palabras": 183
+}

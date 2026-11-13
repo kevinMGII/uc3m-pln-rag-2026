@@ -1,0 +1,46 @@
+{
+  "titulo": "X-15 Flight 90",
+  "titulo_wikipedia_en": "X-15 Flight 90",
+  "fecha_lanzamiento": "1963-07-19",
+  "año_lanzamiento": 1963,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/X-15_Flight_90",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Vuelo de ensayo",
+    "Operador": "Fuerza Aérea de los Estados Unidos/NASA",
+    "Duración de la misión": "11 minutos, 24 segundos",
+    "Apogeo suborbital": "106,01 km",
+    "Distancia recorrida": "534 km",
+    "Nave": "X-15",
+    "Fabricante": "América del Norte",
+    "Masa en el lanzamiento": "15195 kg",
+    "Masa en seco": "6577 kg",
+    "Masa en el aterrizaje": "6260 kg",
+    "Fecha de lanzamiento": "19 de julio de 1963, 18:20:05 UTC",
+    "Lugar de lanzamiento": "Bola 8, Edwards\nCayó sobre Smith Ranch Dry Lake",
+    "Fecha de aterrizaje": "UTC",
+    "Lugar de aterrizaje": "Rogers Dry Lake, Edwards",
+    "Tripulación": "Joseph A. Walker"
+  },
+  "resumen": "El vuelo 90 del X-15 de América del Norte fue un vuelo de investigación realizado por la NASA y la Fuerza Aérea de los Estados Unidos el 19 de julio de 1963. Fue la primera de las dos misiones X-15 que pasaron la línea Kármán de 100 km de altura, la definición de espacio de la FAI, junto con el Vuelo 91 al mes siguiente. La X-15 fue volada por Joseph A. Walker, que voló ambos vuelos espaciales X-15 sobre la línea Kármán.",
+  "secciones": [
+    {
+      "titulo": "Parámetros de la misión",
+      "nivel": 2,
+      "texto": "Masa: 15.195 kg de combustible; 6.577 kg de burnout; 6.260 kg desembarcados\nAltura máxima: 106,01 km., 347.800 pies\nDistancia: 534 km\nTiempo de combustión: 84,6 segundos\nMach: 5,50\nVehículo de lanzamiento: bombardero NB-52B #008"
+    },
+    {
+      "titulo": "Aspectos destacados de la misión",
+      "nivel": 2,
+      "texto": "Velocidad máxima - 5.971 km/h. Altitud máxima - 106.010 m. Globo de 80 cm de diámetro remolcado en línea de 30 m para medir la densidad del aire. Primer vuelo X-15 de más de 100 km (altura conocida como la línea Kármán). Esto convirtió a Walker en el primer civil estadounidense en el espacio. Este fue también el primer vuelo espacial de un avión espacial en la historia de la aviación. Primer vuelo lanzado sobre Smith Dry Lake, NV. Experimentos: Globo remolcado, escáner de horizonte, fotómetro, infrarrojo y ultravioleta. Falló la instrumentación del globo.\nLa misión fue volada por el X-15 #3, serie 56–6672 en su vuelo 21.\nLanzado por: NB-52B #008, Pilotos Fulton & Bement. Despegue: 17:19. Aterrizaje UTC: 19:04 UTC.\nPilotos de Chase: Crews, Dana, Rogers, Daniel y Wood.\nEl motor X-15 quemó unos 85 segundos. Cerca del final de la quemadura, aceleración construida hasta aproximadamente 4g (39 m/s2). La ingravidez duró de 3 a 5 minutos. Calefacción de reingreso calentó el exterior de la X-15 a 650 °C en lugares. Durante el arranque después del reingreso, la aceleración se construyó hasta 5g (49 m/s2) durante 20 segundos. Todo el vuelo duró unos 12 minutos desde el lanzamiento hasta el aterrizaje."
+    }
+  ],
+  "num_palabras": 320
+}

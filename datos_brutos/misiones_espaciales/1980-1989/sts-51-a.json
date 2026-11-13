@@ -1,0 +1,41 @@
+{
+  "titulo": "STS-51-A",
+  "titulo_wikipedia_en": "STS-51-A",
+  "fecha_lanzamiento": "1984-11-08",
+  "año_lanzamiento": 1984,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/STS-51-A",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Lugar de lanzamiento": "KSC LC-39A",
+    "Fecha de lanzamiento": "8 de noviembre de 1984 12:15:00 UTC",
+    "Nave": "Discovery",
+    "Fecha de aterrizaje": "16 de noviembre de 1984 11:59:56 UTC Centro Espacial Kennedy, Pista 15",
+    "Duración de la misión": "7 días, 23 horas, 44 min y 56 s",
+    "Inclinación orbital": "28.5 grados",
+    "Distancia recorrida": "5,293,786 kilómetros",
+    "Misión anterior": "STS-41-G",
+    "Misión siguiente": "STS-51-C",
+    "Programa": "Programa del Transbordador Espacial"
+  },
+  "resumen": "STS-51-A fue la misión catorce del programa STS y la número dos del transbordador Discovery. La misión tuvo una misión única al lanzar dos satélites de comunicación y recuperar a otros dos que se encontraban en una órbita incorrecta.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Frederick Hauck (2) - Comandante\nDavid M. Walker (1) - Piloto\nAnna Fisher (1) - Especialista de misión\nDale Gardner (2) - Especialista de misión\nJoseph P. Allen (2) - Especialista de misión\nEntre paréntesis número de vuelos realizados incluido el STS-51-A."
+    },
+    {
+      "titulo": "Parámetros de la misión",
+      "nivel": 2,
+      "texto": "Masa:\nOrbitador al despegue: 119,441 kg\nOrbitador al aterrizaje: 94,120 kg\nCarga: 20,550 kg\nPerigeo: 289 km\nApogeo: 297 km\nInclinación: 28.4°\nPeriodo orbital: 90.4 min"
+    }
+  ],
+  "num_palabras": 107
+}

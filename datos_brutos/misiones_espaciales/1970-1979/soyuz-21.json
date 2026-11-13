@@ -1,0 +1,44 @@
+{
+  "titulo": "Soyuz 21",
+  "titulo_wikipedia_en": "Soyuz 21",
+  "fecha_lanzamiento": "1976-07-06",
+  "año_lanzamiento": 1976,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Soyuz_21",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Masa en el lanzamiento": "6800 kg",
+    "Fecha de lanzamiento": "6 de julio de 1976",
+    "Nave": "Soyuz 7K-T",
+    "Fecha de aterrizaje": "24 de agosto de 1976",
+    "Duración de la misión": "49,27 días",
+    "Programa": "Programa Soyuz",
+    "Misión anterior": "Soyuz 20",
+    "Misión siguiente": "Soyuz 22"
+  },
+  "resumen": "Soyuz 21 fue una misión de una nave Soyuz 7K-T modificada (Soyuz 7K-T/A9) lanzada el 6 de julio de 1976 desde el cosmódromo de Baikonur con dos cosmonautas a bordo para acoplarse a la estación espacial militar Salyut 5 en el marco del programa Almaz.\nLa misión de Soyuz 21 fue realizar experimentos militares, científicos y técnicos en la estación.\nTras el lanzamiento la nave se acercó a la estación y consiguió acoplarse a ella a pesar del fallo del sistema automático Igla.\nLa tripulación comenzó a realizar diferentes experimentos y pruebas para establecer la utilidad de realizar reconocimientos militares humanos desde el espacio. También realizaron experimentos científicos, como los de crecimiento de cristales en microgravedad.\nDurante la misión la salud tanto física como mental de uno de los cosmonautas (Zholobov, el ingeniero de vuelo) se fue deteriorando, sufriendo problemas constantes relacionados con el mareo espacial y padeciendo problemas psicológicos que obligaron a un regreso de la nave antes de lo previsto. La nave regresó el 24 de agosto de 1976, aterrizando a 200 km al suroeste de Kokshetau.\nUna de las hipótesis con la que se trabaja para explicar los problemas de Zhólobov (que afectaron en mucho menor grado al otro cosmonauta, Borís Volinov) es la fuga de pequeñas cantidades de ácido nítrico de los tanques de propelente de la estación espacial, aunque otras fuentes indican que los cosmonautas no siguieron el programa de ejercicios físicos y padecieron problemas de sueño.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Borís Volinov (Comandante)\nVitali Zhólobov (Ingeniero de vuelo)"
+    },
+    {
+      "titulo": "Tripulación de respaldo",
+      "nivel": 2,
+      "texto": "Vyacheslav Zudov (Comandante)\nValeri Rozhdestvensky (Ingeniero de vuelo)"
+    },
+    {
+      "titulo": "Tripulación de reserva",
+      "nivel": 2,
+      "texto": "Víktor Gorbatkó (Comandante)\nYuri Glazkov (Ingeniero de vuelo)"
+    }
+  ],
+  "num_palabras": 266
+}

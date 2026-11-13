@@ -1,0 +1,45 @@
+{
+  "titulo": "STS-135",
+  "titulo_wikipedia_en": "STS-135",
+  "fecha_lanzamiento": "2011-07-08",
+  "año_lanzamiento": 2011,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/STS-135",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Lugar de lanzamiento": "LC-39A",
+    "Fecha de lanzamiento": "8 de julio de 2011 15:29 UTC",
+    "Nave": "Atlantis",
+    "Fecha de aterrizaje": "21 de julio de 2011 9:57 UTC",
+    "Duración de la misión": "11 días",
+    "Inclinación orbital": "51,6 grados",
+    "Distancia recorrida": "8,505,161 km",
+    "Misión anterior": "STS-134",
+    "Programa": "Programa del Transbordador Espacial"
+  },
+  "resumen": "STS-135 es una misión que no estuvo prevista originalmente, pero que fue finalmente confirmada el jueves 20 de enero de 2011 en un informe por parte de autoridades del STS Program de la NASA. Usó todas las características inicialmente planeadas para la misión STS-335, aunque si esta última se llevase a cabo, en rescate del Endeavour STS-134, probablemente la STS-135 fuera cancelada. La NASA fue autorizada para llevar a cabo esta misión, a finales de 2010, y en enero de 2011 la aprobó, agregando todas las características de la misma (lo cual es llamado Baselines) de manera oficial al Manifiesto de lanzamientos, la tabla con los siguientes lanzamientos espaciales. La NASA había preservado todas las opciones para un posible vuelo de la STS-135, incluyendo Suministros logísticos para llevar a la ISS, que no podrían ser cargados en otros vehículos espaciales, lo cual fue crucial para que se efectuara la STS-135.\nEl Transbordador espacial OV-104, Atlantis, fue quien llevó a cabo la misión al mando del comandante Chris Ferguson. Paradójicamente, el Atlantis, se retiró de servicio de manera oficial durante la STS-132, por lo que al parecer, tuvo un \"segundo final\". La STS-135 estuvo lista para volar no antes del 8 de julio de 2011, con un ET-122 que estuvo asignado después a la STS-335.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Véase también: Tripulación del transbordador espacial\nChris Ferguson (3) - Comandante\nDouglas Hurley (2) - Piloto\nSandra Magnus (3) - Especialista 1 de misión\nRex Walheim (3) - Especialista 2 de misión"
+    },
+    {
+      "titulo": "Proceso de la misión",
+      "nivel": 2,
+      "texto": "Para más información, acerca del proceso del transbordador espacial Atlantis, en función de la STS-135, consultar Proceso de la misión en el artículo STS-335"
+    },
+    {
+      "titulo": "Carga útil de la misión",
+      "nivel": 3,
+      "texto": "Atlantis llevó las siguientes cargas a la ISS: El MPLM Raffaello que sería la mayoría de la carga. El módulo fue cargado con 16 suplementos de \"racks\" de ciencias (experimentos científicos), que son el máximo que puede manipular. También llevaría el LMC, el ECTS, el Pump Module que falló y fue reemplazado en órbita en agosto de 2010, entre otras cargas."
+    }
+  ],
+  "num_palabras": 331
+}

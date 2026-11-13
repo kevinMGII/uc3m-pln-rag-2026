@@ -1,0 +1,39 @@
+{
+  "titulo": "Soyuz TM-9",
+  "titulo_wikipedia_en": "Soyuz TM-9",
+  "fecha_lanzamiento": "1990-02-11",
+  "año_lanzamiento": 1990,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Soyuz_TM-9",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Transporte de tripulación a la MIR",
+    "Duración de la misión": "179 días, 1 h y 17 min",
+    "Fecha de lanzamiento": "11 de febrero de 1990, 06:16 UTC",
+    "Fecha de aterrizaje": "9 de agosto de 1990, 07:33 UTC",
+    "Programa": "Programa Soyuz",
+    "Misión anterior": "Soyuz TM-8",
+    "Misión siguiente": "Soyuz TM-10",
+    "Acoplamiento": "objetivo acople: Mir | tipo acople: acople | fecha acople: 13 de febrero de 1990, 06:37 UTC | fecha desacople: 9 de agosto de 1990, 04:08 UTC"
+  },
+  "resumen": "Soyuz TM-9 fue la novena expedición lanzada a la estación orbital Mir, y la sexta de larga duración (EO-6), realizada entre el 5 de septiembre de 1989 y el 19 de febrero de 1990.",
+  "secciones": [
+    {
+      "titulo": "Parámetros de la Misión",
+      "nivel": 2,
+      "texto": "Masa: 7 150 kg\nPerigeo: 390 km\nApogeo: 392 km\nInclinación: 51.6°\nPeriodo: 92.4 minutos"
+    },
+    {
+      "titulo": "Misión",
+      "nivel": 2,
+      "texto": "Esta misión realizó el relevo a la tripulación Soyuz TM-8, coincidiendo durante 6 días en la estación. La nave pasó 176 días acoplada al Mir."
+    }
+  ],
+  "num_palabras": 74
+}

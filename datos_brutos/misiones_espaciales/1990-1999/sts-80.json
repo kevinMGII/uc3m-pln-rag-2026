@@ -1,0 +1,75 @@
+{
+  "titulo": "STS-80",
+  "titulo_wikipedia_en": "STS-80",
+  "fecha_lanzamiento": "1996-11-19",
+  "año_lanzamiento": 1996,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/STS-80",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Investigación",
+    "Operador": "NASA",
+    "Órbitas completadas": "279",
+    "Distancia recorrida": "110000000 km",
+    "Masa de la carga útil": "13006 kg",
+    "Fecha de lanzamiento": "19 de noviembre de 1996, 19:55:47 UTC (2:55:47 pm EST)",
+    "Lugar de lanzamiento": "Kennedy, LC-39B",
+    "Fecha de aterrizaje": "7 de diciembre de 1996, 11:49:04 UTC (6:49:04 am EST)",
+    "Lugar de aterrizaje": "Kennedy, SLF Runway 33",
+    "Tripulación": "Kenneth D. Cockrell; Kent Rominger; Story Musgrave; Thomas David Jones; Tamara E. Jernigan",
+    "Sistema de referencia orbital": "Geocéntrico",
+    "Régimen orbital": "Órbita terrestre baja",
+    "Periapsis": "318 km",
+    "Apoapsis": "375 km",
+    "Periodo orbital": "91,5 min",
+    "Inclinación orbital": "28,45 grados",
+    "Programa": "Programa de transporte espacial",
+    "Misión anterior": "STS-79",
+    "Misión siguiente": "STS-81"
+  },
+  "resumen": "STS-80 fue una misión del transbordador espacial de Columbia. El lanzamiento estaba previsto inicialmente para el 31 de octubre de 1996, pero se retrasó hasta el 19 de noviembre por varias razones. Asimismo, el aterrizaje, que originalmente estaba programado para el 5 de diciembre, fue postergado al 7 de diciembre después de que el mal tiempo impidiera el aterrizaje durante dos días.\nFue la misión del transbordador más larga jamás volada a los 17 días, 15 horas y 53 minutos.\nAunque se planificaron dos caminatas espaciales para la misión, ambas fueron canceladas después de que problemas con la escotilla de aire impidieran que los astronautas Tom Jones y Tammy Jernigan salieran del orbitador.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Asignación de asientos de tripulación",
+      "nivel": 3,
+      "texto": "Musgrave se suponía que se sentaría en el asiento 5 durante el aterrizaje, sin embargo, en realidad se paró en la cubierta de vuelo detrás de Cockrell en el asiento 1 durante todo el reingreso y aterrizaje para filmar el reingreso de la nave a través de las ventanas superiores."
+    },
+    {
+      "titulo": "Aspectos destacados de la misión",
+      "nivel": 2,
+      "texto": "La misión desplegó dos satélites y los recuperó con éxito después de que hubieran realizado sus tareas.\nEl primer día de vuelo se desplegó el satélite de paletas Orbiting and Recoveryable Extreme Ultraviolet Spectrometer-Shuttle (ORFEUS-SPAS II). Fue capturado el día de vuelo 16.\nLa Wake Shield Facility-3 fue desplegada el día 4 de vuelo, y fue recapturada tres días después.\nLa misión fue la más larga en la historia del transbordador espacial.\nEn esta misión, Story Musgrave se convirtió en la única persona que voló en los cinco vehículos orbitales de Transbordadores Espaciales—Challenger, Atlantis, Discovery, Endeavour y Columbia.\nMusgrave también empató un récord para los vuelos espaciales, y estableció un récord por ser el hombre más viejo en el espacio. Ambos registros han sido superados.\nDos caminatas espaciales fueron planeadas para la misión, pero fueron canceladas después de que los astronautas Tom Jones y Tammy Jernigan descubrieran que la escotilla exterior de la esclusa de aire estaba atascada. El atasco se atribuyó a un tornillo suelto que pudo haber caído durante su instalación."
+    },
+    {
+      "titulo": "Carga útil de la misión",
+      "nivel": 2,
+      "texto": "Columbia trajo consigo dos satélites flotantes libres, ambos de los cuales estaban en repetidas visitas al espacio. Además, parte de la carga útil era una variedad de equipo que se probaría en dos caminatas espaciales planificadas. Se habrían utilizado para preparar la construcción de la Estación Espacial Internacional. La carga útil del transbordador incluía:\nSatélite de paletas orbitable y recuperable de espectrometría ultravioleta extrema II (ORFEUS-SPAS II)\nEspectrógrafo ultravioleta lejano (FUV)\nEspectrógrafo ultravioleta extrema (EUV)\nEspectrógrafo Interestelar de Perfil de Absorción Media (IMAPS)\nMonitor de muestras de efectos de superficie (SESAM)\nProyecto Pre-Desarrollo ATV Rendezvous (ARP)\nExperimento de estudiantes sobre ASTRO-SPAS (SEAS)\nInstalación Wake Shield (WSF-3)\nNIH-R4\nMódulo de experimentos espaciales (SEM)\nPruebas de vuelo de desarrollo de EVA (EDTF-5)\nGrulla\nUnidad de reemplazo orbital de batería\nCable Caddy\nPlataforma de trabajo portátil\nEstación de trabajo portátil de retención de pies (PFRWS)\nAyuda a la retención de equipos temporales (TERA)\nResistente a los pies portable articulado\nTetera de retención corporal (BRT)\nTetera multiuso (MUT)\nVisualización en un bucle de agua experimental con bomba capilar (VIEW-CPL)\nInvestigación biológica en el recipiente (BRIC)\nExperimento asociado a la tecnología de Instrumentación de Aparatos de Dispersión de Materiales Comerciales (CCM-A) (anteriormente STL/NIH-C-6)\nExperimento comercial MDA ITA (CMIX-5)"
+    },
+    {
+      "titulo": "Proyectos científicos",
+      "nivel": 2,
+      "texto": "Columbia llevó a la órbita dos satélites que fueron liberados y recapturados después de algún tiempo a solas. El primero fue el satélite orbitable y recuperable Extremo y Extremo Espectrómetro Ultravioleta-Shuttle Pallet Satellite II (ORFEUS-SPAS II). El componente principal del satélite, el telescopio ORFEUS, tenía dos espectrógrafos, para ultravioletas lejanos y extremos.\nOtro espectrógrafo, el Espectrógrafo Interestelar de Perfil de Absorción Media, también estaba a bordo del satélite. Varias cargas útiles no relevantes para la astronomía redondearon el satélite. Se realizó sin problemas para su vuelo, tomando 422 observaciones de casi 150 cuerpos astronómicos, que van desde la Luna a estrellas extra galácticas y un quásar. Al ser el segundo vuelo de ORFEUS-SPAS II, se le permitió disponer de equipos más sensibles, lo que hizo que proporcionara más del doble de los datos de su ejecución inicial.\nTambién se desplegó desde Columbia el Wake-Shield Facility (WSF), un satélite que creó un ultravacío detrás de él, permitiendo la creación de películas delgadas semiconductoras para su uso en electrónica avanzada. El FSM creó siete películas antes de ser recapturado por el brazo robótico de Columbia después de tres días de vuelo. La nave de 12 pies estaba en su tercera misión, incluyendo STS-60, cuando los problemas de hardware le impidieron desplegar fuera del brazo robótico. Wake Shield fue diseñado y construido por el Space Vacuum Epitaxy Center de la Universidad de Houston junto con su socio industrial, Space Industries, Inc.\nOtra inclusión fue un módulo de experimentos espaciales (SEM). El SEM incluyó proyectos de investigación de estudiantes seleccionados para volar al espacio. Este fue el primer vuelo del programa. Entre los experimentos realizados se encontraban el análisis del crecimiento de bacterias en los alimentos en órbita, el crecimiento de cristales en el espacio y el efecto de la microgravedad en un péndulo.\nNIH.R4 fue un experimento realizado para el Instituto Nacional de Salud y la Universidad de Ciencias de la Salud de Oregon. Fue diseñado para probar los efectos de los vuelos espaciales en la circulación y la constricción vascular. La investigación biológica en el envase (BRIC) exploró los efectos de la gravedad en las plántulas de tabaco y tomate. La visualización en un bucle experimental de bombeo de agua capilar (VIEW-CPL) se llevó a cabo para probar una nueva idea en la gestión de naves térmicas. El experimento comercial MDA ITA fue una variedad de experimentos presentados por estudiantes de secundaria y secundaria patrocinados por Information Technology Associates."
+    },
+    {
+      "titulo": "Antecedentes de la misión",
+      "nivel": 2,
+      "texto": "Los astronautas fueron seleccionados para la misión el 17 de enero de 1996. El apilamiento de los Solid Rocket Boosters (SRBs) comenzó el 9 de septiembre de 1996. El 18 de septiembre, la fecha de lanzamiento se devolvió de no antes (NET) el 31 de octubre al 8 de noviembre. Las puertas de carga se cerraron el 25 de septiembre. Al día siguiente, el tanque de combustible externo fue acoplado a los SRB dentro del edificio de montaje de vehículos.\nSe retrasó el progreso, mientras que se reemplazaron dos ventanas en el orbitador; la NASA temía que pudieran ser susceptibles a rotura después de siete y ocho vuelos. Columbia se trasladó al VAB el 9 de octubre para comenzar los preparativos finales de la asamblea.\nEl 11 de octubre Columbia fue apareada con el tanque de combustible externo, y la carga útil fue entregada y transferida. El lanzamiento a Pad 39B se produjo el 16 de octubre, que fue seguido por controles de la disponibilidad de vuelo del sistema de propulsión principal.\nDespués de una revisión de la preparación de vuelo el 28 de octubre, se pidió un FRR adicional para analizar más a fondo el Motor Solid Rocket rediseñado (RSRM) debido a la erosión de la boquilla que ocurrió en STS-79; el 29, una bomba de combustible falló, retrasando el proceso de carga de Columbia. El problema de la erosión llevó a una semana de retraso instituida el 4 de noviembre. Se fijó la fecha de lanzamiento el 15 de noviembre, dependiendo del éxito del lanzamiento del Atlas dos días antes. El pronóstico del mal tiempo hizo retroceder aún más el lanzamiento, hasta una fecha del 19 de noviembre.\nDurante el aterrizaje, Jones planeó usar una cámara de vídeo para capturar imágenes del tubo de plasma detrás del orbitador desde las ventanas de arriba. Pidió a Musgrave que ayudara con la grabación, con la expectativa de que se sentaría en el centro de la cubierta una vez que el orbitador alcanzara la interfaz de entrada. En su lugar, Musgrave eligió permanecer de pie en la cubierta de vuelo detrás del comandante Cockrell (en el asiento 1) durante todo el reingreso y aterrizaje. Jones estimó que el Musgrave de 61 años habría experimentado 1,7 veces la fuerza normal de la gravedad de la Tierra durante cinco a diez minutos continuos después de 18 días de casi ingravidez."
+    },
+    {
+      "titulo": "Llamadas de atención",
+      "nivel": 2,
+      "texto": "La NASA comenzó una tradición de tocar música a los astronautas durante el programa Gemini, que se utilizó por primera vez para despertar a una tripulación de vuelo durante el Apollo 15.\nCada pista es especialmente elegida, a menudo por sus familias, y generalmente tiene un significado especial para un miembro individual de la tripulación, o es aplicable a sus actividades diarias."
+    }
+  ],
+  "num_palabras": 1405
+}

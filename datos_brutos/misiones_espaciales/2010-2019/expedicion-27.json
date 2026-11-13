@@ -1,0 +1,41 @@
+{
+  "titulo": "Expedición 27",
+  "titulo_wikipedia_en": "Expedition 27",
+  "fecha_lanzamiento": "2011-03-16",
+  "año_lanzamiento": 2011,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Expedición_27",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Fecha de lanzamiento": "16 de marzo de 2011 a las 08:54 UTC",
+    "Fecha de aterrizaje": "23 de mayo de 2011 a las 21:35 UTC",
+    "Misión anterior": "Expedición 26",
+    "Misión siguiente": "Expedición 28",
+    "Nave de llegada": "Soyuz TMA-20, Soyuz TMA-21",
+    "Programa": "Programa de la ISS",
+    "Estación espacial": "Estación Espacial Internacional",
+    "Tipo de misión": "Expedición a la ISS",
+    "Fecha de inicio": "16 de marzo de 2011, 08:54 UTC",
+    "Fecha de fin": "23 de mayo de 2011, 21:35 UTC"
+  },
+  "resumen": "La Expedición 27 fue la 27ª estancia de larga duración en la Estación Espacial Internacional. La expedición tuvo numerosos eventos notables como el desacoplamiento de la Progress M-09M y las naves espaciales Kounotori 2, la llegada de la Soyuz TMA-21 y Progress M-10M. Además la estación tuvo la visita del STS-134 el Transbordador Endeavour.\nLa expedición terminó el 23 de mayo de 2011 con la salida de la nave espacial Soyuz TMA-20.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Fuente NASA"
+    },
+    {
+      "titulo": "50.º aniversario del Primer vuelo espacial",
+      "nivel": 3,
+      "texto": "El 12 de abril de 2011, la tripulación de la Expedición 27, grabó un mensaje especial en video, a bordo de la ISS para la celebración del 50 aniversario del primer vuelo espacial tripulado que se llevó a cabo por la Unión Soviética por el cosmonauta Yuri Gagarin en 1961. La tripulación registró su saludo en ruso, en Inglés e italiano."
+    }
+  ],
+  "num_palabras": 135
+}

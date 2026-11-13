@@ -1,0 +1,43 @@
+{
+  "titulo": "Griffin Mission One",
+  "titulo_wikipedia_en": "Griffin Mission One",
+  "fecha_lanzamiento": "2027-01",
+  "año_lanzamiento": 2027,
+  "estado": "programada",
+  "tipo_mision": [
+    "Exploración lunar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Griffin_Mission_One",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Alunizaje",
+    "Operador": "Astrobotic Technology",
+    "Nave": "Griffin",
+    "Fecha de lanzamiento": "NET; No Earlier Than Noviembre de 2026 (planificado)",
+    "Vehículo de lanzamiento": "Falcon Heavy",
+    "Lugar de lanzamiento": "Kennedy, LC-39A",
+    "Programa": "Astrobotic Technology",
+    "Misión anterior": "Peregrine Mission One",
+    "Misión siguiente": "Griffin Mission Two",
+    "Programa (2)": "Servicios de Carga Lunar Comercial",
+    "Misión anterior (2)": "IM-2 (Athena)",
+    "Misión siguiente (2)": "Blue Moon Pathfinder Mission 1"
+  },
+  "resumen": "Griffin Mission One (también conocida como Griffin-1) es una misión de aterrizaje lunar desarrollada por Astrobotic Technology como parte del programa de Servicios de Carga Lunar Comercial (CLPS) de la NASA. La misión tiene como objetivo enviar un conjunto de cargas útiles científicas, tecnológicas y culturales al Polo Sur de la Luna, específicamente a la región del Cráter Nobile, cerca de Mons Mouton. Previsto para su lanzamiento no antes de noviembre de 2026, Griffin-1 es un componente clave del programa Artemis de la NASA, que apoya la ciencia y la exploración lunar para futuras misiones tripuladas.",
+  "secciones": [
+    {
+      "titulo": "Descripción general",
+      "nivel": 2,
+      "texto": "Griffin Mission One está diseñada para realizar experimentos y demostraciones tecnológicas centrados en la prospección de recursos lunares, la caracterización de volátiles y las operaciones de superficie en el accidentado terreno del Polo Sur lunar. Originalmente, la misión iba a transportar el Rover de Exploración Polar Investigador de Volátiles (VIPER) de la NASA, pero tras su cancelación en julio de 2024, se reconfiguró con cargas útiles alternativas, manteniendo su orden de tarea CLPS.\nLa misión se lanzará a bordo de un cohete Falcon Heavy de SpaceX desde el Complejo de Lanzamiento 39A del Centro Espacial Kennedy, Florida. El módulo de aterrizaje Griffin, un módulo lunar de clase media, está equipado con sistemas avanzados de navegación autónoma y prevención de riesgos, lo que permite aterrizajes precisos en entornos difíciles."
+    },
+    {
+      "titulo": "Cargas útiles",
+      "nivel": 3,
+      "texto": "Griffin-1 transporta un conjunto diverso de carga útil de la NASA, la ESA y otros socios:\nAstrolab FLIP Rover: Un rover de 500 kg capaz de transportar 30 kg de cargas útiles adicionales, un precursor de su rover FLEX.\nAstrobotic CubeRover: Un rover móvil de tamaño 2U diseñado para demostraciones de movilidad, capaz de recorrer varios kilómetros y recargarse mediante paneles solares.\nNanoficha GLPH (Biblioteca Galáctica para la Preservación de la Humanidad): Un archivo nanométrico duradero grabado en níquel que contiene artefactos culturales e intelectuales, incluyendo literatura, arte, documentos históricos (p. ej., archivos informáticos de guía del Apolo, el musical Milagro en la Calle 34), la Biblioteca de Alejandría reimaginada y archivos del Códice Lunar. Está diseñado para resistir las condiciones lunares durante millones de años."
+    }
+  ],
+  "num_palabras": 350
+}

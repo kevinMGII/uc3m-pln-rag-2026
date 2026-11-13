@@ -1,0 +1,53 @@
+{
+  "titulo": "MAVEN",
+  "titulo_wikipedia_en": "MAVEN",
+  "fecha_lanzamiento": "2013-11-18",
+  "año_lanzamiento": 2013,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración de Marte",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/MAVEN",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Orbitador",
+    "Operador": "NASA",
+    "Fabricante": "JPL, Lockheed Martin, Universidad de Colorado en Boulder, Berkeley, GSFC",
+    "Fecha de lanzamiento": "18 de noviembre de 2013 1:28 p. m. EST (18:28 UTC) de Cabo Cañaveral, Florida",
+    "Vehículo de lanzamiento": "Atlas V 401",
+    "Duración de la misión": "12 años, 6 meses y 16 días",
+    "Fin declarado": "3 de junio de 2026",
+    "Última señal": "6 de diciembre de 2025",
+    "Fecha de aterrizaje": "No aplicable",
+    "ID NSSDC": "MAVEN",
+    "Masa en el lanzamiento": "Sin combustible: 903 kg\nCon combustible: 2550 kg",
+    "Potencia": "Energía solar fotovoltaica (1215 W)",
+    "Periapsis": "150 km",
+    "Apoapsis": "6300 km",
+    "Inclinación orbital": "75°",
+    "Datos interplanetarios": "tipo: orbitador | objeto: Marte | fecha llegada: 22 de septiembre de 2014 02:24 UTC"
+  },
+  "resumen": "MAVEN (siglas en inglés de Mars Atmosphere and Volatile EvolutioN, además, maven en inglés significa «experto») fue una sonda espacial de la NASA que estudió la atmósfera marciana y su interacción con el viento solar. La misión buscó determinar cómo desaparecieron la atmósfera y el agua en Marte. La NASA declaró terminada la misión el 3 de junio de 2026, tras perder el contacto con MAVEN el 6 de diciembre de 2025, luego de más de doce años en órbita.\nLa misión fue lanzada con éxito a bordo de un cohete Atlas V el 18 de noviembre de 2013. MAVEN se insertó el 21 de septiembre de 2014, de acuerdo con las previsiones realizadas, en una órbita elíptica con un período de 35 horas para, luego de seis semanas de maniobras y pruebas del instrumental, terminar en una órbita menor con un período de 4 horas y media, con un apogeo de 6,300 kilómetros y un perigeo de 150 km sobre la superficie del planeta. Durante su misión principal, prevista para un año terrestre, MAVEN realizó cinco incursiones a las capas bajas de la atmósfera, en las que redujo su perigeo a 125 km. El investigador principal de la misión es Bruce Jakosky del Laboratorio de Física Atmosférica y Espacial de la Universidad de Colorado en Boulder.\nEn 2024, la NASA anunció una nueva extensión de la misión MAVEN para continuar estudiando la atmósfera marciana y su interacción con el viento solar. La misión fue aprobada para operar hasta diciembre de 2025 como parte del programa Mars Exploration Program.",
+  "secciones": [
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "Las características de Marte, que se asemejan a lechos de ríos secos, y el descubrimiento de minerales que se forman en presencia de agua, indican que el planeta tuvo alguna vez una atmósfera lo suficientemente densa y caliente para tener agua líquida fluyendo en la superficie. Sin embargo, de alguna manera perdió esa atmósfera densa en el espacio. Los científicos sospechan que hace millones de años, Marte perdió el 99% de su atmósfera cuando el núcleo del planeta se enfrió y su campo magnético decayó, permitiendo que el viento solar barreriera la mayoría de los compuestos de agua y volátiles que la atmósfera contenía. El objetivo de MAVEN era determinar la historia de la pérdida de los gases atmosféricos al espacio, proporcionando respuestas sobre la evolución del clima marciano. Mediante el análisis de la velocidad de escape atmosférico y de los procesos relacionados, los científicos pudieron inferir cómo evolucionó la atmósfera del planeta.\nLa misión MAVEN tuvo cuatro objetivos científicos principales:\nDeterminar el papel que la pérdida de las sustancias volátiles de la atmósfera marciana al espacio ha jugado a través del tiempo.\nDeterminar el estado actual de la atmósfera superior, la ionosfera y las interacciones con el viento solar.\nDeterminar las tasas actuales de escape de gases neutros y iones al espacio y los procesos que los controlan.\nDeterminar las relaciones estables de isótopos en la atmósfera marciana.\nDesde su llegada a Marte en 2014, MAVEN ha proporcionado información clave sobre la pérdida de atmósfera marciana al espacio y sobre los procesos que contribuyeron a la transformación climática del planeta."
+    },
+    {
+      "titulo": "Descripción de la nave espacial",
+      "nivel": 2,
+      "texto": "MAVEN fue construida y probada por Lockheed Martin Space Systems. Su diseño se basa en los de las misiones Mars Reconnaissance Orbiter y 2001 Mars Odyssey.\nEl orbitador tiene una forma cúbica de aproximadamente 2,3 m × 2,3 m × 2 m (7 ft 7 in × 7 ft 7 in × 6 ft 7 in) de altura, con dos paneles solares que sostienen los magnetómetros en ambos extremos. La longitud total de la nave es de 11,4 m (37 ft)."
+    },
+    {
+      "titulo": "Instrumentos",
+      "nivel": 2,
+      "texto": "Los instrumentos de MAVEN analizaron la atmósfera superior de Marte y su interacción con el Sol, midiendo el gas atmosférico, el viento solar y la ionosfera. La Universidad de Colorado en Boulder, la Universidad de California en Berkeley y el Centro de vuelo espacial Goddard construyó cada una un grupo de instrumentos de la sonda:\nParticles and Field (P&F) Package\nSolar Wind Electron Analyzer (SWEA)- Medición de los electrones presentes en la ionosfera y en el viento solar.\nSolar Wind Ion Analyzer (SWIA) - Medición de la densidad y de la velocidad de los iones del viento solar y de la magnetosfera.\nSuprathermal and Thermal Ion Composition (STATIC) - Medición de los iones térmicos a media energía.\nSolar Energetic Particle (SEP) - Determinación del impacto de las partículas energéticas solares en la atmósfera superior\nLagmuir Probe and Waves (LPW) - Determinación de las propiedades de la ionosfera.\nMagnetometer (MAG) - Medición del campo magnético de la ionosfera y del viento solar.\nRemote Sensing (RS) Package\nImaging Ultraviolet Spectrometer (IUVS) - Medición de las características globales de la atmósfera superior y de la ionosfera.\nNeutral Gas and Ion Mass Spectrometer (NGIMS) - Medición de la composición y de los isótopos de los elementos neutros y de los iones."
+    }
+  ],
+  "num_palabras": 808
+}

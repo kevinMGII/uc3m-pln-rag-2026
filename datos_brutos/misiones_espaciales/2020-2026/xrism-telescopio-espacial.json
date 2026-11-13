@@ -1,0 +1,68 @@
+{
+  "titulo": "XRISM (telescopio espacial)",
+  "titulo_wikipedia_en": "X-Ray Imaging and Spectroscopy Mission",
+  "fecha_lanzamiento": "2023-09-06",
+  "año_lanzamiento": 2023,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Telescopio espacial",
+    "Exploración lunar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/XRISM_(telescopio_espacial)",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "en curso",
+    "Tipo de misión": "telescopio espacial de rayos X",
+    "Operador": "JAXA",
+    "Fecha de lanzamiento": "6 de septiembre de 2023, 23:42 UTC",
+    "Lugar de lanzamiento": "Centro Espacial de Tanegashima",
+    "Sistema de referencia orbital": "Geocéntrica",
+    "Inclinación orbital": "31°",
+    "Datos interplanetarios": "acrónimo1: RESOLVE; espectrómetro de rayos X de alta resolución; acrónimo2: XTEND; detector de imágenes de rayos X de campo amplio",
+    "Vehículo de lanzamiento": "H-IIA",
+    "Duración planificada": "3 años",
+    "Masa en el lanzamiento": "2.200 kg"
+  },
+  "resumen": "La Misión de Espectroscopía e Imágenes de Rayos X (XRISM) es un telescopio espacial de rayos X de la Agencia Japonesa de Exploración Aeroespacial (JAXA) que busca proporcionar avances en el estudio de la formación de estructuras del Universo, flujos de salida de los núcleos galácticos y la materia oscura.\nXRISM trabajará en el campo de la astronomía de rayos X, de forma similar a como Telescopio Espacial James Webb, el Telescopio Espacial de Rayos Gamma Fermi, y el Observatorio Atacama Large Millimeter Array (ALMA) trabajan en sus respectivos campos.\nSe lanzó el 6 de septiembre de 2023, a las 23:42 UTC, tras la cancelación del primer intento el 28 de agosto de 2023 por malas condiciones climáticas.",
+  "secciones": [
+    {
+      "titulo": "Objetivos de la misión",
+      "nivel": 2,
+      "texto": "Los objetivos científicos de XRISM incluyen:\nEstudiar la formación y evolución de las galaxias.\nComprender los procesos que alimentan los agujeros negros supermasivos en el centro de las galaxias.\nEstudiar los flujos de gas caliente que se encuentran en el espacio interestelar.\nInvestigar los fenómenos astrofísicos extremos, como los estallidos de rayos gamma y las erupciones solares."
+    },
+    {
+      "titulo": "Instrumentos",
+      "nivel": 2,
+      "texto": "XRISM está equipado con dos instrumentos principales:"
+    },
+    {
+      "titulo": "Resolve",
+      "nivel": 3,
+      "texto": "El instrumento Resolve es un espectrómetro de rayos X de alta resolución que está diseñado para estudiar los plasmas calientes que se encuentran en el universo.\nCuenta con una resolución de energía de 5-7 electronvoltios (eV) en el rango de energía de 0,3 a 12 kiloelectronvoltios (keV) y tiene un campo de visión de aproximadamente 3 minutos de arco (arcmin), lo que le permitirá estudiar regiones pequeñas de los objetos celestes con gran detalle."
+    },
+    {
+      "titulo": "Objetivos científicos",
+      "nivel": 4,
+      "texto": "Algunos de los objetivos científicos de Resolve incluyen:\nEstudiar la formación y evolución de las galaxias.\nComprender los procesos que alimentan los agujeros negros supermasivos en el centro de las galaxias.\nEstudiar los flujos de gas caliente que se encuentran en el espacio interestelar.\nInvestigar los fenómenos astrofísicos extremos, como los estallidos de rayos gamma y las erupciones solares."
+    },
+    {
+      "titulo": "Xtend",
+      "nivel": 3,
+      "texto": "El instrumento Xtend es un detector de imágenes de rayos X de campo amplio que complementará al instrumento Resolve.\nTiene un campo de visión de aproximadamente 38 minutos de arco, que es mucho más grande que el campo de visión de Resolve. Esto permite a los astrónomos estudiar objetos celestes más grandes y distantes.\nEstá equipado con cuatro detectores CCD que están sensibles a los rayos X en el rango de energía de 0,4 a 13 kiloelectronvoltios (keV). Estos detectores CCD permitirán a Xtend capturar imágenes de alta resolución de los objetos celestes."
+    },
+    {
+      "titulo": "Objetivos científicos",
+      "nivel": 4,
+      "texto": "Algunos de los objetivos científicos de Xtend incluyen:\nEstudiar la formación y evolución de las galaxias.\nComprender la distribución de la materia oscura en el universo.\nInvestigar la estructura y evolución de los cúmulos de galaxias.\nEstudiar la distribución de los agujeros negros supermasivos en el universo."
+    },
+    {
+      "titulo": "Lanzamiento",
+      "nivel": 2,
+      "texto": "El lanzamiento de XRISM se realizó exitosamente el 6 de septiembre de 2023 a las 23:42 UTC (08:42 JST, 7 de septiembre de 2023) desde el Centro espacial de Tanegashima."
+    }
+  ],
+  "num_palabras": 485
+}

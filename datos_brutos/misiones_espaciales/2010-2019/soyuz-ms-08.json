@@ -1,0 +1,26 @@
+{
+  "titulo": "Soyuz MS-08",
+  "titulo_wikipedia_en": "Soyuz MS-08",
+  "fecha_lanzamiento": "2018-03-21",
+  "año_lanzamiento": 2018,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Soyuz_MS-08",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Vehículo de lanzamiento": "Soyuz-FG",
+    "Fecha de lanzamiento": "Marzo de 2018",
+    "Nave": "Soyuz MS 11F747",
+    "Programa": "Programa Soyuz",
+    "Misión anterior": "Soyuz MS-07",
+    "Misión siguiente": "Soyuz MS-09"
+  },
+  "resumen": "Soyuz MS-08 es un vuelo espacial Soyuz lanzado el 21 de marzo de 2018 mediante un cohete Soyuz-FG. Transportó a tres miembros de la tripulación de la Expedición 55 hacia la Estación Espacial Internacional. MS-08 fue el vuelo número 137 de una nave espacial Soyuz. Regreso a la tierra el 4 de octubre de 2018.",
+  "secciones": [],
+  "num_palabras": 55
+}

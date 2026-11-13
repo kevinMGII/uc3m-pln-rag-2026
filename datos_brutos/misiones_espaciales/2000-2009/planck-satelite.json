@@ -1,0 +1,36 @@
+{
+  "titulo": "Planck (satélite)",
+  "titulo_wikipedia_en": "Planck (spacecraft)",
+  "fecha_lanzamiento": "2009-05-14",
+  "año_lanzamiento": 2009,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Telescopio espacial",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Planck_(satélite)",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {},
+  "resumen": "El satélite artificial Planck, conocido anteriormente como Planck Surveyor, es la tercera misión de medio tamaño (M3) del programa científico Horizon 2000 de la Agencia Espacial Europea. El lanzamiento se produjo a las 10:15 (hora Guyana Francesa) del 14 de mayo de 2009 desde el Puerto espacial de Kourou (Guayana Francesa) impulsado por un cohete Ariane 5 junto al Observatorio Espacial Herschel, en configuración dual. Está diseñado para detectar las anisotropías en el fondo cósmico de microondas en casi todo el cielo menos un octavo, con una resolución y sensibilidad sin precedentes. Planck fue una fuente valiosísima de datos con los que se comprobarán las teorías actuales sobre el universo primitivo y los orígenes de las estructuras cósmicas.\nLa misión Planck era conocida inicialmente como COBRAS/SAMBA. COBRAS por Cosmic Background Anisotropy Satellite y SAMBA por Satellite for Measurement of Background Anisotropies. Posteriormente, los dos grupos de estudio se fundieron en una sola misión, que tras haber sido seleccionada y aprobada, fue renombrada en honor del científico alemán Max Planck (1858-1947), Premio Nobel de Física en 1918.\nTras el lanzamiento, en primer lugar la sonda Planck se separó del conjunto de lanzamiento y a continuación se colocó en una órbita de halo heliocéntrica en torno al punto de Lagrange L2 Sol-Tierra, situado a unos 1,5 millones de kilómetros de la Tierra. A esa distancia se minimizan las interferencias generadas por la Tierra o la Luna en el telescopio.\nEl Planck está dotado de un espejo de 1,5 metros de diámetro. El telescopio fue usado para captar radiaciones en dos bandas de frecuencia, una alta y otra baja, con los siguientes instrumentos:\nLow Frequency Instrument (LFI) es un aparato que consiste en 22 receptores que funcionan a -253 °C. Estos receptores deberán trabajar agrupados en cuatro canales de frecuencias, captando frecuencias entre los 30 y 100 GHz. Las señales eran amplificadas y convertidas en un voltaje, enviado posteriormente a un ordenador.\nHigh Frequency Instrument (HFI) es un aparato compuesto de 52 detectores, que trabajan convirtiendo radiación en calor. La cantidad de calor es medida por un pequeño termómetro eléctrico. La temperatura es anotada y convertida en un dato de ordenador. Este instrumento trabaja a -272,9 °C\nMás de 40 institutos de investigación de Europa y Estados Unidos se unieron en esta misión para construir los instrumentos de la sonda.\nEl instrumento de medición de baja frecuencia fue construido con la participación de 22 institutos científicos, liderados por el Instituto de Astrofísica Espacial y Física Cósmica (CNR) en Bolonia, Italia.\nEl instrumento de alta frecuencia fue elaborado por un consorcio de más de 20 instituciones científicas, lideradas por el Instituto de Astrofísica Espacial (CNRS) en Orsay, Francia.\nLos espejos de los telescopios primario y secundario fueron fabricados en fibra de carbono por un consorcio danés liderado por el Danish Space Research Institute, en Copenhague, Dinamarca.\nLa Planck complementó los datos obtenidos por la WMAP, ya que ésta también se centró en medir fluctuaciones de la radiación de fondo de microondas, pero a una escala mucho mayor.\nAl final de su misión, la sonda Planck fue puesta en una órbita heliocéntrica y toda su energía fue agotada para impedir que pudiese poner en peligro otras misiones futuras. El comando de desactivación final fue enviado a la sonda Planck en octubre de 2013.",
+  "secciones": [
+    {
+      "titulo": "Resultados",
+      "nivel": 2,
+      "texto": "El 5 de julio de 2010, la misión Planck emitió su primera imagen de todo el cielo."
+    },
+    {
+      "titulo": "2013",
+      "nivel": 3,
+      "texto": "El 21 de marzo de 2013 fueron divulgados los nuevos resultados del trabajo realizado por la nave espacial Planck sobre la distribución en todo el cielo de la radiación de fondo del universo, y obtuvo una estimación más precisa de la composición del universo en 68,3 % de energía oscura, un 26,8 % de materia oscura y un 4,9 % de materia ordinaria."
+    },
+    {
+      "titulo": "2015",
+      "nivel": 3,
+      "texto": "En febrero de 2015 se publicó un conjunto de publicaciones detallando los resultados de la misión. Algunos de los resultados son:\nMejor concordancia con los resultados de la sonda WMAP en parámetros como la densidad y distribución de la materia en el universo, y resultados con menor margen de error.\nConfirmación de que el Universo contiene un 26 % de materia oscura. Estos resultados suscitan cuestiones relacionadas sobre el exceso de positrones en comparación con los electrones detectados por el Espectrómetro Magnético Alfa, un experimento en la Estación Espacial Internacional. Investigaciones previas sugerían que los postirones se podrían crear por la colisión de partículas de la materia oscura, lo que solo podría suceder si la probabilidad de la colisión de materia oscura es significativamente mayor ahora que en el universo primigenio. Los datos de Planck sugieren que la probabilidad de esas colisiones deben permanecer constantes a lo largo del tiempo teniendo en cuenta la estructura del universo, refutando así la teoría previa.\nValidación de los simples modelos de inflación, dando así a un mayor apoyo al modelo Lambda-CDM.\nHay solo tres tipos de neutrinos, con la propuesta de neutrino estéril improbable."
+    }
+  ],
+  "num_palabras": 819
+}

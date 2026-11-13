@@ -1,0 +1,52 @@
+{
+  "titulo": "Koronas-Foton",
+  "titulo_wikipedia_en": "Koronas-Foton",
+  "fecha_lanzamiento": "2009-01-30",
+  "año_lanzamiento": 2009,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión heliofísica"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Koronas-Foton",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Fuera de servicio después de un mal funcionamiento",
+    "Tipo de misión": "Investigación solar",
+    "Operador": "Roscosmos",
+    "Plataforma (bus)": "Meteor-M",
+    "Fecha de lanzamiento": "30 de enero de 2009, 13:30:00 UTC.",
+    "Lugar de lanzamiento": "Plesetsk 32/2",
+    "Vehículo de lanzamiento": "Tsyklon-3",
+    "Duración planificada": "3 años planeados\n10 meses logrados",
+    "ID NSSDC": "2009 003A",
+    "Masa en el lanzamiento": "1.900 kilogramos",
+    "Periapsis": "529 kilómetros",
+    "Apoapsis": "559 kilómetros",
+    "Inclinación orbital": "82,44 grados",
+    "Periodo orbital": "95,39 minutos",
+    "Tipo de fin de misión": "reingreso",
+    "Fecha de reentrada": "1 de diciembre de 2009"
+  },
+  "resumen": "Koronas-Foton (Коронас-Фотон), también conocido como CORONAS-Photon (Observaciones Orbitales Complejas Cerca de la Tierra de la Actividad del Sol-Photon), fue un satélite de investigación solar ruso. Es el tercer satélite del programa Corona ruso y parte del programa internacional Living With a Star. Fue lanzado el 30 de enero de 2009, desde el sitio 32/2 en el Cosmódromo de Plesetsk, a bordo del vuelo final del cohete Tsyklon-3. El 1 de diciembre de 2009, todos los instrumentos científicos en el satélite se apagaron debido a problemas con el suministro de energía causados por una falla de diseño. El 18 de abril de 2010, los creadores del satélite anunciaron que se perdió \"con bastante certeza\".",
+  "secciones": [
+    {
+      "titulo": "Visión general",
+      "nivel": 2,
+      "texto": "El objetivo es investigar los procesos de acumulación de energía libre en la atmósfera solar, los fenómenos de partículas aceleradas y las erupciones solares, y la correlación entre la actividad solar y las tormentas magnéticas en la Tierra. El lanzamiento se realizó con éxito el 30 de enero de 2009, y el primer lote de datos científicos se descargó del satélite el 19 de febrero de 2009. El satélite opera en una órbita terrestre baja polar de 500 x 500km x 82.5° y se esperaba que tuviera una vida operativa de tres años. Desarrolló problemas en el sistema eléctrico durante la primera temporada de eclipse, aproximadamente seis meses después del lanzamiento, y el contacto con el satélite se perdió el 1 de diciembre de 2009. El satélite volvió a la vida el 29 de diciembre, después de que sus paneles solares recibieron suficiente luz para alimentar sus sistemas de control, pero los intentos de reactivar el satélite fallaron y el satélite se considera perdido.\nEl 5 de julio de 2009, el telescopio TESIS de Koronas-Foton registró la explosión solar más poderosa del año hasta el momento, con una duración de 11 minutos, de 06:07 a 06:18 GMT. La intensidad de la captación de rayos X solar alcanzó С2.7 en una escala de 5 niveles utilizada para clasificar las llamaradas solares. La última explosión igualmente poderosa ocurrió el 25 de marzo de 2008."
+    },
+    {
+      "titulo": "Desarrollo",
+      "nivel": 2,
+      "texto": "Koronas-Foton es un sucesor de los satélites Koronas-F y Koronas-I, lanzados en 1994 y 2001 respectivamente. Está siendo operado por la Roscosmos, el Instituto de Física y Tecnología de Moscú y el Instituto de Investigación Electromecánica. Fue construido utilizando un autobús construido para satélites meteorológicos Meteor-M.\nKoronas-Foton también lleva tres instrumentos del Telescopio o RT de India: RT-2/S, RT-2/G y RT-2/CZT. Se utilizarán para realizar investigaciones fotométricas y espectrométricas del Sol y para imágenes de rayos gamma de baja energía. Estos instrumentos serán operados por la Agencia India de Investigación Espacial (ISRO) y se construyeron con la colaboración del Centro Espacial Vikram Sarabhai, el Instituto de Investigación Fundamental Tata y el Centro Indio para la Física Espacial."
+    },
+    {
+      "titulo": "Instrumentos",
+      "nivel": 2,
+      "texto": "La carga útil científica del satélite incluye una serie de 12 instrumentos. Ocho instrumentos fueron diseñados para registrar la radiación electromagnética del Sol en un amplio rango de espectro desde las ondas electromagnéticas cercanas a la radiación gamma, así como a los neutrones solares. Dos instrumentos fueron diseñados para detectar partículas cargadas como protones y electrones.\nInstrumentos científicos\nEspectrómetro Natalya-2M MIFI, Moscú, Rusia\nRT-2 gamma-telescopio TIFR/ICSP/VSSC, India.\nPoimímetro Pingvin-M (Pingüino) MIFI, Moscú, Rusia\nKonus-RF Rayos X y espectrómetro gamma Ioffe Institute, Rusia\nDetector de rayos X BRM MIFI, Rusia\nDetector UV FOKA MIFI, Rusia\nTESIS telescopio/espectrómetro FIAN, Rusia, con espectrofotómetro de rayos X SphinX, SRC PAS, Polonia\nAnalizador de partículas cargadas Electron-M-Peska NIIYaF MGU, Rusia\nSTEP-F Detector de electrones y protones Universidad Nacional de Járkov, Ucrania\nSM-8M magnetómetro NPP Geologorazvedka/MIFI, Rusia\nSistemas de servicio\nSistema de registro y registro de datos científicos de SSRNI IKI, Rusia\nSistema de transmisión de radio y antenas RNII KP, Rusia"
+    }
+  ],
+  "num_palabras": 618
+}

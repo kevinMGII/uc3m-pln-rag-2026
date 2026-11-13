@@ -1,0 +1,45 @@
+{
+  "titulo": "Saliut 2",
+  "titulo_wikipedia_en": "Salyut 2",
+  "fecha_lanzamiento": "1973-04-03",
+  "año_lanzamiento": 1973,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Estación espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Saliut_2",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {},
+  "resumen": "La Saliut 2 o Salyut 2 (en ruso, Салют 2, romanizado: Salyut 2, lit. 'fuego artificial; salva') fue una estación espacial lanzada por la Unión Soviética el 4 de abril de 1973. Fue la segunda de las estaciones espaciales soviéticas en alcanzar la órbita terrestre aunque realmente no formaba parte del programa Saliut sino que era un prototipo secreto de la estación espacial del programa militar Almaz. Se le dio la designación de Salyut 2 para ocultar su verdadera naturaleza ya que las potencias occidentales sí conocían la existencia del programa Saliut.\nAunque el lanzamiento fue exitoso, dos días después la Salyut 2, aún no tripulada, empezó a perder presión y el sistema de control de vuelo falló volviéndose inestable. La causa de este fallo se ha asignado a una incorrección en la órbita de destino por parte del cohete Protón que desacopló la estación antes de alcanzar la altura correcta. El 11 de abril la estación perdió los paneles solares y todos los sistemas de corriente interna. Partida en dos la Salyut 2 reentró en la atmósfera el 28 de mayo de 1973 antes de poder completar ninguna expedición.",
+  "secciones": [
+    {
+      "titulo": "Estructura",
+      "nivel": 2,
+      "texto": "Originalmente la Salyut 2 fue, bajo la denominación OPS-1 o Almaz 101.1, la primera de las estaciones espaciales del programa militar Almaz. Una vez alcanzada la órbita fue redenominada como Salyut 2 con el fin de ocultar a otros países que la Unión Soviética contaba con dos programas de estaciones espaciales: el civil Salyut liderado por Serguéi Koroliov y el militar Almaz dirigido por Vladímir Cheloméi.\nSalyut 2 tenía 14,55 metros de largo con un diámetro de 4,15 metros y tenía un volumen habitable interno de 90 metros cúbicos. En su lanzamiento contaba con una masa de 18.950 kilogramos. Montaba un solo puerto de acoplamiento, montado en la popa, destinado a ser utilizado por la nave espacial Soyuz que transportara cosmonautas para trabajar a bordo de la estación. Dos paneles solares montados en el extremo de popa de la estación, cerca del puerto de acoplamiento, proporcionaron energía a la estación generando un total de 3.120 vatios de electricidad. La estación estaba equipada con 32 propulsores de control de actitud y dos motores RD-0225, cada uno capaz de generar 3.9 kilonewtons de empuje, para ejecutar maniobras orbitales."
+    },
+    {
+      "titulo": "Lanzamiento",
+      "nivel": 2,
+      "texto": "El Salyut 2 fue lanzado desde el Cosmódromo de Baikonur, encima de un cohete Proton-K de tres etapas, número de serie 283-01. El lanzamiento tuvo lugar a las 09:00:00 UTC del 3 de abril de 1973 y colocó con éxito a Salyut 2 en la órbita terrestre baja. Al llegar a la órbita a Salyut 2 se le asignó el Designador internacional 1973-017A, mientras que NORAD le otorgó el Número de catálogo de satélites 06398. La tercera etapa (8S812) del cohete Proton-K entró en órbita junto con el Salyut 2. El 4 de abril, fue catalogado en una órbita de 192 por 238 kilómetros inclinada a 51,4 grados."
+    },
+    {
+      "titulo": "Misión fallida",
+      "nivel": 2,
+      "texto": "Tres días después del lanzamiento de Salyut 2 la tercera etapa del Proton explotó debido a cambios de presión dentro de los tanques. Esta explosión derivó en una nube de escombros, algunos de los cuales siguieron una trayectoria similar a la estación. Diez días después estos escombros alcanzaron la estación, dañando el casco y provocando su despresurización. Ambos paneles solares fueron arrancados, eliminando la capacidad de la estación para generar energía y controlar su actitud.\nSe catalogaron tres piezas de escombros de la estación, que se habían desintegrado de la órbita el 13 de mayo. El resto de la estación volvió a entrar en la atmósfera el 28 de mayo de 1973 sobre el Océano Pacífico. Una investigación sobre la falla determinó inicialmente que una línea de combustible se había roto provocando un agujero en la estructura de la estación. El daño de la colisión de escombros derivada de la explosión del cohete Protón se descubrió más tarde."
+    },
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "País: Unión Soviética\nFecha de lanzamiento: 4 de abril de 1973\nLongitud: 14,55 m\nDiámetro máximo: 4,15 m\nVolumen habitable: 90 m³\nPeso en el lanzamiento: 18.900 kg\nVehículo de lanzamiento: Protón (3 etapas)\nNúmero de paneles solares: 2\nNúmero de puerto de anclaje: 1\nMisiones tripuladas: 0\nMisiones tripuladas de larga duración: 0\nMateriales: aluminio y acero\nNúmero de motores principales: 2"
+    },
+    {
+      "titulo": "Expediciones Salyut 2",
+      "nivel": 2,
+      "texto": "Ninguna"
+    }
+  ],
+  "num_palabras": 706
+}

@@ -1,0 +1,30 @@
+{
+  "titulo": "Soyuz TM-33",
+  "titulo_wikipedia_en": "Soyuz TM-33",
+  "fecha_lanzamiento": "2001-10-21",
+  "año_lanzamiento": 2001,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Soyuz_TM-33",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {},
+  "resumen": "Soyuz TM-33 fue un vuelo espacial tripulado ruso que se lanzó el 21 de octubre de 2001 en el vehículo de lanzamiento Soyuz-U. Llevó a los cosmonautas rusos Viktor Afanasyev, Konstantin Kozeyev, y la cosmonauta francesa Claudie Haigneré a la Estación Espacial Internacional (EEI).",
+  "secciones": [
+    {
+      "titulo": "Acoplamiento con la EEI",
+      "nivel": 2,
+      "texto": "Acoplado a la EEI: 23 de octubre de 2001, 10:44 UTC (en el puerto nadir de Zarya)\nDesacoplado de la EEI: 20 de abril de 2002, 09:16 UTC (del puerto nadir de Zarya)\nAcoplado a la EEI: 20 de abril de 2002, 09:37 UTC (al módulo Pirs)\nDesacoplado de la EEI: 5 de mayo de 2002, 00:31 UTC (del módulo Pirs)"
+    },
+    {
+      "titulo": "Aspectos destacados de la misión",
+      "nivel": 2,
+      "texto": "Fue la 14.ª misión tripulada a la EEI.\nSoyuz TM-33 es una nave espacial rusa de transporte de astronautas que fue lanzada por un cohete Soyuz-U desde Baikonur a las 08:59 UT el 21 de octubre de 2001. Transportó a dos cosmonautas rusos y un cosmonauta francés a la Estación Espacial Internacional (EEI). Se acopló con la EEI a las 10:44 UT el 23 de octubre. Esta nueva tripulación pasó ocho días en la EEI y regresó en el antiguo Soyuz TM-32 a las 04:59 UT el 31 de octubre. El nuevo Soyuz permaneció acoplado como una nave de salvamento para la tripulación actual de tres astronautas (dos rusos y un estadounidense)."
+    }
+  ],
+  "num_palabras": 217
+}

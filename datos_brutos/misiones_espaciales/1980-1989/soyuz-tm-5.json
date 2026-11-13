@@ -1,0 +1,57 @@
+{
+  "titulo": "Soyuz TM-5",
+  "titulo_wikipedia_en": "Soyuz TM-5",
+  "fecha_lanzamiento": "1988-06-07",
+  "año_lanzamiento": 1988,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Soyuz_TM-5",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "ID COSPAR": "1988-048A",
+    "Nº SATCAT": "19204",
+    "Duración de la misión": "91 días, 10 horas, 46 minutos, 25 segundos",
+    "Órbitas completadas": "~1,475",
+    "Nave": "Soyuz 7K-STM No. 55",
+    "Tipo de nave": "Soyuz-TM",
+    "Fabricante": "NPO Energia",
+    "Masa en el lanzamiento": "7000 kg",
+    "Fecha de lanzamiento": "7 de junio de 1988, 14:03:13 HUC",
+    "Vehículo de lanzamiento": "Soyuz-U2",
+    "Lugar de lanzamiento": "Baikonur 1/5",
+    "Fecha de aterrizaje": "7 de septiembre de 1988, 00:49:38 UTC",
+    "Lugar de aterrizaje": "202 km SE de Dzhezkazgan",
+    "Tripulación en el lanzamiento": "Anatoly Solovyev\nViktor Savinykh\nAleksandr Aleksandrov",
+    "Tripulación en el aterrizaje": "Vladimir Lyakhov\nAbdul Ahad Mohmand",
+    "Indicativo": "| (Rodnik-Primavera)",
+    "Sistema de referencia orbital": "Geocéntrico",
+    "Régimen orbital": "Órbita terrestre baja",
+    "Periapsis": "173 km",
+    "Apoapsis": "241 km",
+    "Inclinación orbital": "~51.6 grados",
+    "Periodo orbital": "88,6 minutos",
+    "Acoplamiento": "target de acoplamiento: Mir | tipo de acoplamiento: dock | fecha de acoplamiento: 9 de junio de 1988, 15:57:10 UTC | fecha de acoplamiento: 5 de septiembre de 1988, 23:54:57 UTC",
+    "Misión anterior": "Soyuz TM-4",
+    "Misión siguiente": "Soyuz TM-6",
+    "Programa": "Programa Soyuz\n(Misiones decretadas)"
+  },
+  "resumen": "Soyuz TM-5 era un vuelo espacial tripulado de Soyuz a Mir. Fue lanzado el 7 de junio de 1988, con la tripulación de tres personas de la misión Mir EP-2. Esta semana de estancia en Mir ocurrió durante la tercera expedición Mir de larga duración, Mir EO-3. La tripulación del EP-2 regresó a la Tierra a bordo de Soyuz TM-4, mientras que la nave espacial TM-5 permaneció atracada a Mir, actuando como el bote salvavidas para la tripulación de larga duración. El 7 de septiembre de 1988, la nave espacial TM-5 se deshizo de Mir, y desembarcó a la tripulación visitante de dos personas de la misión Mir EP-3. Los procedimientos de de-órbita para Soyuz fueron revisados después de este vuelo, ya que múltiples problemas casi impidieron la de-órbita y aterrizaje seguros del módulo de descenso.",
+  "secciones": [
+    {
+      "titulo": "Lanzamiento",
+      "nivel": 2,
+      "texto": "Soyuz TM-5 se lanzó el 7 de junio de 1988 y llegó a Mir el 9 de junio con el segundo búlgaro en el espacio, Alexandrov (no debe confundirse con el cosmonauta soviético del mismo nombre). Se convirtió en el primer búlgaro en llegar a una estación espacial soviética (Georgi Ivanov no logró llegar a Salyut 6 en Soyuz 33 en 1979-Alexandrov fue su respaldo). Su lanzamiento había sido avanzado por 2 semanas tarde en las etapas de planificación para mejorar las condiciones de iluminación para el experimento astronómico Rozhen."
+    },
+    {
+      "titulo": "Desembarco",
+      "nivel": 2,
+      "texto": "El 5 de septiembre los cosmonautas Lyakhov y Mohmand se deshacieron de Mir. Desecharon el módulo orbital y se prepararon para que la quemadura desorbitada volviera a la Tierra. Durante el descenso, la nave espacial experimentó un problema de software combinado con un problema de sensor. Esto hizo que su aterrizaje fuera retrasado por un día completo. El módulo Descenso, donde pasaron este período de 24 horas, no tenía instalaciones sanitarias. En consecuencia, se ensuciaron. No habrían sido capaces de rebatir con Mir porque habían descartado el sistema de acoplamiento junto con el módulo orbital. El reingreso ocurrió como normal el 7 de septiembre. Después de este incidente, los soviéticos decidieron que en futuras misiones, conservarían el módulo orbital hasta después de la quema desorbitada, como habían hecho en los vuelos de Soyuz Ferry."
+    }
+  ],
+  "num_palabras": 360
+}

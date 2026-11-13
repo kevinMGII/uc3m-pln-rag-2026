@@ -1,0 +1,29 @@
+{
+  "titulo": "INTEGRAL",
+  "titulo_wikipedia_en": "INTEGRAL",
+  "fecha_lanzamiento": "2002-10-17",
+  "año_lanzamiento": 2002,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Telescopio espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/INTEGRAL",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Activo",
+    "Tipo de misión": "Observatorio espacial",
+    "Operador": "ESA / NASA / Roscosmos",
+    "Fecha de lanzamiento": "17 de octubre de 2002",
+    "Masa en el lanzamiento": "4000 kg",
+    "Sistema de referencia orbital": "Elíptica",
+    "Periapsis": "9000 km",
+    "Periodo orbital": "72 horas",
+    "Instrumentos": "SPI (Spectrometer on Integral)\nIBIS (Imager on Board the Integral Satellite)\nJEM-X (Joint European X-ray Monitor)\nOMC (Optical Monitoring Camera)"
+  },
+  "resumen": "INTEGRAL (de International Gamma Ray Astrophysics Laboratory) es un observatorio orbital de rayos gamma, la radiación electromagnética más energética. Se destaca por ser el primer observatorio que puede captar simultáneamente un objeto en rayos gamma, rayos x y visible, lo que ayuda a detectar las fuentes de rayos gamma. La misión INTEGRAL ha sido desarrollada por la ESA en colaboración con la NASA y la Roscosmos.\nEste observatorio espacial fue lanzado usando un cohete Protón ruso, desde el cosmódromo de Baikonur el 17 de octubre de 2002. Tiene una órbita excéntrica que lo lleva a dar una vuelta a la Tierra aproximadamente cada 72 horas.\nLos principales objetivos científicos de la misión INTEGRAL son:\nLa observación de las poderosas explosiones de rayos gamma, que se cree son debidas al colapso de objetos compactos como estrellas de neutrones o agujeros negros, o bien por la existencia de hipernovas.\nEstudiar estas hipernovas, para determinar la composición química del interior de las estrellas y ayudar a esclarecer el proceso de nucleosíntesis estelar.\nEstudiar las estrellas de neutrones formadas tras las hipernovas, uno de los objetos más densos del universo.\nEstudiar los agujeros negros gigantes que se cree se encuentran en el centro de las galaxias.\nPara ello, cuenta con los siguientes instrumentos:\nSPI (Spectrometer on Integral)\nIBIS (Imager on Board the Integral Satellite)\nJEM-X (Joint European X-ray Monitor)\nOMC (Optical Monitoring Camera)\nParte de la nave lleva el mismo diseño que el observatorio de rayos X XMM-Newton, lo que ha permitido abaratar costes.\nINTEGRAL es el observatorio de rayos gamma más avanzado y preciso del momento, así como el mayor peso puesto en órbita por la ESA, unas cuatro toneladas.",
+  "secciones": [],
+  "num_palabras": 277
+}

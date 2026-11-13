@@ -1,0 +1,67 @@
+{
+  "titulo": "STS-70",
+  "titulo_wikipedia_en": "STS-70",
+  "fecha_lanzamiento": "1995-07-13",
+  "año_lanzamiento": 1995,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/STS-70",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Otros nombres": "Sistema de Transporte Espacial-70",
+    "Tipo de misión": "Despliegue de satélites",
+    "Operador": "NASA",
+    "Órbitas completadas": "143",
+    "Distancia recorrida": "6000000 km",
+    "Duración de la misión": "8 días, 22 horas, 20 minutos, 05 segundos",
+    "Masa de la carga útil": "20159 kg",
+    "Lugar de lanzamiento": "Kennedy, LC-39B",
+    "Fecha de lanzamiento": "13 de julio de 1995, 13:41:55.078 UTC, (9:41:55 am EDT)",
+    "Fecha de aterrizaje": "22 de julio de 1995, 12:02 UTC, (8:02:00 am EDT)",
+    "Lugar de aterrizaje": "Kennedy, SLF Runway 33",
+    "Tripulación": "Terence T. Henricks; Kevin R. Kregel; Nancy J. Currie; Donald A. Thomas; Mary Ellen Weber",
+    "Sistema de referencia orbital": "Geocéntrico",
+    "Régimen orbital": "Órbita terrestre baja",
+    "Periapsis": "257 km",
+    "Apoapsis": "257 km",
+    "Periodo orbital": "90,5 min",
+    "Inclinación orbital": "28,45 grados",
+    "Programa": "Programa de transporte espacial",
+    "Misión anterior": "STS-71 (69)",
+    "Misión siguiente": "STS-69 (71)"
+  },
+  "resumen": "STS-70 fue el 21o vuelo del Space Shuttle Discovery, y la última de las 7 misiones de transbordadores para transportar un satélite de rastreo y relé de datos (TDRS). Esta fue la primera misión de lanzadera controlada desde la nueva sala del centro de control de la misión en el Johnson Space Center en Houston.\nSTS-70 fue también el primer vuelo del nuevo motor orbital Block 1, diseñado para mejorar el rendimiento y la seguridad del motor. La misión fue lanzada desde el Kennedy Space Center en Florida el 13 de julio de 1995, sólo seis días después del desembarco de la nave hermana Atlantis, marcando el giro más rápido entre los vuelos en la historia del programa.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Preparativos y lanzamiento",
+      "nivel": 2,
+      "texto": "STS-70 se había adelantado originalmente al STS-71 debido a un retraso en el lanzamiento del módulo de laboratorio ruso Spektr a la estación espacial rusa Mir. Sin embargo, el 31 de mayo de 1995, los gerentes de la lanzadera evaluaron los daños al Tanque Externo de STS-70 causados por anidar pájaros carpinteros parpadeantes. El daño consistió en unos 71 orificios (que oscilaban en tamaño desde 4 pulgadas de diámetro hasta 1/2 pulgada de diámetro) en el aislamiento de espuma de protección térmica ETs. Los técnicos instalaron salvaguardias contra daños adicionales. El 2 de junio, los gerentes de la NASA decidieron retrasar el lanzamiento de Discovery con el fin de hacer reparaciones al aislamiento, y STS-71 se trasladó por delante de STS-70. Discovery fue rodado de vuelta al VAB el 8 de junio, y fue devuelto a la plataforma el 15 de junio.\nEl lanzamiento ocurrió el 13 de julio de 1995, a las 9:41:55.078 a.m. EDT. La ventana de lanzamiento fue de 2 horas 30 min. La escotilla se cerró a las 8:13 am EDT y el conteo continuó sin problemas hasta T−31 seg. El recuento se mantuvo durante 55 segundos a los 31 segundos por el Booster Range Safety Engineer (CBRS) Tod Gracom en la Consola LCC C-5 debido a las fluctuaciones observadas en el receptor del sistema de seguridad del sistema de control de ganancia automática (AGC) del rango ET del tanque externo. Se trabajaron los procedimientos de contingencia de Commit Criteria de Lanzamiento y luego el conteo continuó según lo previsto. El STS-70 marcó el vuelo inaugural del nuevo motor principal del orbitador del bloque 1. El motor número 2036 presentaba la nueva turbobomba de oxígeno líquido de alta presión, un powerhead de dos ductos, inyector principal sin bafles, intercambiador de calor de bobina única y modificaciones de la secuencia de inicio. El motor Block I voló en la posición número uno en Discovery. Los otros dos motores eran del diseño actual de la fase II."
+    },
+    {
+      "titulo": "Aspectos destacados de la misión",
+      "nivel": 2,
+      "texto": "La misión principal fue el lanzamiento y despliegue del 7o Satélite de Seguimiento y Relé de Datos (TDRS-G) por medio del cohete sólido de dos etapas de la etapa superior inercial (IUS). Fue construido por TRW y pesa unos 2200 kg. El satélite fue expulsado de la bahía de carga de Discovery exactamente a tiempo a las 2:55 p.m. CDT, aproximadamente seis horas en el vuelo. El lanzamiento del satélite fue supervisado por los especialistas de la misión Donald Thomas y Mary Ellen Weber.\nUnos 15 minutos más tarde, el Comandante del Discovery Tom Henricks disparó los motores del transbordador para elevar la órbita y alejarse de las proximidades del satélite y el IUS. Alrededor de las 3:55 p.m., el IUS disparó la primera de dos quemaduras que pondrían TDRS-G en su propia órbita geoestacionaria de 22.000 millas de altura sobre el Océano Pacífico central a 178 grados de longitud oeste.\nLas operaciones de despliegue utilizaron tres centros de control separados; la estación terrestre de White Sands controlaba el TDRS, el Centro de Control de Misiones JSC (MCC) controlaba el transbordador, y el centro de control de la Etapa Superior Inercial (IUS) en la Base Aérea Onizuka en Sunnyvale California controlaba la etapa de refuerzo. Una vez que llegó a su destino, el satélite completamente desplegado tenía una envergadura de 57 pies. El TDRS fue el sexto puesto en uso operacional. TDRS-1 fue lanzado a bordo de STS-6 el 1983-04-04 con una vida programada de siete años. El segundo satélite, TDRS-B, se perdió a bordo de Challenger en la misión STS-51-L. TDRS-3 fue desplegado desde STS-26, TDRS-4 desde STS-29, TDRS-5 desde STS-43 y TDRS-6 fue desplegado por STS-54. La red TDRS en órbita se reorganizó e incluyó dos naves espaciales totalmente operativas que ocupaban las franjas horarias TDRS Este y Oeste, una de repuesto en órbita totalmente funcional, TDRS-1, que estaba casi agotada habiendo superado su vida útil prevista, y la nave espacial TDRS-3 parcialmente operativa dedicada a apoyar el Observatorio de Rayos Gamma Compton y proporcionar cobertura a un área que no puede ser vista por los otros satélites conocidos como la Zona de Exclusión."
+    },
+    {
+      "titulo": "Cargas útiles y experimentos adicionales",
+      "nivel": 2,
+      "texto": "Los objetivos secundarios de la misión eran cumplir los requisitos del Experimento de Rodientes Fisiológicos y Anatómicos/Institutos Nacionales de Salud-Rodents (PARE/NIH-R); Sistema de Demostración de Bioreactores (BDS), Crecimiento de Cristales de Proteína Comercial (CPCG); Pérdida de Tejidos Espaciales/Institutos Nacionales de Celdas Sanitarias (STL/NIH-C); Investigación Biológica en Cántaros (BRIC); Transbordador Experimento de Radio Amateur-II (SAREX-II), Testador de Función Visual-4 (VFT-4); Soldadura de Mano, Orientada a la Tierra, en Tiempo Real, Cooperativa, Amigable al Usuario, Sistema de Localización y Medio Ambiente (HERCULES); Microcápsulas en el Espacio-B (MIS-B); Experimento de Ventanas (WINDEX); Equipo de Vigilancia de Radiación-III (RME-III); y las Aplicaciones Militares de las Vías Navales (MAST).\nEl Sistema de Demostración de Biorreactores fue diseñado para utilizar sistemas de biorreactores terrestres y espaciales para hacer crecer células individuales en tejido organizado que es morfológica y funcionalmente similar al tejido u órgano original. El BDS se componía de un dispositivo desarrollado en el Johnson Space Center que utilizaba un cilindro giratorio para suspender células y tejidos en un medio de crecimiento, simulando algunos aspectos de la microgravedad. El sistema, que ya se utilizaba ampliamente en la investigación en tierra, también preveía el intercambio de gas y nutrientes. El propósito del experimento de vuelo fue demostrar el rendimiento del biorreactor en la microgravedad real. Como tal, el objetivo principal fue evaluar las características dinámicas de fluido del biorreactor en la microgravedad.\nEn esta misión se llevó a cabo un parche de membresía del club mundialmente famoso Coney Island Polar Bear Club."
+    },
+    {
+      "titulo": "Desembarco",
+      "nivel": 2,
+      "texto": "Las oportunidades de aterrizaje en el Kennedy Space Center a las 7:54 am EDT y a las 9:31 am 21 de julio de 1995, fueron agitadas debido a una acumulación de niebla terrestre sobre la instalación de aterrizaje del transbordador. El director de vuelo, Rich Jackson, ordenó a los cinco astronautas STS-70 que permanecieran en alto durante otro día después de que la mala visibilidad impidiera el regreso a casa de Discovery en las dos oportunidades consecutivas de aterrizaje. Los astronautas de Discovery fueron informados de que su aterrizaje había sido saludado durante el día a las 7:10 am CDT después de que el astronauta Steve Oswald, volando reconocimiento meteorológico en un avión de entrenamiento del transbordador sobre la pista de aterrizaje, informó que no podía ver la pista de tres millas de largo desde su punto de vista.\nSTS-70 aterrizó en el Centro Espacial Kennedy el 22 de julio de 1995, a las 8:02 a.m. EDT en la pista 33. El touchdown del engranaje de la nariz ocurrió a las 8:02:11 am EDT (Misión Tiempo transcurrido de 8 días 22 horas 20 minutos y 16 segundos) con ruedas paradas a las 8:02:57 am (MET de 8 d 22 h 21 min 2 s). Una primera oportunidad de aterrizaje del KSC a las 6:26 am EDT se alejó debido a las condiciones climáticas marginales pero mejorando en el KSC."
+    }
+  ],
+  "num_palabras": 1278
+}

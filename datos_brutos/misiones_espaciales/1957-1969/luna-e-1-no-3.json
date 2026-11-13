@@ -1,0 +1,31 @@
+{
+  "titulo": "Luna E-1 No.3",
+  "titulo_wikipedia_en": "Luna E-1 No.3",
+  "fecha_lanzamiento": "1958-12-04",
+  "año_lanzamiento": 1958,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración lunar"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Luna_E-1_No.3",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Impactador lunar",
+    "Operador": "Programa espacial soviético",
+    "Duración de la misión": "Falló a la órbita",
+    "Fabricante": "OKB-1",
+    "Masa en el lanzamiento": "361 kg",
+    "Programa": "Programa Luna",
+    "Misión anterior": "Luna E-1 No.2",
+    "Misión siguiente": "Luna 1",
+    "Fecha de lanzamiento": "4 de diciembre de 1958",
+    "Vehículo de lanzamiento": "Luna 8K72 s/n B1-5",
+    "Lugar de lanzamiento": "Baikonur 1/5"
+  },
+  "resumen": "Luna E-1 No.3, a veces identificada por la NASA como Luna 1958C, era una nave espacial soviética que se perdió en un fallo de lanzamiento en 1958. Era una nave espacial Luna E-1 de 361-kilogramo (796 lb), la tercera de cuatro en ser lanzada, todos los cuales estaban involucrados en fallas de lanzamiento. Tenía la intención de impactar en la superficie de la Luna, y al hacerlo se convirtió en el primer objeto hecho por el hombre en alcanzar su superficie.\nLa nave espacial tenía la intención de liberar 1 kilogramo (2,2 lb) de sodio, a fin de crear una nube del metal que pudiera observarse desde la Tierra, permitiendo que la nave espacial fuera rastreada. Antes de la publicación de información sobre su misión, la NASA identificó correctamente que había sido un intento de misión de impacto lunar.\nLuna E-1 No.3 fue lanzada el 4 de diciembre de 1958 sobre un cohete portador Luna 8K72, volando desde el Sitio 1/5 en el Cosmodrome de Baikonur. Modificaciones para corregir el problema de vibración en lanzamientos anteriores mediante la instalación de amortiguadores en las líneas de alimentación LOX trabajadas y el elevador completó con éxito la quemadura de correa. Sin embargo, el lanzamiento fue otro fallo ya que la etapa central perdió empuje en T+245 segundos. El rendimiento del motor cayó al 70% y comenzó a desviarse de su trayectoria de vuelo. El sistema AVD terminó el empuje y el booster cayó 4.200 km de distancia. La investigación encontró que un engranaje de la bomba de peróxido de hidrógeno de la etapa central estaba mal lubricado y falló durante el vuelo, causando la pérdida del rendimiento de la turbobomba y el empuje del motor.",
+  "secciones": [],
+  "num_palabras": 283
+}

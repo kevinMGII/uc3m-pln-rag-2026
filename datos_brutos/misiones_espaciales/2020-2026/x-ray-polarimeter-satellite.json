@@ -1,0 +1,19 @@
+{
+  "titulo": "X-ray Polarimeter Satellite",
+  "titulo_wikipedia_en": "XPoSat",
+  "fecha_lanzamiento": "2024-01-01",
+  "año_lanzamiento": 2024,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Telescopio espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/X-ray_Polarimeter_Satellite",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {},
+  "resumen": "El Satélite Polarímetro de Rayos X (XPoSat) es un observatorio espacial de la agencia espacial India (ISRO) para estudiar polarización de rayos X cósmicos. Fue lanzado el 1 de enero de 2024 en un cohete PSLV, y tiene una vida operativa prevista de al menos cinco años.\nEl telescopio fue desarrollado por el Raman Research Institute (RRI) en estrecha colaboración con el U R Rao Satellite Centre (URSC). Según ISRO, esta misión complementará los esfuerzos de la agencia espacial estadounidense NASA, que lanzó su Imaging X-ray Polarimetry Explorer (IXPE) en 2021 mediante la observación de eventos espaciales en un amplio rango de energía de 2-30 keV.",
+  "secciones": [],
+  "num_palabras": 106
+}

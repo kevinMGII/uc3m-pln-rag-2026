@@ -1,0 +1,60 @@
+{
+  "titulo": "Genesis I (space habitat)",
+  "titulo_wikipedia_en": "Genesis I (space habitat)",
+  "fecha_lanzamiento": "2006-07-12",
+  "año_lanzamiento": 2006,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Estación espacial"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Genesis_I_(space_habitat)",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Estación espacial experimental no autorizada",
+    "Operador": "Aeroespacial de Bigelow",
+    "ID COSPAR": "2006-029A",
+    "Nº SATCAT": "29252",
+    "Duración de la misión": "6 meses (previstos)\n2,5 años (logrado)\n(en órbita)",
+    "Nave": "Estación espacial",
+    "Tipo de nave": "Génesis",
+    "Fabricante": "Aeroespacial de Bigelow",
+    "Masa en el lanzamiento": "1360 kg",
+    "Dimensiones": "4,40 m de longitud\n2,54 m de diámetro\n11,50 m3 de volumen\nPresión interior de 51,70 kPa",
+    "Fecha de lanzamiento": "12 de julio de 2006, 14:53:36 HUC",
+    "Vehículo de lanzamiento": "Dnepr",
+    "Lugar de lanzamiento": "Dombarovsky, Rusia",
+    "Contratista del lanzamiento": "Yuzhmash",
+    "Destrucción": "2 de julio de 2025",
+    "Tipo de fin de misión": "Reingreso",
+    "Sistema de referencia orbital": "Órbita geocéntrica",
+    "Régimen orbital": "Órbita terrestre baja",
+    "Periapsis": "470 km",
+    "Apoapsis": "480 km",
+    "Inclinación orbital": "64.52°",
+    "Periodo orbital": "94,84 minutos",
+    "Programa": "Programa Génesis",
+    "Misión siguiente": "Génesis II"
+  },
+  "resumen": "Genesis I fue un hábitat espacial experimental diseñado y construido por la firma privada estadounidense Bigelow Aerospace y lanzado en 2006. Fue el primer módulo en ser enviado a órbita por la empresa y ensayó diversos sistemas, materiales y técnicas relacionados con la determinación de la viabilidad de las estructuras espaciales inflables a largo plazo hasta 2008. Tales estructuras, incluyendo este módulo y otras construidas por Bigelow Aerospace, fueron similares al diseño de TransHab ampliable de la NASA en los años 90, cuyo objetivo era proporcionar un mayor volumen interior a un diámetro de lanzamiento reducido y una masa potencialmente reducida en comparación con las estructuras rígidas tradicionales.\nLos sistemas de a bordo transmitieron datos durante 2,5 años.",
+  "secciones": [
+    {
+      "titulo": "Historia de la nave espacial",
+      "nivel": 2,
+      "texto": "Génesis I fue lanzado el 12 de julio de 2006 a las 14:53:36 UTC a bordo de un vehículo de lanzamiento ISC Kosmotras Dnepr, lanzado desde la base de misiles Dombarovsky cerca de Yasny, Orenburg Oblast, Rusia. El control de la nave espacial fue transferido a Bigelow Aerospace a las 15:08 UTC después de una inserción orbital exitosa. Diseñado como un modelo a escala de un tercio del tamaño completo BA 330, cuando en órbita el cuerpo principal de la nave mide 4,40 m de largo y 2,54 m de diámetro, con un volumen habitable interior de 11,5 m3 (410 cu ft). Sin embargo, como parte del diseño ampliable, el módulo se lanzó con un diámetro de sólo 1,60 m (5 pies 3 pulgadas), inflando a su tamaño completo después de entrar en órbita. El proceso de expansión tomó aproximadamente diez minutos.\nGénesis I sufrió un gran evento de radiación en diciembre de 2006 como resultado de una \"tormenta solar\". Los controladores de la misión pudieron reiniciar el sistema a tiempo, aunque la situación fue descrita como \"una falla lejos de la nave espacial muerta\". A pesar de esto, no se produjeron daños duraderos y la nave continuaba operando en \"forma excelente\" en marzo de 2007.\nLa nave espacial completó su órbita número 10.000 el 8 de mayo de 2008, unos 660 días después del lanzamiento. En ese momento, Génesis I había viajado más de 430 millones de kilómetros (270 millones de millas), el equivalente de ir a la Luna y volver a 1.154 veces, y había tomado más de 14.000 imágenes, incluyendo imágenes de los siete continentes. Su equipo eléctrico se había accionado continuamente desde que empezó a funcionar.\nAunque la vida de diseño de la aviónica de la nave espacial fue sólo seis meses, los sistemas de aviónica funcionaron perfectamente durante \"más de dos años y medio\" antes del fracaso. Los datos recibidos después de los seis primeros meses fueron una reverificación de la suite de pruebas de validación que se realizó durante el período de vida del diseño.\nEn febrero de 2011, Bigelow informó que el vehículo había \"perfeccionado perfectamente en términos de mantenimiento de la presión y control térmico-contención ambiental\".\nLa vida orbital se estimó inicialmente en 12 años, con una órbita en decadencia gradual que dio lugar a la reentrada en la atmósfera de la Tierra y la quema prevista. Sus operaciones duraron aproximadamente 2,5 años, considerablemente más que la duración prevista de la misión de seis meses.\nDespués de 18 años, Génesis I reingresó en la atmósfera de la Tierra el 2 de julio de 2025."
+    },
+    {
+      "titulo": "Sistemas",
+      "nivel": 2,
+      "texto": "Génesis I fue equipado con ocho paneles solares GaAs, cuatro en cada extremo de la nave, que produjo 1000 vatios de potencia total y mantuvo una carga de batería de 26 voltios. Llevaba trece cámaras, siete externas para vigilar la condición física de la nave espacial, como la capa exterior y los conjuntos solares, y seis internamente para fotografiar los diversos objetos y experimentos. Los sistemas internos establecieron una presión atmosférica de 51,7 kPa (7,50 psi) y utilizaron el control térmico pasivo para mantener las temperaturas a una media de 26 °C (79 °F), con límites observados de aproximadamente 4,5 °C (40,1 °F) y 32 °C (90 °F). Genesis I utilizó un solo tanque de gas para su sistema de inflado, y el control de guía/estabilización se realizó utilizando una red de varillas de par, sensores solares, GPS y un magnetómetro."
+    },
+    {
+      "titulo": "Carga útil",
+      "nivel": 2,
+      "texto": "Aparte de los diversos sistemas y equipos de monitoreo, Génesis I estaba orbitando con una amplia variedad de carga. Los empleados de Bigelow aportaron numerosas fotografías, juguetes, tarjetas y otros artículos, que se vieron en imágenes fijas flotando alrededor de la cabina. Bigelow también puso un experimento de ciencias de la vida a bordo, que contenía cuatro cucarachas silbadoras malgaches (Gromphadorhina portentosa) y aproximadamente 20 llamadas judías saltadoras mexicanas, que son semillas que contienen la larva viva de la polilla Cydia salitans. Además, la compañía permitió que la NASA incluyera un prototipo de la serie de nanosatélites GeneSat. Este dispositivo, llamado GeneBox, probó los sistemas y procedimientos que se utilizarán en futuras misiones de GeneSat. Mientras que GeneBox no llevaba organismos vivos, en vuelos futuros se utilizarán sensores y ópticas para medir cómo la ingravidez afecta los genes y la actividad genética de las células y la vida microscópica."
+    }
+  ],
+  "num_palabras": 840
+}

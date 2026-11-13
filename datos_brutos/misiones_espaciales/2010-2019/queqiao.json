@@ -1,0 +1,31 @@
+{
+  "titulo": "Queqiao",
+  "titulo_wikipedia_en": "Queqiao-1",
+  "fecha_lanzamiento": "2018-05-20",
+  "año_lanzamiento": 2018,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración lunar",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Queqiao",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {},
+  "resumen": "Queqiao es un satélite artificial chino que fue lanzado con éxito el 21 de mayo de 2018, fue ubicado en una órbita alrededor del punto de Lagrange L2 del sistema Tierra-Luna. Hace de enlace de comunicaciones con el rover equipado en la misión Chang'e 4 (que aterrizó con éxito el 3 de enero de 2019 en la cara oculta de la Luna), y la Tierra.",
+  "secciones": [
+    {
+      "titulo": "Características técnicas",
+      "nivel": 2,
+      "texto": "Queqiao es un pequeño satélite de 425 kg construido sobre una base CAST-100 por la Academia China de Tecnología Espacial (CAST). La base está estabilizada en 3 ejes y se provee energéticamente por paneles solares desplegables. Impulsada por cuatro pequeños motores que utilizan hidrazina como combustible con un empuje de 130 Newtons. Su principal carga útil es un radiotransmisor, que tiene 4 canales de banda X para los enlaces con el rover instalado en la superficie lunar (velocidad de flujo de 256 kilobits/segundo) y un canal de banda S para la transmisión de datos a la Tierra (velocidad 2 gigabits/segundo). Utiliza una antena parabólica de 4,2 metros de diámetro que se desplegó en órbita.\nTambién lleva el Netherlands Chinese Low-Frequency Explorer (NCLE), una antena de radio de origen holandés desarrollado por ASTRON Netherlands Institute for Radio Astronomy (Astron), que debería permitir recibir emisiones de radio de baja frecuencia de las primeras estrellas y galaxias que hicieron aparición tras cientos millones de años después del Big Bang. Por la distancia del satélite, se evitan las interferencias de radio en las inmediaciones de la Tierra. Las longitudes de onda por debajo de 30 MHz, que caracterizan este espacio del Universo, están bloqueadas por la atmósfera de la Tierra. Otro instrumento de su equipación es un reflector láser de ángulo amplio que permitirá realizar mediciones en la distancia.\nFinalmente dos cubesats, de 50x50x40 cm y un peso de 45 kg, denominados DSLWP-A1 y DSLWP-A2 (\"Discovering the Sky at Longest Wavelengths Pathfinder\", su traducción: \"Descubriendo el cielo en longitudes de onda más largo de Pathfinder\") y rebautizados como Longjiang-1 y 2 (que significa \"Río Dragón\"), se ponen en órbita con Queqiao y deberán ser colocados en tándem en una órbita lunar (300 x 3000 kilómetros) para realizar una pruebas de emisión de interferometría y de radio. Uno de los dos instrumentos lleva una micro cámara desarrollada en King Abdulaziz City for Science and Technology (KACST) (Arabia Saudita) y un sistema de radioaficionados.\nEn general, se espera que Queqiao esté en funcionamiento durante al menos cinco años."
+    },
+    {
+      "titulo": "Evolución de la misión",
+      "nivel": 2,
+      "texto": "Queqiao fue lanzado con éxito con un cohete Larga Marcha 4 desde el Centro de Lanzamiento de Satélites de Xichang. Se posicionará en una órbita de halo cercana al punto de Lagrange L2 del sistema Tierra-Luna. Una vez colocado en el lugar destinado, más allá de la órbita lunar (400,000 km desde la Tierra) y a 60,000 kilómetros de la Luna podrá recibir y transmitir comunicaciones de radio desde la cara oculta de la Luna a la Tierra. Esta órbita, localizada por el especialista en misiones de la NASA Robert W. Farquhar hace 40 años, será utilizada por primera vez."
+    }
+  ],
+  "num_palabras": 507
+}

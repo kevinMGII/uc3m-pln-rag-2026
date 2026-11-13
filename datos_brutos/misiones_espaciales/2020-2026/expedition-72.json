@@ -1,0 +1,49 @@
+{
+  "titulo": "Expedition 72",
+  "titulo_wikipedia_en": "Expedition 72",
+  "fecha_lanzamiento": "2024-09-23",
+  "año_lanzamiento": 2024,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Expedition_72",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Expedición de larga duración",
+    "Operador": "NASA / Roscosmos",
+    "Estación espacial": "Estación Espacial Internacional",
+    "Fecha de inicio": "23 de septiembre de 2024",
+    "Fecha de fin": "19 de abril de 2025",
+    "Nave de llegada": "SpaceX Crew-8; prueba de vuelo de la tripulación de Boeing; Soyuz MS-26; SpaceX Crew-9; SpaceX Crew-10; Soyuz MS-27",
+    "Nave de regreso": "SpaceX Crew-8; SpaceX Crew-9; Soyuz MS-26",
+    "Tripulación": "Expedición 70/71/72:; Matthew Dominick; Michael Barratt; Jeanette Epps; Alexander Grebenkin; Expedición 71/72:; Barry E. Wilmore; Sunita Williams; Aleksey Ovchinin; Ivan Vagner; Donald Pettit; Expedición 72:; Nick Hague; Aleksandr Gorbunov; Expedición 72/73:; Anne McClain; Nichole Ayers; Takuya Onishi; Kirill Peskov; Sergey Ryzhikov; Alexey Zubritsky; Jonny Kim",
+    "Actividades extravehiculares (EVA)": "3",
+    "Duración de las EVA": "18 horas, 43 minutos",
+    "Programa": "Expediciones",
+    "Misión anterior": "Expedición 71",
+    "Misión siguiente": "Expedición 73"
+  },
+  "resumen": "La Expedición 72 fue la 72a expedición de larga duración a la Estación Espacial Internacional (ISS). La expedición comenzó con la salida de Soyuz MS-25 el 23 de septiembre de 2024 con la astronauta de la NASA Sunita Williams tomando el mando de la ISS y concluyó con la salida de Soyuz MS-26. Continuó la extensa investigación científica llevada a cabo a bordo de la ISS, centrándose en la biología, la fisiología humana, la física y la ciencia de materiales. Los miembros de la tripulación también mantuvieron y actualizaron los sistemas de estaciones espaciales.",
+  "secciones": [
+    {
+      "titulo": "Antecedentes, Tripulación y Eventos",
+      "nivel": 2,
+      "texto": "La expedición consistió en Roscosmos cosmonautas Aleksey Ovchinin, Ivan Vagner, y Aleksandr Gorbunov, y astronautas de la NASA Barry E. Wilmore, Sunita Williams, Donald Pettit y Nick Hague.\nWilmore y Williams llegaron a la estación el 6 de junio de 2024 para lo que se esperaba que fuera una breve visita como parte de la misión de Boeing Crew Flight Test. Sin embargo, su nave espacial experimentó problemas técnicos y regresó a la Tierra descremada, y Wilmore y Williams fueron agregados a la tripulación de la Expedición 71/72.\nOvchinin, Vagner y Pettit llegaron a la estación el 11 de septiembre a bordo de Soyuz MS-26.\nLa Haya y Gorbunov llegaron a la estación el 29 de septiembre a bordo de SpaceX Crew-9. El traspaso entre Crew-9 y Crew-8 fue mucho más largo de lo normal. Se necesitaba tiempo adicional para reconfigurar la cápsula Dragón de Crew-8 para eliminar las estructuras temporales de asiento que se agregaron en caso de que Wilmore y Williams necesitaran evacuar. La salida se retrasó aún más debido a las malas condiciones meteorológicas en las zonas de aluvión que rodean Florida causadas por el huracán Milton y varias otras tormentas. Los retrasos acumulados causaron que Crew-8 se convirtiera en la misión Dragón más larga cuando partió con los astronautas de la NASA Matthew Dominick, Michael Barratt y Jeanette Epps, así como el cosmonauta Roscosmos Alexander Grebenkin el 23 de octubre.\nLa expedición vio tres caminatas espaciales. El 19 de diciembre de 2024, Ovchinin y Vagner realizaron un EVA de 7 horas y 17 minutos para trabajar en sistemas científicos montados externamente. El 16 de enero de 2025, La Haya y Williams completaron un EVA de 6 horas centrado en el mantenimiento y las mejoras. Este fue el primer EVA de larga duración de los astronautas estadounidenses en más de un año, después de un incidente de junio de 2024 en el que una fuga en una UEM cortó una caminata espacial. El EVA final tuvo lugar el 30 de enero con Williams y Wilmore retirando un grupo de radiofrecuencia de antenas ensambladas durante una caminata espacial de 5 horas y 26 minutos. Durante este EVA, Williams estableció un nuevo récord para el tiempo total de caminata espacial por una astronauta femenina.\nWilliams entregó el mando de la estación espacial a Ovchinin el 7 de marzo para preparar su partida. SpaceX Crew-10 llegó a la Estación Espacial Internacional el 16 de marzo, transportando a los astronautas de la NASA Anne McClain y Nichole Ayers, al astronauta de la JAXA Takuya Onishi y al cosmonauta Roscosmos Kirill Peskov, y presentó una entrega más corta de lo normal con la Crew-9 de sólo dos días. Fue acortada debido a un retraso en un próximo vuelo de suministro, que requirió la conservación de recursos como la comida y una breve ventana de clima favorable en el Golfo de México para la salpicadura. Crew-9 partió con La Haya, Gorbunov, Wilmore y Williams el 18 de marzo.\nRoscosmos cosmonautas Sergey Ryzhikov y Alexey Zubritsky, junto con el astronauta de la NASA Jonny Kim llegaron a la estación a bordo de Soyuz MS-27 el 8 de abril. Tras un período de traspaso, Ovchinin entregó el mando de la estación espacial a Onishi el 18 de abril. La expedición concluyó el 19 de abril con la salida de Ovchinin, Vagner y Pettit en Soyuz MS-26."
+    },
+    {
+      "titulo": "Manifestación de acontecimientos",
+      "nivel": 2,
+      "texto": "Los eventos relacionados con naves espaciales tripuladas se enumeran en negrita.\nMisión anterior: Expedición 71\n23 de septiembre de 2024 - Soyuz MS-25 undocking, cambio oficial de Expedición 71\n29 de septiembre de 2024 - Atraque SpaceX Crew-9\n23 de octubre de 2024 - SpaceX Crew-8 undocking\n3 de noviembre de 2024 - SpaceX Crew-9 redocking\n5 noviembre 2024 - Atraque CRS SpX-31\n19 de noviembre de 2024 - Progreso MS-27 deshacercking\n23 de noviembre de 2024 - Progreso del acoplamiento MS-29\n16 de diciembre de 2024 - SIR SpX-31 unlockcking\n19 de diciembre de 2024 - EVA 1 (VKD-63) Ovchinin/Vagner: 7 horas, 17 minutos\n16 de enero de 2025 - EVA 2 (US-91) La Haya/Williams: 6 hrs\n30 de enero de 2025 - EVA 3 (US-92) Williams/Wilmore: 5 horas, 26 minutos\n25 de febrero de 2025 - Progreso MS-28\n1 de marzo de 2025 - Progreso en el acoplamiento del MS-30\n7 de marzo de 2025 - ISS Expedición 72 cambio de mando de Sunita Williams a Aleksey Ovchinin\n16 de marzo de 2025 - Atraque SpaceX Crew-10\n18 de marzo de 2025 - SpaceX Crew-9 undocking\n28 de marzo de 2025 - CRS NG-21 unberthing y liberación\n8 de abril de 2025 - Atraque Soyuz MS-27\n18 de abril de 2025 - Expedición 72/73 de la Estación Espacial Internacional cambio de mando de Aleksey Ovchinin a Takuya Onishi\n19 de abril de 2025 - Soyuz MS-26, cambio oficial a Expedición 73\nPróxima misión: Expedición 73"
+    },
+    {
+      "titulo": "Manifiesto del vehículo",
+      "nivel": 2,
+      "texto": "Los puertos de popa, proa, estribor y popa de Prichal todavía no se han utilizado desde que el módulo se acopló originalmente a la estación y no están incluidos en la tabla."
+    }
+  ],
+  "num_palabras": 934
+}

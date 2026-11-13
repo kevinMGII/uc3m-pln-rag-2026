@@ -1,0 +1,30 @@
+{
+  "titulo": "Sonda Génesis",
+  "titulo_wikipedia_en": "Genesis (spacecraft)",
+  "fecha_lanzamiento": "2001-08-08",
+  "año_lanzamiento": 2001,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Sonda_Génesis",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {},
+  "resumen": "La misión Génesis era la primera tentativa de recoger una muestra de viento solar, y la primera que volviese desde más allá de la órbita de la Luna. La sonda fue lanzada el 8 de agosto de 2001, y se estrelló en tierra el 8 de septiembre de 2004 después de que un defecto de diseño impidiese el despliegue de su paracaídas. El desplome contaminó a muchos de los colectores de muestras, pero el proceso posterior pudo aislar muestras útiles, y en abril de 2005 se pudieron cumplir algunos de los objetivos de la ciencia que intentaba desentrañar.",
+  "secciones": [
+    {
+      "titulo": "Misión",
+      "nivel": 2,
+      "texto": "La NASA lanzó la sonda en el cohete un delta II el 8 de agosto de 2001 a las 16:13 UTC 40 de cabo Cañaveral. La Génesis siguió la red interplanetaria de transporte de trayectoria complicada a una órbita caótica del halo de Lissajous en el L1 punto de Lagrange entre la Tierra y el Sol.\nEntre el 3 de diciembre de 2001 hasta el 1 de abril de 2004, la sonda expuso el colector para recoger átomos del viento solar expelido por el Sol."
+    },
+    {
+      "titulo": "Reentrada",
+      "nivel": 3,
+      "texto": "El 8 de septiembre de 2004, la cápsula realizó su reentrada en la atmósfera mientras que el resto de la nave espacial derivó hacia una órbita irrecuperable. Debido a un defecto de diseño en un sensor de la desaceleración, el despliegue del paracaídas no se accionó, y la nave espacial descendió frenando únicamente por acción de la resistencia del aire. La operación prevista de recuperación no podía ser realizada. La nave espacial se estrelló irremediablemente en el suelo a 86 m/s (311 km/h) en la base militar del desierto de Dugway (polígono de pruebas del ejército de Estados Unidos), a unos 50 km al oeste de la localidad de Dugway (en el condado de Tooele), a unos 120 km al suroeste de Salt Lake City (estado de Utah)."
+    }
+  ],
+  "num_palabras": 311
+}

@@ -1,0 +1,255 @@
+{
+  "titulo": "Soyuz TM-23",
+  "titulo_wikipedia_en": "Soyuz TM-23",
+  "fecha_lanzamiento": "1996-02-21",
+  "año_lanzamiento": 1996,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Soyuz_TM-23",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Operador": "Rosaviakosmos",
+    "ID COSPAR": "1996-011A",
+    "Duración de la misión": "193 días, 19 horas, 7 minutos, 35 segundos",
+    "Órbitas completadas": "~3,155",
+    "Nave": "Soyuz TM-23 (7K-STM No. 72)",
+    "Tipo de nave": "Soyuz-TM",
+    "Fabricante": "RKK Energia",
+    "Masa en el lanzamiento": "7150 kg",
+    "Fecha de lanzamiento": "21 de febrero de 1996, 12:34:05 UTC",
+    "Vehículo de lanzamiento": "Soyuz-U",
+    "Lugar de lanzamiento": "Almohadilla de lanzamiento Baikonur 1",
+    "Fecha de aterrizaje": "2 de septiembre de 1996, 07:41:40 UTC",
+    "Tripulación": "Yuri Onufrienko\nYury Usachov",
+    "Tripulación en el aterrizaje": "Claudie André-Deshays",
+    "Indicativo": "| (Esquifo - Escita)",
+    "Sistema de referencia orbital": "Geocéntrico",
+    "Régimen orbital": "Órbita terrestre baja",
+    "Periapsis": "202 km",
+    "Apoapsis": "240 km",
+    "Inclinación orbital": "51,6 grados",
+    "Acoplamiento": "target de acoplamiento: Mir | tipo de acoplamiento: dock | fecha de acoplamiento: 23 de febrero de 1996, 14:20:35 UTC | fecha de acoplamiento: 2 de septiembre de 1996, 4:20:00 UTC | hora de acoplamiento: 191,5 días",
+    "Misión anterior": "Soyuz TM-22",
+    "Misión siguiente": "Soyuz TM-24",
+    "Programa": "Programa Soyuz\n(Misiones decretadas)"
+  },
+  "resumen": "Soyuz TM-23 fue un vuelo espacial Soyuz que se lanzó el 21 de febrero de 1996 a Mir. La nave espacial se lanzó desde el cosmódromo de Baikonur, y después de dos días de vuelo, Yuri Onufrienko y Yury Usachov se atracaron con Mir y se convirtieron en la 21a tripulación residente de la Estación. El 2 de septiembre de 1996, después de 191 días de atraque con Mir, el barco se deshizo con la tripulación de lanzamiento y Claudie André-Deshays a bordo, antes de aterrizar 107 km al suroeste de Akmola, Kazajistán.",
+  "secciones": [
+    {
+      "titulo": "Aspectos destacados",
+      "nivel": 2,
+      "texto": "Onufrienko y Usachev comenzaron su misión sin un tercer miembro de la tripulación. El astronauta estadounidense Shannon Lucid se uniría a ellos a finales de marzo de 1996 durante el STS-76 y abandonaría la misión Mir 20 en septiembre de 1996 con el STS-79."
+    },
+    {
+      "titulo": "Expedición Principal Mir 21",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Febrero de 1996 – Comienza el Mir 21",
+      "nivel": 3,
+      "texto": ""
+    },
+    {
+      "titulo": "Progreso M-30 Undocked y Soyuz TM-23 Lanzado",
+      "nivel": 4,
+      "texto": "El 21 de febrero, Soyuz TM-23 se lanzó desde el cosmódromo de Baikonur con los cosmonautas para Mir Principe Expedition 21. Para despejar un puerto de atraque para el Soyuz TM-23, el Progress M-30 fue desmantelado el 22 de febrero y reingresó sobre el Océano Pacífico. El Soyuz atracó el 23 de febrero en el puerto de acoplamiento +X en la parte trasera del módulo Kvant. Una hora y media después del atraque, las escotillas se abrieron y la tripulación de Soyuz TM-23 fue recibida por Yuri Gidzenko, Sergei Avdeyev y Thomas Reiter, miembros de Mir Principe Expedition 20 y Euromir 95. Esto comenzó una semana de operaciones conjuntas donde Mir 20 entregó la estación a Mir 21, incluyendo la familiarización con las condiciones actuales de los proyectos y la propia estación. Dos días antes del vuelo de regreso, una fuga de agua apareció en el bloque base de Mir, pero los cosmonautas pudieron repararlo."
+    },
+    {
+      "titulo": "Final de la misión Mir 20/Euromir 95",
+      "nivel": 4,
+      "texto": "Gidzenko, Avdeyev y Reiter se pusieron sus trajes de lanzamiento y reingreso de Sokol y entraron en el Soyuz TM-22 el 29 de febrero de 1996. Aterrizaron a unos 105 km de Arkalyk. Su misión duró 179 días, 1 hora y 42 minutos. Reiter tenía entonces el récord de duración de los vuelos espaciales de un europeo occidental."
+    },
+    {
+      "titulo": "Marzo 1996 – Atlantis visita Mir por tercera vez",
+      "nivel": 3,
+      "texto": ""
+    },
+    {
+      "titulo": "Primer EVA para Mir 21",
+      "nivel": 4,
+      "texto": "El 15 de marzo, Onufrienko y Usachev salieron de la escotilla Kvant 2 EVA para su primera caminata espacial. Debido a que el Strela existente no pudo ser utilizado para llegar al módulo Kristall en su ubicación actual, instalaron un segundo boom Strela en el bloque base Mir, en el lado opuesto a la Strela ya en su lugar. En el EVA de 5 horas y 51 minutos, también prepararon cables y conectores eléctricos en la superficie del módulo Kvant para la instalación en mayo del Array Solar Mir Cooperative. El array fue almacenado en la superficie del módulo de acoplamiento que fue instalado en Kristall en noviembre pasado."
+    },
+    {
+      "titulo": "Lanzamiento de Atlantis",
+      "nivel": 4,
+      "texto": "El transbordador espacial estadounidense Orbiter Atlantis fue lanzado desde el Kennedy Space Center el 22 de marzo a las 11:00 UTC para su decimosexto vuelo como STS-76. Durante la fase de ascenso, los controladores de vuelo detectaron una pequeña fuga en uno de los tres sistemas hidráulicos redundantes de Atlantis, pero después de que el sistema fue apagado cuando Atlantis alcanzó la órbita, la fuga se detuvo. La pérdida de aproximadamente 20% del fluido hidráulico de ese sistema no afectaría negativamente a la misión porque el sistema hidráulico no se utilizaría de nuevo hasta la fase de descenso."
+    },
+    {
+      "titulo": "Preparativos para el acoplamiento",
+      "nivel": 4,
+      "texto": "Durante los dos primeros días de la misión, el comandante de Atlantis Kevin Chilton y el piloto Richard Searfoss comenzaron a disparar a reacción para guiar el viaje de Atlantis hacia Mir. La tripulación se preparó para el acoplamiento revisando el equipo de comunicaciones y las ayudas de acoplamiento y alineación. También activaron Spacehab e iniciaron operaciones orbitales para experimentos de Biorack. Especialistas en misión Linda Godwin y Michael Clifford revisaron los trajes espaciales y el equipo para su próxima EVA."
+    },
+    {
+      "titulo": "Atlantis se acerca a Mir",
+      "nivel": 4,
+      "texto": "En el día 3 de la misión, cuando Atlantis estaba a 8 millas de la estación, Chilton disparó los motores del sistema de maniobras orbitales en la quemadura de iniciación de fase terminal. Cuando las dos naves completaron otra órbita, Atlantis se acercó a Mir desde abajo a lo largo de la barra R, utilizando radares de encuentro para rastrear su velocidad de aproximación y medir su distancia."
+    },
+    {
+      "titulo": "Tercer atraque Atlantis/Mir",
+      "nivel": 4,
+      "texto": "Chilton tomó el control manual a media milla debajo del Mir, ejecutando una rotación de 180 grados para alinear Atlantis con el módulo de acoplamiento en Kristall. Utilizó la cámara central ODS como ayuda para refinar y mantener la alineación. A las 12:34 UTC el 24 de marzo, logró contacto, añadiendo Atlantis a un complejo de estación espacial que luego totalizó 230 toneladas. Después de la confirmación de atraque, control de fugas y presurización del vestíbulo de atraque, se abrieron las escotillas y las dos tripulaciones se saludaron. Poco después, la tripulación de Atlantis instaló conductos para ayudar en la circulación de aire entre las dos naves espaciales durante la fase de acoplamiento."
+    },
+    {
+      "titulo": "Lucid se une a la tripulación Mir 21",
+      "nivel": 4,
+      "texto": "Shannon Lucid se convirtió oficialmente en un miembro de la tripulación Mir 21 a las 12:30 UTC el 24 de marzo después de un \"go\" conjunto de los centros de control de la misión rusa y estadounidense. Se convirtió en la primera en una presencia continua planeada de astronautas estadounidenses en Mir hasta 1998."
+    },
+    {
+      "titulo": "Nuevos suministros criados en Atlantis",
+      "nivel": 4,
+      "texto": "En la parte conjunta de la misión, las dos tripulaciones cargaron en la estación más de 1 tonelada de equipo científico estadounidense, casi 2 toneladas de suministros rusos y 15 contenedores de agua que suman alrededor de 1,5 toneladas. Aproximadamente una tonelada de exceso de equipo, residuos y carga útil científica fue transferida de Mir a Atlantis. Desde su punto de vista en órbita, las tripulaciones fueron tratadas con una buena vista del cometa Hyakutake. Algunos de los elementos del hardware de la nave espacial traídos por Atlantis eran el reemplazo de girodyne, un kit de revestimiento de asiento para Lucid que se colocaría en un módulo de Soyuz si se requería el regreso de emergencia a la Tierra y tres baterías de almacenamiento rusas que habían sido reabastecidas en la Tierra."
+    },
+    {
+      "titulo": "Suministros experimentales",
+      "nivel": 4,
+      "texto": "Algunos de los nuevos suministros y equipos para experimentos a bordo incluyen hardware de reemplazo para los experimentos de estiba de guantera Mir, hardware de caracterización de campo eléctrico Mir para medir interferencias de radio dentro y alrededor del complejo, y un experimento de sinterización de fase líquida que utilizaría el horno Optizon para unir diferentes metales."
+    },
+    {
+      "titulo": "Trabajos del módulo Spacehab",
+      "nivel": 4,
+      "texto": "En los días de vuelo 4, 5 y 7, la tripulación trabajó en el Biorack en el módulo Spacehab en la bahía de carga útil Orbiter. El Biorack contenía once experimentos para investigar los efectos de la microgravedad y la radiación cósmica en plantas, tejidos animales, bacterias e insectos. Los diversos experimentos fueron diseñados por Francia, Alemania, Estados Unidos, Suiza y los Países Bajos."
+    },
+    {
+      "titulo": "Procedimientos previos al EVA",
+      "nivel": 4,
+      "texto": "En preparación para el EVA, la presión de aire de la cabina de Atlantis se redujo de 14,7 a 10,2 psia. las escotillas se cerraron entre Mir y Atlantis y Atlantis y Spacehab en todo el EVA para permitir una despresurización sostenida de la cabina. La tripulación Mir, incluyendo a Lucid, se quedó dentro de Mir y la tripulación Atlantis se quedó dentro de la cabina Orbiter, con Ronald Sega coordinando las actividades de caminata espacial desde el interior."
+    },
+    {
+      "titulo": "Mochilas SAFER desgastadas",
+      "nivel": 4,
+      "texto": "Adheridas a su mochila portátil regular del sistema de soporte vital, Godwin y Clifford pusieron nuevas mochilas autónomas con sistemas de propulsión para permitir suficiente capacidad de vuelo libre para devolver un astronauta no acoplado a la nave espacial en una emergencia. El dispositivo, llamado Simplified Aid for EVA Rescue (SAFER), fue diseñado para EVAs en vehículos acoplados que no podrían recuperar rápidamente un andador espacial a la deriva. La mochila fue sometida a prueba en STS-64 en septiembre de 1994."
+    },
+    {
+      "titulo": "Primer EVA de astronautas estadounidenses en Mir",
+      "nivel": 4,
+      "texto": "El 27 de marzo, Godwin y Clifford realizaron su EVA de 6 horas en la bahía de carga de Atlantis y en el exterior del módulo de acoplamiento Mir. Su principal tarea era asegurar cuatro recipientes de experimento para barandillas en el módulo de acoplamiento. Los experimentos, llamados colectivamente la carga útil de efectos ambientales Mir (MEEP), fueron diseñados para registrar datos sobre desechos orbitales, y para ensayar materiales potenciales de la Estación Espacial Internacional exponiéndolos al entorno de órbita terrestre baja. Los cuatro recipientes de experimento pasivo serían recuperados por un equipo posterior de STS después de casi 2 años de recolección de datos. Durante su trabajo en el Módulo de Acoplamiento, los astronautas también evaluaron nuevos ganchos de atadura y sujeción de pies que podrían ser utilizados tanto en los exteriores de Mir y Shuttle Orbiter, prototipos de equipo EVA de la Estación Espacial Internacional. También recuperaron la cámara montada en Mir que se había utilizado en la alineación de acoplamiento durante STS-74 en noviembre de 1995."
+    },
+    {
+      "titulo": "Atlantis deja a Mir de nuevo",
+      "nivel": 4,
+      "texto": "Los equipos STS-76 y Mir 21 se despiden mutuamente la mañana del 28 de marzo. Cerraron las escotillas a su nave espacial, y los astronautas comenzaron los preparativos para deshacer y regresar a la Tierra. Con los chorros de dirección de ambas naves se apagaron, Atlantis se separó del módulo de acoplamiento Mir. Luego Chilton reactivó los jets y lentamente se alejó de Mir. A 600 pies de distancia, comenzó a dar vueltas, rodeó la estación dos veces mientras las tripulaciones tomaban fotografías de la nave espacial del otro, y luego se trasladó a otra órbita."
+    },
+    {
+      "titulo": "Abril de 1996: un nuevo módulo para Mir",
+      "nivel": 3,
+      "texto": ""
+    },
+    {
+      "titulo": "Mir 21 continúa con la tripulación completa",
+      "nivel": 4,
+      "texto": "El plan de vuelo diario, o ciclograma, para la tripulación ruso-estadounidense fue proporcionado 4 días antes de lo previsto por TsUP. Un grupo de expertos científicos de la NASA en Moscú sirvió como consultores en actividades científicas. La primera semana después de la salida de Atlantis, la tripulación se centró en el Optizon Liquid Phase Sintering Experiment (OliPSE), procesando 70 muestras de diferentes metales a altas temperaturas. La tripulación también llevó a cabo investigaciones sobre ciencias de la vida y fotografía de observación de la Tierra. Los monitores del Sistema de Medición de Aceleración del Espacio (SAMS) fueron colocados en toda la estación para registrar el movimiento que podría perturbar los experimentos. Los dosímetros de radiación en varios lugares proporcionaron otra medición del entorno interno de la estación. A mediados de abril se detectó una fuga en un bucle de refrigerante en el módulo central, pero la tripulación no pudo encontrar la ubicación exacta. Ese bucle fue apagado y el bucle alternativo fue usado."
+    },
+    {
+      "titulo": "El módulo Priroda",
+      "nivel": 4,
+      "texto": "El tan esperado lanzamiento de Priroda, anunciado anteriormente para el 10 de marzo, para que el módulo estuviera en su lugar cuando Lucid llegara a Mir, había sido trasladado al menos dos veces: una debido a la entrega tardía de la fábrica de Khrunchev y otra debido a que un lanzamiento comercial de Proton a principios de abril tenía precedencia. Pero el 23 de abril, Priroda fue lanzado desde Baikonur en la cima de un cohete SL-13 Proton para un viaje orbital de tres días a Mir. Uno de los dos sistemas eléctricos alimentados por baterías de la nave espacial cayó fuera de línea, eliminando la fuente de energía de reserva para el sistema de acoplamiento automático. Si el sistema eléctrico primario también hubiera fallado, la tripulación de Mir habría iniciado inmediatamente un acoplamiento manual.\nEl módulo Priroda tenía una masa de 19.700 kg, una longitud de ~12 m, un diámetro máximo de ~4,35 m y un volumen presurizado de ~66 metros cúbicos. era el último de los seis módulos Mir habitables permanentes. Priroda fue, como Spektr, diseñado por RKK Energia a mediados de la década de 1980 y fue construido y montado en la planta de Khrunichev entre 1989 y 1991. Los dos sistemas de propulsión del módulo incluían uno para la corrección de órbita durante el vuelo a Mir y el encuentro con Mir y uno para el atraque y la estabilización durante la fase de atraque. El módulo Priroda incluía un compartimento de instrumentos sin presión y un compartimento de instrumentos/cargas de carga.\nEl sistema de acoplamiento automático Kurs en Priroda funcionaba perfectamente, al igual que el sistema eléctrico. No se encontraron problemas en el acoplamiento del nuevo módulo el 26 de abril en el puerto -X en la parte delantera del bloque base Mir.\nEl 27 de abril, desde el interior de la estación, la tripulación de Mir 21 controló el reposicionamiento de Priroda con el brazo de Lyappa al puerto de acoplamiento +Z, justo enfrente del módulo Kristall. Así, el complejo Mir, con sus seis módulos habitables y el Módulo de Acoplamiento, logró su configuración básica final. De ahora en adelante, la forma del complejo cambiaría sólo temporalmente, con acoplamientos de Progress, Soyuz y nave espacial Shuttle Orbiter.\nDebido a la preocupación acerca de las posibles fugas de dióxido de azufre del sistema de baterías en mal funcionamiento, se realizó una prueba de la atmósfera de los módulos antes de que la tripulación entrara. Una vez dentro de Priroda, la primera tarea de la tripulación fue desbloquear las baterías, tapar sus conectores y colocarlos en bolsas de plástico. Las 168 baterías se colocarían más tarde en Progress M-31 para su eliminación. Luego, la tripulación conectó las fuentes de energía Mir a los sistemas Priroda y causó problemas con la batería."
+    },
+    {
+      "titulo": "Mayo de 1996 – Progreso en el reabastecimiento M-31 y EVA",
+      "nivel": 3,
+      "texto": ""
+    },
+    {
+      "titulo": "Progress M-31 trae nuevos suministros",
+      "nivel": 4,
+      "texto": "Una nueva nave de carga Progress fue lanzada desde Baiknour el 5 de mayo y atracada bajo el control del sistema automático Kurs en el puerto -X del Mir el 7 de mayo. Por primera vez en la historia de la estación, todos los puertos del bloque de base fueron ocupados al mismo tiempo. La tripulación comenzó a descargar el vehículo esa semana, además de continuar sus experimentos científicos y la activación de Priroda. Con éxito probaron el nuevo hardware de los sistemas de interfaz a carga útil Mir (MIPS) para conectar los datos al suelo y reemplazaron tres baterías de níquel-cadmio en el sistema de alimentación Priroda. Sin embargo, un controlador de energía para el sistema falló, y los controladores de tierra comenzaron a monitorear y controlar la carga de la batería. La tripulación finalmente aisló la fuga de lazo de refrigerante en el módulo de núcleo, pero no hubo riesgo de salud asociado con la fuga y la reparación no fue programada inmediatamente."
+    },
+    {
+      "titulo": "Conjunto solar cooperativo instalado sobre 2 EVAs",
+      "nivel": 4,
+      "texto": "Onufrienko y Usachev abandonaron la estación a principios del 20 de mayo para retirar el Array Solar de la Cooperativa Mir de su posición estibada en el exterior del módulo de acoplamiento en la base de Kristall. Utilizaron el nuevo brazo Strela instalado durante su EVA del 15 de marzo para llegar a la matriz y trasladarla al módulo Kvant, donde colocaron sus cables en preparación para la instalación final durante su siguiente EVA. Durante las cinco horas y 20 minutos de EVA, inflaron un modelo de aluminio y nylon de una lata Pepsi Cola, que filmaron contra el telón de fondo de la Tierra. La compañía de refrescos pagó el procedimiento y planeó usarlo en un comercial de televisión. El 25 de mayo, en su tercera caminata espacial de la misión, los cosmonautas estuvieron fuera de la estación durante cinco horas y 43 minutos, completando la instalación de la matriz solar en Kvant. Después de que todas las conexiones fueron hechas, la matriz se desplegó bajo comando desde el interior de la estación."
+    },
+    {
+      "titulo": "Mir 21 tripulantes saludan a la tripulación STS-77",
+      "nivel": 4,
+      "texto": "Todos los miembros de la tripulación intercambiaron saludos con los astronautas a bordo del transbordador espacial Endeavour en STS-77 y celebraron una conferencia con los medios de comunicación estadounidenses y rusos."
+    },
+    {
+      "titulo": "Cámara instalada en el exterior de Priroda durante el cuarto Mir 21 EVA",
+      "nivel": 4,
+      "texto": "El 30 de mayo, Onufrienko y Usachev instalaron el Escáner Modular Optoelectrónico Multiespectral (MMS), una cámara de teleobservación alemana, en el módulo Priroda. La cámara, diseñada para reunir datos sobre la atmósfera y el medio ambiente de la Tierra, había sido volada anteriormente en dos misiones del transbordador, STS-7 en junio de 1983 y STS-41B en febrero de 1984. Después de la instalación, Lucid activó el sistema por mando remoto desde el interior de la estación. Durante las cinco horas de EVA, los cosmonautas también instalaron un nuevo pasamanos en el Kvant-2 para facilitar los movimientos en futuras caminatas espaciales."
+    },
+    {
+      "titulo": "Junio de 1996 – EVAs y ciencia",
+      "nivel": 3,
+      "texto": ""
+    },
+    {
+      "titulo": "Más experimentos Instalados durante la quinta EVA",
+      "nivel": 4,
+      "texto": "El Experimento de Impacto de Partículas y el Experimento de Retorno de Muestras Mir, experimentos de ciencia espacial de EE.UU. llevados a órbita dentro de Priroda, fueron instalados en el exterior del módulo Kvant 2 durante unas 3 horas y media de EVA del 6 de junio. Los cosmonautas también reemplazaron un cassette en el experimento Komza en la superficie de Spektr."
+    },
+    {
+      "titulo": "Rapana Girder montado en Kvant en el sexto EVA",
+      "nivel": 4,
+      "texto": "El 13 de junio, los cosmonautas pasaron más de cinco horas fuera de Mir, instalando y desplegando una viga Rapana en la superficie del módulo Kvant como plataforma para instalar futuros experimentos en el exterior de la estación. La estructura de 5 metros se desplegó en cuatro secciones. Otra actividad durante este EVA fue el despliegue manual de la antena de radar Travers en el exterior de Priroda. La gran antena no se había desplegado completamente por orden desde el interior de la estación."
+    },
+    {
+      "titulo": "Continuó el trabajo científico",
+      "nivel": 4,
+      "texto": "Además de ayudar a los cosmonautas durante los EVA desde el interior de la estación, Lucid continuó activando equipo, como la instalación de sistemas de biotecnología para estudios biotecnológicos a largo plazo y realizando experimentos como el experimento Humoral Immunity para estudiar los efectos de los vuelos espaciales en el sistema inmunológico humano. La tripulación también supervisó diversos aspectos del entorno de las naves espaciales. Tomaron muestras de aire en Spektr y el módulo de núcleo usando el SSAS y el Contenedor de Muestras de Grab (GSC). Grabaron los efectos del movimiento de naves espaciales con el equipo SAMS y comenzaron la evaluación del Monte de Aislamiento de Microgravedad (MIM)."
+    },
+    {
+      "titulo": "Julio de 1996 – Trabajo de invernadero y un nuevo récord estadounidense",
+      "nivel": 3,
+      "texto": ""
+    },
+    {
+      "titulo": "Cuarto atraque del transbordador con Mir retrasado",
+      "nivel": 4,
+      "texto": "El 12 de julio, la NASA anunció la decisión de posponer el lanzamiento del 31 de julio de STS-79, la cuarta misión de Atlantis atracaría con Mir, hasta mediados de septiembre. En un descubrimiento posterior al vuelo de STS-78, se encontró que el gas caliente se había filtrado en las articulaciones de los impulsores utilizados en el lanzamiento de STS-78 en junio. Una investigación encontró que la causa más probable de la fuga fue el uso de un nuevo adhesivo y líquido de limpieza que también se utilizó en los refuerzos para STS-79. Aunque se consideró que los refuerzos eran seguros para volar, se tomó la decisión de reemplazarlos para estudiar más a fondo el fallo de la junta J y mejorar el margen de seguridad de la junta."
+    },
+    {
+      "titulo": "El récord de EE.UU. superó",
+      "nivel": 4,
+      "texto": "El 15 de julio, Lucid superó el récord de duración espacial para un astronauta estadounidense establecido por Norm Thagard con sus 115 días en la Expedición Principal Mir 18 en 1996. Con el retraso a STS-79, su récord de vuelo sería aún más largo de lo previsto."
+    },
+    {
+      "titulo": "Trabajos de invernadero",
+      "nivel": 4,
+      "texto": "La tripulación reunió las instalaciones de Svet para el experimento de la planta de invernadero de Biología Fundamental durante la última parte de julio. Una limitación temporal de la energía en Kristall causó un retraso en la primera plantación, pero se resolvió cuando los planificadores de tierra instruyeron a la tripulación para conectar un cable de extensión en la fuente de alimentación de Spektr. El mantenimiento de la estación durante la última semana de julio incluyó la sustitución de un conjunto de válvulas de vacío en el sistema de eliminación de dióxido de carbono. El 26 de julio, la tripulación activó el sistema de oxígeno de reserva el 1 de agosto."
+    },
+    {
+      "titulo": "Agosto de 1996 - Intercambio de Progresos, Experimentos y Nuevos Llegadas",
+      "nivel": 3,
+      "texto": ""
+    },
+    {
+      "titulo": "Progreso M-31 sale y Progreso M-32 llega",
+      "nivel": 4,
+      "texto": "El 1 de agosto a las 16:45 UTC, Progress M-31 abandonó el puerto -X para volver a entrar en la atmósfera de la Tierra. Lanzado el 31 de julio con nuevos suministros y hardware para los próximos experimentos de la misión Cassiopee, Progress M-32 atracó en el puerto -X el 2 de agosto."
+    },
+    {
+      "titulo": "Gyrodynes reformado",
+      "nivel": 4,
+      "texto": "La tripulación de Mir 21 comenzó a preparar experimentos para la próxima misión. También renovaron el sistema de girodyne, manteniendo la actitud de la estación por disparos de propulsores del 5 al 7 de agosto mientras que los girodynes no estaban disponibles."
+    },
+    {
+      "titulo": "Trabajos experimentales de agosto",
+      "nivel": 4,
+      "texto": "Las semillas del primer cultivo de trigo enano fueron plantadas en el invernadero el 5 de agosto. Se realizaron observaciones de la Tierra de zonas de los Estados Unidos, Europa y Asia. Lucid continuó realizando experimentos, incluyendo el Experimento de la Universidad de Queen en Difusión Líquida (QUELD), usando un horno para analizar la formación de aleaciones en el espacio, la Llama de la Vela en Microgravedad (CFM), para estudiar los procesos fisioquímicos de combustión, la Actividad Postural Anticipante (POSA), para medir cómo funcionan los músculos en la microgravedad, la prueba Flow Framepread para examinar las propiedades de propagación de llama de los combustibles sólidos, el Sólido Sampler de Aire Sorbente para Compuestos Orgánicos Volátiles para evaluar el entorno Mir y proporcionó datos para el desarrollo de sistemas avanzados de soporte vital y el Contador Proporcional Equivalente de Tejido (TEPC), un dispositivo de medición de dosis de radiación."
+    },
+    {
+      "titulo": "Llega la tripulación de Mir 22",
+      "nivel": 4,
+      "texto": "El 17 de agosto, Soyuz TM-24 fue lanzado desde Baikonur con el nuevo equipo para la Expedición Principal Mir 22. Para liberar el puerto -X para el acoplamiento de la Soyuz que se aproxima, Progress M-32 fue desbloqueado el 18 de agosto bajo control automático y se trasladó a una órbita de estacionamiento. Quedaría hasta la salida de Soyuz TM-23 con la tripulación Mir 21 el 2 de septiembre. El Soyuz TM-24 atracó en el puerto -X el 19 de agosto. Los recién llegados fueron el comandante Valery Korzun, el ingeniero de vuelo Alexander Kaleri y el investigador de Cosmonaut Claudie Andre-Deshays de la Agencia Espacial Francesa (CNES). Andre-Deshays acompañó a la tripulación Mir 22 para un programa de dos semanas de un conjunto de investigaciones científicas colectivamente llamado Cassiopee. Ella regresaría a la Tierra con la tripulación Mir 21."
+    },
+    {
+      "titulo": "Misión Cassiopee",
+      "nivel": 4,
+      "texto": "Andre-Deshays, Korzun y Kaleri trabajaron en PHYSIOLAB, un estudio de fisiología cardiovascular, COGNILAB, pruebas de respuesta neurosensorial en microgravedad, FERTILE, estudios basados en óvulos para determinar el papel de la gravedad en el desarrollo embrionario, ALICE II, experimentos en dinámica de fluidos y CASTOR, análisis de dinámica estructural."
+    },
+    {
+      "titulo": "Septiembre de 1996 – Mir 21 vuelve a casa a bordo de Soyuz TM-23",
+      "nivel": 3,
+      "texto": "Onufrienko, Usachev y Andre-Deshays partieron de Mir el 2 de septiembre en la nave espacial Soyuz TM-23 y aterrizaron con seguridad en Asia Central. Onufrienko y Usachev habían estado en el espacio 194 días, Andre-Deshays 17 días."
+    }
+  ],
+  "num_palabras": 3661
+}

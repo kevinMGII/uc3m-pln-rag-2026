@@ -1,0 +1,62 @@
+{
+  "titulo": "Psyche (nave espacial)",
+  "titulo_wikipedia_en": "Psyche (spacecraft)",
+  "fecha_lanzamiento": "2023-10-13",
+  "año_lanzamiento": 2023,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración de Marte",
+    "Exploración de asteroides y planetas menores",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Psyche_(nave_espacial)",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "En orbita alrededor de la Tierra",
+    "Tipo de misión": "Orbitador de asteroides",
+    "Operador": "NASA, ASU",
+    "Fecha de lanzamiento": "13 de octubre de 2023",
+    "Lugar de lanzamiento": "CEK Launch Complex 39A",
+    "Vehículo de lanzamiento": "Falcon Heavy",
+    "Duración de la misión": "Viaje: 5 años y 10 meses\nEn órbita: 21 meses (2026-2027)",
+    "Masa en el lanzamiento": "2.608 kg (5,750 lb)",
+    "Datos interplanetarios": "tipo: orbitador | objeto: Estados Unidos"
+  },
+  "resumen": "Psyche es una misión orbital planificada para explorar el origen de los núcleos planetarios mediante el estudio del asteroide metálico (16) Psyche.\nEste asteroide puede ser el núcleo de hierro expuesto de un protoplaneta, probablemente el remanente de una violenta colisión con otro cuerpo que se arrebató la corteza exterior.\nLa científica planetaria Lindy Elkins-Tanton de la Universidad Estatal de Arizona es la investigadora principal y es quién propuso la misión al Programa Discovery de NASA. El Laboratorio de Propulsión a Chorro de NASA (JPL) será el administrador del proyecto.\n(16) Psyche es el asteroide más pesado conocido del tipo M, y se cree que es el núcleo de hierro expuesto de un protoplaneta.Las observaciones radar del asteroide desde la Tierra sugieren una composición de hierro-níquel.\nEl 4 de enero de 2017, se seleccionó a la misión Psyche junto a Lucy como las siguientes misiones del programa Discovery de NASA.\nLa misión se lanzó el 13 de octubre de 2023, a bordo del cohete Falcon Heavy de SpaceX.",
+  "secciones": [
+    {
+      "titulo": "Historia",
+      "nivel": 2,
+      "texto": "Psyche se presentó dentro de una convocatoria de propuesta para el Programa Discovery de NASA, la cual se cerró en febrero de 2015.\nFue preseleccionada el 30 de septiembre de 2015 como uno de los cinco finalistas y recibió USD$ 3 mil millones para un mayor desarrollo conceptual.\nEl 4 de enero de 2017, Lucy y Psyche fueron seleccionadas para las misiones #13 y #14, respectivamente, del programa Discovery, con un lanzamiento exitoso de Lucy en octubre de 2021, mientras, Psyche ha sufrido numerosas demoras en su lanzamiento.\nSu fecha prevista de lanzamiento es para el 5 de octubre de 2023, en un cohete Falcon Heavy de la empresa estadounidense SpaceX.\nLa nave espacial tras su lanzamiento, realizará una asistencia gravitacional con Marte en 2026, posicionándose en dirección hacia su asteroide objetivo para agosto de 2029."
+    },
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "La diferenciación fue un proceso fundamental en la formación de muchos asteroides y de todos los planetas terrestres, y la exploración directa de un núcleo podría mejorar enormemente la comprensión de este proceso. La misión Psyche caracterizará la geología, forma, composición elemental, campo magnético y distribución de masas de Psyche. Se espera que esta misión aumente la comprensión de la formación planetaria y de los interiores.\nEspecíficamente, las metas científicas para la misión son:\nComprender un elemento básico de la formación del planeta que no se había explorado anteriormente: los núcleos de hierro.\nMira dentro de los planetas terrestres, incluyendo la Tierra, examinando directamente el interior de un cuerpo diferenciado, que de otra manera no podría ser visto.\nExplora un nuevo tipo de mundo, hecho de metal.\nLos objetivos científicos son:\nDeterminar si (16) Psyche es un núcleo, o si es material no fundido.\nDeterminar las edades relativas de las regiones de la superficie de Psique.\nDeterminar si los cuerpos metálicos pequeños incorporan los mismos elementos de luz que se esperan en el núcleo de alta presión de la Tierra.\nDeterminar si (16) Psyche se formó bajo condiciones más oxidantes o más reductoras que el núcleo de la Tierra.\nCaracterizar la topografía de (16) Psyche.\nLas preguntas científicas que esta misión abordará son:\n¿Es (16) Psyche el núcleo despojado de un planetesimal diferenciado, o se formó como un cuerpo rico en hierro? ¿Cuáles eran los bloques de construcción de los planetas? ¿Los planetesimales que se formaron cerca del Sol tenían composiciones a granel muy diferentes?\nSi (16) Psyche fue despojado de su manto, ¿cuándo y cómo ocurrió eso?\nSi (16) Psyche fue una vez fundido, ¿se solidificó de adentro hacia afuera, o de afuera hacia adentro?\n¿Psique produjo un dínamo magnético mientras se enfriaba?\n¿Cuáles son los principales elementos de aleación que coexisten en el metal de hierro del núcleo?\n¿Cuáles son las características clave de la superficie geológica y la topografía global? (16) Psyche ¿se ve radicalmente diferente de los cuerpos pétreos y helados conocidos?\n¿En qué se diferencian los cráteres de un cuerpo metálico de los de la roca o el hielo?"
+    },
+    {
+      "titulo": "Diseño y construcción",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Carga científica",
+      "nivel": 3,
+      "texto": "Psyche volará una carga útil de 30 kg (66 lb), consistente en cuatro instrumentos científicos:.\nEl captador de imágenes multiespectrales proporcionará imágenes de alta resolución utilizando filtros para discriminar entre los componentes metálicos y de silicato.\nEl espectrómetro de rayos gamma y neutrones analizará y mapeará la composición elemental del asteroide.\nEl magnetómetro medirá y mapeará el campo magnético remanente del asteroide.\nLa Investigación de la Ciencia de la Gravedad en la Banda X usará el sistema de radio telecomunicaciones en la banda X (microondas) para medir el campo gravitatorio del asteroide y deducir su estructura interior.\nSe espera que el dispositivo sea capaz de aumentar el rendimiento y la eficiencia de las comunicaciones de las naves espaciales de 10 a 100 veces más que los medios convencionales. Los rayos láser de la nave espacial serán recibidos por un telescopio terrestre en el Observatorio Palomar de California."
+    },
+    {
+      "titulo": "Lanzamiento",
+      "nivel": 2,
+      "texto": "El lanzamiento de Psyche estaba programado para lanzarse el 5 de octubre de 2023 en un cohete Falcon Heavy. Debido a la realización de varios ajustes en la sonda, el lanzamiento se aplazó al día 12 de octubre de 2023 a las 10:16 EDT (14:16 UTC). Debido a las condiciones meteorológicas de ese día, se aplazó nuevamente al día siguiente. Finalmente, el día 13 de octubre de 2023 a las 10:19 EDT (16:19 UTC) se realizó el lanzamiento. El costo del lanzamiento, incluidas las cargas secundarias, es de USD $117 millones.Psyche se lanzará en una trayectoria para un sobrevuelo de Marte en 2026, para realizar una maniobra de asistencia por gravedad hacia el cinturón de asteroides e interceptar el asteroide Psyche."
+    },
+    {
+      "titulo": "Órbita",
+      "nivel": 2,
+      "texto": "La misión tiene prevista su puesta en órbita para inicio de 2026 y realizará el siguiente sistema de régimen orbital:\nEn la órbita A, la nave espacial entrará en una órbita de 700 km para la caracterización del campo magnético y el mapeo preliminar durante 56 días.\nLuego, descenderá a la órbita B establecida a 290 km de altitud durante 76 días, para la topografía y caracterización del campo magnético.\nPosteriormente, lo hará a la órbita C a unos 170 km durante 100 días para realizar investigaciones de gravedad y continuar las observaciones del campo magnético.\nFinalmente, entrará en la órbita D establecida en 85 km para determinar la composición química de la superficie mediante espectrómetros de rayos gamma y neutrones.\nJunto a lo anterior, el orbitador adquirirá imágenes continuas, gravedad y mapeo de campos magnéticos.\nLa misión en la órbita del asteroide contempla operaciones durante al menos 21 meses."
+    }
+  ],
+  "num_palabras": 1076
+}

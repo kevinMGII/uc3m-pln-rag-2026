@@ -1,0 +1,41 @@
+{
+  "titulo": "Space Reactor-1 Freedom",
+  "titulo_wikipedia_en": "Space Reactor‑1 Freedom",
+  "fecha_lanzamiento": "2028",
+  "año_lanzamiento": 2028,
+  "estado": "programada",
+  "tipo_mision": [
+    "Exploración de Marte"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Space_Reactor-1_Freedom",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Demostración de tecnología de propulsión eléctrica nuclear",
+    "Operador": "NASA",
+    "Fabricante": "PPE: Intuitive Machines\nPropulsores: Aerojet Rocketdyne, Busek & NASA",
+    "Potencia": ">20 kW de energía eléctrica procedente del reactor",
+    "Fecha de lanzamiento": "2028 (previsto)"
+  },
+  "resumen": "El Space Reactor-1 Freedom (SR-1) es una nave espacial pionera de la NASA destinada a ser la primera misión interplanetaria impulsada por fisión nuclear y a demostrar propulsión eléctrica nuclear en el espacio profundo. Anunciado en marzo de 2026, la nave combinaría un reactor de fisión de ciclo Brayton cerrado que generaría más de 20 kW de energía eléctrica con el Elemento de Propulsión y Energía (PPE) desarrollado previamente para la estación espacial Lunar Gateway.",
+  "secciones": [
+    {
+      "titulo": "Especificaciones técnicas propuestas",
+      "nivel": 2,
+      "texto": "El reactor de fisión será alimentado por uranio de bajo enriquecimiento de alto ensayo (HALEU), utilizando combustible de dióxido de uranio encerrado en un escudo de radiación de carburo de boro, y utilizará diseños existentes para reactores de investigación del Departamento de Energía.\nPara la propulsión, el PPE está equipado con 4 propulsores de efecto Hall de 6 kilovatios (kW) fabricados por Busek y 3 propulsores de efecto Hall del Sistema Avanzado de Propulsión Eléctrica de 12 kW desarrollados por la NASA y Aerojet Rocketdyne."
+    },
+    {
+      "titulo": "Misiones propuestas",
+      "nivel": 2,
+      "texto": "Se propone que SR-1 se lance en diciembre de 2028 con una trayectoria para realizar 2 sobrevuelos de Marte. Demostrará la tecnología que potencialmente reduce el tiempo de viaje, pero a este tamaño no será significativamente más rápido que las sondas anteriores. En Marte desplegaría la carga útil Skyfall — una cápsula de entrada (alojada entre la amadura y el EPP), que transportaría 3 helicópteros clase Ingenuity para explorar posibles lugares de aterrizaje para futuras misiones humanas y estudiar el hielo de agua subterráneo.\nLa misión, patrocinada conjuntamente por la NASA y el Departamento de Energía de los Estados Unidos, tiene como objetivo demostrar tecnologías de propulsión y energía nuclear para una exploración sostenida más allá de la Luna, incluyendo futuras misiones a Marte y al Sistema Solar exterior. Se espera que los datos de SR-1 también apoyen el desarrollo del Reactor Lunar-1 (LR-1), un sistema de energía superficial de fisión diseñado para proporcionar energía continua a una base lunar durante periodos sin luz solar."
+    },
+    {
+      "titulo": "Financiación y gestión",
+      "nivel": 2,
+      "texto": "La solicitud presupuestaria presidencial para el año fiscal 2027 dio poca o ninguna protagonismo al Reactor Espacial-1 Freedom; sin embargo, un mensaje del 3 de abril de 2026 dirigido a empleados de la NASA, el administrador Jared Isaacman incluyó el \"lanzamiento del SR-1 Freedom\" entre las prioridades de la NASA al responder a esa solicitud, mientras que el senador Jerry Moran (R-KS), presidente del subcomité de asignaciones del Senado que financia a la NASA, dijo que se opuso a los recortes propuestos en partes del presupuesto de la NASA y que buscaría financiar a la agencia a nivel fiscal 2026. especialmente la propulsión nuclear. Al mismo tiempo, la Oficina de Política Científica y Tecnológica de EE. UU. emitió NSTM-3, la Iniciativa Nacional para la Energía Nuclear Espacial Estadounidense. El memorado ordenaba a la NASA iniciar un programa para un reactor espacial de potencia media con una variante de potencia superficial de fisión lunar y una opción para una variante espacial para una demostración de propulsión eléctrica nuclear, y priorizar los diseños integrados de FSP y NEP usando elementos comunes, incluyendo hardware de reactor y combustible nuclear que podrían usarse en SR-1 Freedom. SpacePolicyOnline informó que el memorando se centró principalmente en FSP y NEP para la NASA y dirigió el trabajo en componentes comunes NEP/NTP para su uso inicial en un posible demostrador de NEP.\nEn mayo de 2026, el informe del Comité de Asignaciones de la Cámara de Representantes sobre el Comercio, Justicia, Ciencia y Agencias Relacionadas del año fiscal 2027 recomendó 50 millones de dólares para el desarrollo de propulsión nuclear eléctrica y afirmó que la NEP desempeñaría un papel fundamental en el avance de Space Reactor-1 Freedom con 10 millones de dólares. Más tarde ese mes, el administrador de la NASA, Jared Isaacman, dijo que la NASA centralizaría la autoridad para las actividades nucleares espaciales bajo una Oficina de Reactores Espaciales, ordenaría a esa oficina preparar un plan de programa integrado para SR-1 Freedom y LR-1 en un plazo de 60 días, y mantendría tecnologías habilitadoras comunes para SR-1, LR-1, NTP y futuras misiones.\nEl 2 de junio de 2026, la NASA anunció que está trabajando en un enfoque de gestión simplificado que les permitirá ir más rápido. El 1 de septiembre de 2026, Ars Technica informó que el coste estimado por la NASA para el SR-1 es de 2.100 millones de dólares sin los helicópteros."
+    }
+  ],
+  "num_palabras": 724
+}

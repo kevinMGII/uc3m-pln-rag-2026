@@ -1,0 +1,42 @@
+{
+  "titulo": "Nozomi",
+  "titulo_wikipedia_en": "Nozomi (spacecraft)",
+  "fecha_lanzamiento": "1998-07-03",
+  "año_lanzamiento": 1998,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración lunar",
+    "Exploración de Marte",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Nozomi",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {},
+  "resumen": "Nozomi (del japonés \"esperanza\" y conocida antes de lanzamiento como PLANET-B) era una sonda destinada al estudio de la atmósfera marciana. Fue construida por la Agencia Japonesa de Exploración Aeroespacial de la universidad de Tokio, y lanzada el 3 de julio de 1998 a las 18:12:00 UTC con una masa seca en órbita de 258 kg.\nNozomi fue diseñada para estudiar la atmósfera externa de Marte y su interacción con el viento solar y para desarrollar tecnologías que serían usadas en futuras misiones interplanetarias. Los objetivos específicos de los instrumentos a bordo eran: medir la estructura, composición y dinámica de la ionosfera marciana; los efectos del viento solar; el escape de las partículas de la atmósfera marciana al espacio; el campo magnético intrínseco; los efectos del campo magnético solar; la estructura de la magnetosfera; y la existencia de polvo en la atmósfera exterior e incluso en órbita alrededor de Marte. La misión además estaba capacitada para obtener imágenes de la superficie del planeta. Una serie de fallos en el sistema eléctrico hicieron imposible a la sonda que alcanzara la órbita de Marte.",
+  "secciones": [
+    {
+      "titulo": "Desarrollo de la misión",
+      "nivel": 2,
+      "texto": "Tras el lanzamiento a bordo de un M-V, Nozomi entró en una órbita geocéntrica con un perigeo de 340 km y un apogeo de 400.000 km. La sonda realizó un sobrevuelo lunar el 24 de septiembre y otro el 18 de diciembre de 1998 para incrementar el apogeo de su órbita. Esta asistencia gravitacional junto con un encendido de 7 minutos de su motor colocaron a Nozomi en trayectoria de escape hacia Marte. Estaba previsto que alcanzara el planeta rojo el 11 de octubre de 1999 a las 7:45:14 UTC, pero debido a una válvula con problemas perdió parte del combustible, dejando la sonda con insuficiente aceleración para alcanzar la trayectoria prevista. Para corregirlo se efectuaron dos maniobras de corrección de la ruta el 21 de diciembre que usaron más propelente que el que estaba previsto, por lo que sonda quedó corta de combustible.\nEl nuevo plan para Nozomi fue que permaneciera en una órbita heliocéntrica durante cuatro años, y tras realizar dos sobrevuelos a la Tierra en diciembre de 2002 y junio de 2003, encontrarse con Marte a una velocidad menor que la inicialmente prevista en diciembre de 2003. El 21 de abril de 2002, cuando Nozomi se aproximaba a la Tierra para la primera maniobra de asistencia gravitatoria, grandes llamaradas solares dañaron los sistemas de comunicación y energía a bordo de la sonda. Un corte eléctrico causó que la hidracina que usaba la nave como propelente escapara libremente hacia el exterior de la nave. El 9 de diciembre de 2003, los esfuerzos para orientar la sonda para prepararla para la inserción orbital prevista para el día 14 de ese mismo mes fallaron, y las esperanzas de salvar la misión desaparecieron. La sonda sobrevoló Marte el 14 de diciembre de 2003 y continuó en una órbita heliocéntrica de aproximadamente 2 años de periodo. Aunque esta misión ha sido abandonada la sonda sigue activa.\nEn teoría Nozomi debería haber sido insertada en una órbita muy excéntrica sobre Marte con un periastro de 300 km sobre la superficie, un apoastro de 15 radios marcianos y una inclinación de 170 grados respecto al plano de la eclíptica. Tras la inserción el mástil y las antenas deberían haber sido desplegadas, y se hubiera bajado el periastro a 150 km, con un periodo orbital de unas 38.5 horas. La misión fue planeada para un año marciano (aproximadamente dos años terrestres), mientras que una extensión de la misión podría haber durado entre tres y cinco años más. La sonda también tenía previsto apuntar sus cámaras a las lunas Fobos y Deimos."
+    },
+    {
+      "titulo": "La sonda y sus instrumentos",
+      "nivel": 2,
+      "texto": "Nozomi era un prisma rectangular de 1,6 metros cuadrados y 0,58 metros de alto con las esquinas truncadas. Extendiéndose desde los dos lados opuestos había paneles solares, mientras que en la parte superior había una antena y en la inferior estaba la unidad de propulsión. La sonda disponía de los siguientes instrumentos:\nImaging Camera\nNeutral Mass Spectrometer\nDust Counter\nThermal Plasma Analyser\nMagnetometer\nElectrón and Ion Spectrum Analysers\nIon Mass Spectrograph\nHigh Energy Particles Experiment\nVUV Imaging Spectrometer\nSounder and Plasma Wave Detector\nLF Wave Analyser\nElectrón Temperature Probe\nUV Scanner\nLa masa total prevista para instrumentos científicos era de 33 kg. Esta sonda fue la primera misión interplanetaria en la que participó la Agencia Espacial Canadiense, que aportó el Thermal Plasma Analyser."
+    },
+    {
+      "titulo": "Objetivos de la misión",
+      "nivel": 2,
+      "texto": "Entre los principales objetivos científicos de Nozomi se encontraban el estudio de la ionosfera marciana, la investigación de la interacción entre la atmósfera superior y el viento solar, y el análisis de la distribución y evolución de los gases en la atmósfera del planeta rojo. Además, la sonda tenía la tarea de obtener imágenes de alta resolución de la superficie marciana y de los dos satélites naturales del planeta, Fobos y Deimos.\nAunque Nozomi fue diseñada para ser una misión de tres años, se enfrentó a diversos desafíos y contratiempos que afectaron su trayectoria y duración. Uno de los principales problemas ocurrió durante una asistencia gravitatoria alrededor de la Tierra en 1998, cuando un fallo en el sistema de propulsión causó una pérdida significativa de combustible. Esto llevó a que la sonda no pudiera realizar una inserción directa en la órbita de Marte y tuviera que seguir una trayectoria más larga y complicada.\nAdemás, Nozomi también sufrió daños durante una tormenta solar en 2002, que afectó sus sistemas de comunicación y alimentación de energía. Estos desafíos y contratiempos obligaron a la misión a modificar su plan original y realizar ajustes en su ruta y objetivos científicos."
+    },
+    {
+      "titulo": "Legado y contribuciones",
+      "nivel": 2,
+      "texto": "A pesar de los obstáculos, la misión de Nozomi dejó un legado significativo en la exploración espacial. Aunque no pudo lograr todos sus objetivos científicos originales, la sonda recopiló importantes datos sobre la atmósfera de Marte durante su aproximación al planeta rojo."
+    }
+  ],
+  "num_palabras": 969
+}

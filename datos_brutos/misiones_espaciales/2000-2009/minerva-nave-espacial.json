@@ -1,0 +1,66 @@
+{
+  "titulo": "MINERVA (nave espacial)",
+  "titulo_wikipedia_en": "MINERVA (spacecraft)",
+  "fecha_lanzamiento": "2003-05-09",
+  "año_lanzamiento": 2003,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración de asteroides y planetas menores",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/MINERVA_(spacecraft)",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {},
+  "resumen": "MINERVA (MIcro-Nano Experimental Robot Vehicle for Asteroid) es una serie de rovers desarrollados por la agencia espacial japonesa JAXA con el propósito de explorar superficies de asteroides. El primer MINERVA fue parte de la misión Hayabusa, mientras que el MINERVA-II fue una serie de tres rovers para su sucesor, Hayabusa2. El 12 de noviembre de 2005, el MINERVA fue desplegado desde Hayabusa con el objetivo de aterrizar en el asteroide 25143 Itokawa. Sin embargo, el aterrizaje fracasó cuando el MINERVA falló el asteroide y terminó en una órbita heliocéntrica. El 21 de septiembre de 2018, dos rovers MINERVA-II aterrizaron con éxito en el asteroide 162173 Ryugu. El tercer rover de MINERVA-II falló antes de que pudiera ser desplegado, pero fue lanzado de todos modos el 2 de octubre de 2019 para realizar mediciones gravitacionales antes de impactar el asteroide unos días después.",
+  "secciones": [
+    {
+      "titulo": "Sinopsis",
+      "nivel": 2,
+      "texto": "Tras la aprobación del proyecto de retorno de muestras de asteroides MUSES-C, se propuso montar un rover en el explorador de asteroides, y el desarrollo del MINERVA comenzó en 1997. Terminado en febrero de 2003, el Minerva fue el primer rover espacial de Japón, y el primer rover de asteroides en el mundo.\nEl 9 de mayo de 2003, la nave espacial MUSES-C que transportaba MINERVA fue lanzada desde el Centro Espacial de Kagoshima y fue nombrada Hayabusa. Hayabusa llegó a su objetivo, el asteroide 25143 Itokawa, el 12 de septiembre de 2005. Después de una fase de observación de dos meses, Hayabusa comenzó los ensayos de descenso en preparación para sus aterrizajes de asteroides. El 12 de noviembre, el MINERVA fue separado de Hayabusa y se dirigió hacia Itokawa, pero la caída fracasó y por lo tanto el MINERVA se convirtió en el objeto artificial más pequeño en órbita heliocéntrica. Después de la separación, el MINERVA siguió comunicándose durante 18 horas, transmitiendo datos a su nave nodriza.\nDespués del regreso de Hayabusa a la Tierra, comenzó un proyecto sucesor, Hayabusa2, que también incluía un rover. Mientras que el MINERVA fue tratado como una adición opcional en la primera Hayabusa, el MINERVA-II se convirtió en parte de la carga útil nominal para Hayabusa2. Lanzado el 3 de diciembre de 2014, Hayabusa2 llegó al asteroide 162173 Ryugu el 27 de junio de 2018. El 21 de septiembre se desplegó desde Hayabusa el MINERVA-II-1, integrado por dos rovers idénticos. Ambos rovers llegaron a la superficie de Ryugu, y se convirtieron en las primeras sondas en viajar por la superficie de un asteroide. JAXA anunció que los rovers han sido nombrados HIBOU (anteriormente Rover-1A) y OWL (anteriormente Rover-1B), respectivamente. Hibou [i.bu] es la palabra francesa para 'powl'.\nEl segundo despliegue del rover para el MINERVA-II-2 ocurrió el 2 de octubre de 2019 16:38 UTC. El rover, conocido como Rover-2 o MINERVA-II-2 falló antes del despliegue, pero fue liberado del orbitador Hayabusa2 de todos modos para realizar mediciones gravitacionales. Afectaron al asteroide unos días después de su lanzamiento el 8 de octubre."
+    },
+    {
+      "titulo": "Diseño",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "MINERVA",
+      "nivel": 3,
+      "texto": "MINERVA consta de cinco componentes, incluyendo el cuerpo del rover.\nOME-B, que monta MINERVA a MUSES-C, y suministra energía a MINERVA hasta su separación\nOME-C, la cubierta entre OME-B y MUSES-C\nOME-E, el repetidor entre el bus de datos de la nave nodriza\nOME-Ant, una antena de parche plano para que OME-E se comunique con MINERVA\nEstos cuatro componentes estaban dentro del rover.\nEl propio MINERVA es un prisma hexadecagonal con un diámetro de 12 cm y una altura de 10 cm, con células solares unidas a cada lado. Esto permite que la sonda asegure la potencia en cualquier actitud, siempre y cuando se encuentre en un ambiente iluminado por el sol. Para la mitigación de choques durante el aterrizaje y para proteger las células solares, 16 alfileres sobresalen de la superficie de MINERVA. Seis de ellos tenían termómetros dentro para medir directamente la temperatura del suelo del asteroide. Los alfileres también funcionaron como un medio para aumentar la fricción durante el lúpulo.\nLa energía se suministra desde las células solares conectadas a cada lado de MINERVA. El exceso de energía se almacena en un condensador eléctrico de doble capa, y se utiliza en situaciones que requieren mayor potencia que la generada por las células solares, como la rotación del motor y el uso de las cámaras. Después de que el condensador eléctrico de doble capa deje de funcionar, la comunicación seguirá siendo posible, pero el rover no podrá hacer más lúpulo o imágenes, por lo que se consideró que una operación tenía un MINERVA estacionario que mide continuamente la temperatura de la superficie del asteroide en su lugar de descanso final.\nJunto con seis sensores de temperatura incorporados en los pasadores que sobresalían del cuerpo principal, el MINERVA tenía tres cámaras y seis fotodiodos a bordo como sensores externos. Las tres cámaras CCD eran idénticas; dos de ellas se dirigían en la misma dirección y estaban adyacentes entre sí, lo que permitía una imagen estereográfica de primer plano. Esto estaba destinado principalmente a disparar la superficie de asteroides. La cámara restante fue colocada en el lado opuesto de las dos cámaras, con el propósito principal de imaginar el asteroide desde arriba durante el lúpulo.\nEn la parte superior y en la parte inferior de MINERVA se encuentra una antena. A medida que cambiaba la actitud del rover, se iba a usar el lado de Hayabusa. La velocidad de comunicación entre MINERVA y OME-E fue de 9,6 kbps, con un alcance máximo de 20 km.\nMINERVA tiene un microcomputador a bordo. Su principal microprocesador de CPU es el SH-3 de Hitachi, de 10 MHz, adoptado por su bajo consumo de energía, eficiencia de rendimiento y fiabilidad. La memoria del ordenador incluye 2 MB de RAM, 512 KB de ROM y 2 MB de Flash ROM."
+    },
+    {
+      "titulo": "MINERVA-II-1",
+      "nivel": 3,
+      "texto": "MINERVA-II-1 fue desarrollado por JAXA y la Universidad de Aizu. Tiene un diseño delgado en comparación con su predecesor, para aumentar la probabilidad de que la superficie con mayor área de contacto con la superficie de asteroides. MINERVA-II-1 se amplió de su predecesor como destino del rover, el asteroide Ryugu estaba más alejado del Sol que Itokawa, lo que requería un aumento en el área celular solar. El mayor tamaño de Ryugu en comparación con Itokawa significa que los rovers se enfrentarán a una gravedad más fuerte, por lo que se utilizan motores DC más grandes para el MINERVA-II-1. Mediante el despliegue simultáneo de dos rovers, se puede lograr una red de sondas espaciales. La velocidad máxima de comunicación entre los rovers MINERVA-II-1 y el OME-E de la nave nodriza es de 32 kbps. Los dos rovers son casi idénticos, la única diferencia son algunos sensores internos y las características térmicas. Rover-1A utiliza un aislamiento multicapa tradicional, que cubre el rover para evitar que el calor entre, mientras que Rover-1B está equipado con radiadores para disipar el calor hacia el exterior."
+    },
+    {
+      "titulo": "MINERVA-II-2",
+      "nivel": 3,
+      "texto": "A diferencia de los otros tres MINERVAs (uno sobre Hayabusa, dos sobre Hayabusa2) desarrollados por JAXA/ISAS, el MINERVA-II-2 fue desarrollado por un consorcio de universidades japonesas, y emplea métodos de movilidad significativamente diferentes. El objetivo principal de MINERVA-II-2 es verificar la navegación en un entorno con una aceleración gravitacional extremadamente pequeña. El rover se realizó como una 'carga útil de alcance', dirigida a la comunidad universitaria. La responsabilidad de cada universidad es la siguiente:\nLa Universidad Tohoku fue responsable de la gestión general de Rover-2, y desarrolló un mecanismo de movimiento de tipo micro-hop usando micro vibraciones\nLa Universidad Yamagata desarrolló un mecanismo de movimiento impulsado por el medio ambiente utilizando bimetales\nLa Universidad de Tokyo Denki desarrolló un mecanismo de movimiento de tipo de impacto interno utilizando imanes permanentes\nLa Universidad de Osaka desarrolló un mecanismo de movimiento elástico de tipo liberador de energía mediante muelles de hojas\nLa Universidad de Ciencias de Tokio desarrolló las cámaras del rover a bordo"
+    },
+    {
+      "titulo": "Funcionamiento y aterrizaje",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "MINERVA (Hayabusa)",
+      "nivel": 3,
+      "texto": "El MINERVA fue desplegado por Hayabusa durante el tercer ensayo de aterrizaje. El 12 de noviembre de 2005 6:07:38 UTC el comando para desplegar el MINERVA fue enviado desde la Tierra. Sin embargo, antes del comando de despliegue del MINERVA, un comando que instruía a Hayabusa a elevar su altitud fue enviado accidentalmente. El MINERVA fue desplegado en 6:24 UTC, pero la distancia a 25143 Itokawa era de 200 m, y Hayabusa estaba ascendiendo a unos 15 cm/s de distancia del asteroide. Una imagen tomada por Hayabusa 212 s después del despliegue de MINERVA captó tanto MINERVA como OME-C, la portada del rover que también fue desplegada.\nDe las imágenes tomadas por el MINERVA, sólo se envió una, que era una fotografía de los paneles solares de Hayabusa. Después de separarse de Hayabusa la comunicación con el MINERVA duró 18 horas."
+    },
+    {
+      "titulo": "MINERVA-II (Hayabusa2)",
+      "nivel": 3,
+      "texto": "Hayabusa2 llegó al asteroide 162173 Ryugu el 27 de julio de 2018. La nave espacial lanzó MINERVA-II-1, un lote de 2 rovers, sobre el 'hemisferio norte' de Ryugu. El proceso se llevó a cabo de manera totalmente autónoma, una contramedida para evitar la repetición del error que condenó a su predecesor. El lugar de aterrizaje de MINERVA-II-1 rovers fue nombrado Tritonis. De los dos rovers, HIBOU (alias Rover-1A) tomó una imagen de Hayabusa2 poco después de su despliegue. OWL (alias Rover-1B) logró grabar un vídeo de Ryugu. MINERVA-II-1 se convirtió en la primera sonda en tomar una imagen, y moverse sobre una superficie de asteroides. Después de completar sus misiones, los dos rovers permanecerán en la superficie del asteroide."
+    },
+    {
+      "titulo": "MINERVA-II-2",
+      "nivel": 4,
+      "texto": "El rover MINERVA-II-2, también llamado Rover-2, falló antes de su despliegue. Sin embargo, fue desplegado el 2 de octubre de 2019 en órbita alrededor de Ryugu para realizar mediciones gravitacionales. Después de su liberación de Hayabusa2 impactó en el asteroide el 8 de octubre."
+    }
+  ],
+  "num_palabras": 1602
+}

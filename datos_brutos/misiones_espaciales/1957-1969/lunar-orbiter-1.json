@@ -1,0 +1,30 @@
+{
+  "titulo": "Lunar Orbiter 1",
+  "titulo_wikipedia_en": "Lunar Orbiter 1",
+  "fecha_lanzamiento": "1966-08-10",
+  "año_lanzamiento": 1966,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración lunar",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Lunar_Orbiter_1",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Orbitador",
+    "Operador": "NASA",
+    "Fabricante": "Boeing",
+    "Fecha de lanzamiento": "10 de agosto de 1966",
+    "Vehículo de lanzamiento": "Atlas SLV-3 Agena-D",
+    "Duración de la misión": "80 días",
+    "ID NSSDC": "1966-073A",
+    "Inclinación orbital": "12 grados",
+    "Datos interplanetarios": "tipo: orbitador | objeto: Luna"
+  },
+  "resumen": "La nave espacial no tripulada Lunar Orbiter 1, parte del Programa Lunar Orbiter, fue la primera nave espacial estadounidense en orbitar la Luna. Fue diseñado principalmente para fotografiar áreas lisas de la superficie lunar para la selección y verificación de sitios seguros de aterrizaje para las misiones Surveyor y Apolo. También estaba equipado para recolectar datos de impacto selenodetico, intensidad de radiación y micrometeoroides.\nLa nave espacial se colocó en una órbita de estacionamiento de la Tierra el 10 de agosto de 1966, a las 19:31 UTC. La quema de inyección translunar ocurrió a las 20:04 UTC. La nave espacial experimentó una falla temporal del rastreador de la estrella Canopus (probablemente debido a la luz solar perdida) y el sobrecalentamiento durante su crucero a la Luna. El problema del rastreador de estrellas se resolvió navegando usando la Luna como referencia, y el sobrecalentamiento se redujo al orientar la nave espacial 36 grados fuera del Sol para bajar la temperatura.\nObtuvo 207 fotografías de la Luna de las zonas de descenso de las misiones Apolo. Lanzada contra la superficie lunar para evitar interferir con la sonda Lunar Orbiter 2, se estrelló el 29 de octubre de 1966 a 7° N, 162° E.",
+  "secciones": [],
+  "num_palabras": 201
+}

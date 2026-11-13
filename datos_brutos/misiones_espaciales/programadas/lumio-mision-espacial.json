@@ -1,0 +1,68 @@
+{
+  "titulo": "LUMIO (misión espacial)",
+  "titulo_wikipedia_en": "LUMIO (space mission)",
+  "fecha_lanzamiento": "2028",
+  "año_lanzamiento": 2028,
+  "estado": "programada",
+  "tipo_mision": [
+    "Exploración lunar"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/LUMIO_(space_mission)",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Otros nombres": "Observador Lunar de Impacto Meteoroides",
+    "Tipo de misión": "Exploración lunar",
+    "Operador": "ESA",
+    "Duración de la misión": "12 meses (previstos)",
+    "Tipo de nave": "12U CubeSat",
+    "Fabricante": "Argotec",
+    "Masa en el lanzamiento": "28 kg",
+    "Fecha de lanzamiento": "2028 (previsto)",
+    "Datos interplanetarios": "tipo: orbitador | objeto: Luna | órbitas: Halo órbita",
+    "Programa": "Programa General de Tecnología de Apoyo (SGPC)",
+    "Misión anterior": "VULCAIN",
+    "Misión siguiente": "M-Argo"
+  },
+  "resumen": "LUMIO (LUnar Meteoroid Impact Observer) es una misión de exploración lunar de la ESA que se prevé lanzar en 2028. El objetivo principal de la misión es detectar, cuantificar y caracterizar los impactos de los meteoroides cercanos a la Tierra en el lado lunar lejano. La nave espacial consiste en un CubeSat de 12 U que operará en una órbita de halo alrededor del punto L2 Lagrange del sistema Tierra-Luna. Es una misión autónoma de la Agencia Espacial Europea y actualmente está siendo desarrollada por un consorcio internacional que incluye Politecnico di Milano, Argotec, Leonardo, IMT, Nautilus y S&T Noruega.",
+  "secciones": [
+    {
+      "titulo": "Ciencia",
+      "nivel": 2,
+      "texto": "Los meteoroides cercanos a la Tierra son fragmentos de asteroides y cometas con tamaños que van desde micrómetros hasta metros. Estos objetos impactan diariamente en la Tierra y la Luna. Se estima que ~33 toneladas de estos fragmentos se atraen a la atmósfera de la Tierra cada día. Sin embargo, debido al calor extremo de la entrada atmosférica, sólo unos pocos logran llegar a la superficie. Dado que la Luna no tiene atmósfera, los impactos lunares son mucho más frecuentes y constituyen una amenaza constante para las operaciones humanas y robóticas en la superficie.\nCuando un meteoroide impacta el suelo, la mayor parte de su energía cinética se convierte repentinamente en calor que vaporiza parcialmente la masa que impacta y dispersa desechos secundarios por todo el sitio. Si se produce un impacto donde la superficie está en umbra, aparece como un destello brillante, que puede ser detectado por telescopios ópticos en la Tierra. La intensidad de los destellos se puede medir para determinar la energía cinética del meteoroide. Sin embargo, las observaciones desde la Tierra deben realizarse durante la noche y a menudo son perturbadas por eventos atmosféricos. Además, sólo se pueden detectar los impactos que ocurren en la cara observable de la Luna. LUMIO tendrá una vista constante y sin obstáculos en el lado lunar lejos de su órbita alrededor del punto lagrangiano de la Luna-Tierra L2. Dado que los períodos de observación (es decir, cuando la superficie está en sombra) son opuestos con respecto a la Tierra, LUMIO aumentará considerablemente la porción monitoreada de la superficie de la Luna. Las mediciones procedentes de la nave espacial, junto con las de la Tierra, proporcionarán estadísticas más detalladas sobre la probabilidad y distribución de impactos de meteoroides en la Luna.\nLa principal carga útil científica de LUMIO es una cámara óptica diseñada a medida, llamada LUMIO-Cam, que observará la superficie lunar en umbra para detectar los destellos causados por impactos de asteroides. Los datos científicos de la misión se integrarán con observaciones de la Tierra para elaborar el primer modelo completo y preciso de flujo de meteoroides en el entorno lunar."
+    },
+    {
+      "titulo": "Vehículo espacial",
+      "nivel": 2,
+      "texto": "LUMIO será un Cubesat de 12 U con dimensiones de 30x20x20 cm, con una masa húmeda máxima de 28 kg. La plataforma será fabricada por Argotec, una empresa italiana de ingeniería aeroespacial con sede en Turín. Argotec tiene experiencias previas en el espacio profundo CubeSats, habiendo diseñado LICIACube, el compañero de la nave espacial DART de la NASA, y Argomoon, una de las cargas útiles secundarias de la misión Artemis-1.\nLa nave espacial estará equipada con un sistema de propulsión para realizar las maniobras espaciales necesarias para alcanzar la órbita final y las correcciones de pequeñas estaciones. Los conjuntos solares extensibles producidos por IMT proporcionarán suficiente energía durante todas las fases de la misión. La IMT también fabricará el transpondedor de banda X necesario para establecer comunicaciones con la Tierra y realizar rutinas de navegación."
+    },
+    {
+      "titulo": "Cámara",
+      "nivel": 3,
+      "texto": "La LUMIO-Cam es el principal instrumento científico de la misión LUMIO. Será diseñado y fabricado por Leonardo, en sus instalaciones de Campi Bisenzio (Florencia). La cámara tendrá una resolución de 1024 x 1024 píxeles y podrá adquirir imágenes tanto en el espectro visual como en el infrarrojo cercano. La tasa de refresco será de 15 fotogramas por segundo para detectar destellos con duración tan rápida como 30 ms.\nLa cámara tendrá una longitud focal de 127 mm, obteniendo un campo de visión de 6,0o. Este tamaño angular es suficiente para realizar observaciones en disco completo de la Luna, que tiene un tamaño aparente de 5,6° en el punto más cercano de la trayectoria.\nCuando se ilumina más del 50% de la superficie de la Luna, el resplandor que se deriva del albedo es demasiado intenso para observar los destellos en la porción no iluminada. Debido a esto, el monitoreo de la superficie será posible sólo el 50% del tiempo, en ventanas de 15 días. La nave espacial realizará maniobras de mantenimiento de estaciones y actividades científicas secundarias mientras espera la próxima ventana de monitoreo.\nLa cantidad de datos generados por la carga útil durante las fases científicas es cercana a 5 TB/día. Dado que este valor es demasiado grande para ser transferido de vuelta a la Tierra, las imágenes serán procesadas preliminarmente a bordo. Sólo las imágenes con flashes de impacto detectados serán enviadas a las estaciones terrestres, reduciendo efectivamente la transferencia de datos requerida a aproximadamente 1 MB/día."
+    },
+    {
+      "titulo": "Perfil de la misión",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Orbit",
+      "nivel": 3,
+      "texto": "El punto lagrangiano L2 es una zona específica de equilibrio en el campo gravitacional combinado del sistema Tierra-Luna. En el punto L2, las atracciones gravitacionales de los dos objetos celestes se combinan. Debido a esto, existe una familia particular de trayectorias tridimensionales, llamadas órbitas de halo, que un satélite puede explotar para permanecer en las proximidades de la Luna sin orbitarla. La nave espacial LUMIO volará en una de estas trayectorias, teniendo la posibilidad de observar constantemente la Luna lejos de una distancia que oscila entre 36.000 y 86.000 km."
+    },
+    {
+      "titulo": "Fases de la misión",
+      "nivel": 3,
+      "texto": "La misión LUMIO se dividirá en cuatro fases:\nFase de estacionamiento. La nave espacial es lanzada como una carga útil secundaria y es liberada en órbita selenocéntrica por el portador. Durante los 14 días de esta fase el CubeSat comenzará la puesta en marcha.\nFase de transferencia. LUMIO realiza una maniobra de inyección de colector estable (SMIM) y comienza la transferencia hacia el punto L2. Esta fase tiene una duración de 14 días.\nFase operativa. La nave espacial ejecuta la maniobra de inyección de halo (HIM) y se inserta en la órbita operacional. Durante esta fase de 1 año, LUMIO realizará todas sus tareas científicas y transmitirá los datos de vuelta a la Tierra. Múltiples maniobras de mantenimiento de estaciones tendrán lugar para mantener el satélite en la trayectoria nominal.\nFin de la vida. Al final de la fase operativa, LUMIO realizará una maniobra final para la eliminación segura de la nave espacial."
+    },
+    {
+      "titulo": "Experimento de navegación",
+      "nivel": 2,
+      "texto": "El objetivo secundario de la misión LUMIO es demostrar la posibilidad de realizar rutinas de navegación en total autonomía, sin comunicarse con estaciones terrestres. Las imágenes de la LUMIO-Cam se procesarán mediante algoritmos de navegación óptica para proporcionar una estimación de la posición del satélite con respecto a la Luna. La técnica que se utilizará se denomina navegación de disco completo y se espera que alcance una precisión operativa de menos de 100 km.\nCon esta técnica se procesa cada imagen para encontrar los bordes de la luna. Luego, se instala una elipse para reconstruir la ubicación de la extremidad lunar completa en la imagen. La elipse ajustada es la proyección bidimensional del elipsoide tridimensional de la Luna sobre el plano de la imagen. Dado que se conocen las características de la cámara y las dimensiones del elipsoide lunar, los puntos de elipse pueden utilizarse como mediciones de estado en un filtro de Kalman."
+    }
+  ],
+  "num_palabras": 1232
+}

@@ -1,0 +1,20 @@
+{
+  "titulo": "Venera 5",
+  "titulo_wikipedia_en": "Venera 5",
+  "fecha_lanzamiento": "1969-01-05",
+  "año_lanzamiento": 1969,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración de Venus",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Venera_5",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {},
+  "resumen": "La Venera 5 (Венера 5 en ruso) fue una sonda espacial soviética lanzada el 5 de enero de 1969. Era muy similar a la Venera 4, pero más resistente. Entró en la atmósfera de Venus el 16 de mayo de 1969, transmitiendo datos a la Tierra durante 53 minutos mientras la cápsula bajaba en paracaídas.\nEl lanzamiento se llevó a cabo desde el cosmódromo de Baikonur utilizando un cohete Molniya-M.\nCuando se acercó a la atmósfera de Venus, una cápsula que pesaba 405 kg y que contenía los instrumentos científicos se echó por la borda de la nave principal. Durante el descenso del satélite hacia la superficie de Venus, un paracaídas se abrió para ralentizar la velocidad de descenso. Durante 53 minutos del 16 de mayo de 1969, mientras que la cápsula estaba suspendida del paracaídas, se devolvieron los datos de la atmósfera de Venus. Aterrizó a 3° S 18° E. La nave también llevaba un medallón con el escudo de armas de Estado de la URSS y un bajorrelieve de V.I. Lenin para el lado nocturno de Venus.\nDados los resultados de Venera 4, Venera 5 y Venera 6 contenían en sus módulos de aterrizaje nuevos experimentos de análisis químico afinados para proporcionar mediciones más precisas de los componentes de la atmósfera. Sabiendo que el ambiente era muy denso, los paracaídas también se hicieron más pequeños por lo que la cápsula alcanzaría su aplastamiento completo antes de quedarse fuera de poder (como Venera 4 había hecho).",
+  "secciones": [],
+  "num_palabras": 247
+}

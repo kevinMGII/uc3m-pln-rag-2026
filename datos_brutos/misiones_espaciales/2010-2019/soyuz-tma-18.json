@@ -1,0 +1,76 @@
+{
+  "titulo": "Soyuz TMA-18",
+  "titulo_wikipedia_en": "Soyuz TMA-18",
+  "fecha_lanzamiento": "2010-04-02",
+  "año_lanzamiento": 2010,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Soyuz_TMA-18",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Misión tripulada a la Estación Espacial Internacional",
+    "Operador": "Roscosmos",
+    "ID COSPAR": "2010-011A",
+    "Nº SATCAT": "36505",
+    "Duración de la misión": "176 días",
+    "Tipo de nave": "Soyuz TMA 11F732",
+    "Fabricante": "Energia",
+    "Fecha de lanzamiento": "2 de abril de 2010, 04:04 UTC",
+    "Vehículo de lanzamiento": "Soyuz-FG",
+    "Lugar de lanzamiento": "Baikonur, sitio 1/5",
+    "Fecha de aterrizaje": "25 de septiembre de 2010, 05:23 UTC",
+    "Tripulación": "Aleksandr Skvortsov\nMikhail Kornienko\nTracy Caldwell Dyson",
+    "Indicativo": "| (\"cliff\")",
+    "Sistema de referencia orbital": "Órbita geocéntrica",
+    "Régimen orbital": "Órbita terrestre baja",
+    "Inclinación orbital": "51.66°",
+    "Acoplamiento": "target de acoplamiento: ISS | tipo de acoplamiento: dock | puerto de acoplamiento: Poisk zenith | fecha de acoplamiento: 4 de abril de 2010, 05:25 UTC | fecha de acoplamiento: 25 de septiembre de 2010\n02:02 UTC",
+    "Misión anterior": "Soyuz TMA-17",
+    "Misión siguiente": "Soyuz TMA-19",
+    "Programa": "Programa Soyuz\n(Misiones decretadas)"
+  },
+  "resumen": "Soyuz TMA-18 fue un vuelo de Soyuz a la Estación Espacial Internacional (ISS). TMA-18 fue el 105o vuelo tripulado de una nave espacial Soyuz desde el primer vuelo tripulado en 1967.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Lanzamiento",
+      "nivel": 2,
+      "texto": "Tras un exitoso lanzamiento el 2 de abril de 2010, la nave espacial Soyuz TMA-18 transportó a los cosmonautas Alexander Svortsov, Mikhail Kornienko y la astronauta de la NASA Tracy Caldwell Dyson de la expedición 23/24 tripulantes a la Estación Espacial Internacional (ISS). El comandante de la nave espacial Skvortsov ocupó el asiento central de la Soyuz TMA-18 con Kornienko a su izquierda y Caldwell Dyson a la derecha. El lanzamiento fue perfecto y el vuelo sólo experimentó dificultades de comunicación poco después del lanzamiento. El problema de la comunicación hizo imposible que los funcionarios de control de la misión rusa se comunicaran con la tripulación hasta después de que alcanzaran la órbita preliminar. Sin embargo, una cámara de televisión en directo mostró claramente que la tripulación estaba a salvo. Después de 9 minutos, la nave espacial Soyuz se estableció en una órbita preliminar de 230 x. También desplegó antenas y conjuntos solares para la generación de energía. La nave espacial pasó los dos días siguientes orbitando la Tierra gradualmente acercándose a la Estación Espacial Internacional."
+    },
+    {
+      "titulo": "Procesamiento de soja",
+      "nivel": 3,
+      "texto": "Antes de los sistemas de lanzamiento, el ensayo y la integración del cohete y la nave habían estado en marcha durante varios meses. En febrero de 2010, especialistas del Centro Espacial RSC-Energia y Yuzhny probaron el sistema de navegación de acoplamiento Kurs y el ordenador a bordo de la cápsula de reentrada Soyuz. Los ensayos autónomos de los sistemas de vehículos de tripulación Soyuz TMA-18 también se completaron con éxito en el cosmódromo de Baikonur y los ensayos integrados del cohete comenzaron en el emplazamiento 254. La estación de llenado (sitio 31) fue preparada para el posterior tanque del sistema de propulsión Soyuz mediante componentes de propulsores y gases presurizados. A principios de marzo se realizaron pruebas de contención en Soyuz TMA-18 en la instalación de la cámara de vacío. Especialistas de la TsSKB-Progress en Samara y Yuzhny Space Center comenzaron a montar y probar el vehículo de lanzamiento Soyuz-FG. La integración de la segunda etapa y las pruebas neumáticas de las unidades de la primera etapa se realizaron el 16 de marzo de 2010.\nLos equipos primarios y de reserva de Soyuz TMA-18 llegaron al cosmódromo de Baikonur el 21 de marzo de 2010. Llegaron en dos aviones Tupolev Tu-134. El tanque Soyuz se completó el 23 de marzo de 2010 y la nave espacial fue devuelta al emplazamiento 254, para proseguir las operaciones previas al lanzamiento.\nEl 31 de marzo de 2010, el cohete Soyuz FG que transportaba la nave espacial Soyuz TMA-18 fue lanzado desde la instalación de integración y ensayo y fue erigido en la plataforma de lanzamiento 1."
+    },
+    {
+      "titulo": "Acoplamiento",
+      "nivel": 2,
+      "texto": "El 4 de abril de 2010, tres minutos antes de lo previsto, Soyuz TMA-18 se acopló con éxito al módulo Poisk en la ISS a las 05:25 UTC. Poco después del contacto inicial se produjo el cierre automático de los ganchos de puerto Soyuz y Poisk mientras la estación espacial se encontraba en libre deriva. Como parte de los preparativos de acoplamiento, la autoridad de control de actitud anterior había sido entregada al sistema ruso de control de movimiento aproximadamente a las 03:10 UTC. El control fue devuelto al control CMG de EE.UU. aproximadamente a las 06:50 UTC. Para el acoplamiento, los propulsores rusos fueron desactivados durante la presurización del volumen de Soyuz y la instalación de la abrazadera y luego volvieron al control activo de la actitud. Antes de abrir la escotilla, la tripulación realizó comprobaciones de fugas de los módulos Soyuz y el vestíbulo de interfaz Soyuz/MRM2. Luego se quitaron sus trajes Sokol, y Kornienko los puso y sus guantes para secarse. Skvortsov desactivó la Unidad de Purificación BOA/Atmosférica en el Módulo SA/Descenso, reemplazó los cartuchos Soyuz ECLSS LiOH, igualó las presiones Soyuz/ISS y puso la nave espacial en modo de conservación con energía integrada ISS.\nDespués de aproximadamente 1 hora 45 minutos pasados en Soyuz en actividades previas a la transferencia, se abrieron escotillas a las 07:21 UTC y la tripulación fue trasladada a la ISS. Una ceremonia de bienvenida para los recién llegados siguió a la apertura de la escotilla con miembros de la familia y dignatarios participantes del centro ruso de control de la misión en Korolyov. Skvortsov también instaló las abrazaderas de desconexión rápida del mecanismo de acoplamiento y transferencia interna (SSVP) para asegurar la unión. La nave espacial Soyuz permaneció atracada a la estación espacial durante el resto de la Expedición 24 para servir como vehículo de escape de emergencia."
+    },
+    {
+      "titulo": "Dificultades de desenganche",
+      "nivel": 2,
+      "texto": "El aterrizaje, previsto originalmente para 04:35 UTC el 24 de septiembre de 2010, se aplazó debido a las dificultades para deshacer la nave espacial Soyuz de la Estación Espacial Internacional.\nLa tripulación entró en el Soyuz TMA-18 el 23 de septiembre de 2010 y cerró la escotilla principal a las 22:35 UTC. Skvortsov, Kornienko y Caldwell Dyson experimentaron problemas para conseguir un sello estrecho y se vieron obligados a abrir la escotilla Soyuz para una inspección rápida. La escotilla más tarde fue sellada, pero el ingeniero de vuelo Expedition 25 Yurchikhin trabajando dentro de la estación espacial tuvo problemas para confirmar un ajuste ajustado con la escotilla en el lado ISS de la interfaz. Después de una prolongada comprobación de fugas, los controladores de vuelo en Moscú decidieron que la interfaz de acoplamiento era estrecha y libre de fugas. A medida que la cuenta atrás se acercaba para deshacer, los comandos se enviaban a abrir ganchos en el lado del módulo Poisk de la interfaz. Pero el mecanismo no respondió. No estaba claro lo que causó que los ganchos no respondieran, sin embargo, Yurchikhin informó de encontrar un pequeño engranaje flotando del mecanismo cuando se quitó una cubierta. Una segunda ventana de aterrizaje se perdió a las 04:35 UTC. Pero los ingenieros rusos fueron incapaces de resolver el problema con el mecanismo de acoplamiento y el intento de deshacer fue cancelado. La tripulación de Soyuz TMA-18 se quitó sus trajes de presión, abrió la escotilla Soyuz y regresó a la estación espacial."
+    },
+    {
+      "titulo": "Desembarco",
+      "nivel": 2,
+      "texto": "Marcando el final de la Expedición 24, Skvortsov, Kornienko y Caldwell Dyson lograron deshacer su Soyuz TMA-18 a las 02:32 UTC el 25 de septiembre de 2010 desde el puerto de acoplamiento de Poisk en el módulo Zvezda. Después de un desacoplamiento y un descenso normal, la nave espacial Soyuz-TMA 18 aterrizó a las 05:23 UTC cerca de Arkalyk, Kazajistán. En ese momento, la Estación Espacial Internacional estaba orbitando a 350 km sobre el Océano Pacífico frente a la costa del Japón.\nLos equipos de recuperación rusos y los helicópteros estaban a mano para ayudar a la tripulación a salir de la nave espacial y adaptarse a la gravedad después de 176 días en el espacio."
+    },
+    {
+      "titulo": "Mission insignia",
+      "nivel": 2,
+      "texto": "El parche de la misión Soyuz TMA-18 fue diseñado por Nastya Berezutskaya de Kurchatov, región de Kursk."
+    }
+  ],
+  "num_palabras": 1162
+}

@@ -1,0 +1,41 @@
+{
+  "titulo": "Virgin Galactic Unity 21",
+  "titulo_wikipedia_en": "Virgin Galactic Unity 21",
+  "fecha_lanzamiento": "2021-05-22",
+  "año_lanzamiento": 2021,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Virgin_Galactic_Unity_21",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Vuelo espacial suborbital tripulado",
+    "Operador": "Virgen Galáctica",
+    "Apogeo suborbital": "89,23 km",
+    "Nave": "Unidad VSS",
+    "Tipo de nave": "SpaceShipDos",
+    "Fabricante": "Compañía de Naves Espaciales",
+    "Tripulación": "David Mackay; Frederick Sturckow",
+    "Fecha de lanzamiento": "22 de mayo de 2021, 15:26 UTC",
+    "Lugar de lanzamiento": "Autopista del puerto espacial América 34",
+    "Desplegado desde": "VMS Eve",
+    "Fecha de aterrizaje": "22 de mayo de 2021",
+    "Lugar de aterrizaje": "Autopista del puerto espacial América 16",
+    "Programa": "VSS Vuelos espaciales de la Unidad",
+    "Misión anterior": "VF-01",
+    "Misión siguiente": "Unidad 22"
+  },
+  "resumen": "Virgin Galactic Unity 21 fue un vuelo espacial sub-orbital del SpaceShip de dos clases VSS Unity que tuvo lugar el 22 de mayo de 2021, pilotado por David Mackay y copilotado por Frederick Sturckow. Fue el primer vuelo espacial humano desde el estado de Nuevo México. Fue operado por Virgin Galactic, una empresa privada dirigida por Richard Branson que tiene la intención de realizar vuelos de turismo espacial en el futuro. Unity 21 fue el primer vuelo espacial humano lanzado desde Spaceport America.\nAl llegar a un apogeo de 55,45 millas, el vuelo satisfizo la definición de vuelo espacial de los Estados Unidos (50 millas), pero no alcanzó la línea Kármán (100 kilómetros), la definición de la Federación Aérea Internacional.",
+  "secciones": [
+    {
+      "titulo": "Vuelo",
+      "nivel": 2,
+      "texto": "El 22 de mayo de 2021, la nave nodriza Unity VMS Eve la llevó a volar en una configuración parasitaria. A las 15:26 UTC, Unity fue lanzada. Los pilotos MacKay y Sturckow volaron Unity a una velocidad máxima de Mach 3 a una altitud máxima de más de 89,23 km. Esta altitud superó el límite de 50 millas utilizado en los Estados Unidos para denotar el límite de espacio, pero no alcanzó la línea de Kármán. Ambas naves aterrizaron a salvo después."
+    }
+  ],
+  "num_palabras": 202
+}

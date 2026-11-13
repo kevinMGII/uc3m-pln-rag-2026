@@ -1,0 +1,39 @@
+{
+  "titulo": "Blue Origin NS-19",
+  "titulo_wikipedia_en": "Blue Origin NS-19",
+  "fecha_lanzamiento": "2021",
+  "año_lanzamiento": 2021,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Blue_Origin_NS-19",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Vuelo espacial humano suborbital",
+    "Operador": "Origen azul",
+    "Apogeo suborbital": "107 km",
+    "Nave": "RSS Primer paso",
+    "Fabricante": "Origen azul",
+    "Tripulación": "Laura Shepard Churchley; Michael Strahan; Dylan Taylor; Evan Dick; Lane Bess; Cameron Bess",
+    "Vehículo de lanzamiento": "Nuevo Shepard (NS4)",
+    "Lugar de lanzamiento": "Corn Ranch, LS-1",
+    "Contratista del lanzamiento": "Origen azul",
+    "Lugar de aterrizaje": "Rancho de maíz",
+    "Programa": "Vuelos nuevos de Shepard",
+    "Misión anterior": "Origen azul NS-18",
+    "Misión siguiente": "Origen azul NS-20"
+  },
+  "resumen": "Blue Origin NS-19 es una misión de vuelos espaciales suborbital New Shepard dirigida por Blue Origin que se lanzó el 11 de diciembre de 2021. El vuelo estaba programado para lanzarse el 9 de diciembre de 2021, más tarde retrasado hasta el 11 de diciembre de 2021.\nEl parche de la misión del vuelo también contó con las iniciales de Glen de Vries que murió en un accidente de avión un mes después de volar en el vuelo anterior de Blue Origin NS-18. Los pasajeros de NS-19 fueron los destinatarios finales de la FAA Commercial Space Astronaut Wings, una insignia tipo aviador creada por la Administración Federal de Aviación para alentar y llamar la atención sobre los vuelos espaciales comerciales.\nEn particular, el lanzamiento de NS-19 ocurrió el día después de que un tornado causó el colapso de un almacén de Amazon en Illinois, matando a seis trabajadores. Jeff Bezos asistió y celebró públicamente el lanzamiento de NS-19 en Instagram varias horas antes de publicar una declaración en Twitter sobre el colapso del almacén, que atrajo controversia de algunos usuarios del sitio.",
+  "secciones": [
+    {
+      "titulo": "Pasajeros",
+      "nivel": 2,
+      "texto": "Los pasajeros del NS-19 fueron apodados \"Original Six\". Entre ellos se encontraban Laura Shepard Churchley, hija del primer astronauta estadounidense en el espacio, así como el homónimo del programa de vuelos espaciales New Shepard, Alan Shepard, y Michael Strahan, un antiguo extremo defensivo del Salón de la Fama de los Gigantes de Nueva York, así como un co-anchor de Good Morning America y analista de Fox NFL Sunday; ambos como invitados de Blue Origin. Los pasajeros de pago incluyen al ejecutivo Dylan Taylor, el inversor Evan Dick, el fundador de Bess Ventures, Lane Bess, y su hijo, Cameron. Este último se convirtió en el primer padre e hijo en el mismo vuelo espacial. Cameron Bess se convirtió en el estadounidense más joven a los 23 años (Until Karsen Kitchen en NS-26 a los 21 años el 29 de agosto de 2024.), primero para ir con un padre, primero abiertamente peludo, y primero abiertamente pansexual para volar al espacio.\nStrahan, a 6 pies, 5 pulgadas de altura (196 cm), se convirtió en la persona más alta de la historia para llegar al espacio."
+    }
+  ],
+  "num_palabras": 364
+}

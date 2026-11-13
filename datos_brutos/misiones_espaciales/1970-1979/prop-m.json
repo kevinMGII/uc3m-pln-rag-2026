@@ -1,0 +1,31 @@
+{
+  "titulo": "PrOP-M",
+  "titulo_wikipedia_en": "PrOP-M",
+  "fecha_lanzamiento": "1971",
+  "año_lanzamiento": 1971,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración de Marte",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/PrOP-M",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Rover de Marte",
+    "Operador": "Programa espacial soviético",
+    "Fabricante": "Instituto de Ingeniería de Vehículos Móviles",
+    "Fecha de lanzamiento": "1971"
+  },
+  "resumen": "PrOP-M (en ruso: Прибор оценки проходимости — Марс (ПрОП-М), Vehículo de Estimación de la Pasabilidad para Marte o Terreno de Evaluación de Dispositivos-Marte) fueron dos rovers de Marte soviéticos que fueron lanzados en las infructuosas misiones Marte 2 y Marte 3 en 1971. PrOP-M fueron los primeros rovers en ser lanzados a Marte, 26 años antes de la primera misión exitosa del Sojourner de la NASA en 1997. Debido a que las misiones Marte 2 y Marte 3 fallaron, la existencia de los rovers se mantuvo en secreto durante casi 20 años.\nLos rovers, construidos por un equipo dirigido por Alexander Kemurdzhian, eran pequeños dispositivos rectangulares que estaban atados al módulo de aterrizaje y usaban esquís para el movimiento.",
+  "secciones": [
+    {
+      "titulo": "Histórico",
+      "nivel": 2,
+      "texto": "El Rover PrOP-M fue diseñado y fabricado en el Mobile Vehicle Engineering Institute (VNIITransmash) por un equipo de aproximadamente 150 ingenieros liderados por Alexander Kemurdzhian, quien también desarrolló el Rover Lunokhod.\nLos aterrizajes Marte 2 y Marte 3 llevaban cada uno un rover PrOP-M, diseñado para moverse a través de la superficie marciana en esquís mientras se conectaba con el aterrizaje con un cable de 15 metros (49 pies) de largo. Dos varillas metálicas pequeñas fueron usadas para evitar obstáculos autónomos porque las señales de radio de la Tierra habrían tardado demasiado en conducir los rovers usando control remoto. Cada rover llevaba un penetrómetro dinámico (hecho por Transmash) y un densitómetro de rayos gamma (hecho por el Instituto de Geoquímica de la Academia Soviética de Ciencias). Después del aterrizaje, los rovers fueron planeados para ser colocados en la superficie marciana por un brazo manipulador 6-juntas y para moverse en el campo de visión de las cámaras del módulo de aterrizaje. Habrían parado para realizar mediciones cada 1,5 m (4,9 pies), con un alcance máximo de 15 m (49 pies)—la longitud de la atadura. Las huellas de los rovers en el suelo marciano se habrían utilizado para determinar las propiedades materiales del suelo.\nEl chasis principal de los rovers era una caja cuadrada de 4,5 kilogramos con una pequeña protuberancia en el centro. Las fuentes difieren en las dimensiones del rover. El marco estaba apoyado en dos esquís anchos y planos, uno que se extendía por cada lado, elevando el marco ligeramente por encima de la superficie. En la parte delantera de la caja había barras de detección de obstáculos. La velocidad máxima de Rover era de hasta 1 metro por hora. PrOP-M era el único rover que usaba esquís para la locomoción, todos los demás rovers usaban ruedas.\nEl rover tenía un algoritmo para superar los obstáculos: cuando se acercó a uno, se programó para revertir y \"utilizar los patines en los lados alternativos para caminar alrededor del obstáculo\".\nEl primer rover fue destruido el 27 de noviembre de 1971, el aterrizaje de Marte 2, lanzado el 19 de mayo de 1971. El segundo fue lanzado el 28 de mayo de 1971 en Marte 3 y se perdió cuando el módulo de aterrizaje dejó de comunicarse 110 segundos después de aterrizar el 2 de diciembre de 1971. La pérdida de comunicación puede haberse debido a la extremadamente poderosa tormenta de polvo marciana que tenía lugar en ese momento o a un problema con la capacidad del orbitador Mars 3 para retransmitir comunicaciones. El segundo rover nunca fue desplegado. Las misiones de los rover eran secretas y no se mencionaban en las noticias oficiales sobre los desembarcos; su existencia se reveló casi 20 años más tarde en 1990. Los rovers de PrOP-M precedieron al Sojourner de la NASA en 1997 por 26 años. Los autores de los aterrizajes planetarios y sondas de entrada escribieron que Marte 6 y Marte 7 también llevaban rovers PrOP-M.\nUn modelo del rover se puede ver ahora en el Museo Conmemorativo de Cosmonáutica en Moscú, otro se encuentra en el Museo del Espacio y la Tecnología de Misiles en San Petersburgo."
+    }
+  ],
+  "num_palabras": 644
+}

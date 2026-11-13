@@ -1,0 +1,136 @@
+{
+  "titulo": "Apolo 12",
+  "titulo_wikipedia_en": "Apollo 12",
+  "fecha_lanzamiento": "1969-11-14",
+  "año_lanzamiento": 1969,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada",
+    "Exploración lunar",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Apolo_12",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Lugar de lanzamiento": "Centro Espacial Kennedy, Florida\nLC 39A",
+    "Masa en el lanzamiento": "CSM 28.838 kg;\nLM 15.235 kg",
+    "Fecha de lanzamiento": "14 de noviembre de 1969\n16:22:00 UTC",
+    "Nave": "Módulo de mando:\nYankee Clipper\nMódulo lunar:\nIntrepid",
+    "Duración de la misión": "10 días 4 h 36 min 24 s",
+    "Periodo orbital": "88.16 min",
+    "Inclinación orbital": "32.54°",
+    "Apoapsis": "189.8 km",
+    "Periapsis": "185 km",
+    "Misión anterior": "Apolo 11",
+    "Misión siguiente": "Apolo 13",
+    "Programa": "Apolo",
+    "Datos interplanetarios": "tipo: orbitador | objeto: Lunar | componente: Módulo de Mando y Servicio de Apolo | órbitas: 45 | apoastro: 257.1 km | periastro: 115.9 km | tiempo órbita: 88 h 58 min 11.52 s\ntipo: aterrizador | objeto: Lunar | componente: Módulo de descenso | fecha llegada: 19 de noviembre de 1969\n06:54:35 UTC\nOceanus Procellarum/\nMare Cognitum | tiempo EVAs superficie: 1º: 3 h 56 min 03 s\n2º: 3 h 49 min 15 s\nTotal: 7 h 45 min 18 s | tiempo superficie: 31 h 31 min 11.6 s | masa muestras: 34.35 kg (75.729 lb) | tiempo órbita: 88 h 58 min 11.52 s"
+  },
+  "resumen": "Apolo 12 fue la sexta misión tripulada del programa Apollo de la NASA, y la segunda que alunizó. Lanzada casi cuatro meses después del Apolo 11, el Apolo 12 alunizó en el Oceanus Procellarum, muy cerca de la sonda estadounidense Surveyor 3, que había aterrizado el 20 de abril de 1967, y los astronautas trajeron algunas piezas de esta sonda de vuelta a la Tierra para su estudio.",
+  "secciones": [
+    {
+      "titulo": "Misión",
+      "nivel": 2,
+      "texto": "El comandante de Charles \"Pete\" Conrad y el piloto de módulo lunar Alan L. Bean realizaron poco más de un día y siete horas de actividad en la superficie lunar. mientras que el piloto del módulo de comando Richard F. Gordon permaneció en órbita lunar. El sitio de aterrizaje para la misión estaba ubicado en la porción sureste del Océano de las Tormentas.\nA diferencia del primer aterrizaje en Apollo 11, Conrad y Bean lograron un aterrizaje preciso en su ubicación esperada. Llevaron la primera cámara de televisión a color a la superficie lunar en un vuelo de Apolo, pero la transmisión se perdió después de que Bean accidentalmente destruyera la cámara al apuntar hacia el sol. La misión finalizó el 24 de noviembre con un exitoso amerizaje."
+    },
+    {
+      "titulo": "Lanzamiento y transferencia",
+      "nivel": 3,
+      "texto": "El Apolo 12 fue lanzado a tiempo desde el Centro Espacial Kennedy, durante una tormenta. Fue el primer lanzamiento de cohete al que asistió un presidente de los Estados Unidos, Richard Nixon. Treinta y seis segundos y medio después del despegue, el vehículo fue alcanzado por un rayo que atravesó la estructura del vehículo y se descargó hacia la tierra a través de la pluma de los gases de escape del Saturno. Los circuitos de protección en las celdas de combustible en el módulo de servicio (SM) detectaron falsamente las sobrecargas y desconectaron las tres celdas de combustible, junto con gran parte de la instrumentación del módulo de comando/servicio (CSM). Un segundo rayo a los 52 segundos después del lanzamiento noqueó el indicador de actitud. La transmisión de telemetría en el Control de la Misión fue confusa. Sin embargo, el vehículo continuó volando correctamente; los impactos no habían afectado a la unidad de instrumentos de Saturno V.\nLa pérdida de las tres celdas de combustible puso al CSM a depender completamente de las baterías, que no pudieron mantener cargas de lanzamiento normales de 75 amperios en el bus de CC de 28 voltios. Uno de los inversores de CA se desconectó. Estos problemas de suministro de energía encendieron casi todas las luces de advertencia en el panel de control y causaron que la mayoría de los instrumentos fallaran.\nEl controlador de la estación de Electricidad, Medioambiente y Consumibles (EECOM) John Aaron recordó el patrón de falla de telemetría en una prueba anterior cuando una fuente de alimentación funcionaba mal en CSM Signal Conditioning Electronics (SCE), que convertía las señales brutas de la instrumentación en voltajes estándar para las pantallas de instrumentos de la nave espacial. codificadores de telemetría.\nAaron hizo una llamada, \"Apolo 12, Houston. Pruebe SCE a Auxiliar, cambio\", que cambió el SCE a una fuente de alimentación de respaldo. El cambio fue bastante confuso, y ni el director de vuelo Gerald Griffin, CAPCOM Gerald Carr ni el comandante de misión Pete Conrad lo reconocieron de inmediato. El piloto del módulo lunar Alan Bean, volando en el asiento derecho como el ingeniero de sistemas de la nave espacial, recordó el cambio SCE de un incidente de entrenamiento un año antes, cuando se simuló el mismo fallo. El pensamiento rápido de Aaron y la memoria de Bean salvó lo que podría haber sido una misión abortada, y le valió a Aaron la reputación de ser un \"misil de ojos acerados\". Bean volvió a poner las pilas de combustible en funcionamiento y, con la telemetría restaurada, el lanzamiento continuó con éxito. Una vez en la órbita de aparcamiento de la Tierra, la tripulación revisó cuidadosamente su nave espacial antes de volver a encender la tercera etapa S-IVB para la inyección translunar. Los rayos no habían causado ningún daño permanente serio.\nInicialmente, se temía que el impacto del rayo podría haber provocado el disparo prematuro del mecanismo del paracaídas del Módulo de Mando (CM), desactivando los pernos explosivos que abren el compartimiento del paracaídas para desplegarlos. Si efectivamente estuvieran deshabilitados, el Módulo de Comando se habría estrellado incontrolablemente en el Océano Pacífico y habría matado a la tripulación al instante. Como no había manera de averiguar si este era el caso, los controladores de tierra decidieron no contarles a los astronautas sobre la posibilidad. Los paracaídas se desplegaron y funcionaron normalmente al final de la misión.\nDespués de la separación del Módulo Lunar (LM), el S-IVB estaba destinado a volar a la órbita solar. El sistema de propulsión auxiliar S-IVB fue disparado, y los propelentes restantes se ventilaron para disminuir su velocidad y volar más allá del borde posterior de la Luna. La gravedad de la Luna luego lanzaría la etapa a la órbita solar. Sin embargo, un pequeño error en el vector de estado en el sistema de guía de Saturno hizo que el S-IVB volara más allá de la Luna a una altitud demasiado alta para alcanzar la velocidad de escape de la Tierra. Permaneció en una órbita terrestre semiestable después de pasar la Luna el 18 de noviembre de 1969. Finalmente escapó de la órbita terrestre en 1971, pero fue recapturada brevemente en la órbita terrestre 31 años después. Fue descubierto por el astrónomo aficionado Bill Yeung, quien le dio la designación temporal J002E3 antes de que se determinara que era un objeto artificial."
+    },
+    {
+      "titulo": "Alunizaje",
+      "nivel": 3,
+      "texto": "La misión Apolo 12 alunizó el 19 de noviembre de 1969 en un área del Océano de las Tormentas (Latin Oceanus Procellarum) que había sido visitada anteriormente por varias misiones no tripuladas (Luna 5, Surveyor 3 y Ranger 7). La Unión Astronómica Internacional, reconociendo esto, bautizó esta región Mare Cognitum (Mar Conocido). Las coordenadas lunares del sitio de aterrizaje fueron 3,01239° latitud S, 23,42157° longitud O. El sitio de alunizaje se incluiría posteriormente en los mapas lunares como Statio Cognitum. Conrad y Bean no nombraron formalmente su sitio de aterrizaje, aunque Conrad apodó el área de aterrizaje prevista \"Pete's Parking Lot\" (\"El puesto de estacionamiento de Pete\").\nEl segundo aterrizaje lunar fue un ejercicio de precisión, que sería necesario para futuras misiones Apolo. La mayor parte del descenso fue automático, con control manual asumido por Conrad durante las últimas decenas de metros de descenso. A diferencia del Apolo 11, donde Neil Armstrong tuvo que usar el control manual para dirigir su lander hacia abajo del objetivo de la computadora que estaba cubierto de cantos rodados, el Apolo 12 logró aterrizar en su objetivo, a poca distancia de la sonda Surveyor 3, que había aterrizado en la luna en abril de 1967. Esta fue la primera, y hasta la fecha, única ocasión en la que los humanos han \"alcanzado\" una sonda enviada a aterrizar en otro mundo.\nConrad en realidad aterrizó Intrepid 177 m por debajo del \"Estacionamiento de Pete\", porque parecía más áspero durante el acercamiento final de lo previsto, y estaba un poco por debajo de 1360 m de Surveyor 3, una distancia que se eligió para eliminar la posibilidad de que el polvo lunar (que el motor de descenso de Intrepid haya provocado al aterrizar) cubra Surveyor 3. Pero el punto de toma de contacto real, aproximadamente 183 m del Surveyor 3, causó un chorro de arena de alta velocidad de la sonda. Más tarde se determinó que el chorreado de arena eliminó más polvo que el que se entregó al topógrafo, porque la sonda estaba cubierta por una capa fina que le daba un tono tostado según lo observado por los astronautas, y cada porción de la superficie expuesta al chorro de arena directo era aligerado hacia el color blanco original mediante la eliminación del polvo lunar."
+    },
+    {
+      "titulo": "EVA's",
+      "nivel": 3,
+      "texto": "Cuando Conrad, que era algo más bajo que Neil Armstrong, pisó la superficie lunar, sus primeras palabras fueron \"Whoopie! Man, puede haber sido algo pequeño para Neil, pero para mí es muy largo\". Esto no fue un comentario improvisado: Conrad había hecho una apuesta de US$ 500 con la reportera Oriana Fallaci, y él diría estas palabras, después de que ella hubiera preguntado si la NASA le había ordenado a Neil Armstrong qué decir al pisar la Luna. Conrad luego dijo que nunca pudo cobrar el dinero.\nPara mejorar la calidad de las imágenes de televisión de la Luna, se llevó una cámara a color en Apolo 12 (a diferencia de la cámara monocromática que se utilizó en Apolo 11). Desafortunadamente, cuando Bean llevó la cámara al lugar cerca del Módulo Lunar donde iba a instalarse, sin quererlo apuntó directamente al Sol, destruyendo el tubo de Conducción Secundaria de Electrones (SEC). La cobertura televisiva de esta misión se dio por concluida casi de inmediato.\nEl Apolo 12 alunizó con éxito a poca distancia de la sonda Surveyor 3. Conrad y Bean tomaron piezas de la sonda para traerlas a la Tierra para su análisis. Se afirma que se descubrió que la bacteria común Streptococcus mitis había contaminado accidentalmente la cámara de la nave espacial antes del lanzamiento y había sobrevivido inactiva en este entorno hostil durante dos años y medio. Sin embargo, este hallazgo ha sido debatido. (ver Informes de Streptococcus mitis en la Luna)\nLos astronautas Conrad y Bean también recolectaron rocas y establecieron equipos que tomaron medidas de la sismicidad de la Luna, el flujo de viento solar y el campo magnético, y retransmitieron las mediciones a la Tierra. Los instrumentos formaban parte de la primera estación completa de ALSEP de propulsión nuclear establecida por astronautas en la Luna para retransmitir datos a largo plazo desde la superficie lunar. Los instrumentos del Apolo 11 no eran tan extensos ni estaban diseñados para operar a largo plazo. Los astronautas también tomaron fotografías, aunque por accidente Bean dejó varios rollos de película expuesta en la superficie lunar. Mientras tanto, Gordon, a bordo del Yankee Clipper en órbita lunar, tomó fotografías multiespectrales de la superficie.\nLa placa lunar unida a la etapa de descenso del Intrepid es única ya que a diferencia de otras placas, (a) no tenía una representación de la Tierra, y (b) tenía una textura diferente: las otras placas tenían letras negras en acero inoxidable pulido acero mientras que la placa Apolo 12 tenía letras en acero inoxidable pulido mientras el fondo estaba cepillado."
+    },
+    {
+      "titulo": "Regreso",
+      "nivel": 3,
+      "texto": "La etapa de ascenso del Intrepid se abandonó (según los procedimientos normales) después de que Conrad y Bean volvieran a unirse a Gordon en órbita. Impactó a la Luna el 20 de noviembre de 1969, a -3,94, -21,20. Los sismómetros que los astronautas habían dejado en la superficie lunar registraron las vibraciones durante más de una hora.\nLa tripulación se quedó un día más en la órbita lunar tomando fotografías, para una estancia total en la superficie lunar de 31 horas y media y un tiempo total en órbita lunar de ochenta y nueve horas.\nEn el vuelo de regreso a la Tierra después de salir de la órbita lunar, la tripulación del Apolo 12 presenció (y fotografió) un eclipse solar, aunque este era de la Tierra eclipsando al Sol."
+    },
+    {
+      "titulo": "Amerizaje",
+      "nivel": 3,
+      "texto": "El Yankee Clipper regresó a la Tierra el 24 de noviembre de 1969 a las 20:58 UTC (3:58 p. m. EST, 10:58 a. m. HST), en el Océano Pacífico, aproximadamente 800 km al este de Samoa Americana. Durante el amerizaje, una cámara de película de 16 mm se desprendió del almacenamiento y golpeó a Bean en la frente, dejándolo momentáneamente inconsciente. Sufrió una conmoción cerebral leve y necesitó seis puntos de sutura. Después de la recuperación por parte del USS Hornet, fueron trasladados en avión al aeropuerto internacional de Pago Pago en Tafuna para una recepción, antes de ser trasladados en un avión de carga C-141 a Honolulu."
+    },
+    {
+      "titulo": "Insignia de la misión",
+      "nivel": 2,
+      "texto": "El parche de la misión Apolo 12 muestra el fondo azul marino de la tripulación; los tres astronautas en el momento de la misión eran comandantes de la Marina de Estados Unidos. Presenta un clíper que llega a la luna, representando el módulo de comando Yankee Clipper. El barco se incendia y enarbola la bandera de los Estados Unidos. El nombre de la misión APOLO XII y los nombres de la tripulación están en un amplio borde dorado, con un pequeño borde azul. Azul y dorado son colores tradicionales de la Marina de los Estados Unidos. El parche tiene cuatro estrellas, una para cada uno de los tres astronautas que volaron la misión y otra para Clifton Williams, aviador y astronauta del Cuerpo de Marines de los EE. UU., que murió el 5 de octubre de 1967, luego de que una falla mecánica causara que los controles de su avión de entrenamiento T-38 no respondieran, lo que resultó en un bloqueo. Se había entrenado con Conrad y Gordon como parte del equipo de respaldo para lo que sería la misión Apolo 9, y se le habría asignado como Piloto de Módulo Lunar para el Apolo 12."
+    },
+    {
+      "titulo": "Ubicación de la nave espacial",
+      "nivel": 2,
+      "texto": "El módulo de comando Apolo 12 Yankee Clipper está en exhibición en el Centro Aeroespacial de Virginia, en Hampton, Virginia.\nEn 2002, los astrónomos pensaron que podrían haber descubierto otra luna en órbita alrededor de la Tierra, que designaron J002E3, que resultó ser la tercera etapa S-IVB del cohete Apolo 12 Saturno V.\nEl Módulo Lunar Intrepid impactó en la Luna el 20 de noviembre de 1969 a las 22:17:17,7 UT (5:17 PM EST) -3,94, -21,20. En 2009, el Lunar Reconnaissance Orbiter (LRO) orquestó el sitio de aterrizaje de Apolo 12. La etapa de descenso del Módulo Lunar Intrepid, el paquete de experimentos (ALSEP), la nave espacial Surveyor 3 y los senderos de los astronautas son visibles. En 2011, el LRO regresó al sitio de aterrizaje a una altitud menor para tomar fotografías de mayor resolución."
+    },
+    {
+      "titulo": "Representación en los medios",
+      "nivel": 2,
+      "texto": "Algunas partes de la misión Apolo 12 se dramatizan en la miniserie \"De la Tierra a la Luna\", episodio titulado \"Eso es todo lo que hay\". Conrad, Gordon y Bean fueron retratados por Paul McCrane, Tom Verica y Dave Foley, respectivamente. Conrad había sido retratado por un actor diferente, Peter Scolari, en el primer episodio."
+    },
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Charles Conrad (Voló en las misiones: Gemini 5, Gemini 11, Apolo 12 y Skylab 2), comandante.\nRichard Gordon (Voló en: Gemini 11 y Apolo 12), piloto del módulo de mando.\nAlan Bean (Voló en: Apolo 12 y Skylab 3), piloto del módulo lunar."
+    },
+    {
+      "titulo": "Tripulación de Reemplazo",
+      "nivel": 2,
+      "texto": "David Scott, comandante.\nAlfred Worden, piloto del módulo de mando.\nJames Irwin, piloto del módulo lunar."
+    },
+    {
+      "titulo": "Tripulación de soporte",
+      "nivel": 3,
+      "texto": "Gerald Carr (voló en Skylab 4)\nEdward Gibson (voló en Skylab 4)\nPaul Weitz (voló en Skylab 2, STS-6)"
+    },
+    {
+      "titulo": "Directores de Vuelo",
+      "nivel": 3,
+      "texto": "Gerald Griffin, Equipo dorado (Gold team)\nPete Frank, Equipo naranja (Orange team)\nCliff Charlesworth, Equipo verde (Green team)\nMilton Windler, Equipo granate (Maroon team)"
+    },
+    {
+      "titulo": "Parámetros de la Misión",
+      "nivel": 2,
+      "texto": "Sitio de alunizaje: 3,01239 S - 23,42157 W o\n3° 0' 44,60\" S - 23° 25' 17.65\" W"
+    },
+    {
+      "titulo": "Acople LM — CSM",
+      "nivel": 3,
+      "texto": "Desacople: 19 de noviembre de 1969 – 04:16:02 UTC\nReacople: 20 de noviembre de 1969 – 17:58:20 UTC"
+    },
+    {
+      "titulo": "EVAs",
+      "nivel": 3,
+      "texto": ""
+    },
+    {
+      "titulo": "Comienzo del EVA: 19 de noviembre de 1969, 11:32:35 UTC",
+      "nivel": 4,
+      "texto": "Conrad — EVA 1\nSalida a la superficie: 11:44:22 UTC\nRegreso al LM: 15:27:17 UTC\nBean — EVA 1\nSalida a la superficie: 12:13:50 UTC\nRegreso al LM: 15:14:18 UTC"
+    },
+    {
+      "titulo": "Final del EVA: 19 de noviembre, 15:28:38 UTC",
+      "nivel": 4,
+      "texto": "Duración: 3 horas, 56 minutos, 03 segundos"
+    },
+    {
+      "titulo": "Comienzo del 2º EVA: 20 de noviembre de 1969, 03:54:45 UTC",
+      "nivel": 4,
+      "texto": "Conrad — EVA 2\nSalida a la superficie: 03:59:00 UTC\nRegreso al LM: 07:42:00 UTC\nBean — EVA 2\nSalida a la superficie: 04:06:00 UTC\nRegreso al LM: 07:30:00 UTC"
+    },
+    {
+      "titulo": "Final del 2º EVA: 20 de noviembre, 07:44:00 UTC",
+      "nivel": 4,
+      "texto": "Duración: 3 horas, 48 minutos, 13 segundos"
+    }
+  ],
+  "num_palabras": 2564
+}

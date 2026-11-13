@@ -1,0 +1,26 @@
+{
+  "titulo": "Explorador Espectroscópico en el Ultravioleta Lejano",
+  "titulo_wikipedia_en": "Far Ultraviolet Spectroscopic Explorer",
+  "fecha_lanzamiento": "1999-06-24",
+  "año_lanzamiento": 1999,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Telescopio espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Explorador_Espectroscópico_en_el_Ultravioleta_Lejano",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Retirado",
+    "Tipo de misión": "Observatorio espacial",
+    "Operador": "NASA",
+    "Fecha de lanzamiento": "24 de junio de 1999",
+    "Masa en el lanzamiento": "1400 kg",
+    "Propulsión": "Sin Propulsión"
+  },
+  "resumen": "Far Ultraviolet Spectroscopic Explorer (FUSE, Explorador Espectroscópico en el Ultravioleta Lejano) fue un observatorio espacial de la NASA dedicado a la observación en la parte del espectro del ultravioleta lejano. Fue lanzado el 24 de junio de 1999 a bordo de un cohete Delta.\nCon un peso total de 1400 kg, llevaba cuatro telescopios ultravioleta de 0,35 m de apertura, cada uno con un espectrógrafo ultravioleta de alta resolución. Los detectores cubrían la banda ultravioleta desde 912 angstroms (línea de ionización del hidrógeno) hasta 1187 angstroms. La banda fue elegida para medir la abundancia de deuterio en el Universo, para estudiar la absorción del helio en el medio interestelar, el gas caliente en el halo galáctico y el gas frío en las nubes moleculares.\nEl 12 de julio de 2007, el último volante de inercia de FUSE dejó de funcionar de manera irreversible, con lo que se perdió la capacidad de apuntado de la nave. El 6 de septiembre la NASA anunció el fin de la misión.",
+  "secciones": [],
+  "num_palabras": 167
+}

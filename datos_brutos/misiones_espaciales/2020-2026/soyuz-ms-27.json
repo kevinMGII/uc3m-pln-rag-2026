@@ -1,0 +1,54 @@
+{
+  "titulo": "Soyuz MS-27",
+  "titulo_wikipedia_en": "Soyuz MS-27",
+  "fecha_lanzamiento": "2025-04-08",
+  "año_lanzamiento": 2025,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Soyuz_MS-27",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Regresada",
+    "Tipo de misión": "Transporte de tripulación a la ISS",
+    "Operador": "Roscosmos",
+    "Duración planificada": "245 Días",
+    "Nave": "Soyuz MS-27 No. 758",
+    "Tipo de nave": "Soyuz MS",
+    "Fabricante": "Energia",
+    "Masa en el lanzamiento": "7,152 kg (15,767 libras)",
+    "Tripulación": "Serguéi N. Ryzhikov; Alexey Zubritski; Jonny Kim",
+    "Indicativo": "Favor",
+    "Expedición": "Expedición 72/73",
+    "Fecha de lanzamiento": "8 de abril de 2025, 05:47 UTC",
+    "Vehículo de lanzamiento": "Soyuz-2.1a",
+    "Lugar de lanzamiento": "Baikonur, Sitio 31/6",
+    "Contratista del lanzamiento": "RKTs Progress",
+    "Fecha de aterrizaje": "9 de diciembre de 2025, 05:03 UTC",
+    "Lugar de aterrizaje": "Estepa kazaja, Kazajistán",
+    "Sistema de referencia orbital": "Órbita geocéntrica",
+    "Régimen orbital": "Órbita baja terrestre",
+    "Acoplamiento": "tipo acople: acople | objetivo acople: ISS | puerto acople: Mod. prichal en el Nauka nadir | fecha acople: 8 de abril de 2025, 08:57 UTC | fecha desacople: 9 de diciembre de 2025, 01:41 UTC",
+    "Programa": "Programa Soyuz",
+    "Misión anterior": "Soyuz MS-26",
+    "Misión siguiente": "Soyuz MS-28"
+  },
+  "resumen": "La Soyuz MS-27 fue la misión 154.º y anterior nave espacial rusa tripulada que despegó el 8 de abril de 2025 desde el Sitio 31/6 del Cosmódromo de Baikonur, con destino a la Estación Espacial Internacional. La nave fue lanzada a bordo de un cohete Soyuz-2.1a con 3 tripulantes: los cosmonautas de Roscosmos, Serguéi N. Ryzhikov y Alexey Zubritski, y el astronauta de la NASA, Jonny Kim.",
+  "secciones": [
+    {
+      "titulo": "Misión",
+      "nivel": 2,
+      "texto": "El 8 de abril a las 05:47 UTC, la Soyuz MS-27 despegó a bordo de un cohete Soyuz-2.1a desde el cosmódromo de Baikonur, según lo previsto. Tras un ascenso de 8 minutos y 49 segundos, se apagó el motor de la tercera etapa, y la Soyuz MS-27 fue liberada a su órbita inicial 3 segundos después. La nave espacial procedió a un encuentro rápido y se acopló con éxito al puerto de Nadir del módulo Prichal a las 08:57 UTC, tan solo 3 horas, 10 minutos y 28 segundos después del lanzamiento. La tripulación entró en la estación a las 09:28 UTC.\nEl 16 de octubre de 2025, los dos cosmonautas, Serguéi N. Ryzhikov y Alexey Zubritski realizaron su primera EVA, durante esta misón, la n.º 64 desde el segmento ROS, de 6 horas y 9 minutos, en la que realizaron diferentes tareas de mantenimiento, como instalar el EKRAN-M.\nEl 28 de octubre de 2025, los cosmonautas, realizaron su segunda EVA, durante esta misón, la n.º 65 desde el segmento ROS, de 6 horas y 54 minutos, en la que realizaron diferentes tareas de mantenimiento.\nLa misión espacial concluyó el 9 de diciembre de 2025, tras pasar 8 meses a bordo de la Estación Espacial Internacional (EEI), completando un total de 3.920 órbitas alrededor de la Tierra. En ese momento, el cosmonauta Sergey Ryzhikov, junto a su compañero Alexey Zubritsky y al astronauta Jonny Kim de la NASA, abordaron la nave Soyuz MS-27 y se desacoplaron del módulo Prichal a las 01:41 UTC.\nTras alejarse lentamente de la EEI, a las 04:09 UTC se inició el frenado orbital mediante el encendido del motor SDK de la Soyuz durante 4 minutos y 42 segundos, lo que redujo la velocidad en aproximadamente 128 m/s y generó el descenso orbital de reentrada. Veintiocho minutos después, se procedió a la separación de los tres módulos de la nave: el módulo de propulsión (PAO), el módulo orbital (BO) y el módulo de descenso (SA).\nA las 04:41 UTC, al alcanzar los 100 km de altitud, la cápsula comenzó su reentrada atmosférica, soportando temperaturas de hasta 2500 °F y una fuerte desaceleración. El paracaídas se desplegó a 10 km de altitud. Finalmente, a las 05:03 UTC, la cápsula aterrizó en la estepa kazaja, en las coordenadas 47° 22' N, 69° 43' E, a unos 159 km de la ciudad de Dzhezkazgán."
+    },
+    {
+      "titulo": "Antecedentes",
+      "nivel": 3,
+      "texto": "La nave espacial Soyuz MS-27, ensamblada por Energia, fue transportada por ferrocarril desde su planta de fabricación en Korolev, Rusia al cosmódromo de Baikonur en Kazajistán, donde llegó en diciembre de 2024. Las pruebas y el procesamiento finales comenzaron a mediados de enero de 2025.\nMientras tanto, los componentes del cohete Soyuz-2.1a fueron fabricados por RKTs Progress en Samara, Rusia, y enviados por ferrocarril a Baikonur, donde el ensamblaje comenzó a fines de enero.\nLos preparativos finales de la nave espacial se reanudaron a principios de marzo. El 24 de marzo, tanto la tripulación principal como la de reserva realizaron una comprobación de ajuste de sus trajes de lanzamiento y entrada Sokol y participaron en un entrenamiento de familiarización dentro de la nave, lista para volar. La carga de propelente se completó el 25 de marzo, seguida poco después por la carga de carga. El 27 de marzo, la Soyuz MS-27 se acopló a su adaptador para vehículo de lanzamiento.\nEl 2 de abril se llevó a cabo un entrenamiento adicional para la tripulación, cuando los miembros de la Expedición 73 completaron sus últimos ejercicios a bordo en la Soyuz MS-27 completamente ensamblada. Al día siguiente, la sección de carga útil, incluida la nave espacial, se transportó desde las instalaciones de procesamiento hasta el edificio de ensamblaje de vehículos en el Sitio 31/6, donde se integró con el cohete Soyuz-2.1a. La integración se completó el 4 de abril. En la mañana del 5 de abril, el vehículo de lanzamiento completamente ensamblado se trasladó a la plataforma de lanzamiento en el Sitio 31/6. El cohete fue decorado con calcomanías para celebrar el 80.° aniversario del fin de la Segunda Guerra Mundial."
+    }
+  ],
+  "num_palabras": 742
+}

@@ -1,0 +1,55 @@
+{
+  "titulo": "Compton Spectrometer and Imager",
+  "titulo_wikipedia_en": "Compton Spectrometer and Imager",
+  "fecha_lanzamiento": "2027-08",
+  "año_lanzamiento": 2027,
+  "estado": "programada",
+  "tipo_mision": [
+    "Telescopio espacial"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Compton_Spectrometer_and_Imager",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Otros nombres": "COSI\nSMEX-17",
+    "Tipo de misión": "Astronomía de rayos gamma",
+    "Operador": "Universidad de California, Berkeley\nNASA",
+    "Nave": "COSI",
+    "Masa de la carga útil": "< 400 kg",
+    "Fecha de lanzamiento": "Agosto 2027 (previsto)",
+    "Vehículo de lanzamiento": "Falcon 9",
+    "Lugar de lanzamiento": "Cabo Cañaveral Estación de la Fuerza Espacial SLC-40",
+    "Contratista del lanzamiento": "SpaceX",
+    "Sistema de referencia orbital": "Órbita geocéntrica",
+    "Régimen orbital": "Órbita terrestre baja",
+    "Área colectora": "25% campo de visión del cielo",
+    "Nombre del telescopio": "Telescopio Compton",
+    "Tipo de instrumento": "Detectores de germanio",
+    "Banda de transmisión": "Rayos gamma",
+    "Ancho de banda": "0,2-5 MeV",
+    "Programa": "SMEX",
+    "Misión anterior": "SMEX-16",
+    "Misión siguiente": "SMEX-18"
+  },
+  "resumen": "El Espectrómetro e Imagen de Compton (COSI) es una misión astrofísica de la NASA SMEX que lanzará un telescopio de rayos gamma blando (0,2-5 MeV) en 2027. Es un telescopio Compton compacto de campo amplio (CCT) que investigará parcialmente la \"brecha MeV\" (0,1-10 MeV) con alta resolución espectral pero área de recolección limitada. Proporciona imágenes, espectroscopia y polarimetría de fuentes astrofísicas, y sus detectores de germanio proporcionan una excelente resolución de energía para las mediciones de las líneas de emisión.\nLos detectores de germanio tienen un campo de visión instantáneo de más del 25% del cielo, y están rodeados en los lados y en el fondo por escudos activos, que proporcionan rechazo de fondo, al tiempo que permiten la detección de ráfagas de rayos gamma y otras llamaradas de rayos gamma en la mayoría del cielo.",
+  "secciones": [
+    {
+      "titulo": "Histórico",
+      "nivel": 2,
+      "texto": "El COSI tiene sus orígenes en el Nuclear Compton Telescope (NCT), que fue un prototipo diseñado para estudiar fuentes astrofísicas de emisión de líneas nucleares y polarización de rayos gamma. El NCT era un telescopio de rayos gamma suave, que volaba en varias misiones de globos de alta altitud para probar y refinar su tecnología. Los vuelos incluyeron lanzamientos desde lugares como Nueva Zelanda y la Antártida.\nEl COSI evolucionó a partir de los avances y las lecciones aprendidas de las misiones de los equipos nacionales de prevención. El diseño mejorado incorporó detectores de cross-strip de germanio para mejorar la sensibilidad y la resolución. Esta progresión culminó en el desarrollo de un instrumento más sofisticado capaz de espectroscopia de alta resolución, imágenes de campo amplio y mediciones de polarización de rayos gamma. La demostración exitosa de la tecnología de NCT en misiones en globo sentó las bases para que el COSI sea seleccionado como una misión de NASA Small Explorer (SMEX)."
+    },
+    {
+      "titulo": "Misión",
+      "nivel": 2,
+      "texto": "\"Durante más de 60 años, la NASA ha proporcionado oportunidades para misiones inventivas a menor escala para llenar lagunas de conocimiento donde todavía buscamos respuestas\", dijo Thomas Zurbuchen, administrador asociado de la Dirección de la Misión Científica de la agencia en Washington, D.C. \"COSI responderá preguntas sobre el origen de los elementos químicos en nuestra propia galaxia Vía Láctea, los mismos ingredientes críticos para la formación de la propia Tierra\".\nEl investigador principal es John Tomsick, de la Universidad de California, Berkeley. La misión costará aproximadamente 145 millones de dólares de los EE.UU., con un costo adicional de lanzamiento de aproximadamente 69 millones de dólares. El objetivo de la nave espacial es lanzar en agosto de 2027 un cohete SpaceX Falcon 9 desde la estación de la Fuerza Espacial Cabo Cañaveral. El equipo COSI pasó décadas desarrollando su tecnología a través de vuelos en globos científicos. En 2016, enviaron una versión del instrumento de rayos gamma a bordo del globo de súper presión de la NASA, que está diseñado para vuelos largos y elevadores pesados.\nEl Programa de Exploradores de la NASA es el programa continuo más antiguo de la agencia. Proporciona un acceso frecuente y de bajo costo al espacio utilizando la investigación espacial dirigida por los principales investigadores, que es pertinente para los programas de astrofísica y heliofísica. Desde el lanzamiento de 1958 de Explorer 1, que descubrió los cinturones de radiación de la Tierra, el programa ha lanzado más de 90 misiones. El Cosmic Background Explorer (COBE), otra misión de la NASA Explorer, llevó a un Premio Nobel en 2006 para sus investigadores principales. El Centro de Vuelo Espacial Goddard de la NASA en Greenbelt, Maryland, gestiona el programa para la NASA."
+    },
+    {
+      "titulo": "Asociación",
+      "nivel": 2,
+      "texto": "COSI es una colaboración entre el Grupo de Astrofísica de Alta Energía, Laboratorio de Ciencias Espaciales de UC Berkeley; Centro de Astrofísica y Ciencias Espaciales de UCSD; Instituto de Astronomía de la Universidad Nacional Tsing Hua, Taiwán; Lawrence Berkeley National Laboratory; NASA Goddard Space Flight Center; U.S. Naval Research Laboratory; NASA Columbia Scientific Balloon Facility y NASA Super Pressure Balloon Blog."
+    }
+  ],
+  "num_palabras": 643
+}

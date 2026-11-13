@@ -1,0 +1,45 @@
+{
+  "titulo": "Soyuz MS-17",
+  "titulo_wikipedia_en": "Soyuz MS-17",
+  "fecha_lanzamiento": "2020-10-14",
+  "año_lanzamiento": 2020,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Soyuz_MS-17",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Misión tripulada a la ISS",
+    "Operador": "Roscosmos",
+    "ID COSPAR": "2020-072A",
+    "Nave": "Soyuz MS N.º 747 Favor",
+    "Tipo de nave": "Soyuz MS 11F732A48",
+    "Fabricante": "RKK Energiya",
+    "Fecha de lanzamiento": "14 de octubre de 2020, 05:45:04 UTC",
+    "Vehículo de lanzamiento": "Soyuz-2.1a",
+    "Contratista del lanzamiento": "TsSKB-Progress",
+    "Lugar de lanzamiento": "Baikonur, Sitio 31",
+    "Lugar de aterrizaje": "Estepa kazaja",
+    "Indicativo": "Favor",
+    "Sistema de referencia orbital": "Órbita geocéntrica",
+    "Régimen orbital": "Órbita terrestre baja",
+    "Inclinación orbital": "51.66°",
+    "Acoplamiento": "objetivo acople: ISS | tipo acople: acople | puerto acople: Rassvet nadir | fecha acople: 14 de octubre de 2020, 08:48:47 UTC | fecha desacople: 19 de marzo de 2021, 16:38 UTC\nobjetivo acople: ISS\n(Recolocación) | tipo acople: acople | puerto acople: Poisk cénit | fecha acople: 19 de marzo de 2021, 17:12 UTC | fecha desacople: 17 de abril de 2021, 01:34 UTC",
+    "Programa": "Programa Soyuz",
+    "Misión anterior": "Soyuz MS-16",
+    "Misión siguiente": "Soyuz MS-18"
+  },
+  "resumen": "Soyuz MS-17 es un vuelo espacial Soyuz lanzado el a las UTC. Transportó a tres miembros de la Expedición 63/ 64 a la ISS, en un principio los tres tripulantes iban a ser de nacionalidad Rusa, pero en mayo de 2020 la agencia espacial estadounidense NASA compró un asiento en la Soyuz y asignó a la astronauta Kathleen Rubins como la ingeniera de vuelo 2, y como tripulante de reserva designó al astronauta Mark Vande Hei.\nEsta misión ha sido la primera misión tripulada en realizar una nueva trayectoria ultrarrápida para encontrarse con la Estación espacial internacional. El vuelo fue aproximadamente de 2 órbitas alrededor de la tierra con una duración en tiempo récord de 3 horas y 3 minutos acoplándose a la Estación a las 08:48 UTC. Esta misión podría ser la última misión Rusa que incluya tripulantes estadounidenses considerando que SpaceX ya comenzó con sus vuelos tripulados en 2020 y sería el último lanzamiento de Soyuz con un astronauta estadounidense a bordo.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "En febrero de 2020 por lesión del comandante de la Soyuz MS-16 Nikolai Tikhonov los dos miembros de nacionalidad Rusa de la tripulación de esta nave, pasan a ser la tripulación titular de la anterior al ser los reservas, y pasan a ser el comandante Nikolai Tikhonov y el cosmonauta Andrei Babkin los titulares de esta misión junto con el astronauta Stephen Bowen. En mayo de 2020 se reestructuran las tripulaciones de nuevo de las misiones Soyuz por parte de Roscosmos, pasando a ser la tripulación titular los cosmonautas Sergey Ryzhikov y Sergei Kud-Sverchkov y el comandante Tikhonov y el cosmonauta Babkin pasando a ser la tripulación de la futura Soyuz MS-18, y los tripulantes Novitsky y Dubrov de esta nave pasan a ser la tripulación de reserva de la Soyuz MS-17 y titulares de la MS-19, permaneciendo los astronautas de la NASA igual."
+    }
+  ],
+  "num_palabras": 308
+}

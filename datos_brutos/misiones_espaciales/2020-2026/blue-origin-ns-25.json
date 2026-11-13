@@ -1,0 +1,38 @@
+{
+  "titulo": "Blue Origin NS-25",
+  "titulo_wikipedia_en": "Blue Origin NS-25",
+  "fecha_lanzamiento": "2024",
+  "año_lanzamiento": 2024,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Blue_Origin_NS-25",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Vuelo espacial humano suborbital",
+    "Apogeo suborbital": "107 km",
+    "Nave": "RSS Primer paso",
+    "Fabricante": "Origen azul",
+    "Tripulación": "Mason Angel; Sylvain Chiron; Ed Dwight; Kenneth Hess; Carol Schaller; Gopichand Thotakura",
+    "Vehículo de lanzamiento": "Nuevo Shepard (NS4)",
+    "Lugar de lanzamiento": "Corn Ranch, LS-1",
+    "Contratista del lanzamiento": "Origen azul",
+    "Lugar de aterrizaje": "Rancho de maíz",
+    "Programa": "Vuelos nuevos de Shepard",
+    "Misión anterior": "Origen azul NS-24",
+    "Misión siguiente": "Origen azul NS-26"
+  },
+  "resumen": "Blue Origin NS-25 era una misión suborbital de vuelos espaciales, operada por Blue Origin, que fue lanzada el 19 de mayo de 2024, utilizando el cohete New Shepard.\nNS-25 fue el primer vuelo de New Shepard en transportar humanos desde NS-22 en agosto de 2022. La flota de New Shepard fue aterrizada tras un fallo del motor en septiembre de 2022 en una misión de carga. El vehículo reanudó el vuelo en diciembre de 2023.\nEl NS-25 transportaba a seis pasajeros a una altitud máxima de 107 km. En T+03:12, los pasajeros experimentaron ingravidez, y en T+03:31, la cápsula pasó la línea de Kármán. El booster aterrizó siete minutos después del lanzamiento, mientras que la cápsula, desplegando sólo dos de sus tres paracaídas, aterrizó diez minutos después del despegue. Los comentaristas de lanzamiento aseguraron que la cápsula está diseñada para aterrizar con seguridad con sólo dos paracaídas.",
+  "secciones": [
+    {
+      "titulo": "Pasajeros",
+      "nivel": 2,
+      "texto": "Ed Dwight es citado a menudo como el primer candidato a astronauta afroamericano. Llegó a la segunda ronda de un programa de la Fuerza Aérea de 1961 en el que la NASA seleccionó astronautas, pero no fue seleccionado. Cuando finalmente voló como turista espacial en el vuelo suborbital de Origen Azul a la edad de 90 años, 253 días, se convirtió en la persona más antigua para llegar al espacio.\nGopichand Thotakura se convirtió en el segundo ciudadano indio en ir al espacio, y el primero en hacerlo en una misión suborbital y como turista. Un graduado de la Universidad Aeronáutica Embry-Riddle, que había fundado un programa de entrenamiento piloto y un servicio de ambulancia aérea, utilizó su puesto en el NS-25 para abogar por más escuelas piloto femeninas en la India.\nMason Angel es un capitalista de riesgo que, a través de su firma Industrious Ventures, ha invertido mucho en startups espaciales comerciales y de seguridad nacional. Es miembro de la junta directiva del Espacio para la Humanidad, el Espacio Stoke, el Espacio Xona y el Puesto Lunar.\nSylvain Chiron es el fundador de Brasserie du Mont-Blanc, una importante cervecería francesa, que a los 16 años intentó seguir una carrera como astronauta antes de convertirse en piloto de la Fuerza Aérea Francesa."
+    }
+  ],
+  "num_palabras": 360
+}

@@ -1,0 +1,40 @@
+{
+  "titulo": "Luna 5",
+  "titulo_wikipedia_en": "Luna 5",
+  "fecha_lanzamiento": "1965-05-09",
+  "año_lanzamiento": 1965,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración lunar",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Luna_5",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Destruida al impactar en la Luna",
+    "Tipo de misión": "Módulo de aterrizaje lunar",
+    "Operador": "OKB-1",
+    "Fecha de lanzamiento": "9 de mayo de 1965, 07:49:37 UTC",
+    "Lugar de lanzamiento": "Baikonur 1/5",
+    "Vehículo de lanzamiento": "Molniya-M 8K78M",
+    "ID NSSDC": "1965-036A",
+    "Masa en el lanzamiento": "1,474 kilogramos"
+  },
+  "resumen": "Luna 5, o E-6 No.10, era una sonda espacial soviética no tripulada destinada a aterrizar en la Luna como parte del programa Luna. Estaba destinado a convertirse en la primera nave espacial en lograr un aterrizaje suave en la Luna, sin embargo, sus retropropulsores fallaron, y la nave espacial impactó en la superficie lunar.",
+  "secciones": [
+    {
+      "titulo": "Lanzamiento",
+      "nivel": 2,
+      "texto": "Luna 5 fue lanzado por un cohete portador Molniya-M, volando desde el Sitio 1/5 en el Cosmódromo de Baikonur. El despegue se produjo a las 07:49:37 UTC del 9 de mayo de 1965. La nave espacial y el tramo superior Blok L entraron en una órbita baja de estacionamiento en la Tierra, antes de que el Blok L disparara para impulsar a Luna 5 hacia la Luna.\nLuna 5 se convirtió en la primera sonda soviética lanzada con éxito hacia la Luna en dos años. Entre eso y la misión anterior para lanzarse con éxito, Luna 4, hubo tres fallas de lanzamiento: E-6 No.6 y No.5 en 1964 y Kosmos 60 en 1965."
+    },
+    {
+      "titulo": "Infortunio",
+      "nivel": 2,
+      "texto": "Tras la corrección a mitad de camino el 10 de mayo, la nave espacial comenzó a girar alrededor de su eje principal debido a un problema en un giroscopio de flotación en la unidad del sistema de guía I-100. Un intento posterior de disparar el motor principal falló debido a un error de control de tierra, y el motor nunca se disparó. Como resultado de estas fallas, el intento de aterrizaje suave falló, y Luna 5 impactó en la Luna. El lugar de impacto se anunció en primer lugar como 31° S 8° O (costa de Mare Nubium), pero luego se estimó como 8° N 23° O (cerca del cráter Copérnico). Fue la segunda nave espacial soviética en llegar a la superficie de la Luna, siguiendo a Luna 2 en 1959."
+    }
+  ],
+  "num_palabras": 298
+}

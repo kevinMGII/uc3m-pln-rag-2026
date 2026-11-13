@@ -1,0 +1,61 @@
+{
+  "titulo": "STS-108",
+  "titulo_wikipedia_en": "STS-108",
+  "fecha_lanzamiento": "2001-12-05",
+  "año_lanzamiento": 2001,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/STS-108",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Lugar de lanzamiento": "KSC LC-39B",
+    "Fecha de lanzamiento": "5 de diciembre de 2001 22:19:28 UTC",
+    "Nave": "Endeavour",
+    "Fecha de aterrizaje": "17 de diciembre de 2001 17:56:13 UTC CEK Pista 15",
+    "Duración de la misión": "11 días, 19 horas, 36 minutos y 45 segundos",
+    "Inclinación orbital": "51,6 grados",
+    "Distancia recorrida": "4,8 millones de millas",
+    "Misión anterior": "STS-105",
+    "Misión siguiente": "STS-109",
+    "Programa": "Programa del Transbordador Espacial"
+  },
+  "resumen": "",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Dominic L. Gorie (3), Comandante\nMark E. Kelly (1), Piloto\nLinda M. Godwin (4), Especialista de misión\nDaniel M. Tani (1), Especialista de misión"
+    },
+    {
+      "titulo": "Tripulación de la Expedición 4 hacia la EEI",
+      "nivel": 3,
+      "texto": "Yuri I. Onufrienko (2), RSA Comandante (EEI)\nCarl E. Walz (4), Ingeniero de vuelo (EEI)\nDaniel W. Bursch (4), Ingeniero de vuelo (EEI)"
+    },
+    {
+      "titulo": "Tripulación de la Expedición 3 hacia la Tierra",
+      "nivel": 3,
+      "texto": "Frank L. Culbertson, Jr. (3) Comandante (EEI)\nMikhail Turin (1), RSA Ingeniero de vuelo (EEI)\nVladimir N. Dezhurov (2), RSA ISS Soyuz Cdr"
+    },
+    {
+      "titulo": "Parámetros de la misión",
+      "nivel": 2,
+      "texto": "Masa:\nCarga: 4.082 kg\nPerigeo: 353 km\nApogeo: 377 km\nInclinación: 51,6°\nPeríodo: 92 min"
+    },
+    {
+      "titulo": "Acoplamiento con la EEI",
+      "nivel": 3,
+      "texto": "Acoplamiento: 7 de diciembre de 2001, 20:03:29 UTC\nDesacoplamiento: 15 de diciembre de 2001, 17:28:00 UTC\nTiempo de acoplamiento: 7 días, 21 h, 24 min, 31 s"
+    },
+    {
+      "titulo": "Paseos espaciales",
+      "nivel": 3,
+      "texto": "Godwin y Tani - EVA 1\nEVA 1 Comienzo: 10 de diciembre de 2001 - 17:52 UTC\nEVA 1 Fin: 10 de diciembre de 2001 - 22:04 UTC\nDuración: 4 horas, 12 minutos"
+    }
+  ],
+  "num_palabras": 145
+}

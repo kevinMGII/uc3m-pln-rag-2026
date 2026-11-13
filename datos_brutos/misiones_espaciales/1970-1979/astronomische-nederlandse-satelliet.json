@@ -1,0 +1,35 @@
+{
+  "titulo": "Astronomische Nederlandse Satelliet",
+  "titulo_wikipedia_en": "Astronomical Netherlands Satellite",
+  "fecha_lanzamiento": "1974-08-30",
+  "año_lanzamiento": 1974,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Telescopio espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Astronomische_Nederlandse_Satelliet",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Retirado",
+    "Tipo de misión": "Observatorio espacial",
+    "Fecha de lanzamiento": "30 de agosto de 1974",
+    "Configuración": "Cilíndrica",
+    "Masa en el lanzamiento": "129 kg",
+    "Sistema de referencia orbital": "Elíptica",
+    "Periapsis": "258 Km",
+    "Inclinación orbital": "98 Grados",
+    "Periodo orbital": "99,1 minutos"
+  },
+  "resumen": "Astronomische Nederlandse Satelliet o ANS (también conocido como Astronomical Netherlands Satellite) fue un observatorio espacial de rayos X y ultravioleta construido en los Países Bajos en colaboración con la NASA.\nFue lanzado el 30 de agosto de 1974 en un cohete Scout desde la base aérea de Vandenberg, en Estados Unidos, hacia una órbita heliosincrónica. La misión duró 20 meses, hasta junio de 1976, y fue financiada conjuntamente por el Instituto Holandés de Investigación Espacial (NIVR) y la NASA. ANS fue el primer satélite holandés, y el asteroide del Cinturón Principal 9996 ANS recibió su nombre. ANS volvió a entrar en la atmósfera terrestre el 14 de junio de 1977.\nANS podía medir fotones en el rango energético de 2 a 30 keV con un detector de 60 cm², y se utilizó para encontrar las posiciones de fuentes de rayos X galácticas y extragalácticas. También midió sus espectros y observó sus variaciones en el tiempo. Descubrió estallidos de rayos X y también detectó rayos X procedentes de Capella.\nANS también observó en la parte ultravioleta del espectro, con un telescopio Cassegrain de 22 cm (260 cm²) que las longitudes de onda de los fotones observados estaban comprendidas entre 150 y 330 nm, y el detector estaba dividido en cinco canales con longitudes de onda centrales de 155, 180, 220, 250 y 330 nm. En estas frecuencias realizó más de 18.000 mediciones de unos 400 objetos.",
+  "secciones": [
+    {
+      "titulo": "Especificaciones",
+      "nivel": 2,
+      "texto": "Masa: 129 kg\nPerigeo: 258 km\nApogeo: 1173 km\nInclinación orbital: 98 grados\nPeríodo: 99,1 min"
+    }
+  ],
+  "num_palabras": 251
+}

@@ -1,0 +1,31 @@
+{
+  "titulo": "ASTRO-F",
+  "titulo_wikipedia_en": "Akari (space telescope)",
+  "fecha_lanzamiento": "2006-02-21",
+  "año_lanzamiento": 2006,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Telescopio espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/ASTRO-F",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Activo",
+    "Tipo de misión": "Observatorio espacial",
+    "Operador": "TAXA",
+    "Fecha de lanzamiento": "21 de febrero de 2006",
+    "Configuración": "Cilíndrica",
+    "Masa en el lanzamiento": "955 kg",
+    "Propulsión": "Sin Propulsión",
+    "Sistema de referencia orbital": "Circular",
+    "Periapsis": "694,5 km",
+    "Periodo orbital": "96,6 minutos",
+    "Instrumentos": "FIS Far Infrared Surveyor\nNIR Near Infrared Camera\nMIR-S Middle Infrared Shorter Camera\nMIR-L Middle Infrared Longer Camera"
+  },
+  "resumen": "ASTRO-F (o Akari) es un satélite de astronomía infrarroja diseñado por la JAXA, en colaboración con universidades e institutos técnicos de Europa y la India. Fue lanzado el 21 de febrero de 2006 por un cohete M-V a una órbita polar terrestre. Tras el lanzamiento fue rebautizado como Akari, que significa \"luz\" en japonés.\nSu misión principal es escanear el cielo entero en infrarrojo cercano, medio y lejano a través de su telescopio de 68,5 cm de diámetro, que será mantenido durante las observaciones a una temperatura de 6 K para evitar interferencias con la radiación infrarroja que emitiría el propio telescopio.\nSe espera que los sensores de infrarrojos lejanos y medios duren unos 550 días, limitados como están por el helio líquido que funciona a modo de refrigerante. El sensor de infrarrojos cercanos podrá continuar operando una vez se agote el refrigerante gracias a un sistema de refrigeración mecánica. El satélite consta de los siguientes instrumentos:\nFIS Far Infrared Surveyor: Instrumento sensor de infrarrojos lejanos\nNIR Near Infrared Camera: Instrumento sensor de infrarrojos cercanos\nMIR-S Middle Infrared Shorter Camera: Sensor de infrarrojos medios con longitudes de onda menores\nMIR-L Middle Infrared Longer Camera: Sensor de infrarrojos medios a longitudes de onda mayores\nEntre los objetivos científicos de esta misión cabe destacar los siguientes:\nEstudiar el origen y la evolución de las galaxias\nEstudiar el nacimiento y muerte de las estrellas\nBuscar enanas marrones\nEstudiar los procesos de formación de sistemas planetarios\nDescubrir nuevos cometas",
+  "secciones": [],
+  "num_palabras": 245
+}

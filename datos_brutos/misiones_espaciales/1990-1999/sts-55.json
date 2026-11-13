@@ -1,0 +1,58 @@
+{
+  "titulo": "STS-55",
+  "titulo_wikipedia_en": "STS-55",
+  "fecha_lanzamiento": "1993-04-26",
+  "año_lanzamiento": 1993,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/STS-55",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Otros nombres": "Sistema de Transporte Espacial-55\nSpacelab D-2",
+    "Tipo de misión": "Investigación sobre la microgravedad",
+    "Operador": "NASA y DLR",
+    "Distancia recorrida": "6701603 km",
+    "Órbitas completadas": "160",
+    "Masa en el aterrizaje": "103191 kg",
+    "Masa de la carga útil": "11539 kg",
+    "Tripulación": "Steven R. Nagel; Terence T. Henricks; Jerry L. Ross; Charles J. Precourt; Bernard A. Harris Jr.; Ulrich Walter; Hans Schlegel",
+    "Fecha de lanzamiento": "26 de abril de 1993, 14:50:00 UTC (10:50 am EDT)",
+    "Lugar de lanzamiento": "Kennedy, LC-39A",
+    "Contratista del lanzamiento": "Rockwell Internacional",
+    "Fecha de aterrizaje": "6 de mayo de 1993, 14:29:59 UTC (7:29:59 am PDT)",
+    "Lugar de aterrizaje": "Edwards, Pista 22",
+    "Sistema de referencia orbital": "Órbita geocéntrica",
+    "Régimen orbital": "Órbita terrestre baja",
+    "Periapsis": "304 km",
+    "Apoapsis": "312 km",
+    "Inclinación orbital": "28.45°",
+    "Periodo orbital": "90,70 minutos",
+    "Programa": "Programa de transporte espacial",
+    "Misión anterior": "STS-56 (54)",
+    "Misión siguiente": "STS-57 (56)"
+  },
+  "resumen": "STS-55, o Deutschland 2 (D-2), fue el 55o vuelo total del transbordador espacial NASA y el 14o vuelo del transbordador Columbia. Este vuelo fue un vuelo multinacional de Spacelab que incluyó 88 experimentos de once naciones diferentes. Los experimentos iban desde ciencias biológicas hasta simples observaciones de la Tierra.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Lanzamiento",
+      "nivel": 2,
+      "texto": "En un principio se había previsto que Colombia se lanzara a fines de febrero de 1993. Sin embargo, esta fecha se deslizó hasta principios de marzo de 1993 debido a las preocupaciones con los retenedores de la punta-sello en las turbobombas oxidantes de los motores principales. Las tres turbobombas fueron reemplazadas en la plataforma, pero la inspección posterior reveló que los retenedores estaban en buenas condiciones. Otros retrasos fueron causados por el estallido de una manguera flex hidráulica en el compartimento de popa durante la prueba de preparación de vuelo (FRT). Las líneas fueron retiradas e inspeccionadas y se instalaron tres recambios."
+    },
+    {
+      "titulo": "Aspectos destacados de la misión",
+      "nivel": 2,
+      "texto": "Columbia llevó a órbita el segundo Spacelab D-2 alemán reutilizable y demostró la capacidad del transbordador para la cooperación internacional, la exploración y la investigación científica en el espacio. El módulo Spacelab y una estructura de apoyo para experimentos exteriores contenida en la bahía de carga útil de Columbia comprendían la carga útil Spacelab D-2. El primer vuelo alemán del Spacelab, D-1, voló la misión del transbordador STS-61-A en octubre de 1985. Los Estados Unidos y Alemania adquirieron una valiosa experiencia para las operaciones futuras de las estaciones espaciales.\nLa misión D-2, como comúnmente se llamaba, aumentó el programa alemán de investigación de la microgravedad iniciado por la misión D-1. El Centro Aeroespacial Alemán (DLR) había sido encargado por la Agencia Espacial Alemana (DARA – Deutsche Agentur für Raumfahrtangelegenheiten) para llevar a cabo la segunda misión. DLR, NASA, la Agencia Espacial Europea (ESA) y agencias en Francia y Japón contribuyeron al programa científico de D-2. Once naciones participaron en los experimentos. De los 88 experimentos realizados en la misión D-2, cuatro fueron patrocinados por la NASA.\nLa tripulación trabajó en dos turnos las 24 horas del día para completar investigaciones en las áreas de física de fluidos, ciencias de materiales, ciencias de la vida, ciencias biológicas, tecnología, observaciones de la Tierra, física atmosférica y astronomía. Muchos de los experimentos avanzaron en la investigación de la misión D-1 mediante la realización de pruebas similares, el uso de hardware de procesamiento actualizado, o métodos de implementación que aprovecharon plenamente los avances técnicos desde 1985. La misión D-2 también contenía varios experimentos nuevos que no se habían realizado anteriormente en la misión D-1.\nLa misión superó el día 365 en el espacio para la flota del Transbordador Espacial y el día 100 del tiempo de vuelo en el espacio para Columbia, el más antiguo orbitador del Transbordador Espacial de la flota, en su decimocuarto vuelo.\nD-2 marcó la primera captura telerobótica de un objeto flotante libre por los controladores de vuelo en Alemania. La tripulación llevó a cabo la primera inyección de solución salina intravenosa en el espacio como parte de un experimento para estudiar la respuesta del cuerpo humano a la sustitución directa de fluidos como contramedida para las cantidades perdidas durante el vuelo espacial. También completaron con éxito un procedimiento de mantenimiento en vuelo para la recogida de aguas residuales en órbita, que permitió que la misión continuara.\nLos miembros de la tripulación del STS-55 participaron en dos experimentos de radioaficionados, el SAREX II de los Estados Unidos y el SAFEX alemán. Estos experimentos permitieron a estudiantes y operadores de radio aficionados de todo el mundo hablar directamente con el transbordador espacial en órbita y participaron en una conferencia SpaceMedicine con la Clínica Mayo."
+    }
+  ],
+  "num_palabras": 604
+}

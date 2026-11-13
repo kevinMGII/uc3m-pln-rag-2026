@@ -1,0 +1,19 @@
+{
+  "titulo": "SHIELDS",
+  "titulo_wikipedia_en": "SHIELDS",
+  "fecha_lanzamiento": "2021",
+  "año_lanzamiento": 2021,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Telescopio espacial"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/SHIELDS",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {},
+  "resumen": "La misión del Espectrómetro de Dinámica de Líneas de Emisión Interferométricas de Heterodino Espacial (SHIELDS) está destinada a estudiar la luz de partículas interestelares que se han desplazado hacia el Sistema Solar con el fin de conocer los alcances más cercanos del espacio interestelar. El propósito de la misión es adquirir un mapa espacial de la emisión ultravioleta solar dispersa del hidrógeno interplanetario que ha cruzado y ha sido modificado por la acumulación de iones a lo largo del borde exterior de la heliosfera. SHIELDS fue lanzado con éxito por la NASA el 19 de abril de 2021, desde el campo de misiles White Sands, en Nuevo México. A bordo de un cohete sondador, la misión es muy corta: un instrumento permanece en el espacio durante unos minutos.",
+  "secciones": [],
+  "num_palabras": 128
+}

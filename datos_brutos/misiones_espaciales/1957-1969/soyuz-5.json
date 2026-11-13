@@ -1,0 +1,44 @@
+{
+  "titulo": "Soyuz 5",
+  "titulo_wikipedia_en": "Soyuz 5",
+  "fecha_lanzamiento": "1969-01-15",
+  "año_lanzamiento": 1969,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Soyuz_5",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Masa en el lanzamiento": "6625 kg",
+    "Fecha de lanzamiento": "15 de enero de 1969",
+    "Nave": "Soyuz 7K-OK",
+    "Fecha de aterrizaje": "18 de enero de 1969",
+    "Duración de la misión": "3,04 días",
+    "Programa": "Programa Soyuz",
+    "Misión anterior": "Soyuz 4",
+    "Misión siguiente": "Soyuz 6"
+  },
+  "resumen": "Soyuz 5 fue una misión tripulada de una nave Soyuz 7K-OK lanzada el 15 de enero de 1969 desde el cosmódromo de Baikonur con tres cosmonautas a bordo para encontrarse y acoplarse con la Soyuz 4, ya en órbita.\nA 25 minutos del lanzamiento se produjo un problema con una de las piezas del sistema eléctrico de la nave, siendo sustituida. También se descubrió que solo había tres de los cuatro pernos de la escotilla de la nave, pero se decidió que podía despegar de todos modos.\nLa Soyuz 5 se encontró y acopló con la Soyuz 4 en órbita, pasando dos de sus tripulantes a la última nave y regresando en ella a la Tierra junto con su ocupante original.\nAl intentar el regreso se encontró que la cápsula de reentrada de la Soyuz 5 no conseguía desprenderse del módulo de servicio, lo que resultó en una reentrada con la parte anterior por delante, potencialmente desastrosa dado que se trataba de la parte no protegida por el escudo térmico. En el último momento los pernos que unían el módulo de reentrada con el módulo de servicio se fundieron debido al calor de la reentrada y el módulo de reentrada se reorientó para poner el escudo térmico por delante, salvando a su único ocupante, el cosmonauta Borís Volinov, a pesar de que debido a los problemas la reentrada fue de tipo balístico y se alcanzó hasta nueve veces el valor de la aceleración de la gravedad. Volinov se rompió varios dientes durante el aterrizaje debido a un fallo del sistema de cohetes que hacen el aterrizaje más suave. La Soyuz 5 aterrizó en los montes Urales, a varios cientos de kilómetros del punto de aterrizaje planeado. Volinov decidió salir por su propio pie de la cápsula, consciente de que el equipo de rescate tardaría horas en llegar y de que la temperatura local era de -38 °C. Se refugió en la casa de un habitante de la zona hasta que llegó el equipo de rescate.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Durante el lanzamiento:\nBorís Volinov (Comandante)\nAleksei Yeliseyev (Ingeniero de vuelo)\nYevgeny Khrunov (Especialista científico)\nEn el aterrizaje:\nBorís Volinov (Comandante)"
+    },
+    {
+      "titulo": "Tripulación de respaldo",
+      "nivel": 2,
+      "texto": "Anatoly Filipchenko (Comandante)\nViktor Gorbatko (Ingeniero de vuelo)\nValeri Kubasov (Especialista científico)"
+    },
+    {
+      "titulo": "Tripulación de reserva",
+      "nivel": 2,
+      "texto": "Anatoli Kuklin (Comandante)\nVladislav Vólkov (Ingeniero de vuelo)\nPyotr Kolodin (Especialista científico)"
+    }
+  ],
+  "num_palabras": 380
+}

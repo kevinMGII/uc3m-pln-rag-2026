@@ -1,0 +1,43 @@
+{
+  "titulo": "Kosmos 300",
+  "titulo_wikipedia_en": "Kosmos 300",
+  "fecha_lanzamiento": "1969-09-23",
+  "año_lanzamiento": 1969,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración lunar"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Kosmos_300",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Operador": "Programa espacial soviético",
+    "ID COSPAR": "1969-080A",
+    "Nº SATCAT": "4104",
+    "Tipo de misión": "Retorno de la muestra lunar",
+    "Tipo de nave": "Ye-8-5",
+    "Fabricante": "GSMZ Lavochkin",
+    "Masa en el lanzamiento": "5600 kg",
+    "Fecha de lanzamiento": "23 de septiembre de 1969, 14:07:00 UTC",
+    "Vehículo de lanzamiento": "Proton-K/D",
+    "Lugar de lanzamiento": "Baikonur 81/24",
+    "Tipo de fin de misión": "Fallo de lanzamiento",
+    "Fecha de reentrada": "27 de septiembre de 1969",
+    "Sistema de referencia orbital": "Geocéntrico",
+    "Periapsis": "184 km",
+    "Apoapsis": "189 km",
+    "Inclinación orbital": "51.5°",
+    "Periodo orbital": "88,2 min",
+    "Programa": "Programa Luna",
+    "Misión anterior": "Luna 15",
+    "Misión siguiente": "Kosmos 305",
+    "Programa (2)": "Kosmos (satélites)",
+    "Misión anterior (2)": "Kosmos 299",
+    "Misión siguiente (2)": "Kosmos 301"
+  },
+  "resumen": "Kosmos 300 (en ruso: â € 300 que significa Cosmos 300) (serie Ye-8-5) fue el cuarto intento soviético de un retorno de muestra lunar sin crear. Probablemente fue similar en diseño a la nave espacial Luna 16. Fue lanzado en un cohete Proton el 23 de septiembre de 1969. La misión fue un fracaso. Los motores en la etapa superior del bloque D fallaron debido a una fuga oxidante, dejando que la nave espacial se queme en la atmósfera de la Tierra.",
+  "secciones": [],
+  "num_palabras": 82
+}

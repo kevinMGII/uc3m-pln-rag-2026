@@ -1,0 +1,64 @@
+{
+  "titulo": "Lunar Flashlight",
+  "titulo_wikipedia_en": "Lunar Flashlight",
+  "fecha_lanzamiento": "2022-12-11",
+  "año_lanzamiento": 2022,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración lunar",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Lunar_Flashlight",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "En curso",
+    "Tipo de misión": "Orbitador lunar",
+    "Nave": "Lunar Flashlight",
+    "Tipo de nave": "Cubesat",
+    "Fabricante": "Laboratorio de Propulsión a Chorro (JPL)",
+    "Masa en el lanzamiento": ">14 kg",
+    "Fecha de lanzamiento": "11 de diciembre de 2022, 07:38:23 UTC",
+    "Vehículo de lanzamiento": "Falcon 9 Bloque 5",
+    "Lugar de lanzamiento": "Plataforma 40, Cabo Cañaveral",
+    "Contratista del lanzamiento": "SpaceX",
+    "Sistema de referencia orbital": "Selenocéntrica",
+    "Régimen orbital": "Órbita Polar",
+    "Periapsis": "20 km",
+    "Apoapsis": "1000 a 5000 km",
+    "Inclinación orbital": "90°",
+    "Banda de transmisión": "Banda X",
+    "Trans capacidad": ">10 kbps"
+  },
+  "resumen": "Lunar Flashlight es una misión de bajo presupuesto de NASA, que se compone de un cubesat que orbitará la Luna explorando, localizando y estudiando el tamaño y composición de los depósitos de hielo de agua en la Luna, para su futura explotación.\nLa nave tiene un formato 6U Cubesat, que fue desarrollada por un equipo del Laboratorio de Propulsión a Chorro (JPL), el Centro de Vuelo Espacial Goddard (GSFC), el Instituto de Tecnología de Georgía (GT) y el Centro Marshall de Vuelos Espaciales de NASA.\nEsta misión se seleccionó a principios de 2015 por Advanced Exploration Systems (AES) de la NASA para su lanzamiento durante 2022 como carga útil secundaria de la misión Artemis I, pero el intento se frustró al perder la ventana de integración para ser incluido dentro de la carga útil.\nFinalmente, se lanzó el 11 de diciembre junto al aterrizador japonés HARUTO-R 1 en el cohete Falcon 9 de SpaceX.",
+  "secciones": [
+    {
+      "titulo": "Historia",
+      "nivel": 2,
+      "texto": "Tras la observación de misiones lunares de depósitos de agua (H2O) e hidroxilo (OH-) en latitudes altas de la superficie lunar en 2009, lo que indica presencia de trazas de agua absorbida. Esas misiones sugieren que podría haber suficiente agua helada en las regiones polares para ser utilizada en futuras misiones, pero la distribución es difícil de conciliar con los mapas térmicos.\nLa planificación de eventuales misiones humanas a Marte dependerá del aprovechamiento de los recursos naturales para la producción de oxígeno y propulsión para lanzar la nave de regreso a la Tierra, y una misión precursora lunar es un lugar conveniente para probar dicha tecnología de utilización de recursos in situ (ISRU).\nLa carga útil del instrumento científico es un reflectómetro láser infrarrojo de onda corta (SWIR) compacto."
+    },
+    {
+      "titulo": "Visión general",
+      "nivel": 2,
+      "texto": "La nave espacial maniobrará a su órbita polar lunar y utilizará sus láseres infrarrojos cercanos para iluminar las regiones polares sombreadas, mientras que el espectrómetro a bordo mide la reflexión y composición de la superficie. Barbara Cohen del Centro Marshall de Vuelos Espaciales de la NASA es la investigadora principal."
+    },
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "El objetivo de Lunar Flashlight es determinar la presencia o ausencia de hielo de agua expuesto y su estado físico, y mapear su concentración en la escala de 1-2 kilómetros dentro de las regiones permanentemente sombreadas del polo sur lunar. La misión será uno de los primeros CubeSats en llegar a la Luna, y la primera misión en usar láseres para buscar hielo de agua. Cualquier dato volátil polar recopilado por Lunar Flashlight podría garantizar los sitios de aterrizaje más apropiados para que un rover más caro realice mediciones in situ y análisis químicos."
+    },
+    {
+      "titulo": "Carga útil científica",
+      "nivel": 2,
+      "texto": "La carga útil de este cubesat es un espectrómetro infrarrojo, que consiste en un lente, divisores de haz dicroico y múltiples detectores en un solo elemento. Utiliza dos de seis módulos del bus cubesat 6U. El sistema de control de actitud (XACT-50 de Blue Canyon Technologies), el comando y el manejo de datos, y los sistemas de potencia ocuparán 1.5U; mientras el sistema de telecomunicaciones Iris ocupará 0.5U.\nLa carga científica se deriva de algunos sistemas predecesores, incluidos INSPIRE (Interplanetary Nano-Spacecraft Pathfinder In Relevant Environment) de JPL, MARCO (Mars Cube One) y la experiencia de JPL con espectrómetros, incluido el Moon Mineralogy Mapper (M3). El bus cubesat 6U utilizará principalmente componentes comerciales listo para usar (COTS), como las baterías de iones de litio, la placa de CPU, los paneles solares HaWK producidos por MMA Design LLC, el rastreador de estrellas y las ruedas de reacción de tres ejes para el control de actitud. La CPU es un 'Multiprocesador Rad-Tol Confiable'. JPL proporcionará el transpondedor Iris que proporciona tiempo, navegación y telecomunicación en la banda X que será monitoreado con la Red de Espacio Profundo de NASA."
+    },
+    {
+      "titulo": "Diseño y trayectoria de la nave espacial",
+      "nivel": 2,
+      "texto": "La nave espacial Lunar Flashlight se separó de la segunda etapa del Falcon 9 después de la inyección translunar, tras lo cual utilizará un sensor solar y paneles solares para alimentar las ruedas de reacción de tres ejes. También cuenta con un sistema químico de propulsión y orientación monopropelente construido por el Laboratorio de Diseño de Sistemas Espaciales de Georgia Tech. El sistema de propulsión ocupa 3U de volumen, incluidos 2 kg de monopropelente AF-M315E, un monopropelente menos tóxico que se utiliza en lugar de hidracina. La intrincada unidad de gestión de propulsores se fabricó mediante fabricación aditiva.\nLa nave espacial será la segunda en utilizar una órbita de halo casi rectilínea, la primera fue la misión CAPSTONE. El concepto original proponía una trayectoria que apuntaría a múltiples sobrevuelos lunares, y posiblemente incluiría una asistencia gravitatoria de la Tierra; habría sido capturado en una órbita polar lunar uno o dos meses después del lanzamiento, dependiendo de la trayectoria seleccionada."
+    }
+  ],
+  "num_palabras": 772
+}

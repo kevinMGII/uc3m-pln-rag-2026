@@ -1,0 +1,61 @@
+{
+  "titulo": "STS-86",
+  "titulo_wikipedia_en": "STS-86",
+  "fecha_lanzamiento": "1997-09-26",
+  "año_lanzamiento": 1997,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/STS-86",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Otros nombres": "Sistema de Transporte Espacial-86",
+    "Tipo de misión": "Shuttle-Mir",
+    "Operador": "NASA",
+    "Órbitas completadas": "170",
+    "Distancia recorrida": "7000000 km",
+    "Duración de la misión": "10 días, 19 horas, 22 minutos, 12 segundos",
+    "Masa en el aterrizaje": "114185 kg",
+    "Masa de la carga útil": "8375 kg",
+    "Lugar de lanzamiento": "Kennedy, LC-39A",
+    "Fecha de lanzamiento": "26 de septiembre de 1997, 02:34:19 UTC",
+    "Fecha de aterrizaje": "6 de octubre de 1997, 21:55 UTC",
+    "Lugar de aterrizaje": "Kennedy, SLF Runway 15",
+    "Tripulación": "James D. Wetherbee; Michael J. Bloomfield; Vladimir G. Titov; Scott E. Parazynski; Jean-Loup Chrétien; Wendy B. Lawrence",
+    "Tripulación en el lanzamiento": "David A. Lobo",
+    "Tripulación en el aterrizaje": "C. Michael Foale",
+    "Acoplamiento": "destino de acoplamiento: Mir | tipo de acoplamiento: muelle | puerto de acoplamiento: SO estribor | fecha de acoplamiento: 27 de septiembre de 1997, 19:58 UTC | fecha de acoplamiento: 3 de octubre de 1997, 17:28:15 UTC | tiempo acoplado: 5 días, 21 horas, 30 minutos 15 segundos",
+    "Sistema de referencia orbital": "Geocéntrico",
+    "Régimen orbital": "Órbita terrestre baja",
+    "Periapsis": "354 km",
+    "Apoapsis": "381 km",
+    "Periodo orbital": "91,9 min",
+    "Inclinación orbital": "51,6 grados",
+    "Programa": "Programa de transporte espacial",
+    "Misión anterior": "STS-85 (86)",
+    "Misión siguiente": "STS-87 (88)"
+  },
+  "resumen": "STS-86 fue una misión del transbordador espacial Atlantis a la estación espacial Mir. Esta fue la última misión de Atlantis antes de que fuera sacada temporalmente para mantenimiento y mejoras, incluyendo la cabina de cristal.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Paseo espacial",
+      "nivel": 3,
+      "texto": "Parazynski y Titov – EVA 1\nEVA 1 Inicio: 1 de octubre de 1997 – 17:29 UTC\nEVA 1 Fin: 1 de octubre de 1997 – 22:30 UTC\nDuración: 5 horas, 01 minutos"
+    },
+    {
+      "titulo": "Aspectos destacados de la misión",
+      "nivel": 2,
+      "texto": "STS-86 fue la séptima misión de acoplamiento de Mir. Llevaba un módulo doble SPACEHAB para el acoplamiento con Mir, transferencia de carga y un intercambio de astronautas. Las misiones anteriores de la lanzadera fueron STS-71, STS-74, STS-76, STS-79, STS-81 y STS-84. La misión continuó con la presencia de un astronauta estadounidense en la estación espacial rusa con el traslado del médico David A. Wolf a Mir. Wolf se convirtió en el sexto astronauta estadounidense en la sucesión de vivir en Mir para continuar la Fase 1B del esfuerzo cooperativo NASA/Agencia Espacial Rusa. Sin embargo, las dificultades encontradas por Foale y su predecesor a bordo de Mir, Jerry Linenger, habían resultado en una intensa presión política sobre la NASA. La decisión final entre la terminación de la tripulación de la NASA de Mir con la salida de Foale, o su reemplazo programado por David Wolf fue tomada sólo por el Administrador de la NASA Daniel Goldin la noche antes del lanzamiento de STS-86.\nFoale regresó a la Tierra después de pasar 145 días en el espacio, 134 de ellos a bordo de Mir. Su kilometraje estimado registrado fue de 58 millones de millas (93 millones de kilómetros), haciendo su segundo vuelo espacial más largo de EE.UU., detrás del récord de Shannon Lucid de 188 días. Su estancia se vio afectada por una colisión el 25 de junio entre un vehículo de reabastecimiento Progress y el módulo Spektr de la estación, dañando un radiador y uno de los cuatro conjuntos solares en Spektr. El percance ocurrió mientras el Comandante Vasili Tsibliev, Mir 23, guiaba la cápsula Progress hacia un acoplamiento manual y despresurizó la estación. La tripulación selló la escotilla al módulo Spektr, dejando dentro de los efectos personales de Foale y varios experimentos científicos de la NASA, y reprimió los módulos restantes.\nSe planeó una caminata espacial interna de Tsibliev y Mir 23, ingeniero de vuelo Aleksandr Lazutkin, para reconectar los cables de alimentación a los tres conjuntos solares no dañados, pero durante un examen médico rutinario el 13 de julio se encontró que Tsibliev tenía un latido cardíaco irregular. Foale entonces comenzó a entrenar para la caminata espacial, pero durante uno de los ejercicios de entrenamiento un cable de alimentación fue desconectado inadvertidamente, dejando la estación sin energía. El 21 de julio, se anunció que la caminata espacial interna no sería dirigida por la tripulación Mir 23, sino por sus sucesores en Mir 24. El 30 de julio, la NASA anunció que Wendy Lawrence, originalmente asignada para suceder a Foale en Mir, permanecería en el transbordador, con el respaldo de David Wolf tomando su lugar en Mir. El cambio se consideró necesario porque Lawrence era demasiado pequeño para el traje Orlan utilizado para los paseos espaciales rusos. Aunque el plan inicial había consistido en transferir a Lawrence a Mir sin adiestramiento en caminatas espaciales, la necesidad de reparar el módulo Spektr requería un astronauta capaz de caminar desde el espacio.\nTras su llegada a la estación el 7 de agosto, el comandante Mir 24 Anatoly Solovyev y el ingeniero de vuelo Pavel Vinogradov realizaron la caminata espacial interna dentro del módulo Spektr despresurizado el 22 de agosto, reconectando 11 cables de energía de los conjuntos solares de Spektr a una nueva escotilla hecha a medida para el Spektr. Durante la caminata espacial, Foale permaneció dentro de la cápsula de Soyuz unida a Mir, en constante comunicación con los cosmonautas, así como controladores de tierra. El 5 de septiembre, Foale y Solovyev realizaron una actividad extravehicular externa de seis horas para inspeccionar los daños fuera de Spektr y tratar de determinar dónde se produjo la rotura del casco del módulo. Dos conjuntos no dañados fueron reposicionados manualmente para recoger mejor la energía solar, y un dispositivo de radiación dejado previamente por Jerry Linenger fue recuperado.\nEl atraque de Atlantis y Mir tuvo lugar a las 3:58 pm EDT, 27 de septiembre, con los dos comandantes de la misión abriendo las escotillas de la nave espacial a las 5:45 pm Wolf se unió oficialmente al Mir 24 al mediodía EDT, 28 de septiembre. Al mismo tiempo, Foale se convirtió en miembro de la tripulación de STS-86 y comenzó a trasladar sus pertenencias personales de nuevo a Atlantis. Wolf fue finalmente reemplazado por el séptimo y último astronauta estadounidense en transferirse a Mir, Andrew S. W. Thomas, cuando el orbitador Endeavour atracó con la estación espacial rusa durante la misión STS-89 en enero de 1998.\nLa primera actividad extravehicular conjunta entre Estados Unidos y Rusia durante una misión del transbordador, que fue también la 39a en el programa del transbordador espacial, fue dirigida por Titov y Parazynski. Durante la caminata espacial de cinco horas y un minuto el 1 de octubre, el par colocó una tapa de array solar de 55 kg al módulo de acoplamiento para su uso futuro por los miembros de la tripulación de Mir para sellar la presunta fuga en el casco de Spektr. Parazynski y Titov también recuperaron cuatro cargas útiles Mir Environmental Effects (MEEPS) desde el exterior de Mir y probaron varios componentes de los jet packs Simplified Aid for EVA Rescue (SAFER). La caminata espacial comenzó a las 1:29 pm EDT y terminó a las 6:30 pm\nDurante los seis días de operaciones atracadas, las tripulaciones conjuntas Mir 24 y STS-86 transfirieron más de cuatro toneladas de material del Módulo Doble SPACEHAB a Mir, incluidos aproximadamente 771 kg de agua, equipo de experimentos para experimentos de mitigación de riesgos de la Estación Espacial Internacional para vigilar el Mir para la salud y seguridad de la tripulación, una girodyne, baterías, tres unidades de presurización de aire con aire respirable, una computadora de control de actitud y muchos otros elementos logísticos. La nueva computadora de control de movimiento reemplazó una que había experimentado problemas en los últimos meses. La tripulación también trasladó muestras experimentales y hardware y un viejo generador de oxígeno Elektron a Atlantis para regresar a la Tierra. El desenganche tuvo lugar a las 13:28 horas EDT, 3 de octubre. Después de untocking, Atlantis realizó una inspección visual de 46 minutos de vuelo alrededor de Mir. Durante esta maniobra, Solovyev y Vinogradov abrieron una válvula de regulación de presión para permitir que el aire entrara en el módulo Spektr para ver si los miembros de la tripulación STS-89 podían detectar filtraciones o partículas de desechos que pudieran indicar la ubicación de la brecha en el casco del módulo dañado.\nDurante el vuelo, Wetherbee y Bloomfield dispararon pequeños propulsores a reacción en Atlantis para proporcionar datos para el Mir Structural Dynamics Experiment (MISDE), que mide perturbaciones a los componentes de la estación espacial y sus conjuntos solares. Otros experimentos realizados durante la misión fueron la investigación Comercial Protein Crystal Growth; el Experimento del Módulo de Cultivo Celular (CCM-A), el Monitor de Efectos y Activación de Radiación Cósmica (CREAM) y el Experimento de Monitoreo de Radiación-III (RME-III); el experimento de Modificación Ionosférica con Exhausto Local Pulsado (SIMPLE); y el Experimento Espacial Midcourse. También se llevaron a cabo dos programas de divulgación educativa de la NASA, Semillas en el Espacio-II y KidSat."
+    }
+  ],
+  "num_palabras": 1251
+}

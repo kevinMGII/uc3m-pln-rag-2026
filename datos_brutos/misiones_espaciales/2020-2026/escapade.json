@@ -1,0 +1,68 @@
+{
+  "titulo": "ESCAPADE",
+  "titulo_wikipedia_en": "ESCAPADE",
+  "fecha_lanzamiento": "2025-11-13",
+  "año_lanzamiento": 2025,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración de Marte",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/ESCAPADE",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Otros nombres": "SIMPLEx-4A (azul)\nSIMPLEx-4B (Oro)",
+    "ID COSPAR": "2025-260A (Blue)\n2025-260B (Gold)",
+    "Nº SATCAT": "66451 (Blue)\n66452 (Gold)",
+    "Tipo de misión": "Orbiters de Marte",
+    "Operador": "NASA",
+    "Duración de la misión": "Total:\n3 años, 7 meses (previsto)\n(elapsado)\nMisión científica:\n11 meses (previstos)",
+    "Nave": "Azul y oro",
+    "Plataforma (bus)": "Explorador",
+    "Fabricante": "Rocket Lab",
+    "Masa en el lanzamiento": "Total: 1070 kg\nIndividual: 535 kg",
+    "Masa en seco": "Total: 418 kg\nIndividual: 209 kg",
+    "Dimensiones": "Estucado: 1,20 xx\nDesplegado: 4.88 xx",
+    "Potencia": "Modo científico (nominal): 128 vatios\nMarte (afelión): 288 vatios",
+    "Fecha de lanzamiento": "13 de noviembre de 2025, 20:55:01 UTC (3:55:01 pm EST)",
+    "Vehículo de lanzamiento": "Nuevo Glenn 7×2",
+    "Lugar de lanzamiento": "Cabo Cañaveral, LC-36A",
+    "Contratista del lanzamiento": "Origen azul",
+    "Sistema de referencia orbital": "Areocéntrico",
+    "Periapsis": "160 km",
+    "Apoapsis": "7000 –",
+    "Inclinación orbital": "60°",
+    "Ancho de banda": "Banda X",
+    "Datos interplanetarios": "tipo: flyby | objeto: Tierra | fecha de llegada: 7–9 de noviembre, 2026 | distancia: 1046 –\nTipo: orbitador | objeto: Marte | fecha de llegada: septiembre 2027 (planificado)",
+    "Instrumentos": "acrónimo1: EMAG ; ESCAPADE Magnetómetro ; acrónimo2: EESA ; ESCAPADE Electrostatic Analyzer ; acrónimo3: ELP ; ESCAPADE Langmuir Probe ; acrónimo4: VISIONES ; Sistema de Observación Visible e Infrarroja",
+    "Programa": "Programa SIMPLEx",
+    "Misión anterior": "Lunar Trailblazer"
+  },
+  "resumen": "Escape and Plasma Acceleration and Dynamics Explorers (ESCAPADE) es una misión espacial a Marte que consiste en dos naves espaciales conocidas como Blue y Gold, que se lanzó en noviembre de 2025. La nave espacial gemela estudiará la magnetosfera de Marte y cómo el viento solar contribuyó a la pérdida de la mayor parte de la atmósfera del planeta sobre la historia del Sistema Solar. Además de sus objetivos científicos, la misión está diseñada para demostrar la exploración espacial planetaria de bajo costo. La misión está dirigida por el Laboratorio de Ciencias Espaciales de UC Berkeley con el Dr. Robert Lillis como investigador principal. Es parte del programa SIMPLEx de la NASA.",
+  "secciones": [
+    {
+      "titulo": "Vehículo espacial",
+      "nivel": 2,
+      "texto": "Cada nave espacial ESCAPADE tiene una masa seca de ~200 kg (440 lb), con una masa húmeda de 535 kg (1.179 lb). El autobús espacial está basado en el autobús espacial Rocket Lab Explorer y es de aproximadamente 1,20 × 1,65 × 1,09 m (3 pies 11 en × 5 pies 5 en × 3 pies 7 pulgadas). La nave espacial está alimentada por dos alas de la matriz solar que cuando está completamente desplegado es de aproximadamente 4,88 × 1,65 × 1,09 m (16,0 × 5,4 × 3,6 pies). Los autobuses espaciales se ampliaron drásticamente de la misión original que se suponía que iba a enganchar un viaje en Psique. Después de un cambio en el vehículo de lanzamiento hizo imposible para los orbitadores duales más pequeños llegar a Marte mientras estaban conectados a Psique, un lanzador separado tuvo que ser utilizado que permitía autobuses espaciales más grandes. Las dimensiones originales de cada nave espacial ESCAPADE fueron de 90 kg (200 lb) y 60 × 70 × 90 cm (24 × 28 × 35 pulgadas).\nPropulsión química es proporcionada por propulsores desarrollados por Arianespace. Las ruedas de reacción, las unidades de medición inercial y los rastreadores estelares se utilizan para mantener la orientación, con propulsores de gas frío para desaturar las ruedas. Las comunicaciones son en banda X a través de una antena de antena de 60 cm (24 pulgadas) de diámetro. Un auge de 200 cm se extiende por encima de la nave espacial, albergando los sensores EMAG y ELP mNLP."
+    },
+    {
+      "titulo": "Ciencia",
+      "nivel": 2,
+      "texto": "Los objetivos científicos de ESCAPADE son:\nentender los procesos que controlan la estructura de la magnetosfera híbrida de Marte y cómo guía los flujos de iones\nentender cómo la energía y el impulso son transportados desde el viento solar a través de la magnetosfera de Marte\nentender los procesos que controlan el flujo de energía y materia dentro y fuera de la atmósfera de colisión\nHay cuatro experimentos científicos a bordo de cada nave espacial idéntica: EMAG, EESA, ELP y VISIONES.\nEMAG, que fue desarrollado por el Centro de Vuelos Espaciales Goddard de la NASA, es un magnetómetro que medirá los campos magnéticos DC hasta 1000 nT, montados al final del boom para reducir el ruido magnético de la nave espacial.\nEESA es un analizador electrostático desarrollado en UC Berkeley para medir las energías, flujos y masas de iones supratérmicos de 2 eV a 20 keV y las energías y flujos de electrones supratérmicos de 3 eV a 10 keV. Está montado en la cubierta superior del autobús espacial, con un campo de visión de 240° x 120° para electrones y un campo de visión de 247,5° x 90° para iones.\nEl ELP, desarrollado por el Space and Atmospheric Instrumentation Lab de la Universidad Aeronáutica Embry-Riddle, es una sonda Langmuir compuesta por tres sensores separados: la sonda Langmuir de múltiples agujas (mNLP) consta de 4 agujas delgadas montadas en dos pares ~3/4 de forma que suba el brazo y mida la densidad de electrones térmicos; las dos sondas de iones planas (PIP) se montan en la cubierta del instrumento y miden la densidad de iones térmicas, y la sonda potencial flotante (FPP) también se monta en la cubierta de la nave espacial y mide los cambios en el potencial electrostático relativo de las naves espaciales.\nVISIONES (Sistema de Observación Visible e Infrarroja), desarrollado por Northern Arizona University, es una cámara de doble longitud de onda que captura imágenes en rangos de longitud de onda tanto visibles como infrarrojos simultáneamente. VISIONES será capaz de capturar Marte en un marco a diferencia de otros orbitadores de Marte que están más cerca del planeta, lo que hará posible estudiar los cambios estacionales en el tamaño de los casquetes polares y capturar imágenes de las auroras de Marte. Además de tener objetivos científicos, ESCAPADE funciona como una demostración tecnológica para mostrar cómo los productos comerciales de bajo costo pueden operar en una misión interplanetaria."
+    },
+    {
+      "titulo": "Trayectoria",
+      "nivel": 2,
+      "texto": "El diseño de la misión ESCAPADE ha sido desarrollado por Advanced Space LLC y originalmente pidió que ESCAPADE se inyectara directamente en una trayectoria interplanetaria. Después de varias demoras y revisiones, basadas en el plan final de la misión, ESCAPADE lanzó a una órbita de puesta en escena a aproximadamente un millón de millas de distancia, curvando alrededor del punto Tierra-Sol L2 Lagrange el 13 de noviembre de 2025. Hasta noviembre de 2026, ambas naves habían estado merodeando allí, estudiando el clima espacial y esperando la apertura de la ventana de transferencia de Marte. ESCAPADE cambió de rumbo para sumergirse a menos de 600 km de la Tierra por un par de asistencias de gravedad, ejecutando sus quemaduras de escape para colocarlo en una trayectoria a Marte. Ambos flybys se completaron con éxito con \"Blue\" realizando su propio el 7 de noviembre y \"Gold\" después de dos días después el 9 de noviembre.\nESCAPADE ejecutará una maniobra mayor y varias maniobras menores de corrección de curso propulsivo durante su crucero de 11 meses a Marte. Las sondas gemelas llegarán a Marte con pocos días de diferencia y cada una disparará sus motores durante unos 11 minutos para entrar en una órbita altamente elíptica. Durante los siguientes seis meses, la órbita será bajada y circularizada hasta que alcance la órbita científica nominal.\nUna vez que la órbita de la ciencia nominal se alcance a mediados de 2028, la Campaña de la Ciencia A comenzará que involucra a ambas naves que vuelan en la misma órbita a distancias variables unas de otras, ~170 × 8.400 km (110 × 5.220 mi) (5.66 horas) con una inclinación de 65 grados. Esto durará aproximadamente seis meses.\nAl concluir la Campaña Científica A, Blue reducirá su apoapsis a 7.000 km y Gold elevará su apoapsis a 10.000 km para comenzar la Campaña Científica B. Con diferentes periodos orbitales (4.9 y 6,6 horas), las órbitas se preceden (debido al campo gravitatorio no uniforme de Marte) a diferentes velocidades y por lo tanto se separan, permitiendo mediciones simultáneas de partes distantes de la magnetosfera de Marte. Esta campaña funcionará durante aproximadamente cinco meses hasta el final de la misión científica nominal."
+    },
+    {
+      "titulo": "Calendario",
+      "nivel": 2,
+      "texto": "La misión de EscaPADE hizo una nave espacial para estudiar la pérdida de la atmósfera de Marte. La misión está dirigida por la Universidad de California, Berkeley, y está colaborando con Advanced Space y Rocket Lab. La nave espacial fue lanzada el 13 de noviembre de 2025 desde el Complejo de Lanzamiento 36A en la Estación de Fuerza Espacial Cabo Cañaveral, Florida. La nave espacial está planeada para entrar en órbita de Marte en septiembre de 2027.\nEl programa de Pequeñas Misiones Innovadoras para la Exploración Planetaria (\"SIMPLEx\") fue concebido como un programa para seleccionar misiones espaciales pequeñas y de bajo costo para volar como cargas útiles secundarias en otras misiones de la NASA. Como misión de viaje en otro lanzamiento, no una misión principal, tenían la intención de tener un bajo costo y tolerar un nivel de riesgo más alto que otras misiones de la NASA.\nESCAPADE fue seleccionado originalmente de un concurso para ser un viaje de bajo costo a lo largo de la \"misión de oportunidad\" para enganchar un viaje a Marte con la nave espacial Psyche, y dejar de lado como la nave espacial hizo un vuelo de Marte. Por lo tanto, tenía un costo de lanzamiento previsto de casi nada. Sin embargo, el lanzamiento de la misión Psyche fue otorgado a Falcon Heavy, lo que significa que Psyche hará un vuelo de alta energía de Marte, y los planes de misión de ESCAPADE no pudieron actualizarse a tiempo para el lanzamiento. En lugar de cancelar la misión, la NASA anunció que iría en un vehículo de lanzamiento diferente, y solicitó ofertas de la industria para el lanzamiento.\nEn febrero de 2023, Blue Origin ganó el contrato para lanzar la misión en el primer vuelo del vehículo de lanzamiento New Glenn en octubre de 2024, a un costo de ~ 20 millones de dólares. El costo total de ESCAPADE fue de 75 millones de dólares, de los cuales 55 millones corresponden al costo de los autobuses espaciales y los instrumentos científicos y 20 millones al costo del lanzamiento de cohetes New Glenn. Para comparar, el orbitador MAVEN de la NASA lanzado en 2013 costó 582 millones de dólares para construir y lanzar y el fracasado Mars Polar Lander de 1999 costó 165 millones de dólares para construir y lanzar. El menor costo de ESCAPADE es similar al de la Misión Orbiter Mars de la ISRO, de 74 millones de dólares.\nEn agosto de 2024 la nave llegó al lugar de lanzamiento. El 6 de septiembre de 2024, el lanzamiento fue demorado por la NASA a la primavera de 2025 como muy pronto debido a los problemas técnicos y de calendario relacionados con el vehículo de lanzamiento New Glenn de la misión, que estaba previsto que debute con el lanzamiento de estas naves espaciales. La NASA dijo: \"La decisión de la agencia de retirarse se basó en una revisión de los preparativos de lanzamiento y discusiones con Blue Origin, la Administración Federal de Aviación, y la Organización de Seguridad de Ranges Space Launch Delta 45, así como el Programa de Servicios de Lanzamiento de la NASA y la Dirección de la Misión Científica. La decisión fue tomada para evitar costos, calendarios y desafíos técnicos significativos asociados con la posible eliminación de combustible de la nave espacial en caso de un retraso en el lanzamiento, que podría ser causado por una serie de factores.\"\nUn intento de lanzamiento el 9 de noviembre de 2025, fue depurado debido a las condiciones climáticas. El 10 de noviembre, la Administración Federal de Aviación prohibió temporalmente el lanzamiento de cohetes comerciales durante el día debido al cierre del gobierno. Sin embargo, la FAA concedió una exención de Origen Azul para este lanzamiento. El segundo intento de lanzamiento el 12 de noviembre fue depurado debido a las tormentas solares. Finalmente, la misión se lanzó con éxito a las 3:55:01 PM el 13 de noviembre de 2025."
+    }
+  ],
+  "num_palabras": 1781
+}

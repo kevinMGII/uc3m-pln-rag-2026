@@ -1,0 +1,41 @@
+{
+  "titulo": "ASTRO-B",
+  "titulo_wikipedia_en": "Tenma",
+  "fecha_lanzamiento": "1983-02-20",
+  "año_lanzamiento": 1983,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Telescopio espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/ASTRO-B",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Reentrado en la atmósfera",
+    "Tipo de misión": "Observatorio espacial",
+    "Operador": "JAXA",
+    "Fecha de lanzamiento": "20 de febrero de 1983",
+    "Lugar de lanzamiento": "Base espacial de Kagoshima",
+    "Vehículo de lanzamiento": "Mu",
+    "ID NSSDC": "1983-011A",
+    "Masa en el lanzamiento": "216 kg",
+    "Tipo de fin de misión": "reingreso",
+    "Fecha de reentrada": "Reingreso = 17 de diciembre de 1988"
+  },
+  "resumen": "ASTRO-B, bautizado como Tenma tras alcanzar órbita, fue un observatorio espacial japonés de rayos X. Fue lanzado el 20 de febrero de 1983 mediante un cohete Mu desde el Centro Espacial de Uchinoura y reentró en la atmósfera el 17 de febrero de 1988.",
+  "secciones": [
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "Tenma se dedicó al estudio en rayos X de diferentes partes del cielo, tanto espectroscópicamente como obteniendo imágenes directas de diferentes astros y analizando las variaciones en la emisión de rayos X de dichos cuerpos."
+    },
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "El satélite se estabilizaba mediante giro, pudiendo girar a 0,546; 0,137 o 0,068 revoluciones por minuto. Disponía de un telescopio reflector de rayos X, un contador proporcional de centelleo, un monitor de rayos X para fuentes transitorias, un detector de rayos gamma y un sensor estelar."
+    }
+  ],
+  "num_palabras": 125
+}

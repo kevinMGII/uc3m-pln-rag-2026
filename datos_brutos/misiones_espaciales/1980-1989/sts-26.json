@@ -1,0 +1,37 @@
+{
+  "titulo": "STS-26",
+  "titulo_wikipedia_en": "STS-26",
+  "fecha_lanzamiento": "1988-09-29",
+  "año_lanzamiento": 1988,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/STS-26",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Lugar de lanzamiento": "KSC LC-39B",
+    "Fecha de lanzamiento": "29 de septiembre de 1988 15:37:00 UTC",
+    "Nave": "Discovery",
+    "Fecha de aterrizaje": "3 de octubre de 1988 16:37:11 UTC",
+    "Duración de la misión": "4 días, 1 hora, 11 segundos",
+    "Inclinación orbital": "28,5°",
+    "Órbitas completadas": "64",
+    "Distancia recorrida": "2.703.000 kilómetros",
+    "Misión anterior": "STS-51-L",
+    "Misión siguiente": "STS-27",
+    "Programa": "Programa del Transbordador Espacial"
+  },
+  "resumen": "STS-26 fue la misión número 26 del programa del transbordador espacial estadounidense y séptima del transbordador Discovery, siendo la primera misión después del desastre del transbordador espacial Challenger el 28 de enero de 1986. EL objetivo principal de la misión era desplegar un satélite de comunicaciones TDRS-3. Se lanzó desde el Centro Espacial Kennedy en la Florida el 29 de septiembre de 1988 y aterrizó cuatro días más tarde en la pista 17 de la Base Aérea Edwards en California.",
+  "secciones": [
+    {
+      "titulo": "Parámetros de la misión",
+      "nivel": 2,
+      "texto": "Masa:\nOrbitador al despegue: 115.487 kg\nOrbiter al aterrizaje: 88.078 kg\nCarga: ~ 21.082 kg\nPerigeo: 301 km\nApogeo: 306 km\nInclinación: 28,5°\nPeriodo: 90,6 min"
+    }
+  ],
+  "num_palabras": 106
+}

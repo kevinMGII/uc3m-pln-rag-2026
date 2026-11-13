@@ -1,0 +1,72 @@
+{
+  "titulo": "Chang'e 7",
+  "titulo_wikipedia_en": "Chang'e 7",
+  "fecha_lanzamiento": "2027",
+  "año_lanzamiento": 2027,
+  "estado": "programada",
+  "tipo_mision": [
+    "Exploración lunar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Chang'e_7",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Orbitador, módulo de aterrizaje, rover lunar, sonda saltarina",
+    "Operador": "CNSA",
+    "Fabricante": "CAST",
+    "Masa en el lanzamiento": "8200 kg",
+    "Fecha de lanzamiento": "2027 (planificado)",
+    "Vehículo de lanzamiento": "Long March 5",
+    "Lugar de lanzamiento": "Wenchang",
+    "Régimen orbital": "Lunar",
+    "Programa": "Programa Chino de Exploración Lunar",
+    "Misión anterior": "Chang'e 6",
+    "Misión siguiente": "Chang'e 8"
+  },
+  "resumen": "Chang'e 7 (chino: 嫦娥七号; pinyin: Cháng'é qīhào) es la próxima misión de exploración lunar robótica del CNSA que se espera que se lance en 2027 para dirigirse al polo sur lunar. Al igual que sus predecesoras, la nave lleva el nombre de la diosa lunar china Chang'e. La misión incluirá un orbitador, un módulo de aterrizaje, una sonda mini-saltola y un rover, y despegará en un cohete Larga Marcha 5.",
+  "secciones": [
+    {
+      "titulo": "Resumen",
+      "nivel": 2,
+      "texto": "El Programa Chino de Exploración Lunar está diseñado para llevarse a cabo en 4 fases de avance tecnológico incremental: la primera consiste simplemente alcanzar la órbita lunar, tarea completada por Chang'e 1 en 2007 y Chang'e 2 en 2010. La segunda es aterrizar y moverse por la Luna, como hizo Chang'e 3 en 2013 y Chang'e 4 en 2019 (el rover sigue activo en 2024). La tercera consiste en recoger muestras lunares del lado cercano y lejano de la Luna y enviarlas a la Tierra, una tarea realizada por Chang'e 5 en 2020 y por la misión Chang'e 6 en 2024. La cuarta fase consiste en el desarrollo de una estación de investigación robótica cerca del polo sur de la Luna. El programa pretende facilitar un alunizaje tripulado en la década de 2030 y posiblemente construir un puesto avanzado cerca del polo sur lunar.\nDesde el lanzamiento, la nave tardará alrededor de 6 días en alcanzar la órbita lunar.\nLa misión Chang'e 7 presenta un novedoso explorador lunar que ayudara al rover a buscar agua en el polo sur de la luna. El explorador, propulsado por propulsión de cohete, explorará regiones que ningún rover puede. El robot funcionará con energía solar y estará equipado con cámaras y un instrumento científico para analizar el entorno lunar.\nLa misión Chang'e 7 intentará aterrizar en el borde iluminado del cráter Shackleton, cerca del polo sur lunar. La misión buscará hielo en agua y evaluará el lugar para una futura base de investigación lunar. La nave fue entregada en el sitio de lanzamiento espacial de Wenchang en abril de 2026. y desplegada hasta la plataforma de lanzamiento integrada al Larga Marcha 5 Y14 el 19 de agosto de 2026.\nSi tiene éxito, el aterrizaje será el más cercano a un polo sur lunar que cualquier nave haya tocado, el lugar de aterrizaje estará en las proximidades de regiones permanentemente sombreadas."
+    },
+    {
+      "titulo": "Objetivos científicos",
+      "nivel": 2,
+      "texto": "Los objetivos científicos oficiales de la misión Chang'e 7 son:\nInvestigación y estudio del entorno de la superficie lunar y del hielo de agua en su suelo.\nInvestigación y estudio de alta precisión de morfología, composición y estructura de la Luna.\nInvestigación y estudio de la estructura interior, el campo magnético y las características térmicas de la Luna.\nInvestigación y estudio general del entorno superficial del polo sur de la Luna.\nObservación y estudio desde la Luna de la cola magneto-terrestre y la plasmasfera."
+    },
+    {
+      "titulo": "Cargas útiles científicas",
+      "nivel": 2,
+      "texto": "Chang'e-7 transportará un total de 21 cargas científicas, incluidas 6 internacionales, con el objetivo de realizar una exploración detallada del entorno y los recursos de la región polar sur de la Luna. Los objetivos de la misión incluyen aterrizajes en puntos fijos. Las observaciones in situ del cráter permanentemente sombreado serán realizadas por la sonda mini-hopping, que transportará analizadores de moléculas de agua e isotopos de hidrógeno."
+    },
+    {
+      "titulo": "Orbitador lunar",
+      "nivel": 4,
+      "texto": "Cámara de mapeo estéreo de alta resolución\nA una altitud de 100 km, la resolución de la superficie lunar es superior a 0,5 m y la anchura de la imagen superior a 19 km\nA una altitud de 15 km, la resolución de la superficie lunar es superior a 0,075 m y la anchura de la imagen superior a 0,9 km\nRadar de apertura sintética en miniatura\nResolución de imagen superior a 0,3 m\nAnalizador de Imágenes Minerales de Espectro Infrarrojo de Banda Ancha\nEspectrómetro Gamma de Neutrones Lunares\nMagnetómetro de Órbita Lunar\nImaginador Hiperespectral de Material de la Superficie Lunar (desarrollado por la Agencia Espacial Egipcia y la Agencia Nacional de Ciencias Espaciales de Baréin)\nEspectrómetro de Radiación Terrestre de doble canal basado en la Luna (desarrollado por el Observatorio Meteorológico Físico de Davos, Suiza)\nDispositivo de Sensor Global de Monitorización del Clima Espacial (desarrollado por el Ministerio de Educación Superior, Investigación e Innovación de Tailandia y el Instituto Nacional de Investigación Astronómica de Tailandia)"
+    },
+    {
+      "titulo": "Módulo lunar",
+      "nivel": 4,
+      "texto": "Cámara de aterrizaje\nCámara de topografía\nSistema de Detección del Entorno de la Superficie Lunar\nSonda de campo eléctrico\nSonda de iones de baja energía\nSonda electrónica de baja energía\nSonda de partículas de energía intermedia/alta\nSonda de polvo\nSismógrafo lunar\nArray de reflectores de esquina láser (desarrollado por el Instituto Nacional Italiano de Física Nuclear-Laboratorio Nacional de Frascati)\nSonda de Polvo Lunar y Campo Eléctrico (desarrollada por la Academia Rusa de Ciencias Espaciales)\nTelescopio de Observación Astronómica Basado en la Luna (desarrollado por la Asociación Internacional del Observatorio Lunar)"
+    },
+    {
+      "titulo": "Rover lunar",
+      "nivel": 4,
+      "texto": "Cámara panorámica\nMagnetómetro Rover\nRadar Penetrante Lunar\nEspectrómetro Raman Lunar\nSistema de medición in situ de volátiles e isótopos en la superficie lunar"
+    },
+    {
+      "titulo": "Sonda mini-saltona",
+      "nivel": 4,
+      "texto": "Analizador de moléculas de agua e isótopos de hidrógeno"
+    },
+    {
+      "titulo": "Lanzamiento",
+      "nivel": 2,
+      "texto": "Se planea que la sonda sea lanzada por un cohete Long March 5, desde el Centro de Lanzamiento de Satélites de Wenchang en la isla de Hainan.\nEl lanzamiento original estaba programado entre el 23 y 24 de agosto de 2026. Sin embargo, esto se ha retrasado indefinidamente. Sobre este retraso, la Agencia Espacial Tripulada de China declaró: [La] sonda lunar Chang'e 7 no cumple las condiciones de lanzamiento y, por tanto, su lanzamiento no puede realizarse durante la ventana prevista de este año. La evaluación se llevó a cabo siguiendo el principio de prudencia, fiabilidad y éxito absoluto de la misión.\nA fecha de 23 de agosto de 2026, no se ha anunciado una fecha actualizada para el lanzamiento.\nLa razón oficial del retraso en el lanzamiento no se anunciado, pero se especula que podría haberse visto afectado por la tormenta tropical Narra cerca del lugar de lanzamiento de Wenchang, que en ese momento sobrevolaba el golfo de Tonkín."
+    }
+  ],
+  "num_palabras": 985
+}

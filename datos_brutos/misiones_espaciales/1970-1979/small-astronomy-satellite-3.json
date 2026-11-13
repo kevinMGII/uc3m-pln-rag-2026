@@ -1,0 +1,83 @@
+{
+  "titulo": "Small Astronomy Satellite 3",
+  "titulo_wikipedia_en": "Small Astronomy Satellite 3",
+  "fecha_lanzamiento": "1975-05-07",
+  "año_lanzamiento": 1975,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Telescopio espacial"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Small_Astronomy_Satellite_3",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Otros nombres": "Explorer 53\nSAS-C\nSatélite de astronomía pequeño-3",
+    "Tipo de misión": "Astronomía de rayos X",
+    "Operador": "NASA",
+    "ID COSPAR": "1975-037A",
+    "Nº SATCAT": "07788",
+    "Duración de la misión": "4 años",
+    "Fabricante": "APLJohns Hopkins University",
+    "Masa en el lanzamiento": "196,7 kg",
+    "Potencia": "65,0 vatios",
+    "Fecha de lanzamiento": "7 de mayo de 1975, 22:45:01 HUC",
+    "Vehículo de lanzamiento": "Scout F-1 (S194C)",
+    "Lugar de lanzamiento": "Plataforma de San Marco",
+    "Sistema de referencia orbital": "Geocéntrico",
+    "Régimen orbital": "Órbita terrestre baja",
+    "Periapsis": "509.00 km",
+    "Apoapsis": "516.00 km",
+    "Inclinación orbital": "3.00°",
+    "Periodo orbital": "94,90 minutos",
+    "Órbita número revolución": "21935",
+    "Programa": "Programa Explorer",
+    "Misión anterior": "Explorer 52",
+    "Misión siguiente": "Explorer 54"
+  },
+  "resumen": "El pequeño satélite de astronomía 3 (SAS 3, también conocido como SAS-C antes del lanzamiento) (Explorer 53) fue un telescopio espacial de astronomía de rayos X de la NASA. Funcionó del 7 de mayo de 1975 al 9 de abril de 1979. Cubrió la gama de rayos X con cuatro experimentos a bordo. El satélite, construido por el Laboratorio de Física Aplicada de la Universidad Johns Hopkins (APL), fue propuesto y operado por el Centro de Investigaciones Espaciales (CSR) del MIT. Fue lanzado en un vehículo Scout desde la plataforma italiana San Marco (Centro Espacial Broglio) cerca de Malindi, Kenia, en una órbita terrestre baja, casi ecuatorial. También fue conocido como Explorer 53, como parte del programa Explorer de la NASA.\nLa nave espacial fue estabilizada en 3 ejes con una rueda de impulso que se utilizó para establecer la estabilidad sobre la rotación nominal, o eje Z. La orientación del eje Z podría ser alterada durante un período de horas utilizando bobinas de torsión magnética que interactuaban con el campo magnético de la Tierra. Los paneles solares cargaban baterías durante la parte diurna de cada órbita de modo que SAS 3 no tenía esencialmente ningún prescindible que limitara su vida útil más allá de la vida útil de los grabadores de cinta, baterías y arrastre orbital. La nave típicamente funcionaba en modo giratorio, girando a una revolución por órbita de 95 minutos, de modo que los experimentos de LEDs, tubos y colimadores de lamas, que miraban hacia fuera a lo largo del eje Y, podían ver y escanear el cielo casi continuamente. La rotación también podría detenerse, permitiendo la extensión (hasta 30 minutos) de observaciones puntuales de fuentes seleccionadas por los instrumentos del eje Y. Los datos fueron grabados a bordo por grabadoras magnéticas, y reproducidos durante los pasos de la estación en cada órbita.\nSAS 3 fue comandada desde el Centro de Vuelo Espacial Goddard de la NASA (GSFC) en Greenbelt, Maryland, pero los datos fueron transmitidos por módem al MIT para su análisis científico, donde el personal científico y técnico estaba de servicio las 24 horas del día. Los datos de cada órbita fueron sometidos a análisis científicos de mirada rápida en el MIT antes de que pasara la siguiente estación orbital, por lo que el plan de operaciones científicas podría ser alterado por instrucciones telefónicas del MIT al GSFC para estudiar objetivos en tiempo casi real.",
+  "secciones": [
+    {
+      "titulo": "Lanzamiento",
+      "nivel": 2,
+      "texto": "La nave espacial fue lanzada desde la plataforma de San Marco frente a la costa de Kenia, África, en una órbita casi circular y casi ecuatorial. Esta nave espacial contenía cuatro instrumentos: el Experimento Extragaláctico, el Experimento de Monitor Galáctico, el Experimento de Monitor Escorpio y el Experimento de Absorción Galáctica. En la configuración orbital, la nave espacial tenía 145,2 cm de altura y la dimensión de punta a punta era 470,3 cm. Se utilizaron cuatro palas solares junto con una batería de níquel-cadmio de 12 células para proporcionar energía sobre toda la órbita. La nave espacial se estabilizó a lo largo del eje Z y giraba a unos 0,1°/segundo. Los cambios en la orientación del eje de giro fueron por orden de tierra, ya sea retrasados o en tiempo real. La nave espacial podría moverse de ida y vuelta ± 2,5° a través de una fuente seleccionada a lo largo del eje X a 0,01°/segundo. Los experimentos miraron a lo largo del eje Z de la nave espacial, perpendicular a ella, y en un ángulo."
+    },
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "Los principales objetivos científicos de la misión fueron:\nDeterminar las ubicaciones de fuentes de rayos X brillantes con una precisión de 15 segundos de arco;\nEstudio de fuentes seleccionadas en el intervalo de energía 0,1-55 keV;\nBusca continuamente en el cielo novae de rayos X, bengalas y otros fenómenos transitorios.\nEl Explorer 53 (SAS-C) era una pequeña nave espacial cuyos objetivos eran explorar la esfera celeste en busca de fuentes que irradiaran en las regiones de rayos X, rayos gamma, ultravioleta y otras regiones espectrales. Las misiones principales de Explorer 53 fueron medir la emisión de rayos X de fuentes extragalácticas discretas, monitorear la intensidad y espectros de las fuentes de rayos X galácticos de 0,2 a 60 keV, y monitorear la intensidad de rayos X de Escorpio X-1."
+    },
+    {
+      "titulo": "Experimentos",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Experimento extragaláctico (GEE)",
+      "nivel": 3,
+      "texto": "Este experimento determinó las posiciones de fuentes de rayos X extragalácticos muy débiles. El instrumento vio una región del cielo de 100 grados cuadrados alrededor de la dirección del eje de giro del satélite. Los objetivos nominales para un estudio de 1 año fueron: (1) el cúmulo de galaxias Virgo durante 4 meses, (2) el ecuador galáctico durante 2 meses, (3) la nebulosa Andrómeda durante 3 meses, y (4) las Nubes Magallánicas durante 3 meses. La instrumentación consistió en un colimador de modulación de 2,5-arc-minutos y uno de 4,5-arc-minutos Anchura completa a medio máximo (FWHM), así como contadores proporcionales sensibles sobre el rango de energía de 1,5 a 10-keV. El área efectiva de cada colimador fue de unos 225 cm2. El sistema de aspectos proporcionaba información sobre la orientación de los colimadores a una precisión de 15 segundos-arco."
+    },
+    {
+      "titulo": "Experimento de Absorción Galáctica (GAE)",
+      "nivel": 3,
+      "texto": "La densidad y distribución de la materia interestelar se determinó midiendo la variación en la intensidad del fondo de rayos X difusos de baja energía en función de la latitud galáctica. Se utilizó un contador proporcional de ventanas de polipropileno de 1 micrómetro para los rangos de energía de 0,1 a 0,4 keV y 0,4 a 1,0 keV, mientras que un contador de ventanas de titanio de 2 micrómetro cubría el rango de energía de 0,3 a 0,5 keV. Además, se utilizaron dos contadores de ventanas de berilio de 1 mm para el rango de energía de 1,0- 10-keV. Los colimadores de este experimento tenían campos de visión de 3° para el contador de 1 micrómetro, 2° para el contador de 2 mm y 2° para los contadores de 1 mm."
+    },
+    {
+      "titulo": "Experimento de Monitor Galáctico (GME)",
+      "nivel": 3,
+      "texto": "Los objetivos de este experimento fueron localizar fuentes de rayos X galácticos a 15 arco-segundos y monitorear estas fuentes en busca de variaciones de intensidad. Las posiciones de origen se determinaron con el uso de los colimadores de modulación del Experimento Extragaláctico durante la observación nominal de 2 meses del ecuador galáctico. El monitoreo del cielo de rayos X se logró mediante el uso de tres colimadores de lamas. Un colimador, 1° por 70° FWHM, estaba orientado perpendicularmente al plano ecuatorial del satélite, mientras que los otros dos, cada uno 0,5° por 45° FWHM, estaban orientados 30° por encima y 30° por debajo del primero. El detector detrás de cada colimador era un contador proporcional, sensible de 1,5 a 13 keV, con un área efectiva de unos 100 cm2. El colimador de 1,0° tenía un contador adicional de la misma zona, sensible de 8 a 50 keV. Se obtuvieron tres líneas de posición para cualquier fuente dada cuando el satélite estaba girando en una rotación constante de 4 arco-minutos/segundos sobre el eje Z."
+    },
+    {
+      "titulo": "Experimento de Monitor de Escorpio (PYME)",
+      "nivel": 3,
+      "texto": "Se orientó un colimador de lamas FWHM de 12° por 50° con su eje largo perpendicular al eje de rotación del satélite, de modo que un punto dado en el cielo pudiera ser monitoreado durante alrededor del 25% de una rotación. Este colimador estaba inclinado por 31° con respecto al plano ecuatorial del satélite, de modo que Scorpio X-1 se observó mientras que el eje Z se orientó al cúmulo de galaxias Virgo. Los detectores utilizados en este experimento fueron contadores proporcionales con ventanas de berilio de 1 mm. El rango de energía fue de 1,0 a 60 keV, y el área total efectiva fue de unos 40 cm2."
+    },
+    {
+      "titulo": "Resultados de la investigación",
+      "nivel": 2,
+      "texto": "El SAS 3 fue especialmente productivo debido a su flexibilidad y rapidez de respuesta. Entre sus resultados más importantes figuran los siguientes:\nPoco después del descubrimiento de la primera explosión de rayos X por el ANS, un intenso período de descubrimiento de fuentes de explosión por el SAS 3 rápidamente llevó al descubrimiento y caracterización de una docena de objetos adicionales, incluyendo el famoso Rapid Burster, MXB1730-335. Estas observaciones establecieron la identificación de fuentes de rayos X con sistemas binarios de estrellas de neutrones;\nEl RMC fue el primer instrumento que sistemáticamente proporcionaba posiciones de rayos X suficientemente precisas para permitir el seguimiento por observatorios ópticos para establecer contrapartes de rayos X/ópticos, incluso en regiones abarrotadas cerca del plano galáctico. Se obtuvieron aproximadamente 60 posiciones con precisiónes en el orden de 1 minuto de arco o menos. Las identificaciones de fuentes resultantes ayudaron a conectar la astronomía de rayos X con el cuerpo principal de la astrofísica estelar;\nDescubrimiento de las pulsaciones de 3,6 segundos de la estrella de neutrones/estrellas transitorias binario 4U 0115+63., lo que conduce a la determinación de su órbita y la observación de una línea de absorción de ciclotrón en su fuerte campo magnético. Muchos binarios estrella/estrella de neutrón se descubrieron posteriormente como una clase de emisores de rayos X;\nDescubrimiento de la emisión de rayos X de HZ 43 (una enana blanca aislada), Algol, y de AM Ella, el primer sistema binario enano blanco altamente magnético visto en los rayos X;\nSe estableció la localización frecuente de fuentes de rayos X cerca de los centros de cúmulos globulares;\nPrimera identificación de un QSO a través de su emisión de rayos X;\nEl instrumento de rayos X blando estableció que la intensidad difusa de 0,10-28 keV se correlaciona generalmente inversamente con la densidad de columna H neutra, lo que indica la absorción de fuentes difusas externas por el medio interestelar galáctico de primer plano.\nLos investigadores principales de SAS 3 fueron los profesores del MIT George W. Clark, Hale V. Bradt, y Walter H. G. Lewin. Otros colaboradores importantes fueron los Profs Claude R. Canizares y Saul Rappaport, y el Dr. Jeffrey A. Hoffman, George Ricker,\nJeff McClintock, Rodger Doxsey, Garrett Jernigan, Lynn Cominsky, John Doty, y muchos otros, incluyendo numerosos estudiantes de posgrado."
+    }
+  ],
+  "num_palabras": 1634
+}

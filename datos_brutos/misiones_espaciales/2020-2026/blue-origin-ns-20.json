@@ -1,0 +1,38 @@
+{
+  "titulo": "Blue Origin NS-20",
+  "titulo_wikipedia_en": "Blue Origin NS-20",
+  "fecha_lanzamiento": "2022",
+  "año_lanzamiento": 2022,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/Blue_Origin_NS-20",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Vuelo espacial humano suborbital",
+    "Apogeo suborbital": "107 km",
+    "Nave": "RSS Primer paso",
+    "Fabricante": "Origen azul",
+    "Tripulación": "Marty Allen; Sharon Hagle; Marc Hagle; Jim Kitchen; George Nield; Gary Lai",
+    "Vehículo de lanzamiento": "Nuevo Shepard (NS4)",
+    "Lugar de lanzamiento": "Corn Ranch, LS-1",
+    "Contratista del lanzamiento": "Origen azul",
+    "Lugar de aterrizaje": "Rancho de maíz",
+    "Programa": "Vuelos nuevos de Shepard",
+    "Misión anterior": "Origen azul NS-19",
+    "Misión siguiente": "Origen azul NS-21"
+  },
+  "resumen": "Blue Origin NS-20 era una misión suborbital de vuelos espaciales operada por Blue Origin, que se lanzó el 31 de marzo de 2022 utilizando el cohete New Shepard. Con seis personas a bordo, fue el cuarto vuelo de Blue Origin con pasajeros, y el vigésimo vuelo en general para llegar al espacio.\nEl vuelo estaba programado inicialmente para lanzarse el 23 de marzo, pero posteriormente fue pospuesto al 29 de marzo, y luego nuevamente al 31 de marzo. Se esperaba que el comediante estadounidense Pete Davidson volara a bordo, pero no pudo hacerlo debido al cambio de fecha de lanzamiento. Más tarde se anunció que el empleado de Blue Origin Gary Lai, arquitecto jefe del vehículo New Shepard de Blue Origin, reemplazaría a Davidson. Aparte de Lai, los otros cinco participantes en el vuelo estaban pagando a los pasajeros.",
+  "secciones": [
+    {
+      "titulo": "Pasajeros",
+      "nivel": 2,
+      "texto": "Los pasajeros de NS-20 fueron apodados los \"Veintitantos rugidos\"."
+    }
+  ],
+  "num_palabras": 148
+}

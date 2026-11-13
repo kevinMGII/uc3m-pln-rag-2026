@@ -1,0 +1,105 @@
+{
+  "titulo": "Hayabusa 2",
+  "titulo_wikipedia_en": "Hayabusa2",
+  "fecha_lanzamiento": "2014-12-03",
+  "año_lanzamiento": 2014,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración de asteroides y planetas menores",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Hayabusa_2",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Misión en desarrollo",
+    "Tipo de misión": "Investigación de asteroide",
+    "Operador": "JAXA",
+    "Fecha de lanzamiento": "3 de diciembre de 2014",
+    "Propulsión": "Iónica",
+    "Sistema de referencia orbital": "Heliocéntrica",
+    "Tipo de fin de misión": "reingreso",
+    "Fecha de reentrada": "diciembre de 2020 (planeado)"
+  },
+  "resumen": "es una misión espacial no tripulada de la Agencia Japonesa de Exploración Aeroespacial que tuvo la misión de recoger muestras de material del asteroide (162173) Ryugu y traerlas a la Tierra para su análisis. La misión es sucesora de Hayabusa, que tuvo lugar entre 2003 y 2010. Hayabusa 2 fue lanzada el 3 de diciembre de 2014 desde el Centro Espacial de Tanegashima, y el 27 de junio de 2018 la sonda llegó a Ryugu.\nEl 21 de septiembre hizo aterrizar sus dos rovers con éxito sobre la superficie del asteroide. Después, el 22 de febrero de 2019, logró aterrizar en la superficie del cometa. Salió del asteroide en noviembre de 2019 y regresó a la Tierra el 5 de diciembre de 2020.\nHayabusa2 transporta múltiples cargas útiles científicas para detección remota, muestreo y cuatro pequeños rovers (robots todoterreno) que investigaron la superficie del asteroide para conocer el contexto ambiental y geológico de las muestras recolectadas.",
+  "secciones": [
+    {
+      "titulo": "Contexto de la misión",
+      "nivel": 2,
+      "texto": "(162173) Ryugu (denominado antes 1999 JU3) es un asteroide de tipo C primitivo perteneciente al grupo Apolo. Se cree que este tipo de asteroides preserva los materiales más prístinos del sistema solar (una mezcla de minerales, hielo y compuestos orgánicos que interactúan), y se espera que su estudio permita obtener nueva información acerca de la formación de los planetas interiores y el origen del agua y la vida en la Tierra.\nPara desarrollar la misión se partió de la misión Hayabusa, que había logrado traer muestras del asteroide (25143) Itokawa en 2010. Su sucesora sigue su diseño general, con mejoras en los subsistemas de la nave; en particular, se mejoró el sistema de propulsión iónica, la tecnología de navegación y guiado, las antenas y el sistema de control de actitud. Además se embarcaron nuevos instrumentos, entre ellos varios rovers, un aterrizador y un artefacto explosivo que permitió crear un pequeño cráter y acceder a capas más profundas del asteroide."
+    },
+    {
+      "titulo": "Desarrollo de la misión",
+      "nivel": 2,
+      "texto": "A partir del éxito parcial de la misión Hayabusa, en 2007 JAXA empezó a estudiar una posible misión sucesora. Tras la presentación de una propuesta en 2009, en 2010 el gobierno japonés aprobó el inicio del desarrollo de la nueva misión Hayabusa 2, con un coste estimado de 16 400 millones de yenes. El principal contratista de la misión, NEC Corporation, construyó la nave, así como el sistema de comunicaciones y una cámara infrarroja."
+    },
+    {
+      "titulo": "Lanzamiento y acercamiento al asteroide",
+      "nivel": 3,
+      "texto": "El lanzamiento de la misión estaba planeado para el 30 de noviembre de 2014, pero fue retrasado y finalmente tuvo lugar el 3 de diciembre de 2014 desde el Centro Espacial de Tanegashima mediante un cohete espacial H-IIA. El 3 de diciembre de 2015 sobrevoló la Tierra, lo que, por medio de una asistencia gravitatoria, le permitió cambiar al plano orbital del asteroide. Sus motores iónicos estuvieron en funcionamiento permanente en los siguientes periodos: -entre marzo y mayo de 2016; -entre noviembre de 2016 y abril de 2017 -entre enero y junio de 2018. En todos esos periodos se gastó 24 kg de xenón."
+    },
+    {
+      "titulo": "Estudio del asteroide",
+      "nivel": 3,
+      "texto": "El 26 de febrero de 2018 la sonda detectó por primera vez el asteroide con su cámara. El 27 de junio de 2018 la sonda finalizó la fase de acercamiento al asteroide, encontrándose entre 5 y 1 kilómetros del mismo. El 21 de septiembre, la sonda se separó de sus dos módulos de aterrizaje a las 13:06 JST, su aterrizaje fue confirmado el 22 de septiembre. Este logro convirtió a MINERVA-II1 en los primeros rovers en aterrizar en un asteroide. Días más tarde, el 3 de octubre, el aterrizador MASCOT llegó a la superficie de Ryugu."
+    },
+    {
+      "titulo": "Segundo aterrizaje",
+      "nivel": 3,
+      "texto": "Durante el primer aterrizaje, en febrero de 2019, la sonda recolectó muestras de las capas superficiales del asteroide. No obstante, los científicos japoneses también quisieron hacerse con unas muestras más profundas que estuvieron menos expuestas a las condiciones extremas del espacio. Para ello, la sonda lanzó una cajita cargada de explosivos que propulsaron un platillo de cobre hacia la superficie del asteroide. Como resultado de esta explosión se formó un cráter de diez metros de diámetro. El aparato espacial comenzó el descenso hacia dicho cráter el miércoles 10 de julio y efectuó el propio aterrizaje el jueves 11 por la madrugada.\nDurante el segundo aterrizaje, la nave recolectó los escombros y algunas muestras que estaban a una mayor profundidad. Después de haber recolectado las muestras necesarias, la sonda tomó algunas fotos al despegar."
+    },
+    {
+      "titulo": "Retorno a la Tierra y posible extensión",
+      "nivel": 3,
+      "texto": "Se espera que la sonda continúe estudiando el asteroide hasta diciembre de 2019, cuando inicie su regreso a la Tierra. Se estima que la llegada al planeta se producirá a finales de 2020. Cuando la sonda se aproxime al planeta liberará la cápsula que contenga las muestras del asteroide recogidas, la cual comenzará la reentrada en la atmósfera terrestre a una velocidad de 12 km/s. Tras desplegar un paracaídas, la cápsula aterrizará en Woomera Test Range, al sur de Australia.\nA diferencia de la cápsula, la nave seguirá su curso por el espacio. Se espera que en el momento de paso por la Tierra esta conserve unos 30 kg de xenón, el cual puede aprovecharse para dirigirla a otros cuerpos y así extender la vida de la misión. Un posible candidato para visitar sería el asteroide (172034) 2001 WR1, el cual sería alcanzado el 27 de junio de 2023."
+    },
+    {
+      "titulo": "Diseño de la nave",
+      "nivel": 2,
+      "texto": "La nave empleada en esta misión es similar a la de la misión Hayabusa, aunque cuenta con ciertos aspectos que han sido mejorados. Su masa húmeda es de 610 kg, y la energía eléctrica es generada por dos paneles solares que proporcionan 2.6 kW a 1 UA y 1.4 kW a 1.4 UA. La energía se almacena en once batería de ion de litio."
+    },
+    {
+      "titulo": "Subsistema de propulsión y control de actitud",
+      "nivel": 3,
+      "texto": "La nave Hayabusa 2 cuenta con 4 propulsores iónicos de tipo μ10, siendo uno de ellos de reserva. Con tres de los propulsores activados, el empuje alcanzado puede llegar a los 28 mN. Aunque es un valor bajo, la eficiencia del propulsante iónico permite cambiar la velocidad de la nave hasta 2 km/s.\nLa nave cuenta con cuatro ruedas de reacción redundantes, así como un sistema de 12 propulsores químicos para controlar la actitud y órbita. Estos propulsores usan hidrazina y una mezcla de óxidos de nitrógeno como propulsante."
+    },
+    {
+      "titulo": "Comunicación",
+      "nivel": 3,
+      "texto": "La nave cuenta con dos antenas direccionales de gran ganancia, que operan en las bandas X y Ka. La velocidad de transmisión se sitúa entre 8 y 32 bps. La nave se comunica con varias estaciones de tierra: el Centro Espacial Uchinoura, el Centro Espacial de Usuda, la Red del Espacio Profundo de la NASA y la Estación de Malargüe de la ESA."
+    },
+    {
+      "titulo": "Navegación y guiado",
+      "nivel": 3,
+      "texto": "Hayabusa 2 emplea una cámara telescópica denominada ONC-T (optical navigation camera telescope) para guiarse, junto con la cámara de gran angular ONC-W2 y dos star trackers. Para el descenso al asteroide, la nave depositará hasta cinco marcadores en la superficie del cuerpo. Estos marcadores, cubiertos por material reflectante, serán reconocidos por un sensor a bordo de la nave. Por otro lado, un sistema LIDAR y otros sensores serán empleados en el proceso de extracción de muestras del asteroide."
+    },
+    {
+      "titulo": "Instrumentos",
+      "nivel": 2,
+      "texto": "Hayabusa 2 cuenta con una gran cantidad de instrumentos científicos, que abarcan diversas funciones. A bordo de la nave se encuentran varias cámaras, un espectrómetro infrarrojo y un sistema LIDAR."
+    },
+    {
+      "titulo": "Rovers y aterrizador",
+      "nivel": 3,
+      "texto": "La misión cuenta con tres rovers y un aterrizador, cuya misión es investigar la superficie del asteroide in situ y proporcionar información de contexto para las muestras recogidas por la nave principal. Debido a la débil gravedad del asteroide, ninguno de estos dispositivos cuenta con ruedas, sino que se desplazan mediante pequeños saltos, en general mediante mecanismos internos.\nMINERVA-II\nLos rover MINERVA-II son sucesores del rover MINERVA de la misión Hayabusa, que no logró aterrizar en la superficie de su asteroide. MINERVA-II-1 es un contenedor que alberga dos rovers idénticos, ROVER-1A y ROVER-1B. Estos rovers de forma cilíndrica (18 cm de diámetro y 7 cm de altura) y 1.1 kg de masa están recubiertos de paneles solares que les proporcionan energía, y cuentan con cámaras y termómetros. Fueron desplegados el 21 de septiembre de 2018.\nEL contenedor MINERVA-II-2 alberga el ROVER-2, desarrollado por un consorcio de universidades lideradas por la Universidad de Tohoku. Las características físicas de este rover son similares a las de los dos anteriores (forma de prisma octogonal, con 16 cm de altura, 16 cm de diámetro y en torno a 1 kg de masa), pero cuenta con varios LEDs para detectar partículas de polvo y diversos mecanismos de movimiento. Su lanzamiento está previsto para julio de 2019\nMASCOT\nEl aterrizador de Hayabusa 2, denominado MASCOT (Mobile Asteroid Surface Scout), fue desarrollado por el Centro Aeroespacial Alemán en colaboración con el Centro Nacional de Estudios Espaciales francés. Con forma de prisma rectangular (sus dimensiones son 29.5 cm × 27.5 cm × 19.5 cm) y una masa de 9.6 kg, MASCOT cuenta con cuatro instrumentos: un espectrógrafo infrarrojo (MicrOmega), un magnetómetro (MASMAG), un radiómetro (MARA) y una cámara (MASCAM). El aterrizador es capaz de desplazarse una vez para analizar otra zona del asteroide mediante el accionamiento de un brazo mecánico. Las baterías de MASCOT no son recargables, de manera que su vida operativa está limitada a 16 horas. El aterrizador fue depositado en la superficie del asteroide el 3 de octubre de 2018."
+    },
+    {
+      "titulo": "Toma de muestras",
+      "nivel": 3,
+      "texto": "Un total de tres muestras de regolito serán tomadas por Hayabusa 2 y almacenadas en una cápsula que aterrizará en la Tierra. Dos de ellas son superficiales, mientras que la tercera requiere del uso de un proyectil para crear un cráter en el asteroide y así poder recoger muestras de capas más profundas.\nEl sistema de muestras superficiales está basado en el de Hayabusa, que consiste en el contacto con el asteroide mediante un tubo de muestreo. Cuando el tubo contacta con el asteroide, un proyectil de tántalo de 5 g es disparado a 300 m/s, y el material eyectado es recogido por la nave.\nPara recoger muestras subsuperficiales, Hayabusa 2 desplegará entre abril y mayo de 2019 un impactador denominado SCI (Small Carry-On Impactor), compuesto por un proyectil de cobre y una carga explosiva. Una vez el dispositivo sea desplegado, la nave orbitará hasta situarse detrás del asteroide, momento en el cual la carga explosiva será detonada y el proyectil impacte contra la superficie del cuerpo. Tras una espera de dos semanas para que la zona se despeje, la nave se aproximó al recién formado cráter para tomar una última muestra, paso que se cumplió en julio de 2019.\nEl 22 de febrero de 2019, la sonda tocó el asteroide de manera exitosa tras un descenso controlado para tomar muestras, obteniendo una cantidad apreciable de regolito."
+    },
+    {
+      "titulo": "Regreso de muestras",
+      "nivel": 3,
+      "texto": "La nave espacial recogió y almacenó las muestras en contenedores sellados separados dentro de la cápsula de retorno de muestra (SRC), que tiene un aislamiento térmico, 40 cm (16 pulgadas) de diámetro externo, 20 cm (7,9 pulgadas) de altura y una masa de aproximadamente 16 kg (35 libras).\nAl final de la fase científica en noviembre de 2019, Hayabusa2 utilizó sus motores de iones para cambiar de órbita y regresar a la Tierra. Cuando Hayabusa2 sobrevuela la Tierra a fines de 2020, liberará la cápsula girando a una revolución cada tres segundos. La cápsula volverá a entrar en la atmósfera de la Tierra a 12 km/s (7,5 mi/s), se desplegará un paracaídas reflectante de radar a una altitud de unos 10 km (6 mi) y expulsará su escudo térmico, mientras transmite una señal de posición. Está previsto que la cápsula de muestra aterrice en el campo de pruebas Woomera en Australia. La distancia total de vuelo sería de 5240 millones de km (3260 millones de millas).\nUna vez en la Tierra, cualquier sustancia volátil se recogerá antes de que se abran los contenedores sellados. Las muestras serán curadas y analizadas en el Centro de curación de muestras extraterrestres de JAXA, donde los científicos internacionales pueden solicitar una pequeña porción de las muestras."
+    },
+    {
+      "titulo": "Posible extensión de la misión",
+      "nivel": 2,
+      "texto": "Cuando la nave espacial regrese y vuele más allá de la Tierra para entregar la cápsula de muestra a fines de 2020, se espera que retenga 30 kg (66 lb) de propelente de xenón (de sus 66 kg originales (146 lb)), que se pueden usar para extender su servicio y volar por nuevos objetivos para explorar. En septiembre de 2020, se seleccionó un sobrevuelo de (98943) 2001 CC 21 para julio de 2026 y un encuentro con 1998 KY 26 en julio de 2031 para una extensión de la misión.\nLa observación de 2001 CC 21 será durante un sobrevuelo de alta velocidad de un asteroide tipo L, un tipo de asteroide relativamente poco común. La cámara fija de Hayabusa2 no fue diseñada para este tipo de sobrevuelo. El encuentro con 1998 KY26 será la primera visita de un microasteroide de rotación rápida, con un período de rotación de unos 10 minutos. Entre 2021 y 2026, la nave espacial también realizará observaciones de exoplanetas. También se estudió una opción para realizar un sobrevuelo de Venus para establecer un encuentro con 2001 AV 43.\nPosible escenario:\nDiciembre de 2020: inicio de la misión de extensión\n2021 hasta julio de 2026: operación de crucero\nJulio de 2026: sobrevuelo alta velocidad al asteroide tipo L 2001 CC 21\nDiciembre de 2027: paso por la Tierra\nJunio de 2028: segundo paso terrestre\nJulio de 2031: encuentro con el cuerpo objetivo (1998 KY 26)"
+    }
+  ],
+  "num_palabras": 2208
+}

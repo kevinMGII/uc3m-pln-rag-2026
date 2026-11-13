@@ -1,0 +1,33 @@
+{
+  "titulo": "Luna 15",
+  "titulo_wikipedia_en": "Luna 15",
+  "fecha_lanzamiento": "1969-07-13",
+  "año_lanzamiento": 1969,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración lunar",
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Luna_15",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Impacto contra la superficie lunar",
+    "Tipo de misión": "Retorno de muestras lunares",
+    "Operador": "URSS",
+    "Fabricante": "Lavochkin",
+    "Fecha de lanzamiento": "13 de julio de 1969\n02:54:42 UTC",
+    "Duración de la misión": "8 días",
+    "Lugar de lanzamiento": "Cosmódromo de Baikonur",
+    "Vehículo de lanzamiento": "Proton K/D",
+    "Duración planificada": "8 días\nFin de la misión:\n21 de julio de 1969\n15:51 UTC",
+    "ID NSSDC": "1969-058A",
+    "Masa en el lanzamiento": "5600 kg",
+    "Datos interplanetarios": "tipo: orbitador | objeto: Luna"
+  },
+  "resumen": "Luna 15 fue una sonda automática perteneciente al Programa espacial soviético dentro del programa Luna.\nEl 13 de julio de 1969 partió desde Cosmódromo de Baikonur en la Unión Soviética hacia la Luna. Su objetivo era efectuar un alunizaje suave y traer muestras de polvo lunar a la Tierra (unos 100 gramos), pero debido a un fallo del altímetro se estrelló el 21 de julio de 1969 contra la superficie lunar en el Mare Crisium, en la posición 17ºN-60ºE.\nEn total, el número de órbitas que la sonda dio a la Luna fue de 52 y el número de sesiones de comunicaciones fue de 86. La velocidad con la que se estrelló contra la superficie lunar fue de unos 480 km/h.\nEl Luna 15 fue lanzado tres días antes que la misión Apolo 11, en un intento de alunizar coincidiendo con la misión estadounidense. La sonda orbitó la Luna junto al Apolo 11 durante algún tiempo, aunque sin interferir en su órbita, estrellándose contra su superficie unas horas después de que Neil Armstrong pisara por primera vez la Luna.",
+  "secciones": [],
+  "num_palabras": 179
+}

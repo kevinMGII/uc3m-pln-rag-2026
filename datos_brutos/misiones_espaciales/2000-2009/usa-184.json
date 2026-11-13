@@ -1,0 +1,38 @@
+{
+  "titulo": "USA-184",
+  "titulo_wikipedia_en": "USA-184",
+  "fecha_lanzamiento": "2006-06-28",
+  "año_lanzamiento": 2006,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión heliofísica"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/USA-184",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "ELINT",
+    "Operador": "Oficina Nacional de Reconocimiento",
+    "ID COSPAR": "2006-027A",
+    "Nº SATCAT": "29249",
+    "Fecha de lanzamiento": "28 de junio de 2006, 03:33 HUC",
+    "Vehículo de lanzamiento": "Delta IV-M+(4,2) D317",
+    "Lugar de lanzamiento": "Vandenberg, SLC-6",
+    "Sistema de referencia orbital": "Geocéntrico",
+    "Régimen orbital": "Molniya",
+    "Periapsis": "1138 km",
+    "Apoapsis": "39210 km",
+    "Inclinación orbital": "63.2°"
+  },
+  "resumen": "USA-184, también conocido como NRO Launch 22 o NROL-22, es un satélite de inteligencia de señales estadounidense, operado por la Oficina Nacional de Reconocimiento. Lanzado en 2006, ha sido identificado como el primero de una nueva serie de satélites que están sustituyendo a la anterior nave espacial Trompeta.",
+  "secciones": [
+    {
+      "titulo": "Satélite",
+      "nivel": 2,
+      "texto": "USA-184 fue lanzado por Boeing, usando un cohete portador Delta IV volando en la configuración Medium+(4,2). El cohete fue el primer Delta IV en lanzarse desde la Base Aérea Vandenberg, volando desde el Complejo de Lanzamiento Espacial 6, una plataforma de lanzamiento construida originalmente como parte de planes abandonados para lanzamientos tripulados desde Vandenberg, originalmente usando cohetes Titan, y posteriormente trasbordadores espaciales. El lanzamiento también marcó el primer lanzamiento de un Vehículo de Lanzamiento Evolvido de Vandenberg, y el primer lanzamiento de una carga útil NRO en un VELC.\nEl despegue tuvo lugar a las 03:33 UTC el 28 de junio de 2006 (20:33 PDT el 27 de junio). La misión fue identificada como NRO Launch 22, y fue el sexto vuelo de un Delta IV, con el número de vuelo Delta 317, o D317.\nLa órbita y la misión del satélite están oficialmente clasificadas, sin embargo, como la mayoría de las naves espaciales clasificadas que ha sido localizado y rastreado por observadores aficionados. Se encuentra en una órbita de Molniya con un perigeo de 1138 km, un apogeo de 39210 km, y 63,2° de inclinación. Además de su carga útil SIGINT, USA-184 también lleva dos instrumentos secundarios: la carga útil de detección de misiles SBIRS-HEO-1 como parte del programa del Sistema de infrarrojos basado en el espacio, y el instrumento de ciencia magnetosférico TWINS-1 o TWINS-A de la NASA como parte del programa TWINS."
+    }
+  ],
+  "num_palabras": 283
+}

@@ -1,0 +1,35 @@
+{
+  "titulo": "Soyuz TM-14",
+  "titulo_wikipedia_en": "Soyuz TM-14",
+  "fecha_lanzamiento": "1992-03-17",
+  "año_lanzamiento": 1992,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Soyuz_TM-14",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {},
+  "resumen": "Soyuz TM-14 fue a 14.ª misión Soyuz a la estación espacial Mir, realizada entre marzo y agosto de 1992. Incluyó la participación de un cosmonauta alemán de la Agencia Espacial Alemana (DLR). Fue la primera misión Soyuz después del colapso de la Unión Soviética.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Lanzados\nAterrizaron"
+    },
+    {
+      "titulo": "Parámetros de la Misión",
+      "nivel": 2,
+      "texto": "Masa: 7 150 kg\nPerigeo: 373 km\nApog: 394 km\nInclinación: 51,6°\nPeriodo: 92,2 minutos"
+    },
+    {
+      "titulo": "Objetivo de la misión",
+      "nivel": 2,
+      "texto": "Klaus Dietrich Flade se convirtió el segundo alemán a visitar una estación espacial. El primero fue Sigmund Jahn de Alemania Oriental, que visitó la Salyut 6 en 1978. Flade realizó catorce experimentos alemanes en el espacio, como parte de la preparación del país para su participación en los proyectos de estación espacial Freedom y Columbus.\nLa nave tuvo un problema en su sistema de aterrizaje, haciendo que su módulo de descenso se volcase. La cápsula se poso boca abajo con su lado superior (donde esta la escotilla) apoyado en el suelo, atrapando a sus ocupantes en el interior hasta que pudieron ser puestos en la posición correcta."
+    }
+  ],
+  "num_palabras": 168
+}

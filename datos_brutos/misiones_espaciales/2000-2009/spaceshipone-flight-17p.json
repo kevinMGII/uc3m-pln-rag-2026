@@ -1,0 +1,64 @@
+{
+  "titulo": "SpaceShipOne flight 17P",
+  "titulo_wikipedia_en": "SpaceShipOne flight 17P",
+  "fecha_lanzamiento": "2004-10-04",
+  "año_lanzamiento": 2004,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "inglés",
+  "traduccion": "Traducción automática al español (modelo Opus-MT) del artículo de la Wikipedia en inglés",
+  "fuente": "Wikipedia en inglés",
+  "url_fuente": "https://en.wikipedia.org/wiki/SpaceShipOne_flight_17P",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Vuelo de ensayo",
+    "Operador": "Composites escalados",
+    "Duración de la misión": "24 minutos",
+    "Apogeo suborbital": "112,01 km",
+    "Nave": "SpaceShipOne",
+    "Fabricante": "Composites escalados",
+    "Fecha de lanzamiento": "4 de octubre de 2004, 14:49 UTC",
+    "Lugar de lanzamiento": "Caballero Blanco, Mojave",
+    "Fecha de aterrizaje": "UTC",
+    "Lugar de aterrizaje": "Mojave",
+    "Tripulación": "Brian Binnie",
+    "Programa": "Composites escalados de primer nivel",
+    "Misión anterior": "Vuelo 16P"
+  },
+  "resumen": "El vuelo 17P de SpaceShipOne fue un vuelo espacial en el programa Tier One que tuvo lugar el 4 de octubre de 2004. Fue el segundo vuelo competitivo en el concurso del Premio Ansari X para demostrar una nave no gubernamental reutilizable tripulada, y por lo tanto también se conoce como el vuelo X2. Fue un vuelo exitoso, ganando el X PRIZE. Este es el último vuelo espacial en solitario de la historia.",
+  "secciones": [
+    {
+      "titulo": "Programación",
+      "nivel": 2,
+      "texto": "Para ganar el X PRIZE, una nave espacial necesitaba hacer dos vuelos competitivos exitosos en 14 días. SpaceShipOne hizo un exitoso vuelo competitivo el 29 de septiembre de 2004, y por lo tanto necesitaba hacer un segundo para el 13 de octubre de 2004, con el fin de ganar. Composites escalados pretendían poder volar tres veces dentro de las dos semanas para permitir un vuelo fallido.\nLa fecha del vuelo, el 4 de octubre de 2004, fue el 47 aniversario del lanzamiento de Sputnik 1, el primer satélite artificial en orbitar la Tierra y el mismo día que murió el astronauta Gordon Cooper. El primer vuelo con motor de SpaceShipOne fue, en una vena similar, en el centenario del primer vuelo con motor de los hermanos Wright.\nEl proyecto da Vinci, otro contendiente de X PRIZE, planeaba realizar su primer vuelo competitivo el 2 de octubre de 2004, lo que podría haber causado que se desarrollara una carrera, afectando la programación. Sin embargo, tropezaron con problemas y tuvieron que retrasar sus vuelos. Por lo tanto, el nivel uno pudo seguir su horario de vuelo original. Composites escalados informaron que podrían haber dado vuelta a la nave espacial más rápido que los cinco días que realmente permitieron para ello.\nLos observadores previeron que Mike Melvill, el piloto de los dos vuelos espaciales anteriores realizados por SpaceShipOne, pilotaría también este vuelo. Esta expectativa no fue apoyada por ninguna evidencia real, sino que se basó en la experiencia previa de Melvill. En la mañana del vuelo se anunció que Brian Binnie sería el piloto."
+    },
+    {
+      "titulo": "Manifiesto",
+      "nivel": 2,
+      "texto": "Según las normas de Ansari X PRIZE, el vuelo debía transportar 180 kg de carga útil, para simular a dos pasajeros humanos de 90 kg. Mientras que Scaled Composites declaró que el primer vuelo competitivo no transportaría pasajeros, no hizo ninguna declaración sobre vuelos competitivos posteriores. Parecía posible que Burt Rutan fuera un pasajero en el vuelo 17P, pero al final no lo era, ya que la FAA había restringido el vuelo a sólo el piloto y ningún pasajero. La carga útil incluía:\nEquipo de monitoreo de vuelo X PRIZE, conocido como \"caja de oro\"\nla bandera del Club Exploradores, por acuerdo entre el Club Exploradores y la Fundación X PRIZE\nLos mismos logotipos fueron transportados como en el vuelo 16P:\nComposites escalados\n\"SpaceShipOne: a Paul G. Proyecto Allen\" en SpaceShipOne\n\"Caballero Blanco\" en Caballero Blanco\nVirgen Galáctica, en la cola\nVirgen, en el fuselaje\nPREMIO ANSari X, según lo dispuesto en las reglas de PREMIO X\nEl Espíritu de San Luis, un centro científico\nM&M\n7-up Plus\nChamp Car World Series"
+    },
+    {
+      "titulo": "Perfil de vuelo",
+      "nivel": 2,
+      "texto": "Todos los tiempos están en PDT, que es siete horas detrás de UTC. Esta era la hora civil local en el puerto espacial el día del vuelo.\nEl piloto de SpaceShipOne fue Brian Binnie. White Knight fue pilotado por Mike Melvill.\nEl taxi, programado para las 06:30, comenzó a las 06:36. El despegue desde Mojave Spaceport, programado para las 07:00, tuvo lugar a las 06:49. White Knight entonces llevó SpaceShipOne a la altitud de lanzamiento, en más de 43.500 pies (13,3 km). SpaceShipOne se separó de White Knight a las 07:49, y rápidamente encendió su cohete.\nEl motor del cohete fue capaz de quemarse durante aproximadamente 87 s. La altitud de quemadura fue de más de 200.000 pies (61 km). Después de quemarse la nave continuó costando hacia arriba. El ala fue emplumada, en configuración de alto drag, durante la fase de costa. La nave espacial llegó a apogeo a una altitud de 112,01 km, muy por encima de la altitud objetivo de X PRIZE. También rompió la altitud récord de 107,96 km para un avión cohete, fijado por el X-15 en 1963.\nDespués del apogeo, SpaceShipOne volvió a entrar en la atmósfera en su configuración emplumada, y luego cambió a configuración de deslizamiento a las 07:57. SpaceShipOne se deslizó hacia el puerto espacial, desplegó un tren de aterrizaje a 1,28 km (1,200 pies) y aterrizó a salvo a las 08:13. Caballero Blanco aterrizó a las 08:19."
+    },
+    {
+      "titulo": "Espectacle",
+      "nivel": 2,
+      "texto": "Al igual que con los vuelos espaciales anteriores de SpaceShipOne, una gran multitud observó desde Mojave Spaceport. También había cobertura de televisión en directo, y varios sitios web ofrecían cobertura en su medio de preferencia.\nDistinguidos asistentes incluyeron:\nRichard Branson, de la Virgen Galáctica\nPaul Allen, de Mojave Aerospace Ventures\nRick Searfoss, juez jefe de X PRIZE\nJerry Pournelle, autor de ciencia ficción"
+    },
+    {
+      "titulo": "X PREMIO",
+      "nivel": 2,
+      "texto": "El Premio Ansari X requiere que la misma nave espacial realice dos vuelos espaciales en un plazo de dos semanas. SpaceShipOne realizó su primer vuelo competitivo (vuelo 16P) el 29 de septiembre de 2004. Por lo tanto, este segundo vuelo competitivo exitoso ganó el X PRIZE. Esto fue declarado por Rick Searfoss, el juez jefe de X PRIZE, en una rueda de prensa posterior al vuelo. El premio fue otorgado el 6 de noviembre de 2004."
+    },
+    {
+      "titulo": "Jubilación",
+      "nivel": 2,
+      "texto": "El 25 de julio de 2005, SpaceShipOne fue llevado al Oshkosh Airshow en Oshkosh, Wisconsin. Después del espectáculo aéreo, Mike Melvill y su tripulación volaron el Caballero Blanco, llevando SpaceShipOne, a la Base de la Fuerza Aérea Wright-Patterson en Dayton, Ohio, donde Melvill habló con un grupo de unos 300 militares y civiles. Más tarde en la noche, Melvill hizo una presentación en el Dayton Engineers Club, titulada \"Algunos experimentos en vuelo espacial\", en honor de la ya famosa presentación de Wilbur Wright a la Sociedad Americana de Ingenieros Mecánicos en 1901 titulada \"Algunos experimentos en vuelo\". El Caballero Blanco luego transportó SpaceShipOne al Museo Nacional del Aire y el Espacio de la Institución Smithsoniana para que se exhibiera. Fue presentado el miércoles 5 de octubre de 2005 en la galería Milestones of Flight y ahora está en exhibición al público en el atrio principal con el Espíritu de San Luis, el Bell X-1, el Wright Flyer, y el módulo de mando Apollo 11 Columbia.\nEl Comandante Brian Binnie donó el traje de vuelo usado durante su vuelo ganador del Premio Ansari X a una subasta que benefició al Museo de Vuelo de Seattle. Fred Northup, Jr. compró el traje de vuelo, y está en préstamo y expuesto en la nueva galería espacial Charles Simonyi del museo."
+    }
+  ],
+  "num_palabras": 1099
+}
