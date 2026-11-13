@@ -1,0 +1,58 @@
+{
+  "id": "doc_1169",
+  "titulo": "QuetzSat 1",
+  "titulo_wikipedia_en": "QuetzSat 1",
+  "fecha_lanzamiento": "2011-09-29",
+  "año_lanzamiento": 2011,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de comunicaciones",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/QuetzSat_1",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Satélite de comunicaciones",
+    "Operador": "QuetzSat",
+    "Plataforma (bus)": "LS-1300",
+    "Fecha de lanzamiento": "29 de septiembre de 2011",
+    "Lugar de lanzamiento": "Cosmódromo de Baikonur, Kazajistán",
+    "Vehículo de lanzamiento": "Proton-M/Briz-M",
+    "Duración planificada": "15 años",
+    "ID NSSDC": "2011-054A",
+    "Masa en el lanzamiento": "5,514 kg",
+    "Potencia": "20 kW (2 paneles solares desplegables)",
+    "Propulsión": "Motor Aerojet R-4D, 4 propulsores de plasma SPT-100",
+    "Sistema de referencia orbital": "Geoestacionaria",
+    "Semieje mayor": "42,138.1 km",
+    "Periapsis": "35,729.9 km",
+    "Apoapsis": "35,804.4 km",
+    "Inclinación orbital": "0.1°",
+    "Periodo orbital": "1,434.7 min",
+    "Órbita RAAN": "77° Oeste",
+    "Trans nombre": "32",
+    "Banda de transmisión": "Ku"
+  },
+  "resumen": "El QuetzSat 1 es un satélite de comunicaciones de alta potencia propiedad de la empresa mexicana QuetzSat (conformada por Grupo MedCom y SES S.A.) y fabricado por la estadounidense Space Systems/Loral. Proporciona cobertura en México, América Central y Estados Unidos.\nQuetzSat 1, que forma parte de la flota de satélites de SES S.A., se ubica en la posición 77° Oeste, lugar que el gobierno mexicano ha concedido los derechos de frecuencia de DTH a la empresa QuetzSat. El costo total del satélite fue de $250 millones de dólares, incluido el lanzamiento y el seguro.",
+  "secciones": [
+    {
+      "titulo": "Objetivo",
+      "nivel": 2,
+      "texto": "Es utilizado por Dish México, una empresa de Grupo MVS para servicios de televisión por satélite en México. Está diseñado para proporcionar el servicio por 15 años o más. Es un satélite tipo LS-1300, que ofrece flexibilidad para una amplia gama de aplicaciones."
+    },
+    {
+      "titulo": "Lanzamiento",
+      "nivel": 2,
+      "texto": "El 29 de septiembre de 2011 a las 18:32 GMT, el satélite QuetzSat 1 fue lanzado por la International Launch Services desde el cosmódromo de Baikonur y puesto en la órbita geoestacionaria prevista y está a disposición de la operadora satelital mexicana QuetzSat. El vehículo encargado de ponerlo en órbita fue el Proton-M."
+    },
+    {
+      "titulo": "Especificaciones",
+      "nivel": 2,
+      "texto": "Operador: QuetzSat\nFabricante: Space Systems/Loral\nPosición orbital: 77° Oeste\nCarga útil: 32 transpondedores de banda Ku\nModelo de satélite: LS-1300S (expanded)\nPeso:\nPropulsión: Motor Aerojet R-4D, 4 propulsores de plasma SPT-100\nEstabilización: 3 ejes\nTiempo de vida: 15 años\nOtros nombres: 37826"
+    }
+  ],
+  "num_palabras": 232
+}

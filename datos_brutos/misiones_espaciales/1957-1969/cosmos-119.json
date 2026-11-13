@@ -1,0 +1,42 @@
+{
+  "id": "doc_0164",
+  "titulo": "Cosmos 119",
+  "titulo_wikipedia_en": "Kosmos 119",
+  "fecha_lanzamiento": "1966-05-24",
+  "año_lanzamiento": 1966,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite (programa Cosmos)",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Cosmos_119",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Reentrado en la atmósfera",
+    "Tipo de misión": "Experimental, estudios ionosféricos.",
+    "Fecha de lanzamiento": "24 de mayo de 1966",
+    "Lugar de lanzamiento": "Cosmódromo de Kapustin Yar",
+    "Vehículo de lanzamiento": "Cosmos-2I",
+    "ID NSSDC": "1966-043A",
+    "Masa en el lanzamiento": "250 kg",
+    "Tipo de fin de misión": "reingreso",
+    "Fecha de reentrada": "30 de noviembre de 1966"
+  },
+  "resumen": "Cosmos 119 (en cirílico, Космос 119) fue un satélite artificial científico soviético perteneciente a la clase de satélites DS (el primero de tipo DS-U2-I) y lanzado el 24 de mayo de 1966 mediante un cohete Cosmos-2I desde el cosmódromo de Plesetsk.",
+  "secciones": [
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "La misión de Cosmos 119 consistió en realizar estudios sobre el efecto de la ionosfera en la transmisión de ondas de radio VLF."
+    },
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "El satélite tenía una masa de 250 kg) y fue inyectado inicialmente en una órbita con un perigeo de 219 km y un apogeo de 1305 km, con una inclinación orbital de 48,5 grados y un periodo de 99,7 minutos.\nCosmos 119 reentró en la atmósfera el 30 de noviembre de 1966."
+    }
+  ],
+  "num_palabras": 116
+}

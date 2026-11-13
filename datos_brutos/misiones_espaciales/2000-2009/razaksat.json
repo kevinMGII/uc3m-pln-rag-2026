@@ -1,0 +1,52 @@
+{
+  "id": "doc_1105",
+  "titulo": "RazakSAT",
+  "titulo_wikipedia_en": "RazakSAT",
+  "fecha_lanzamiento": "2009-07-14",
+  "año_lanzamiento": 2009,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de observación terrestre",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/RazakSAT",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Activo",
+    "Tipo de misión": "Reconocimiento terrestre",
+    "Operador": "Malasia",
+    "Fecha de lanzamiento": "14 de julio de 2009",
+    "Lugar de lanzamiento": "Isla de Omelek",
+    "Vehículo de lanzamiento": "Falcon 1",
+    "Duración planificada": "3 años",
+    "Configuración": "Hexagonal",
+    "Masa en el lanzamiento": "180 kg",
+    "Dimensiones": "1,2 m de diámetro",
+    "Potencia": "300 vatios (Níquel-Cadmio)",
+    "Sistema de referencia orbital": "Casi ecuatorial",
+    "Apoapsis": "685 km",
+    "Inclinación orbital": "9 grados"
+  },
+  "resumen": "RazakSAT (antes conocido como MACSAT) es un satélite artificial de Malasia lanzado el 14 de julio de 2009 a bordo de un cohete Falcon 1 desde la isla de Omelek, en el océano Pacífico a una órbita casi ecuatorial. Es el primer lanzamiento comercial exitoso de un Falcon 1 y el segundo satélite de reconocimiento malayo tras el TiungSAT-1, lanzado en 2000.",
+  "secciones": [
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "El objetivo de RazakSAT es realizar reconocimientos fotográficos de alta resolución en la zona ecuatorial de la Tierra y en particular de Malasia."
+    },
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "RazakSAT tiene una masa de 180 kg y fue inyectado en una órbita casi ecuatorial de 685 km de altura y 9 grados de inclinación orbital. Tiene forma de caja hexagonal de 1,2 m de diámetro. Está estabilizado en los tres ejes y tiene una precisión de apuntado inferior a 0,2 grados. La alimentación eléctrica está proporcionada por paneles solares compuestos por células de germanio y arseniuro de galio, que proporcionan hasta 300 vatios de potencia y alimentan unas baterías de níquel y cadmio con una capacidad de 18 amperios-hora. Las comunicaciones se realizan en banda S, con tasas de transferencia en subida de 9600 o 1200 bit/s y en bajada de 38,4 kbit/s, 9600 bit/s o 1200 bit/s. El satélite también porta una memoria de estado sólido con una capacidad de 32 Gbit. Su vida útil se estima en tres años.\nRazakSAT lleva una cámara de apertura de tamaño medio (MAC, Medium-sized Aperture Camera) que proporciona imágenes pancromáticas de 2,5 metros de resolución e imágenes multiespectrales de 5 metros de resolución."
+    },
+    {
+      "titulo": "Lanzamiento",
+      "nivel": 2,
+      "texto": "El cohete Falcon 1 con RazakSAT a bordo despegó el 14 de julio de 2009 a las 3:35 GMT tras un retraso de cuatro horas debido a un fallo en el equipo utilizado para cargar helio a bordo del Falcon 1. Tras la solución del problema, el tiempo tormentoso retrasó aún más el lanzamiento. Tras el despegue el Falcon 1 y la separación de la primera etapa, el lanzador alcanzó una órbita de aparcamiento. Más tarde se reencendió para poner al satélite en su órbita final."
+    }
+  ],
+  "num_palabras": 343
+}

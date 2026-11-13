@@ -1,0 +1,53 @@
+{
+  "id": "doc_0768",
+  "titulo": "Astrid (satélite)",
+  "titulo_wikipedia_en": "Astrid (satellite)",
+  "fecha_lanzamiento": "1995-01-24",
+  "año_lanzamiento": 1995,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de observación terrestre",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Astrid_(satélite)",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Inactivo",
+    "Tipo de misión": "Observación del entorno de plasma terrestre",
+    "Operador": "Corporación espacial sueca",
+    "Fecha de lanzamiento": "24 de enero de 1995",
+    "Lugar de lanzamiento": "Cosmódromo de Plesetsk",
+    "Vehículo de lanzamiento": "Cosmos 3",
+    "ID NSSDC": "1995-002B",
+    "Masa en el lanzamiento": "26 kg",
+    "Potencia": "Níquel-Cadmio",
+    "Periapsis": "963 km",
+    "Apoapsis": "1027 km",
+    "Inclinación orbital": "82,9 grados",
+    "Periodo orbital": "105 minutos",
+    "Ancho de banda": "131 u 8 kbit/s de bajada y 4800 bit/s de subida",
+    "Datos interplanetarios": "tipo: orbitador | objeto: Tierra"
+  },
+  "resumen": "Astrid es un microsatélite artificial sueco lanzado el 24 de enero de 1995 mediante un cohete Cosmos 3 desde el cosmódromo de Plesetsk, en Rusia. Fue el tercer satélite artificial científico sueco.",
+  "secciones": [
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "La misión de Astrid era investigar el comportamiento del plasma en las cercanías de la Tierra, enfatizando el estudio de los fenómenos en los que intervienen partículas neutras. También sirvió como prueba tecnológica de la plataforma para microsatélites FREJA-C."
+    },
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "El satélite se estabilizaba mediante rotación y se orientaba mediante un magnetómetro y un sensor solar. La energía era proporcionada por cuatro paneles solares que producían hasta 20 vatios de potencia que a su vez alimentaban a un par de baterías de níquel-cadmio. El procesamiento de los datos era llevado a cabo por un microprocesador 80C31 con 8 MiB de memoria. Las comunicaciones se llevaban a cabo mediante un enlace en banda S a 131 kbit/s u 8 kbit/s de bajada y 4,8 kbit/s de subida. La potencia del transmisor era de 2 vatios. El satélite era controlado desde la estación terrestre Esrange en Kiruna."
+    },
+    {
+      "titulo": "Instrumentación",
+      "nivel": 2,
+      "texto": "Astrid llevaba tres instrumentos científicos:\nPIPPI (Prelude in Planetary Particle Imaging): un analizador de átomos energéticos neutros.\nEMIL (Electron Measurements - In-situ and Lightweight): un espectrómetro de electrones.\nMIO (Miniature Imaging Optics): dos cámaras ultravioleta para la observación de la línea Lyman alfa de la geocorona terrestre y la observación de emisiones aurorales.\nLos instrumentos fueron desarrollados por el Instituto Sueco de Física Espacial de Kiruna.\nEl satélite funcionó sin problemas durante un mes hasta que el 1 de marzo de 1995 falló uno de los conversores de corriente continua, dejando inutilizado el equipamiento científico. A partir de ese momento el satélite fue utilizado como banco de pruebas para experimentos de comunicación y para probar algoritmos de apuntado hacia el Sol."
+    }
+  ],
+  "num_palabras": 297
+}

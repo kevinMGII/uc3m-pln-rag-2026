@@ -1,0 +1,27 @@
+{
+  "id": "doc_1098",
+  "titulo": "CP 6 (CubeSat)",
+  "titulo_wikipedia_en": "CP6 (satellite)",
+  "fecha_lanzamiento": "2009-05-19",
+  "año_lanzamiento": 2009,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite experimental",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/CP_6_(CubeSat)",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Demostración de tecnología",
+    "Operador": "CalPoly",
+    "Fecha de lanzamiento": "16 de mayo de 2009",
+    "Vehículo de lanzamiento": "Minotaur I",
+    "ID NSSDC": "2009-028C"
+  },
+  "resumen": "CP6, también conocido como PolySat-6, PolySat CP-6 o CalPoly 6 es un CubeSat de una sola unidad que fue construido y operado por la Universidad Politécnica Estatal de California. Su objetivo principal era realizar una misión de demostración de tecnología. El experimento principal consistió en sensores para determinar la actitud de la nave espacial. Las cámaras en el satélite se utilizarán para verificar los datos devueltos por los sensores de actitud.\nFue lanzado desde la plataforma de lanzamiento MARS LP-0B el 16 de mayo de 2009 por un Minotaur I.",
+  "secciones": [],
+  "num_palabras": 90
+}

@@ -1,0 +1,38 @@
+{
+  "id": "doc_0959",
+  "titulo": "TDRS-10",
+  "titulo_wikipedia_en": "TDRS-10",
+  "fecha_lanzamiento": "2002-12-05",
+  "año_lanzamiento": 2002,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de comunicaciones",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/TDRS-10",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Satélite de comunicaciones",
+    "Operador": "NASA",
+    "Fecha de lanzamiento": "5 de diciembre de 2002",
+    "Vehículo de lanzamiento": "Atlas II",
+    "Duración de la misión": "11 años (planeado)",
+    "ID NSSDC": "2002-055A",
+    "Masa en el lanzamiento": "3.180 kg",
+    "Periapsis": "35.766 km",
+    "Apoapsis": "35.798 km",
+    "Inclinación orbital": "6,09 grados"
+  },
+  "resumen": "El TDRS-10, conocido antes del lanzamiento como TDRS-J, es un satélite de comunicaciones estadounidense operado por la NASA y construido por Boeing como parte del Tracking and Data Relay Satellite System.",
+  "secciones": [
+    {
+      "titulo": "Lanzamiento",
+      "nivel": 2,
+      "texto": "Se utilizó un cohete Atlas IIA para lanzar el TDRS-J, en virtud de un contrato con International Launch Services. El lanzamiento se produjo a las 02:42 UTC del 5 de diciembre de 2002, desde el complejo de lanzamiento 36A en la Estación de la Fuerza Aérea de Cabo Cañaveral. Tras el lanzamiento el TDRS-10 se separó de su cohete portador en una órbita de transferencia geosincrónica. A las 01:00 UTC del 14 de diciembre, tras una serie de encendidos de su motor, alcanzó la órbita geoestacionaria."
+    }
+  ],
+  "num_palabras": 117
+}

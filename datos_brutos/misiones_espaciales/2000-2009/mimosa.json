@@ -1,0 +1,33 @@
+{
+  "id": "doc_0975",
+  "titulo": "MIMOSA",
+  "titulo_wikipedia_en": "MIMOSA",
+  "fecha_lanzamiento": "2003-06-30",
+  "año_lanzamiento": 2003,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Otro vuelo espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/MIMOSA",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Activo",
+    "Tipo de misión": "Estudio de la atmósfera superior",
+    "Fecha de lanzamiento": "30 de junio de 2003",
+    "Lugar de lanzamiento": "Cosmódromo de Plesetsk",
+    "Vehículo de lanzamiento": "Rokot",
+    "ID NSSDC": "2003-031B",
+    "Configuración": "Esférica",
+    "Masa en el lanzamiento": "66 kg",
+    "Periapsis": "316 km",
+    "Apoapsis": "829 km",
+    "Inclinación orbital": "96,8 grados",
+    "Periodo orbital": "96,1 minutos"
+  },
+  "resumen": "MIMOSA (Micromeasurements of Satellite Acceleration) es un satélite artificial de la República Checa lanzado el 30 de junio de 2003 mediante un cohete Rokot desde el cosmódromo de Plesetsk, en Rusia.\nLa misión de MIMOSA era la de estudiar la densidad de las capas altas de la atmósfera utilizando un microacelerómetro, pero problemas técnicos a bordo del satélite han impedido su funcionamiento completo.\nTiene forma aproximadamente esférica",
+  "secciones": [],
+  "num_palabras": 67
+}

@@ -1,0 +1,47 @@
+{
+  "id": "doc_0072",
+  "titulo": "Cosmos 11",
+  "titulo_wikipedia_en": "Kosmos 11",
+  "fecha_lanzamiento": "1962-10-20",
+  "año_lanzamiento": 1962,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite (programa Cosmos)",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Cosmos_11",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Reentrado en la atmósfera",
+    "Tipo de misión": "Militar / científico",
+    "Fecha de lanzamiento": "20 de octubre de 1962",
+    "Lugar de lanzamiento": "Kapustin Yar",
+    "Vehículo de lanzamiento": "Kosmos-2I",
+    "ID NSSDC": "1962-056A",
+    "Masa en el lanzamiento": "315 kg",
+    "Tipo de fin de misión": "reingreso",
+    "Fecha de reentrada": "18 de mayo de 1964"
+  },
+  "resumen": "Cosmos 11 (en cirílico, Космос 11) fue un satélite artificial soviético perteneciente a la clase de satélites DS y lanzado el 20 de octubre de 1962 mediante un cohete Kosmos-2I desde Kapustin Yar.",
+  "secciones": [
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "El objetivo de Cosmos 11 fue realizar experimentos de comunicación y navegación para cubrir las necesidades de las fuerzas nucleares soviéticas. También realizó estudios sobre rayos cósmicos, sobre la radiación proveniente de las pruebas nucleares, sobre los cinturones de radiación y sobre la ionosfera."
+    },
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "Cosmos 11 tenía una masa de 315 kg y reentró en la atmósfera el 18 de mayo de 1964. Para los estudios ionosféricos empleó un transmisor Mayak funcionando a 20,0048 y 90,022 MHz. El satélite fue inyectado en una órbita con un perigeo de 240 km y un apogeo de 858 km, con una inclinación orbital de 48,9 grados y un periodo de 95,6 minutos."
+    },
+    {
+      "titulo": "Resultados",
+      "nivel": 2,
+      "texto": "Los resultados obtenidos con el transmisor Mayak del Cosmos 11 fueron utilizados en el refinamiento de modelos y fórmulas para determinar la concentración de electrones en la ionosfera."
+    }
+  ],
+  "num_palabras": 170
+}

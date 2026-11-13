@@ -1,0 +1,59 @@
+{
+  "id": "doc_1178",
+  "titulo": "Sistema Satelital de Observación Terrestre",
+  "titulo_wikipedia_en": "SSOT (satellite)",
+  "fecha_lanzamiento": "2011-12-17",
+  "año_lanzamiento": 2011,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de observación terrestre",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Sistema_Satelital_de_Observación_Terrestre",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Activo",
+    "Tipo de misión": "Observación terrestre",
+    "Operador": "Fuerza Aérea de Chile",
+    "Fecha de lanzamiento": "16 de diciembre de 2011",
+    "Lugar de lanzamiento": "Puerto espacial de Kourou, Guayana Francesa",
+    "Vehículo de lanzamiento": "Soyuz 2",
+    "Duración planificada": "5 años nominal.",
+    "Masa en el lanzamiento": "130 kg",
+    "Dimensiones": "140 cm x 95 cm",
+    "Potencia": "160 W",
+    "Sistema de referencia orbital": "LEO, sincrónica al sol",
+    "Inclinación orbital": "97,8664 grados",
+    "Periodo orbital": "97,23 minutos",
+    "Telescopio resolución": "1,45m PAN 5,8 MS",
+    "Banda de transmisión": "4 RGB + NIR",
+    "Datos interplanetarios": "tipo: orbitador | objeto: Satélite de observación terrestre"
+  },
+  "resumen": "El Sistema Satelital de Observación Terrestre (SSOT), también conocido como FASat-Charlie, es un satélite chileno, que fue lanzado el 16 de diciembre de 2011, y se incluye dentro de las obras que celebran el bicentenario del país. El objetivo del SSOT es contar con un sistema satelital orientado a la observación del territorio, que sea de proyección global y basado en la cooperación internacional.\nEl proyecto fue encargado por el Ministerio de Defensa al fabricante espacial europeo EADS Astrium —con sede en Toulouse, Francia— y tuvo un costo de adquisición, según contrato firmado el 25 de julio de 2008, de 72,5 millones de dólares. Para su puesta en órbita se utilizó un cohete Soyuz, que fue lanzado desde el Puerto espacial de Kourou, Guayana Francesa, utilizado actualmente por la Agencia Espacial Europea.",
+  "secciones": [
+    {
+      "titulo": "Antecedentes",
+      "nivel": 2,
+      "texto": "Previo al FASat-Charlie, Chile tuvo dos experiencias con micro satélites. El primer de ellos, FASat-Alfa, fue lanzado el 31 de agosto de 1995; sin embargo, no logró separarse de su satélite madre, el ucraniano Sich-1, por lo que el satélite chileno sigue en órbita adosado al Sich-1, originado por una falla en el sistema pirotécnico que permitía la separación y ruptura del resorte que los unía, y continúa siendo monitoreado por NORAD. Tres años después del fallido intento inicial, gracias a la existencia de seguros comprometidos en el FASat-Alfa, el FASat-Bravo se convirtió en el primer satélite artificial chileno en orbitar la Tierra de manera independiente. En el tercer año de vida, este satélite quedó inoperativo debido a que su sistema de potencia presentó fallas, específicamente el proceso de carga de sus baterías, por lo que se convirtió en basura espacial."
+    },
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Funcionales",
+      "nivel": 3,
+      "texto": "Aplicaciones civiles: De acuerdo a un inventario realizado por especialistas nacionales, se han identificado alrededor de 180 aplicaciones civiles orientadas a la agricultura, a la agricultura de precisión, silvicultura, el ordenamiento territorial, el mapeo de zonas urbanas, estudios de crecimiento y de la dinámica poblacional. la biomasa de la silvicultura, los catastros de bosques, protección de fronteras, el monitoreo de grandes obras o de catástrofes. A partir de las imágenes captadas se puede regular el crecimiento urbano, la conectividad, el turismo, el área forestal, protección del medio ambiente y la agricultura.\nAplicaciones de defensa"
+    },
+    {
+      "titulo": "Físicas",
+      "nivel": 3,
+      "texto": "Material: es un satélite pequeño hecho de carburo de silicio, un material tan duro como el zafiro y se deforma menos que el acero.\nMasa: 116 kilogramos.\nVelocidad: 7,5 kilómetros por segundo.\nTelescopio: resolución en tierra de 1,45 m en pancromática y 5,8 m en multiespectral (espectro visible y NIR). Entrega alrededor de 100 imágenes diarias, con una frecuencia de 3 días en una órbita polar, a una distancia de 620 kilómetros de altura.\nVida útil: ≥ 5 años."
+    }
+  ],
+  "num_palabras": 446
+}

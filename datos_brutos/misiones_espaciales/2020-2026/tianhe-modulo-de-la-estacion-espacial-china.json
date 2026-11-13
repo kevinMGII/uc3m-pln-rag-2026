@@ -1,0 +1,43 @@
+{
+  "id": "doc_1430",
+  "titulo": "Tianhe (módulo de la estación espacial china)",
+  "titulo_wikipedia_en": "Tianhe core module",
+  "fecha_lanzamiento": "2021-04-29",
+  "año_lanzamiento": 2021,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Otro vuelo espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Tianhe_(módulo_de_la_estación_espacial_china)",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Fecha de lanzamiento": "29 de abril de 2021",
+    "Vehículo de lanzamiento": "Long March 5B (LM-5B)",
+    "Masa en el lanzamiento": "22 toneladas",
+    "Dimensiones": "18,1 m de largo",
+    "Misión anterior": "Estación espacial Tiangong",
+    "Misión siguiente": "Wentian"
+  },
+  "resumen": "El Tianhe, nombre clave TH, o Módulo de Cabina Central (CCM, por sus siglas en inglés: Core Cabin Module) es el elemento fundamental de la estación espacial china, como la etapa final del programa Proyecto Tiangong, parte del programa espacial chino. El CCM sigue las series Salyut y Almaz, Cosmos 557, Skylab, Mir, ISS, Tiangong-1 y Tiangong-2. Es la primera parte de una estación espacial modular de tercera generación. Otros ejemplos de proyectos de estaciones modulares incluyen el Mir soviético/ruso, el OPSEK ruso y la Estación Espacial Internacional. Las operaciones serán controladas desde el Centro de Control y Comando Aeroespacial de Beijing en la República Popular China. En 2018, se presentó públicamente una maqueta a gran escala de CCM en la Exposición Internacional de Aviación y Aeroespacial de China en Zhuhai. Fue lanzado el 29 de abril de 2021.",
+  "secciones": [
+    {
+      "titulo": "Funciones y sistemas",
+      "nivel": 2,
+      "texto": "El módulo principal proporciona soporte vital y alojamiento para tres miembros de la tripulación, y proporciona orientación, navegación y control de orientación para la estación. El módulo también proporciona los sistemas de potencia, propulsión y soporte vital de la estación. El módulo consta de tres secciones: la vivienda habitable, la sección de servicio no habitable y un centro de acoplamiento.\nLas viviendas contendrán una cocina y un baño, equipos de control de incendios, equipos de control y procesamiento atmosférico, computadoras, aparatos científicos, equipos de comunicaciones para ver y escuchar el control terrestre en Beijing y otros equipos. También tendrá un pequeño brazo robótico, similar al brazo MIR Lyappa, para mover los módulos a diferentes puertos.\nLa energía eléctrica es proporcionada por dos conjuntos de energía solar orientables, que utilizan células fotovoltaicas para convertir la luz solar en electricidad. La energía se almacena para alimentar la estación cuando pasa a la sombra de la Tierra. Los barcos de reabastecimiento repondrán combustible para los motores de propulsión del módulo para el mantenimiento de la estación, para contrarrestar los efectos del arrastre atmosférico. Hay 4 motores de iones para propulsión."
+    },
+    {
+      "titulo": "Estructura",
+      "nivel": 2,
+      "texto": "China ha establecido «una buena relación de trabajo» con agencias espaciales en Rusia, Francia, Alemania y otros países. Con una larga historia de transferencia de tecnología con Rusia, los activos espaciales chinos son compatibles con el hardware orbital ruso. El estudio colaborativo MARS-500 entre China, Rusia y Europa se prepara para una misión tripulada en el espacio profundo a Marte.\nEl centro de acoplamiento delantero permite que el módulo central se acople con otras cuatro naves visitantes de la estación espacial, incluidos dos módulos experimentales, una nave espacial Tianzhou de un buque de carga y una nave espacial Shenzhou. El puerto axial y nadir del módulo estará equipado con un equipo de encuentro. Se instalará un brazo mecánico similar al brazo ruso Lyappa utilizado en la estación espacial Mir en cada uno de los futuros módulos experimentales. El puerto axial en el centro de acoplamiento será el puerto de acoplamiento primario. Cuando lleguen nuevos módulos, primero se acoplarán aquí, luego el brazo mecánico se conectará y moverá el módulo a un puerto radial. Las naves de tripulación y suministros del Centro de Lanzamiento de Satélites de Jiuquan se acoplarán a cualquiera de los puertos axiales del módulo, así como al puerto nadir (inferior). El puerto cenital (espacio orientado) se ha modificado para que actúe como la escotilla EVA de las estaciones, ya que el centro de acoplamiento esférico también es la esclusa de aire EVA.\nLa primera estación espacial, Salyut 1, y otras estaciones espaciales de una sola pieza o 'monolíticas' de primera generación, como Salyut 2,3,4,5, DOS 2, Kosmos 557, Almaz y las estaciones Skylab de la NASA, no fueron diseñadas para re -suministro. En general, cada tripulación tenía que abandonar la estación para liberar el único puerto de atraque para que llegara la siguiente tripulación. Skylab tenía más de un puerto de acoplamiento, pero no estaba diseñado para reabastecerse. Salyut 6 y Salyut 7 tenían más de un puerto de atraque y fueron diseñados para ser reabastecidos\nrutinariamente durante la operación de la tripulación. Las estaciones modulares pueden permitir que la misión se cambie con el tiempo, y se pueden agregar o quitar nuevos módulos de la estructura existente, lo que permite una mayor flexibilidad. El CCM está diseñado para la reposición de consumibles y tiene una vida útil de al menos 10 años.\nLa longitud del módulo es de 18,1 m. Es cilíndrico con un diámetro máximo de 4,2 y una masa en órbita entre 20 y 22 mil kilogramos."
+    },
+    {
+      "titulo": "Lanzamiento",
+      "nivel": 2,
+      "texto": "El 14 de enero de 2021, CMSEO anunció el inicio de la fase de construcción de la estación espacial china de tres módulos. El módulo central, Tianhe, pasó la revisión de aceptación de vuelo. Este módulo central proporciona espacio vital y apoyo a los astronautas y alberga los elementos de energía y propulsión del puesto de avanzada.\nTianhe fue lanzado el 29 de abril de 2021, a las 03:23:15 UTC, a bordo de un vehículo de lanzamiento Long March 5B desde el sitio de lanzamiento de naves espaciales de Wenchang. Tras la puesta en órbita del módulo central, la primera etapa vacía de su vehículo de lanzamiento entró en una órbita fallida temporal e incontrolada. Se plantearon algunas preocupaciones sobre los posibles daños causados por los restos de la reentrada incontrolada: las observaciones mostraron que el cohete estaba dando vueltas, lo que complica las predicciones sobre una eventual zona de aterrizaje, aunque el resultado más probable era un impacto marítimo. Se establecieron paralelismos con un lanzamiento anterior en mayo de 2020 que, al parecer, causó algunos daños en Costa de Marfil. El cohete reentró sobre la península arábiga el 9 de mayo a las 02:24 UTC, aterrizando en el océano Índico al oeste de las Maldivas, según la Oficina de Ingeniería Espacial Tripulada de China (CMSEO), habiéndose quemado gran parte del mismo antes del impacto. El Comando Espacial de los Estados Unidos confirmó el lugar de reentrada.\nLa primera nave espacial programada que visitó el módulo central de Tianhe fue la nave de reabastecimiento de carga Tianzhou 2 el 29 de mayo de 2021, seguida por Shenzhou 12, que llevaba una tripulación de tres personas a la estación el 17 de junio de 2021. Tianzhou 3 y Shenzhou 13 fueron lanzadas a la estación el 20 de septiembre de 2021 y el 15 de octubre de 2021, respectivamente."
+    }
+  ],
+  "num_palabras": 1047
+}

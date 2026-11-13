@@ -1,0 +1,41 @@
+{
+  "id": "doc_1485",
+  "titulo": "Tianzhou 6",
+  "titulo_wikipedia_en": "Tianzhou 6",
+  "fecha_lanzamiento": "2023-05-10",
+  "año_lanzamiento": 2023,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Otro vuelo espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Tianzhou_6",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {},
+  "resumen": "Tianzhou 6 (天舟六号) es la sexta misión de la nave espacial de carga no tripulada de la Tianzhou, y la quinta misión de reabastecimiento a la estación espacial Tiangong. Al igual que las misiones anteriores de Tianzhou, la nave espacial se lanzó desde el Centro de Lanzamiento de Satélites de Wenchang en Hainan, China, en un cohete Larga Marcha 7. Esta fue la primera misión de la fase de operación de Tiangong. Fue lanzado el 10 de mayo de 2023 a las 13:22 UTC, y acoplado a la estación espacial Tiangong unas horas más tarde.",
+  "secciones": [
+    {
+      "titulo": "Historia de la misión",
+      "nivel": 2,
+      "texto": "El 12 de marzo de 2023, la CMSA anunció que Tianzhou 6 completó la fabricación y se entregó a Wenchang.\nEl 13 de abril de 2023, Larga Marcha 7 Y7, el vehículo de lanzamiento para esta misión, llegó al Centro de Lanzamiento de Satélites de Wenchang. Comenzó a realizar apilamiento y pruebas con el Tianzhou 6 ya llegado.\nEl 7 de mayo de 2023, Larga Marcha 7 Y7 y Tianzhou 6 llegaron verticalmente a la plataforma de lanzamiento.\nEl 10 de mayo de 2023 a las 13:22:51.405 UTC, se lanzó con éxito desde Wenchang. Se acopló al puerto de popa de la estación espacial Tiangong menos de 8 horas después."
+    },
+    {
+      "titulo": "Astronave",
+      "nivel": 2,
+      "texto": "La capacidad de carga de Tianzhou 6 se ha incrementado en un 20 %, lo que le permite transportar cargas útiles de hasta 7,4 toneladas. Tianzhou 6 tiene la mayor capacidad de la serie Tianzhou y es la nave espacial de suministro de carga activa más grande en términos de capacidad.\nA partir de esta misión, la frecuencia de lanzamiento de la nave espacial de carga Tianzhou se ajustará de dos naves por año a tres naves cada dos años."
+    },
+    {
+      "titulo": "Carga",
+      "nivel": 2,
+      "texto": "Tianzhou-6 llevó 1750 kg de combustible, de los cuales 700 kg es para reabastecer la estación espacial. Entregó más de 7 toneladas de carga presurizada, incluidas cargas útiles científicas para investigar sobre lidar y flujo supercrítico. También trajo 70 kg de fruta fresca para la tripulación del Shenzhou 15 y 16."
+    },
+    {
+      "titulo": "Programa Tianzhou",
+      "nivel": 2,
+      "texto": "misión anterior = Tianzhou 5\n/ misión siguiente = Tianzhou 7"
+    }
+  ],
+  "num_palabras": 347
+}

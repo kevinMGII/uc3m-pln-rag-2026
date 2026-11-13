@@ -1,0 +1,28 @@
+{
+  "id": "doc_0835",
+  "titulo": "Iridium 33",
+  "titulo_wikipedia_en": "Iridium 33",
+  "fecha_lanzamiento": "1997-09-14",
+  "año_lanzamiento": 1997,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Otro vuelo espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Iridium_33",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Satélite de comunicaciones",
+    "Operador": "Iridium",
+    "Plataforma (bus)": "LM-700A",
+    "Fecha de lanzamiento": "14 de septiembre de 1997",
+    "Lugar de lanzamiento": "Baikonur Site 81/23",
+    "Vehículo de lanzamiento": "Proton-K/DM-2",
+    "ID NSSDC": "1997-051C"
+  },
+  "resumen": "El Iridium 33 fue un satélite de comunicaciones Iridium estadounidense. Fue lanzado desde el Cosmódromo de Baikonur a las 01:36 GMT de 14 de septiembre de 1997 por un cohete Proton-K.\nEl 10 de febrero de 2009 colisionó con el satélite Cosmos-2251, quedando los dos completamente destruidos. La NASA anunció que se había generado gran cantidad de basura espacial en el suceso.",
+  "secciones": [],
+  "num_palabras": 62
+}

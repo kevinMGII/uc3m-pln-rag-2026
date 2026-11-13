@@ -1,0 +1,86 @@
+{
+  "id": "doc_1262",
+  "titulo": "Cygnus CRS Orb-3",
+  "titulo_wikipedia_en": "Cygnus Orb-3",
+  "fecha_lanzamiento": "2014-10-28",
+  "año_lanzamiento": 2014,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Cygnus_CRS_Orb-3",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Reabastecimiento a la EEI",
+    "Operador": "Orbital Sciences Corporation",
+    "Duración de la misión": "1 mes (planificado) 23 segundos (reales)",
+    "Nave": "S.S. Deke Slayton",
+    "Tipo de nave": "Cygnus",
+    "Fabricante": "Orbital Sciences Corporation; Thales Alenia Space",
+    "Masa en el lanzamiento": "7.594 kg (16.742 libras)",
+    "Masa de la carga": "2.215 kg (4.883 libras)",
+    "Fecha de lanzamiento": "28 de octubre de 2014, 22:22 UTC (18:22 EDT)",
+    "Vehículo de lanzamiento": "Antares 130",
+    "Lugar de lanzamiento": "MARS, Pad 0A",
+    "Tipo de fin de misión": "Terminación de vuelo",
+    "Destrucción fecha": "28 de octubre de 2014, 22:23 UTC",
+    "Programa": "Commercial Resupply Services",
+    "Misión anterior": "SpaceX CRS-4",
+    "Misión siguiente": "SpaceX CRS-5",
+    "Programa (2)": "Cygnus vuelos",
+    "Misión anterior (2)": "Orbital-2",
+    "Misión siguiente (2)": "OA-4"
+  },
+  "resumen": "Orbital-3,también conocido como Orb-3, fue un intento de vuelo de Cygnus, una nave espacial de carga automatizada desarrollada por la empresa estadounidense Orbital Sciences, el 28 de octubre de 2014. La misión estaba prevista para lanzarse a las 22:22 UTC de esta tarde. Este vuelo, que habría sido el cuarto a la Estación Espacial Internacional y el quinto de un vehículo de lanzamiento Antares, resultó en la explosión del cohete Antares segundos después del despegue.",
+  "secciones": [
+    {
+      "titulo": "Astronave",
+      "nivel": 2,
+      "texto": "Este habría sido el tercero de 8 vuelos de Orbital Sciences en virtud del contrato de Servicio de Reabastecimiento Comercial (CRS-1) con la NASA. Este fue el primer intento de vuelo del Antares 130, que utiliza una segunda etapa Castor 30XL más potente, y el último vuelo del módulo de carga presurizada Cygnus de tamaño estándar.\nSiguiendo la tradición de Orbital Sciences, esta nave espacial Cygnus recibió el nombre de SS Deke Slayton en honor a uno de los astronautas originales del Mercury Seven de la NASA y Director de Operaciones de Vuelo, quien murió en 1993. Como el lanzamiento fallo, la siguiente nave espacial también recibió el nombre de Deke Slayton."
+    },
+    {
+      "titulo": "Lanzamiento y operaciones iniciales",
+      "nivel": 2,
+      "texto": "La misión estaba programada para lanzarse el 27 de octubre de 2014 a las 22:45 UTC desde el Puerto Espacial Regional del Atlántico Medio en la instalación de Wallops Flight Facility en la Isla Wallops, Virginia, con encuentro y atraque con la EEI temprano en la mañana del 2 de noviembre de 2014. Este fue el primer lanzamiento nocturno tanto para el lanzador Antares como para nave espacial Cygnus. El lanzamiento fue cancelado debido a preocupaciones de seguridad de un velero que entró en la zona de exclusión menos de 10 minutos antes del lanzamiento. Se estableció un retraso de 24 horas, con la próxima oportunidad de lanzamiento programada para las 22:22 UTC del 28 de octubre de 2014."
+    },
+    {
+      "titulo": "Fallo de lanzamiento",
+      "nivel": 3,
+      "texto": "El cohete Antares que transportaba el Orb-3 Cygnus despego como estaba previsto desde la plataforma de lanzamiento 0A el 28 de octubre de 2014. 15 segundos después del despegue se produjo un fallo de propulsión en la primera etapa. El vehículo comenzó a caer hacia la plataforma de lanzamiento y el oficial de seguridad de campo activo su sistema de terminación de vuelo justo antes del impacto.\nLa explosión se sintió en Pocomoke City, Maryland, a 32 km (20 mi) de distancia. El incendio en el lugar fue contenido rápidamente y se dejó que se apagara durante la noche. La revisión inicial de los datos de telemetría no encontró anormalidades en el prelanzamiento, la secuencia de lanzamiento y vuelo, hasta el momento de la falla.\nEn un comunicado de prensa, la NASA afirmó que no había problemas conocidos antes del lanzamiento y que no hubo personal herido o desaparecido, pero que se perdió toda la carga útil y hubo daños significativos en la plataforma de lanzamiento. El 29 de octubre de 2014, equipos de investigadores comenzaron a examinar los escombros en lugar del accidente, mientras que una inspección el mismo día encontró que no había daños graves en la plataforma de lanzamiento y los tanques de combustible del sitio, aunque se requerían reparaciones.\nUna investigación posterior determinó que la turbobomba LOX había explotado, lo que a su vez provocó una onda expansiva que corto las líneas de propulsión circundantes y provocó un incendio debido a una fuga de combustible. El fuego daño varios componentes de la sección de empuje, lo que provocó que los motores se apagaran gradualmente, aunque no se pudo determinar una razón específica para la falla. Las posibles causas fueron un cojinete de bomba defectuoso, la ingestión de escombros sueltos o un defecto de fabricación."
+    },
+    {
+      "titulo": "Carga útil",
+      "nivel": 2,
+      "texto": "Orb-3 transportaba una variedad de cargas útiles manifestadas por la NASA, algunas determinadas bastante tarde en los días previos al lanzamiento. El vehículo de carga Cygnus transportaba 2215 kg (4883 lb) de suministros y experimentos destinados a la Estación Espacial Internacional. Incluía algunos CubeSats que se lanzarían desde la Estación Espacial Internacional."
+    },
+    {
+      "titulo": "Flock-1d",
+      "nivel": 3,
+      "texto": "Planet Labs estaba lanzando Flock-1d, su próximo grupo de 26 nanosatélites de observación de la Tierra. Después del accidente, afirmaron que esto no los haría retroceder debido a que su aproximación al espacio involucra muchos satélites en varias constelaciones."
+    },
+    {
+      "titulo": "Arkyd-3",
+      "nivel": 3,
+      "texto": "Arkyd-3 era un demostrador de tecnología CubeSat 3U de la empresa privada Planetary Resources (PRI). PRI había empaquetado una serie de tecnologías satelitales no ópticas de su satélite telescopio Arkyd-100 más grande (esencialmente toda la base del modelo de satélite Arkyd-100 revelado en enero de 2013, pero sin el telescopio espacial) en una \"caja rentable\" de Arkyd 3, o A3, para pruebas tempranas de vuelo espacial como un nanosatélite de subescala. El satélite de prueba Arkyd-3 fue empaquetado como un factor de forma CubeSat 3U de 10×10×30 centímetros (3,9×3,9×11,8 pulgadas). PRI contrató a NanoRacks para llevar el A3 a la EEI, donde estaba previsto que fuera liberado de la esclusa de aire en el módulo Kibō.\nLos subsistemas que se probarán incluyen la aviónica, el sistema de determinación y control de actitud (tanto sensores como actuadores) y el sistema de propulsión integrado que permitirá operaciones de proximidad para la línea de prospectores Arkyd en el futuro.\nEste intento a corto plazo de validar y madurar la tecnología del satélite Planetary Resources estaba previsto para su lanzamiento en octubre de 2014, antes del lanzamiento y la prueba de vuelo del Arkyd-100 en 2015."
+    },
+    {
+      "titulo": "Otras cargas útiles",
+      "nivel": 3,
+      "texto": "El CRS Orb-3 transportaba dieciocho experimentos estudiantiles diseñados para investigar la formación de cristales, la germinación de semillas, el crecimiento de plantas y otros procesos en microgravedad como parte del Programa de Experimentos de Vuelos Espaciales Estudiantiles (SSEP). También transportaba los primeros experimentos estudiantiles de código abierto impulsados por ArduLab.\nA bordo se encontraban 2 satélites CubeSat de radioaficionados, RACE y GOMX-2, entre otros. A bordo del GOMX-2 se encontraban dos cargas útiles. Una de ellas era un experimento pionero para el Small Photon-Entangling Quantum System diseñado por el Centro de Tecnologías Cuánticas. La otra era un experimento de freno de vela para sacar un CubeSat de la órbita aumentando la resistencia aerodinámica."
+    },
+    {
+      "titulo": "Análisis de fallos y consecuencias",
+      "nivel": 2,
+      "texto": "Una vez finalizada una investigación preliminar, Orbital citó como probable causa del fallo en el lanzamiento del Orb-3 una falla en la turbobomba de uno de los motores Aerojet Rocketdyne AJ-26, un motor ruso NK-33 renovado. En octubre de 2015 se publicó un informe de la NASA sobre la investigación de la falla. Aunque la NASA y Orbital Sciences coinciden en que la turbobomba falló, difieren en cuanto a la causa raíz (mecanizado o escombros).\nEn enero de 2015, comenzaron las reparaciones de la instalación en el Wallops Flight Facility; se completaron en el otoño de 2016. Para cumplir con sus obligaciones de servicios de reabastecimiento comercial con la NASA, Orbital Sciences lanzó 2 naves espaciales de carga Enhanced Cygnus a través del vehículo de lanzamiento Atlas V: CRS OA-4 (Deke Slayton II) en diciembre de 2015 y CRS OA-6 (Rick Husband) en marzo de 2016, mientras se seleccionaba y probaba un nuevo motor para el vehículo de lanzamiento Antares. Orbital Sciences había estado realizando una evaluación y revisión de un motor de reemplazo AJ-26 antes del incidente, y en el año posterior a la explosión seleccionaron el NPO Energomash RD-181, la versión de exportación del RD-191, para reemplazar al AJ-26 en Antares. Los rusos seleccionaron este mismo motor (RD-193) para reemplazar el motor NK-33 utilizado en la Soyuz-2. El vehículo de lanzamiento Antares rediseñado voló nuevamente en 2016."
+    },
+    {
+      "titulo": "Manifiesto",
+      "nivel": 2,
+      "texto": "Carga total: 2.215 kg (4.883 lb)\nInvestigaciones científicas: 727 kg (1.603 lb)\nCiencia en EE. UU.: 569 kg ( 1254 lb)\nSocio científico internacional: 158 kg (348 lb)\nSuministros para la tripulación: 748 kg (1.649 lb)\nEquipamiento: 124 kg (273 lb)\nComida: 617 kg (1.360 lb)\nLibros de procedimientos de vuelo: 7 kg (15 lb)\nHardware del vehículo: 637,7 kg (1401 lb)\nHardware de EE. UU.: 605,7 kg (1335 lb)\nHardware JAXA: 30 kg (66 lb)\nEquipo para caminata espacial: 66 kg (146 lb)\nRecursos informáticos: 37 kg (82 lb)\nEquipo de comando y manejo de datos: 34 kg (75 lb)\nEquipo de fotografía/TV: 3 kg (6,6 lb)\nCarga total con material de embalaje: 2.294 kilogramos (5.057 lb)"
+    }
+  ],
+  "num_palabras": 1347
+}

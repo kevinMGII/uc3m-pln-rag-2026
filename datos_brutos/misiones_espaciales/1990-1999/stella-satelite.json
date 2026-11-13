@@ -1,0 +1,33 @@
+{
+  "id": "doc_0744",
+  "titulo": "Stella (satélite)",
+  "titulo_wikipedia_en": null,
+  "fecha_lanzamiento": "1993-09-26",
+  "año_lanzamiento": 1993,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Stella_(satélite)",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Activo",
+    "Tipo de misión": "Geodesia",
+    "Operador": "CNES",
+    "Fecha de lanzamiento": "26 de septiembre de 1993",
+    "Lugar de lanzamiento": "Puerto espacial de Kourou",
+    "Vehículo de lanzamiento": "Ariane",
+    "ID NSSDC": "1993-061B",
+    "Masa en el lanzamiento": "48 kg",
+    "Periapsis": "797 km",
+    "Apoapsis": "805 km",
+    "Inclinación orbital": "98,3 grados",
+    "Periodo orbital": "100,9 minutos"
+  },
+  "resumen": "Stella es el nombre de un satélite artificial francés lanzado junto con el satélite Spot 3 el 26 de septiembre de 1993 desde el puerto espacial de Kourou, en la Guayana Francesa, mediante un cohete Ariane.\nStella es un satélite pasivo utilizado para realizar mediciones geodésicas. Se trata de una esfera densa de aleación de uranio con 60 reflectores láser en su superficie que permiten mediciones geodésicas muy precisas para determinar, con precisión de hasta 1 cm, el geoide, las mareas terrestres y oceánicas y movimientos tectónicos.\nStella fue lanzado como complemento a un satélite similar lanzado en 1975, Starlett.",
+  "secciones": [],
+  "num_palabras": 100
+}

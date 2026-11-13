@@ -1,0 +1,45 @@
+{
+  "id": "doc_0306",
+  "titulo": "TOPO 1",
+  "titulo_wikipedia_en": null,
+  "fecha_lanzamiento": "1970-04-08",
+  "año_lanzamiento": 1970,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/TOPO_1",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Inactivo",
+    "Tipo de misión": "Geodésico / experimental",
+    "Operador": "Ejército de los Estados Unidos",
+    "Fecha de lanzamiento": "8 de abril de 1970",
+    "Lugar de lanzamiento": "Cabo Cañaveral",
+    "Vehículo de lanzamiento": "Thor",
+    "ID NSSDC": "1970-025B",
+    "Masa en el lanzamiento": "21,8 kg",
+    "Dimensiones": "0,36 × 0,30 × 0,23 m",
+    "Periapsis": "1090,6 km",
+    "Apoapsis": "1094,2 km",
+    "Inclinación orbital": "100,2 grados",
+    "Periodo orbital": "106,9 minutos"
+  },
+  "resumen": "TOPO 1 fue el primer satélite topográfico del Ejército de los Estados Unidos. Fue lanzado el 8 de abril de 1970 desde Cabo Cañaveral mediante un cohete Thor-Agena, en el mismo lanzamiento que puso en órbita el satélite meteorológico Nimbus 4.",
+  "secciones": [
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "TOPO 1 fue enviado a una órbita polar con los siguientes objetivos:\nEstudiar nuevas técnicas para la determinación precisa en tiempo real de posiciones sobre la superficie terrestre mediante triangulación utilizando los transpondedores del satélite y estaciones terrestres.\nProbar técnicas de localización y transmisión.\nObtener información sobre los efectos de la ionosfera en los estudios geodésicos llevados a cabo por satélite."
+    },
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "TOPO 1 tenía una masa de 21,8 kg y forma de caja rectangular, con dimensiones de 0,36 × 0,30 × 0,23 m. Llevaba un transpondedor que retransmitía señales de telemetría recibidas a 136,84 MHz de tres estaciones terrestres. Tenía también un canal de localización de alta resolución a 590 kHz para obtener un factor de corrección ionosférico. La energía era proporcionada por células solares que recubrían la superficie del satélite.\nEl satélite estuvo funcionando durante seis meses, hasta octubre de 1970, en que la falta de fondos impidió seguir haciendo experimentos."
+    }
+  ],
+  "num_palabras": 193
+}

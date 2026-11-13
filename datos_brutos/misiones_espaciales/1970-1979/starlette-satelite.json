@@ -1,0 +1,38 @@
+{
+  "id": "doc_0456",
+  "titulo": "Starlette (satélite)",
+  "titulo_wikipedia_en": "Starlette and Stella",
+  "fecha_lanzamiento": "1975-02-06",
+  "año_lanzamiento": 1975,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Starlette_(satélite)",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Ambos Activos",
+    "Tipo de misión": "Estudio Campo Gravitatorio.",
+    "Operador": "CNES",
+    "Fecha de lanzamiento": "1: 6 de febrero de 1975\n2: 26 de septiembre de 1993",
+    "Duración planificada": "Varias décadas.",
+    "ID COSPAR": "1: 7501001\n2: 9306102",
+    "Nº SATCAT": "1: 1134\n2: 0643",
+    "Configuración": "Esférica",
+    "Masa en el lanzamiento": "47 kg\n2: 48 kg",
+    "Dimensiones": "Diámetro 0,24 m",
+    "Propulsión": "Sin Propulsión",
+    "Sistema de referencia orbital": "Circular",
+    "Excentricidad": "1: 0.0206\n2: 0.0006",
+    "Periapsis": "1: 812 km\n2: 800 km",
+    "Inclinación orbital": "1: 49.83 Grados\n2: 98.6 Grados",
+    "Periodo orbital": "1: 104 minutos\n2: 101 minutos",
+    "Instrumentos": "60 retroreflectores \"esquina de cubo\""
+  },
+  "resumen": "Starlette (Satellite de Taille Adaptée avec Réflecteurs Laser por les Etudes de la Terre) y Stella son dos satélites pasivos franceses, virtualmente idénticos, lanzados por el Centre National d'Etudes Spatiales (CNES) en 1975 y 1993, respectivamente.\nEstos satélites son muy pequeños comparados con su masa, esto les otorga mucho más sensibilidad a la atracción gravitatoria en comparación a las fuerzas superficiales ejercidas por al atmósfera residual o la presión de la radiación. Ambos satélites (Starlette y Stella) están cubiertos por 60 retroreflectores de \"esquina de cubo\"",
+  "secciones": [],
+  "num_palabras": 86
+}

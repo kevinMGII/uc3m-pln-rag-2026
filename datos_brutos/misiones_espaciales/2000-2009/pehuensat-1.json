@@ -1,0 +1,37 @@
+{
+  "id": "doc_1047",
+  "titulo": "Pehuensat-1",
+  "titulo_wikipedia_en": "Pehuensat-1",
+  "fecha_lanzamiento": "2007-01-10",
+  "año_lanzamiento": 2007,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Otro vuelo espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Pehuensat-1",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Radioaficionados",
+    "Operador": "Universidad Nacional del Comahue, Asociación Argentina de Tecnología Espacial, AMSAT Argentina",
+    "Fecha de lanzamiento": "10 de enero de 2007",
+    "Vehículo de lanzamiento": "PSLV - C6",
+    "ID COSPAR": "2007-001D",
+    "ID NSSDC": "29712",
+    "Masa en el lanzamiento": "6 kg",
+    "Periapsis": "596 km",
+    "Apoapsis": "615 km",
+    "Periodo orbital": "96,7 min"
+  },
+  "resumen": "El Pehuensat-1 es un satélite con objetivos educativos construido totalmente en la Argentina. Fue lanzado 10 de enero de 2007 a bordo de un cohete desde el Centro espacial Satish Dhawan, en la costa este de la India. El armado demandó cinco años y fue realizado por docentes y alumnos de la Universidad Nacional del Comahue.\nLo denominaron Pehuensat-1 en referencia al pehuén, un árbol milenario y autóctono de los bosques andino patagónicos identificado con las provincias en las cuales tiene sus sedes académicas la universidad.",
+  "secciones": [
+    {
+      "titulo": "Detalles",
+      "nivel": 2,
+      "texto": "Fue construido por 17 docentes y 44 estudiantes de la Facultad de Ingeniería de la Universidad del Comahue (Neuquén). En octubre de 2006, el satélite fue llevado hasta el centro de lanzamiento de Shriharikota (India), por el investigador espacial argentino Pablo de León, que se hizo conocido meses atrás cuando presentó un prototipo de traje espacial diseñado para viajes a Marte.\nFue lanzado a las 9:23 hora de India (1:53 hora argentina) en el cohete indio Polar Satellite Launch Vehicle (PSLV C7).\nTras 20 minutos de viaje, el Pehuensat-1 alcanzó su órbita, donde permanecerá ―según consideraron los técnicos― durante «varios años».\nEl satélite pesa 6 kilogramos, recorre su órbita a unos 640 kilómetros de altura y viaja alrededor de la Tierra a una velocidad de 27 000 kilómetros por hora (unos 7.5 kilómetros por segundo).\nTiene una estructura con caja de aluminio tipo espacial y paneles solares en una de las caras.\nLa electrónica está compuesta por un transmisor, una computadora y dos paquetes de baterías que se recargan con energía solar.\nAdemás una antena encargada de transmitir a tierra los parámetros del satélite.\nEl Pehuensat-1 puede resistir en el espacio temperaturas de –120 °C (cada vez que pasa por la sombra de la Tierra) y de hasta 100 °C (de cara al Sol). Será útil para las escuelas secundarias y universidades de todo el mundo, porque transmite sus datos en varios idiomas a receptores de radioaficionados. Solo hace falta sintonizar la frecuencia 145.825 MHz en la banda de 2 metros en modo FM en el momento en que sobrevuela la zona. El satélite Pehuensat-1 transmite sus datos en español, inglés e hindi."
+    }
+  ],
+  "num_palabras": 359
+}

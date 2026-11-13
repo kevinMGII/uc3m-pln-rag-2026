@@ -1,0 +1,44 @@
+{
+  "id": "doc_0961",
+  "titulo": "Coriolis (satélite)",
+  "titulo_wikipedia_en": "Coriolis (satellite)",
+  "fecha_lanzamiento": "2003-01-06",
+  "año_lanzamiento": 2003,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de observación terrestre",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Coriolis_(satélite)",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Activo",
+    "Tipo de misión": "Observación terrestre",
+    "Operador": "USAF",
+    "Fecha de lanzamiento": "6 de enero de 2003",
+    "Masa en el lanzamiento": "817 kg",
+    "Dimensiones": "6,9 m de alto por 3 m de diámetro una vez desplegado",
+    "Sistema de referencia orbital": "Elíptica",
+    "Periapsis": "742 Km",
+    "Inclinación orbital": "98,74 Grados",
+    "Periodo orbital": "101,55 minutos",
+    "Instrumentos": "WindSat\nSolar Mass Ejection Imager (SMEI)"
+  },
+  "resumen": "Coriolis es un satélite de observación terrestre meteorológica, perteneciente al Programa de Pruebas Espaciales (Space Test Program) de la USAF y al Mando de Sistemas de Combate Naval y Espacial (Space and Naval Warfare Systems Command) de la Armada de los Estados Unidos. Fue lanzado el 6 de enero de 2003 a bordo de un cohete Titan.\nFue diseñado para demostrar la viabilidad del uso de la polarimetría para la medición de la dirección e intensidad del viento al nivel de la superficie del mar desde el espacio, y para demostrar las predicciones sobre perturbaciones geomagnéticas mediante la observación continua de eyecciones de masa coronal.",
+  "secciones": [
+    {
+      "titulo": "Instrumentos",
+      "nivel": 2,
+      "texto": "WindSat: radiómetro microondas polarimétrico pasivo desarrollado por la Armada, de 341 kg de peso.\nSolar Mass Ejection Imager (SMEI): instrumento de 35 kg desarrollado por la USAF y construida por la Universidad de Birmingham (Reino Unido) y la Universidad de California, San Diego. Monitoriza la actividad solar mediante tres cámaras independientes que cubren todo el cielo en cada órbita."
+    },
+    {
+      "titulo": "Especificaciones",
+      "nivel": 2,
+      "texto": "Dimensiones: 6,9 metros de alto por 3 metros de diámetro una vez los instrumentos se han desplegado.\nMasa: 817 kg.\nConsumo medio: 725 vatios\nPerigeo: 742 km\nApogeo: 936 km\nInclinación orbital: 98,74 grados\nPeriodo: 101,55 min"
+    }
+  ],
+  "num_palabras": 201
+}

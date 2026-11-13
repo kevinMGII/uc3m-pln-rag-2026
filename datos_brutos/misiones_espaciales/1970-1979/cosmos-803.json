@@ -1,0 +1,46 @@
+{
+  "id": "doc_0481",
+  "titulo": "Cosmos 803",
+  "titulo_wikipedia_en": "Kosmos 803",
+  "fecha_lanzamiento": "1976-02-12",
+  "año_lanzamiento": 1976,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite militar",
+    "Satélite (programa Cosmos)",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Cosmos_803",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Inactivo",
+    "Tipo de misión": "Militar",
+    "Fecha de lanzamiento": "12 de febrero de 1976",
+    "Lugar de lanzamiento": "Cosmódromo de Plesetsk",
+    "Vehículo de lanzamiento": "Kosmos-3",
+    "ID NSSDC": "1976-014A",
+    "Configuración": "Poliedro hexagonal",
+    "Masa en el lanzamiento": "300 kg",
+    "Periapsis": "476,3 km",
+    "Apoapsis": "516,9 km",
+    "Inclinación orbital": "65,8 grados",
+    "Periodo orbital": "94,4 minutos"
+  },
+  "resumen": "Cosmos 803 (en cirílico, Космос 803) fue un satélite artificial militar soviético perteneciente a la clase de satélites DS (de tipo DS-P1-M) y lanzado el 12 de febrero de 1976 mediante un cohete Kosmos-3 desde el cosmódromo de Plesetsk.",
+  "secciones": [
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "Cosmos 803 fue parte de un sistema de satélites utilizados como objetivos de prueba para el programa de armas antisatélite IS y para armas antimisiles. Los satélites del tipo DS-P1-M no se limitaban a ser satélites pasivos, sino que tenían sensores para registrar la dirección e intensidad del impacto entre otros parámetros. El sistema estuvo en funcionamiento hasta 1983, año en que la Unión Soviética abandonó el programa de armas antisatélite."
+    },
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "El satélite tenía una masa de 300 kg (aunque otras fuentes apuntan a 650 kg) y forma de poliedro hexagonal. El satélite fue inyectado inicialmente en una órbita con un perigeo de 554 km y un apogeo de 624 km, con una inclinación orbital de 65,9 grados y un periodo de 95,2 minutos.\nCon Cosmos 803 la Unión Soviética reanudó las pruebas antisatélites que había dejado en suspenso en 1972 tras la firma del acuerdo SALT I. Cuatro días después del lanzamiento de Cosmos 803 se lanzó el vehículo que debía interceptarlo, Cosmos 804, cuya misión los expertos occidentales consideraron un fracaso, ya que tras el anuncio de la Unión Soviética de la finalización de la prueba, Cosmos 803 seguía emitiendo señales de radio al contrario que sus antecesores, que habían sido destruidos (y por tanto, silenciados) por sus respectivos interceptores. Cosmos 804 reentró en la atmósfera, y el 13 de abril de ese mismo año se lanzó el Cosmos 814, que se acercó a Cosmos 803 sin destruirlo.\nEl tratado firmado en 1972 no impedía, según el Secretario de Estado de los Estados Unidos Henry Kissinger, las pruebas antisatélite contra naves propias, pero sí prohibía la interferencia con satélites ajenos, por lo que las pruebas soviéticas no contradecían el tratado."
+    }
+  ],
+  "num_palabras": 321
+}

@@ -1,0 +1,38 @@
+{
+  "id": "doc_0196",
+  "titulo": "ATS 2",
+  "titulo_wikipedia_en": "ATS-2",
+  "fecha_lanzamiento": "1967-04-06",
+  "año_lanzamiento": 1967,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de comunicaciones",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/ATS_2",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Finalizado",
+    "Tipo de misión": "Comunicaciones, experimental",
+    "Operador": "NASA",
+    "Fecha de lanzamiento": "6 de abril de 1967",
+    "Lugar de lanzamiento": "Cabo Cañaveral",
+    "Vehículo de lanzamiento": "Atlas",
+    "Duración planificada": "6 meses",
+    "ID NSSDC": "1967-031A",
+    "Configuración": "Cilíndrica",
+    "Masa en el lanzamiento": "370 kg",
+    "Potencia": "125 vatios (Níquel-Cadmio)",
+    "Sistema de referencia orbital": "Elíptica",
+    "Periapsis": "177 km",
+    "Apoapsis": "11.119 km",
+    "Inclinación orbital": "28,4 grados",
+    "Periodo orbital": "218,9 minutos"
+  },
+  "resumen": "ATS 2 (Applications Technology Satellite 2) fue un satélite artificial estadounidense dedicado a probar nuevas tecnologías. Fue lanzado el 6 de abril de 1967 y puesto en una órbita incorrecta debido a un fallo del cohete lanzador. Aunque el satélite era funcional, fue desactivado tras seis meses en el espacio debido a que la cantidad de datos que se podían recibir del satélite era muy limitada.\nTenía una estructura de aluminio recubierta de células solares que proporcionaban 125 vatios de potencia. Llevaba baterías de níquel-cadmio con una capacidad de 12 amperios-hora y un sistema de estabilización por gradiente gravitatorio.\nLa carga útil incluía detectores experimentos meteorológicos y un experimento de comunicaciones en banda C.",
+  "secciones": [],
+  "num_palabras": 114
+}

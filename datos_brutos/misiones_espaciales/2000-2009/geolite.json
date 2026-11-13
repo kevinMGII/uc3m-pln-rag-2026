@@ -1,0 +1,31 @@
+{
+  "id": "doc_0920",
+  "titulo": "GeoLITE",
+  "titulo_wikipedia_en": null,
+  "fecha_lanzamiento": "2001-05-18",
+  "año_lanzamiento": 2001,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de comunicaciones",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/GeoLITE",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Activo",
+    "Tipo de misión": "Satélite de comunicaciones",
+    "Operador": "NRO",
+    "Fecha de lanzamiento": "18 de mayo de 2001",
+    "Lugar de lanzamiento": "Cabo Cañaveral",
+    "Vehículo de lanzamiento": "Delta",
+    "ID NSSDC": "2001-020A",
+    "Masa en el lanzamiento": "93 kg",
+    "Sistema de referencia orbital": "Geoestacionaria"
+  },
+  "resumen": "GeoLITE, también conocido como USA 158, es un satélite de comunicaciones militar experimental de la clase TRWT-310 perteneciente a los Estados Unidos. Fue lanzado el 18 de mayo de 2001 por un cohete Delta desde Cabo Cañaveral. Porta un experimento de comunicaciones por láser y un transmisor de datos por UHF.",
+  "secciones": [],
+  "num_palabras": 51
+}

@@ -1,0 +1,65 @@
+{
+  "id": "doc_1085",
+  "titulo": "VENESAT-1 (satélite)",
+  "titulo_wikipedia_en": "Venesat-1",
+  "fecha_lanzamiento": "2008-10-29",
+  "año_lanzamiento": 2008,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de comunicaciones",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/VENESAT-1_(satélite)",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Inactivo (fuera de órbita)",
+    "Tipo de misión": "Comunicaciones",
+    "Operador": "Agencia Bolivariana para Actividades Espaciales",
+    "Fabricante": "Administración Espacial Nacional China",
+    "Fecha de lanzamiento": "29 de octubre de 2008",
+    "Lugar de lanzamiento": "Centro de Lanzamiento de Satélites de Xichang, China",
+    "Duración planificada": "15 años",
+    "Desactivación fecha": "25 de marzo de 2020",
+    "Masa en el lanzamiento": "5100 kg",
+    "Dimensiones": "3,6 m x 2,6 m x 2,1 m",
+    "Sistema de referencia orbital": "Geoestacionaria",
+    "Instrumentos": "12 transpondedores de banda Ku\n14 transpondedores de banda C\n2 transpondedores de banda Ka"
+  },
+  "resumen": "El satélite VENESAT-1 (Simón Bolívar) fue el primer satélite artificial propiedad del Estado venezolano lanzado desde China el 29 de octubre de 2008. Fue administrado por el Ministerio del Poder Popular para la Educación Universitaria, Ciencia y Tecnología a través de la Agencia Bolivariana para Actividades Espaciales (ABAE) de Venezuela para el uso por el Ministerio de Ciencia y Tecnología a mediados de 2004. Ese mismo año se iniciaron conversaciones con la Roscosmos; en principio se trató de concretar el convenio con Rusia, pero ante la negativa de ésta a la propuesta venezolana de transferencia tecnológica, que incluía la formación de técnicos especializados en el manejo del proyecto Satélite Simón Bolívar, Venezuela decide abandonar el acuerdo con Rusia. Luego, en octubre de 2004, el Estado venezolano decidió iniciar conversaciones con China, que aceptó la propuesta. De esta forma, técnicos venezolanos serían capacitados en tecnología satelital, desarrollo del software y formación técnica para el manejo del satélite desde tierra. De cara al futuro, el gobierno venezolano espera producir tecnología satelital encaminada a lanzar satélites desde suelo venezolano, con tecnología propia.\nEl proyecto fue aprobado y el satélite fue fabricado y puesto en órbita por la Administración Nacional China del Espacio por un valor superior a los 406 millones de dólares, según las especificaciones de la Unión Internacional de Telecomunicaciones.",
+  "secciones": [
+    {
+      "titulo": "Objetivos del Satélite «Simón Bolívar»",
+      "nivel": 2,
+      "texto": "El objetivo del satélite Simón Bolívar fue facilitar el acceso y transmisión de servicios de datos por Internet, telefonía, televisión, telemedicina y tele educación.\nEl Gobierno venezolano afirmó que además serviría para la integración latinoamericana e impulsaría a la Unión de Naciones Suramericanas (Unasur). Uruguay cedió su órbita a Venezuela a cambio del 10% de la capacidad que tenía el satélite.\nEl satélite fue lanzado el 29 de octubre de 2008, desde el Centro Espacial de Xichang, en la República Popular China."
+    },
+    {
+      "titulo": "Especificaciones",
+      "nivel": 2,
+      "texto": "Inversión de 406 millones de dólares estadounidenses.\nDiseñado y construido en la República Popular China por la China Aerospace Science and Technology Corporation.\nEstá basado en la plataforma DFH-4, que es la más moderna de China.\nContiene 14 transpondedores de banda C (IEEE C), 2 de banda Ka (IEEE Ka) y 12 de banda J (IEEE Ku).\nPosee transmisores de gran potencia y un sistema de transmisión directa (DBS o Direct Broadcasting System), que permiten que la información sea recibida sin necesidad de una estación de retransmisión terrestre, lo que permite recibir las señales con antenas de 45 cm de diámetro, similares a la empleada en el sistema privado DirecTV.\nVida útil aproximada de 15 años.\nSistema mediano con una carga útil de 28 transponedores.\nPeso aproximado de 5.100 kg.\n3,6 m de altura, 2,6 en su lado superior y 2,1 m en su lado inferior. Los brazos o paneles solares miden 31 m, cada uno de 15,5 m de largo.\nSatélite de tipo geoestacionario de una órbita fija en la Latitud 0° Longitud 78° Oeste, e irradiador de luz, para un rango superior de área.\nGira en una órbita a una altura de 35.784,04 km aproximadamente de la superficie de la Tierra.\nUsa los estándares europeos de difusión de video digital DVB-S y DVB-S2.\nCobertura por bandas:\nContinente americano: Banda C.\nVenezuela: Bandas Ka y Ku\nResto de Suramérica: Banda Ku.\nModulaciones de portadoras:\nDVB-S: QPSK\nDVB-S2: QPSK, QPSK2, 8PSK y QAM."
+    },
+    {
+      "titulo": "Instalaciones en tierra",
+      "nivel": 2,
+      "texto": "La red satelital incluye, además del satélite en sí mismo, diversas instalaciones para ser controlado en tierra:\nUna Estación Terrena de Control principal ubicada en la Base Aérea Capitán Manuel Ríos, en la localidad de El Sombrero, Municipio Julián Mellado, Estado Guárico en el centro de Venezuela.\nUn Telepuerto ubicado también en El Sombrero, Municipio Julián Mellado, Estado Guárico.\nUna segunda Estación de Respaldo ubicada en el Fuerte Militar Manikuyá, Luepa, Municipio Gran Sabana, Estado Bolívar, al sureste de Venezuela."
+    },
+    {
+      "titulo": "Lanzamiento",
+      "nivel": 2,
+      "texto": "El ministerio de ciencia y tecnología había anunciado que el lanzamiento del satélite sería luego de los Juegos Olímpicos Beijing 2008. Una fecha inicial había sido dada para septiembre, pero esta fue modificada posteriormente.>\nFue lanzado el 29 de octubre, diecisiete minutos luego de las 12 del mediodía, hora de Venezuela. El lanzamiento se llevó a cabo desde el Centro de Satélites de Xichang, ubicado en el suroeste de la República Popular China. Un cohete Larga Marcha 3B impulsó al satélite cerca de su órbita final, a 36.500 km de altura. Desde el lanzamiento hasta su colocación y orientación final en esta órbita pasan entre seis y diez días."
+    },
+    {
+      "titulo": "Satélites en conexiones futuras con el S.S.B",
+      "nivel": 2,
+      "texto": "El lanzamiento de un segundo satélite propio llamado Satélite Miranda (VRSS-1) se llevó a cabo 28 de septiembre de 2012.\nEl 9 de octubre de 2017 fue lanzado del Satélite Sucre (VRSS-2). Este satélite es el primero en ser diseñado y ensamblado en territorio nacional."
+    },
+    {
+      "titulo": "Desactivación",
+      "nivel": 2,
+      "texto": "El 25 de marzo de 2020 el ministerio del ciencia y tecnología informó que el satélite Venesat-1, no continuará prestando servicios de telecomunicaciones. A través de un comunicado realizado por sus redes sociales, se comunicó que la falla se produjo después de funcionar por casi doce años, tres menos que su vida útil máxima estimada, que era de quince años. El satélite fue lanzado desde China y puesto en órbita el 29 de octubre de 2008, era el único satélite dispuesto para comunicaciones, propiedad del Estado venezolano. La empresa estadounidense ExoAnalytic Solutions que opera una red de telescopios de rastreo de satélites, detectó que hubo un “cambio de órbita significativo” para el satélite el día 13 de marzo a las 3:15 a. m., hora del este de Estados Unidos, cuando el satélite dejó su posición a 78 grados de longitud Oeste y aproximadamente tres horas después, el satélite realizó otra maniobra que lo hizo caer hacia el oeste."
+    }
+  ],
+  "num_palabras": 935
+}

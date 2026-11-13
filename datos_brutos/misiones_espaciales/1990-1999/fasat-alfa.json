@@ -1,0 +1,92 @@
+{
+  "id": "doc_0780",
+  "titulo": "FASat-Alfa",
+  "titulo_wikipedia_en": "FASat-Alfa",
+  "fecha_lanzamiento": "1995-08-31",
+  "año_lanzamiento": 1995,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de observación terrestre",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/FASat-Alfa",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Inactivo, separación fallida del Sich 1",
+    "Tipo de misión": "Teledetección",
+    "Operador": "Fuerza Aérea de Chile",
+    "Fecha de lanzamiento": "31 de agosto de 1995",
+    "Lugar de lanzamiento": "Cosmódromo de Plesetsk, Rusia",
+    "Vehículo de lanzamiento": "Tsyklon-3",
+    "Fabricante": "Surrey Satellite Technology Ltd",
+    "Configuración": "SmallSat",
+    "Masa en el lanzamiento": "50 kg",
+    "Dimensiones": "70 x 36 x 36 cm",
+    "Propulsión": "Pasivo, sin propulsión",
+    "Sistema de referencia orbital": "Polar",
+    "Inclinación orbital": "82,5°",
+    "Instrumentos": "OLME\nDTE\nEIS\nGPS\nSSDRE"
+  },
+  "resumen": "El FASat-Alfa fue un fallido satélite chileno. El primero de ese país, construido bajo un programa de transferencia tecnológica entre la Fuerza Aérea de Chile y la empresa británica Surrey Satellite Technology Ltd (SSTL) y lanzado el 31 de agosto de 1995.\nEl FASat-Alfa hubiera sido colocado en una órbita circular de 650 km de altura y a 82.5° de inclinación.",
+  "secciones": [
+    {
+      "titulo": "El Proyecto",
+      "nivel": 2,
+      "texto": "El FASat-Alfa era un microsatélite de 50 kg basado en la estructura modular desarrollada por Surrey Satellite Technology Ltd (SSTL). El satélite fue construido por un grupo de ingenieros de la Fuerza Aérea de Chile y de SSTL.\nEl FASat-Alfa pertenecía a la categoría de los microsatélites. Medía 36 × 36 cm de base y 70 cm de altura. Su pequeño tamaño implicó la incorporación de tecnología altamente sofisticada, debido a la necesidad de miniaturizar cada función.\nEl FASat-Alfa era un satélite de órbita baja. A diferencia de los geoestacionarios, que se encuentran a 36.000 km de altura y cubren siempre la misma porción de superficie terrestre, el FASat-Alfa se ubicaría a una altura máxima de 650 kilómetros y circundaría la Tierra 3 o 4 veces al día.\nEste tipo de satélites tenía proyectada una vida de entre 8 y 10 años. El objetivo principal era monitorear la capa de ozono y obtener para Chile la experiencia científica y tecnológica básica necesaria para continuar hacia pasos más avanzados."
+    },
+    {
+      "titulo": "Sistemas de la plataforma",
+      "nivel": 2,
+      "texto": "La plataforma del FASat-Alfa es un paralelepípedo de 70 cm de alto por una base cuadrada de 36 cm. Los paneles solares de arseniuro de galio producen un máximo de 21 watts de potencia utilizable para todos los sistemas y cargas útiles.\nLa plataforma contiene los siguientes sistemas básicos que permiten la operación del satélite:\nBaterías y sistema de distribución de potencia\nSistema de Radiofrecuencia que permite la transmisión o Downlink en UHF, y la recepción o Uplink en VHF\nSistema de manejo de data a bordo, que con sus computadores OBC186 y OBC386, y el sistema de telemetría y telecomandos, permite una operación automática, considerando que la mayor parte de la órbita está fuera del alcance de la Estación de Control\nSistema de Determinación y Control de Actitud y Seguridad, que es el encargado de controlar la actitud del satélite, y de los elementos pirotécnicos en la etapa del lanzamiento"
+    },
+    {
+      "titulo": "Cargas útiles experimentales",
+      "nivel": 3,
+      "texto": "Las cargas útiles experimentales a bordo del FASat-Alfa son las siguientes:"
+    },
+    {
+      "titulo": "OLME",
+      "nivel": 4,
+      "texto": "Experimento de Monitoreo de la Capa de Ozono. Este experimento está basado en la medición de la intensidad de la radiación solar ultravioleta dispersada por la atmósfera, en una banda estrecha de longitudes de onda cercanas a 300 nanómetros. Se ha demostrado que sometiendo estas mediciones a un procesamiento adecuado es posible determinar la cantidad total del ozono en un amplio sector geográfico, a altitudes sobre los 25 km. Este rango de altitudes es de especial interés científico por cuanto en él ocurre la máxima razón de mezcla del ozono (35 km) y además se espera en esa zona (40 km) el mayor impacto adverso sobre la disminución de la capa.\nEl experimento constará de dos instrumentos que registrarán aspectos relativos al ozono atmosférico:\nLas cámaras de ozono, utilizarán un diseño estándar de cámaras CCD con un lente de campo amplio y con elementos CCD especiales para las frecuencias que se desea analizar\nLos Fotodiodos Ultravioleta, conectados al sistema de telemetría del satélite, que permitirán monitorear la capa de ozono sobre un período\nPara procesar la información está contemplado investigar, desarrollar y programar computacionalmente diversos modelos físico-matemáticos que describen la distribución de ozono y la intensidad de la radiación ultravioleta dispersada en la atmósfera. El experimento pretende demostrar que con un equipamiento económico, pequeño y muy liviano, pero con un alto grado de procesamiento computacional a bordo de un microsatélite, es posible contribuir en forma significativa al estudio del fenómeno del ozono. Los datos obtenidos por este equipamiento serán correlacionados con la información proporcionada por la Red Radiométrica Ultravioleta que opera actualmente la Dirección Meteorológica de Chile."
+    },
+    {
+      "titulo": "DTE",
+      "nivel": 4,
+      "texto": "Experimento de Transferencia de Datos. Este experimento consiste primariamente en contar con una capacidad de transferencia de datos desde y hacia el satélite en el modo “guardar-y-entregar”, ya que por las características de la órbita polar del FASat-Alfa estará visible para un observador terrestre entre 10 y 15 minutos por pasada, y dependiendo de la latitud pasará entre 4 y 6 veces al día por ese mismo punto."
+    },
+    {
+      "titulo": "EIS",
+      "nivel": 4,
+      "texto": "Sistema de Imágenes Terrestres. Este experimento está basado en dos cámaras visibles, una de campo amplio y otra de campo angosto ambas colimadas en la misma dirección.\nLa cámara de campo amplio tendrá una resolución de alrededor de 1500 km, similar a la de las cámaras del experimento de monitoreo de la capa de ozono OLME con el fin de dar la imagen de posición al citado experimento, y la de campo angosto una resolución de alrededor de 150 metros.\nAmbas cámaras estarán ubicadas en la Plataforma de Observación Terrestre. La fotografía de campo amplio permite en general determinar el área en la que fue tomada la fotografía. Como la fotografía de campo angosto está colimada en la misma dirección, se puede determinar con mayor precisión la zona de la Tierra que fue fotografiada.\nUna vez tomadas las imágenes, éstas se transmiten a la Estación de Control de Misión ECM-Santiago, donde se determina si las imágenes tienen la claridad y detalle suficientes para el propósito que se requiere. Una vez recibidas las imágenes en ECM-Santiago se entregarán al investigador quien a su vez realizará el trabajo de procesamiento computacional de las imágenes."
+    },
+    {
+      "titulo": "GPS",
+      "nivel": 4,
+      "texto": "Experimento de navegación global con el sistema Global Positioning System. Este experimento permitirá determinar la posición del satélite en el espacio, utilizando la constelación de satélites GPS. Esta capacidad permitirá una cierta autonomía con respecto a la determinación de los parámetros orbitales que actualmente se obtienen de la información proporcionada por el Comando Espacial de la Fuerza Aérea de los Estados Unidos.\nEl experimento consta de un receptor especial para uso en el espacio que en conjunto con un software permitirá determinar la posición del satélite."
+    },
+    {
+      "titulo": "SSDRE",
+      "nivel": 4,
+      "texto": "Unidad Experimental de Almacenamiento de Datos en Estado Sólido. Este experimento es una unidad de almacenamiento de 2 Gigabits o 256 Megabytes de data, basada en una tecnología aún no disponible comercialmente de memorias RAM, proporcionada sin costo por la empresa Lockheed-Sanders de Estados Unidos, bajo un programa de colaboración con la Fuerza Aérea de Chile.\nCada sistema del FASat-Alfa podrá acceder y utilizar esta memoria a través de la red de área local CAN. El mayor beneficio se logrará en los experimentos de Monitoreo de la Capa de Ozono (OLME) y de Imágenes Terrestres (EIS), ya que se podrán almacenar más de 600 imágenes de una sola vez."
+    },
+    {
+      "titulo": "Experimento Educacional",
+      "nivel": 4,
+      "texto": "Este experimento que en sí no es una carga física separada, tiene como objetivo primario involucrar a los colegios de todo Chile en comunicarse con el satélite FASat-Alfa. El experimento educacional utilizará el experimento de transferencia de data DTE para, a través de procesamiento digital con el DSP, producir una telemetría que pueda ser recibida por receptores terrestres de bajo costo y un computador personal.\n(Información en base al documento Descripción de la Misión)"
+    },
+    {
+      "titulo": "Razones de la falla",
+      "nivel": 2,
+      "texto": "El 31 de agosto de 1995 versiones rusas señalaron que el FASat-Alfa no pudo desacoplarse del satélite ucraniano. El FASat-Alfa fue enviado al cosmos a bordo de un cohete Tsyclon-3, adosado al satélite de órbita polar ucraniano Sich 1 desde la base de lanzamientos Plesetsk, en Rusia. El cohete despegó en el tercer intento de lanzamiento, por tanto se especuló en la culpabilidad de los rusos al desarmar el cohete tras el segundo intento fallido. Sin embargo, luego de investigar, los ingleses reconocieron su culpa por el mal diseño del sistema de desacople del satélite. Finalmente el 4 de septiembre de 1995 se anuncia la construcción del FASat-Bravo."
+    },
+    {
+      "titulo": "Detalles",
+      "nivel": 3,
+      "texto": "Luego del lanzamiento del 31 de agosto de 1995, el satélite FASat-Alfa debía separarse del satélite ucraniano Sich-1, al cual estaba unido por medio de una par de abrazaderas. Al darse la orden por parte de los controladores rusos, dos cargas explosivas tipo guillotina debían cortar los pernos que unían las abrazaderas y un resorte interno empujaba al satélite chileno separándolo del ucraniano.\nDesafortunadamente, al activarse las guillotinas, estas no cortaron los pernos, sino que sólo los aplastaron, no pudiendo separarse ambos satélites.\nLuego del incidente, se formó una Comisión entre la FACH, la empresa británica SSTL, y la ucraniana Yuzhnoye. En la investigación se determinó, efectuando pruebas en Inglaterra y en Ucrania, que el mal diseño del sistema de desacople del satélite era el causante de la falla. Finalmente, los ingleses aceptaron toda su responsabilidad.\nCuando se construyó el FASat-Bravo, el reemplazo del FASat-Alfa, se tomó especial precaución en el diseño de los tipos de pernos explosivos que se utilizarían, lo que permitió que este gemelo del FASat-Alfa pudiera estar en órbita en julio de 1998."
+    }
+  ],
+  "num_palabras": 1472
+}

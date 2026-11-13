@@ -1,0 +1,42 @@
+{
+  "id": "doc_0051",
+  "titulo": "Cosmos 1",
+  "titulo_wikipedia_en": "Kosmos 1",
+  "fecha_lanzamiento": "1962-03-16",
+  "año_lanzamiento": 1962,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite (programa Cosmos)",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Cosmos_1",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Reentrado en la atmósfera",
+    "Tipo de misión": "Estudios ionosféricos, demostrador tecnológico",
+    "Fecha de lanzamiento": "16 de marzo de 1962",
+    "Lugar de lanzamiento": "Kapustin Yar",
+    "Vehículo de lanzamiento": "Cosmos-2I",
+    "ID NSSDC": "1962-008A",
+    "Masa en el lanzamiento": "315 kg",
+    "Tipo de fin de misión": "reingreso",
+    "Fecha de reentrada": "25 de mayo de 1962"
+  },
+  "resumen": "Cosmos 1 (en cirílico, Космос 1), también conocido como DS-2 #1 y a veces citado como Sputnik 11, fue un satélite artificial soviético perteneciente a la clase de satélites DS y lanzado el 16 de marzo de 1962 a las 11:59 GMT mediante un cohete Cosmos-2I desde Kapustin Yar.",
+  "secciones": [
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "El objetivo de Cosmos 1 fue realizar estudios ionosféricos y hacer de demostrador tecnológico, verificando el buen funcionamiento del cohete lanzador."
+    },
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "Cosmos 1 fue el primer satélite de la serie Cosmos y el primero de la clase DS en alcanzar órbita. Fue inyectado en una órbita de 207 km de perigeo y 649 km de apogeo, con una inclinación orbital de 49 grados y un periodo de 93,1 minutos. Reentró en la atmósfera el 25 de mayo de 1962."
+    }
+  ],
+  "num_palabras": 128
+}

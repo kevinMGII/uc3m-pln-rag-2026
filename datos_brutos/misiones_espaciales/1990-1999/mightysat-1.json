@@ -1,0 +1,31 @@
+{
+  "id": "doc_0862",
+  "titulo": "MightySat 1",
+  "titulo_wikipedia_en": "MightySat-1",
+  "fecha_lanzamiento": "1998-12-04",
+  "año_lanzamiento": 1998,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite experimental",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/MightySat_1",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Reentrado en la atmósfera",
+    "Tipo de misión": "Experimental",
+    "Operador": "USAF",
+    "Fecha de lanzamiento": "15 de diciembre de 1998",
+    "Vehículo de lanzamiento": "Transbordador espacial Endeavour",
+    "ID NSSDC": "1998-069C",
+    "Masa en el lanzamiento": "320 kg",
+    "Tipo de fin de misión": "reingreso",
+    "Fecha de reentrada": "21 de noviembre de 1999"
+  },
+  "resumen": "MightySat 1 fue un satélite artificial de la USAF lanzado desde el transbordador espacial Endeavour el 15 de diciembre de 1998 durante el duodécimo día de la misión STS-88, reentrando en la atmósfera el 21 de noviembre de 1999.\nLa misión de Mightysat 1 consistió en probar nuevas tecnologías en el espacio. Portaba cinco experimentos tecnológicos:\nAdvanced Composite Structure: sirvió como estructura para el satélite. Los datos sobre la estructura se recogieron realmente en pruebas en tierra, antes del lanzamiento.\nAdvanced Solar Cell Experiment: tenía como finalidad probar el rendimiento de células solares de doble unión compuestas de capas de fosfuro de indio y galio sobre una capa de arseniuro de galio.\nMicrosystem and Packaging for Low Power Electronics (MAPLE): tenía la finalidad de demostrar técnicas de empaquetamiento avanzado de electrónica y microelectrónica y el comportamiento de estas en el entorno espacial.\nShape-Memory Actuated Release Device (SMARD): experimento de demostración del funcionamiento de una nueva clase de dispositivos de liberación de bajo impacto, utilizados para separar satélites de los adaptadores de los vehículos de lanzamiento o para desplegar antenas, paneles solares y tapas de sensores.\nMicro-Particle Impact Detector (MPID): se trataba de un detector de impactos, tanto producidos por basura espacial como por micrometeoritos.",
+  "secciones": [],
+  "num_palabras": 204
+}

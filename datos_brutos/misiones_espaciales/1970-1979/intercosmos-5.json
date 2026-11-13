@@ -1,0 +1,48 @@
+{
+  "id": "doc_0368",
+  "titulo": "Intercosmos 5",
+  "titulo_wikipedia_en": null,
+  "fecha_lanzamiento": "1971-12-02",
+  "año_lanzamiento": 1971,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de observación terrestre",
+    "Satélite (programa Cosmos)",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Intercosmos_5",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Reentrado en la atmósfera",
+    "Tipo de misión": "Estudios geofísicos.",
+    "Fecha de lanzamiento": "2 de diciembre de 1971",
+    "Lugar de lanzamiento": "Cosmódromo de Kapustin Yar",
+    "Vehículo de lanzamiento": "Cosmos 2",
+    "ID NSSDC": "1971-104A",
+    "Masa en el lanzamiento": "340 kg",
+    "Tipo de fin de misión": "reingreso",
+    "Fecha de reentrada": "7 de abril de 1972"
+  },
+  "resumen": "Intercosmos 5 fue un satélite artificial científico soviético perteneciente al programa Intercosmos y a la clase de satélites DS (de tipo DS-U2-IK) y lanzado el 2 de diciembre de 1971 mediante un cohete Cosmos 2 desde el cosmódromo de Kapustin Yar.",
+  "secciones": [
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "El objetivo de Intercosmos 5 fue realizar estudios sobre la ionosfera terrestre y la concentración de electrones e iones positivos en la atmósfera superior, labor compartida con otros satélites como Cosmos 426 y otros."
+    },
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "El satélite fue una colaboración entre la Unión Soviética y la República Checa y tenía una masa de 340 kg y fue inyectado inicialmente en una órbita con un perigeo de 205 km y un apogeo de 1200 km, con una inclinación orbital de 48,4 grados y un periodo de 98,5 minutos.\nEstaba diseñado para obtener datos sobre protones y electrones de alta energía, así como de emisiones de ondas de radio VLF (de entre 20 y 70 kHz).\nIntercosmos 5 reentró en la atmósfera el 7 de abril de 1972."
+    },
+    {
+      "titulo": "Resultados científicos",
+      "nivel": 2,
+      "texto": "Intercosmos 5 estudió la radiación a lo largo de su órbita y recogió datos sobre la variación de las ondas de radio durante las tormentas geomagnéticas. La información recogida también sirvió para estudiar los pulsos de electrones"
+    }
+  ],
+  "num_palabras": 203
+}

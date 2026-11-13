@@ -1,0 +1,33 @@
+{
+  "id": "doc_0385",
+  "titulo": "Meteoroid Technology Satellite",
+  "titulo_wikipedia_en": "Explorer 46",
+  "fecha_lanzamiento": "1972-08-13",
+  "año_lanzamiento": 1972,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite experimental",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Meteoroid_Technology_Satellite",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Reentrado en la atmósfera",
+    "Tipo de misión": "Científico",
+    "Operador": "NASA",
+    "Fecha de lanzamiento": "13 de agosto de 1972",
+    "Lugar de lanzamiento": "Wallops Island",
+    "Vehículo de lanzamiento": "Scout",
+    "ID NSSDC": "1972-061A",
+    "Masa en el lanzamiento": "136 kg",
+    "Dimensiones": "3,2 m de largo por 7 m de ancho",
+    "Tipo de fin de misión": "reingreso",
+    "Fecha de reentrada": "2 de noviembre de 1979"
+  },
+  "resumen": "Meteoroid Technology Satellite o MTS, también conocido como Explorer 46, fue un satélite artificial de la NASA lanzado el 13 de agosto de 1972 mediante un cohete Scout desde la base de Wallops Island.\nLa misión de MTS era la de medir las tasas de penetración de meteoroides en un objetivo expuesto y obtener datos sobre la velocidad y distribución del flujo de meteoroides. El cuerpo central del satélite medía 320 cm de largo y portaba los experimentos de impacto, estando los objetivos dispuestos alrededor del satélite y haciendo que su anchura fuese de 701,5 cm.",
+  "secciones": [],
+  "num_palabras": 96
+}

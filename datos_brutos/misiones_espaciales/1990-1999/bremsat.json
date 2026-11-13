@@ -1,0 +1,35 @@
+{
+  "id": "doc_0748",
+  "titulo": "BremSat",
+  "titulo_wikipedia_en": null,
+  "fecha_lanzamiento": "1994",
+  "año_lanzamiento": 1994,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de observación terrestre",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/BremSat",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Reentrado.",
+    "Tipo de misión": "Científico",
+    "Operador": "ZARM",
+    "Duración planificada": "1 año",
+    "ID NSSDC": "1994-006H",
+    "Configuración": "Poliédrica, con 12 caras iguales.",
+    "Masa en el lanzamiento": "63 kg",
+    "Dimensiones": "0,48 m de diámetro x 0,52 m de alto",
+    "Periapsis": "344 km",
+    "Apoapsis": "363 km",
+    "Inclinación orbital": "56,9 grados",
+    "Tipo de fin de misión": "reingreso",
+    "Fecha de reentrada": "12 de febrero de 1995"
+  },
+  "resumen": "Bremsat fue un microsatélite alemán de 63 kg lanzado desde el transbordador espacial Discovery durante la misión STS-60, el 3 de febrero de 1994.\nFue construido por el Centro de Tecnología Espacial Aplicada y Microgravedad (ZARM por sus siglas en alemán) de la Universidad de Bremen con el patrocinio de la agencia espacial alemana (DLR). Fue soltado desde la bodega de carga del transbordador Discovery y puesto en una órbita de 363 x 344 km con una inclinación de 56,9 grados.\nLa misión de Bremsat constaba de tres fases:\nmicrogravedad, a bordo del transbordador, antes de la liberación\norbital\nreentrada\nLos objetivos científicos consistían en la medición de la conductividad térmica, las fuerzas residuales de aceleración, la estimación de la calidad de la microgravedad, la investigación de la densidad de distribución y la dinámica de los micrometeoritos y las partículas de polvo en órbita baja, cartografiar la densidad de oxígeno atómico, medir el intercambio de momento y energía entre el flujo molecular y el satélite mientras rotaba y medir la presión y temperatura durante la reentrada.\nEl satélite portaba un volante de inercia, una bobina magnética, un magnetómetro, sensores solares y sensores estelares. Los pases sobre las estaciones de seguimiento tenían lugar entre 5 y 6 veces por día y el contacto duraba entre 5 y 10 minutos. El satélite reentró en la atmósfera el 12 de febrero de 1995.",
+  "secciones": [],
+  "num_palabras": 230
+}

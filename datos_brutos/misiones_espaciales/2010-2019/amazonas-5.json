@@ -1,0 +1,45 @@
+{
+  "id": "doc_1329",
+  "titulo": "Amazonas 5",
+  "titulo_wikipedia_en": "Amazonas 5",
+  "fecha_lanzamiento": "2017-09-11",
+  "año_lanzamiento": 2017,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de comunicaciones",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Amazonas_5",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Activo",
+    "Tipo de misión": "Satélite de comunicaciones",
+    "Operador": "Hispasat",
+    "Fabricante": "Space Systems/Loral",
+    "Plataforma (bus)": "LS-1300",
+    "Fecha de lanzamiento": "12 de septiembre de 2017, 19:23 UTC",
+    "Duración planificada": "15 años",
+    "Masa en el lanzamiento": "5900 kg",
+    "Potencia": "11,5 kW",
+    "Sistema de referencia orbital": "Geoestacionaria",
+    "Banda de transmisión": "Ku y Ka",
+    "Trans cobertura": "América del Sur\nAmérica Central"
+  },
+  "resumen": "El Amazonas 5 es un satélite de comunicaciones geoestacionario español construido por Space Systems/Loral y operado por Hispasat/Hispamar.",
+  "secciones": [
+    {
+      "titulo": "Historia",
+      "nivel": 2,
+      "texto": "Hispasat firmó en diciembre de 2014 el contrato con Space Systems/Loral para la construcción del satélite Amazonas 5. Dicho satélite reemplazaría al Amazonas 4A, a causa de sus pérdidas de rendimiento, y al Amazonas 4B, que fue cancelado.\nEl satélite fue lanzado con éxito el 12 de septiembre de 2017, a las 19:23 UTC, mediante un vehículo Proton-M/Briz-M, desde el cosmódromo de Baikonur en Kazajistán. La masa de lanzamiento del satélite era 5900 kg y su posición orbital definitiva la 61° Oeste.\nLa vida útil estimada del satélite es de 15 años, de forma que debería permanecer en activo hasta 2032."
+    },
+    {
+      "titulo": "Carga útil",
+      "nivel": 2,
+      "texto": "La carga útil del Amazonas 5 son 35 transpondedores en banda Ka y 24 transpondedores en banda Ku para ofrecer servicios de banda ancha y telecomunicaciones. El satélite ofrece servicios DTH (Direct to Home) en banda Ku, mientras que los servicios de conectividad de banda ancha en haces de banda Ka son dirigidos a más de medio millón de personas en países de América Central y Sudamérica."
+    }
+  ],
+  "num_palabras": 186
+}

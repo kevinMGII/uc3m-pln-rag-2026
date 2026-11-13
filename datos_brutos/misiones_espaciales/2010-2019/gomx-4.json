@@ -1,0 +1,38 @@
+{
+  "id": "doc_1340",
+  "titulo": "GomX-4",
+  "titulo_wikipedia_en": null,
+  "fecha_lanzamiento": "2018-02-02",
+  "año_lanzamiento": 2018,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite experimental",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/GomX-4",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Demostración de tecnologías clave para el manejo de grandes formaciones satelitales.",
+    "Operador": "ESA GomSpace",
+    "Fecha de lanzamiento": "2 de febrero de 2018",
+    "Lugar de lanzamiento": "Centro de Lanzamiento de Satélites de Jiuquan",
+    "Vehículo de lanzamiento": "Long March 2D"
+  },
+  "resumen": "GOMX-4 (también conocida como GomSpace Express-4) es una misión de investigación y desarrollo de GomSpace. Incluye 2 satélites 6U CubeSats (GomX-4A y GomX-4B) y 3 socios: DALO (Organización Danesa de Adquisición y Logística de Defensa), la Universidad Técnica de Dinamarca (TUD), y la Agencia Espacial Europea (ESA). El objetivo de GOMX-4 es demostrar tecnologías clave para manejar grandes formaciones de satélites.\nLos dos CubeSats se enlazaron a través del sistema de radio definida por software, mientras que sus posiciones relativas a lo largo de su órbita compartida son controladas hasta un máximo de 4.500 km. Se prevé que dichos enlaces entre satélites sean utilizados para que constelaciones CubeSat transmitan datos rápidamente a los usuarios en tierra. El mismo sistema de radio también se usará para descargas rápidas de datos de carga a la Tierra.\nNanospace de Uppsala, Suecia, contribuyó con los impulsores de gas frío altamente miniaturizados para controlar la órbita, lo que permite desplegar constelaciones futuras basadas en CubeSat rápidamente después del lanzamiento.\nGOMX-4 es parte del programa de demostración de vuelo \"GOMX\" de GomSpace, con el objetivo de introducir nuevas capacidades y adquirir experiencia en órbita con estas. Las misiones GOMX generalmente se implementan como una colaboración entre GomSpace y los patrocinadores del proyecto.",
+  "secciones": [
+    {
+      "titulo": "Diseño",
+      "nivel": 2,
+      "texto": "Los dos satélites 6U están desarrollados según los estándares PA/QA (aseguramiento del producto/garantía de calidad) impuestos por la ESA en misiones de nanosatélites. Estos se derivan del sistema ECSS (Cooperación Europea para los Estándares Espaciales), pero están diseñados para su uso en misiones innovadoras. Los satélites han sido calificados para 20 krad DIT (Dosis Ionizante Total) de radiación y la caracterización de un solo evento se ha realizado a nivel de la junta.\nEl diseño satelital reutiliza muchos productos y diseños de vuelo calificados en la misión 3U GOMX-3 6), pero la arquitectura ahora se ha ampliado a la clase 6U y las capacidades de EES (enlace entre satélites) y de propulsión se han agregado a la plataforma. La capacidad de EES se basa en la plataforma modular SDR (Software Defined Radio) de GomSpace. La placa principal SDR realiza todas las funciones de modulación, demodulación y protocolo y está conectada a tres antenas de parche activas. Cada antena proporciona funciones de filtrado, LNA y PA. Para ISL se utiliza una antena con vista hacia adelante y hacia atrás, y la antena final es Nadir buscando comunicación por tierra. El sistema permite velocidades de datos de hasta 7,5 Mbit/s, pero el rendimiento real se limita a cumplir con las disposiciones reglamentarias.La capacidad de propulsión se basa en el diseño de gas frío comprobado en vuelo de NanoSpace ahora escalable en la plataforma 6U. Una piedra angular de la tecnología de NanoSpace es los propulsores basados en MEMS que permiten un control de empuje extremadamente preciso.\nDiseño GOMX-4B: Las dos naves espaciales son similares, pero el satélite GOMX-4B es el más complejo ya que contiene más cargas útiles, incluido el sistema de propulsión."
+    },
+    {
+      "titulo": "Lanzamiento",
+      "nivel": 2,
+      "texto": "Los dos nanosatélites GomX-4 se lanzaron como cargas secundarias el 2 de febrero de 2018 (07:51 UTC) en un vehículo Long March 2D de JSLC (Jiuquan Satellite Launch Center), China. La misión principal de este vuelo fue CSES-1 (China Seismo-Electromagnetic Satellite-1) de CNSA (Administración Nacional Espacial de China) y ASI (Agencia Espacial Italiana). La misión principal (730 kg) también se conoce como Zhangheng-1, que lleva el nombre del sicólogo, astrónomo y pionero sismólogo chino Zhang Heng.\nLos dos satélites GomX-4 están integrados en un despliegue de 12U adquirido por Astrofein (Astro- und Feinwerktechnik GmbH) Berlin Adlershof, es decir, los satélites se desplegarán en la misma dirección con un pequeño retraso de tiempo entre ellos.\nLa misión satélite CSES es parte de un programa de colaboración entre CNSA (Administración Espacial Nacional de China) y la Agencia Espacial Italiana (ASI), y desarrollada por la Administración de Terremotos de China (CEA) y el Instituto Nacional Italiano de Física Nuclear (INFN), junto con varios Universidades e institutos de investigación chinos e italianos.\nÓrbita: órbita síncrona del Sol, altitud de 500 km, inclinación de 97,32°, período 94,6 minutos, periodo de visita 5 días, LTDN (Hora Local en el Nodo Descendente) a las 14 horas."
+    }
+  ],
+  "num_palabras": 686
+}

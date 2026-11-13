@@ -1,0 +1,33 @@
+{
+  "id": "doc_1254",
+  "titulo": "AsiaSat-8",
+  "titulo_wikipedia_en": "AsiaSat 8",
+  "fecha_lanzamiento": "2014-08-05",
+  "año_lanzamiento": 2014,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Estación espacial",
+    "Satélite de comunicaciones",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/AsiaSat-8",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Comunicaciones",
+    "Operador": "AsiaSat",
+    "Fabricante": "SpaceX",
+    "Fecha de lanzamiento": "5 de agosto de 2014",
+    "Lugar de lanzamiento": "Cabo Cañaveral SLC-40",
+    "Vehículo de lanzamiento": "Falcon 9",
+    "Duración planificada": "15 años",
+    "ID NSSDC": "2014-046A",
+    "Masa en el lanzamiento": "4.535 kilogramos",
+    "Banda de transmisión": "Banda Ku y Banda Ka"
+  },
+  "resumen": "AsiaSat 8 es un satélite geoestacionario de comunicaciones de Hong Kong operado por la Compañía de Telecomunicaciones por Satélite de Asia.\nAsiaSat 8 fue construido por Space Systems / Loral y se basa en el bus satelital LS-1300LL. El satélite transporta 24 transpondedores de la banda Ku y una carga útil de la banda Ka, y se planificó que se colocara inicialmente sobre el ecuador, a una longitud de 105.5 grados Este, que cubra el sur y el sureste de Asia, China y Oriente Medio.\nSe lanzó a bordo de un Falcon 9 v1.1 desde Cabo Cañaveral, Florida.",
+  "secciones": [],
+  "num_palabras": 98
+}

@@ -1,0 +1,47 @@
+{
+  "id": "doc_0120",
+  "titulo": "Cosmos 53",
+  "titulo_wikipedia_en": "Kosmos 53",
+  "fecha_lanzamiento": "1965-01-30",
+  "año_lanzamiento": 1965,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite (programa Cosmos)",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Cosmos_53",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Reentrado en la atmósfera",
+    "Tipo de misión": "Militar / científico",
+    "Fecha de lanzamiento": "30 de enero de 1965",
+    "Lugar de lanzamiento": "Kapustin Yar",
+    "Vehículo de lanzamiento": "Kosmos-2I",
+    "ID NSSDC": "1965-006A",
+    "Masa en el lanzamiento": "310 kg",
+    "Tipo de fin de misión": "reingreso",
+    "Fecha de reentrada": "12 de agosto de 1966"
+  },
+  "resumen": "Cosmos 53 (en cirílico, Космос 53) fue un satélite artificial soviético perteneciente a la clase de satélites DS y lanzado el 30 de enero de 1965 mediante un cohete Kosmos-2I desde Kapustin Yar.",
+  "secciones": [
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "El objetivo de Cosmos 53 fue realizar experimentos de comunicación y navegación para cubrir las necesidades de las fuerzas nucleares soviéticas. También realizó estudios sobre rayos cósmicos, sobre la radiación proveniente de las pruebas nucleares, sobre los cinturones de radiación y sobre la ionosfera."
+    },
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "Cosmos 53 tenía una masa de 310 kg y reentró en la atmósfera el 12 de agosto de 1966. Para los estudios ionosféricos empleó un transmisor Mayak funcionando a 20,005 y 90,022 MHz. El satélite fue inyectado en una órbita con un perigeo de 221 km y un apogeo de 1172 km, con una inclinación orbital de 48,7 grados y un periodo de 98,7 minutos."
+    },
+    {
+      "titulo": "Resultados",
+      "nivel": 2,
+      "texto": "Cosmos 53 produjo, entre otros, resultados científicos a partir de la medición de los flujos de neutrones producidos por el impacto de los protones que componen los rayos cósmicos en el material que formaba el satélite."
+    }
+  ],
+  "num_palabras": 178
+}

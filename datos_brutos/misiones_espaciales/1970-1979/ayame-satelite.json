@@ -1,0 +1,33 @@
+{
+  "id": "doc_0539",
+  "titulo": "Ayame (satélite)",
+  "titulo_wikipedia_en": null,
+  "fecha_lanzamiento": "1979-02-06",
+  "año_lanzamiento": 1979,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de comunicaciones",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Ayame_(satélite)",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Finalizados",
+    "Tipo de misión": "Comunicaciones",
+    "Operador": "JAXA",
+    "Fecha de lanzamiento": "6 de febrero de 1979 (Ayame 1)\n22 de febrero de 1980 (Ayame 2)",
+    "Lugar de lanzamiento": "Tanegashima",
+    "Vehículo de lanzamiento": "Delta",
+    "ID NSSDC": "1979-009A",
+    "Configuración": "Cilíndrica",
+    "Masa en el lanzamiento": "260 kg",
+    "Dimensiones": "1,9 m de altura, 1,4 m de diámetro",
+    "Sistema de referencia orbital": "Geoestacionaria"
+  },
+  "resumen": "Ayame fue el nombre de dos satélites de comunicaciones experimentales japoneses.\nAyame 1 fue lanzado desde la base de Tanegashima el 6 de febrero de 1979, pero un fallo en la tercera etapa del cohete Delta que lo lanzó impidió que alcanzase la órbita correcta.\nAyame 2 fue lanzado el 22 de febrero de 1980 y puesto en órbita geoestacionaria correctamente.\nLos satélites estaban destinados a probar nuevas tecnologías y hacer experimentos sobre comunicaciones. Eran cilíndricos y se estabilizaban mediante giro.",
+  "secciones": [],
+  "num_palabras": 81
+}

@@ -1,0 +1,41 @@
+{
+  "id": "doc_0942",
+  "titulo": "Envisat",
+  "titulo_wikipedia_en": "Envisat",
+  "fecha_lanzamiento": "2002-03-01",
+  "año_lanzamiento": 2002,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Envisat",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Inoperativo",
+    "Tipo de misión": "Observación de la Tierra",
+    "Operador": "ESA",
+    "Fecha de lanzamiento": "1 de marzo de 2002",
+    "ID COSPAR": "0200901",
+    "Nº SATCAT": "6179",
+    "Configuración": "PPF/Spot Mk.2",
+    "Masa en el lanzamiento": "8211 kg",
+    "Sistema de referencia orbital": "Polar circular heliosíncrona",
+    "Excentricidad": "0,001165",
+    "Periapsis": "796 km",
+    "Inclinación orbital": "98,54º",
+    "Periodo orbital": "100 minutos",
+    "Instrumentos": "MIPAS\nGOMOS\nSCIAMACHY\nMERIS\nAATSR\nASAR\nRA-2\nMWR\nDORIS\nLRR"
+  },
+  "resumen": "El Envisat (Environmental Satellite) es un satélite de observación terrestre construido por la Agencia Espacial Europea (ESA). Fue lanzado el 1 de marzo de 2002 en un cohete Ariane 5 a una órbita polar síncrona con el Sol a una altura de 790 km (±10 km). Orbita la Tierra con un periodo orbital de cerca de 101 minutos y con un periodo de repetición de ciclos cada 35 días. Estuvo operativo hasta el 8 de abril de 2012, día en el que se perdieron todas las comunicaciones con el satélite. Desde entonces continúa orbitando sin control formando parte del conjunto de desechos espaciales\nEl Envisat fue uno de los mayores observatorios de la atmósfera y superficie terrestre lanzados, y dispuso de 9 instrumentos para la obtención de información sobre la superficie de la Tierra, los océanos y la atmósfera.",
+  "secciones": [
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "Su misión fue recopilar datos para poder controlar el calentamiento global, el grado de la contaminación atmosférica y los riesgos de desastres naturales para poder mitigar sus efectos. Su peso es de 8,2 t.\nPara esta misión, que batió todos los récord de lanzamiento de peso, el Ariane 5 fue equipado por primera vez con una cofia de 17 metros que envolvía y protegía al mayor satélite construido por Europa, según el consorcio europeo Arianespace. Fabricado por un consorcio de una cincuentena de empresas bajo la dirección de ASTRIUM, Envisat está situado en una órbita casi polar.\nTras desplegar sus antenas solares, Envisat alcanzaba una dimensión de 25 metros de largo por 10 de ancho y da una vuelta a la Tierra cada cien minutos aproximadamente. Sobrevuela los polos a 800 km de altitud en una órbita inclinada 98 grados con respecto al ecuador, pudiendo analizar siempre cada zona a la misma hora solar. Desde esa posición privilegiada, nada escapaba a los diez instrumentos con los que iba equipado: gases de efecto invernadero, cambios del nivel de los océanos, fusión de glaciares, destrucción de bosques tropicales, restos de hidrocarburos en el mar, inundaciones, erupciones volcánicas o el fenómeno de \"El Niño\", entre otros.\nLos instrumentos GOMOS, MIPAS y SCIAMACHY tuvieron la misión de sondear y cartografiar la atmósfera con el fin de determinar las concentraciones de gases de efecto invernadero o los contaminantes industriales, y seguir la evolución del agujero en la capa de ozono. SCIAMACHY analizaba también los efectos de los incendios forestales, de las tormentas de polvo y las erupciones volcánicas.\nEl espectrómetro MERIS captó los colores de los mares y océanos, de forma que fue posible observar interesantes parámetros como el paso del azul normal al rojo característico de la proliferación de algas, y los diferentes estadios en el crecimiento de las plantas junto con sus niveles de clorofila.\nEntre otros, el ENVISAT disponía de 4 sistemas de adquisición: DORIS, RA-2, MWR, ARR.\nEl 8 de abril de 2012, se perdió toda comunicación con el satélite. Tras un mes de numerosos intentos de restablecer el control, el 9 de mayo de 2012 la Agencia Espacial Europea (ESA), tras no conseguir una mínima reacción por parte de ENVISAT, declaró la misión como finalizada."
+    }
+  ],
+  "num_palabras": 514
+}

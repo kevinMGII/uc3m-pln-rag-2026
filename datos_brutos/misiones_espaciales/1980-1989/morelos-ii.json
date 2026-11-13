@@ -1,0 +1,49 @@
+{
+  "id": "doc_0630",
+  "titulo": "Morelos II",
+  "titulo_wikipedia_en": null,
+  "fecha_lanzamiento": "1985-11-27",
+  "año_lanzamiento": 1985,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de comunicaciones",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Morelos_II",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Inactivo",
+    "Tipo de misión": "Comunicaciones",
+    "Operador": "Satmex",
+    "Fecha de lanzamiento": "27 de noviembre de 1985",
+    "Lugar de lanzamiento": "Cabo Cañaveral",
+    "Vehículo de lanzamiento": "Transbordador espacial Atlantis",
+    "Duración planificada": "19 años",
+    "ID NSSDC": "1985-109B",
+    "Masa en el lanzamiento": "645.0 kg",
+    "Dimensiones": "3 m x 6 m",
+    "Sistema de referencia orbital": "Geoestacionaria",
+    "Excentricidad": "0.73",
+    "Periapsis": "350.0 km",
+    "Apoapsis": "36900.0 km",
+    "Inclinación orbital": "25.7°",
+    "Periodo orbital": "655.7 min"
+  },
+  "resumen": "El Morelos II fue el segundo satélite de comunicaciones mexicano que formó parte de la serie de satélites de comunicaciones Morelos.Fue construido y puesto en órbita bajo contrato dado por la Secretaría de Comunicaciones y Transportes al Grupo de Espacio y Comunicaciones de Hughes Aircraft. Formó parte de la primera generación de satélites mexicanos, cuya construcción se inició en 1983. Fue lanzado al espacio el 27 de noviembre de 1985 en el Transbordador espacial Atlantis.\nEn agosto de 1998, el Morelos II comenzó a operar en órbita inclinada. Fue controlado desde México por ingenieros mexicanos. El diseño y el tiempo de vida de este satélite fue previsto solo para 9 años pero, gracias a las iniciativas y a la notable operación de los ingenieros mexicanos, dio servicio general hasta el año de 2004, cuando se agotó su combustible, se apagaron desde el centro de control de Iztapalapa sus sistemas de a bordo y se retiró de órbita para convertirse en basura espacial inubicable e inoperable.",
+  "secciones": [
+    {
+      "titulo": "Lanzamiento",
+      "nivel": 2,
+      "texto": "Fue lanzado desde el Transbordador espacial Atlantis de la NASA, el 27 de noviembre de 1985 en Cabo Cañaveral. La misión STS-61-B contó con la asistencia del primer astronauta mexicano, el Dr. Rodolfo Neri Vela como especialista de carga.\nEntró en órbita geoestacionaria el 17 de diciembre de 1985.\nCuando se lanzó el satélite fue puesto en órbita de almacenamiento y ahí permaneció hasta abril de 1989, fecha en que entró en operaciones."
+    },
+    {
+      "titulo": "Especificaciones",
+      "nivel": 2,
+      "texto": "Operador: Secretaria de Comunicaciones y Transportes (México)\nFabricante: Grupo de Espacio y Comunicaciones de Hughes Aircraft\nModelo: Hughes HS-376\nLongitud: 6.62 m (desplegado)\nPosición orbital: 116.8° Oeste\nCarga útil: Transpondedores en Banda C y Banda Ku\nPeso: 645.0 kg\nPropulsión: 4 motores de hidracina\nEstabilización: mediante rotación\nTiempo de vida: 9 años (extendido a 19 años)\nOtros nombres: Morelos-B, 16273"
+    }
+  ],
+  "num_palabras": 298
+}

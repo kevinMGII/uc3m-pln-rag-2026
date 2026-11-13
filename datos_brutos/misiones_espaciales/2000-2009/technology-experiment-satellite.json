@@ -1,0 +1,38 @@
+{
+  "id": "doc_0935",
+  "titulo": "Technology Experiment Satellite",
+  "titulo_wikipedia_en": "Technology Experiment Satellite",
+  "fecha_lanzamiento": "2001-10-22",
+  "año_lanzamiento": 2001,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Technology_Experiment_Satellite",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Satélite espía/experimental",
+    "Operador": "ISRO",
+    "Fecha de lanzamiento": "22 de octubre de 2001",
+    "Masa en el lanzamiento": "1108 kg",
+    "Periapsis": "550 km",
+    "Inclinación orbital": "97,8 grados"
+  },
+  "resumen": "Technology Experiment Satellite o TES es un satélite experimental de la India lanzado por la ISRO para probar tecnologías a utilizar en satélites espía. Fue lanzado el 22 de octubre de 2001 desde la base de Sriharikota mediante un cohete PSLV a una órbita heliosincrónica de 568 km de altura, en un lanzamiento conjunto en el que también se pusieron en órbita los satélites PROBA y BIRD.\nEl satélite fue el resultado de la decisión de la India de disponer de un satélite de reconocimiento propio tras la incursión por sorpresa de tropas pakistaníes en Cachemira en 1999.\nLas tecnologías puestas a prueba por TES incluían control de actitud, giroscopios, nuevos sistemas de control a reacción, estructuras ligeras, grabadoras de estado sólido, antenas de alineación de fase en banda X, sistema de posicionamiento mejorado, un sistema de energía miniaturizado y una cámara óptica con espejo direccionable en dos ejes capaz de tomar imágenes con una resolución de 1 metro.",
+  "secciones": [
+    {
+      "titulo": "Especificaciones",
+      "nivel": 2,
+      "texto": "Masa: 1108 kg"
+    },
+    {
+      "titulo": "Parámetros orbitales",
+      "nivel": 2,
+      "texto": "Perigeo: 550 km\nApogeo: 579 km\nInclinación orbital: 97,8 grados"
+    }
+  ],
+  "num_palabras": 172
+}

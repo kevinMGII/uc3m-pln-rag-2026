@@ -1,0 +1,42 @@
+{
+  "id": "doc_0101",
+  "titulo": "Beacon Explorer-A",
+  "titulo_wikipedia_en": "Explorer S-66",
+  "fecha_lanzamiento": "1964-03-19",
+  "año_lanzamiento": 1964,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Beacon_Explorer-A",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Destruido en despegue",
+    "Tipo de misión": "Estudios ionosféricos",
+    "Operador": "NASA",
+    "Fecha de lanzamiento": "19 de marzo de 1964",
+    "Lugar de lanzamiento": "Cabo Cañaveral",
+    "Vehículo de lanzamiento": "Delta",
+    "ID NSSDC": "EXS-66A",
+    "Configuración": "Prisma recto octogonal",
+    "Masa en el lanzamiento": "114 kg",
+    "Dimensiones": "24,5 cm de alto x 45,7 cm de diámetro"
+  },
+  "resumen": "Beacon Explorer-A, también conocido abreviadamente como BE-A y como Explorer S-66A fue un satélite artificial de la NASA dedicado a la investigación de la ionosfera terrestre. Fue lanzado el 19 de marzo de 1964 mediante un cohete Delta desde Cabo Cañaveral, pero un fallo de la tercera etapa impidió la inserción en órbita del satélite, que cayó en el océano Atlántico sur.",
+  "secciones": [
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "El objetivo de Beacon Explorer-A era estudiar la ionosfera terrestre."
+    },
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "Beacon Explorer-A tenía forma de prisma recto octogonal de 24,5 cm de alto por 45,7 cm de diámetro. Portaba una sonda electrostática, una baliza de radio, un reflector láser pasivo y un experimento de navegación."
+    }
+  ],
+  "num_palabras": 107
+}

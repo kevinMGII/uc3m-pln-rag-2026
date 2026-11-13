@@ -1,0 +1,53 @@
+{
+  "id": "doc_1024",
+  "titulo": "Spainsat",
+  "titulo_wikipedia_en": "Spainsat",
+  "fecha_lanzamiento": "2006-03-11",
+  "año_lanzamiento": 2006,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de comunicaciones",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Spainsat",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Comunicaciones",
+    "Operador": "Hisdesat, XTAR LLC",
+    "Plataforma (bus)": "LS-1300",
+    "Fecha de lanzamiento": "11 de marzo de 2006 (22:33 GMT)",
+    "Lugar de lanzamiento": "Guayana Francesa",
+    "Vehículo de lanzamiento": "Ariane 5",
+    "Duración planificada": "15 años",
+    "ID NSSDC": "2006-007A",
+    "Masa en el lanzamiento": "3683 kg",
+    "Potencia": "5773 W (BOL)",
+    "Sistema de referencia orbital": "Geostacionaria",
+    "Semieje mayor": "42165 km",
+    "Inclinación orbital": "0º",
+    "Periodo orbital": "1436,1 minutos",
+    "Órbita RAAN": "30° O"
+  },
+  "resumen": "El Spainsat es un satélite de comunicaciones español lanzado en 2006. Está destinado a comunicaciones militares y gubernamentales, permitiendo las telecomunicaciones entre las diferentes misiones de las Fuerzas Armadas Españolas en el extranjero. Da cobertura sobre una amplia zona que va desde Estados Unidos hasta Sudamérica, pasando por África, Europa y Oriente Medio.\nEl satélite pertenece a Hisdesat (empresa perteneciente a su vez a Hispasat (43%), ISDEFE (30%), Airbus Defence and Space (15%), Indra Espacio (7%) y SENER (5%)), siendo su inversión inicial de 415 millones de euros.",
+  "secciones": [
+    {
+      "titulo": "Construcción",
+      "nivel": 2,
+      "texto": "Ha sido construido por Space Systems Loral en California (Estados Unidos), esperándose una vida útil de al menos 15 años. Su masa al despegue era de unos 3.700 kilogramos. Está equipado con transpondedores en banda X, y uno en banda Ka militar. Se encuentra situado en una órbita geoestacionaria a 36.000 kilómetros de altitud y a 30 grados oeste sobre el océano Atlántico. El satélite incorpora diversos instrumentos desarrollados por el INTA.\nEl satélite da cobertura a labores humanitarias, seguridad e inteligencia, operaciones militares, envío de imágenes, servicios a embajadas y comunicaciones gubernamentales de España."
+    },
+    {
+      "titulo": "Lanzamiento",
+      "nivel": 2,
+      "texto": "El satélite fue lanzado el 11 de marzo de 2006 a las 22:33 GMT desde la base aérea de Kourou, en la Guayana Francesa por un cohete Ariane 5 ECA de la empresa Arianespace."
+    },
+    {
+      "titulo": "Carga útil",
+      "nivel": 2,
+      "texto": "XTAR-LANT es una carga útil alojada a bordo del satélite Spainsat y operada por la compañía XTAR LLC para proveer servicios de comunicaciones.\nIRMA (In orbit Reconfigurable Multibeam Antenna), antena activa de recepción en banda X con cuatro canales de salida (1 haz global, 1 haz fijo y 2 haces móviles). Sus capacidades de reconfiguración en órbita le permiten evitar cualquier interferencia exterior."
+    }
+  ],
+  "num_palabras": 280
+}

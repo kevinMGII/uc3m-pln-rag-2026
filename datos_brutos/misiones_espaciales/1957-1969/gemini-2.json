@@ -1,0 +1,32 @@
+{
+  "id": "doc_0119",
+  "titulo": "Gemini 2",
+  "titulo_wikipedia_en": "Gemini 2",
+  "fecha_lanzamiento": "1965-01-19",
+  "año_lanzamiento": 1965,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Otro vuelo espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Gemini_2",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Lugar de lanzamiento": "Centro Espacial Kennedy, Florida",
+    "Duración de la misión": "18 min 16 s",
+    "Misión anterior": "Gemini 1",
+    "Misión siguiente": "Gemini 3",
+    "Programa": "Programa Gemini"
+  },
+  "resumen": "Gemini 2 fue una misión espacial no tripulada del programa Gemini de la NASA, realizada el 19 de enero de 1965, para probar diversos sistemas de la nave antes del comienzo de los vuelos tripulados de este programa.",
+  "secciones": [
+    {
+      "titulo": "Descripción",
+      "nivel": 2,
+      "texto": "La cápsula fue lanzada a bordo de un cohete Titan II, iniciando un vuelo suborbital. A los 6 minutos 54 segundos del lanzamiento, se encendieron los retrocohetes iniciándose la reentrada en la atmósfera terrestre. La cápsula de la Gemini 2 cayó en el mar a 3.422 km de Cabo Kennedy, Florida. La duración total del vuelo fue de 18 minutos y 16 segundos, siendo la cápsula recuperada por la fragata estadounidense USS Lake Champlain.\nFue la primera nave en volar dos veces al espacio, ya que después fue reutilizada en otra misión suborbital, en la misión espacial militar OPS 0855, como una prueba del programa del Manned Orbital Laboratory de la US Air Force, de nuevo sin tripulación."
+    }
+  ],
+  "num_palabras": 156
+}

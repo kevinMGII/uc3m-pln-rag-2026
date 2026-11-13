@@ -1,0 +1,36 @@
+{
+  "id": "doc_1267",
+  "titulo": "Exploration Flight Test-1",
+  "titulo_wikipedia_en": "Exploration Flight Test-1",
+  "fecha_lanzamiento": "2014-12-05",
+  "año_lanzamiento": 2014,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Exploration_Flight_Test-1",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {},
+  "resumen": "Exploration Flight Test-1 o EFT-1 (anteriormente conocido como Orion Flight Test 1 u OFT-1 ) fue el primer vuelo de prueba del vehículo tripulado multipropósito Orión. Sin tripulación, se lanzó el 5 de diciembre de 2014, a las 12:05 UTC (7:05 a. m. hora local), por un cohete Delta IV Heavy desde el complejo de lanzamiento 37B en la Estación de la Fuerza Aérea de Cabo Cañaveral.\nLa misión fue una prueba de cuatro horas en dos órbitas del módulo de la tripulación de Orión, con un alto apogeo en la segunda órbita y concluyendo con un reingreso de alta energía a una velocidad de unos 32.000 km/h. Este diseño de misión es similar a la misión Apolo 4 de 1967, que validó el sistema de control de vuelo Apolo y el escudo térmico en condiciones de reingreso planificadas para el regreso de las misiones lunares.\nLa NASA promovió fuertemente la misión, colaborando con Sesame Street y sus personajes para educar a los niños sobre la prueba de vuelo y la nave espacial Orión.",
+  "secciones": [
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "El vuelo estaba destinado a probar varios sistemas de Orión, incluidos eventos de separación, aviónica, protección térmica, paracaídas y operaciones de recuperación antes de su lanzamiento planificado a bordo del Sistema de Lanzamiento Espacial."
+    },
+    {
+      "titulo": "Montaje de vehículos",
+      "nivel": 2,
+      "texto": "EFT-1 Orion fue construido por Lockheed Martin. El 22 de junio de 2012, se completaron las soldaduras finales del EFT-1 Orión en la Michoud Assembly Facility en Nueva Orleans, Luisiana. Luego fue transportado al Edificio de Operaciones y Comprobación del Centro Espacial Kennedy, donde se completó el resto de la nave espacial. El cohete Delta IV se colocó en posición vertical el 1 de octubre de 2014, y Orión fue acoplado con el vehículo el 11 de noviembre."
+    },
+    {
+      "titulo": "Vuelo",
+      "nivel": 2,
+      "texto": "El vuelo de cuatro horas y media llevó a la nave espacial Orión en dos órbitas de la Tierra. La altitud máxima fue de aproximadamente 5800 kilómetros. La gran altitud permitió a la nave espacial alcanzar velocidades de reentrada de hasta 32 mil kilómetros por hora, lo que expuso el escudo térmico a temperaturas de hasta alrededor de 2200 °C.\nDurante el vuelo, se evaluaron el módulo de la tripulación, una representación estructural del módulo de servicio, un sistema de aborto de lanzamiento parcial que contiene solo el motor de lanzamiento y el adaptador Orion a la etapa. La nave espacial permaneció unida al módulo de servicio ficticio en la etapa superior del Delta IV hasta que comenzó el reingreso y se basó en baterías internas para obtener energía en lugar de conjuntos fotovoltaicos, que no estaban contenidos en la representación estructural. Los datos recopilados del vuelo de prueba fueron analizados por la revisión crítica de diseño (CDR) en abril de 2015.\nDespués de un amerizaje en el Océano Pacífico, las tripulaciones del USS Anchorage recuperaron el vehículo de la tripulación EFT-1 Orion. Posteriormente se hicieron planes para equipar la cápsula para una prueba de aborto de ascenso en 2017."
+    }
+  ],
+  "num_palabras": 486
+}

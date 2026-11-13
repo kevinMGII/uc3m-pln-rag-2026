@@ -1,0 +1,43 @@
+{
+  "id": "doc_0645",
+  "titulo": "Bion 8",
+  "titulo_wikipedia_en": "Kosmos 1887",
+  "fecha_lanzamiento": "1987-09-29",
+  "año_lanzamiento": 1987,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite científico",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Bion_8",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Retornado a la Tierra",
+    "Tipo de misión": "Experimentos biológicos",
+    "Operador": "Unión Soviética",
+    "Fecha de lanzamiento": "29 de septiembre de 1987",
+    "Lugar de lanzamiento": "Cosmódromo de Plesetsk",
+    "Vehículo de lanzamiento": "Soyuz",
+    "ID NSSDC": "1987-083A",
+    "Masa en el lanzamiento": "6700 kg",
+    "Tipo de fin de misión": "reingreso",
+    "Fecha de reentrada": "28 de octubre de 1987"
+  },
+  "resumen": "Bion 8 (Бион 8, en ruso), también conocido como Cosmos 1887, fue el nombre de un satélite artificial soviético perteneciente a la serie de satélites Bion. Fue lanzado el 29 de septiembre de 1987 desde el cosmódromo de Plesetsk mediante un cohete Soyuz y contó con la colaboración de Hungría, la República Democrática Alemana, Polonia, Rumanía, Checoslovaquia, Estados Unidos, Francia y la ESA. Regresó a la Tierra el 28 de octubre de 1987.",
+  "secciones": [
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "Bion 8 continuó los experimentos con monos y otros especímenes para estudiar los efectos de la radiación y la microgravedad en organismos biológicos. Llevó a bordo a dos monos (Drema y Erosha), diez ratas, moscas de la fruta, saltamontes, cucarachas, guppies, Hynobiidae, Chlorella ciliates, tritones y maíz. Algunos de los experimentos estadounidenses fueron continuación de los realizados durante la misión Spacelab 3, en abril de 1985."
+    },
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "Bion 8 estaba basada, como todas las naves de la serie Bion, en los satélites de reconocimiento Zenit. La misión duró 13 días y la cápsula fue recuperada a 62° 47' de latitud norte y 112° 26' de longitud este, a cientos de kilómetros del punto de aterrizaje esperado."
+    }
+  ],
+  "num_palabras": 188
+}

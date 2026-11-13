@@ -1,0 +1,53 @@
+{
+  "id": "doc_1031",
+  "titulo": "EUTELSAT 113 West A",
+  "titulo_wikipedia_en": "Eutelsat 113 West A",
+  "fecha_lanzamiento": "2006-05-27",
+  "año_lanzamiento": 2006,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Otro vuelo espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/EUTELSAT_113_West_A",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Activo",
+    "Tipo de misión": "Comunicaciones",
+    "Operador": "Eutelsat Americas",
+    "Plataforma (bus)": "FS-1300X HP",
+    "Fecha de lanzamiento": "27 de mayo del 2006",
+    "Lugar de lanzamiento": "Puerto espacial de Kourou",
+    "Vehículo de lanzamiento": "Ariane 5 ECA",
+    "Duración planificada": "15 años",
+    "ID NSSDC": "2006-020A",
+    "Masa en el lanzamiento": "5.4 ton",
+    "Periapsis": "35,776 km",
+    "Apoapsis": "35,796 km",
+    "Periodo orbital": "24 h",
+    "Órbita RAAN": "113° Oeste",
+    "Trans nombre": "36 en Banda C, 24 en Banda Ku",
+    "Banda de transmisión": "Banda C, Banda Ku"
+  },
+  "resumen": "El EUTELSAT 113 West A (antes Satmex 6) es un satélite de comunicaciones construido para México por Space Systems/Loral. El 2 de enero de 2014, Satmex fue vendida a Eutelsat cambiando su nombre a Eutelsat Americas, de esta manera toda su flota satelital cambio de nombre.\nEL satélite fue llevado hasta su posición geoestacionaria de 113° Oeste que dejó libre el satélite Solidaridad 2, mismo que fue reubicado a la posición 114.9° longitud Oeste.\nEl costo de este satélite fue de 235 millones de dólares. El satélite está diseñado para tener una vida útil de 15 años. Cuenta con 50% más potencia que el Satmex 5 y mayor ancho de banda. La energía eléctrica generada por los paneles solares es de aproximadamente 12,000 watts.",
+  "secciones": [
+    {
+      "titulo": "Objetivo",
+      "nivel": 2,
+      "texto": "Con este satélite se puede obtener servicio permanente u ocasional de acceso con una fiabilidad mayor de 99.8%, cifra superior a la estimada para la fibra óptica, para apoyar una serie de aplicaciones, que en el caso de México consisten en:\nConexión a internet.\nTelefonía rural y de larga distancia.\nTelevisión y radio.\nEducación a distancia.\nRedes empresariales y videoconferencia. Por ejemplo, en cajeros automáticos o redes corporativas.\nTelemedicina, programa de salud producido por el ISSSTE.\nEn el caso de los Satélites controlados por Satmex, las operaciones de rastreo, telemetría y mando se llevan a cabo desde el Centro de Control Iztapalapa, México, y desde el de Control Alterno de Hermosillo, Sonora."
+    },
+    {
+      "titulo": "Lanzamiento",
+      "nivel": 2,
+      "texto": "El Satmex 6 fue puesto en órbita el 27 de mayo del 2006 a las 17:09 UTC desde el Puerto espacial de Kourou en la Guayana Francesa. La empresa contratada para su lanzamiento al espacio fue Arianespace utilizando un cohete Ariane 5 ECA en la plataforma ELA-3."
+    },
+    {
+      "titulo": "Especificaciones",
+      "nivel": 2,
+      "texto": "Operador: Eutelsat Americas\nFabricante: Space Systems/Loral\nModelo: FS-1300X High Power\nTipo de satélite: Comunicaciones\nPosición orbital: 130° Oeste\nCarga útil: 36 tp de 36 MHz en Banda C y 24 tp de 36 MHz en Banda Ku\nPeso: 5.4 ton (5.7 con combustible)\nTiempo de vida: 15 años\nNSSDC ID: 2006-3506A"
+    }
+  ],
+  "num_palabras": 334
+}

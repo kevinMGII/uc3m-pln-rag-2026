@@ -1,0 +1,42 @@
+{
+  "id": "doc_0135",
+  "titulo": "Cosmos 70",
+  "titulo_wikipedia_en": "Kosmos 70",
+  "fecha_lanzamiento": "1965-07-02",
+  "año_lanzamiento": 1965,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite (programa Cosmos)",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Cosmos_70",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Reentrado en la atmósfera",
+    "Tipo de misión": "Militar / científico",
+    "Fecha de lanzamiento": "2 de julio de 1965",
+    "Lugar de lanzamiento": "Kapustin Yar",
+    "Vehículo de lanzamiento": "Kosmos-2I",
+    "ID NSSDC": "1965-052A",
+    "Masa en el lanzamiento": "250 kg",
+    "Tipo de fin de misión": "reingreso",
+    "Fecha de reentrada": "18 de diciembre de 1966"
+  },
+  "resumen": "Cosmos 70 (en cirílico, Космос 70) fue un satélite artificial soviético perteneciente a la clase de satélites DS y lanzado el 2 de julio de 1965 mediante un cohete Kosmos-2I desde Kapustin Yar.",
+  "secciones": [
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "El objetivo de Cosmos 70 fue realizar experimentos de comunicación y navegación para cubrir las necesidades de las fuerzas nucleares soviéticas, y cuyos resultados serían aplicados más tarde en el sistema de navegación GLONASS. También realizó estudios sobre rayos cósmicos, sobre la radiación proveniente de las pruebas nucleares, sobre los cinturones de radiación."
+    },
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "Cosmos 70 tenía una masa de 250 kg y reentró en la atmósfera el 18 de diciembre de 1966. El satélite fue inyectado en una órbita con un perigeo de 223 km y un apogeo de 1176 km, con una inclinación orbital de 48,8 grados y un período de 98,8 minutos."
+    }
+  ],
+  "num_palabras": 137
+}

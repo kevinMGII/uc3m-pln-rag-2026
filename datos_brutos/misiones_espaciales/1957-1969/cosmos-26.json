@@ -1,0 +1,42 @@
+{
+  "id": "doc_0100",
+  "titulo": "Cosmos 26",
+  "titulo_wikipedia_en": "Kosmos 26",
+  "fecha_lanzamiento": "1964-03-18",
+  "año_lanzamiento": 1964,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite (programa Cosmos)",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Cosmos_26",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Reentrado en la atmósfera",
+    "Tipo de misión": "Experimental / Científico",
+    "Fecha de lanzamiento": "18 de marzo de 1964",
+    "Lugar de lanzamiento": "Kapustin Yar",
+    "Vehículo de lanzamiento": "Kosmos-2I",
+    "ID NSSDC": "1964-013A",
+    "Masa en el lanzamiento": "365 kg",
+    "Tipo de fin de misión": "reingreso",
+    "Fecha de reentrada": "28 de septiembre de 1964"
+  },
+  "resumen": "Cosmos 26 (en cirílico, Космос 26) fue un satélite artificial soviético perteneciente a la clase de satélites DS y lanzado el 18 de marzo de 1964 mediante un cohete Kosmos-2I desde Kapustin Yar.",
+  "secciones": [
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "El objetivo de Cosmos 26 fue realizar pruebas sobre nuevos sistemas de orientación mediante girodino eléctrico y estudiar la magnetosfera terrestre, formando, junto con Cosmos 49, la contribución de la Unión Soviética al proyecto internacional IQSY (International Year of the Quiet Sun, Año Internacional del Sol Tranquilo)."
+    },
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "Cosmos 26 tenía una masa de 365 kg y reentró en la atmósfera el 28 de septiembre de 1964. El satélite fue inyectado en una órbita con un perigeo de 268 km y un apogeo de 376 km, con una inclinación orbital de 48,9 grados y un período de 91 minutos."
+    }
+  ],
+  "num_palabras": 131
+}

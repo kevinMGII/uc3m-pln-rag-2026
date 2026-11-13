@@ -1,0 +1,54 @@
+{
+  "id": "doc_1391",
+  "titulo": "SpaceX CRS-19",
+  "titulo_wikipedia_en": "SpaceX CRS-19",
+  "fecha_lanzamiento": "2019-12-05",
+  "año_lanzamiento": 2019,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Estación espacial",
+    "Nave de carga a la ISS"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/SpaceX_CRS-19",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Vehículo de lanzamiento": "Falcon 9 Block 5\nB1059.1",
+    "Lugar de lanzamiento": "SLC-40, Estación de la Fuerza Aérea de Cabo Cañaveral",
+    "Fecha de lanzamiento": "5 de diciembre de 2019 a las 17:29 UTC",
+    "Nave": "Dragon\nC106.3",
+    "Inclinación orbital": "51.6°",
+    "Programa": "Servicios Comerciales de Abastecimiento",
+    "Misión anterior": "Cygnus NG-12",
+    "Misión siguiente": "Cygnus NG-13",
+    "Programa (2)": "Cargo Dragon",
+    "Misión anterior (2)": "SpaceX CRS-18",
+    "Misión siguiente (2)": "SpaceX CRS-20"
+  },
+  "resumen": "SpaceX CRS-19, también conocida como SpX-19, fue una misión de los Servicios Comerciales de Abastecimiento de la Estación Espacial Internacional, lanzada el 5 de diciembre de 2019 y retornando a la Tierra el 7 de enero de 2020. La misión fue contratada por la NASA y es operada por SpaceX.",
+  "secciones": [
+    {
+      "titulo": "Historial de la misión",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Planificación y viaje a la ISS",
+      "nivel": 3,
+      "texto": "En febrero de 2016, se anunció que la NASA había otorgado una extensión de contrato a SpaceX para cinco misiones adicionales de CRS (CRS-16 a CRS-20). En junio de 2016, un informe del inspector general de la NASA dijo que esta misión estaba esperada para diciembre de 2018. La misión se retrasó más tarde hasta el 15 de octubre de 2019. Actualmente se espera que sea ejecutada en diciembre de 2019. Tras estar el cohete y la nave en la plataforma de despegue el miércoles 4 de diciembre, se decidió posponer por cerca de 24 horas el despegue, debido a fuertes vientos tanto en el nivel superior de la atmósfera, como en alta mar, en el sitio de recuperación de la primera etapa.\nLa prueba de encendido estático se realizó con éxito el 27 de noviembre de 2019. La primera etapa del cohete es la de número de serie B1059.1 (nueva), mientras que la cápsula Dragon —de número de serie C106.3— es la misma que anteriormente viajó a la Estación Espacial en las misiones CRS-4 (2014) y CRS-11 (2017).\nEl despegue del Falcon 9 ocurrió el 5 de diciembre a las 17:29 UTC, desde la plataforma de lanzamiento 40 de la Estación de la Fuerza Aérea de Cabo Cañaveral, en Florida. Tras el lanzamiento, SpaceX recuperó el propulsor B1059.1 usado del cohete vía aterrizaje en la plataforma autónoma Of Course I Still Love You, estacionada a 343 kilómetros mar adentro, en el océano Atlántico, aproximadamente 7 minutos y 48 segundos tras el despegue. En tanto, la segunda etapa del cohete, tras separarse de la nave Dragon, permaneció unas 6 horas en órbita sin usar su motor –proceso conocido como coasting– con el objetivo de recopilar datos térmicos de la estructura del cohete en relación con la estadía prolongada en el espacio que se exige en ciertos perfiles de vuelo más especiales, como los requeridos por misiones clasificadas estadounidenses para insertar satélites directamente a órbita geoestacionaria. Tras esas 6 horas, realizó un encendido exitoso de su motor por un lapso de 20.1 segundos, lo que le permitió reingresar destructivamente a la atmósfera.\nDragon llegó a las proximidades de la ISS el domingo 8 de diciembre, siendo capturada a las 10:05 UTC por el comandante de la Expedición 61, Luca Parmitano, mediante el brazo robótico Canadarm-2, para luego atracarla al puerto Harmony nadir de la Estación a las 12:47 UTC."
+    },
+    {
+      "titulo": "Retorno a la Tierra",
+      "nivel": 3,
+      "texto": "Dragon permaneció en el laboratorio orbital hasta el martes 7 de enero de 2020, siendo liberado para su retorno a las 10:05 UTC, tras haber sido cargado con alrededor de 1600 kg de carga, incluyendo 54 experimentos concluidos a ser analizados por NASA. Tras alejarse de la Estación, y luego de 12 minutos y 53 segundos de hacer funcionar sus motores Draco, Dragon preparó su reingreso a la Tierra, amerizando frente a las costas de Baja California, en el océano Pacífico, a eso de las 15:40 UTC."
+    },
+    {
+      "titulo": "Carga útil",
+      "nivel": 2,
+      "texto": "La carga útil consiste en:\nCarga presurizada (más embalaje): 1693 kg.\nSuministros para la tripulación: 256 kg\nInvestigación y ciencia: 977 kg.\nEquipamiento para caminatas espaciales: 65 kg.\nHardware vehicular: 306 kg.\nRecursos informáticos: 15 kg.\nCarga no presurizada: 924 kg.\nEsta misión lleva variados experimentos científicos a la Estación:\nHyperspectral Imager Suite (HISUI), un sistema de escaneo hiperespectral de la Tierra, desarrollado por JAXA.\nMalting ABI Voyager Barley Seeds in Microgravity, un experimento de la NASA para hacer germinar semillas de cebada y analizar los efectos de la microgravedad en ellas.\nAztechSat-1, un nanosatélite mexicano desarrollado por la UPAEP, realizará demostraciones de comunicaciones intersatelitales con la constelación Globalstar.\nConfined Combustion, analizará el comportamiento de una llama en diferentes espacios confinados en microgravedad.\nRodent Research-19, experimentos en roedores para investigar formas de prevenir la atrofia muscular y ósea en los viajes espaciales.\nRobotic Tool Stowage (RiTS), una estación de acoplamiento para mantener a los equipos RELL (equipos robóticos detectores de fugas) almacenados al exterior de la Estación, para su rápida utilización.\nCold Atom Laboratory (CAL), un laboratorio que produce nubes de átomos a temperaturas extremadamente cercanas al cero absoluto. Los átomos, al carecer casi por completo de movimiento, permitirán a los astronautas estudiar sus comportamientos fundamentales y características cuánticas, algo muy difícil de hacer en laboratorios terrestres."
+    }
+  ],
+  "num_palabras": 752
+}

@@ -1,0 +1,35 @@
+{
+  "id": "doc_1111",
+  "titulo": "HTV-1",
+  "titulo_wikipedia_en": "HTV-1",
+  "fecha_lanzamiento": "2009-09-10",
+  "año_lanzamiento": 2009,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada",
+    "Estación espacial",
+    "Nave de carga a la ISS"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/HTV-1",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Transportar cargas a la ISS",
+    "Operador": "JAXA",
+    "Fabricante": "Mitsubishi",
+    "Lugar de lanzamiento": "Tanegashima Y2",
+    "Masa en el lanzamiento": "5400 kg",
+    "Misión siguiente": "HTV-2"
+  },
+  "resumen": "HTV-1, también conocido como Vuelo de Demostración HTV y Vehículo de Demostración Técnica, es el primer vehículo de transferencia H-II japonés, y fue lanzado en septiembre de 2009 para reabastecer a la Estación Espacial Internacional. Se trata de una nave de carga no tripulada, que transporta una mezcla de carga presurizada y no presurizada a la estación espacial.\nSu papel es muy importante para el proyecto de la ISS, que el año 2010 podría dejar de contar con los servicios de la flota de transbordadores de Estados Unidos.\nEsta será la primera vez que el brazo robótico de la Estación Espacial captura un objeto tan grande en trayectoria de vuelo.\nEl HTV reingresará en la atmósfera al término de la misión y se desintegrará cargado con los desechos de la Estación Espacial.",
+  "secciones": [
+    {
+      "titulo": "Carga",
+      "nivel": 2,
+      "texto": "El HTV-1 transporta cuatro toneladas y media de carga, aunque posee una capacidad de seis toneladas. De esta forma, se ha permitido a la nave más espacio para combustible y baterías para la fase de verificación orbital del vuelo.\nEn la sección no presurizada, el HTV-1 transporta el dispositivo SMILES (Superconducting Submillimetre-Wave Limb Emission Sounder) y HREP (HICO-RAIDS Experiment Payload), los que serán instalados en el Módulo Experimental Japonés JEM de la Estación Espacial Internacional. La sección presurizada llevará 3.6 toneladas de material para la Estación.\nEste consiste en alimentos (33% del peso), material para experimentos de laboratorio (20%), un brazo robot y partes para el JEM (18%), implementos para la tripulación, como artículos de baño, correo, fotografías, luces flurescentes y dispensadores de desechos (10%), y material de empacado (19%)."
+    }
+  ],
+  "num_palabras": 262
+}

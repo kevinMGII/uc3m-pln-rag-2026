@@ -1,0 +1,39 @@
+{
+  "id": "doc_0082",
+  "titulo": "Explorer 17",
+  "titulo_wikipedia_en": "Explorer 17",
+  "fecha_lanzamiento": "1963-04-03",
+  "año_lanzamiento": 1963,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Otro vuelo espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Explorer_17",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Reentrado en la atmósfera",
+    "Tipo de misión": "Estudios atmosféricos",
+    "Operador": "NASA",
+    "Fecha de lanzamiento": "3 de abril de 1963",
+    "Lugar de lanzamiento": "Cabo Cañaveral",
+    "Vehículo de lanzamiento": "Thor",
+    "ID NSSDC": "1963-009A",
+    "Configuración": "Esférica",
+    "Masa en el lanzamiento": "185 kg",
+    "Dimensiones": "0,95 m de diámetro",
+    "Tipo de fin de misión": "reingreso",
+    "Fecha de reentrada": "24 de noviembre de 1966"
+  },
+  "resumen": "Explorer 17, conocido como AE-A (Atmospheric Explorer A) fue un satélite artificial de la NASA dedicado a la investigación de la atmósfera. Fue lanzado el 3 de abril de 1963 mediante un cohete Thor desde Cabo Cañaveral.",
+  "secciones": [
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "Explorer 17 tenía forma de esfera de 0,95 m de diámetro y se estabilizaba mediante giro. Llevaba cuatro medidores de presión para medir la densidad de partículas neutras, dos espectrómetros de masas para medir la concentración de ciertas partículas neutras y dos sondas electrostáticas medir la temperatura y concentración de iones y electrones.\nEl satélite reentró en la atmósfera el 24 de noviembre de 1966."
+    }
+  ],
+  "num_palabras": 102
+}

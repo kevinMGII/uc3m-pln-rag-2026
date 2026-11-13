@@ -1,0 +1,29 @@
+{
+  "id": "doc_1150",
+  "titulo": "USA-225",
+  "titulo_wikipedia_en": "USA-225",
+  "fecha_lanzamiento": "2011-02-06",
+  "año_lanzamiento": 2011,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/USA-225",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Tecnología",
+    "Operador": "Oficina Nacional de Reconocimiento",
+    "Fecha de lanzamiento": "6 de febrero de 2011",
+    "Lugar de lanzamiento": "Vandenberg SLC-8",
+    "Vehículo de lanzamiento": "Minotaur I",
+    "ID NSSDC": "2011-010A",
+    "Masa en el lanzamiento": "350 kilogramos",
+    "Inclinación orbital": "90 grados"
+  },
+  "resumen": "USA-225, también conocido como Rapid Pathfinder Prototype (RPP) y NRO Launch 66 (NROL-66), es un satélite estadounidense que se lanzó en 2011. El satélite se está utilizando para realizar experimentos de demostración y desarrollo de tecnología, incluidos dosímetros avanzados. para caracterizar el entorno espacial desde una órbita terrestre baja de 1.200 kilómetros. Es operado por la Oficina de Reconocimiento Nacional de los Estados Unidos.\nRapid Pathfinder se desarrolló por menos de 20 millones de dólares en un período de menos de dos años. Fue lanzado por un Minotaur I el 6 de febrero de 2011.",
+  "secciones": [],
+  "num_palabras": 95
+}

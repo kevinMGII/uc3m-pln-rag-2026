@@ -1,0 +1,37 @@
+{
+  "id": "doc_1395",
+  "titulo": "Argo (sonda espacial)",
+  "titulo_wikipedia_en": "Argo (NASA spacecraft)",
+  "fecha_lanzamiento": "2020",
+  "año_lanzamiento": 2020,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Argo_(sonda_espacial)",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Reconocimiento\nSobrevuelo múltiple\nPlanetas exteriores\nExploración del cinturón de Kuiper",
+    "Operador": "NASA",
+    "Potencia": "RTG (propuesta)",
+    "Fecha de lanzamiento": "Años 2020",
+    "Duración planificada": "Entre 11 a 16 años"
+  },
+  "resumen": "Argo fue un concepto de misión espacial propuesto en 2009 por la NASA que incluía una sonda espacial que viajaría a los planetas exteriores del sistema solar. El concepto incluía sobrevuelos sobre Júpiter, Saturno, Neptuno y un objeto del cinturón de Kuiper. Centrarse en Neptuno y su satélite más grande, Tritón, habría ayudado a responder algunas de las preguntas generadas por el sobrevuelo de la sonda espacial Voyager 2 en 1989, y habría proporcionado más detalles sobre la formación y evolución de los gigantes helados.",
+  "secciones": [
+    {
+      "titulo": "Misión",
+      "nivel": 2,
+      "texto": "La misión Argo estaba destinada a competir por ser la cuarta misión del programa New Frontiers (de alrededor de 650 millones de dólares). Una de las razones por las que Argo no fue propuesto formalmente fue la escasez de plutonio-238 para el generador termoeléctrico de radioisótopos (RTG) necesario para la energía eléctrica.\nSe señaló que la misión se realizaría únicamente por sobrevuelos, lo que limitaría la cantidad de tiempo en Neptuno y Tritón en comparación con un orbitador. Sin embargo, la ventaja sería el acceso a una amplia variedad de objetos del cinturón de Kuiper mediante el uso de una asistencia gravitacional de Neptuno, lo que permitiría apuntar potencialmente a una amplia gama de objetos. Además, con un sobrevuelo de Júpiter y Saturno, la Sociedad Planetaria comparó la misión con la Voyager 2."
+    },
+    {
+      "titulo": "Trayectoria prevista",
+      "nivel": 2,
+      "texto": "Durante sus sobrevuelos a los planetas gigantes, potencialmente se podrían haber estudiado más de 100 satélites más y, más allá de Neptuno, la posibilidad de visitar objetos del cinturón de Kuiper."
+    }
+  ],
+  "num_palabras": 249
+}

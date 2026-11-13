@@ -1,0 +1,35 @@
+{
+  "id": "doc_0127",
+  "titulo": "Snapshot (satélite)",
+  "titulo_wikipedia_en": "SNAP-10A",
+  "fecha_lanzamiento": "1965-04-03",
+  "año_lanzamiento": 1965,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite experimental",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Snapshot_(satélite)",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Inactivo",
+    "Tipo de misión": "Experimental",
+    "Operador": "USAF",
+    "Fecha de lanzamiento": "3 de abril de 1965",
+    "Lugar de lanzamiento": "Vandenberg",
+    "Vehículo de lanzamiento": "Atlas",
+    "ID NSSDC": "1965-027A",
+    "Masa en el lanzamiento": "440 kg",
+    "Sistema de referencia orbital": "Polar",
+    "Periapsis": "1277,6 km",
+    "Apoapsis": "1326,3 km",
+    "Inclinación orbital": "90,2 grados",
+    "Periodo orbital": "111,5 minutos"
+  },
+  "resumen": "Snapshot fue un satélite artificial de la USAF lanzado el 3 de abril de 1965 mediante un cohete Atlas desde la base de Vandenberg a una órbita polar de unos 1300 km de altura.\nSnapshot es el único satélite estadounidense que ha llevado un reactor nuclear al espacio. La energía producida por el reactor, alimentado con uranio 235 y con un peso de 435 kg, sirvió para alimentar un motor iónico de 9,8 newton de empuje y que utilizaba cesio como propelente. El reactor nuclear era un SNAP-10A.\nEl motor iónico dejó de funcionar tras una hora de operación debido a un fallo en un regulador de voltaje que controlaba los sensores de control de actitud del satélite y que interfirió en el sistema eléctrico del motor. El reactor continuó produciendo energía, 39 kilovatios térmicos y 500 vatios eléctricos.\nA los 43 días del lanzamiento la telemetría del satélite falló.\nLos sistemas de detección terrestres detectaron liberación de restos o partes del satélite en 1979, catalogándose y siguiéndose 51 restos espaciales como procedentes de Snapshot.",
+  "secciones": [],
+  "num_palabras": 175
+}

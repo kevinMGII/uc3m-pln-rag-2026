@@ -1,0 +1,30 @@
+{
+  "id": "doc_1149",
+  "titulo": "HTV-2",
+  "titulo_wikipedia_en": "Kounotori 2",
+  "fecha_lanzamiento": "2011-01-22",
+  "año_lanzamiento": 2011,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada",
+    "Estación espacial",
+    "Nave de carga a la ISS"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/HTV-2",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Transportar cargas a la ISS",
+    "Operador": "JAXA",
+    "Fabricante": "Mitsubishi",
+    "Lugar de lanzamiento": "Tanegashima Y2",
+    "Masa en el lanzamiento": "5400 kg",
+    "Misión anterior": "HTV-1",
+    "Misión siguiente": "HTV-3"
+  },
+  "resumen": "HTV-2, también conocido como Kounotori 2 (こうのとり2号機, \"cigüeña blanca\") es el segundo vehículo de transferencia H-II, y fue lanzado el 22 de enero de 2011 para reabastecer a la Estación Espacial Internacional. Se trata de una nave de carga no tripulada, que transporta una mezcla de carga presurizada y no presurizada a la estación espacial.\nFue lanzado en un cohete H-IIB (H-IIB F2) fabricado por MHI y la JAXA. El HTV-2 reingresó en la atmósfera al término de la misión, desintegrándose, cargado con los desechos de la Estación Espacial, el 30 de marzo de 2011.",
+  "secciones": [],
+  "num_palabras": 95
+}

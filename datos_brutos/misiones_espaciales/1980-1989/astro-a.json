@@ -1,0 +1,42 @@
+{
+  "id": "doc_0562",
+  "titulo": "ASTRO-A",
+  "titulo_wikipedia_en": "Hinotori (satellite)",
+  "fecha_lanzamiento": "1981-02-21",
+  "año_lanzamiento": 1981,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Telescopio espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/ASTRO-A",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Reentrado en la atmósfera",
+    "Tipo de misión": "Observatorio espacial",
+    "Operador": "JAXA",
+    "Fecha de lanzamiento": "21 de febrero de 1981",
+    "Lugar de lanzamiento": "Base espacial de Kagoshima",
+    "Vehículo de lanzamiento": "Mu",
+    "ID NSSDC": "1981-017A",
+    "Masa en el lanzamiento": "188 kg",
+    "Tipo de fin de misión": "reingreso",
+    "Fecha de reentrada": "Reingreso = 11 de julio de 1991"
+  },
+  "resumen": "ASTRO-A, bautizado como Hinotori tras alcanzar órbita, fue un observatorio espacial japonés dedicado al estudio del Sol. Fue lanzado el 21 de febrero de 1981 mediante un cohete Mu desde el centro de lanzamiento de Kagoshima.",
+  "secciones": [
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "Hinotori se dedicó al estudio de las erupciones solares durante el máximo solar mediante rayos X."
+    },
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "El satélite disponía de dos instrumentos principales:\nuna cámara para registrar erupciones solares en rayos X en el rango de energías entre 10 y 40 keV mediante modulación utilizando colimadores rotantes.\nun espectrómetro de Bragg para estudiar los rayos X de las líneas de emisión del hierro altamente ionizado presente en las erupciones solares en el rango entre los 1,7 y 2,0 Å.\nAdicionalmente el satélite llevaba tres monitores de rayos X para erupciones solares que registraban el perfil temporal y el espectro de rayos X de las erupciones en el rango entre 2 y 20 keV, un detector de erupciones de rayos gamma para el rango entre 0,2 y 9 MeV, un detector de partículas para la detección de electrones con energías por encima de los 100 keV y sondas de plasma para la medición de la densidad y temperatura de electrones.\nHinotori reentró en la atmósfera el 11 de julio de 1991."
+    }
+  ],
+  "num_palabras": 206
+}

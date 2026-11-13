@@ -1,0 +1,45 @@
+{
+  "id": "doc_1385",
+  "titulo": "Soyuz MS-14",
+  "titulo_wikipedia_en": "Soyuz MS-14",
+  "fecha_lanzamiento": "2019-08-22",
+  "año_lanzamiento": 2019,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Soyuz_MS-14",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Programa": "Programa Soyuz",
+    "Misión anterior": "Soyuz MS-13",
+    "Misión siguiente": "Soyuz MS-15"
+  },
+  "resumen": "Soyuz MS-14 fue un vuelo espacial de Soyuz a la Estación Espacial Internacional. No llevaba miembros de la tripulación, ya que estaba destinado a probar el lanzamiento de una cápsula soyuz en el cohete soyuz 2.1a para su integración tripulada. Se lanzó con éxito el 22 de agosto de 2019 a las 03:38 UTC. el primer intento de acoplamiento el sistema de acoplamiento automático fallo el receptor en la ISS del sistema Kurs y se necesitó trasladar la Soyuz MS-13 del puerto donde estaba atracada ya que podía atracar manualmente al ser pilotada y así dejar sitio a la soyuz MS-14 para que se acoplara de forma automática. Fue la primera misión del vehículo de la serie Soyuz sin tripulación en 33 años, y la primera misión sin piloto de Soyuz a la ISS.",
+  "secciones": [
+    {
+      "titulo": "Descripción general",
+      "nivel": 2,
+      "texto": "A diferencia del lanzador Soyuz-FG tradicional que se enciende en su plataforma de lanzamiento para establecer el acimut de su vuelo, Soyuz-2 realiza una maniobra de balanceo durante su vuelo para cambiar de dirección. La maniobra activaría el sistema de aborto de lanzamiento analógico diseñado para Soyuz-FG. Soyuz MS-14 probó una solución para este problema. El 14° vuelo de Soyuz MS es el 143° vuelo de una nave espacial Soyuz. Si todo va bien, las futuras misiones tripuladas utilizarán la nueva configuración a partir de Soyuz MS-16 a principios de 2020. Además de probar la integración del nuevo lanzador y el sistema de aborto, Soyuz MS-14 también está probando un sistema mejorado de navegación y control de propulsión. Los resultados de las pruebas se utilizarán en el diseño de Soyuz GVK, una nave espacial de entrega y devolución de carga sin tripulación, tentativamente programada para ser lanzada por primera vez en 2022. A diferencia de las naves espaciales Soyuz MS anteriores y futuras, Soyuz MS-14 carece de varios sistemas de apoyo para la tripulación. La nave espacial transportó carga a la Estación Espacial Internacional, entre otras cosas, un robot humanoide Fedor, que viajó en el compartimiento habitual de la tripulación del Soyuz (que estaba disponible). El robot Fedor regresó a la Tierra el 6 de septiembre de 2019, en la cápsula de aterrizaje de Soyuz MS-14 (que nuevamente se desenroscó). Según la NASA, se entregaron 1.450 libras (660 kg) de carga a la ISS. La nave espacial entregó el telescopio Mini-EUSO a la ISS."
+    },
+    {
+      "titulo": "Atraque",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Primer intento",
+      "nivel": 3,
+      "texto": "Después de un vuelo libre impecable de dos días de duración y una cita con la ISS, MS-14 estaba programado para atracar con el módulo Poisk de la estación a las 05:30 UTC del 24 de agosto de 2019. Durante las fases finales En cuanto a la aproximación de la nave espacial a la ISS, su sistema de encuentro Kurs no se pudo bloquear en la estación y la nave espacial no pudo atracar. El comandante de la Expedición 60 Aleksey Ovchinin ordenó a MS-14 que abortara su atraque, después de lo cual la nave espacial retrocedió a una distancia segura de la ISS. Mientras que la mayoría de las naves espaciales rusas no tripuladas que vuelan a la ISS también cuentan con un sistema de respaldo TORU que permite a los cosmonautas tomar el control manual de la nave espacial desde la ISS, este sistema no se instaló en la MS-14. La falla se localizó en el amplificador de señal de Kurs en el módulo de acoplamiento Poisk de ISS, y los planes iniciales requerían que los cosmonautas reemplazaran este amplificador antes de un nuevo intento de acoplamiento. Posteriormente se decidió que, el 26 de agosto, la tripulación de Soyuz MS-13 reubicaría su nave espacial desde el puerto de popa en el módulo Zvezda para realizar un atraque manual en el puerto defectuoso de Poisk, liberando un puerto para que MS-14 atraque usando Kurs el 27 de agosto de 2019."
+    },
+    {
+      "titulo": "Segundo intento",
+      "nivel": 3,
+      "texto": "El MS-14 atracó con éxito a las 03:08 UTC del 27 de agosto de 2019."
+    }
+  ],
+  "num_palabras": 644
+}

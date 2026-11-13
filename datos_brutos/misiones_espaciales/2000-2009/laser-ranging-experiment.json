@@ -1,0 +1,35 @@
+{
+  "id": "doc_0929",
+  "titulo": "Laser Ranging Experiment",
+  "titulo_wikipedia_en": null,
+  "fecha_lanzamiento": "2001-08-29",
+  "año_lanzamiento": 2001,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Otro vuelo espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Laser_Ranging_Experiment",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "En órbita",
+    "Tipo de misión": "Reflector, satélite pasivo",
+    "Operador": "JAXA",
+    "Fecha de lanzamiento": "29 de agosto de 2001",
+    "Lugar de lanzamiento": "Tanegashima",
+    "Vehículo de lanzamiento": "H-2A",
+    "ID NSSDC": "2001-038A",
+    "Configuración": "Esférica",
+    "Masa en el lanzamiento": "87 kg",
+    "Dimensiones": "0,51 m de diámetro",
+    "Periapsis": "220,6 km",
+    "Apoapsis": "34.753,5 km",
+    "Inclinación orbital": "28 grados",
+    "Periodo orbital": "611,2 minutos"
+  },
+  "resumen": "Laser Ranging Experiment o LRE es un satélite artificial pasivo japonés lanzado el 29 de agosto de 2001 a bordo de un cohete H-2A (en el primer lanzamiento de un cohete de este tipo) desde la base de Tanegashima.\nLRE consistía en una esfera reflectante de 51 cm de diámetro con 24 láminas de cristal y 126 prismas en su superficie que permitían determinar su posición mediante haces láser emitidos desde tierra. El satélite fue eyectado del cohete H-2A en una órbita de transferencia geoestacionaria para determinar la capacidad del cohete para poner cargas en órbita con precisión.",
+  "secciones": [],
+  "num_palabras": 98
+}

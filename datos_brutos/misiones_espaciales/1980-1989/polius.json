@@ -1,0 +1,46 @@
+{
+  "id": "doc_0643",
+  "titulo": "Polius",
+  "titulo_wikipedia_en": "Polyus (spacecraft)",
+  "fecha_lanzamiento": "1987-05-15",
+  "año_lanzamiento": 1987,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada",
+    "Satélite militar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Polius",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Fecha de lanzamiento": "15",
+    "Vehículo de lanzamiento": "Energía",
+    "Masa en el lanzamiento": "77 т"
+  },
+  "resumen": "Polius (en ruso: Полюс, algunas veces también transliterado como Polyus y académicamente como Poljus) era una nave espacial militar de la Unión Soviética, también conocida como Polus, 17F19DM o Escita-DM (en ruso: Скиф-ДМ). Fue un prototipo de plataforma de armas espaciales soviético, para mantener Estaciones Espaciales Militares en órbita alta capaces de defenderse contra armas antisatélite, misiles, ojivas nucleares y atacar con un cañón láser desde el espacio.",
+  "secciones": [
+    {
+      "titulo": "Historia",
+      "nivel": 2,
+      "texto": "Esta moderna arma espacial fue construida como una respuesta soviética al programa Iniciativa de Defensa Estratégica empezado por el gobierno de Ronald Reagan que falló en la puesta en órbita, aunque se sospechaba en Occidente que no podía ser detectado en el espacio, pero pudo haber sido una respuesta decisiva a la Guerra Fría.\nUn artículo de Yuri Kornilov (Diseñador en jefe del Buró de Diseño Salyut) describe que la Estación Espacial Militar automática que también podía ser tripulada por cosmonautas como una Estación Espacial y se podía conectar con la nueva nave espacial Progress, tenía modernas armas espaciales experimentales en donde la realidad superaba a la ficción: un cañón láser, minas nucleares y recubrimiento Stealth (color negro), para evitar detección de radar y visual, capacidad para lanzar ojivas nucleares desde el espacio sobre cualquier ciudad del mundo en menos de 15 minutos. Esta sorprendente Estación Espacial Militar medía 37 metros de largo, 4.1 de diámetro y pesaba cerca de 80 toneladas.\nEl primer y único prototipo de pruebas operativas fue lanzado el 15 de mayo de 1987 en el cohete Energía y fue el primer lanzamiento de este potente cohete con cargas laterales. Al desconectarse del Energía, Polyus realizó un giro de 360° en vez de 180°, por lo cual, al disparar sus motores de órbita baja falló y cayó al océano Pacífico.\nPartes del Proyecto de construcción en serie del programa Polyus fueron utilizadas nuevamente en algunos módulos de la estación espacial MIR algunos años después, así como en el nuevo módulo de comando Zaryá, el más grande de la nueva Estación Espacial Internacional.\nSegún declaraciones de Yuri Kornilov cuando Mijaíl Gorbachov llegó a Baikonur a presenciar el lanzamiento de esta nueva arma, se preocupó de la reacción de Estados Unidos de empezar a lanzar nuevas armas al espacio, en la temida militarización del espacio con el diseño y desarrollo en el futuro de nuevas Estaciones Espaciales Militares más potentes, grandes y en órbitas cada vez más altas, y que en teoría, con esta nueva carrera espacial militar, terminarían instalando estaciones militares en la órbita de la Luna para atacar al país enemigo y ordenó que se prohibiera la prueba en órbita de otras naves con las capacidades militares de la estación.\nEn Occidente se pensaba que Polyus era una especie de estación militar basado en el concepto de un avión espacial para bombardeo furtivo, grande, pesada, en forma tubular sin alas y superficies de control que no son necesarias en la órbita alta, se utilizan pequeños motores cohete de combustible líquido para cambiar la dirección de la nave en el espacio; al extremo inferior tenía un lente con el cañón láser, en forma similar al Telescopio espacial Hubble pero con dos pequeños módulos a los costados en forma de cohetes auxiliares, que tenían varios sistemas de rastreo pasivo, sensores de calor, miras láser y miras ópticas, para detectar los misiles ICBM enemigos lanzados desde tierra y seguir la trayectoria de las ojivas nucleares en la órbita baja; luego, establecer la dirección, trayectoria y posición del blanco enemigo, y disparar un arma de rayos láser desde el espacio a una órbita superior a la trayectoria de los misiles ICBM.\nCuando el cañón láser era activado se encendían pequeños motores instalados en el lado opuesto de la nave, para detener el efecto de retroceso del disparo láser y mantener la posición de la nave, lo que permite continuar atacando a los objetivos enemigos en forma sucesiva y podría atacar desde detrás del sistema de defensa SDI contra los satélites militares y de comunicaciones del enemigo, al estar posicionado en el espacio en una órbita más alta para combatir contra otros satélites militares en órbita más baja, sistemas de defensa, misiles ICBM, vehículos de transporte de múltiples ojivas nucleares, naves enemigas, aviones espaciales y atacar ciudades, bases militares y escuadras navales desde el espacio. Se sugirió que la nave Polyus era el nuevo sistema de defensa al que Mijaíl Gorbachov había hecho referencia, cuando dijo que la Unión Soviética respondería al sistema SDI con una \"asimetría\" moderna."
+    },
+    {
+      "titulo": "Diseño",
+      "nivel": 2,
+      "texto": "Longitud: 37 m\nDiámetro: 4,10 m\nMasa:\nVehículo para lanzamiento: Cohete Energía\nOrbita propuesta: 280 km, inclinación 64°"
+    },
+    {
+      "titulo": "Armas defensivas",
+      "nivel": 2,
+      "texto": "Comunicación posible con láser link, permitiendo silencio total por radio.\nGenerador de nubes de bario, para confundir armas antisatélite.\nPintura negro mate para camuflaje, probable capacidad furtiva (stealth).\nRadar y visión óptica, para objetivos lejanos y guiar las armas antisatélite.\nSensores de calor."
+    },
+    {
+      "titulo": "Armas ofensivas",
+      "nivel": 2,
+      "texto": "Minas nucleares.\nCañón láser de dióxido de carbono.\nOjivas nucleares."
+    }
+  ],
+  "num_palabras": 816
+}

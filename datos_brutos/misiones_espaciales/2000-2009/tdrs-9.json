@@ -1,0 +1,38 @@
+{
+  "id": "doc_0944",
+  "titulo": "TDRS-9",
+  "titulo_wikipedia_en": "TDRS-9",
+  "fecha_lanzamiento": "2002-03-08",
+  "año_lanzamiento": 2002,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de comunicaciones",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/TDRS-9",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Satélite de comunicaciones",
+    "Operador": "NASA",
+    "Fecha de lanzamiento": "8 de marzo de 2002",
+    "Vehículo de lanzamiento": "Atlas II",
+    "Duración de la misión": "11 años (planeado)",
+    "ID NSSDC": "2002-011A",
+    "Masa en el lanzamiento": "3.180 kg",
+    "Periapsis": "35.768 km",
+    "Apoapsis": "35.809 km",
+    "Inclinación orbital": "0 grados"
+  },
+  "resumen": "El TDRS-9, conocido antes del lanzamiento como TDRS-I, es un satélite de comunicaciones estadounidense operado por la NASA y construido por Boeing como parte del Tracking and Data Relay Satellite System.",
+  "secciones": [
+    {
+      "titulo": "Lanzamiento",
+      "nivel": 2,
+      "texto": "Se utilizó un cohete Atlas IIA para lanzar el TDRS-I, en virtud de un contrato con International Launch Services. El lanzamiento tuvo lugar a las 22:59 GMT del 8 de marzo de 2002 desde el Complejo de lanzamiento 36A de la Estación de la Fuerza Aérea de Cabo Cañaveral."
+    }
+  ],
+  "num_palabras": 80
+}

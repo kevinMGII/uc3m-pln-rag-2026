@@ -1,0 +1,29 @@
+{
+  "id": "doc_1115",
+  "titulo": "Ares I-X",
+  "titulo_wikipedia_en": "Ares I-X",
+  "fecha_lanzamiento": "2009-10-28",
+  "año_lanzamiento": 2009,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada",
+    "Satélite experimental"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Ares_I-X",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Lugar de lanzamiento": "Kennedy LC-39B"
+  },
+  "resumen": "La misión Ares I-X fue el primer vuelo de prueba en el programa de desarrollo del Ares I. El Ares I es un lanzador para el vuelo espacial tripulado desarrollada por la NASA, la agencia espacial de los Estados Unidos. El cohete usado para el vuelo de prueba suborbital \"Ares I-X\" era similar en su forma, peso y tamaño al de las configuraciones previstas de posteriores Ares I, pero tenían un equipamiento interno bastante diferente. El cohete Ares I se diseñó para lanzar el vehículo de exploración tripulado Orión. Junto con el lanzador Ares V y el alunizador Altair, el Ares I y la Orión son parte del programa Constelación de la NASA, que desarrolla una nave espacial para el vuelo espacial tripulado estadounidense después de la retirada del transbordador espacial.\nEl lanzamiento de la misión Ares I-X estaba programado para el 27 de octubre de 2009, el 48.º aniversario del primer lanzamiento del Saturno I. El lanzamiento del día 27 se retrasó debido a las condiciones del tiempo, que incluían exceso de viento y otros impedimentos de última hora. La cuenta atrás final (para despegar a la 13:49 UTC) fue detenida en T-02:39 cuando un informe meteorológico de un observador desde el aire informó de nubes en movimiento sobre la plataforma de despegue. antes de que comenzara la cuenta atrás se retrasó el despegue cuando un barco entró en la zona marítima restringida cercana al cohete. Finalmente el clima provocó que se anulara el lanzamiento para el día 27 a las 15:20 UTC y se volviera a programar para una ventana de cuatro horas en torno a las 12:00 UTC del 28 de octubre de 2009. El cohete despegó con éxito el día 28 a las 11:30 EDT.",
+  "secciones": [
+    {
+      "titulo": "Configuración",
+      "nivel": 2,
+      "texto": "Datos de la sección: AIAA\nPrimera etapa: funcional, cuatro segmentos del cohete acelerador sólido reutilizables con un quinto segmento de prueba.\nSegunda etapa: de prueba (futura etapa superior, motor J-2X)\nTercera etapa: de prueba (futuro paquete de instrumentos)\nCuarta etapa: maqueta de la Orión con sistema de aborto al despegue (LAS)\nEl peso del cohete es de 816.466 kg.\nObjetivos de la prueba\nEl Ares I-X es el primer vuelo de prueba del vehículo Ares I. Los objetivos de la prueba incluyen:\nDemostrar del control de un vehículo similar usando algoritmos de control similares a los usados para el Ares I.\nRealizar un evento de separación de etapas, en vuelo, de una etapa similar a la primera del Ares I y una etapa superior de prueba.\nDemostrar el ensamblaje y recuperación de una primera etapa tipo Ares I en el Kennedy Space Center (KSC).\nDemostrar la secuencia de separación de la primera etapa, medición de la dinámica de la entrada atmosférica, y rendimiento del paracaídas.\nCaracterizar la magnitud integrada del par de torsión del vehículo durante el vuelo de la primera etapa.\nAdemás el vuelo tiene varios objetivos secundarios, que incluyen:\nCuantificar la efectividad de los motores de frenado del acelerador de la primera etapa.\nCaracterizar los entornos inducidos y las cargas en el vehículo durante el ascenso.\nDemostrar un procedimiento para determinar la posición del vehículo para orientar el sistema de control de vuelo.\nCaracterizar las cargas inducidas sobre el vehículo de prueba mientras está en la plataforma de despegue.\nEvaluar el rendimiento de los líneas eléctricas de la primera etapa.\nEl perfil de vuelo del Ares I-X (Figura X) se aproxima bastante a las condiciones de vuelo que el Ares I experimenta pasando Mach 4.5, a una altitud de unos 39.600 m (130.000 pies) y con una presión dinámica máxima (“Max Q”) de aproximadamente 38,3 kilo-pascales (800 libras por pie cuadrado).\nFigura X: El perfil de vuelo del Ares I-X se parece al de los vuelos sin tripulación del Saturno I de la década de los 1960s, que comprobaron el concepto de propulsión del Saturno.\nMientras el vehículo vuela y se separa la primera etapa, el vuelo de prueba además verifica el rendimiento y la dinámica del cohete acelerador sólido en una disposición de “palo único”, que es diferente que la configuración anterior de doble cohete acelerador sólido con el tanque externo en el costado del transbordador espacial."
+    }
+  ],
+  "num_palabras": 689
+}

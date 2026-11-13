@@ -1,0 +1,27 @@
+{
+  "id": "doc_0128",
+  "titulo": "Intelsat I",
+  "titulo_wikipedia_en": "Intelsat I",
+  "fecha_lanzamiento": "1965-04-06",
+  "año_lanzamiento": 1965,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de comunicaciones",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Intelsat_I",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {},
+  "resumen": "El Intelsat I (apodado Early Bird o Pájaro Madrugador) fue el primer satélite de comunicaciones comercial, puesto en una órbita geosíncrona sobre el océano Atlántico el 6 de abril de 1965 y activado el 28 de junio.\nFue construido por el \"Space and Communications Group\" de la \"Hughes Aircraft Company\" (más tarde conocida como \"Hughes Space and Communications Company\", y en la actualidad \"Boeing Satellite Systems\") para COMSAT (compañía estatal estadounidense, controlante de Intelsat). Fue el cuarto de la serie Syncom (el primero de uso público) que Hughes había construido para la NASA. Su cohete impulsor fue un Delta D (Delta de impulso aumentado).\nProgramado para estar en operación por 18 meses, el Early Bird estuvo en servicio activo por casi cuatro años. Fue desactivado en enero de 1969, aunque entre junio y agosto de ese año fue reactivado brevemente para dar soporte al Apolo 11 cuando el Atlantic de Intelsat tuvo una falla. En 1990 y con motivo del 25º aniversario de su lanzamiento fue activado brevemente, pero en la actualidad está inactivo aunque continúa en órbita.\nEl Early Bird fue el primer satélite que permitió un contacto directo y casi instantáneo entre Europa y Norteamérica, manejando transmisiones de televisión (un canal), teléfono (240 canales), fax y telégrafo. Era bastante pequeño, con forma de tambor, medía 76 × 61 cm y pesaba 34,5 kg.",
+  "secciones": [
+    {
+      "titulo": "Modelo",
+      "nivel": 2,
+      "texto": "En el lobby principal de las oficinas centrales de Intelsat, en Washington D. C., se puede observar un modelo en tamaño natural del mismo."
+    }
+  ],
+  "num_palabras": 249
+}

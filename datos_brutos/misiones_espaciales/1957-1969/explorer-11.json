@@ -1,0 +1,33 @@
+{
+  "id": "doc_0040",
+  "titulo": "Explorer 11",
+  "titulo_wikipedia_en": "Explorer 11",
+  "fecha_lanzamiento": "1961-04-27",
+  "año_lanzamiento": 1961,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Telescopio espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Explorer_11",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Inactivo",
+    "Tipo de misión": "Observatorio espacial",
+    "Operador": "NASA",
+    "Fecha de lanzamiento": "27 de abril de 1961",
+    "Lugar de lanzamiento": "Cabo Cañaveral",
+    "Vehículo de lanzamiento": "Jupiter",
+    "ID NSSDC": "1961-013A",
+    "Masa en el lanzamiento": "37,2 kg",
+    "Periapsis": "476,8 km",
+    "Apoapsis": "1328,5 km",
+    "Inclinación orbital": "28,8 grados",
+    "Periodo orbital": "102,9 minutos"
+  },
+  "resumen": "Explorer 11, también conocido como S 15, fue un satélite artificial de la NASA lanzado el 27 de abril de 1961 mediante un cohete Jupiter desde Cabo Cañaveral.\nLa misión de Explorer 11 fue la de buscar las fuentes de las emisiones de rayos gamma, localizarlas, relacionar las mediciones de rayos gamma con las de la densidad de flujo de los rayos cósmicos y la densidad de materia interestelar y determinar el albedo de rayos gamma de alta energía de la atmósfera terrestre.\nEl satélite se estabilizaba mediante giro y tenía forma de caja (30,5 x 30,5 x 58,5 cm) montada sobre un cilindro (15,2 cm de diámetro x 52,2 cm de largo). La estructura estaba construida en aluminio. Llevaba una cinta para grabación de datos, pero falló poco después del lanzamiento, por lo que la transmisión de datos se realizaba en tiempo real.",
+  "secciones": [],
+  "num_palabras": 144
+}

@@ -1,0 +1,38 @@
+{
+  "id": "doc_0963",
+  "titulo": "ICESat",
+  "titulo_wikipedia_en": "ICESat",
+  "fecha_lanzamiento": "2003-01-13",
+  "año_lanzamiento": 2003,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de observación terrestre",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/ICESat",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Misión finalizada",
+    "Tipo de misión": "Observación terrestre",
+    "Operador": "NASA",
+    "Fecha de lanzamiento": "13 de enero de 2003",
+    "Duración planificada": "7 años",
+    "Masa en el lanzamiento": "1000 kg",
+    "Sistema de referencia orbital": "Polar",
+    "Periapsis": "593 Km",
+    "Inclinación orbital": "94 Grados",
+    "Instrumentos": "GLAS (Geoscience Laser Altimeter System)"
+  },
+  "resumen": "ICESat (Ice, Cloud, and land Elevation Satellite) es un satélite artificial de la NASA diseñado para medir masas de hielo, nubes, aerosoles, topografía y características de la vegetación. Fue lanzado el 13 de enero de 2003 mediante un cohete Delta dese la base aérea de Vanderberg.\nICESat fue construido por Ball Aerospace a partir de su plataforma comercial BCP 2000 en Boulder, Colorado. El control del satélite está situado en la Universidad de Colorado.\nLos paneles solares proporcionan 350 vatios de media, una vez en órbita. Los datos se guardan en un grabador de estado sólido de 56 Gb de capacidad, equivalente a 24 horas de toma de datos. Los datos se transmiten a tierra a través de banda X, a una velocidad de 40 Mbit/s.\nEl apuntado de precisión y la actitud de la nave la proporcionan dos rastreadores de estrellas. El sistema de orientación y el control de actitud fueron diseñados para permitir cambios rápidos de orientación y minimizar las vibraciones. El satélite también dispone de dos receptores GPS para proporcionar un conocimiento detallado de la posición de la nave. El sistema de propulsión está alimentado por hidracina.\nLa inclinación orbital de ICESat es de 94 grados, con un apogeo de 610 km y un perigeo de 593 km.\nEl instrumento principal del satélite es el lidar GLAS (Geoscience Laser Altimeter System), el primero de su clase en hacer observaciones continuas y globales de la Tierra. GLAS fue diseñado para medir la topografía de las capas de hielo y las propiedades atmosféricas y de las nubes. GLAS utiliza un láser que emite en luz infrarroja (1064 nanómetros) y verde (532 nanómetros) en pulsos de 4 nanosegundos de duración y 40 veces por segundo, en un haz de 70 metros de diámetro y espaciados en intervalos de 170 metros sobre la superficie terrestre.",
+  "secciones": [
+    {
+      "titulo": "Especificaciones",
+      "nivel": 2,
+      "texto": "Masa: 1000 kg\nPerigeo: 593 km\nApogeo: 610 km\nInclinación orbital: 94 grados"
+    }
+  ],
+  "num_palabras": 317
+}

@@ -1,0 +1,29 @@
+{
+  "id": "doc_1066",
+  "titulo": "TecSAR",
+  "titulo_wikipedia_en": "TecSAR-1",
+  "fecha_lanzamiento": "2008-01-21",
+  "año_lanzamiento": 2008,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite militar",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/TecSAR",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Activo",
+    "Tipo de misión": "Satélite espía",
+    "Fecha de lanzamiento": "21 de enero de 2008",
+    "Lugar de lanzamiento": "Centro Espacial Satish Dhawan",
+    "Vehículo de lanzamiento": "PSLV",
+    "ID NSSDC": "2008-002A",
+    "Masa en el lanzamiento": "300 kg"
+  },
+  "resumen": "TecSAR es un satélite espía israelí lanzado el 21 de enero de 2008 desde el Centro Espacial Satish Dhawan mediante un cohete PSLV.\nEl satélite utiliza cámaras ópticas y un radar de apertura sintética (SAR por sus siglas en inglés) en banda X para realizar sus observaciones. La resolución de la cámara óptica es de 1 metro, y la del radar de 10 cm.\nTecSAR fue el primer satélite israelí en utilizar un SAR para poder realizar observaciones tanto de día como de noche.",
+  "secciones": [],
+  "num_palabras": 84
+}

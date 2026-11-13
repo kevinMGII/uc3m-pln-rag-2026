@@ -1,0 +1,30 @@
+{
+  "id": "doc_1154",
+  "titulo": "USA-226",
+  "titulo_wikipedia_en": "OTV-2",
+  "fecha_lanzamiento": "2011-03-05",
+  "año_lanzamiento": 2011,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/USA-226",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Demostración",
+    "Operador": "Fuerza Aérea de los Estados Unidos",
+    "Fecha de lanzamiento": "5 de marzo de 2011",
+    "Lugar de lanzamiento": "Cabo Cañaveral SLC-41",
+    "Vehículo de lanzamiento": "Atlas V",
+    "ID NSSDC": "2011-010A",
+    "Masa en el lanzamiento": "5.400 kilogramos",
+    "Inclinación orbital": "41,9 grados"
+  },
+  "resumen": "USA-226 es el primer vuelo del segundo Boeing X-37B, un avión espacial estadounidense de despegue vertical robótico no tripulado. Se lanzó a bordo de un cohete Atlas V desde Cabo Cañaveral el 5 de marzo de 2011 y aterrizó en la Base Vanderberg de la Fuerza Aérea el 16 de junio de 2012 tras 468 días en órbita. Funcionó en órbita terrestre baja. Su designación de misión es parte de la serie 'USA'.",
+  "secciones": [],
+  "num_palabras": 73
+}

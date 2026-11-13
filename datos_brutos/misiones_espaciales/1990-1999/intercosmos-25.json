@@ -1,0 +1,48 @@
+{
+  "id": "doc_0710",
+  "titulo": "Intercosmos 25",
+  "titulo_wikipedia_en": null,
+  "fecha_lanzamiento": "1991-12-18",
+  "año_lanzamiento": 1991,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de observación terrestre",
+    "Satélite (programa Cosmos)",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Intercosmos_25",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Inactivo",
+    "Tipo de misión": "Estudios sobre la ionosfera y magnetosfera terrestres.",
+    "Operador": "Unión Soviética",
+    "Fecha de lanzamiento": "18 de diciembre de 1991",
+    "Lugar de lanzamiento": "Cosmódromo de Plesetsk",
+    "Vehículo de lanzamiento": "Tskilon",
+    "ID NSSDC": "1991-086A",
+    "Configuración": "cilíndrica",
+    "Masa en el lanzamiento": "1000 kg",
+    "Dimensiones": "1,8 m de altura x 1,5 m de diámetro",
+    "Periapsis": "442,6 km",
+    "Apoapsis": "2942,2 km",
+    "Inclinación orbital": "82,6 grados",
+    "Periodo orbital": "120,1 minutos"
+  },
+  "resumen": "Intercosmos 25 fue el nombre de un satélite artificial soviético construido con el bus AUOS y lanzado bajo el programa Intercosmos de cooperación internacional el 18 de diciembre de 1991 desde el cosmódromo de Plesetsk mediante un cohete Tsiklon. En el satélite colaboraron Bulgaria, Alemania, Hungría, Polonia y Rumanía.",
+  "secciones": [
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "Intercosmos 25 formó parte del programa APEX (Active Plasma Experiment) para investigar los efectos de los flujos de electrones y plasma en la ionosfera y magnetosfera terrestres."
+    },
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "El satélite tenía forma cilíndrica de 1,8 metros de altura y 1,5 metros de diámetro. Estaba alimentado por ocho paneles solares.\nIntercosmos 25 portaba un subsatélite, Magion 3, que fue soltado el 28 de diciembre"
+    }
+  ],
+  "num_palabras": 111
+}

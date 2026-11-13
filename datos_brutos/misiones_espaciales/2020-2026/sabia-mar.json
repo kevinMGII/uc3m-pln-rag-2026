@@ -1,0 +1,50 @@
+{
+  "id": "doc_1511",
+  "titulo": "SABIA-Mar",
+  "titulo_wikipedia_en": "SABIA-Mar",
+  "fecha_lanzamiento": "2024",
+  "año_lanzamiento": 2024,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Otro vuelo espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/SABIA-Mar",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Observación terrestre",
+    "Operador": "CONAE\nInstituto Nacional de Investigación Espacial del Brasil",
+    "Fabricante": "INVAP",
+    "Fecha de lanzamiento": "TBA",
+    "Duración planificada": "5 años",
+    "Masa en el lanzamiento": "550 kg (estimado)",
+    "Dimensiones": "8,7 metros x 1,9 metros (configuración de vuelo)",
+    "Sistema de referencia orbital": "Sincrónica al sol"
+  },
+  "resumen": "El SABIA-Mar (Satélite de Aplicaciones Basadas en la Información Ambiental del Mar, previamente Satélites Argentino-Brasileños para Información Ambiental del Mar y originalmente llamado SAC-E por la CONAE), es una futura constelación de satélites argentina brasileña. El objetivo de la misión es el estudio de la biósfera oceánica, sus cambios en el tiempo y como reacciona y afecta a la actividad humana. Se centra en el monitoreo de las superficies oceánicas, especialmente los estudios del ecosistema oceánico, el ciclo del carbono, los hábitats marinos y el mapeo.\nOriginalmente la colaboración entre Argentina (por parte de la CONAE) y Brasil (por parte de la AEB/INPE) se trataba de dos satélites idénticos en donde Argentina era la encargada de la carga útil mientras que Brasil proveeria el segmento de vuelo. Pero finalmente se decidió que cada país construya su propio satélite.",
+  "secciones": [
+    {
+      "titulo": "Historia",
+      "nivel": 2,
+      "texto": "En la década de los 90 los programas espaciales de Argentina y Brasil pasaron de manos militares a civiles. En Argentina, la Comisión Nacional de Investigaciones Espaciales de la Fuerza Aérea Argentina fue convertida en la Comisión Nacional de Actividades Espaciales en mayo de 1991, tras la cancelación del programa del Programa Cóndor. Mientras que en Brasil, en febrero de 1994, se crea la Agencia Espacial Brasileña para reemplazar el viejo comité cívico-militar denominado Comisión Brasileña de Actividades Espaciales (COABE), el cual estaba presidido por el Estado Mayor de las Fuerzas Armadas de Brasil.\nEn esa misma década, ambos países comenzaron un progreso de integración tras el fin de las dictaduras y la creación del Mercosur. Aunque ambas naciones fueron rivales desde la década de 1950 en el campo científico, las nuevas relaciones diplomáticas permitió la firma de varios acuerdos de cooperación en el campo como la creación de la Agencia Brasileño-Argentina de Contabilidad y Control de Materiales Nucleares (ABACC) para verificar las promesas de ambos países de utilizar la energía nuclear sólo con fines pacíficos.\nArgentina reinició su programa espacial con la serie \"SAC\" (Satélites de Aplicaciones Científicas) en 1991, siendo los primeros satélites de la familia el SAC-B, SAC-A y SAC-C. A medida que el último proyecto fue avanzando, la CONAE utilizó las facilidades del Instituto Nacional de Investigación Espacial del Brasil para realizar pruebas ambientales del satélite.\nEntre los años 1996 y 1997 se realizaron múltiples reuniones técnicas entre la CONAE y el INPE. En estas reuniones, fueron definidas las áreas de interés mutuo en el uso de la ciencia y tecnología espacial, entre las que se incluirían la evaluación y monitoreo del medio ambiente y de los recursos naturales. Estas reuniones dieron fruto al \"Acuerdo Marco Intergubernamental sobre Cooperación en Aplicaciones Pacíficas de Ciencia y Tecnología Espacial\", firmado en abril de 1996.\nEn el marco de este acuerdo, se planteó la posibilidad de la construcción del Satélite Argentino Brasileño de Información en Agua Alimentos y Ambiente, se terminaría firmando un protocolo entre la CONAE y la AEB sobre el proyecto en noviembre de 1998.\nSin embargo tras la firma del protocolo, el proyecto estuvo en \"stand by\" mientras la CONAE y la AEB avanzaban con otros proyectos, tales como el SAC-D / Aquarius y el SAOCOM por la parte argentina y el Programa de Satélites de Recursos Terrestres China-Brasil por la parte brasileña. Hubo varios intentos de reactivar el programa, en 2007, 2011 y 2012.\nEn septiembre de 2014, la CONAE recibió un préstamo de 70 millones de dólares por parte del CAF-Banco de Desarrollo de América Latina para financiar el proyecto. Ese mismo año, la CONAE abandonaría el uso de la nomenclatura SAC-E.\nEn abril de 2018, el satélite SABIA-Mar 1 superó la Revisión Crítica de Diseño del Segmento de Vuelo, dicha revisión se llevó a cabo en las facilidades de INVAP en San Carlos de Bariloche, del 16 al 20 de abril de 2018. A pesar de este avance por el lado argentino, la agencia brasileña mantiene parado el proyecto."
+    },
+    {
+      "titulo": "SABIA-Mar 1",
+      "nivel": 2,
+      "texto": "SABIA-Mar 1 será construido por la empresa argentina INVAP, donde ellos actúan como el contratista e integrador principal, brindando dos instrumentos al satélite. Está diseñado para tener una vida útil de 5 años y volar en una Órbita sincrónica al sol con una frecuencia de revisión de cuatro días.\nEl satélite superó la Revisión preliminar del diseño en abril de 2016, en abril de 2018 superó la Revisión Crítica de Diseño del Segmento de Vuelo, y en abril de 2023 la Revisión Crítica de Diseño de la misión."
+    },
+    {
+      "titulo": "SABIA-Mar 2",
+      "nivel": 2,
+      "texto": "El SABIA-Mar 2 será construido en Brasil basado en el segmento de vuelo del Amazônia-1, otro satélite de observación de la tierra diseñado completamente por el INPE. Tendrá un módulo de servicio con una masa seca de 292 kg y 304 vatios de potencia, y un módulo de carga útil con una masa de 219 kg y 260 vatios de potencia."
+    },
+    {
+      "titulo": "Instrumentos",
+      "nivel": 2,
+      "texto": "Fuente:\nGlobal House: Cámara multiespectral y una cámara CCD con una resolución de 1.1 kilómetros.\nCámara Regional: Cámara multiespectral con una resolución de 200 metros.\nCámara SST\nCámaras VIS-NIR y NIR-SWIR\nCámara térmica TIR\nSistema de Colección de Datos DCS\nDosímetro de radiación Liulin\nSección de comunicación con la tierra"
+    }
+  ],
+  "num_palabras": 843
+}

@@ -1,0 +1,39 @@
+{
+  "id": "doc_0893",
+  "titulo": "Hispasat 1C",
+  "titulo_wikipedia_en": "Hispasat 1C",
+  "fecha_lanzamiento": "2000-02-03",
+  "año_lanzamiento": 2000,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Estación espacial",
+    "Satélite de comunicaciones",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Hispasat_1C",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Desactivado",
+    "Tipo de misión": "Satélite de comunicaciones",
+    "Operador": "Hispasat",
+    "Fabricante": "Alcatel Space",
+    "Plataforma (bus)": "Spacebus-3000B2",
+    "Fecha de lanzamiento": "3 de febrero de 2000\n23:30",
+    "Lugar de lanzamiento": "SLC-36B en Cabo Cañaveral, Estados Unidos",
+    "Vehículo de lanzamiento": "Atlas IIAS",
+    "Duración planificada": "17 años",
+    "Desactivación fecha": "2 de junio de 2017",
+    "Masa en el lanzamiento": "3.113 kg",
+    "Dimensiones": "3,27 x 2,5 x 5,1 m",
+    "Potencia": "6000 W",
+    "Propulsión": "S400",
+    "Sistema de referencia orbital": "Geoestacionaria",
+    "Banda de transmisión": "Banda Ku"
+  },
+  "resumen": "El Hispasat 1C, posteriormente denominado como Hispasat 30W-3 y luego como Hispasat 84W-1, era un satélite de comunicaciones español operado por Hispasat.\nFue construido por Alcatel Space basándose en el bus satelital Spacebus-3000B2.\nFue lanzado el 3 de febrero de 2000 a las 23:30. El lanzamiento fue contratado por ILS y se utilizó un cohete Atlas IIAS desde el complejo SLC-36B de Cabo Cañaveral.\nEl satélite tenía una masa de 3.113 kg (6.863 lb) y una vida útil esperada de 15 años. La carga útil eran 24 transpondedores en Ku.\nDespués del lanzamiento y las pruebas en órbita, se colocó en la posición geoestacionaria 30° Oeste, desde donde proporcionaba servicios de televisión por satélite y telecomunicaciones a Europa y América.\nEn 2014, tras un acuerdo entre Hispasat y Star One, el satélite fue movido a la posición 84° Oeste y pasó a denominarse Hispasat 84W-1.\nFinalmente, el 2 de junio de 2017, el satélite fue reorbitado a una órbita cementerio, tras una vida útil de 17 años.",
+  "secciones": [],
+  "num_palabras": 167
+}

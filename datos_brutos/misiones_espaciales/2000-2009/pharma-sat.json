@@ -1,0 +1,32 @@
+{
+  "id": "doc_1099",
+  "titulo": "Pharma Sat",
+  "titulo_wikipedia_en": "PharmaSat",
+  "fecha_lanzamiento": "2009-05-19",
+  "año_lanzamiento": 2009,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite experimental",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Pharma_Sat",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Inactivo (destruido por reentrada en la atmósfera)",
+    "Tipo de misión": "Investigación biológica",
+    "Operador": "NASA",
+    "Fecha de lanzamiento": "19 de mayo de 2009",
+    "Lugar de lanzamiento": "MARS LP-0B",
+    "Vehículo de lanzamiento": "Minotaur I",
+    "Duración planificada": "21 días",
+    "ID NSSDC": "2009-028B",
+    "Masa en el lanzamiento": "5,5 kg",
+    "Inclinación orbital": "40,4 grados"
+  },
+  "resumen": "PharmaSat fue un nanosatélite desarrollado por el Centro de Investigación Ames de la NASA que midió la influencia de la microgravedad sobre la resistencia de la levadura a un agente antifúngico.\nFue lanzado por un cohete Minotaur I el 19 de mayo de 2009.",
+  "secciones": [],
+  "num_palabras": 44
+}

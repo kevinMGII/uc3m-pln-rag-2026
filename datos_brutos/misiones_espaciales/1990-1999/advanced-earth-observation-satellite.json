@@ -1,0 +1,63 @@
+{
+  "id": "doc_0804",
+  "titulo": "Advanced Earth Observation Satellite",
+  "titulo_wikipedia_en": "ADEOS I",
+  "fecha_lanzamiento": "1996-08-17",
+  "año_lanzamiento": 1996,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de observación terrestre",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Advanced_Earth_Observation_Satellite",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Ambos fuera de servicio",
+    "Tipo de misión": "Observación terrestre",
+    "Operador": "NASDA, NASA y CNES",
+    "Fecha de lanzamiento": "1: 17 de agosto de 1996\n2: 14 de diciembre de 2002",
+    "Masa en el lanzamiento": "1: 3500 kg\n2: 3730 kg",
+    "Dimensiones": "4 x 4 x 5 m (sin desplegar)",
+    "Sistema de referencia orbital": "Polar",
+    "Periapsis": "1: 799 Km\n2: 804 km",
+    "Inclinación orbital": "1: 98,6 Grados\n2: 98,7 Grados",
+    "Periodo orbital": "1: 101 minutos\n2: 100 minutos"
+  },
+  "resumen": "Advanced Earth Observation Satellite o ADEOS, también conocidos como Midori (Verde) en japonés, es el nombre de dos satélites de observación terrestre japoneses, de la antigua NASDA (hoy JAXA), a bordo de los cuales también había instrumentos estadounidenses y europeos.",
+  "secciones": [
+    {
+      "titulo": "ADEOS 1",
+      "nivel": 2,
+      "texto": "Fue lanzado el 17 de agosto de 1996 mediante un cohete H-2 desde la base espacial de Tanegashima. Fue puesto en una órbita incorrecta, finalmente corregida en septiembre de ese mismo año. El satélite falló de manera definitiva el 30 de junio de 1997, quedando inservible. Tenía una masa de unos 3500 kg.\nADEOS 1 se dedicó al estudio de cambios medioambientales por todo el mundo, incluyendo la destrucción de la capa de ozono y la disminución de los bosques tropicales."
+    },
+    {
+      "titulo": "Instrumentos",
+      "nivel": 3,
+      "texto": "AVNIR (Advanced Visible and Near-Infrared Radiometer), de la NASDA: con cinco bandas de observación, entre el visible y el infrarrojo cercano (0,42 a 0,89 µm); resolución de 8 o 16 m; bandas de 80 km de ancho; capacidad de apuntado a +/- 40 grados de la vertical; capacidad estereoscópica.\nILAS (Infrared Limb Atmospheric Spectrometer), de la Agencia Medioambiental Japonesa: dispositivo de ocultación infrarroja.\nIMG (del MITI): espectrómetro de transformada de Fourier apuntando al nadir.\nNSCAT (de la NASA): dispersómetro activo en banda Ku.\nOCTS (Ocean Color Temperature Scanner), de la NASDA.\nPOLDER (Polarization and Directionality of the Earth's Reflectance), del CNES.\nRIS, de la Agencia Medioambiental Japonesa.\nTOMS (Total Ozone Mapping Spectrometer), de la NASA."
+    },
+    {
+      "titulo": "Parámetros orbitales",
+      "nivel": 3,
+      "texto": "Perigeo: 799 km\nApogeo: 800 km\nInclinación orbital: 98,6 grados\nPeríodo: 100 minutos"
+    },
+    {
+      "titulo": "ADEOS 2",
+      "nivel": 2,
+      "texto": "Lanzado el 14 de diciembre de 2002 mediante un cohete H-2A desde la base espacial de Tanegashima. ADEOS 2 continuó los estudios de su antecesor, añadiendo el estudio de la circulación global de energía y agua. El contacto con ADEOS 2 se perdió en octubre de 2003, probablemente como resultado de la gran actividad solar del momento. Tenía una masa de unos 3730 kg."
+    },
+    {
+      "titulo": "Instrumentos",
+      "nivel": 3,
+      "texto": "AMSR (Advanced Microwave Scanning Radiometer)\nGLI (Global Imager)\nSea Winds\nPOLDER (Polarization and Directionality of the Earth's Reflectance), del CNES.\nILAS-II (Improved Limb Atmospheric Spectrometer-II)"
+    },
+    {
+      "titulo": "Parámetros orbitales",
+      "nivel": 3,
+      "texto": "Perigeo: 804 km\nApogeo: 806 km\nInclinación orbital: 98,7 grados\nPeriodo: 101 minutos"
+    }
+  ],
+  "num_palabras": 351
+}

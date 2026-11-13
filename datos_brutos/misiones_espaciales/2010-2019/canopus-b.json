@@ -1,0 +1,51 @@
+{
+  "id": "doc_1191",
+  "titulo": "Canopus-B",
+  "titulo_wikipedia_en": null,
+  "fecha_lanzamiento": "2012-07-22",
+  "año_lanzamiento": 2012,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de observación terrestre",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Canopus-B",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Desactivado",
+    "Tipo de misión": "Detección remota de emergencias y monitoreo de áreas específicas.",
+    "Operador": "Roscosmos",
+    "Fabricante": "Roscosmos",
+    "Fecha de lanzamiento": "22 de julio de 2012 6:41:39 UTC",
+    "Lugar de lanzamiento": "Baikonur Pl. 31/6",
+    "Vehículo de lanzamiento": "Soyuz-FG / Fregat",
+    "Duración planificada": "5 años",
+    "ID COSPAR": "2012-039A",
+    "Masa en el lanzamiento": "450 kg",
+    "Dimensiones": "0.9×0.75 m",
+    "Periapsis": "512.0 km",
+    "Periodo orbital": "94.74 min"
+  },
+  "resumen": "Canopus-B, también conocido como Kanopus-V (en ruso «Канопус-В»), es un satélite de origen Ruso utilizado para la detección remota de la Tierra. Fue fabricado por VNIIEM Corporation junto con la compañía británica Surrey Satellite Technology Limited. El satélite funciona bajo control de Roscosmos, el Ministerio de Emergencias, el Ministerio de Recursos Naturales, Roshydromet y RAS. Es utilizado para mapeo, monitoreo de emergencias, (como incendios) y monitoreo operacional de áreas específicas.\nEl cohete Soyuz-FG fue lanzado el 22 de julio de 2012 desde el cosmódromo de Baikonur, en el grupo de vehículos de BCA, MCA-PN1 (Rusia), TET es-1 (Alemania), exactView-1/ADS-1b (Canadá). El 30 de junio de 2012 la nave superó las pruebas de vuelo y se puso en funcionamiento.\nEstá en la misma órbita con un satélite BKA similar, con un desplazamiento de 180 grados.",
+  "secciones": [
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "Mini-Canopus-B en MAKS-2013\nPeso del dispositivo: 400-500 kg\nÓrbita: sincrónica, 510 × 512 km, inclinación 98°\nFrecuencia de disparo: aproximadamente 5 días (en el ecuador, en el nadir)\nCámara Pancromática (PSS):\nEl rango espectral es 460-850 nm\nAncho de banda: 20-23 km\nLa resolución máxima es de 2.1 m\nLa apertura relativa es 1: 10.3\nEl área de la imagen es 43.5 km² (6 cuadros)\nLa distancia focal es 1797 mm\nCámara multiespectral (MCC):\nRangos espectrales:\nAzul — 460-520 nm\nVerde — 520-600 nm\nRojo — 630-690 nm\nIR cercano — 750-860 nm\nAncho de banda — 20-23 km\nLa resolución máxima — 10-10,5 m\nÁrea de imagen — 195 km²\nLa distancia focal — 359 mm\nCCD-matrix: 1920x985 píxeles, tamaño de píxel 7,4 × 7,4 μm\nNavegación: GPS (GLONASS) y astroorientación\nComunicación: 2 enlaces de radio, 8048-8381,5 MHz, velocidad de transmisión 61-122 Mb/s\nCapacidad de memoria: 2 × 24 GB\nConsumo medio de energía: 300 W\nMotores: 2 SPD-50\nLa productividad diaria se estima en 0,5-2 millones de km². El rango de visión posible es de aproximadamente 856 km (giro a giro ±40° durante 2 minutos).\nEl principio de disparo es un escáner matricial combinado. En el plano focal de las cámaras, se instalan varias matrices CCD con una resolución de 1920x985 píxeles: 6 matrices CCD en el PSS; 1 matriz CCD para cada uno de los 4 canales en el MSS. Marcos formados tienen superposición.\nNiveles de procesamiento de imágenes: 0 (microframas no procesados de matrices que contienen metainformación), 1 (lo mismo con georreferencia), 2 (microframas y mosaicos transformados en proyecciones cartográficas), 3 (microframas ortotransformados y mosaicos realizados teniendo en cuenta el relieve).\nLas cámaras fueron fabricadas por la JSC bielorrusa Peleng; microensamblajes BAI2093 con matrices CCD - NTC Belmikroshemy, OJSC Integral; empresa SSTL.\nSSTL entregó el siguiente equipo: complejo de computadora a bordo, volantes, sensores estelares, sensores solares, magnetómetros, bobinas magnéticas, red de cable, antenas GPS y GLONASS. Junto con el suministro de equipos, el lado inglés también fue responsable de la entrega del software y el sistema de orientación y estabilización de la nave espacial.\nEn caso de catástrofes, las fotografías operativas y de archivo del satélite, así como su análisis, se pueden proporcionar de forma gratuita a los miembros de la Carta Internacional sobre el Espacio y los Grandes Desastres."
+    },
+    {
+      "titulo": "Operación",
+      "nivel": 4,
+      "texto": "El control de la nave espacial se lleva a cabo desde TsNIIMash TsUP.\nLa recepción de datos del satélite se realiza en Moscú, Novosibirsk, Jabárovsk, Zheleznogorsk y Minsk."
+    },
+    {
+      "titulo": "Literatura",
+      "nivel": 2,
+      "texto": "Complejo espacial para el monitoreo operacional de emergencias tecnológicas y naturales \"Canopus-V\" con la nave espacial \"Kanopus-V\" n.º 1. Publicación científica // Moscú, VNIIEM, 2011, 109p."
+    }
+  ],
+  "num_palabras": 573
+}

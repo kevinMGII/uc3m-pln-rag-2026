@@ -1,0 +1,36 @@
+{
+  "id": "doc_0701",
+  "titulo": "European Remote Sensing Satellite",
+  "titulo_wikipedia_en": "European Remote-Sensing Satellite",
+  "fecha_lanzamiento": "1991-07-17",
+  "año_lanzamiento": 1991,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Otro vuelo espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/European_Remote_Sensing_Satellite",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Activo",
+    "Tipo de misión": "Observación de la Tierra",
+    "Operador": "ESA",
+    "Fecha de lanzamiento": "17 de julio de 1991",
+    "Duración planificada": "3 a 4 años",
+    "ID COSPAR": "9502101",
+    "Nº SATCAT": "6178",
+    "Configuración": "Spot Mk.1",
+    "Masa en el lanzamiento": "2516 kg",
+    "Sistema de referencia orbital": "Circular",
+    "Excentricidad": "0.001",
+    "Periapsis": "785 Km",
+    "Inclinación orbital": "98.5 Grados",
+    "Periodo orbital": "100 minutos",
+    "Instrumentos": "Active Microwave Instrument\nRadar Altimeter\nAlong Track Scanning Radiometer\nPrecise Range and Range-rate Equipment\nLáser Retro-reflectors\nMicrowave sounder"
+  },
+  "resumen": "El European Remote Sensing Satellite (ERS) se convirtió en el primer satélite de observación de la Tierra lanzado por la Agencia Espacial Europea (ESA), al ser lanzado el 17 de julio de 1991, por un Ariane 4 desde Kourou (Guyana Francesa), a una órbita polar síncrona con el sol a una altitud de entre 782 y 785 km.\nEl ERS-1 llevaba una serie de instrumentos de observación terrestre que recopilaron datos sobre nuestro planeta:\nUn altímetro radar operando en la banda Ku\nUn radiómetro infrarrojo de cuatro canales para medir temperaturas en la superficie del mar y en la cima de las nubes\nUn emisor de microondas\nUn radar de apertura sintética\nUn escaterómetro para el estudio de vientos\nPara determinar su órbita con precisión, el satélite incluía el PRARE (Precision Range and Range-Rate Equipment) y un retrorreflector láser. El PRARE nunca llegó a estar operativo, y el retrorreflector se usó para calibrar el altímetro.\nUn fallo de la computadora y los giroscopios del ERS-1, provocó el fin de operaciones el 10 de marzo de 2000, mucho después de lo previsto inicialmente.\nSu sucesor, ERS-2, fue lanzado el 21 de abril de 1995 también por un Ariane 4 desde Kourou. Es prácticamente igual al ERS-1, pero añadiendo el GOME (Global Ozone Monitoring Experiment) y un espectrómetro de absorción. Cuando ERS-2 fue lanzado, compartía el mismo plano orbital con el ERS-1, lo cual posibilitó una misión de \"tándem\", con el ERS-2 pasando por la misma zona que el ERS-1 había recorrido un día antes.\nERS-2 ha estado operando sin giroscopios desde febrero de 2001, lo cual ha significado una degradación en algunos datos obtenidos por los instrumentos. El 22 de junio de 2003, hubo un grave fallo a bordo, por lo que los instrumentos solo funcionan cuando el satélite es visible desde alguna estación terrestre. Desde que se conoció este fallo, se han habilitado algunas estaciones terrestres adicionales, para aumentar la capacidad de recolección de datos del satélite. El escaterómetro y el GOME eran los únicos instrumentos de su tipo en órbita hasta el lanzamiento en 2006 del MetOp.\nEl sucesor del ERS-2 es el Envisat",
+  "secciones": [],
+  "num_palabras": 355
+}

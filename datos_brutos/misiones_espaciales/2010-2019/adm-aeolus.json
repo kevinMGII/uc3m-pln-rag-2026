@@ -1,0 +1,58 @@
+{
+  "id": "doc_1357",
+  "titulo": "ADM-Aeolus",
+  "titulo_wikipedia_en": "ADM-Aeolus",
+  "fecha_lanzamiento": "2018-08-22",
+  "año_lanzamiento": 2018,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Otro vuelo espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/ADM-Aeolus",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Finalizada",
+    "Operador": "ESA",
+    "Fabricante": "Airbus Defence and Space",
+    "Fecha de lanzamiento": "22 de agosto de 2018",
+    "Lugar de lanzamiento": "Puerto espacial de Kourou",
+    "Vehículo de lanzamiento": "Vega",
+    "Duración planificada": "3 años",
+    "Masa en el lanzamiento": "1360 kg",
+    "Dimensiones": "1.74 m x 1.9 m x 2.0 m",
+    "Potencia": "Paneles solares: 2.4 kW\nConsumo medio requerido: 1.4kW",
+    "Propulsión": "Monopropelente líquido",
+    "Sistema de referencia orbital": "Heliosíncrona",
+    "Inclinación orbital": "96.97°",
+    "Instrumentos": "ALADIN",
+    "Banda de transmisión": "Ultravioleta Cercano, 355nm",
+    "Datos interplanetarios": "tipo: orbitador | objeto: Tierra"
+  },
+  "resumen": "Aeolus, o, su nombre completo, Atmospheric Dynamics Mission Aeolus (del inglés, Misión de Dinámica Atmosférica Aeolus), es un satélite de observación terrestre construido por Airbus Defence and Space que fue lanzado el 22 de agosto de 2018. ADM-Aeolus es el primer satélite con una instrumentación capaz de realizar observaciones de los perfiles de vientos de manera global y proporcionará información muy valiosa para mejorar el pronóstico del tiempo. Aeolus será el primer satélite capaz de observar lo que los vientos hacen sobre la Tierra, desde la superficie del planeta hasta la estratosfera a unos 30 km de altitud.\nEl nombre de la misión es una alusión a la mitología griega, en la cual, Eolo es el nombre del gobernante de los vientos.",
+  "secciones": [
+    {
+      "titulo": "Programa",
+      "nivel": 2,
+      "texto": "El programa fue aprobado inicialmente en 1999 para un lanzamiento en 2007 pero obstáculos tecnológicos causaron 11 años de retraso, hasta que se planificó su lanzamiento para el 21 de agosto de 2018. Con un coste estimado de 481 millones de euros (568 millones de dólares), se espera que proporcione 64000 perfiles diarios a partir de marzo o abril de 2019.Su órbita se trata de una órbita heliosíncrona bastante baja, con una altitud de unos 320 km km (200 ) sobre la superficie terrestre para recibir suficiente intensidad de luz reflejada hacia atrás por el rayo láser que proyecta la sonda sobre la atmósfera. Ésta altitud, en cambio va en deterioro de la duración de la misión, reduciéndola a unos escasos 3.25 años de vida esperada."
+    },
+    {
+      "titulo": "Satélite",
+      "nivel": 2,
+      "texto": "Aeolus es el quinto satélite previsto en el \"Living Planet Programme\" (Programa Planeta Viviente) de la Agencia Espacial Europea (ESA). El objetivo principal de esta misión es ahondar más aún el conocimiento de la atmósfera y la meteorología de la tierra. Mediante la monitorización del tiempo en partes diferentes del mundo, Aeolus permitirá a los científicos trazar complejos modelos del tiempo, que podrán ayudar a predecir mejor las condiciones meteorológicas en el futuro. La misión así mejorará el conocimiento de todas la fenomenología relacionada con la meteorología, desde los efectos del calentamiento global hasta la contaminación de aire. Aeolus está considerado como una misión que allanará el camino para futuros satélites meteorológicos dedicados al estudio de los perfiles de viento de la tierra.\nEl satélite fue construido por Airbus Defence ans Space. En 2014 la integración de ALADIN, su principal instrumento, fue completada y comenzaron las pruebas de vacío y vibraciones."
+    },
+    {
+      "titulo": "Instrumento científico",
+      "nivel": 2,
+      "texto": "Los perfiles de la componente de viento serán medidos \"Atomsferic LAser Doppler INstrument (ALADIN), \"Instrumento atmosférico Láser Láser Doppler\"."
+    },
+    {
+      "titulo": "Lanzamiento",
+      "nivel": 2,
+      "texto": "Aeolus fue diseñado para ser compatible con muchos vehículos lanzadores para pequeñas cargas como Vega, Rockot o Dnepr. En noviembre de 2013, la ESA planificó el lanzamiento a bordo de un cohete VEGA en uno de los cinco vuelos del Programa VERTA, pero en 2015 el lanzamiento fue aplazado a agosto de 2018 debido a problemas con el desarrollo de su LIDAR. Un contrato de lanzamiento de €32.57 millones con Arianespace fue firmado el 7 de septiembre de 2016. El lanzamiento finalmente tuvo lugar en el 22 de agosto de 2018 a bordo del cohete Vega desde Kourou (Guayana Francesa) a las 18:20, GMT-3 tiempo local (21:20 GMT)."
+    }
+  ],
+  "num_palabras": 526
+}

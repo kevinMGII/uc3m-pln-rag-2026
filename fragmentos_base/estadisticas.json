@@ -1,13 +1,13 @@
 {
   "zips_descomprimidos": 9,
-  "documentos": 1029,
-  "fragmentos": 3550,
+  "documentos": 1661,
+  "fragmentos": 4586,
   "tamano_fragmento": 300,
   "solapamiento": 0.15,
   "paso_palabras": 255,
   "incluye_ficha": false,
-  "documentos_con_un_solo_fragmento": 454,
+  "documentos_con_un_solo_fragmento": 906,
   "max_fragmentos_por_documento": 77,
-  "media_fragmentos_por_documento": 3.45,
-  "media_palabras_por_fragmento": 260.7
+  "media_fragmentos_por_documento": 2.76,
+  "media_palabras_por_fragmento": 249.8
 }

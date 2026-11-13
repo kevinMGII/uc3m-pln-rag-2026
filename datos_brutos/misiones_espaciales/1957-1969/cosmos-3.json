@@ -1,0 +1,37 @@
+{
+  "id": "doc_0054",
+  "titulo": "Cosmos 3",
+  "titulo_wikipedia_en": "Kosmos 3 (satellite)",
+  "fecha_lanzamiento": "1962-04-24",
+  "año_lanzamiento": 1962,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de observación terrestre",
+    "Satélite (programa Cosmos)",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Cosmos_3",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Reentrado en la atmósfera",
+    "Tipo de misión": "Observación terrestre, experimental",
+    "Fecha de lanzamiento": "24 de abril de 1962",
+    "Lugar de lanzamiento": "Kapustin Yar",
+    "ID NSSDC": "1962-013A",
+    "Masa en el lanzamiento": "330 kg",
+    "Tipo de fin de misión": "reingreso",
+    "Fecha de reentrada": "17 de octubre de 1962"
+  },
+  "resumen": "Cosmos 3 (en ocasiones mencionado como Sputnik 13 en occidente) fue un satélite artificial soviético del tipo 2MS. Fue lanzado el 24 de abril de 1962 desde Kapustin Yar y reentró en la atmósfera el 17 de octubre de 1962.",
+  "secciones": [
+    {
+      "titulo": "Objetivo",
+      "nivel": 2,
+      "texto": "La misión de Cosmos 3 fue realizar mediciones del espacio exterior y la atmósfera superior de la Tierra. También fue utilizado para probar nuevos diseños para satélites."
+    }
+  ],
+  "num_palabras": 67
+}

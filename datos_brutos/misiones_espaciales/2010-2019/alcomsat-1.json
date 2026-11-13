@@ -1,0 +1,31 @@
+{
+  "id": "doc_1333",
+  "titulo": "Alcomsat-1",
+  "titulo_wikipedia_en": "Alcomsat-1",
+  "fecha_lanzamiento": "2017-12-10",
+  "año_lanzamiento": 2017,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de comunicaciones",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Alcomsat-1",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Comunicaciones",
+    "Operador": "Algerian Space Agency (ASAL)",
+    "Fecha de lanzamiento": "10 de diciembre de 2017",
+    "Lugar de lanzamiento": "Centro de Lanzamiento de Satélites Xichang",
+    "Vehículo de lanzamiento": "Long March 3B",
+    "Duración planificada": "15 años",
+    "ID NSSDC": "2017-078A",
+    "Masa en el lanzamiento": "5.200 kilogramos",
+    "Banda de transmisión": "Banda Ku y Banda C"
+  },
+  "resumen": "Alcomsat-1 es el primer satélite de comunicaciones argelino, llevado a cabo por el lanzador chino Long March 3B, desde el Centro de Lanzamiento de Satélites Xichang, ubicado en la provincia de Sichuan, a 2.200 km al suroeste de Beijing.\nEl satélite está diseñado para una vida operativa de 15 años y es una asociación entre la Agencia Espacial Argelina (ASAL) y China. Se dedica a las telecomunicaciones, televisión e internet.\nPuede encontrar más información actualizada sobre el satélite aquí.",
+  "secciones": [],
+  "num_palabras": 79
+}

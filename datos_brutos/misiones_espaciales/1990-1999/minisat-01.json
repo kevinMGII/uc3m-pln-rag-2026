@@ -1,0 +1,75 @@
+{
+  "id": "doc_0825",
+  "titulo": "Minisat 01",
+  "titulo_wikipedia_en": "Minisat 01",
+  "fecha_lanzamiento": "1997-04-21",
+  "año_lanzamiento": 1997,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Telescopio espacial",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Minisat_01",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Reentrado en la atmósfera",
+    "Tipo de misión": "Observatorio espacial / Experimental",
+    "Operador": "INTA",
+    "Fecha de lanzamiento": "21 de abril de 1997",
+    "Lugar de lanzamiento": "Base Aérea de Gando, Gran Canaria",
+    "Vehículo de lanzamiento": "Pegasus XL",
+    "ID NSSDC": "1997-018A",
+    "Masa en el lanzamiento": "209 kg",
+    "Potencia": "200 W",
+    "Ancho de banda": "1 Mbps",
+    "Tipo de fin de misión": "reingreso",
+    "Fecha de reentrada": "26 de febrero de 2002"
+  },
+  "resumen": "El Minisat 01 fue un satélite desarrollado en España dentro del Programa de Pequeños Satélites (Minisat). El proyecto comenzó en 1990. Después de algunos estudios de viabilidad el satélite entró en fase de diseño en 1993. Los objetivos principales del programa eran desarrollar un demostrador de tecnología para probar y desarrollar las capacidades españolas para producir y operar satélites artificiales. Con este fin, INTA se asoció con empresas privadas y universidades para adquirir fondos y recursos. No obstante, también se hizo hincapié en mantener los costos al mínimo y garantizar la asequibilidad.",
+  "secciones": [
+    {
+      "titulo": "Misión",
+      "nivel": 2,
+      "texto": "El Minisat 01 fue concebido para realizar observación de la Tierra en una órbita baja además de cuatro experimentos científicos diferentes:\nEURD (Espectrógrafo Ultravioleta extremo para la observación de la Radiación Difusa - Extreme UV Spectrograph for the Study of Diffuse Radiation).\nCPLM (Columna de Puente Líquido en Microgravedad).\nLEGRI (generador de imágenes de rayos gamma de baja energía).\nETRV (Experiencia Tecnológica de un Regulador de Velocidad - Speed Regulator Technology Demonstrator).\nSe ideó una carga útil alternativa, pero no se implementó, que consistía en cuatro experimentos adicionales: GOYA (Observador de explosión de rayos gamma anhelado siempre), SIXE (Experimento español italiano de rayos X), DOPA, XRASE. Estos experimentos se proyectarían más tarde para el Minisat 02 antes de que se descartara el proyecto."
+    },
+    {
+      "titulo": "Cuerpo",
+      "nivel": 2,
+      "texto": "El satélite fue construido entre CASA, que estaba a cargo del desarrollo de la plataforma, e INTA, que diseñó principalmente las diferentes cargas útiles y la implementación del experimento. Se puso un gran énfasis en mantener los costos bajos para que la construcción fuera modular (capaz de acomodar hasta 300 kg de carga útil), pequeña (aproximadamente 1145 mm x 1005 mm x 1170 mm) y se proyectó que tuviera una vida útil de 4 a 5 años. El cuerpo terminó pesando 195 kg (estructura de 100 kg y 95 kg de carga útil) y tenía la forma de un prisma hexagonal con los experimentos situados en las caras superior e inferior, mientras que en los lados se montaron 4 paneles solares desplegables AsGa (550 mm x 800 mm en tamaño) capaces de proporcionar la potencia necesaria para hacer funcionar el satélite (aproximadamente 50 W).\nEl núcleo contenía una batería de NiCd y la unidad central de procesamiento y computación a bordo (un microprocesador Intel 80386 modificado) con 32 Mb de RAM, 512 kb de EEPROM, 2.4 MIPS de rendimiento, 32 MB de almacenamiento de datos y múltiples núcleos redundantes. Una conexión de bus conectaba el microprocesador con los experimentos capaces de proporcionar interfaces punto a punto mientras se administraba el subsistema de control. Este se dividió en dos unidades básicas: la térmica y la cinética. La primera consistía en un recubrimiento aislante alrededor del cuerpo con termistores internos y externos para medir la temperatura y calentadores internos activos alrededor de los experimentos y la batería para mantener la temperatura dentro de los rangos operativos. La unidad cinética aseguraba que el Minisat 01 mantuviera una posición favorable para maximizar la incidencia de la luz solar en los paneles solares, además de estabilizar la nave espacial en sus 3 ejes. Esta unidad consistía en una combinación de 3 barras de torsión colocadas ortogonalmente entre sí y una rueda de reacción en el plano de giro. Los datos de la posición actual del cuerpo eran proporcionados por dos sensores solares colocados perpendicularmente y dos magnetómetros biaxiales que, trabajando cooperativamente, podían proporcionar información precisa sobre la posición del satélite hasta ±3º de error.\nLa comunicación con Tierra se mantenía utilizando transmisores de RF bidireccionales que operaban en la banda S con una velocidad de bajada de 1Mbit/s y una velocidad de subida de 2 kbit/s."
+    },
+    {
+      "titulo": "Lanzamiento",
+      "nivel": 2,
+      "texto": "El satélite fue lanzado desde un Lockheed L-1011-385-1-15 TriStar con matrícula N140SC con un cohete Pegasus-XL desde la Base Aérea de Gando en las Islas Canarias el 21 de abril de 1997. Fue colocado en una órbita cercana a circular con 585 km de ápside, 566 km de periapsis con e inclinación de 151º (29º retrógrado) y un periodo orbital de 96 minutos. En el mismo lanzamiento se incluía una urna funeraria con las cenizas de 24 personas, entre las que se incluyen Gene Roddenberry (creador del universo Star Trek), Gerard K. O'Neill o Timothy Leary.\nDespués de que 5 años de funcionamiento exitoso, el satélite reentró en la atmósfera el 14 de febrero de 2002.\nDurante toda su vida operativa fue operado por el INTA, quién controló el satélite desde el Centro Espacial de Maspalomas."
+    },
+    {
+      "titulo": "Experimentos",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "EURD",
+      "nivel": 3,
+      "texto": "Siendo el resultado de los esfuerzos de conjuntos del INTA y la Universidad de California en Berkeley, este dispositivo tenía como objetivo realizar observaciones espectrográficas de radiación UVE defusa en el medio interestelar para examinar la composición de la Mesosfera. El foco de estas observaciones eran líneas de oxígeno y alta energía (por encima de 10 eV), vida media alta (por encima de 1024 s) neutrinos cuya presencia puede ser indicativa de materia oscura.\nPara alcanzarlo ese objetivo, el dispositivo empleaba dos espectrómetros independientes equipados con banda espectral modulable (entre 350 y 1100 Å). Esto permitió comparar y filtrar las lecturas obtenidas para minimizar los errores sistemáticos causados por la naturaleza ionizante del UVE, asegurando así un mayor grado de precisión. Cada espectrómetro tenía un tamaño de aproximadamente 40x40x13 cm y 11 kg de peso con rejilla aguda (8 cm de diámetro, 18 cm de distancia focal con 2460 líneas / mm con regla holográfica y de carburo de boro/silicio) para proteger los instrumentos de medición. Debajo de la rejilla, se asignan los detectores de placa multicanal (MCP) con codificación de cuña y tira, mirando hacia el exterior a través de una lente que les proporciona un campo de visión de 26º x 8º y cuatro posiciones posibles. Estos fueron: abierto (transmitiendo toda la longitud de onda), blindado (bloquea todas las emisiones y permite lecturas de radiación interna), filtro de fluoruro de magnesio (que permite medir la serie espectral Lyman-alpha) y filtro de aluminio (que bloquea la mayor parte de la radiación de Lyman mientras permite el paso de UVE).\nEl dispositivo se colocó en un extremo del satélite, mirando hacia la dirección contraria al sol y se utilizó continuamente durante la vida útil del satélite."
+    },
+    {
+      "titulo": "CPLM",
+      "nivel": 3,
+      "texto": "Desarrollado por la Universidad Politécnica de Madrid el CPLM era módulo de experimentación creó para estudiar el comportamiento de los fluidos al ser colocados dentro de puentes axiales simétricos bajo condiciones de microgravedad. Consista en una célula de prueba que contiene los puentes fluidos integrados entre varios detectores ópticos, los cuales eran capaces de medir cambios en posición y forma del fluido, y una unidad de orden. Esta unidad se era construido con un motor, capaz de cambiar la dirección de los puentes y a reinicialización el experimento, y un acelerómetro qué medía las fuerzas que actúan en el fluido de prueba. El módulo estaba alojado dentro de un contenedor cilíndrico qué también contenía la fuente de alimentación, varias temperatura y sensores de presión y una tarjeta de memoria de salvaguarda.\nDurante su funcionamiento, el puente líquido se orientaría perpendicularmente al eje z (dirección del Sol al satélite) y se activaría durante 5 minutos una vez por semana. Como resultado, el satélite giraría ±0.375 rpm longitudinalmente como consecuencia directa de las aceleraciones aplicadas en el CPLM."
+    },
+    {
+      "titulo": "LEGRI",
+      "nivel": 3,
+      "texto": "El LEGRI estuvo desarrollado por un equipo internacional compuesto por INTA, el Laboratorio Rutherford Appleton (RAL), la Universidad de Valencia y la Universidad de Birmingham. El objetivo principal era construir un prototipo de telescopio de rayos gamma capaz de detectar radiación de energía baja (entre 10 y 200 keV) producida por la dispersión de radiación gamma emitida por cuerpos celestiales como agujeros negros, estrellas de neutrones o estrellas binarias.\nEl dispositivo debía incorporar tecnología de punta para su tiempo, como los detectores emergentes HgI2 desarrollados por el Centro de Investigaciones Energéticas y Medioambientales (CIEMAT) capaces de proporcionar lecturas precisas sobre el rango de energía operativa y un alto grado de resistencia térmica y un muy buena relación eficiencia-peso. Originalmente, 100 detectores de este tipo formaban la subunidad de detección LEGRI, pero la naturaleza experimental de esta tecnología hizo que INTA eligiera mezclar una matriz de 80 detectores CdZnTe más convencionales y confiables. Esta decisión también permitió comparar directamente su rendimiento al trabajar en un entorno de 0 g y compartir FEE y flujos de ruido de fondo. Además de la subunidad de detección, LEGRI incorporó una unidad de filtrado hecha de un colimador mecánico apoyado en una placa de tungsteno en forma de panal que se asigna frente a los detectores, una fuente de alimentación de alto voltaje necesaria para alimentar el dispositivo y una unidad de procesamiento que administra los datos y proporciona lecturas de actitud continuas en el satélite para facilitar la reconstrucción de la imagen y evitar el ruido de señal."
+    },
+    {
+      "titulo": "ETRV",
+      "nivel": 3,
+      "texto": "Desarrollado por CASA, el ETRV era un mecanismo de control de la velocidad capaz de desplegar varios dispositivos como tableros solares, antenas y pruebas. Consista en un motor eléctrico conectado a un resorte de torsión montado sobre un caja de cambios capaz de regular el movimiento y proporcionando cierto grado de estabilidad. Para simular cargas útiles, un pequeño volante de inercia fue añadido al final dl brazo de despliegue directamente conectado a la caja de cambios. Para asegurar el posicionamiento correcto del brazo móvil un interruptor de láminas electromagnético mediría el momento, ángulo giroscópico y la velocidad del brazo que proporciona correcciones en tiempo real para el sistema y permite una velocidad máxima de despliegue de 180° en aproximadamente 3 minutos.\nEl control de tiempo durante las fases diferentes de despliegue estuvo asegurada por un iniciador pirotécnico, responsable de mantener la integridad del sistema hasta el disparo de una carga pirocinética que indicaría que se cumplían las condiciones para comenzar todo el proceso de colocación."
+    }
+  ],
+  "num_palabras": 1623
+}

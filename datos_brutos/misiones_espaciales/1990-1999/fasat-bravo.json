@@ -1,0 +1,42 @@
+{
+  "id": "doc_0855",
+  "titulo": "FASat-Bravo",
+  "titulo_wikipedia_en": null,
+  "fecha_lanzamiento": "1998-07-10",
+  "año_lanzamiento": 1998,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de observación terrestre",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/FASat-Bravo",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Inactivo",
+    "Operador": "Fuerza Aérea de Chile",
+    "Fecha de lanzamiento": "10 de julio de 1998",
+    "Lugar de lanzamiento": "Cosmódromo de Baikonur, Kazajistán",
+    "Vehículo de lanzamiento": "Zenit-2",
+    "Masa en el lanzamiento": "50 kg",
+    "Dimensiones": "60 x 35 x 35 cm",
+    "Duración planificada": "2 años 11 meses",
+    "Inclinación orbital": "114"
+  },
+  "resumen": "El FASat-Bravo fue el segundo satélite artificial de la Fuerza Aérea de Chile (FACh), y el primero en orbitar la Tierra de manera independiente, tras el fallido intento del FASat-Alfa en 1995.\nDesarrollado por la FACh en conjunto con la Universidad de Surrey, fue puesto en órbita por el cohete vector Zenit II, lanzado desde el cosmódromo de Baikonur, Kazajistán, el 10 de julio de 1998. Tras casi tres años de funcionamiento, en junio de 2001 falló la batería, por lo que quedó inutilizable y convertido en basura espacial.",
+  "secciones": [
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "El FASat-Bravo es un microsatélite que viaja a una velocidad de 25 mil kilómetros por hora, y da 14 vueltas a la Tierra en un día, pesa 50 kilogramos y tiene 60 centímetros de alto, con una base cuadrada de 35 centímetros por cada lado. El interior del cuerpo central está formada por once módulos que albergan a los circuitos electrónicos. Su exterior está recubierta por paneles solares que suministran la energía necesaria para el funcionamiento. El aparato funcionaba con un sistema de suministro de energía complementario: cuando estaba expuesto al sol, recargaba sus baterías, las que eran utilizadas en los momentos de eclipse. La estructura quedará orbitando a la misma altura pero apagada y no puede ser reutilizada."
+    },
+    {
+      "titulo": "Objetivos y logros alcanzados",
+      "nivel": 2,
+      "texto": "Su objetivo es permitir la realización de estudios geográficos, climáticos y de recursos económicos de Chile, cubriendo desde el desierto hasta la Antártica, incluyendo el mar y las islas que conforman nuestro territorio, además de la realización de un programa educacional para difundir la misión entre los escolares chilenos, por medio de un sistema de intercomunicación. Una de sus aplicaciones más novedosas es la de un ingenioso método para medir la radiación ultravioleta que llega a la Tierra. El satélite estuvo en órbita cerca de tres años. Dejó de operar en junio de 2001 tras agotarse las baterías que lo mantenían en funcionamiento. Chile queda, hasta la llegada de FASat-Charlie en 2011, sin presencia tecnológica en el espacio."
+    }
+  ],
+  "num_palabras": 326
+}

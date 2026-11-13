@@ -1,0 +1,45 @@
+{
+  "id": "doc_1327",
+  "titulo": "TDRS-13",
+  "titulo_wikipedia_en": "TDRS-13",
+  "fecha_lanzamiento": "2017-08-18",
+  "año_lanzamiento": 2017,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de comunicaciones",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/TDRS-13",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Satélite de comunicaciones",
+    "Operador": "NASA",
+    "Fabricante": "Boeing",
+    "Fecha de lanzamiento": "18 de agosto de 2017, 12:29 UTC",
+    "Vehículo de lanzamiento": "Atlas V 401",
+    "Duración de la misión": "15 años (planeado)",
+    "Masa en el lanzamiento": "3.454 kg (7.615 lb)"
+  },
+  "resumen": "El TDRS-13, conocido como TDRS-M antes de su lanzamiento, es un satélite de comunicaciones estadounidense operado por la NASA como parte del Tracking and Data Relay Satellite System. Es el decimotercer satélite del sistema, y la tercera y última nave espacial de la tercera generación de dicho sistema. Fue lanzado al espacio en 2017.",
+  "secciones": [
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "El TDRS-M fue construido por Boeing basándose en el bus satelital BSS-601HP. Completamente cargado de combustible, tiene una masa de 3.454 kg (7.615 lb) y una vida útil de diseño de 15 años. Lleva dos antenas orientables capaces de proporcionar comunicaciones de bandas S, Ku y Ka para otras naves espaciales, con un conjunto adicional de transpondedores de banda S para comunicaciones de menor velocidad con cinco satélites más. El satélite funciona con dos paneles solares que producen de 2,8 a 3,2 kilovatios de potencia, mientras y usa un motor R-4D-11-300 como sistema de propulsión."
+    },
+    {
+      "titulo": "Lanzamiento",
+      "nivel": 2,
+      "texto": "En 2015, la NASA contrató a United Launch Alliance para lanzar el TDRS-M en un Atlas V 401 por 132,4 millones de dólares. La nave espacial fue lanzada el 18 de agosto de 2017 a las 12:29 UTC (08:29 hora local) desde el Complejo de Lanzamiento Espacial 41 en la Estación de la Fuerza Espacial de Cabo Cañaveral."
+    },
+    {
+      "titulo": "Incidentes",
+      "nivel": 2,
+      "texto": "El 15 de julio de 2017, el satélite TDRS-M resultó dañado durante el proceso de encapsulado en las instalaciones de Astrotech Space Operations. La NASA emitió un comunicado de prensa informando de que \"la NASA y Boeing están revisando un incidente ocurrido durante las actividades finales de encapsulado de la nave espacial de la misión Tracking Data Relay Satellite (TDRS-M) en Astrotech Space Operations en Titusville, Florida, el 14 de julio, involucrando a la antena omnidireccional de banda S\". Este incidente resultó en un retraso del lanzamiento."
+    }
+  ],
+  "num_palabras": 294
+}

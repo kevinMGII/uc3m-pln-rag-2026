@@ -1,0 +1,30 @@
+{
+  "id": "doc_0518",
+  "titulo": "OPS 5111",
+  "titulo_wikipedia_en": "OPS 5111",
+  "fecha_lanzamiento": "1978-02-22",
+  "año_lanzamiento": 1978,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/OPS_5111",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Vehículo de lanzamiento": "Atlas E/F SGS-1, 64F",
+    "Lugar de lanzamiento": "Vandenberg SLC-3E",
+    "Masa en el lanzamiento": "759 kg",
+    "Fecha de lanzamiento": "22 de febrero de 1978, 23:44 UTC",
+    "Nave": "GPS Block I",
+    "Duración de la misión": "5 años (planificado)\n7/1/2 años (logrado)",
+    "Inclinación orbital": "63,3 grados",
+    "Apoapsis": "20 291 km",
+    "Periapsis": "20 075 km"
+  },
+  "resumen": "OPS 5111, también conocido como Navstar 1, NDS-1, GPS I-1 y GPS SVN-1, fue un satélite de navegación estadounidense lanzado en 1978 como parte del programa para el desarrollo del Sistema de posicionamiento global. Fue el primer satélite GPS y uno de los once satélites de demostración del bloque I.\nOPS 5111 fue lanzado a las 23:44 UTC el 22 de febrero de 1978 con un cohete portador Atlas E/F y una etapa superior SGS-1. El Atlas usado tenía el número de serie 64F y fue originalmente construido como un Atlas F. El lanzamiento tomó lugar en el Space Launch Complex 3E en Vandenberg Air Force Base, y colocó al OPS 5111 en una órbita de transferencia. El satélite se elevó en Órbita circular intermedia usando un motor de apogeo Star-27.\nEl 11 de abril de 1978, OPS 5111 estuvo en órbita con un perigeo de 20075 km, un apogeo de 20291 km, un periodo orbital de 718 minutos y una inclinación de 63,3 grados del Ecuador. El satélite estaba destinado a funcionar por 5 años y una masa de 758 kg. Emitió la señal PRN 04 en la constelación de demostración de GPS, y fue retirado del servicio el 17 de julio de 1985.",
+  "secciones": [],
+  "num_palabras": 205
+}

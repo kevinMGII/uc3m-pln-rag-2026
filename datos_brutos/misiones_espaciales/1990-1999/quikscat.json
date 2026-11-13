@@ -1,0 +1,31 @@
+{
+  "id": "doc_0882",
+  "titulo": "QuikSCAT",
+  "titulo_wikipedia_en": "QuikSCAT",
+  "fecha_lanzamiento": "1999-06-19",
+  "año_lanzamiento": 1999,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de observación terrestre",
+    "Satélite meteorológico",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/QuikSCAT",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Activo",
+    "Tipo de misión": "Satélite meteorológico y de observación terrestre",
+    "Operador": "NASA",
+    "Fecha de lanzamiento": "20 de junio de 1999",
+    "Lugar de lanzamiento": "Vandenberg",
+    "Vehículo de lanzamiento": "Titan",
+    "ID NSSDC": "1999-034A",
+    "Masa en el lanzamiento": "971 kg"
+  },
+  "resumen": "QuikSCAT es un satélite artificial de la NASA lanzado el 20 de junio de 1999 mediante un cohete Titan desde la base de Vandenberg.\nLa misión de QuickSCAT es la de medir la velocidad y dirección del viento sobre los océanos mediante microondas para mejorar la predicción del tiempo y estudiar el desarrollo de las tormentas tropicales.",
+  "secciones": [],
+  "num_palabras": 57
+}

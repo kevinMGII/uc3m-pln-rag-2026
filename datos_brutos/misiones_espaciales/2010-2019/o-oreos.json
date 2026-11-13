@@ -1,0 +1,35 @@
+{
+  "id": "doc_1142",
+  "titulo": "O/OREOS",
+  "titulo_wikipedia_en": "O/OREOS",
+  "fecha_lanzamiento": "2010-11-20",
+  "año_lanzamiento": 2010,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite experimental",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/O/OREOS",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Operador": "NASA",
+    "Fecha de lanzamiento": "28 de noviembre de 2010",
+    "Lugar de lanzamiento": "Kodiak Pad 1",
+    "Vehículo de lanzamiento": "Minotaur IV",
+    "Duración planificada": "6 meses",
+    "ID NSSDC": "2010-062C",
+    "Masa en el lanzamiento": "5,5 kilogramos"
+  },
+  "resumen": "El O/OREOS (Organism/Organic Exposure to Orbital Stresses) es un laboratorio automatizado de nanosatélites CubeSat aproximadamente del tamaño de una barra de pan que contiene dos experimentos de astrobiología separados a bordo. Desarrollado por la División de Pequeñas Naves Espaciales en el Centro de Investigación Ames de la NASA, la nave fue lanzada exitosamente como una carga útil secundaria en el STP-S26 liderado por el Programa de Pruebas Espaciales de la Fuerza Aérea de los Estados Unidos en un cohete Minotaur IV desde la Isla Kodiak, Alaska el 19 de noviembre, 2010.",
+  "secciones": [
+    {
+      "titulo": "Experimentos",
+      "nivel": 2,
+      "texto": "Los objetivos de la misión O/OREOS:\nDemostrar tecnologías clave de satélites pequeños que pueden permitir futuros experimentos de astrobiología de bajo costo.\nDespliegue de un espectrómetro UV / VIS / NIR en miniatura adecuado para astrobiología y otras investigaciones científicas.\nProbar la capacidad de establecer una variedad de condiciones de reacción experimentales para permitir el estudio de procesos astrobiológicos en satélites pequeños.\nMedir la evolución química de las moléculas orgánicas en LEO en condiciones que pueden extrapolarse a entornos interestelares y planetarios."
+    }
+  ],
+  "num_palabras": 173
+}

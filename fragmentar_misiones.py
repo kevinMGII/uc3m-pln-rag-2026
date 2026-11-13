@@ -3,9 +3,9 @@
 Descomprime los ZIP de misiones espaciales y genera fragmentos para indexación.
 
 Pasos:
-  1. Descomprime todos los .zip de la carpeta `datos_zip` en `datos_brutos`.
+  1. Vacía `datos_brutos` y descomprime en ella todos los .zip de `datos_zip`.
   2. Lee cada JSON de misión (se ignora indice.json).
-  3. Asigna a cada documento un identificador estable (doc_0001, doc_0002, ...).
+  3. Usa el identificador fijo de cada documento (campo "id": doc_0001, doc_0002, ...).
   4. Divide el texto (resumen + secciones) en fragmentos de ~300 palabras con un
      15 % de solapamiento (paso de 255 palabras). Los documentos de 300 palabras
      o menos se guardan como un único fragmento.
@@ -24,6 +24,7 @@ Solo usa la biblioteca estándar de Python (3.8+).
 import argparse
 import json
 import math
+import shutil
 import statistics
 import zipfile
 from pathlib import Path
@@ -52,6 +53,9 @@ def descomprimir_zips(carpeta_zip: Path, carpeta_destino: Path) -> int:
             f"Contenido actual de la carpeta: {contenido if contenido else '(vacía)'}"
         )
 
+    # Se vacía la carpeta de destino para que no queden archivos de versiones anteriores del corpus
+    if carpeta_destino.exists():
+        shutil.rmtree(carpeta_destino)
     carpeta_destino.mkdir(parents=True, exist_ok=True)
     destino_abs = carpeta_destino.resolve()
 
@@ -96,6 +100,8 @@ def cargar_documentos(carpeta_brutos: Path) -> list:
     for ruta in rutas:
         with open(ruta, encoding="utf-8") as f:
             documentos.append((ruta.relative_to(carpeta_brutos).as_posix(), json.load(f)))
+    # Orden por identificador de documento (doc_0001, doc_0002, ...)
+    documentos.sort(key=lambda par: (par[1].get("id") or "", par[0]))
     return documentos
 
 
@@ -159,7 +165,8 @@ def main():
     with open(ruta_fragmentos, "w", encoding="utf-8") as f_frag, \
          open(ruta_documentos, "w", encoding="utf-8") as f_docs:
         for i, (ruta_rel, doc) in enumerate(documentos, start=1):
-            doc_id = f"doc_{i:04d}"
+            # Identificador fijo que viene en cada JSON; si no existe, se numera por orden
+            doc_id = doc.get("id") or f"doc_{i:04d}"
             palabras = texto_documento(doc, args.incluir_ficha).split()
             ventanas = fragmentar(palabras, args.tamano, args.solapamiento)
 

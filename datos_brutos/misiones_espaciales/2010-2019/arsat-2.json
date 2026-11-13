@@ -1,0 +1,46 @@
+{
+  "id": "doc_1284",
+  "titulo": "ARSAT-2",
+  "titulo_wikipedia_en": "ARSAT-2",
+  "fecha_lanzamiento": "2015-09-30",
+  "año_lanzamiento": 2015,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Estación espacial",
+    "Satélite de comunicaciones",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/ARSAT-2",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Comunicaciones",
+    "Operador": "ARSAT",
+    "Fabricante": "INVAP",
+    "Fecha de lanzamiento": "30 de septiembre de 2015",
+    "Lugar de lanzamiento": "Puerto espacial de Kourou, Guayana Francesa",
+    "Vehículo de lanzamiento": "Ariane 5 (agencia europea)",
+    "Duración planificada": "15 años",
+    "ID COSPAR": "2015-054B",
+    "Masa en el lanzamiento": "2.900 kg",
+    "Sistema de referencia orbital": "Geoestacionaria",
+    "Órbita RAAN": "81° oeste",
+    "Trans cobertura": "América"
+  },
+  "resumen": "El ARSAT-2 es un satélite de comunicaciones geostacionario íntegramente diseñado, construido y ensayado por la empresa argentina INVAP, el cual es operado por la compañía ARSAT, también estatal y argentina. Fue lanzado el 30 de septiembre de 2015 y está localizado en el slot geoestacionario en la longitud 81 ° oeste. Su cobertura será tanto Sudamérica como gran parte de América del Norte.",
+  "secciones": [
+    {
+      "titulo": "Historia",
+      "nivel": 2,
+      "texto": "Originalmente el lanzamiento estaba programado para la segunda mitad de 2013. En febrero de 2014 finalizó el acoplado de los módulos de servicio y comunicaciones.\nEl lanzamiento del satélite contó con el respaldo de un broker internacional, cuyo contrato de seguro se firmó en abril de 2014, junto con el del satélite ARSAT-1. En agosto del mismo año comenzaron los ensayos en el Centro de Ensayos de Alta Tecnología.\nPara junio de 2015, ya se había completado la construcción del satélite de comunicaciones, y se encontraba transitando el período de pruebas en San Carlos de Bariloche. Fue trasladado a la Guyana Francesa en agosto del mismo año y lanzado el 30 de septiembre de 2015 a bordo de un Ariane 5 desde el Puerto espacial de Kourou.\nTanto como el ARSAT-1 como con el ARSAT-2, el gobierno de Argentina apuntó, según fuentes oficiales, al ahorro de unos de 25 millones de dólares anuales en gastos a empresas de telecomunicaciones extranjeras. Además permitió que el país no perdiera las posiciones orbitales 72 y 81, que le asignó la Unión Internacional de Telecomunicaciones, ya que el Reino Unido aspiraba a ese slot geoestacionario. Estas enfocan desde Estados Unidos hasta las Islas Malvinas.\nEl 11 de junio de 2015, la Secretaría de Comunicaciones de Argentina autorizó a la empresa Arsat a ubicar al satélite ARSAT-2 en la posición orbital de 81° Oeste, que tiene cobertura desde América del Norte hasta la isla Grande de Tierra del Fuego.\nA mediados de 2016, el satélite comenzó a operar siendo utilizado por una compañía de televisión por cable y América Móvil. También se sumó el Grupo Clarín y la señal de TyC Sports."
+    },
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "El ARSAT-2 está equipado con 26 transpondedores en la banda Ku y 10 en banda C para proporcionar una amplia gama de servicios de telecomunicaciones, tales como la transmisión de datos, Internet y televisión, sobre todo en el continente americano, desde Argentina hasta Canadá. El satélite tiene una masa de lanzamiento de 2900 kg y su vida útil estimada es de 15 años.\nFue construido en conjunto con el ARSAT-1 y comparte muchas de sus características de construcción, pero transportando un mayor número de transpondedores. El gobierno de la época publicitó los lanzamientos como de satélites enteramente nacionales, difundiendo que el 50 % del satélite está hecho con piezas de fabricación argentina, lo que sería un porcentaje similar al que tienen los satélites geoestacionarios fabricados en Francia, uno de los países con mayor experiencia en el rubro. Esta afirmación fue puesta en duda por la prensa extranjera, concretamente el diario español \"El País\", que se refirió al ARSAT-1, irónicamente, como \"el satélite 100 % argentino que se fabricó en Europa\". Otros cálculos concluyeron que más del 60% de los componentes claves -propulsión, carga útil, sensores, antenas- eran importados, e incluso dentro del 30% que corresponde al aporte nacional, muchos equipos (paneles solares, computadoras, chips resistentes a la radiación) también eran de origen extranjero."
+    }
+  ],
+  "num_palabras": 553
+}

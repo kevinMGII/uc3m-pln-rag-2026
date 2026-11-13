@@ -1,0 +1,39 @@
+{
+  "id": "doc_0642",
+  "titulo": "MOS-1",
+  "titulo_wikipedia_en": "MOS-1 (satellite)",
+  "fecha_lanzamiento": "1987-02-19",
+  "año_lanzamiento": 1987,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de observación terrestre",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/MOS-1",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Dado de baja el 29 de noviembre de 1995",
+    "Tipo de misión": "Observación terrestre",
+    "Operador": "NASDA",
+    "Fecha de lanzamiento": "19 de febrero de 1987\n01:23:00 UTC",
+    "Duración planificada": "2 años (prevista)\n8 años, 9 meses y 9 días (real)",
+    "Masa en el lanzamiento": "750 kg",
+    "Sistema de referencia orbital": "Circular heliosincrónica",
+    "Periapsis": "909 km",
+    "Inclinación orbital": "99.1°",
+    "Periodo orbital": "103,2 minutos",
+    "Instrumentos": "MESSR (Multi-Spectral Electronic Self-Scanning Radiometer)\nVTIR (Visible and Thermal Infrared Radiometer)\nMSD (Micro Scanning Radiometer)\nDCS (Data Collection System)"
+  },
+  "resumen": "El Marine Observation Satellite-1 (MOS-1), también conocido con el nombre de Momo-1, fue el primer satélite de observación de la Tierra japonés. Fue lanzado el 19 de febrero de 1987 en un cohete N-2 (vuelo N-16F) desde el centro espacial de Tanegashima. Fue construido por NEC Corporation y operado por la Agencia Nacional de Desarrollo Espacial de Japón (NASDA).\nSe encuentra en una órbita polar de aproximadamente 900 km de altitud, aunque desde el 29 de noviembre de 1995 está dado de baja.",
+  "secciones": [
+    {
+      "titulo": "Instrumentos",
+      "nivel": 2,
+      "texto": "MOS-1 tiene cuatro instrumentos:\nMulti-Spectral Electronic Self-Scanning Radiometer (MESSR), escanea con una resolución de 50 m, en dos bandas espectrales visibles y dos infrarrojas, en dos franjas de 100 km.\nVisible and Thermal Infrared Radiometer (VTIR), escanea con una resolución mucho menor, en una banda visible y tres bandas infrarrojas, en una franja de 1.500 km.\nMicro Scanning Radiometer (MSR), mide la emisión de microondas en las bandas de 23 GHz y 31 GHz.\nData Collection System (DCS), es un transpondedor experimental."
+    }
+  ],
+  "num_palabras": 165
+}

@@ -1,0 +1,29 @@
+{
+  "id": "doc_1247",
+  "titulo": "Sentinel-1",
+  "titulo_wikipedia_en": "Sentinel-1",
+  "fecha_lanzamiento": "2014-04-03",
+  "año_lanzamiento": 2014,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Sentinel-1",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Programa": "Sentinel",
+    "Misión siguiente": "Sentinel-2"
+  },
+  "resumen": "Sentinel-1 es un satélite artificial de órbita polar de la ESA dentro del Programa Copérnico destinado a la monitorización terrestre y de los océanos. Fue lanzado al espacio el 3 de abril de 2014 desde el puerto espacial de Kourou, en la Guayana Francesa, mediante un cohete Soyuz.\nSu instrumento principal es un radar de apertura sintética (SAR) en la banda C, el cual es utilizado con frecuencia para la vigilancia del tráfico marítimo, el hielo marino, los derrames de petróleo, los terremotos y los deslizamientos de tierra y para la creación de cartografía. El gran activo de cualquier satélite SAR es que puede proveer imágenes durante el día y la noche y en cualquier condición meteorológica. Aunque se puede extraer información de las imágenes del SAR capturadas per se, por lo general estas imágenes se procesan posteriormente para su análisis.",
+  "secciones": [
+    {
+      "titulo": "Descripción general",
+      "nivel": 2,
+      "texto": "La misión se componía originalmente de una constelación de dos satélites, Sentinel-1A y Sentinel-1B, que compartían el mismo plano orbital. Sentinel-1B se retiró tras un problema de suministro de energía el 23 de diciembre de 2021, lo que dejó a Sentinel-1A como el único satélite de la constelación en funcionamiento hasta el lanzamiento exitoso de Sentinel-1C el 5 de diciembre de 2024. Sentinel-1D está en desarrollo y su lanzamiento está previsto para noviembre de 2025.\nEl primer satélite, Sentinel-1A, se lanzó el 3 de abril de 2014, y el Sentinel-1B se lanzó el 25 de abril de 2016. Ambos satélites despegaron del Centro Espacial de Guayana en Kourou, Guayana Francesa, en un cohete Soyuz. El Sentinel-1D está en desarrollo. Una falla del equipo del Sentinel-1B en diciembre de 2021 aceleró los trabajos del Sentinel-1C, que se lanzó con éxito en diciembre de 2024.\nLos satélites tienen una órbita heliosincrónica, casi polar (inclinación de 98,18 °). Sus órbitas tienen un ciclo de repetición de 12 días y completan 175 órbitas por ciclo (con un período orbital de 98,6 minutos). Operan a 693 km de altitud, con estabilización de altitud en tres ejes.\nLas políticas de la Agencia Espacial Europea y la Comisión Europea facilitan el acceso a los datos de Sentinel-1. Diversos usuarios pueden adquirirlos y utilizarlos con fines públicos, científicos o comerciales de forma gratuita."
+    }
+  ],
+  "num_palabras": 366
+}

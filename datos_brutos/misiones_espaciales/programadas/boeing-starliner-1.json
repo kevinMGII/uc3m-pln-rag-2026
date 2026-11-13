@@ -1,0 +1,51 @@
+{
+  "id": "doc_1611",
+  "titulo": "Boeing Starliner-1",
+  "titulo_wikipedia_en": "Boeing Starliner-1",
+  "fecha_lanzamiento": "2027-01-14",
+  "año_lanzamiento": 2027,
+  "estado": "programada",
+  "tipo_mision": [
+    "Misión tripulada",
+    "Estación espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Boeing_Starliner-1",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Duración de la misión": "No determinada",
+    "Nave": "CST-100 Starliner Calypso",
+    "Fabricante": "Boeing",
+    "Fecha de lanzamiento": "No determinada",
+    "Vehículo de lanzamiento": "Atlas V N22",
+    "Lugar de lanzamiento": "Cabo Cañaveral, SLC-41",
+    "Masa en el lanzamiento": "13.000 kg",
+    "Fecha de aterrizaje": "No determinada",
+    "Acoplamiento": "objetivo acople: ISS | tipo acople: acople | puerto acople: Harmony PMA/IDA frontal o zénit | tiempo acoplado: Seis meses (planeado)",
+    "Sistema de referencia orbital": "Geocéntrica",
+    "Régimen orbital": "Órbita baja terrestre",
+    "Inclinación orbital": "51.6°",
+    "Programa": "Programa de Tripulación Comercial",
+    "Misión anterior": "TBA",
+    "Misión siguiente": "TBA",
+    "Programa (2)": "Starliner",
+    "Misión anterior (2)": "Boe-CFT",
+    "Misión siguiente (2)": "Boeing Starliner-2"
+  },
+  "resumen": "Boeing Starliner-1 será la primera misión operacional de la Boeing CST-100 Starliner a la Estación Espacial Internacional, y según lo planeado será el cuarto vuelo orbital en total de la cápsula, Estaba prevista como la primera misión operacional tripulada tras el Vuelo de Prueba de Tripulación (CFT) de Boeing. Tras los significativos problemas técnicos que encontró la misión CFT, la NASA y Boeing reestructuraron el programa, y Starliner-1 volará ahora como una misión de carga no tripulada. El lanzamiento estaba planeado para no antes de abril de 2026, pero fue pospuesto indefinidamente.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Starliner-1 fue manifestado originalmente como un vuelo de rotación tripulado a la EEI, con varios astronautas asignados y reasignados debido a retrasos en el programa. En abril de 2022, la NASA anunció que no había finalizado la asignación de tripulantes dentro del grupo de astronautas del Starliner, entre ellos Barry Wilmore, Michael Fincke y Sunita Williams. Williams y Wilmore fueron asignados posteriormente a la misión tripulada CFT.\nSe produjeron múltiples cambios de tripulación conforme se acumulaban los retrasos. Williams, inicialmente planeada para Starliner-1, fue reasignada a la CFT. Jeanette Epps fue incorporada a Starliner-1 en 2020, pero trasladada a la SpaceX Crew-8 en 2023. Koichi Wakata se unió a la misión en mayo de 2021 y posteriormente fue transferido a la SpaceX Crew-5 ese mismo año.\nEl 27 de marzo de 2025, Fincke y Yui fueron reasignados a la SpaceX Crew-11, y el 4 de noviembre de 2025, Tingle asumió el cargo de Jefe de la Oficina de Astronautas. El 24 de noviembre de 2025, la NASA anunció que Starliner-1 volaría sin tripulación, y Kutryk fue retirado del vuelo. La primera misión de rotación tripulada se espera ahora que sea el Boeing Starliner-2, de lograrse la certificación."
+    },
+    {
+      "titulo": "Misión",
+      "nivel": 2,
+      "texto": "Esta misión marcará la primera reutilización de una Starliner. El vehículo iba a ser usado inicialmente en la misión Boeing-OFT en diciembre de 2019. El 22 de diciembre de 2019 la comandante Sunita Williams anunció que la nave se llamaría \"Calypso\". Calypso ahora se utilizará en la Boe-CFT.\nInternamente, en Boeing, la empresa esperaba poner en funcionamiento la nave Starliner para ocupar un puesto en el Programa de Tripulación Comercial (Commercial Crew Program) en 2025. Sin embargo, no logró tener la nave operativa a tiempo. No fue sino hasta que Steve Stich, director del programa, ofreció una conferencia de prensa el 10 de julio de 2025, que se explicó con más detalle la situación en torno a la misión futura. Stich declaró que el próximo vuelo del Starliner probablemente sería una misión de carga no tripulada, y que el principal obstáculo en el desarrollo de la nave eran las válvulas del oxidante: en particular, los controles de temperatura necesarios para los pulsos efectivos de combustible y oxidante a través de estas válvulas no alcanzaban el nivel considerado aceptable por la NASA. No obstante, afirmó que se estaba avanzando de manera constante para resolver el problema. Stich concluyó diciendo que la NASA se mostraba optimista en que otro vuelo tripulado del Starliner pudiera realizarse en la segunda posición del programa hacia finales de 2026."
+    }
+  ],
+  "num_palabras": 512
+}

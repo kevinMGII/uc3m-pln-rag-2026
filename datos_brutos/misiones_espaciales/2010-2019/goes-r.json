@@ -1,0 +1,129 @@
+{
+  "id": "doc_1313",
+  "titulo": "GOES-R",
+  "titulo_wikipedia_en": "GOES-16",
+  "fecha_lanzamiento": "2016-11-19",
+  "año_lanzamiento": 2016,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Estación espacial",
+    "Satélite de comunicaciones",
+    "Satélite de observación terrestre",
+    "Satélite meteorológico",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/GOES-R",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Fecha de lanzamiento": "Space Launch Complex-41 at Cape Canaveral Air Force Station, Florida",
+    "Inclinación orbital": "0.01°",
+    "Apoapsis": "35.286 km",
+    "Periapsis": "8.099 km",
+    "Nave de llegada": "Atlas V541 AV-069",
+    "Programa": "GOES",
+    "Misión anterior": "GOES-15",
+    "Misión siguiente": "GOES-17"
+  },
+  "resumen": "El satélite geoestacionario ambiental operacional GOES-R, hoy conocido como GOES 16, es la generación próxima de satélites geosincrónicos ambientales. Su misión es proporcionar mediciones atmosféricas y de superficie del hemisferio occidental de la Tierra para pronóstico del tiempo, tormentas severas, control de tiempo espacial y búsqueda meteorológica. El GOES-R se lanzó el 19 de noviembre de 2016.",
+  "secciones": [
+    {
+      "titulo": "Visión general",
+      "nivel": 2,
+      "texto": "GOES-R continua con la serie a los corrientes GOES utilizado por la NOAA Servicio Meteorológico Nacional para control de tiempo y pronóstico de operaciones así como por investigadores para interacciones comprensivas entre tierra, océano, atmósfera y clima.\nEl programa GOES-R de serie es un desarrollo y esfuerzo de adquisición entre NOAA y NASA para desarrollar, desplegar y operar satélites. Están dirigidos desde el Goddard Centro de Vuelo Espacial en Greenbelt, Maryland. El GOES-R se lanzó en 2016. La serie GOES-R (GOES-R, S, T, & U) extenderá la disponibilidad operacional GOES de sistemas de satélite hasta 2036.\nGOES-R marca un avance tecnológico en observaciones geoestacionarias. Comparado a los actuales GOES, adelanta instrumentos y procesamiento de datos proporcionando:\nTres veces más información espectral\nResolución espacial cuatro veces más grande\nCobertura cinco veces más rápida\nMapeo en tiempo real de actividad de relámpagos\nAumento de pronósticos de tormentas y mejora en los tiempos de aviso de tornado\nMejora de seguimiento de huracanes y previsiones de intensidad\nControl mejorado del flujo de rayos x solares\nControl mejorado de fulguraciones solares y eyecciones de masa coronal\nMejora de pronósticos de tormenta geomagnética"
+    },
+    {
+      "titulo": "Satélite",
+      "nivel": 2,
+      "texto": "El satélite GOES-R A2100 está construido sobre un bus estabilizado triaxial y diseñado para 10 años de operación de órbita precedida por hasta 5 años de almacenamiento de órbita. Proporcionará observaciones casi continuas, así como aislamiento de vibraciones para el banco óptico apuntado a la Tierra y las interfaces de alta velocidad de las naves espaciales a los instrumentos diseñadas para maximizar la recopilación de datos. El tiempo acumulado en que la recolección de datos científicos del GOES-R (incluyendo imágenes) es interrumpida por maniobras de manejo de momento, mantenimiento de estación y maniobras de giro de guiñada será menor de 120 min / año. Esto representa un casi dos órdenes de magnitud comparado con los actuales GOES."
+    },
+    {
+      "titulo": "Instrumentos",
+      "nivel": 2,
+      "texto": "El GOES-R instrumento suite incluye tres tipos de instrumentos: sensores de tierra, imágenes solares, y el entorno espacial que mide."
+    },
+    {
+      "titulo": "Tierra",
+      "nivel": 3,
+      "texto": "Dos instrumentos apuntan hacia Tierra:"
+    },
+    {
+      "titulo": "Advanced Baseline Imager",
+      "nivel": 4,
+      "texto": "El Advanced Baseline Imager (ABI), diseñado y construido por Exelis Geospatial Sistemas (ahora Harris Sistemas & Inteligencia Espacial) es el instrumento primario del GOES-R para imágenes del tiempo de la tierra, clima y entorno. ABI será capaz de ver la Tierra a través de 16 bandas espectrales, incluyendo dos canales visibles, cuatro canales infrarrojo cercano y diez canales infrarrojos. Proporcionará tres veces más información espectral, cuatro veces la resolución espacial, y más de cinco veces de cobertura más rápida. Los meteorólogos serán capaces de utilizar las imágenes de resolución más altas para seguir el desarrollo de tormentas en sus etapas tempranas. Los instrumentos casi idénticos a ABI ha sido entregada a Japón para uso en Himawari 8 y 9."
+    },
+    {
+      "titulo": "Mapeador Geoestacionario de Rayos",
+      "nivel": 4,
+      "texto": "El GOES-R Mapeador Geoestacionario de Relámpagos (GLM) tomará de continuo día y noche medidas de frecuentes intra-relámpago de nubes que acompañan muchos tormentas severas, y dará incluso la presencia de nubes cirrus de maduras tormentas que puede ocultar la convección subyacente del imager. La búsqueda y el testaje ha demostrado el GLM potencial para mejora en tiempo de ventaja de aviso de tornado y reducción de índice de alarma falsa. Está anticipado que los datos del GLM tendrá aplicaciones a servicios de tiempo de la aviación, estudios climatológicos, y previsiones de severas tormentas y avisos. El GLM proporcionará información para identificar crecimiento, actividad, y potencialmente destructivo tormentas encima de la tierra así como áreas oceánicas.\nLos estudios muestran que un aumento repentino en Actividad de Relámpago Total—o índice de centelleo—correlacionando con un aumento en intensidad de tormenta. Así, un aumento significativo en una tormenta del índice de centelleo puede significar una tormenta que devendrá severo y causando vientos, granizo grande, y/o tornados."
+    },
+    {
+      "titulo": "Sol",
+      "nivel": 3,
+      "texto": "Dos instrumentos apuntan hacia el Sol:"
+    },
+    {
+      "titulo": "Imágenes Solares Ultravioletas",
+      "nivel": 4,
+      "texto": "Solar Ultravioleta Imager (SUVI) es un telescopio que observa el Sol en el extremo ultravioleta (EUV) gama de longitud de onda. SUVI observará y caracterizará regiones complejas, activas del Sol, fulguraciones solares y erupciones de filamentos solares que puede dar aumento a eyecciones coronales de masa. Dependiendo de la medida y la trayectoria de erupciones solares, los efectos posibles al entorno de la Tierra, referido a tiempo espacial, incluye la disrupción de utilidades de poder, comunicación y sistemas de navegación y daño posible a satélites orbitando y a la Estación Espacial Internacional. Las observaciones SUVI de las fulguraciones y las erupciones solares proporcionarán un aviso temprano de impactos posibles al entorno de Tierra y habilitará mejorar pronósticos de potencialmente acontecimientos disruptivos."
+    },
+    {
+      "titulo": "Extremo ultravioleta (EUVS) / Sensores de Irradiancia de Rayos X",
+      "nivel": 4,
+      "texto": "El Extremo Ultravioleta y los Sensores de Irradiancia de Rayos X (EXIS) detecta irradiancia de rayos x blandos solares y extremo ultravioleta espectral en la gama de 5 a 127 nm. El Sensor de rayos X (XRS) controla fulguraciones solares que pueden interrumpir comunicaciones y degradar la exactitud navegacional, afectando satélites, astronautas, pasajeros de aerolínea de latitudes altas y rendimiento de redes eléctricas. El Sensor de Ultravioleta Extremo controla variaciones solares que directamente afectan el satélite arrastre/seguimiento y cambios ionosféricos, los cuales impactan en comunicaciones y operaciones de navegación. Esta información es crítica a entender las capas exteriores de la atmósfera de la Tierra."
+    },
+    {
+      "titulo": "Entorno espacial",
+      "nivel": 3,
+      "texto": "Dos in-situ instrumentos controlarán su entorno espacial propio:"
+    },
+    {
+      "titulo": "Suite de Entorno espacial In-Situ",
+      "nivel": 4,
+      "texto": "La Suite de Entorno Espacial In-Situ (SEISS) consta de una variedad de sensores que controlarán flujos de protones, electrones y iones pesados en órbita geosincrónica. Tales datos se utilizarán para evaluar riesgos de radiación a astronautas y satélites. Además de valorar riesgos, sus datos pueden advertir de acontecimientos de altos flujos, mitigando daños a comunicaciones radiofónicas. El instrumento consta de un Sensor de Ion Pesado Energético (EHIS), el Sensor Magnetosférica de Partícula - Alto y Bajo (MPS-HI y MPS-LO), y el Sensor de Protón Solar y Galáctico (SGPS). Los datos conducirán la porción de la tormenta de radiación solar en escalas del tiempo del espacio de NOAA y de otras alertas y advertencias y mejorarán las previsiones solares de las partículas energéticas."
+    },
+    {
+      "titulo": "Magnetómetro",
+      "nivel": 4,
+      "texto": "El GOES-R Magnetómetro (MAG) medirá el entorno espacial campo magnético que controla la dinámica de partículas cargadas en la región exterior de la magnetósfera. Esas partículas pueden ser peligrosas a aeronaves y a vuelos espaciales con humanos. Las medidas de campo geomagnéticas proporcionarán alertas y avisos a operadores de satélite y utilidades de poder. Este dato también será utilizado en investigaciones. Los productos de datos serán parte de NOAA operaciones del tiempo espacial, proporcionando información en el nivel general de actividad geomagnética y permite detección de tormentas magnéticas repentinas. Además, las medidas solares validarían modelos de entorno espacial utilizados en operaciones."
+    },
+    {
+      "titulo": "Servicios únicos de carga útil",
+      "nivel": 2,
+      "texto": "Los Servicios de carga útil (UPS) consta de cargas útiles del transponder proporcionando servicios de relé de comunicaciones además de datos de misiones primarias. La Suite UPS consta del Sistema de Colección del Dato (DCS), la Transmisión de Información de Índice Alta/Información de Tiempo de Directores de Emergencia Red (HRIT/EMWIN), GOES-R Rebroadcast (GRB), y la Búsqueda y Satélite de Rescate (SARSAT).\nEl GOES-R Rebroadcast (GRB) es el relé espacial primario de Nivel 1b productos y reemplazará el Servicio GOES Variable (GGOESR). GRB proporcionará resolución llena, navegación calibrada, datos cronometrados cercano-real de emisión directa. El dato distribuido vía GRB el servicio será el conjunto lleno de Nivel 1b productos de todos los instrumentos a bordo el GOES-R aeronave de serie. Este concepto GRB se basa en el análisis de un dual-polo circularmente-polarizado enlace de L bandas de 12 MHz ancho de banda apoyando hasta un 31-megabits/s (Mbps) índice de dato – bastante para incluir todo ABI canales en un formato comprimido así como dato de GLM, SUVI, EXIS, SEISS y MAG.\nEl Sistema de Colección del Dato (DCS) es un sistema de relé utilizado para recoger información de un número grande de plataformas que transmite datos in-situ de un sensor ambiental en predefinidas frecuencias y programas, en respuesta a umbrales en condiciones sensuadas, o en respuesta a peticiones. Mejoras al Programa DCS durante la era GOES-R incluye expansión en el número de usuario de canales de plataforma de 266 a 433.\nLa Red de Información de Tiempo de Directores de Emergencia (EMWIN) es un servicio directo que proporciona usuarios con previsiones de tiempo, avisos, gráfico y otra información directamente del Servicio de Tiempo Nacional en tiempo real cercano. El Servicio GOES EMWIN de relé es una de suite de métodos para transmitir esos productos para usuarios finales. El Servicio HRIT proporciona retransmisiones de baja resolución y los datos GOES de imágenes del satélite y seleccionó productos a usuarios localizados en HRIT terminales.\nComo una parte integral de la investigación internacional y programa de satélite del rescate COSPAS-SARSAT, NOAA operando la Búsqueda y Rescate de Satélite (SARSAT) Sistema para detectar y localizar marineros, aviadores y otros usuarios recreativos en distress en el mundo en cualquier tiempo y debajo casi cualesquier condiciones. Este sistema utiliza una red de satélites para detectar y localizar señales de distress de aradiobalizas de emergencia a bordo de aeronaves, barcos y personales (PLB). El transponder SARSAT en el GOES-R proporcionará la capacidad a inmediatamente detectar señales de distress de radiobalizas de emergencia y relé a estaciones de tierra - Terminales de Usuario Locales. De vuelta, esa señal es ruteada a un Centro de Control de la Misión SARSAT y enviado a una Coordinación de Rescate Central que despachará un equipo de rescate a la ubicación del distress."
+    },
+    {
+      "titulo": "Sistema de tierra",
+      "nivel": 2,
+      "texto": "La NOAA está desarrollando un sistema de tierra (GS) para recibir datos y generar y distribuirlos en tiempo real. Las funciones claves del GS es Administración de Misión, Generación de Producto, Distribución de Producto e Infraestructura de Administración/de la Empresa. El sistema de tierra operará de ubicaciones múltiples:\nNOAA Facilidad de Operaciones del satélite (NSOF): localizado en Suitland, MD, el NSOF albergará la mayoría de GOES-R operaciones de misión. El EM, PG, y PD las funciones serán actuadas allí. La mayoría de operaciones y personal de producto también se albergarán en NSOF. Cuatro antenas existentes de 9,1 m serán actualizadas para compatibilidad con GOES-R. Estas antenas mantendrán compatibilidad con existentes satélites GOES y operará continuamente por la vida del GOES-R serie.\nWallops Orden y Adquisición de Dato Estación (WCDAS): localizado en Wallops, GOES, WCDAS será el sitio primario para la frecuencia radiofónica (RF) espacial-a-tierra. Nivel data 1b será procesado en WCDAS al producto GOES Rebroadcast (GRB) para satélite. WCDAS también proporcionará enlace a los satélites de apoyo a UPS. Tres nuevas antenas de 16,4 m se construirán en WCDAS. Diseñadas para resistir vientos de 110 mph resistiendo un huracán Cat 2) y para sobrevivir a rachas de hasta 150 mph (Cat. 4 de huracán). Esas antenas serán compatibles con GOES existentes y operará continuamente por la vida del GOES-R serie.\nCopia de seguridad remota (RBU) Facilidad: localizado en Fairmont, WV, RBU la función primaria será apoyar operaciones de contingencia y actuar las funciones críticas de NSOF y WCDAS a través de la producción y distribución de productos de propiedad. RBU proporcionará generación de producto para todos los parámetros de rendimiento claves (KPPs). También como copia de seguridad durante testaje de equipamiento del sistema o mantenimiento. Tres nuevas antenas de 16,4 m se construirán allí a las mismas especificaciones de WCDAS."
+    },
+    {
+      "titulo": "Comunidad de usuarios",
+      "nivel": 2,
+      "texto": "GOES-R prepara a la comunidad de usuarios sobre datos de satélite para los tipos venideros de imágenes y datos. Los usuarios incluyen a individuos, compañías e instituciones.\nLos datos GOES-R esperan una variedad amplia de usuarios. Usuarios grandes, institucionales pueden explotar los aumentos en espectrales, temporal y en resolución espacial para exactitud más grande. GOES-R será utilizado en tiempo real de por vida y para pronósticos y aplicaciones principalmente por el Servicio de Tiempo Nacional, donde estos usuarios serán capaces de evaluar tormentas severas. Otro público más pequeño y usuarios de sector privado serán capaces de obtener datos GOES-R a través de sus estaciones de Tierra propias, o a través de distribuciones de red."
+    },
+    {
+      "titulo": "Institutos cooperativos",
+      "nivel": 3,
+      "texto": "Institutos cooperativos (CIs) son instituciones no federales académicas y sin ánimo de lucro apoyadas por NOAA proporcionando recursos a la misión de la agencia, objetivos, y planes estratégicos. Ocho NOAA CIs soportan GOES-R:\nInstituto cooperativo para Clima y Satélites (CICS)\nInstituto cooperativo para Búsqueda de Alaska (CIFAR)\nInstituto cooperativo para Mesoscale Estudios Meteorológicos (CIMMS)\nInstituto cooperativo para Estudios de Satélite Meteorológico (CIMSS)\nInstituto cooperativo para Estudios de Satélite Oceanográfico (CIOSS)\nInstituto cooperativo para Búsqueda en la Atmósfera (CIRA)\nInstituto cooperativo para Búsqueda en Ciencias Medioambientales (CIRES)\nInstituto de junta para Búsqueda Marina y Atmosférica (JIMAR)"
+    },
+    {
+      "titulo": "Polígono de prueba",
+      "nivel": 3,
+      "texto": "Muchos productos GOES-R serán apuntados en controlar tiempo severo y ayudar a meteorólogos emitir avisos de tiempo severo más tempranos y más cuidadosos. El Polígono de prueba se estableció en preparar meteorólogos operacionales para la cantidad de datos que dispondrán con el GOES-R y asegurar la utilización máxima cuando los satélites se lancen y estén operacionales. Sus objetivos son: entrenar meteorólogos para utilizar productos nuevos, identificando utilidades diferentes de cada producto, identificando debilidades o errores con cada producto, usuario-desarrollo de retroalimentación, y preparación para las operaciones del GOES-R."
+    },
+    {
+      "titulo": "Vehículo lanzador",
+      "nivel": 2,
+      "texto": "El 19 de noviembre de 2016, a las 23:42 UTC, el satélite GOES-R se lanzó a bordo de un Atlas V 541 vehículo lanzador consumible desde el Complejo Lanzador Espacial 41 en Cabo Cañaveral Estación de Fuerza del Aire, Florida. El concepto \"vehículo lanzador consumible\" significa que cada vehículo se utiliza una vez. Los tres números 541 señalan una cofia (astronáutica), o cono de nariz, de aproximadamente 5 m (16.4 pies) de diámetro, cuatro cohete sólido boosters junto al núcleo común central booster y un solo motor Centauro en etapa superior."
+    },
+    {
+      "titulo": "Atribuciones",
+      "nivel": 2,
+      "texto": "Este artículo incorpora material de dominio públicodel Nacional Aeronautics y Misión de documento de Administración \"Espacial Visión general\".\nEste artículo incorpora del Nacional Aeronautics y documento de Administración Espacial que \"Prueba Tierra\".\nEste artículo incorpora del Nacional Aeronautics y documento de Administración Espacial \"GOES-R Visión general de Aeronave\".\nEste artículo incorpora del Nacional Aeronautics y documento de Administración Espacial \"EUV y radiografía Irradiance Sensores (EXIS)\".\nEste artículo incorpora del Nacional Aeronautics y documento de Administración Espacial \"Entorno Espacial En-Situ Suite (SEISS)\".\nEste artículo incorpora del Nacional Aeronautics y Magnetómetro de documento de Administración \"Espacial (MAG)\".\nEste artículo incorpora material de dominio público del Nacional Aeronautics y documento de Administración Espacial \"GOES-R Unique Payload Servicios (UPS)\".\nEste artículo incorpora material de dominio público del Nacional Aeronautics y Programa de documento de Administración \"Espacial Visión general de Ingeniería de los Sistemas\".\nEste artículo incorpora material de dominio público del Nacional Aeronautics y Usuario de documento de Administración \"Espacial Readiness Visión general\"."
+    }
+  ],
+  "num_palabras": 2435
+}

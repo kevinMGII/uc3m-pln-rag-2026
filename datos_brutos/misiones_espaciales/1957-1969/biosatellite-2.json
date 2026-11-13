@@ -1,0 +1,38 @@
+{
+  "id": "doc_0212",
+  "titulo": "Biosatellite 2",
+  "titulo_wikipedia_en": "Biosatellite 2",
+  "fecha_lanzamiento": "1967-09-07",
+  "año_lanzamiento": 1967,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite científico",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Biosatellite_2",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Retornado a la Tierra",
+    "Tipo de misión": "Experimentos biológicos",
+    "Operador": "NASA",
+    "Fecha de lanzamiento": "7 de septiembre de 1967",
+    "Lugar de lanzamiento": "Cabo Cañaveral",
+    "Vehículo de lanzamiento": "Delta",
+    "ID NSSDC": "1967-083B",
+    "Masa en el lanzamiento": "955 kg",
+    "Tipo de fin de misión": "reingreso",
+    "Fecha de reentrada": "19 de enero de 1968"
+  },
+  "resumen": "Biosatellite 2 (también conocido como Biosatellite-B) fue un satélite artificial de la NASA lanzado el 7 de septiembre de 1967 mediante un cohete Delta desde Cabo Cañaveral. Regresó a tierra el 19 de enero de 1968.",
+  "secciones": [
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "Biosatellite 2 llevaba 13 experimentos a bordo para el estudio de los efectos del vuelo espacial en los procesos vitales. A bordo iban insectos, huevos de rana, microorganismos y plantas, entre otros especímenes. El objetivo principal de la misión era determinar si los organismos vivos son más o menos sensibles a la radiación ionizante en microgravedad o en la Tierra, para lo cual en el morro del satélite se incluía una fuente de radiación.\nLa cápsula de reentrada fue recuperada con éxito tras 45 horas de microgravedad, regresando más de un día antes de lo previsto por problemas de comunicaciones con la cápsula y amenaza de tormenta en el área de recuperación."
+    }
+  ],
+  "num_palabras": 148
+}

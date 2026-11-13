@@ -1,0 +1,83 @@
+{
+  "id": "doc_0827",
+  "titulo": "Iridium",
+  "titulo_wikipedia_en": "Iridium Communications",
+  "fecha_lanzamiento": "1997-05-05",
+  "año_lanzamiento": 1997,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Otro vuelo espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Iridium",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "En activo",
+    "Tipo de misión": "Comunicaciones",
+    "Operador": "Motorola, Inc. (original), Thales Alenia Space (NEXT)",
+    "Fecha de lanzamiento": "5 de mayo de 1997",
+    "Masa en el lanzamiento": "689 kilogramos",
+    "Sistema de referencia orbital": "Órbita baja terrestre"
+  },
+  "resumen": "Iridium es el nombre de una constelación de 66 satélites de comunicaciones que giran alrededor de la Tierra en 6 órbitas bajas LEO (Low Earth Orbit), a una altura aproximada de 780 km de la tierra. Cada una de las 6 órbitas consta de 11 satélites equidistantes entre sí. Los satélites tardan 100 minutos en dar la vuelta al mundo de polo a polo.",
+  "secciones": [
+    {
+      "titulo": "Historia",
+      "nivel": 2,
+      "texto": "La constelación Iridium fue diseñada por Motorola, Inc. para proveer Servicios Satelitales Móviles (SSM) con cobertura global. El sistema tiene como objetivo proveer comunicación de voz y datos utilizando dispositivos portátiles específicos en áreas fuera de cobertura de los sistemas de comunicación tradicional como telefonía fija o celular. Su nombre proviene del Elemento Iridio (Iridium) el cual tiene un número atómico de 77, equivalente al número de satélites que incluía la constelación en su diseño original.\nEste servicio, prohibido por razones políticas en Corea del Norte y Sri Lanka, fue puesto en funcionamiento el 1 de noviembre de 1998 y quebró financieramente el 13 de agosto de 1999. Esta quiebra fue debida en gran parte tanto a los elevados costos de los terminales móviles, 3.500,00 USD aproximadamente, como del servicio en sí, aproximadamente de 7 USD por minuto. Los precios de los teléfonos móviles terrestres, considerablemente más baratos, y la aparición de los acuerdos de itinerancia para el sistema GSM, durante la década que llevó la construcción del Iridium, proporcionó al sistema GSM una de las principales ventajas de Iridium: la cobertura global en áreas urbanas. Otro hecho que contribuyó a la quiebra de Iridium fue su incapacidad para proveer servicios de datos a alta velocidad, puesto que la constelación de satélites fue diseñada esencialmente solo para comunicaciones de voz. Actualmente Iridium ofrece comunicaciones de datos de 2,4 kbit/s nativos y un sistema de conexión a internet que emula 10 kbit/s, lo que limita las posibles aplicaciones, por lo que se lo usa, sobre todo, para el envío y recepción de correos electrónicos en formato de texto plano.\nActualmente, los sistemas de Iridium, que fue comprada y relanzada por nuevos socios, se utilizan activamente en mercados llamados verticales como los de petroleros, mineros, ecoturismo y militar. Después de los sucesos del 11 de septiembre de 2001 los organismos de seguridad estadounidenses utilizan sistemas Iridium como su sistema preferido de telecomunicaciones satelitales móviles de voz. Como ejemplo, la Fuerza Aérea de los Estados Unidos cuenta actualmente con más de 25 000 terminales activas.\nEn el 2010, el precio del teléfono satelital Iridium más moderno y único en producción, el Iridium 9555, era de aproximadamente 1.500,00 dólares en los EE. UU.. El costo por minuto de comunicación era de aproximadamente 1,30 USD. El costo por minuto es independiente del país en que se originen o terminen las llamadas. No existen cargos por itinerancia. Iridium cuenta con un sistema de envío y recepción de mensajes de texto que permite recibir hasta 150 mensajes de hasta 160 caracteres gratuitos por mes. Los teléfonos Iridium 9505A y el nuevo 9555 pueden también enviar correos electrónicos directamente utilizando su teclado numérico. El costo de cada correo electrónico enviado, que puede tener un máximo de 160 caracteres, es de aproximadamente 0,60 USD.\nIridium lanzó el año 2009 el servicio OpenPort, orientado principalmente al segmento marítimo, el cual permite transmisiones de datos de hasta 128 kbit/s con cobertura global. El costo actual del terminal Openport es aproximadamente 5.500,00 USD y el costo de transmisión/recepción de datos aproximadamente 5,00 USD por megabyte. A finales del año 2009 Iridium tenía ya vendidas 1000 terminales Openport.\nEl 12 de septiembre de 2011 Iridium comunicó oficialmente que sobrepasó los 500.000 usuarios en todo el mundo."
+    },
+    {
+      "titulo": "Iridium en la literatura",
+      "nivel": 3,
+      "texto": "La red y los equipos Iridium aparecen siendo utilizados por el personaje Dirk Pitt en las novelas del escritor estadounidense Clive Eric Cussler."
+    },
+    {
+      "titulo": "Constelación Iridium original",
+      "nivel": 2,
+      "texto": "Cada satélite Iridium contenía en 2014 siete procesadores Motorola/Freescale PowerPC 603E cada uno con una velocidad de reloj aproximada de 200 MHz, conectados por una red de backplane customizada. Un procesador se dedica al crosstalk de las antenas (\"HVARC\"), y dos procesadors (\"SVARC\"s) se dedican al control del satélite, unos sirviendo de repuesto. Más tarde se añadió otro procesador (\"SAC\") que fue añadido para la gestión de recursos y procesamiento de llamadas.\nCada satélite puede soportar hasta 1100 llamadas de teléfono a 2400 bit/s y pesa alrededor de 680 kg. El sistema Iridium opera en la banda de los 1618.85 a 1626.5 MHz, parte de la L-band, adyacente a la banda de Servicio de radiocomunicaciones 1610.6–1613.8 MHz."
+    },
+    {
+      "titulo": "Campaña de lanzamiento",
+      "nivel": 3,
+      "texto": "95 de los 99 satélites construidos fueron lanzados entre 1997 y 2002. Tres satélites fueron guardados en tierra como repuestos.\nLos 95 satélites fueron lanzados en 22 misiones (nueve misiones en 1997, diez en 1998, una en 1999 y dos en 2002). Una misión extra en un cohete Chang Zheng fue una prueba de carga y no llevaba ningún satélite.\nEl número de los satélites podría cambiar con el tiempo, de acuerdo con los distintos fallos y repuestos."
+    },
+    {
+      "titulo": "Repuestos en órbita",
+      "nivel": 3,
+      "texto": "Los satélites de repuesto suelen orbitar a 666 km en la “órbita de repuesto”. Estos pueden ser propulsados a la altitud correcta y puestos en servicio en el caso de que alguno de uno de los satélites fallen. Después de la bancarrota de la compañía Iridium, los nuevos dueños decidieron lanzar siete nuevos satélites de repuesto, que permitían tener dos satélites de repuesto en cada plano. No todos los planos tienen un satélite de repuesto, pero los satélites pueden ser movidos a un plano diferente en caso necesario. Sin embargo, la maniobra puede llevar varias semanas y consume combustible, lo cual acorta la vida útil del satélite."
+    },
+    {
+      "titulo": "Constelación Iridium-NEXT",
+      "nivel": 2,
+      "texto": "En 2017, Iridium empezó a lanzar Iridium NEXT, la segunda generación de red de telecomunicaciones de satélites, consistiendo de 66 satélites activos con otros 9 en órbita como repuestos y 6 en tierra como repuestos. Estos satélites incorporan mejoras como una mejor transmisión de datos, la cual no fue una prioridad en el diseño original. La constelación provee transmisión de datos en la banda L con velocidades de transmisión de datos de hasta 128 kbit/s en terminales móviles y 1.5 Mbit/s con terminales marítimas de Iridium Pilot. También provee un servicio de banda de alta velocidad Banda Ka de hasta 8Mbit/s a terminales fijas. Las terminales de siguiente generación y sus servicios empezaron a estar disponibles en 2018.\nLos satélites NEXT incorporan una carga secundaria para Aireon, un receptor de datos diseñado para control de tráfico aéreo desde el espacio, por medio de FilghtAware, por las aerolíneas. Una tercera carga en 58 satélites incluye un rastreador marino AIS para la compañía canadiense exactEarth Ltd.\nIridium NEXT también provee de enlace de datos para otros satélites en el espacio, permitiendo controlar y mandar información a otros vehículos espaciales, independientemiente de la posición de la estación de tierra."
+    },
+    {
+      "titulo": "Campaña de lanzamiento",
+      "nivel": 3,
+      "texto": "En junio de 2010, Iridium firmó el mayor lanzamiento de cohetes comerciales en ese tiempo con un contrato de US$492 millones con SpaceX, para lanzar 70 satélites Iridium NEXT en siete cohetes Falcon 9 de 2015 a 2017 en la Base de la Fuerza Aérea Vandenberg. Los dos primeros satélites fueron originalmente programados para ser lanzados en un solo lanzamiento de un ISC Kosmotras Dnepr. Varios problemas técnicos con sus consecuentes demandas de la aseguradora de Iridium hicieron retrasar los dos primeros satélites hasta abril de 2016.\nIridium NEXT incluía lanzar satélites en cohetes Ukranian Dnepr y SpaceX Falcon 9, con sus primeros satélites siendo lanzados en un Dnepr en abril de 2016. Sin embargo, en febrero de 2016, Iridium anunció un cambio. Debido a un largo retraso obteniendo los permisos de licencia de las autoridades rusas. Iridium rehízo la secuencia de lanzamiento para 75 satélites. Despegó exitosamente y desplegó 10 satélites con el cohete de Spacex el 14 de enero de 2017, aunque fue retrasado de su fecha inicial del 9 de enero. El 11 de marzo de 2017, un satélite Iridium NEXT se hizo cargo del trabajo de un satélite Iridium de primera generación.\nEn el momento del lanzamiento del primer lote de satélites, el segundo lote de diez satélites estaba planeado ser lanzado en abril de 2017. Sin embargo, el 15 de febrero, Iridium dijo que SpaceX había fijado el lanzamiento del segundo lote hasta mediados de junio de 2017. Este segundo lote fue lanzado el 25 de junio de 2017 transportaba otros diez satélites a una órbita LEO. Un tercer lanzamiento tuvo lugar el 9 de octubre de 2017 llevó otros diez satélites, las sucesivas todas has llevado diez satélites a órbita, menos la sexta misión que llevó cinco. Existen seis satélites adicionales en tierra como repuesto.\nEl número de los satélites podría cambiar con el tiempo, de acuerdo con los distintos fallos y repuestos.\nIridium 127 fue renumerado a Iridium 100. Los Iridium 101, 174, 177, 178, 179 y 181 están actualmente en tierra como repuestos."
+    },
+    {
+      "titulo": "Patentes y fabricación",
+      "nivel": 3,
+      "texto": "Las principales patentes en los sistemas Iridium son: U.S. Patents 5,410,728: \"Satellite cellular telephone and data communication system\", y 5,604,920, las cuales están en el campo de comunicaciones por satélite y la compañía generó varios cientos de patentes protegiendo la tecnología en el sistema. Motorola hizo hincapié en contratar al ingeniero que automatizó la fábrica del Macintosh de Apple. Creó la tecnología necesaria para producir satélites en masa, tomando semanas, en vez de meses o años y un récord de construcción de solo US5$ por satélite. Durante su pico de fabricación, de 1997 a 1998, Motorola producía un satélite cada 4.3 días, con un tiempo medio de espera entre satélites de 21 días."
+    },
+    {
+      "titulo": "Satélites difuntos",
+      "nivel": 2,
+      "texto": "Durante todo este tiempo, más de 50 satélites Iridium han dejado de funcionar y no están en servicio, algunos solo funcionan parcialmente y han permanecido en órbita, pero otros han orbitado fuera de control o han hecho una reentrada atmosférica no controlada.\nLos satélites Iridium 21, 27, 20, 11, 24, 71, 44, 14, 79, 69 y 85 todos sufrieron problemas antes de entrar en servicio poco después de su lanzamiento en 1997. En 2018, de estos once satélites, los 21, 27, 79 y 85 han salido de su órbita. Los Iridium 11, 14, 29 y 21 fueron renombrados a Iridium 911, 914, 920 y 921 respectivamente, ya que se lanzaron repuestos con el mismo nombre\nDesde 2017, varios satélites Iridium de primera generación han sido deliberadamente deorbitados, tras haber sido sustituidos por satélites Iridium NEXT de última generación."
+    },
+    {
+      "titulo": "Colisión del Iridium 33",
+      "nivel": 3,
+      "texto": "A las 16:56 UTC del 10 de febrero de 2009, el satélite Iridium 33 colisionó con el difunto satélite ruso Kosmos 2251. Esta colisión accidental fue la primera colisión a hipervelocidad entre dos satélites artificiales en órbita baja terrestre. Iridium 33 estaba en servicio cuando el accidente tuvo lugar. Era uno de los satélites más viejos en la\nconstelación. Los satélites colisionaron a una velocidad relativa de 35000 km/h. Esta colisión creó una gran cantidad de basura espacial que puede ser peligrosa para otros satélites.\nIridium movió uno de sus satélites sustitutos en órbita, el Iridium 91, para reemplazar el satélite destruido, completando la aproximación el 4 de marzo de 2009."
+    },
+    {
+      "titulo": "Aparatos",
+      "nivel": 2,
+      "texto": "Iridium ofrece varios tipo de terminales, los más simples parecen un teléfono \"antiguo\", otros un maletín con un ordenador portátil para conexiones a internet de baja velocidad. Por otra parte, compañías asociadas con Iridium han creado productos especializados que usan de la esta tecnología para diversas aplicaciones como dispositivos IoT.\nLos principales modelos comercializados por Iridium desde su creación son:\nMotorola 9505 (1999-2002): este es el primer terminal vendido por Motorola. Incluye una interfaz RS-232 con una conexión propietaria.\nIridium 9505A (2002-2008): modelo vendido por la compañía creada después de su bancarrota en 1999. Sus características son muy similares a las del modelo original.\nKyocera SS-66K (1998-1999): construido por la compañía japonesa Kyocera, este modelo tuvo pocas ventas.\nIridium 9555: este modelo, vendido desde finales de 2008 incluye una interfaz USB y un kit manos libres.\nIridium Extreme (9575): modelo lanzado en septiembre de 2011 y adaptado a condiciones extremas."
+    }
+  ],
+  "num_palabras": 1981
+}

@@ -1,0 +1,37 @@
+{
+  "id": "doc_0886",
+  "titulo": "IKONOS",
+  "titulo_wikipedia_en": "Ikonos",
+  "fecha_lanzamiento": "1999-09-24",
+  "año_lanzamiento": 1999,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de observación terrestre",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/IKONOS",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Activo",
+    "Tipo de misión": "Teledetección",
+    "Operador": "DigitalGlobe",
+    "Fecha de lanzamiento": "24 de septiembre de 1999"
+  },
+  "resumen": "IKONOS es un satélite comercial de teledetección originalmente de la compañía Geoeye, hoy parte de DigitalGlobe. Fue el primero en recoger imágenes con disponibilidad pública de alta resolución con un rango entre 1 y 4 metros de resolución espacial. En concreto, dispone de una resolución de 1 metro en pancromático y de 4 metros en multiespectral. Las imágenes del satélite IKONOS empezaron a ponerse a la venta el primero de enero de 2000. La empresa norteamericana Space Imaging es la propietaria del satélite.",
+  "secciones": [
+    {
+      "titulo": "Historia",
+      "nivel": 2,
+      "texto": "La palabra IKONOS procede del idioma griego y significa imagen. El Ikonos-1 estaba planeado que se pusiese en órbita en 1998 pero su lanzamiento falló. Ikonos-2 estaba preparado para que su puesta en órbita se realizase en el año 2000 pero debido al fallo de su hermano mayor se renombró Ikonos simplemente y se lanzó el 24 de septiembre de 1999 desde la Base de la Fuerza Aérea de Vandenberg en California, EE. UU. con el fin de reemplazar a Ikonos-1."
+    },
+    {
+      "titulo": "Resolución espacial",
+      "nivel": 2,
+      "texto": "Pancromático: 1 metro (1-m PAN)\nMultiespectral: 4 metros (4-m MS)"
+    }
+  ],
+  "num_palabras": 174
+}

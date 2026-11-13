@@ -1,0 +1,43 @@
+{
+  "id": "doc_1029",
+  "titulo": "CloudSat",
+  "titulo_wikipedia_en": "CloudSat",
+  "fecha_lanzamiento": "2006-04-28",
+  "año_lanzamiento": 2006,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de observación terrestre",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/CloudSat",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Activo",
+    "Tipo de misión": "Observación terrestre",
+    "Operador": "NASA",
+    "Fecha de lanzamiento": "28 de abril de 2006",
+    "Masa en el lanzamiento": "848 kg",
+    "Sistema de referencia orbital": "Circular",
+    "Periapsis": "702 Km",
+    "Inclinación orbital": "98,2 Grados",
+    "Periodo orbital": "98,8 minutos",
+    "Instrumentos": "CPR (Cloud Profiling Radar)"
+  },
+  "resumen": "CloudSat es un satélite de observación terrestre de la NASA, lanzado el 28 de abril de 2006 a bordo de un cohete Delta II, junto con el satélite Calipso.\nEl satélite fue elegido en 1999 para proporcionar un mejor entendimiento de la distribución, abundancia estructura y propiedades radiativas de las nubes. Fue el primer satélite con un radar de ondas milimétricas, 1000 veces más sensible que cualquier radar meteorológico existente.\nCloudSat y Calipso se unieron a otros tres satélites de observación terrestre avanzados ya en órbita: Aqua, Parasol y Aura. Juntos formaban el llamado A-train siguiendo una órbita heliosincrónica, caso circular, de unos 705 km de altura. El 22 de febrero de 2018, CloudSat fue trasladado a una órbita inferior y pasó a formar parte del C-train.\nLa misión principal de CloudSat debía durar 22 meses, aunque se calculaba que podría seguir funcionando durante tres años más.",
+  "secciones": [
+    {
+      "titulo": "Instrumentos",
+      "nivel": 2,
+      "texto": "El instrumento principal de CloudSat es el CPR (Cloud Profiling Radar, Radar Perfilador de Nubes), un radar que opera a 94 GHz y que mide las microondas reflejadas por las nubes en función de su distancia. El CPR fue desarrollado conjuntamente por el Laboratorio de Propulsión a Reacción y la Agencia Espacial Canadiense."
+    },
+    {
+      "titulo": "Especificaciones",
+      "nivel": 2,
+      "texto": "Masa total: 848 kg\nPerigeo: 702 km\nApogeo: 704 km\nInclinación orbital: 98,2°\nPeriodo: 98,8 min"
+    }
+  ],
+  "num_palabras": 216
+}

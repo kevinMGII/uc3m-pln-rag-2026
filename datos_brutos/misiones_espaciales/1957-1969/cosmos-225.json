@@ -1,0 +1,48 @@
+{
+  "id": "doc_0240",
+  "titulo": "Cosmos 225",
+  "titulo_wikipedia_en": "Kosmos 225",
+  "fecha_lanzamiento": "1968-06-11",
+  "año_lanzamiento": 1968,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de observación terrestre",
+    "Satélite (programa Cosmos)",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Cosmos_225",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Reentrado en la atmósfera",
+    "Tipo de misión": "Estudios ionosféricos y de partículas",
+    "Fecha de lanzamiento": "11 de junio de 1968",
+    "Lugar de lanzamiento": "Cosmódromo de Kapustin Yar",
+    "Vehículo de lanzamiento": "Cosmos-2I",
+    "ID NSSDC": "1968-048A",
+    "Masa en el lanzamiento": "400 kg",
+    "Tipo de fin de misión": "reingreso",
+    "Fecha de reentrada": "2 de noviembre de 1968"
+  },
+  "resumen": "Cosmos 225 (en cirílico, Космос 225) fue un satélite artificial científico soviético perteneciente a la clase de satélites DS (el primero y único de tipo DS-U1-Ya) y lanzado el 11 de junio de 1968 mediante un cohete Cosmos-2I desde el cosmódromo de Kapustin Yar.",
+  "secciones": [
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "La misión de Cosmos 225 fue realizar estudios sobre la capa superior de la atmósfera terrestre y los rayos cósmicos."
+    },
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "El satélite tenía una masa de 400 kg (aunque otras fuentes indican 375 kg) y fue inyectado inicialmente en una órbita con un perigeo de 257 km y un apogeo de 530 km, con una inclinación orbital de 48,4 grados y un periodo de 92,2 minutos.\nCosmos 225 reentró en la atmósfera el 2 de noviembre de 1968."
+    },
+    {
+      "titulo": "Resultados científicos",
+      "nivel": 2,
+      "texto": "Cosmos 225 realizó mediciones que llevaron a estudios sobre la distribución energía de los núcleos cargados que componen los rayos cósmicos."
+    }
+  ],
+  "num_palabras": 143
+}

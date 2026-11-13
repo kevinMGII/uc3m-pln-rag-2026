@@ -1,0 +1,35 @@
+{
+  "id": "doc_0799",
+  "titulo": "Inflatable Antenna Experiment",
+  "titulo_wikipedia_en": "Inflatable Antenna Experiment",
+  "fecha_lanzamiento": "1996-05-19",
+  "año_lanzamiento": 1996,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite experimental",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Inflatable_Antenna_Experiment",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Reentrada en la atmósfera",
+    "Tipo de misión": "Experimental",
+    "Operador": "NASA",
+    "Fecha de lanzamiento": "19 de mayo de 1996",
+    "Vehículo de lanzamiento": "Transbordador espacial Endeavour",
+    "Duración planificada": "3 días",
+    "ID NSSDC": "1996-032C",
+    "Periapsis": "180 km",
+    "Apoapsis": "201 km",
+    "Inclinación orbital": "39 grados",
+    "Periodo orbital": "88,3 minutos",
+    "Tipo de fin de misión": "reingreso",
+    "Fecha de reentrada": "22 de mayo de 1996"
+  },
+  "resumen": "Inflatable Antenna Experiment o IAE fue un experimento de la NASA consistente en una antena hinchable hecha de mylar y que fue lanzada desde el transbordador espacial Endeavour durante la misión STS-77 (que despegó el 19 de mayo de 1996) acoplada al satélite Spartan-207. La antena se hinchó correctamente, separándose de Spartan-207 (que fue recuperado desde el transbordador) y reentró en la atmósfera unos días más tarde, el 22 de mayo.\nCon IAE se pretendía allanar el camino al desarrollo de estructuras hinchables y ligeras para usos espaciales.",
+  "secciones": [],
+  "num_palabras": 88
+}

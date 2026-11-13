@@ -1,0 +1,50 @@
+{
+  "id": "doc_1398",
+  "titulo": "Crew Dragon IFA",
+  "titulo_wikipedia_en": "Crew Dragon In-Flight Abort Test",
+  "fecha_lanzamiento": "2020-01-19",
+  "año_lanzamiento": 2020,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Otro vuelo espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Crew_Dragon_IFA",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Recuperada por": "GO Searcher",
+    "Lugar de aterrizaje": "Océano Atlántico",
+    "Fecha de aterrizaje": "19 de enero de 2020, 15:38:54 UTC",
+    "Contratista del lanzamiento": "SpaceX",
+    "Lugar de lanzamiento": "Kennedy LC-39A",
+    "Vehículo de lanzamiento": "Falcon 9 B5 B1046",
+    "Fecha de lanzamiento": "19 de enero de 2020, 15:30:00 UTC",
+    "Fabricante": "SpaceX",
+    "Nave": "Dragon 2 C205",
+    "Apogeo suborbital": "42km",
+    "Operador": "SpaceX",
+    "Tipo de misión": "Demostración de tecnología",
+    "Programa": "Desarrollo de tripulación comercial",
+    "Misión anterior": "Boeing-OFT",
+    "Misión siguiente": "SpaceX Demo-2",
+    "Programa (2)": "Crew Dragon",
+    "Misión anterior (2)": "Demo-1",
+    "Misión siguiente (2)": "Demo-2"
+  },
+  "resumen": "La Prueba de Aborto en Vuelo de la Dragon 2 (oficialmente SpaceX In-Flight Abort Test - IFA) fue una prueba del sistema de aborto de la Crew Dragon realizada por SpaceX el 19 de enero de 2020. El procedimiento incluía un lanzamiento en trayectoria suborbital desde el Complejo de Lanzamiento 39A utilizando un Falcon 9 seguido de un aborto efectuado en el momento de Max Q. La prueba terminó con la cápsula escapando satisfactoriamente y el propulsor B1046 siendo destruido como se esperaba.",
+  "secciones": [
+    {
+      "titulo": "Antecedentes",
+      "nivel": 2,
+      "texto": "La prueba se proyectó como un escenario de aborto en vuelo en el momento más peligroso, ese en el que la presión aerodinámica es mayor sobre el vehículo y este viaja a velocidades cercanas a la del sonido. En ese momento la Dragon 2 utilizaría sus motores SuperDraco para impulsarse y alejarse del Falcon 9. Después el vehículo se reorientaría para desplegar los paracaídas y amerizar en el Océano Atlántico. En un principio la prueba se iba a realizar antes del Crew Dragon Demo-1, pero SpaceX y la NASA consideraron que sería mejor utilizar una cápsula representativa de la versión final en vez de una de prueba como en la anterior prueba del sistema de escape. El vuelo habría sido lanzado desde el SLC-4E de Vandenberg impulsado por un Falcon 9 modificado con sólo 3 motores, que probablemente era el F9R Dev2.\nDespués del cambio de plan en la prueba se usaría la cápsula C201 utilizada en la Demo-1 pero, tras un accidente durante una prueba entre las dos misiones el 20 de abril de 2019, ésta quedó completamente destruida. En su lugar se decidió utilizar la C205, originalmente destinada al Demo-2 dejando la C206 (Endeavour) para dicha misión."
+    },
+    {
+      "titulo": "Lanzamiento",
+      "nivel": 2,
+      "texto": "Antes de la prueba, la NASA y SpaceX realizaron una simulación de una serie de actividades que preceden a los lanzamientos normales con tripulación. Tras un retraso por problemas de visibilidad el Falcon 9 despegó a las 15:20 UTC. El lanzamiento ocurrió con normalidad hasta el punto de separación de la cápsula, momento en el que el cohete se destruyó. La Crew Dragon continuó su trayectoria suborbital hasta el apogeo, donde se eyectó el compartimento de carga y seguidamente los propulsores Draco orientaron la cápsula para el descenso. Todas las funciones se realizaron satisfactoriamente incluyendo la separación, despliegue de paracaídas y amerizaje. La cápsula amerizó a las 15:38:54 UTC cerca de la costa de Florida en el Océano Atlántico."
+    }
+  ],
+  "num_palabras": 401
+}

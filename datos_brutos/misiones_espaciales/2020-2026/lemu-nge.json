@@ -1,0 +1,55 @@
+{
+  "id": "doc_1532",
+  "titulo": "Lemu Nge",
+  "titulo_wikipedia_en": null,
+  "fecha_lanzamiento": "2024-08-16",
+  "año_lanzamiento": 2024,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de observación terrestre",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Lemu_Nge",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Activo",
+    "Operador": "Lemu",
+    "Nº SATCAT": "60532",
+    "ID COSPAR": "2024-149BS",
+    "Fecha de lanzamiento": "16 de agosto de 2024 18:56:00 UTC",
+    "Lugar de lanzamiento": "Base de la Fuerza Espacial Vandenberg, California, Estados Unidos",
+    "Vehículo de lanzamiento": "Falcon 9",
+    "Tipo de misión": "Uso científico",
+    "Configuración": "Cubesat de 6U",
+    "Masa en el lanzamiento": "6 Kg",
+    "Dimensiones": "30x20x10 cm",
+    "Duración planificada": "5 años",
+    "Régimen orbital": "Órbita Baja Terrestre",
+    "Periapsis": "593,9 km",
+    "Apoapsis": "594,5 km",
+    "Inclinación orbital": "97,70°",
+    "Periodo orbital": "96,5 minutos"
+  },
+  "resumen": "Lemu Nge es un satélite artificial, el primero de tipo privado en Chile. Su objetivo principal es la monitorización de la salud de los bosques y su biodiversidad. Es operado por la startup Lemu, con sede en Frutillar.",
+  "secciones": [
+    {
+      "titulo": "Descripción",
+      "nivel": 2,
+      "texto": "Su nombre proviene del mapudungun («ojo del bosque»). Es un nanosatélite fabricado por NanoAvionics en Lituania y equipado con un generador de imágenes diseñado por Simera en Sudáfrica.\nEstá equipado con una cámara hiperespectral de alta definición que mide 32 bandas espectrales entre 450 y 900 nanómetros, lo que permite capturar detalles imperceptibles para la visión humana. Realiza 14 órbitas diarias y monitoriza 51.000 millones de hectáreas del planeta.\nEl satélite puede identificar con mayor precisión los distintos tipos de vegetación y monitorizar a lo largo del tiempo la salud de las especies. También permite analizar indicadores como el estado hídrico de las plantas y el vigor fotosintético."
+    },
+    {
+      "titulo": "Lanzamiento",
+      "nivel": 2,
+      "texto": "Fue lanzado el 16 de agosto de 2024 desde la Base de la Fuerza Espacial Vandenberg, ubicada en California, Estados Unidos, mediante un vehículo de lanzamiento Falcon 9 de SpaceX."
+    },
+    {
+      "titulo": "Aplicaciones",
+      "nivel": 2,
+      "texto": "En febrero de 2026, la empresa estatal Codelco presentó los resultados de un proyecto piloto de monitorización de biodiversidad de biodiversidad desarrollado junto a la startup chilena Lemu.\nLa iniciativa utilizó la plataforma Atlas-Lemu y datos obtenidos por Lemu Nge para analizar ecosistemas asociados a las divisiones mineras El Teniente y Ventanas, incluyendo la Reserva Nacional Roblería del Cobre de Loncha y el Humedal Campiche.\nEl proyecto combinó imágenes satelitales hiperespectrales, inteligencia artificial y otras fuentes científicas para evaluar variables como vegetación, carbono y riesgo hídrico, con el objetivo de apoyar la gestión ambiental en la industria minera."
+    }
+  ],
+  "num_palabras": 274
+}

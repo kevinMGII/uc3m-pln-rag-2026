@@ -1,0 +1,45 @@
+{
+  "id": "doc_1075",
+  "titulo": "AMOS 3",
+  "titulo_wikipedia_en": "AMOS-3 (satellite)",
+  "fecha_lanzamiento": "2008-04-28",
+  "año_lanzamiento": 2008,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de comunicaciones",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/AMOS_3",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Activo",
+    "Tipo de misión": "Comunicaciones",
+    "Fecha de lanzamiento": "28 de abril de 2008",
+    "Lugar de lanzamiento": "Cosmódromo de Baikonur",
+    "Vehículo de lanzamiento": "Zenit",
+    "ID NSSDC": "2008-022A",
+    "Masa en el lanzamiento": "1300 kg",
+    "Periapsis": "35.788,6 km",
+    "Apoapsis": "35.798,4 km",
+    "Inclinación orbital": "0 grado",
+    "Periodo orbital": "1436,1 minutos",
+    "Datos interplanetarios": "tipo: orbitador | objeto: Tierra"
+  },
+  "resumen": "AMOS 3 (עמוס 3 en hebreo) es un satélite de comunicaciones israelí lanzado el 28 de abril de 2008 mediante un cohete Soyuz desde el cosmódromo de Baikonur a una órbita geoestacionaria.",
+  "secciones": [
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "El objetivo de AMOS es proporcionar comunicaciones de voz, imagen, televisión e internet a Israel, Europa, los Estados Unidos y la zona de oriente medio."
+    },
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "AMOS 3 está estabilizado en los tres ejes y tiene 24 transpondedores direccionables para banda Ku y tres fijos para banda Ka."
+    }
+  ],
+  "num_palabras": 79
+}

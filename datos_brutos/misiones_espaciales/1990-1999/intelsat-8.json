@@ -1,0 +1,26 @@
+{
+  "id": "doc_0860",
+  "titulo": "Intelsat 8",
+  "titulo_wikipedia_en": "Intelsat 8",
+  "fecha_lanzamiento": "1998-11-04",
+  "año_lanzamiento": 1998,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de comunicaciones",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Intelsat_8",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Operador": "Intelsat",
+    "Órbita longitud": "166º E",
+    "Trans nombre": "24 IEEE C-band\n24 IEEE Ku-band",
+    "Trans cobertura": "Asia-Pacífico\nAustralia"
+  },
+  "resumen": "Intelsat 8, anteriormente denominado PANAMSAT 8 (PAS-8) es un satélite de comunicaciones geosincrónico ubicado en 166° E longitud que da servicio de televisión digital al mercado del Pacífico.\nCon un peso de 2100 kg, fue lanzado el 4 de noviembre de 1998 por un Proton-K desde Tyuratam (cosmódromo de Baikonur), Kazajistán.\nEl 1 de junio de 2012 un Zenit 3SL puso en órbita el Intelsat 19 destinado a reemplazarlo.",
+  "secciones": [],
+  "num_palabras": 69
+}

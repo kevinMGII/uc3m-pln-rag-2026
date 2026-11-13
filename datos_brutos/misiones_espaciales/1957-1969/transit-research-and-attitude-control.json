@@ -1,0 +1,45 @@
+{
+  "id": "doc_0046",
+  "titulo": "Transit Research and Attitude Control",
+  "titulo_wikipedia_en": "Transit Research and Attitude Control",
+  "fecha_lanzamiento": "1961-11-15",
+  "año_lanzamiento": 1961,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite experimental",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Transit_Research_and_Attitude_Control",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Inactivo",
+    "Tipo de misión": "Experimental",
+    "Operador": "Armada de los Estados Unidos",
+    "Fecha de lanzamiento": "15 de noviembre de 1961",
+    "Lugar de lanzamiento": "Cabo Cañaveral",
+    "Vehículo de lanzamiento": "Delta",
+    "ID NSSDC": "1961-031B",
+    "Masa en el lanzamiento": "109 kg",
+    "Periapsis": "959 km",
+    "Apoapsis": "1110,2 km",
+    "Inclinación orbital": "32,4 grados",
+    "Periodo orbital": "105,7 minutos"
+  },
+  "resumen": "Transit Research and Attitude Control (también denominado por su acrónimo, TRAAC) es un satélite artificial de la Armada de los Estados Unidos lanzado el 15 de noviembre de 1961 desde Cabo Cañaveral mediante un cohete Delta.",
+  "secciones": [
+    {
+      "titulo": "Objetivo",
+      "nivel": 2,
+      "texto": "La misión de TRAAC era investigar la validez del método de estabilización mediante gradiente gravitatorio para los satélites de navegación de la serie Transit."
+    },
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "Masa: 109 kg"
+    }
+  ],
+  "num_palabras": 63
+}

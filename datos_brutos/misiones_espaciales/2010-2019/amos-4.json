@@ -1,0 +1,40 @@
+{
+  "id": "doc_1219",
+  "titulo": "AMOS 4",
+  "titulo_wikipedia_en": "AMOS-4 (satellite)",
+  "fecha_lanzamiento": "2013-08-31",
+  "año_lanzamiento": 2013,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de comunicaciones",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/AMOS_4",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Activo",
+    "Tipo de misión": "Comunicaciones",
+    "Fecha de lanzamiento": "31 de agosto de 2013",
+    "Lugar de lanzamiento": "Cosmódromo de Baikonur",
+    "Vehículo de lanzamiento": "Zenit",
+    "Inclinación orbital": "0 grado",
+    "Datos interplanetarios": "tipo: orbitador | objeto: Tierra"
+  },
+  "resumen": "AMOS 4 (עמוס 4 en hebreo) es un satélite de comunicaciones israelí lanzado el 31 de agosto de 2013 mediante un cohete Zenit desde el cosmódromo de Baikonur a una órbita geoestacionaria.",
+  "secciones": [
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "El objetivo de AMOS 4 es proporcionar comunicaciones de voz, imagen, televisión e internet a Israel, la zona de Oriente Medio y Asia Oriental."
+    },
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "AMOS 4 está estabilizado en los tres ejes y tiene 24 transpondedores direccionables para banda Ku y tres fijos para banda Ka."
+    }
+  ],
+  "num_palabras": 78
+}

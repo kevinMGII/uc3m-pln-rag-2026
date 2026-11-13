@@ -1,0 +1,31 @@
+{
+  "id": "doc_1141",
+  "titulo": "NanoSail-D2",
+  "titulo_wikipedia_en": "NanoSail-D2",
+  "fecha_lanzamiento": "2010-11-20",
+  "año_lanzamiento": 2010,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite experimental",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/NanoSail-D2",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Operador": "NASA",
+    "Fecha de lanzamiento": "20 de noviembre de 2010",
+    "Lugar de lanzamiento": "Kodiak Pad 1",
+    "Vehículo de lanzamiento": "Minotaur IV",
+    "Duración planificada": "240 días",
+    "ID NSSDC": "2010-062L",
+    "Masa en el lanzamiento": "4 kilogramos",
+    "Inclinación orbital": "71,97 grados",
+    "Periodo orbital": "97,34 minutos"
+  },
+  "resumen": "NanoSail-D2 fue un pequeño satélite construido por el Centro Marshall de Vuelos Espaciales y el Centro de Investigación Ames de la NASA para estudiar el despliegue de una vela solar en el espacio. Era un CubeSat de tres unidades, que medía 30 × 10 × 10 centímetros con una masa de 4 kilogramos. Su vela solar tenía un área de 10 metros cuadrados, y se desplegó en unos cinco segundos.\nFue lanzado el 20 de noviembre de 2010 a bordo de un cohete Minotaur IV.",
+  "secciones": [],
+  "num_palabras": 85
+}

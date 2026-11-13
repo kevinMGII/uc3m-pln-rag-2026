@@ -1,0 +1,57 @@
+{
+  "id": "doc_1116",
+  "titulo": "PROBA 2",
+  "titulo_wikipedia_en": "PROBA-2",
+  "fecha_lanzamiento": "2009-11-02",
+  "año_lanzamiento": 2009,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite experimental",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/PROBA_2",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "En activo",
+    "Tipo de misión": "Experimental",
+    "Operador": "ESA",
+    "Fecha de lanzamiento": "2 de noviembre de 2009, 1:50 UTC",
+    "Lugar de lanzamiento": "Cosmódromo de Plesetsk",
+    "Vehículo de lanzamiento": "Rokot",
+    "Duración planificada": "2 años",
+    "Configuración": "Cúbica",
+    "Masa en el lanzamiento": "135 kg",
+    "Dimensiones": "0,6 x 0,6 x 0,8 metros",
+    "Potencia": "110 vatios (Batería de ion de litio (16 Ah))",
+    "Propulsión": "Iónica",
+    "Sistema de referencia orbital": "Órbita heliosincrónica",
+    "Periapsis": "725 km"
+  },
+  "resumen": "PROBA 2 (acrónimo de Project for Onboard Autonomy 2, proyecto para autonomía a bordo) es un satélite artificial experimental de la ESA lanzado el 2 de noviembre de 2009 a las 1:50 UTC desde el cosmódromo de Plesetsk mediante un cohete Rokot (también escrito Rokot, Рокот en ruso) junto con el satélite SMOS. PROBA 2 fue liberado de la última etapa del cohete tres horas después de la inserción en órbita de este y unas dos horas después de la liberación de SMOS.",
+  "secciones": [
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "La misión de Proba 2 es probar y validar una serie de nuevas tecnologías a ser usadas por la ESA en futuros satélites así como realizar observaciones científicas con dos experimentos a bordo: dos instrumentos belgas para realizar estudios sobre física solar y dos instrumentos checos para realizar estudios sobre física de plasma."
+    },
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "El satélite tiene una masa de 135 kg y forma aproximadamente cúbica (0,6 x 0,6 x 0,8 m), sin contar con sus dos paneles solares desplegados, hechos de una estructura de aluminio con plástico reforzado con fibra de carbono, que proporcionan una potencia eléctrica de hasta 110 vatios y alimentan una batería de ion de litio con una capacidad de 16 Ah.\nLa estructura principal está formada por tres paneles de aluminio conformados a modo de panal y formando una H y en los que van montados casi todos los sistemas, con un panel inferior que se usó como interfaz con el cohete lanzador. La parte exterior de los paneles está pintada en algunas partes de negro o blanco para funcionar como radiadores pasivos. Uno de los lados de la estructura lleva células solares, aparte de las situadas en los paneles solares.\nEl satélite se estabiliza en los tres ejes y la actitud está controlada por cuatro pequeños volantes de inercia cuyo velocidad de giro puede variar para producir rotaciones en los tres ejes del satélite y capaces de ejercer un momento de hasta 30 mN-m. La orientación se lleva a cabo tanto mediante un rastreador de estrellas con una precisión de 5 segundos de arco para un periodo de 10 segundos de seguimiento como mediante un magnetómetro de tres ejes. El satélite también es capaz de navegar autónomamente utilizando GPS y posee un motor iónico alimentado por xenón y con un empuje de hasta 20 mN para realizar ajustes orbitales. El tanque de xenón es presurizado con nitrógeno que el satélite genera a bordo a partir de una fuente en estado sólido.\nLas células solares son del tipo de triple unión de arseniuro de galio, y van montadas tanto en los dos paneles solares como en uno de los lados del cuerpo principal del satélite.\nProba 2 puede comunicarse mediante un enlace en banda S con su centro de control principal, situado en Redu (Bélgica), a una velocidad de 64 kbit/s, y con la estación de Svalbard (Noruega) usada como apoyo.\nEl principal contratista para la construcción y operación del satélite es Verhaert Design & Development NV, una empresa subsidiaria de QinetiQ."
+    },
+    {
+      "titulo": "Demostración tecnológica",
+      "nivel": 2,
+      "texto": "La misión principal de Proba 2 es probar y validar nuevas tecnologías para su uso en futuras misiones y satélites, que consisten en:\nun nuevo tipo de batería de ion de litio desarrollada por la empresa francesa SAFT.\nun sistema de control de datos y energía con un nuevo procesador, desarrollado por la empresa belga Verhaert Space.\npaneles estructurales de aluminio combinado con fibra de carbono, desarrollados por la empresa suiza Apco Technologies.\nnuevos volantes de inercia desarrollados por la empresa Apco Technologies, rastreador de estrellas desarrollados por la empresa británica DTU y receptores GPS construidos por la alemana DLR.\nun sistema de telecomunicaciones mejorado con un decodificador desarrollado en su mayor parte como software de la empresa alemana STT-SystemTechnik GmbH.\nun sensor solar digital desarrollado por la holandesa TNO.\nun receptor GPS de frecuencia dual desarrollado por la francesa Alcatel Espace.\nun sistema de sensores por fibra para monitorización de la temperatura y presión de la nave desarrollado por MPB Communications Inc.\nun sensor estelar desarrollado para su uso en la misión BepiColombo a Mercurio, desarrollado por la empresa italiana Galileo Avionica.\nun magnetómetro de flujo de puerta de alta precisión desarrollado por la empresa danesa DTU y experimentos para tecnología de magnetómetros diseñados por la empresa portuguesa Lusospace y la alemana ZARM Technik AG.\nun panel solar experimental con concentrador de flujo solar desarrollado por la belga CSL.\nun sistema de propulsión iónico alimentado por xenón y un generador de gas nitrógeno de estado sólido para presurizar el tanque de propelente desarrollado por la británica SSTL y la holandesa Bradford.\nuna microcámara de exploración (denominada X-CAM) desarrollada por la empresa suiza Micro-cameras & Space Exploration."
+    },
+    {
+      "titulo": "Ciencia",
+      "nivel": 2,
+      "texto": "Proba 2 lleva a bordo cuatro instrumentos dedicados a la realización de ciencia:\nSWAP (Sun watcher using APS detectors and image processing, observación solar utilizando detectores APS y procesamiento de imagen): se trata de un telescopio de tipo Ritchey-Chrétien para el ultravioleta extremo construido en base al instrumento EIT (Extreme ultraviolet Imaging Telescope) a bordo del satélite SOHO. Su objetivo es fotografiar la corona solar, obteniendo imágenes a ritmo de una por minuto con gran resolución espacial.\nLYRA (Lyman-alpha radiometer, radiómetro Lyman-alfa): es un radiómetro para cuatro bandas ultravioleta, en concreto\n115-125 nm, centrada en la línea Lyman-alfa, a 121,6 nm.\n200-220 nm, en el rango continuo de Herzberg.\n17-31 nm, que incluye la detección de aluminio y Helio II.\n1-20 nm, para el circonio.\nEl objetivo del instrumento es realizar observaciones en esos canales para realizar estudios tanto de física solar como de aeronomía y meteorología espacial. El instrumento ha sido desarrollado por el Real Observatorio de Bélgica.\nTPMU (Thermal plasma measurement unit, unidad de medición térmica de plasma): consiste en un sensor junto con sus preamplificadores y una unidad de procesamiento para el estudio de la densidad, composición y temperatura de iones y la temperatura de electrones, así como para medir el potencial eléctrico de la estructura del satélite.\nDSLP (Dual segmented Langmuir probe, sonda Langmuir dual segmentada): es un instrumento utilizado para estudiar el fondo de plasma magnetosférico y está basado en el instrumento ISL (Instrument Sonde de Langmuir) de la misión Demeter del CNES. Su objetivo es medir la densidad de plasma y su variación en el rango entre 100 y 5·106 partículas/cm³; medir la temperatura de electrones en el rango entre 500 y 3000 Kelvin; medir el potencial de la nave en el rango entre ±5 voltios."
+    }
+  ],
+  "num_palabras": 1068
+}

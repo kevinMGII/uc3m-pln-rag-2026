@@ -1,0 +1,51 @@
+{
+  "id": "doc_1309",
+  "titulo": "Cygnus CRS OA-5",
+  "titulo_wikipedia_en": "Cygnus OA-5",
+  "fecha_lanzamiento": "2016-10-17",
+  "año_lanzamiento": 2016,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Otro vuelo espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Cygnus_CRS_OA-5",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Vehículo de lanzamiento": "Plataforma de lanzamiento 0 del Puerto Espacial Regional del Atlántico Medio (Mid-Atlantic Regional Spaceport, MARS), en Virginia",
+    "Fecha de lanzamiento": "17 de octubre de 2016\n23:45 UTC",
+    "Nave": "Cygnus a bordo de un cohete Antares 230",
+    "Fecha de aterrizaje": "27 de noviembre 6:40 p.m. ET",
+    "Duración de la misión": "29 días acoplada a la estación (42 días desde su despegue hasta su desintegración)",
+    "Inclinación orbital": "51.62 grados",
+    "Apoapsis": "361 km",
+    "Periapsis": "213 km",
+    "Programa": "Servicios Comerciales de Abastecimiento",
+    "Misión anterior": "SpaceX CRS-9",
+    "Misión siguiente": "SpaceX CRS-10",
+    "Programa (2)": "Vuelos de la Cygnus",
+    "Misión anterior (2)": "Cygnus CRS OA-6",
+    "Misión siguiente (2)": "Cygnus CRS OA-7"
+  },
+  "resumen": "Cygnus CRS OA-5, también conocido como Orbital Sciences CRS Vuelo 5 u Orb-5, es el séptimo vuelo y la sexta misión de reabastecimiento para la Estación Espacial Internacional por parte de la aeronave presurizada no tripulada, una Cygnus mejorada. Esta misión forma parte del contrato comercial para el reabastecimiento (\"Commercial Resupply Services\" abreviado CRS) de la estación que tiene la empresa Orbital ATK con la NASA.\nLa nave Cygnus utilizada para la misión OA-5 fue nombrada en honor al exastronauta y capitán aviador naval, Alan Poindexter. Poindexter fue seleccionado por la NASA en 1998 (G-17) y viajó a la Estación Internacional en dos ocasiones, en las misiones STS-122 y en la STS-131.",
+  "secciones": [
+    {
+      "titulo": "Lanzamiento",
+      "nivel": 2,
+      "texto": "El vehículo fue transportado por un cohete Antares 230, siendo esta la primera vez que se usó un cohete de esta serie e incluyó los nuevos motores RD-181, anunciados por Orbital desde finales de 2014. Con estos se buscó incrementar el desempeño y flexibilidad para la entrega de carga por parte de Orbital ATK.\nEl lanzamiento tuvo lugar el 17 de octubre de 2016 a las 7:45 p.m. EDT desde las Instalaciones de Vuelo Wallops de la NASA ubicadas en Virginia, utilizando la plataforma 0. A las 7:49 p.m. el motor principal se apagó y la fase 1 del cohete se separó de la nave. La separación de la segunda etapa se dio a las 9:10 p.m. Una hora y media después del despegue, aproximadamente a las 9:45 p.m., se dio el comando para desplegar los dos paneles solares UltraFlex.\nLa nave llegó a la estación el día 23 de octubre. Los miembros de la expedición 49, la ingeniera Kate Rubins, de la NASA, y el ingeniero Takuya Onishi, de la JAXA, atraparon la nave a las 7:28 a. m. usando el brazo robótico Canadarm2 y a las 10:53 a. m. la colocaron el puerto que ve hacia la Tierra del módulo Unity. En los días siguientes, los astronautas abrieron la compuerta y comenzaron a descargar el cargamento."
+    },
+    {
+      "titulo": "Misión",
+      "nivel": 2,
+      "texto": "Esta aeronave cuenta con un volumen presurizado de 27 m³ y en éste llevó una carga total de 2,209 kg, que con los empaques la cifra ascendió hasta los 2,342 kg. Éstos incluyeron:\nMaterial para investigación científica - 498 kg\nSuministros para la tripulación - 585 kg\nHardware de vehículo - 1,023 kg\nEquipo para caminatas espaciales - 5 kg\nRecursos para computadora - 56 kg\nHardware ruso - 42 kg\nAdicionalmente llevó un cargamento no presurizado (Cubesats) con un peso de 83 kg.\nLa Cygnus cargaba lo necesario para llevar a cabo cerca de 250 experimentos e investigaciones científicos que se llevaron a cabo durante las expediciones 49 y 50.\nUna de las investigaciones de esta misión, Cool Flames, es sobre las llamas frías, un fenómeno de algunos combustibles que inicialmente se queman a muy altas temperaturas y parece desvanecerse, pero después continúan quemándose a una temperatura mucho más baja sin llamas visibles. Entender este fenómeno ayudará a que científicos desarrollen nuevos motores y combustibles que sean más eficientes y menos dañinos con el ambiente.\nThe Lighting Effects es otra investigación que probó un nuevo sistema de iluminación a bordo de la ISS, diseñada para mejorar la salud de la tripulación y mantener su reloj biológico en sincronización con un mejor horario de trabajo y descanso. El sistema usa LEDs ajustables y un programa llamado Dynamic Lighting Schedule (DLS), que varía la intensidad y el espectro de los LEDs de acuerdo a las horas de dormir y despertarse. Las investigaciones han demostrado que mejorar ciertos tipos de luces pueden incrementar el grado de alerta y de rendimiento mientras otros tipos de luz promueven un mejor sueño. EveryWear es otra investigación llevada a la estación por esta Cygnus. Por medio de una app para tableta, los astronautas registran más fácilmente varios datos personales.\nLa investigación EveryWear prueba el uso de esta tecnología para la recolección y transmisión de datos relacionados con nutrición, ejercicio, sueño y medicamentos.\nUna última investigación es la Fast Neutron Spectrometer (FNS), que ayudará a los científicos a entender mejor los neutrones de alta energía, al probar una nueva técnica para medir los neutrones eléctricamente neutros. Los neutrones de alta energía son parte de la radiación a la que los astronautas están expuestos al estar fuera de la protección del campo magnético terrestre. La radiación puede reducir la respuesta inmunológica, aumentar el riesgo de cáncer e interferir con aparatos electrónicos."
+    },
+    {
+      "titulo": "Misiones secundarias y fin de la misión",
+      "nivel": 2,
+      "texto": "Tras casi un mes unida a la ISS, el 21 de noviembre a las 8:22 a. m. ET la Cygnus se separó de ésta y emprendió su viaje de regreso. La nave estaba cargada con 1,687 kg aproximadamente de residuos y basura provenientes de la estación. No obstante, aún tenía algunas tareas pendientes antes de su retorno.\nLa OA-5 contaba con varias misiones secundarias antes de su reentrada en la atmósfera terrestre. El experimento Saffire II, fue una segunda prueba sobre el comportamiento de la combustión en un entorno de microgravedad, tras el experimento Saffire I realizado en la CRS OA-6. Los datos de este experimento fueron descargados vía telemetría. Esta prueba consistió en un incendio a gran escala en la Cygnus vacía y se cuantificó la flamabilidad de nueve muestras de varios materiales en el espacio y la comparó con la flamabilidad de los mismos en la Tierra. Éste comenzó el 21 de noviembre a las 5:00 p.m. ET, y la primera muestra fue encendida a las 6:15 p.m. aproximadamente. El incendio duró aproximadamente dos horas.\nAdicionalmente, el 25 de noviembre se lanzaron cuatro CubeSats, o satélites pequeños, de tipo Lemur-2 para la compañía Spire Global, que serán utilizados para investigación meteorológica. La Cygnus se elevó a una órbita a 500 km de la Tierra y los soltó. Es la primera vez que una nave de carga libera satélites en una órbita mayor a la de la Estación Espacial Internacional.\nA las 6:40 p.m. ET del 27 de noviembre la Cygnus realizó una reentrada exitosa a la atmósfera terrestre. La misión concluyó con la destrucción de la nave a la altura del Océano Pacífico, al este de Nueva Zelanda."
+    }
+  ],
+  "num_palabras": 1013
+}

@@ -1,0 +1,39 @@
+{
+  "id": "doc_0704",
+  "titulo": "TDRS-5",
+  "titulo_wikipedia_en": "TDRS-5",
+  "fecha_lanzamiento": "1991-08-02",
+  "año_lanzamiento": 1991,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de comunicaciones",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/TDRS-5",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Satélite de comunicaciones",
+    "Operador": "NASA",
+    "Fabricante": "TRW",
+    "Fecha de lanzamiento": "2 de agosto de 1991",
+    "Vehículo de lanzamiento": "Transbordador espacial Atlantis, STS-43",
+    "Duración de la misión": "7 años (planeado) 18+ años (total)",
+    "ID NSSDC": "1991-054B",
+    "Masa en el lanzamiento": "2.268 kg",
+    "Periapsis": "35.771 km",
+    "Apoapsis": "35.805 km",
+    "Inclinación orbital": "10,15 grados"
+  },
+  "resumen": "El TDRS-5, conocido antes del lanzamiento como TDRS-E, es un satélite de comunicaciones estadounidense que es operado por la NASA y fue construido por TRW como parte del Tracking and Data Relay Satellite System.",
+  "secciones": [
+    {
+      "titulo": "Lanzamiento",
+      "nivel": 2,
+      "texto": "Fue lanzado a bordo del transbordador espacial Atlantis durante la misión STS-43 en agosto de 1991. El Atlantis se lanzó desde el complejo de lanzamiento 39A del Centro Espacial Kennedy a las 15:02:00 GMT (11:02 hora local), el 2 de agosto. El TDRS-5 se desplegó desde Atlantis aproximadamente seis horas después del lanzamiento, y se elevó a una órbita geoestacionaria por medio de una etapa superior inercial (IUS). Fue el único satélite TDRS que se desplegó desde el Atlantis."
+    }
+  ],
+  "num_palabras": 113
+}

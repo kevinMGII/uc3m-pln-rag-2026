@@ -1,0 +1,41 @@
+{
+  "id": "doc_0608",
+  "titulo": "Earth Radiation Budget Satellite",
+  "titulo_wikipedia_en": "Earth Radiation Budget Satellite",
+  "fecha_lanzamiento": "1984-10-05",
+  "año_lanzamiento": 1984,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de observación terrestre",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Earth_Radiation_Budget_Satellite",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Inactivo",
+    "Tipo de misión": "Observación terrestre",
+    "Operador": "NASA",
+    "Fecha de lanzamiento": "5 de octubre de 1984",
+    "Vehículo de lanzamiento": "Transbordador espacial Challenger",
+    "Duración planificada": "11 años",
+    "ID NSSDC": "1984-108B",
+    "Masa en el lanzamiento": "2449 kg",
+    "Potencia": "2164 vatios(Níquel-Cadmio)",
+    "Periapsis": "576 km",
+    "Apoapsis": "589 km",
+    "Inclinación orbital": "57 grados",
+    "Periodo orbital": "96,3 minutos"
+  },
+  "resumen": "Earth Radiation Budget Satellite (Satélite de tasa de radiación terrestre) o ERBS fue un satélite artificial de la NASA lanzado el 5 de octubre de 1984 desde el transbordador espacial Challenger en la misión STS-41-G. Un problema en el despliegue de los paneles solares fue resuelto mediante el \"agitamiento\" del satélite usando el brazo robótico del transbordador por parte de la astronauta Sally Ride.\nLa misión de ERBS consistió en investigar la manera en que la energía del Sol es absorbida y reemitida por la Tierra, que es uno de los principales mecanismos que impulsan los patrones meteorológicos del planeta. Las observaciones de ERBS también se usaron para determinar el efecto de la actividad humana y los fenómenos naturales (como la actividad volcánica) en el equilibrio de radiación de la Tierra.\nEl satélite estaba estabilizado en los tres ejes con una precisión de 1 grado mediante el uso de pares magnéticos, con un sistema de control de reacción mediante hidracina como respaldo. La alimentación eléctrica era producida mediante dos paneles solares que producían en conjunto 2164 vatios de potencia, disponiendo de dos baterías de níquel-cadmio con una capacidad de 50 amperios-hora. Los datos eran transmitidos a través del satélite de comunicaciones TDRSS.\nEl satélite fue puesto fuera de servicio el 14 de octubre de 2005 por razones de falta de fondos.",
+  "secciones": [
+    {
+      "titulo": "Instrumentos",
+      "nivel": 2,
+      "texto": "SAGE II (Stratospheric Aerosol and Gas Experiment): encargado de medir los aerosoles estratosféricos, el ozono, dióxido de nitrógeno y vapor de agua. Disponía de 7 canales de medida, de 0,385 a 1.02 µm, con una resolución de 0,5 km.\nERBE (Earth Radiation Budget Experiment)"
+    }
+  ],
+  "num_palabras": 265
+}

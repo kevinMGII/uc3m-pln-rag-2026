@@ -1,0 +1,46 @@
+{
+  "id": "doc_1107",
+  "titulo": "Deimos-1",
+  "titulo_wikipedia_en": "Deimos-1",
+  "fecha_lanzamiento": "2009-07-29",
+  "año_lanzamiento": 2009,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de observación terrestre",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Deimos-1",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Observación, seguimiento de catástrofes",
+    "Operador": "Deimos Imaging",
+    "Fabricante": "SSTL\nISC Kosmotras",
+    "Fecha de lanzamiento": "29 de julio de 2009 (18:46 GMT)",
+    "Lugar de lanzamiento": "Baikonur 109/95",
+    "Vehículo de lanzamiento": "Dnepr-1",
+    "Duración planificada": "5 años",
+    "Sistema de referencia orbital": "Heliosincrónica"
+  },
+  "resumen": "El Deimos-1, también conocido como Spain-DMC 1, es un satélite español operado por Deimos Imaging con sede en Boecillo (Valladolid). Su sucesor es el Deimos-2, que fue lanzado el 19 de junio de 2014.",
+  "secciones": [
+    {
+      "titulo": "Historia",
+      "nivel": 2,
+      "texto": "Fue construido por la empresa Surrey Satellite Technology para Elecnor Deimos, dando lugar al primer satélite español de observación de la Tierra y al primero europeo de iniciativa íntegramente privada. Parte de un diseño de satélite tipo SSTL-100. El satélite forma parte de la contribución española a la Disaster Monitoring Constellation (constelación de satélites para el seguimiento de catástrofes) que es coordinada por DMC International Imaging.\nEl satélite fue lanzado a una órbita terrestre baja heliosincrónica a 686 kilómetros de altitud. El lanzamiento fue llevado a cabo por ISC Kosmotras utilizando un cohete Dnepr-1 que portaba varios satélites, siendo la carga principal el DubaiSat-1. El Deimos-1, junto a los satélites UK-DMC 2, Nanosat-1B, AprizeSat-3 y AprizeSat-4; conformaban la carga útil secundaria. El cohete fue lanzado a las 18:46 GMT del 29 de julio de 2009 desde el sitio de lanzamientos 109/95 del Cosmódromo de Baikonur en Kazajistán.\nElecnor deimos traspasó el satélite a Urthecast en 2015, junto a su sucesor Deimos-2 y a la división que los operaba, Deimos Imaging, ahora subsidiaria de la compañía canadiense.\nEn 2021, tras la adquisición de los activos de Deimos Imaging\npor GEOSAT, el satélite fue renombrado como GEOSAT-1."
+    },
+    {
+      "titulo": "Tecnologías",
+      "nivel": 2,
+      "texto": "El diseño del satélite contempla una vida útil de cinco años. Porta una cámara multi-espectro con una resolución de 22 metros y 600 kilómetros de ancho de barrido, operando en los espectros verde, rojo e infrarrojo cercano."
+    },
+    {
+      "titulo": "Ventajas",
+      "nivel": 2,
+      "texto": "Cobertura rápida de los territorios gracias a su gran amplitud de campo\nCapacidad en casi tiempo real\nTarifas competitivas"
+    }
+  ],
+  "num_palabras": 285
+}

@@ -1,0 +1,34 @@
+{
+  "id": "doc_0077",
+  "titulo": "Relay 1",
+  "titulo_wikipedia_en": "Relay 1",
+  "fecha_lanzamiento": "1962-12-13",
+  "año_lanzamiento": 1962,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de comunicaciones",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Relay_1",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Inactivo",
+    "Tipo de misión": "Satélite de comunicaciones",
+    "Operador": "NASA",
+    "Fecha de lanzamiento": "13 de diciembre de 1962",
+    "Lugar de lanzamiento": "Cabo Cañaveral",
+    "Vehículo de lanzamiento": "Tor-Delta",
+    "ID NSSDC": "1962-068A",
+    "Masa en el lanzamiento": "78 kg",
+    "Periapsis": "1319 km",
+    "Apoapsis": "7440 km",
+    "Inclinación orbital": "47,5 grados",
+    "Periodo orbital": "185,1 minutos"
+  },
+  "resumen": "Relay 1 fue un satélite de comunicaciones de la NASA lanzado el 13 de diciembre de 1962 mediante un cohete Thor-Delta desde Cabo Cañaveral.\nRelay 1 era un satélite de comunicaciones de tipo activo, procesando y reenviando las señales que le llegaban de estaciones terrestres. El satélite se estabilizaba mediante giro, a 167 revoluciones por minuto, y pesaba 78 kg. Entre su carga portaba un experimento de radiación para cartografiar los cinturones de radiación terrestres y dos transmisores, uno para seguimiento y otro para telemetría.\nPoco después del lanzamiento el satélite desarrolló dos problemas: la respuesta a ciertos comandos y una fuga en uno de los reguladores de alta potencia. Debido a la fuga, el satélite estuvo inoperativo durante las dos primeras semanas, tras las cuales comenzó a funcionar correctamente. A principios de 1965 el problema de la fuga se reprodujo, causando transmisiones esporádicas hasta el 10 de febrero de ese año, en que no se volvieron a obtener más datos científicos útiles.\nPermaneció operativo durante más de dos años.",
+  "secciones": [],
+  "num_palabras": 170
+}

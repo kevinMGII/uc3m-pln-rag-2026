@@ -1,0 +1,29 @@
+{
+  "id": "doc_1363",
+  "titulo": "KhalifaSat",
+  "titulo_wikipedia_en": "KhalifaSat",
+  "fecha_lanzamiento": "2018-10-29",
+  "año_lanzamiento": 2018,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/KhalifaSat",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Teledetección",
+    "Fecha de lanzamiento": "30 de octubre de 2018"
+  },
+  "resumen": "KhalifaSat es un satélite de observación de la Tierra de teledetección fabricado en los Emiratos Árabes Unidos en el Centro Espacial Mohammed bin Rashid (MBRSC).Fue el primer satélite que se construyó en las salas limpias de las instalaciones de investigación y ciencia espacial del gobierno de Dubái y el primero en ser desarrollado completamente por un equipo de ingenieros emiratíes. Se lanzó a la órbita el 30 de octubre de 2018 desde el Centro Espacial Tanegashima de Japón. El Centro Espacial Mohammed bin Rashid es un centro espacial con sede en el gobierno de Dubái que trabaja en el programa espacial nacional. MBRSC ya tiene dos satélites de observación de la Tierra en órbita, DubaiSat-1 y DubaiSat-2, que fueron construidos en asociación con Satrec Initiative, un fabricante de satélites de Corea del Sur. El proyecto fue anunciado oficialmente por Sheikh Mohammed bin Rashid Al Maktoum, vicepresidente y primer ministro de los Emiratos Árabes Unidos (EAU) y Gobernador de Dubái, en diciembre de 2013. La fabricación de KhalifaSat comenzó en Corea del Sur en las instalaciones de la Iniciativa Satrec. Un equipo de ingenieros emiratíes utilizó las instalaciones allí mientras los Laboratorios de Tecnología Avanzada en MBRSC estaban en construcción. A principios de 2015, el proyecto se trasladó a MBRSC donde continuaron todos los aspectos de su desarrollo.",
+  "secciones": [
+    {
+      "titulo": "Objetivos e importancia nacional",
+      "nivel": 2,
+      "texto": "KhalifaSat proporciona imágenes de alta resolución de la Tierra para su uso con diversos fines, incluida la planificación urbana, el control de cambios, Las imágenes de satélite de KhalifaSat se proporcionarán a las entidades del gobierno local y una serie de entidades comerciales tanto a nivel local como internacional. La fabricación de KhalifaSat en MBRSC también tuvo como objetivo ayudar a diversificar las carreras profesionales para los jóvenes emiratíes, junto con la creación de un legado para la industria satelital en los EAU."
+    }
+  ],
+  "num_palabras": 300
+}

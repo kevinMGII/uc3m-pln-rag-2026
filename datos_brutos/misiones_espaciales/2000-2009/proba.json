@@ -1,0 +1,35 @@
+{
+  "id": "doc_0934",
+  "titulo": "PROBA",
+  "titulo_wikipedia_en": "PROBA-1",
+  "fecha_lanzamiento": "2001-10-22",
+  "año_lanzamiento": 2001,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite experimental",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/PROBA",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Inactivo",
+    "Tipo de misión": "Experimental",
+    "Operador": "ESA",
+    "Fecha de lanzamiento": "22 de octubre de 2001",
+    "Lugar de lanzamiento": "Sriharikota",
+    "Vehículo de lanzamiento": "PSLV",
+    "ID NSSDC": "2001-049B",
+    "Configuración": "Cúbica",
+    "Masa en el lanzamiento": "94 kg",
+    "Dimensiones": "40x60x80 cm",
+    "Periapsis": "553 km",
+    "Apoapsis": "677 km",
+    "Inclinación orbital": "97,9 grados"
+  },
+  "resumen": "PROBA (PRoject for On-Board Autonomy) es un minisatélite de demostración tecnológica de la Agencia Espacial Europea. Tiene una masa de solo 94 kg y fue lanzado el 22 de octubre de 2001 como carga adicional a bordo de un cohete PSLV que portaba como satélites principales al BIRD y al TES. Fue puesto en una órbita de 553 por 676 km.\nPorta un detector de radiación, un espectrómetro infrarrojo, un detector de impactos, dos cámaras (CHRIS y HRC) y un procesador experimental para realizar experimentos de navegación y control autónomo de la nave. Tiene forma de caja con unas medidas de 40x60x80 cm y obtiene su energía de células solares adosadas a su superficie.\nFue construido por Verheart en Bélgica y utiliza el bus MiniSIL desarrollado por la empresa británica SI. El centro de control está en Bélgica.",
+  "secciones": [],
+  "num_palabras": 138
+}

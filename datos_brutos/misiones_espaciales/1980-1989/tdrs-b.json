@@ -1,0 +1,39 @@
+{
+  "id": "doc_0634",
+  "titulo": "TDRS-B",
+  "titulo_wikipedia_en": "TDRS-B",
+  "fecha_lanzamiento": "1986-01-28",
+  "año_lanzamiento": 1986,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de comunicaciones",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/TDRS-B",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Satélite de comunicaciones",
+    "Operador": "NASA",
+    "Fabricante": "TRW",
+    "Fecha de lanzamiento": "28 de enero de 1986",
+    "Vehículo de lanzamiento": "Transbordador espacial Challenger STS-51-L",
+    "Duración de la misión": "7 años (planeado)"
+  },
+  "resumen": "TDRS-B era un satélite de comunicaciones estadounidense que debería haber formado parte del Tracking and Data Relay Satellite System. Fue destruido cuando el transbordador espacial Challenger se desintegró 73 segundos después del lanzamiento.",
+  "secciones": [
+    {
+      "titulo": "Historia",
+      "nivel": 2,
+      "texto": "El TDRS-B se lanzó en la zona de carga del Challenger, conectada a una etapa superior inercial (IUS). Debería haber sido desplegado desde el transbordador en órbita terrestre baja. En el lanzamiento TDRS anterior, TDRS-1, el motor de segunda etapa de IUS no funcionó correctamente después de la primera etapa, lo que ocasionó una pérdida de control y la entrega del satélite a una órbita incorrecta."
+    },
+    {
+      "titulo": "Lanzamiento fallido",
+      "nivel": 2,
+      "texto": "El TDRS-B se programó originalmente para su lanzamiento en el vuelo STS-12 en marzo de 1984, sin embargo, se retrasó y el vuelo se canceló después de la falla de IUS en TDRS-1. Más tarde se volvió a manifestar en el STS-51-E, sin embargo, esto también se canceló debido a las preocupaciones sobre la fiabilidad del IUS. Posteriormente se asignó al STS-51-L, que también debía llevar el satélite de astronomía SPARTAN-Halley. Finalmente el Challenger se desintegró con 7 astronautas a bordo tras 73 segundos de vuelo."
+    }
+  ],
+  "num_palabras": 185
+}

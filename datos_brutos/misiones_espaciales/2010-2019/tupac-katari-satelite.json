@@ -1,0 +1,70 @@
+{
+  "id": "doc_1239",
+  "titulo": "Túpac Katari (satélite)",
+  "titulo_wikipedia_en": "Túpac Katari 1",
+  "fecha_lanzamiento": "2013-12-20",
+  "año_lanzamiento": 2013,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de comunicaciones",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Túpac_Katari_(satélite)",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Internet, Telefonía, Televisión, Telemedicina y Teleeducación.",
+    "Operador": "Agencia Boliviana Espacial",
+    "Fabricante": "China Great Wall Industry Corporation",
+    "Fecha de lanzamiento": "20 de diciembre de 2013 16:42:41 UTC",
+    "Lugar de lanzamiento": "Centro Espacial de Xichang, China",
+    "Vehículo de lanzamiento": "Cohete LM3B/E. construido por CASC.",
+    "Duración planificada": "5 años",
+    "ID COSPAR": "2013-075A",
+    "Masa en el lanzamiento": "5100 kg",
+    "Potencia": "8 kW",
+    "Sistema de referencia orbital": "Geoestacionaria",
+    "Inclinación orbital": "30 °",
+    "Órbita RAAN": "87.2 º Oeste",
+    "Trans nombre": "30 TP",
+    "Banda de transmisión": "26 en Ku, 2 en C y 2 en Ka",
+    "Trans cobertura": "Bolivia, Perú, Ecuador, Colombia, Paraguay, Uruguay y Venezuela",
+    "Datos interplanetarios": "tipo: orbitador | objeto: Telecomunicaciones"
+  },
+  "resumen": "El satélite TKSAT-1 (Túpac Katari) es el primer satélite artificial de telecomunicaciones propiedad del Estado Plurinacional de Bolivia, lanzado a órbita el 20 de diciembre de 2013, desde el Centro de Lanzamiento de Satélites de Xichang en China.\nEn 2017 se usa el 70 % de la capacidad del satélite, aunque se esperaba utilizar su capacidad completa, lo que se piensa que se cumplirá en 2025. No obstante, gracias al satélite se logró dar cobertura en área rural de Bolivia, especialmente de telefonía celular e internet (a través de telefonía). Sin embargo la cobertura no es mayor debido a que los precios ofertados por el servicio no son competitivos en algunos casos. Hasta agosto de 2017 (a tres años del inicio de sus servicios), la recaudación por uso comercial del satélite fue de 60 millones de dólares, y respecto a la cifra sus ejecutivos indican que el satélite nunca tuvo un objetivo comercial, sino más bien la mejora de las telecomunicaciones en el país. El satélite costó al gobierno de Bolivia 302 millones de dólares.",
+  "secciones": [
+    {
+      "titulo": "Historia del satélite",
+      "nivel": 2,
+      "texto": "Fue construido, a encargo del Estado Plurinacional de Bolivia, por la Corporación Industrial Gran Muralla, subsidiaria de la Corporación de Ciencia y Tecnología Aeroespacial de China, que se encargó de la construcción, el lanzamiento y puesta en órbita del satélite.\nTuvo un costo inicial de 295 millones de dólares, de los cuales 44,33 millones son del Tesoro General y 251,12 millones otorgados en un crédito del Banco de Desarrollo de China. Posteriormente ejecutivos de la ABE anunciaron que el costo total fue de 302 millones de dólares.\nEl TKSAT-1 tiene un seguro por 200 millones de dólares, que cubre el lanzamiento y el primer año en órbita, es un seguro que cubre el 100 % del capital que se requeriría para reponer el satélite. Por ser un seguro demasiado grande, no es administrado por una solo empresa, sino por un consorcio de empresas aseguradoras en China.\nFue lanzado el 20 de diciembre de 2013 desde el Centro de Lanzamiento de Satélites de Xichang, utilizando un cohete Larga Marcha 3 B/E."
+    },
+    {
+      "titulo": "Inicio de operaciones",
+      "nivel": 3,
+      "texto": "El 1 de abril de 2014, el satélite empezó sus operaciones plenas."
+    },
+    {
+      "titulo": "Acuerdos comerciales",
+      "nivel": 3,
+      "texto": "En febrero de 2014, la Aduana Nacional anuncia querer capacitar a sus funcionarios con la ayuda del Túpac Katari.\nEn abril, Las Fuerzas Armadas anuncian que estarán conectadas al Satélite Túpac Katari para dar beneficios importantes al interior de la institución en lo que se refiere a comunicaciones, ciencia y tecnología.\nEl 16 de abril se anuncia que la empresa telefónica VIVA es la primera en suscribir contrato comercial con la Agencia Boliviana Espacial por el uso del 50 por ciento.\nEn mayo, Entel y ABE firman un contrato comercial por 302 millones de dólares para ocupar el 60 por ciento de la capacidad del satélite por los próximos 15 años.\nEn julio, YPFB migra su sala de control del Centro Nacional de Medición y Control Hidrocarburífero al satélite Túpac Katari después de firmar un convenio marco con ABE en el pasado octubre.\nEn septiembre, al cabo de cinco meses de funcionamiento, ejecutivos de la ABE anunciaban que el satélite ya recaudaba alrededor de 5 millones de dólares y que se prestaba servicios satelitales a 6 empresas bolivianas."
+    },
+    {
+      "titulo": "Características técnicas",
+      "nivel": 2,
+      "texto": "Tiene unas dimensiones de 2,36 m x 2,1 m x 3,6 m. Su peso es de 5100 kg. Tiene capacidad para las bandas C Ku y Ka.\nSe ubica en una órbita geoestacionaria, sobre el plano del Ecuador terrestre, a 87.2° de longitud oeste y a 36000 km de altura sobre la superficie de la Tierra, muy aproximadamente sobre las islas Galápagos en el océano Pacífico.\nEnergía de los paneles Solares: 10,5 kW\nEnergía de la carga útil: 8 kW\nModo de Estabilización: 3 ejes\nTiempo de vida: 15 años\nConsta de 30 canales en las Bandas C / Ku / Ka y operará en tres frecuencias:\nFrecuencia 1: servicios de internet en todo el territorio boliviano.\nFrecuencia 2: emisiones de radio y comunicación.\nFrecuencia 3: alquilar diferentes tipos de transmisiones a otros países."
+    },
+    {
+      "titulo": "Estaciones terrenas",
+      "nivel": 2,
+      "texto": "En la actualidad el satélite es controlado desde la Estación Terrena de Amachuma de la ciudad de El Alto en el altiplano a cuatro mil metros sobre el nivel del mar la cual está ubicada en el departamento de La Paz y de la Estación Terrena de La Guardia, en el departamento de Santa Cruz, La Paz en pleno llano boliviano.\nLa Estación Terrena de Amachuma cuenta con 6 antenas, 4 de ellas destinadas a cubrir los servicios en las diferentes bandas de frecuencia (C, Ku FSS, Ku BSS y Ka), una antena TT&C destinada a operaciones de telemetría, tracking y comando del satélite y una antena IBS que sirve como enlace con la Estación Terrena de La Guardia. En la Estación Terrena de La Guardia, se tiene solamente 2 antenas, una TT&C. y una IBS que es el enlace con la Estación Terrena de Amachuma."
+    },
+    {
+      "titulo": "Objetivos y beneficios",
+      "nivel": 2,
+      "texto": "Los beneficios propuestos son:\nTrasmitir información vía satélite a todos los rincones de la población boliviana.\nReducción de las tarifas de la empresa de comunicaciones Entel en llamadas.\nTelevisión satelital de Entel a un precio 80 % más barato que los demás.\nInternet de Entel a zonas más alejadas."
+    }
+  ],
+  "num_palabras": 864
+}

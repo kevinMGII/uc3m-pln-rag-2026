@@ -1,0 +1,26 @@
+{
+  "id": "doc_1528",
+  "titulo": "EarthCARE",
+  "titulo_wikipedia_en": "EarthCARE",
+  "fecha_lanzamiento": "2024-05-28",
+  "año_lanzamiento": 2024,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Otro vuelo espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/EarthCARE",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {},
+  "resumen": "EarthCARE es una misión espacial de las agencias espaciales europea y japonesa. En mayo de 2008, la ESA firmó un contrato de unos €263 millones (£220 millones/$360 millones) con la filial de EADS, Astrium. Como contratista principal, Astrium fue responsable del diseño, desarrollo e integración del satélite. El diseño y construcción empezó a principios de 2009 mientras que el lanzamiento estaba programado para 2016, pospuesto en 2018 y finalmente lanzado el 28 de mayo de 2024, a bordo de un Falcon 9 Block 5 desde Vandenberg, Estados Unidos.\nEARTHCARE es un acróniomo de Earth Clouds, Aerosols and Radiation Explorer, amb pseudònim Hakuryū (del japonés que significa \"dragón blanco\"), y los objetivos de la misión son la mejora de la comprensión de los procesos de las nubes radioactivas y aerosoles que afectan al clima de la Tierra.\nEl proyecto es parte del Programa Living Planet de la ESA.\nEl satélite realiza mediciones útiles para una mejor comprensión del equilibrio de la radiación térmica y solar de la Tierra. En particular, una combinación de instrumentos activos (lidar y radar) y pasivos (radiómetro y sensores de imagen) permitirán al EarthCARE a medir a la vez la distribución de las nubes verticiales y horizontales y aerosoles atmosféricas con flujos cortos y largos de Top-Of-Atmosphere (TOA).\nLa nave espacial cuenta con cuatro instrumentos destacados:\nBackscatter Lidar (ATLID) - ESA - Resolución y despolarización de alto espectro\nCloud Profiling Radar (CPR) - JAXA/NICT - sensitividad de 36 dBZ, rango vertical de 500 m, Doppler\nMulti-Spectral Imager (MSI) - ESA - 7 canales, 150 km de margen, 500 m por píxel\nBroadband Radiometer (BBR) - ESA - 2 canales, 3 vistas (nadir, proa y popa). Un radiómetro de banda ancha.\nEl satélite vuela en una órbita polar alta de 400 km a una inclinación de 97 grados con un peso de 1700 kg.",
+  "secciones": [
+    {
+      "titulo": "Historia de la misión",
+      "nivel": 2,
+      "texto": "En mayo de 2008, la ESA firmó un contrato por valor de 263 millones de euros (220 millones de libras esterlinas/360 millones de dólares de EE. UU.) con la filial de EADS Astrium. Como contratista principal, Astrium es responsable del diseño, desarrollo e integración del satélite. El diseño y la construcción empezaron a principios de 2009.\nEarthCARE es un acrónimo que significa Earth Cloud, Aerosol and Radiation Explorer, y los objetivos de la misión son mejorar la comprensión de los procesos de nube, radiativo y aerosol que afectan al clima de la Tierra. En enero de 2011, el presupuesto total del proyecto es de 500 millones de libras esterlinas (590 millones de euros/810 millones de dólares EE. UU.). Una parte importante del proyecto se fabricó en Reino Unido, la estructura principal de la nave espacial será construida por RUAG Space en Suiza y posteriormente se completó en las instalaciones de Stevenage de Astrium, mientras que uno de los instrumentos será hecho en Sevenoaks por SSTL y otro en Bristol, Somerset por SEA Group Ltd, ahora parte de Thales Alenia Space UK. En septiembre de 2014, ESA y JAXA organizaron el taller de ciencia internacional EarthCARE. De 2014 a 2015 se llevó a cabo una integración continua de los instrumentos. En 2015, el lanzamiento se aplazó en 2018 debido a problemas con el desarrollo de lidar. EarthCARE se lanzó el 28 de mayo de 2024 a las 22:20 UTC."
+    }
+  ],
+  "num_palabras": 544
+}

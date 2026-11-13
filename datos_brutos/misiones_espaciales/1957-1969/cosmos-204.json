@@ -1,0 +1,43 @@
+{
+  "id": "doc_0232",
+  "titulo": "Cosmos 204",
+  "titulo_wikipedia_en": "Kosmos 204",
+  "fecha_lanzamiento": "1968-03-05",
+  "año_lanzamiento": 1968,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite (programa Cosmos)",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Cosmos_204",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Reentrado en la atmósfera",
+    "Tipo de misión": "Militar",
+    "Fecha de lanzamiento": "5 de marzo de 1968",
+    "Lugar de lanzamiento": "Cosmódromo de Plesetsk",
+    "Vehículo de lanzamiento": "Kosmos-2I",
+    "ID NSSDC": "1968-015A",
+    "Configuración": "Dodecaédrica",
+    "Masa en el lanzamiento": "300 kg",
+    "Tipo de fin de misión": "reingreso",
+    "Fecha de reentrada": "2 de marzo de 1969"
+  },
+  "resumen": "Cosmos 204 (en cirílico, Космос 204) fue un satélite artificial militar soviético, perteneciente a la clase de satélites DS (DS-P1-I, tercero de su tipo), lanzado el 5 de marzo de 1968, mediante un cohete Kosmos-2I desde el cosmódromo de Plesetsk.",
+  "secciones": [
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "Cosmos 204 fue parte de una red de satélites militares utilizados para calibrar y mejorar el sistema de detección antimisiles balísticos soviético. El propósito declarado por la Unión Soviética ante la Organización de las Naciones Unidas en el momento del lanzamiento era realizar \"investigaciones de la atmósfera superior y el espacio exterior\"."
+    },
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "El satélite tenía una masa de 300 kg, forma dodecaédrica y la alimentación eléctrica era proporcionada por células solares situadas en su superficie. Reentró en la atmósfera el 2 de marzo de 1969. El satélite fue inyectado en una órbita con un perigeo de 282 km y un apogeo de 873 km, con una inclinación orbital de 71 grados y un período de 95,9 minutos."
+    }
+  ],
+  "num_palabras": 157
+}

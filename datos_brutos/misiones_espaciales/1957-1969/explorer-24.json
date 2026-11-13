@@ -1,0 +1,45 @@
+{
+  "id": "doc_0115",
+  "titulo": "Explorer 24",
+  "titulo_wikipedia_en": "Explorer 24",
+  "fecha_lanzamiento": "1964-11-21",
+  "año_lanzamiento": 1964,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de observación terrestre",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Explorer_24",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Reentrado en la atmósfera",
+    "Tipo de misión": "Estudio de la atmósfera superior",
+    "Operador": "NASA",
+    "Fecha de lanzamiento": "21 de noviembre de 1964",
+    "Lugar de lanzamiento": "Base Aérea de Vandenberg",
+    "Vehículo de lanzamiento": "Scout",
+    "ID NSSDC": "1964-076A",
+    "Configuración": "Esférica",
+    "Masa en el lanzamiento": "8,6 kg",
+    "Dimensiones": "3,6 m de diámetro",
+    "Tipo de fin de misión": "reingreso",
+    "Fecha de reentrada": "18 de octubre de 1968"
+  },
+  "resumen": "Explorer 24, conocido también como AD-B, fue un satélite artificial de la NASA lanzado el 21 de noviembre de 1964 desde la Base Aérea de Vandenberg mediante un cohete Scout. Reentró en la atmósfera el 18 de octubre de 1968. Formó parte de la serie de satélites AD (Air Density) para realizar mediciones en la atmósfera superior.",
+  "secciones": [
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "El objetivo de AD-B fue realizar estudios sobre densidad de la atmósfera superior. Fue lanzado mientras el Explorer 25, con idéntica misión, estaba todavía activo, con lo que se pudieron tomar simultáneamente medidas en dos puntos de la atmósfera."
+    },
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "Explorer 24 era idéntico a Explorer 9 y Explorer 19. Consistía en una esfera hinchable de 3,66 m de diámetro formada por varias capas de película plástica y de aluminio. En la superficie y uniformemente distribuidos podían encontrarse puntos de 5,1 cm de diámetro de pintura blanca para control térmico. En la superficie también llevaba una baliza de seguimiento funcionando a 136 MHz y alimentada por cuatro células solares y que utilizaba los hemisferios eléctricamente separados de la esfera como antena."
+    }
+  ],
+  "num_palabras": 177
+}

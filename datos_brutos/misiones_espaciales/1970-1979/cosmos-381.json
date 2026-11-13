@@ -1,0 +1,34 @@
+{
+  "id": "doc_0330",
+  "titulo": "Cosmos 381",
+  "titulo_wikipedia_en": "Kosmos 381",
+  "fecha_lanzamiento": "1970-12-02",
+  "año_lanzamiento": 1970,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de observación terrestre",
+    "Satélite (programa Cosmos)",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Cosmos_381",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Inactivo",
+    "Fecha de lanzamiento": "2 de diciembre de 1970",
+    "Lugar de lanzamiento": "Cosmódromo de Plesetsk",
+    "Vehículo de lanzamiento": "Kosmos 3",
+    "ID NSSDC": "1970-102A",
+    "Masa en el lanzamiento": "710 kg",
+    "Dimensiones": "2,035 m de diámetro",
+    "Periapsis": "961 km",
+    "Apoapsis": "1007 km",
+    "Inclinación orbital": "74 grados",
+    "Periodo orbital": "104,8 minutos"
+  },
+  "resumen": "Ionosfernaya o Cosmos 381 fue un satélite artificial soviético lanzado el 2 de diciembre de 1970 a bordo de un cohete Kosmos 3 desde el cosmódromo de Plesetsk. Un intento de lanzamiento anterior, el 27 de diciembre de 1969, terminó en fracaso.\nIonosfernaya fue destinado a realizar estudios de la ionosfera. Tenía forma de cilindro de 2,035 m de diámetro, con la superficie recubierta de células solares y radiadores. La orientación se conseguía mediante un mástil extensible, de manera pasiva, utilizando el gradiente gravitatorio.",
+  "secciones": [],
+  "num_palabras": 84
+}

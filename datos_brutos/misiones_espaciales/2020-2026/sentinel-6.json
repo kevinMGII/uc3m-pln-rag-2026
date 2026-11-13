@@ -1,0 +1,44 @@
+{
+  "id": "doc_1397",
+  "titulo": "Sentinel-6",
+  "titulo_wikipedia_en": null,
+  "fecha_lanzamiento": "2020",
+  "año_lanzamiento": 2020,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Otro vuelo espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Sentinel-6",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Programa": "Sentinel",
+    "Misión anterior": "Sentinel-5"
+  },
+  "resumen": "La misión Sentinel-6, también denominada misión Jason-CS, es un altímetro satelital desarrollado por la Agencia Espacial Europea (ESA) en el contexto del programa europeo Copérnico dirigido por la Comisión Europea, la Organización Europea de Explotación de Satélites Meteorológicos (EUMETSAT), la NASA y la Administración Nacional Oceánica y Atmosférica (NOAA), con el apoyo financiero de la Comisión Europea y el apoyo técnico del Centro Nacional de Estudios Espaciales de Francia (CNES).\nSentinel-6 incluye dos satélites idénticos que se lanzarán con cinco años de diferencia: Sentinel-6 Michael Freilich, que se lanzó el 21 de noviembre de 2020 y Sentinel-6B, que se lanzará en 2025.\nEstos satélites continuarán las mediciones de los cambios del nivel del mar desde el espacio, que se han medido sin interrupción desde 1992.",
+  "secciones": [
+    {
+      "titulo": "Contexto",
+      "nivel": 2,
+      "texto": "Desde el lanzamiento de TOPEX/Poseidon el 10 de agosto de 1992, los altímetros de alta precisión de los satélites han sido esenciales para vigilar la forma en que el océano almacena y redistribuye el calor, el agua y el carbono en el sistema climático. Los dos satélites, Sentinel-6 Michael Freilich y Sentinel-6B, extenderán este legado hasta por lo menos 2030, lo que proporcionará un registro de casi cuarenta años de aumento del nivel del mar así como de cambios en las corrientes oceánicas."
+    },
+    {
+      "titulo": "Colaboración",
+      "nivel": 2,
+      "texto": "La misión Sentinel-6 forma parte de la iniciativa del programa Copérnico. El principal objetivo de la misión Sentinel-6 es medir la topografía de la superficie del mar con gran precisión y fiabilidad para apoyar los sistemas de previsión oceánica, la vigilancia ambiental y la vigilancia del clima.\nLa misión está impulsada por la necesidad de continuidad de las misiones TOPEX/Poseidon y la serie de satélites Jason (Jason-1, OSTM/Jason-2 y Jason-3) con mejoras en el rendimiento y la cobertura de los instrumentos. La ESA, la NASA y EUMETSAT proporcionarán gestión de la misión y apoyo de ingeniería de sistemas. EUMETSAT y NASA serán responsables de los archivos a largo plazo de los datos de altimetría. Todos los socios participarán en la selección de los investigadores científicos."
+    },
+    {
+      "titulo": "Responsabilidades de los socios",
+      "nivel": 2,
+      "texto": "La ESA se encarga del desarrollo del primer satélite y de los procesadores del prototipo terrestre, así como de la adquisición del segundo satélite en nombre de EUMETSAT y de la Comisión Europea;\nLa ESA es responsable del lanzamiento y de la fase de operaciones iniciales (LEOP) de ambos satélites;\nLa ESA prestará apoyo a las operaciones de vuelo realizadas por EUMETSAT;\nEUMETSAT se encarga del desarrollo del segmento terrestre y de la coordinación a nivel de sistema, incluida la preparación de las operaciones;\nEUMETSAT se encargará de las operaciones de los dos satélites después de la LEOP realizada por la ESA;\nEUMETSAT se encargará de las operaciones de la parte europea del segmento terrestre, incluido el procesamiento de datos de altimetría y la prestación de servicios a los usuarios europeos;\nLa NASA tiene la responsabilidad del desarrollo y la entrega de los instrumentos de carga útil de los Estados Unidos, el radiómetro de microondas y el receptor de radio-ocultación del GNSS;\nLa NASA proporciona servicios de lanzamiento para ambos satélites;\nLa NASA proporciona apoyo al desarrollo del segmento terrestre y contribuirá a las operaciones y al procesamiento de datos en el lado estadounidense, incluido el procesamiento de datos de radioocultación del GNSS;\nLa NASA y la NOAA compartirán la responsabilidad de la distribución de los productos a los usuarios de investigación y operacionales en los Estados Unidos;\nLa NOAA proporciona una estación terrestre de los Estados Unidos para el seguimiento y el mando del satélite y los enlaces descendentes de datos;\nEl CNES tiene la responsabilidad de procesar productos de nivel superior (L2B, L3) y de proporcionar la determinación precisa de la órbita y el apoyo a las operaciones de Doris y del altímetro."
+    },
+    {
+      "titulo": "Instrumentos",
+      "nivel": 2,
+      "texto": "Radioaltímetro, desarrollado por la ESA, basado en el instrumento Sentinel-3 SARL, pero con un diseño adoptado para permitir el modo intercalado combinando los modos SAR y LRM;\nRadiómetro de microondas avanzado (AMR-C) proporcionado por la NASA;\nReceptor de determinación precisa de la órbita del GNSS (POD), desarrollado por la ESA y derivado del receptor del GNSS en el Sentinel-3\nOrbitografía Doppler y radioposicionamiento integrado por satélite (receptor DORIS) Idéntico al utilizado en Jason-3 y Sentinel-3.\nConjunto de Reflectores Láser (LRA) (Idéntico al utilizado en Jason-3), proporcionado por la NASA\nGNSS-RO para radio ocultación basado en un receptor Tri-G, proporcionado por la NASA"
+    }
+  ],
+  "num_palabras": 720
+}

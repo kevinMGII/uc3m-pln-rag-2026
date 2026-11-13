@@ -1,0 +1,46 @@
+{
+  "id": "doc_0639",
+  "titulo": "Cosmos 1809",
+  "titulo_wikipedia_en": null,
+  "fecha_lanzamiento": "1986-12-18",
+  "año_lanzamiento": 1986,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de observación terrestre",
+    "Satélite (programa Cosmos)",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Cosmos_1809",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Inactivo",
+    "Tipo de misión": "Experimental y estudios sobre la ionosfera terrestre",
+    "Operador": "Unión Soviética",
+    "Fecha de lanzamiento": "18 de diciembre de 1986",
+    "Lugar de lanzamiento": "Cosmódromo de Plesetsk",
+    "Vehículo de lanzamiento": "Tskilon",
+    "ID NSSDC": "1986-101A",
+    "Masa en el lanzamiento": "700 kg",
+    "Periapsis": "945,7 km",
+    "Apoapsis": "969,4 km",
+    "Inclinación orbital": "82,5 grados",
+    "Periodo orbital": "104,1 minutos"
+  },
+  "resumen": "Cosmos 1809, también denominado Ionosonde, fue el nombre de un satélite artificial soviético construido con el bus AUOS y lanzado bajo el programa Intercosmos de cooperación internacional el 18 de diciembre de 1986 desde el cosmódromo de Plesetsk mediante un cohete Tsiklon.",
+  "secciones": [
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "La misión de Cosmos 1809 consistió en probar nuevos métodos para el estudio de la ionosfera terrestre y estudiar la propagación de ondas de radio en la misma."
+    },
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "Cosmos 1809 se estabilizaba en los tres ejes y su instrumentación incluía lo siguiente:\nun sondeador vertical para medir perfiles de densidad de plasma (de 0,3 a 15,95 MHz).\nuna sonda de impedancia para medir la concentración de plasma.\nuna sonda de alta frecuencia para medir la temperatura de los electrones y su espectro en energías de hasta 6 eV y la densidad total de iones.\nun espectrómetro de masas para medir la densidad de iones y su composición.\nun espectrómetro de fotoelectrones para medir los flujos de fotoelectrones en el rango de energía entre 10 y 15 eV.\nun medidor de campo eléctrico para medir dos componentes del campo eléctrico y el potencial de la nave.\nun medidor de ondas VLF para frecuencias entre 70 Hz y 20 kHz.\nun receptor de banda ancha con un transmisor propio de telemetría con una frecuencia entre 0,1 y 50 MHz.\nEl satélite dejó de funcionar en 1987."
+    }
+  ],
+  "num_palabras": 226
+}

@@ -1,0 +1,33 @@
+{
+  "id": "doc_1146",
+  "titulo": "KA-SAT",
+  "titulo_wikipedia_en": "KA-SAT",
+  "fecha_lanzamiento": "2010-12-26",
+  "año_lanzamiento": 2010,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Estación espacial",
+    "Satélite de comunicaciones",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/KA-SAT",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {},
+  "resumen": "KA-SAT es un satélite de comunicaciones de alto rendimiento, propiedad de Eutelsat, que usa la Banda Ka.\nEl satélite ofrece banda ancha de acceso a Internet en Europa y también en una pequeña zona del Oriente Medio.\nEstá situado a 9° E, uniéndose al satélite Eurobird 9A banda Ku. KA-SAT fue fabricado por EADS Astrium, basado en la plataforma Eurostar E3000, con un peso total de 6 toneladas. Fue lanzado por Proton en diciembre de 2010. El satélite lleva el nombre de la banda Ka, una banda de frecuencia que se utiliza en astronaves.",
+  "secciones": [
+    {
+      "titulo": "Sistemas de comunicación",
+      "nivel": 2,
+      "texto": "Las comunicaciones de datos utilizados en el satélite KA-SAT se transmiten hacia y desde equipos fabricados por ViaSat:\nen telepuertos del Eutelsat (gateways de Internet), el ViaSat \"SurfBeam2\" hub system;\nen el sitio del cliente, el satmódem ViaSat SurfBeam 2, como un equipo local del cliente.\n\"SurfBeam 2 \"es una versión modificada del protocolo DOCSIS adaptado por ViaSat Inc. al enlace físico satelital y adopta la tecnología más reciente para la modulación en el canal de ida, es decir, DVB-S2, y para el método de acceso al canal, es decir, MF-TDMA (Multi Frecuencia-TDMA)."
+    },
+    {
+      "titulo": "Televisión",
+      "nivel": 2,
+      "texto": "KA-SAT no solo ofrece banda ancha, sino que su posicionamiento orbital, permite la recepción simultánea de televisión e internet mediante una antena estándar"
+    }
+  ],
+  "num_palabras": 210
+}

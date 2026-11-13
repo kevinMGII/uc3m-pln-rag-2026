@@ -1,0 +1,46 @@
+{
+  "id": "doc_1245",
+  "titulo": "Amazonas 4A",
+  "titulo_wikipedia_en": "Amazonas 4A",
+  "fecha_lanzamiento": "2014-03-22",
+  "año_lanzamiento": 2014,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de comunicaciones",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Amazonas_4A",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Activo",
+    "Tipo de misión": "Satélite de comunicaciones",
+    "Operador": "Hispasat",
+    "Fabricante": "Orbital Sciences Corporation",
+    "Plataforma (bus)": "GEOStar 2.4",
+    "Fecha de lanzamiento": "22 de marzo de 2014, 22:04 UTC",
+    "Duración planificada": "15 años",
+    "Masa en el lanzamiento": "2.938 kg",
+    "Potencia": "> 6,2 kW",
+    "Sistema de referencia orbital": "Geoestacionaria",
+    "Banda de transmisión": "Ku",
+    "Ancho de banda": "36 MHz",
+    "Trans cobertura": "América"
+  },
+  "resumen": "El Amazonas 4A, también conocido como Amazonas 4 o Hispasat 74W-1, es un satélite de comunicaciones español. Se encuentra en la posición orbital geoestacionaria 74° Oeste, donde es operado por Hispasat/Hispamar.",
+  "secciones": [
+    {
+      "titulo": "Historia",
+      "nivel": 2,
+      "texto": "En junio de 2012 Hispasat firmó un contrato para la construcción de dos satélites: el Amazonas 4A y el Amazonas 4B. La inversión total en el Amazonas 4A fue de 140 millones de euros, siendo construido a partir de una plataforma GEOStar 2.4 de Orbital Sciences Corporation.\nEl 22 de marzo de 2014, a las 22:04 UTC, se produjo el lanzamiento mediante un vehículo Ariane 5 ECA, desde el ELA-3 del Centro Espacial de Kourou en la Guayana Francesa, junto con el satélite Astra 5B. El Amazonas 4A tenía una masa de lanzamiento de 2.938 kg.\nPoco después del lanzamiento, durante las pruebas en órbita, se identificó una anomalía en el subsistema de energía del satélite.\nEn junio de 2014, después de meses de pruebas, Hispasat anunció una solución a los problemas eléctricos del Amazonas 4A. El satélite Amazonas 3 y el satélite Amazonas 4A podrían complementarse al usar la misma posición orbital. El Amazonas 3 era utilizado principalmente por Media Networks para brindar contenido de TV por suscripción a varios operadores en Brasil, entre ellos Vivo TV, Algar Telecom y Oi TV. El uso de Amazonas 4A como complemento de Amazonas 3 dependería de algunos ajustes técnicos, ya que Amazonas 4A opera en una frecuencia (BSS) diferente a Amazonas 3 (FSS). No estaba claro si Media Networks ya tenía un contrato para utilizar el satélite Amazonas 4A y si se comprometía o no sus planes de expansión de capacidad.\nEn marzo de 2016 Hispasat anunció que Amazonas 4A había pasado a llamarse Amazonas 4, debido a la transformación del satélite Amazonas 4B en Amazonas 5."
+    },
+    {
+      "titulo": "Capacidad y cobertura",
+      "nivel": 2,
+      "texto": "El Amazonas 4A está equipado con 24 transpondedores de banda Ku para proporcionar cobertura en América y responder a la creciente demanda de transmisiones de TV HD y Direct-to-Home.\nLa televisión de Ultra Alta Definición 4K multiplica por cuatro el número de píxeles de una pantalla de alta definición. Así, la resolución es cuatro veces superior a la Alta Definición convencional y suministra una nitidez de imagen que proporciona al usuario una percepción de calidad muy elevada. El satélite es la plataforma ideal para el desarrollo de los servicios en Ultra Alta Definición gracias a su elevado ancho de banda, cualidad imprescindible para transmitir en alta calidad esta gran cantidad de información. La potencia de los satélites de Hispasat permite la transmisión de estos contenidos gracias a su diseño orientado a los servicios Direct-to-Home (DTH)."
+    }
+  ],
+  "num_palabras": 432
+}

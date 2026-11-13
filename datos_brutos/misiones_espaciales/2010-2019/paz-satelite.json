@@ -1,0 +1,93 @@
+{
+  "id": "doc_1344",
+  "titulo": "PAZ (satélite)",
+  "titulo_wikipedia_en": "Paz (satellite)",
+  "fecha_lanzamiento": "2018-02-22",
+  "año_lanzamiento": 2018,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de observación terrestre",
+    "Satélite militar",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/PAZ_(satélite)",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Activo",
+    "Tipo de misión": "Observación de la Tierra",
+    "Operador": "INTA-CDTI",
+    "Fabricante": "Hisdesat",
+    "Fecha de lanzamiento": "22 de febrero de 2018",
+    "Lugar de lanzamiento": "Base de la Fuerza Aérea Vandenberg (EE. UU.)",
+    "Vehículo de lanzamiento": "Falcon 9 (SpaceX)",
+    "Duración planificada": "5 años y medio",
+    "Masa en el lanzamiento": "1400 kg",
+    "Dimensiones": "5 m x 2,4 m",
+    "Potencia": "100 W",
+    "Sistema de referencia orbital": "Heliosincrónica casipolar",
+    "Instrumentos": "Radar de Apertura Sintética (SAR)",
+    "Banda de transmisión": "X"
+  },
+  "resumen": "El satélite PAZ, anteriormente conocido como SEOSAR (Satélite Español de Observación SAR), es el satélite artificial radar del Programa Nacional de Observación de la Tierra por Satélite (PNOTS), creado por el Ministerio de Defensa y el entonces ministerio de Industria, Comercio y Turismo de España.",
+  "secciones": [
+    {
+      "titulo": "El programa",
+      "nivel": 2,
+      "texto": "El Ministerio de Defensa encargó a la empresa Hisdesat comenzar el desarrollo de un sistema de observación de la Tierra con tecnología radar de apertura sintética, en el año 2007, para satisfacer los requisitos operativos de las Fuerzas Armadas Españolas respecto a las necesidades de observación a tiempo completo con muy alta resolución.\nComo consecuencia de lo anterior, Hisdesat inició los trabajos de desarrollo del programa, contratando el diseño y la fabricación del satélite a EADS CASA Espacio en diciembre de 2007, lo que supuso un hito para la industria espacial española al ser la primera vez que se asume el reto de construir en España un satélite de este tamaño y complejidad.\nHisdesat es la propietaria, operadora y explotadora del satélite PAZ, que proporcionará información valiosa para múltiples aplicaciones desde su órbita polar alrededor de la Tierra.\nEADS CASA Espacio, como contratista principal, lidera un gran consorcio formado por empresas del sector espacial. Además, está desarrollando la parte frontal del radar, cuya antena es uno de los elementos más importantes e innovadores y está basada en tecnología de circuitos radiadores impresos en disposición multicapas.\nHisdesat contrató el lanzamiento del satélite con el lanzador ruso Dnepr, previsto inicialmente para finales del año 2012, pero dicho lanzamiento sufrió diversos retrasos (los últimos fueron de origen político tras el enfriamiento de relaciones entre Rusia y la Unión Europea por la crisis de Ucrania), hasta que en 2016 se decidió cancelar el lanzamiento con dicho lanzador y buscar otros posibles lanzadores.\nEl INTA es el responsable del desarrollo del segmento terreno del programa PAZ que incluye las Estaciones de Control y Seguimiento, que estarán localizadas en Torrejón de Ardoz (Madrid) y Maspalomas (Gran Canaria) (con opción a usar también una estación polar) y los centros de procesado y almacenamiento de los datos, situados en las ubicaciones anteriores y en la Base Aérea de Torrejón de Ardoz (CESAEROB).\nEl coste total del satélite es de 160 millones de euros, incluyendo 20 millones de euros del lanzamiento por parte de SpaceX. Aún queda por resolver la devolución de 16 millones de euros por parte de la empresa rusa Kosmotras, que culpa a España del retraso que dio al traste con el lanzamiento."
+    },
+    {
+      "titulo": "La misión",
+      "nivel": 2,
+      "texto": "PAZ es el satélite radar del Programa Nacional de Observación de la Tierra por Satélite (PNOTS), creado por los Ministerios de Defensa e Industria, Comercio y Turismo.\nPodrá tomar imágenes diurnas y nocturnas bajo cualquier condición meteorológica, gracias a su radar de apertura sintética (SAR) en banda X militar.\nSus aplicaciones son muy diversas: vigilancia de la superficie terrestre, cartografía de alta resolución, control fronterizo, soporte táctico en misiones en el extranjero, gestión de crisis y riesgos, evaluación de catástrofes naturales, control medioambiental, vigilancia del entorno marítimo, etc.\nPAZ será capaz de ofrecer unas 100 imágenes al día, cubriendo un área de más de 300 000 km². El satélite está diseñado para una misión de cinco años y medio de duración. Dada su órbita cuasi-polar ligeramente inclinada, PAZ cubrirá todo el globo con un tiempo medio de revista de 24 horas. El radar está desarrollado de manera que sea muy flexible, con capacidad para operar en gran número de configuraciones que permitirán escoger las prestaciones de la imagen."
+    },
+    {
+      "titulo": "Características de la misión",
+      "nivel": 3,
+      "texto": ""
+    },
+    {
+      "titulo": "La órbita",
+      "nivel": 4,
+      "texto": "Helio-síncrona casipolar a 514 km de altura\nNodo ascendente 18:00 h\nCiclo de repetición: 15 + 2/11"
+    },
+    {
+      "titulo": "Precisión de la determinación orbital del satélite",
+      "nivel": 4,
+      "texto": "Modo GPS 10 metros\nModo GPS preciso 2 metros\nModo de alta precisión con postproceso 10 cm"
+    },
+    {
+      "titulo": "Capacidad de acceso lateral para toma de imágenes",
+      "nivel": 4,
+      "texto": "Desde 15º hasta 60° para máximo acceso\nDesde 20º hasta 45° para máxima capacidad"
+    },
+    {
+      "titulo": "Instrumento muy flexible",
+      "nivel": 4,
+      "texto": "Tomas a derecha e izquierda\nDistintos modos electrónicos (Stripmap, ScanSAR, SpotLight y SpotLight HR) y amplio número de configuraciones"
+    },
+    {
+      "titulo": "Prestaciones de la misión",
+      "nivel": 3,
+      "texto": "El instrumento que lleva PAZ es un radar lateral de apertura sintética muy versátil, que puede operar en varios modos y resoluciones. Ofrecerá las siguientes prestaciones en sus imágenes:\nTamaño: desde 100x100 km hasta 5x5 km\nResoluciones: desde 15 m hasta 1 m (aunque se le incorporarán una vez esté en el espacio dos modos de imágenes que le permitirán que alcance una precisión de hasta 25 centímetros y en mucho más terreno)"
+    },
+    {
+      "titulo": "El satélite",
+      "nivel": 2,
+      "texto": "Con un peso total estimado de unos 1400 kg, PAZ mide 5 m de altura y 2,4 m de diámetro.\nConsta de una plataforma o módulo de servicio y un radar de apertura sintética como instrumento principal.\nIncorpora un experimento de Radio Ocultación y Precipitación Extrema, y un receptor del Sistema de Identificación Automática (AIS) como instrumentos secundarios."
+    },
+    {
+      "titulo": "La plataforma",
+      "nivel": 2,
+      "texto": "Basada en la de TerraSAR y Tandem-X, la plataforma da servicio al satélite PAZ dotándole de:\nUna potencia media de 100 W por órbita\nMemoria para imágenes de 256 Gb\nCapacidad de transmisión de imágenes a tierra de 300 Mbits/s en banda X\nToma de datos y transmisión de imágenes simultánea"
+    },
+    {
+      "titulo": "Industrias españolas participantes",
+      "nivel": 2,
+      "texto": "AIRBUS Defence and Space (España), antes EADS ASTRIUM y previamente EADS CASA Espacio: contratista principal del satélite.\nINDRA Sistemas: módulos Tx/Rx. Segmento terrestre de comunicaciones\nCRISA: unidades electrónicas del instrumento - PCU y RTU.\nRYMSA: antenas de la plataforma - Bandas S y X.\nNTE-Sener: unidad de potencia del instrumento - PSU.\nIberEspacio: equipo de soporte en tierra de refrigeración del instrumento.\nHV Sistemas: equipos de soporte en tierra - simulador front-end, unidad de potencia EGSE y unidad trigger.\nGMV: Centro de Control de Operaciones de vuelo (FOCC).\nACORDE: equipos de soporte en tierra del instrumento radar - ICCS y software del RF EGSE.\nInventia: equipos mecánicos de soporte en tierra.\nCachinero: equipos mecánicos de soporte en tierra del satélite.\nLANGA: equipos mecánicos de soporte en tierra.\nERZIA: equipos de soporte en tierra de potencia del satélite - unidad de potencia SCOE.\nELATESA: elementos de la antena radar.\nINTA: ensayos de las antenas y paneles del radar.\nTTI Norte: soporte ingeniería RF.\nUniversidad Politécnica de Cataluña (UPC): modelos matemáticos del radar.\nUniversidad Politécnica de Madrid (UPM): simulaciones de la arquitectura eléctrica.\nEscuela Politécnica de la Universidad de Alcalá de Henares: ensayos de las antenas del radar."
+    }
+  ],
+  "num_palabras": 1025
+}

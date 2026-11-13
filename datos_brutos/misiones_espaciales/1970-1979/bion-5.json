@@ -1,0 +1,43 @@
+{
+  "id": "doc_0548",
+  "titulo": "Bion 5",
+  "titulo_wikipedia_en": "Kosmos 1129",
+  "fecha_lanzamiento": "1979-09-29",
+  "año_lanzamiento": 1979,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite científico",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Bion_5",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Retornado a la Tierra",
+    "Tipo de misión": "Experimentos biológicos",
+    "Operador": "Unión Soviética",
+    "Fecha de lanzamiento": "25 de septiembre de 1979",
+    "Lugar de lanzamiento": "Cosmódromo de Plesetsk",
+    "Vehículo de lanzamiento": "Soyuz",
+    "ID NSSDC": "1979-083A",
+    "Masa en el lanzamiento": "6000 kg",
+    "Tipo de fin de misión": "reingreso",
+    "Fecha de reentrada": "16 de marzo de 1980"
+  },
+  "resumen": "Bion 5 (Бион 5, en ruso), también conocido como Cosmos 1129, fue el nombre de un satélite artificial soviético perteneciente a la serie de satélites Bion. Fue lanzado el 25 de septiembre de 1979 desde el cosmódromo de Plesetsk mediante un cohete Soyuz. Regresó a la Tierra el 16 de marzo de 1980 y contó con la colaboración de Checoslovaquia, Francia, Hungría, Polonia, Rumanía, la República Democrática de Alemania y los Estados Unidos.",
+  "secciones": [
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "La misión de Bion 5 consistió en realizar diversos estudios biológicos, entre ellos el primer intento de reproducción de mamíferos (ratas) en el espacio, que no llegó a tener éxito. Los experimentos estadounidenses estaban dirigidos al estudio de los efectos de la radiación sobre ratas, embriones de codorniz y varias plantas. También se realizaron estudios sobre el efecto de la microgravedad en los músculos y huesos de ratas y se estudió la embriogénesis aviar en el espacio. Se investigaron los efectos de la microgravedad en tejidos vegetales utilizando zanahorias y en tejido de zanahoria canceroso para estudiar los efectos del vuelo espacial en el crecimiento y desarrollo de las plantas. Como en la misión anterior, se enviaron 30 ratas de la especie Rattus norvegicus para estudios fisiológicos; siete ratas adicionales fueron se utilizaron en experimentos embriológicos."
+    },
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "Bion 5 estaba basada, como todas las naves de la serie Bion, en los satélites de reconocimiento Zenit. La misión duró 18,5 días y la cápsula fue recuperada a 52º 17' de latitud norte y 65º 30' de longitud este."
+    }
+  ],
+  "num_palabras": 249
+}

@@ -1,0 +1,50 @@
+{
+  "id": "doc_0428",
+  "titulo": "Oreol 2",
+  "titulo_wikipedia_en": null,
+  "fecha_lanzamiento": "1973-12-26",
+  "año_lanzamiento": 1973,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de observación terrestre",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Oreol_2",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Inactivo",
+    "Tipo de misión": "Estudios de la magnetosfera y la ionosfera terrestre.",
+    "Operador": "Unión Soviética y Francia",
+    "Fecha de lanzamiento": "26 de diciembre de 1973",
+    "Lugar de lanzamiento": "Cosmódromo de Plesetsk",
+    "Vehículo de lanzamiento": "Cosmos 3M",
+    "ID NSSDC": "1973-107A",
+    "Masa en el lanzamiento": "550 kg",
+    "Periapsis": "384 km",
+    "Apoapsis": "1120,9 km",
+    "Inclinación orbital": "73,9 grados",
+    "Periodo orbital": "99,7 minutos"
+  },
+  "resumen": "Oreol 2, también conocido como Aureole 2 y Arkad 2, fue el nombre de un satélite artificial fruto de la colaboración entre la soviético y Francia y construido con el bus DS-U2-GKA. Fue lanzado el 26 de diciembre de 1973 desde el cosmódromo de Plesetsk mediante un cohete Cosmos 3M.",
+  "secciones": [
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "La misión de Oreol 2 era estudiar la magnetosfera e ionosfera terrestres y la naturaleza de las auroras polares, continuando el trabajo hecho por Oreol 1."
+    },
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "El satélite tenía una masa de 550 kg y fue inyectado inicialmente en una órbita con un perigeo de 387 km y un apogeo de 1441 km, con una inclinación orbital de 74 grados y un periodo de 103,3 minutos."
+    },
+    {
+      "titulo": "Resultados científicos",
+      "nivel": 2,
+      "texto": "Oreol 2 obtuvo mediciones y datos de la zona difusa auroral, estudiando la dinámica de la frontera ecuatorial de la región difusa y de los procesos de la ionosfera superior, así como la concentración de iones ligeros en la misma. Los resultados fueron utilizados para estudiar la variación de densidad de electrones en la capa F2 de la atmósfera superior."
+    }
+  ],
+  "num_palabras": 176
+}

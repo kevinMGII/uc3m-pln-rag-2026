@@ -1,0 +1,49 @@
+{
+  "id": "doc_1299",
+  "titulo": "Cygnus CRS OA-6",
+  "titulo_wikipedia_en": "Cygnus OA-6",
+  "fecha_lanzamiento": "2016-03-23",
+  "año_lanzamiento": 2016,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Otro vuelo espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Cygnus_CRS_OA-6",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Vehículo de lanzamiento": "Estación de la Fuerza Aérea de Cabo Cañaveral",
+    "Fecha de lanzamiento": "23 de marzo de 2016 a las 11:05 p. m. (ET)",
+    "Fecha de aterrizaje": "22 de junio de 2016",
+    "Nave": "Cygnus a bordo de un cohete Atlas V 410",
+    "Duración de la misión": "81 días acoplada a la estación (92 días desde su despegue hasta su desintegración)",
+    "Inclinación orbital": "51.6 grados",
+    "Programa": "Servicios Comerciales de Abastecimiento",
+    "Misión anterior": "Cygnus CRS OA-4",
+    "Misión siguiente": "SpaceX CRS-8",
+    "Programa (2)": "Vuelos de la Cygnus",
+    "Misión anterior (2)": "Cygnus CRS OA-4",
+    "Misión siguiente (2)": "Cygnus CRS OA-5"
+  },
+  "resumen": "Cygnus CRS OA-6, también conocido como Orbital Sciences CRS Vuelo 6, es el sexto vuelo de la aeronave presurizada no tripulada Cygnus, y su quinto vuelo que llegó a la Estación Espacial Internacional. Esta misión forma parte del contrato de reabastecimiento de la estación que tiene la empresa Orbital ATK con la NASA.\nEl nombre de la misión de esta nave Cygnus es S.S. Rick Husband, en honor al astronauta fallecido en el vuelo del Columbia.",
+  "secciones": [
+    {
+      "titulo": "Historia",
+      "nivel": 2,
+      "texto": "La primera misión de prueba con una Cygnus como parte del COTS se realizó de forma exitosa en septiembre de 2013. A partir de entonces, Orbital ATK comenzó a operar misiones de carga a la ISS dentro del programa de Servicio de Reabastecimiento Comercial Servicio (CRS por sus siglas en inglés) con dos misiones en 2014. Sin embargo, la tercera misión, Orb CRS-3, no se llevó a cabo de forma exitosa debido a fracaso catastrófico del cohete Antares 130 que lanzaría a la Cygnus. La empresa Orbital descontinuó la fabricación de la serie de cohetes Antares 100 y lo sustituyó por el planeado Antares 200, el cual contaría con un mejorado motor RD-181. Con este nuevo sistema de propulsión se proporcionaría una mayor capacidad de carga, mayor estabilidad y confianza en su rendimiento.\nMientras el Antares 200 se construye, la compañía firmó un contrato con la empresa ULA para utilizar los Atlas V. Es por esto que tanto el lanzamiento de la misión CRS OA-4 (ocurrido el 6 de diciembre de 2015) como el de la CRS OA-6 utilizaron este tipo de cohetes.\nOrbital ATK realizó los siguientes lanzamientos CRS OA-5 y CRS OA-7 en el nuevo Antares 230, pues después de la CRS OA-5 todavía necesita cubrir con los viajes obligados por el contrato que tiene con la NASA, según el cual debe llevar un total de 28,700 kg a la estación a lo largo de diferentes viajes."
+    },
+    {
+      "titulo": "Lanzamiento",
+      "nivel": 2,
+      "texto": "La nave despegó el 22 de marzo de 2016 desde Cabo Cañaveral, Florida y fue puesto en órbita baja de forma exitosa. Durante el vuelo, el cohete tuvo una anomalía menor en la primera etapa, lo que provocó el cierre del motor de la primera etapa cinco segundos antes de lo esperado. La anomalía provocó que la etapa superior del cohete Centauro tuviera que funcionar durante un minuto más de lo previsto, utilizando margen de combustible de reserva. El resto del cohete se reintegró a la Tierra de forma segura, aunque no en la ubicación designada. Este problema con el Atlas V es la primera anomalía en ocho años que ULA reconoce.\nEntre el despegue del Atlas V y la separación de la Cygnus para colocarse en la órbita planeada transcurrieron 21 minutos. Una hora después de la separación, la nave desplegó sus paneles solares circulares y durante los dos siguientes días elevó su órbita hasta situarse a la altura correcta y alinearse con la ISS. Los astronautas dentro de la estación utilizaron el brazo robótico para unir a la Cygnus con el módulo Unity, donde permanecerá unida cerca de dos meses en lo que descargaronn los suministros que llevaba y la llenaron de residuos."
+    },
+    {
+      "titulo": "Misión",
+      "nivel": 2,
+      "texto": "La aeronave llevó cerca de 3,600 kg de suministros y material científico para experimentos para la Estación así como cinco pequeños satélites (CubeSat) que la nave soltó.\nEl OA-6 es el quinto de diez vuelos por Orbital ATK y el segundo vuelo de la Cygnus a bordo de un Atlas V. Se lanzó la CRS OA-6 antes que la misión OA-5 debido a contratiempos en el desarrollo de los cohetes Antares.\nEl 26 de marzo de 2016 se confirmó su correcto acoplamiento con la Estación Espacial Internacional.\nTras ochenta y un días acoplada a la ISS, fue separada de esta el 14 de junio y el 22 de junio se desintegró al reingresar a la atmósfera terrestre. Una vez separada, la sonda llevó a cabo el \"Spacecraft Fire Experiment-I\" o Saffire-I, en el cual la NASA estudió el comportamiento y flamabilidad al interior de la nave. Para esto, se llevó a cabo un incendio dentro de la cápsula, el cual fue monitoreado por cámaras y sensores. Con este experimento se busca conocer más sobre el fuego y la resistencia a éste en las naves espaciales. También se realizó una prueba del Reentry Breakup Recorder with Wireless Sensors (REBR-W), sistema que fue instaldo previamente por los astronautas a bordo de la estación. Éste fue desarrollado por The Aerospace Corporation y se estudió el comportamiento de la nave durante la reentrada a la atmósfera y la desintegración, con lo que se espera aprender y mejorar la seguridad y diseño de las naves futuras. El REBR-W grabó y transmitió la destructiva reentrada de la Cygnus a la atmósfera de la Tierra."
+    }
+  ],
+  "num_palabras": 788
+}

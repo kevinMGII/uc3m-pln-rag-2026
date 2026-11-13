@@ -1,0 +1,67 @@
+{
+  "id": "doc_1242",
+  "titulo": "Global Precipitation Measurement",
+  "titulo_wikipedia_en": "Global Precipitation Measurement",
+  "fecha_lanzamiento": "2014-02-27",
+  "año_lanzamiento": 2014,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Otro vuelo espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Global_Precipitation_Measurement",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Operador": "JAXA/NASA",
+    "Plataforma (bus)": "Investigaciones ambientales",
+    "Fecha de lanzamiento": "27 de febrero de 2014, 18:37 UTC",
+    "Lugar de lanzamiento": "Tanegashima Yoshinobu 1",
+    "Vehículo de lanzamiento": "H-IIA 202 F-23",
+    "Masa en el lanzamiento": "3850 kg",
+    "Potencia": "1,95 kW",
+    "Sistema de referencia orbital": "Geocéntrica",
+    "Régimen orbital": "Órbita terrestre baja",
+    "Semieje mayor": "6779 km",
+    "Periapsis": "400.9 km",
+    "Apoapsis": "415.3 km",
+    "Inclinación orbital": "65°",
+    "Periodo orbital": "92,6 min",
+    "Época": "26 de marzo de 2017"
+  },
+  "resumen": "Global Precipitation Measurement (Mediciones de Precipitación Global) (GPM) es una misión mixta entre JAXA y NASA y otras agencias espaciales internacionales para hacer frecuentes (cada 2–3 h) observaciones de precipitación terráquea. Es parte del Programa NASA de Misiones Sistemáticas Terráqueas, trabajando con una constelación de satélites para proporcionar una completa cobertura global. El proyecto proporciona cartas de precipitación global para asistir investigaciones en mejorar pronósticos de acontecimientos extremos, estudiando el clima global, para beneficio de la sociedad. La Misión GPM ha tenido éxitos notables desde el Tropical Rainfall Measuring Mission (TRMM), el cual era también una sociedad mixta NASA-JAXA.",
+  "secciones": [
+    {
+      "titulo": "GPM Instrumentos de Observatorio del núcleo",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Radar de Precipitación de Frecuencia dual (DPR)",
+      "nivel": 3,
+      "texto": "El DPR es un radar espacial, que proporciona cartas tridimensionales de la estructura de la tormenta a lo largo de su franja, incluyendo intensidad de precipitaciones y nevadas en la superficie. El DPR tiene dos frecuencias, lo que permite a los investigadores estimar tamaño de las partículas de precipitación y detectar una mayor gama de tasas de precipitación. El radar en la banda-Ku, similar al PR en TRMM, cubre una andana de 245 km. Anidado dentro de eso, el radar de banda Ka cubre una andana de 120 km."
+    },
+    {
+      "titulo": "Cámara de microondas (GMI)",
+      "nivel": 3,
+      "texto": "El GMI es un sensor pasivo que observa la energía de microonda emitida por la Tierra y atmósfera en 13 diferentes frecuencias /canales de polarización. Esos datos dan cartas cuantitativos de precipitación a través de una andana de 885 km. Este instrumento continúa el legado de las observaciones de microonda del TRMM, y añade cuatro canales adicionales, mejor resolución; y, calibración más fiable."
+    },
+    {
+      "titulo": "Conjuntos de datos de precipitación",
+      "nivel": 2,
+      "texto": "GPM produce y distribuye una amplia variedad de productos de la precipitación. El procesamiento tiene lugar en el Sistema de Procesamiento de la Precipitación (PPS) en NASA Goddard Centro de Vuelo Espacial, así como en el JAXA en Japón. Los datos se proporcionan en múltiples \"niveles\" de procesamiento, desde las observaciones de satélites crudos hasta las cartas de precipitación global de mejor estimación usando combinaciones de todas las observaciones de constelación y otros datos meteorológicos. Todos los datos de la misión están libremente disponibles al públicos, en sitios web de NASA. Tales datos de precipitación están disponibles en una variedad de formatos, espaciales y resoluciones temporales, y el procesamiento nivela cuáles son accesibles en Datos de Misiones de Medida de Precipitación de Acceso web. Se han puesto a disposición varias herramientas de visualización y análisis de datos para facilitar el acceso a las comunidades científicas y de aplicaciones, que incluyen la herramienta de análisis de datos de la Tierra en el navegador Giovanni, una web API, y un visor 3D de precipitación global casi en tiempo real."
+    },
+    {
+      "titulo": "Medios de comunicación social y divulgación",
+      "nivel": 2,
+      "texto": "Además de mantener cuentas de redes sociales el GPM Carretera a Blog Lanzador, JAXA y NASA desarrolló varias actividades de divulgación específicas para esta misión antes del lanzamiento que el público podría participar. Después de lanzar una serie de artículos destacados. Después de lanzar una serie de artículos y videos producidos para destacar varios objetivos científicos y descubrimientos de la misión, y un blog de \"Tiempo Extremo\" proporcionando actualizaciones oportunas sobre los acontecimientos de precipitación extremos y los desastres naturales que ocurren alrededor del mundo. Un sitio web de Educación de la Precipitación es también mantenido para proporcionar a profesores y alumnado con planes, lecciones, animaciones, y otros recursos para enseñar sobre el ciclo de agua, ciencia de la Tierra, y misión GPM.\nNASA Socials\nJAXA-NASA DC Cherry Blossom Event\n12 de abril de 2013, en Goddard NASA Centro de Vuelo Espacial en Greenbelt, Maryland\nGPM Día de medios de comunicación\nViernes, 15 de nov. de 2013, en Goddard NASA Centro de Vuelo Espacial en Greenbelt, MD\nSe invitó a los usuarios de redes sociales a solicitar credenciales para asistir a las actividades de los medios de comunicación y compartir sus experiencias a través de sus propias cuentas.\nConcursos de fotos\nTiempo extremo\nDeja que nieve\nPerspectivas únicas\nGPM Reto de dibujos animados"
+    },
+    {
+      "titulo": "En la cultura popular",
+      "nivel": 2,
+      "texto": "El carácter principal Mohan Bharghav (Shahrukh Khan) en la película india de 2004 Swades: We, the People es un Proyecto Director en NASA GPM. Inicios de película de NASA GPM análisis de proyecto. Bharghav Habla la importancia de GPM y su impacto positivo encima Tierra. En la película el satélite GPM es lanzado por el Transbordador espacial."
+    }
+  ],
+  "num_palabras": 698
+}

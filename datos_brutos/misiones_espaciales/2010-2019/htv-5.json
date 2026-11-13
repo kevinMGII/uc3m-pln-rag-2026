@@ -1,0 +1,32 @@
+{
+  "id": "doc_1280",
+  "titulo": "HTV-5",
+  "titulo_wikipedia_en": "Kounotori 5",
+  "fecha_lanzamiento": "2015-08-19",
+  "año_lanzamiento": 2015,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Estación espacial",
+    "Nave de carga a la ISS"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/HTV-5",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Transportar cargas a la ISS",
+    "Operador": "JAXA",
+    "Fabricante": "Mitsubishi",
+    "Fecha de lanzamiento": "19 de agosto de 2015, 11:50:46 UTC",
+    "Lugar de lanzamiento": "Tanegashima Y2",
+    "Vehículo de lanzamiento": "H-IIB 304",
+    "ID NSSDC": "2015-038A",
+    "Masa en el lanzamiento": "5400 kg",
+    "Misión anterior": "HTV-4",
+    "Misión siguiente": "HTV-6"
+  },
+  "resumen": "HTV-5 (H-II Transfer Vehicle-5), también conocido como Kounotori 5 (こうのとり2号機, “cigüeña blanca”), es el quinto vehículo de transferencia H-II. Fue lanzado el 19 de agosto de 2015 a bordo de un cohete H-IIB (H-IIB F5) fabricado por MHI y la JAXA desde el Tanegashima Space Center. Siendo atrapado por el Canadarm2 a las 7:29 p. m. (JST) del 24 de agosto y completando el atraque al módulo Harmony del Segmento Orbital estadounidense de la ISS el 25 de agosto a las 2:28 a. m. (JST)\nDespués de descargar los suministros, el HTV-5 fue cargado con residuos y desechos de la ISS, tras lo que abandonó la ISS a las 0:20 a. m. (JST), del 29 de septiembre, destruyéndose durante la reentrada en la atmósfera terrestre el 30 de septiembre a las 5:31 a. m. (JST).",
+  "secciones": [],
+  "num_palabras": 135
+}

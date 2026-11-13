@@ -1,0 +1,41 @@
+{
+  "id": "doc_0843",
+  "titulo": "Early Bird 1",
+  "titulo_wikipedia_en": null,
+  "fecha_lanzamiento": "1997-12-24",
+  "año_lanzamiento": 1997,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de observación terrestre",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Early_Bird_1",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Reentrado en la atmósfera",
+    "Tipo de misión": "Teledetección.",
+    "Fecha de lanzamiento": "24 de diciembre de 1997",
+    "Lugar de lanzamiento": "Svobodniy (Rusia)",
+    "Vehículo de lanzamiento": "Start 1",
+    "ID NSSDC": "1997-085A",
+    "Tipo de fin de misión": "reingreso",
+    "Fecha de reentrada": "27 de julio de 2000"
+  },
+  "resumen": "Early Bird 1 fue el primer satélite artificial comercial de teledetección, desarrollado por la empresa EarthWatch, más tarde conocida como DigitalGlobe. Fue lanzado el 24 de diciembre de 1997 mediante un cohete Start 1 desde la base de Svobodniy, situada en Siberia (Rusia).",
+  "secciones": [
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "La misión de Early Bird 1 era realizar fotografías de alta resolución para comercializarlas con diversos fines."
+    },
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "El satélite fue inyectado inicialmente en una órbita con un perigeo de 461 km y un apogeo de 528 km, con una inclinación orbital de 97,3 grados y un período de 93,3 minutos. Disponía de una cámara pancromática capaz de obtener resoluciones de 3 metros y una multiespectral con una resolución de 15 metros.\nLa misión no pudo cumplir sus objetivos, Earthwatch anunció cuatro días después de su lanzamiento, el 28 de diciembre, que había perdido conmunicación y por tanto control del satélite.\nEarly Bird 1 reentró en la atmósfera el 27 de julio de 2000."
+    }
+  ],
+  "num_palabras": 156
+}

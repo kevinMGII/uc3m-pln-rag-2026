@@ -1,0 +1,30 @@
+{
+  "id": "doc_1285",
+  "titulo": "USA-265",
+  "titulo_wikipedia_en": "USA-265",
+  "fecha_lanzamiento": "2015-10-31",
+  "año_lanzamiento": 2015,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/USA-265",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Navegación",
+    "Operador": "Fuerza aérea de Estados Unidos",
+    "Fecha de lanzamiento": "31 de octubre de 2015",
+    "Lugar de lanzamiento": "Cabo Cañaveral SLC-41",
+    "Vehículo de lanzamiento": "Atlas V",
+    "Duración planificada": "12 años",
+    "ID NSSDC": "2015-062A",
+    "Masa en el lanzamiento": "1.630 kg",
+    "Inclinación orbital": "54,99 grados"
+  },
+  "resumen": "USA-265, también conocido como GPS IIF-11, GPS SVN-73 y NAVSTAR 75, es un satélite de navegación estadounidense que forma parte del Sistema de Posicionamiento Global. Fue el undécimo de los doce satélites del Block IIF que se lanzaron.\nFue construido por Boeing y lanzado por United Launch Alliance, USA-265 se lanzó a las 16:13 UTC del 31 de octubre de 2015, sobre un cohete portador Atlas V 401.",
+  "secciones": [],
+  "num_palabras": 68
+}

@@ -1,0 +1,38 @@
+{
+  "id": "doc_0933",
+  "titulo": "BIRD (satélite)",
+  "titulo_wikipedia_en": "BIRD (satellite)",
+  "fecha_lanzamiento": "2001-10-22",
+  "año_lanzamiento": 2001,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de observación terrestre",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/BIRD_(satélite)",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Activo",
+    "Tipo de misión": "Observación terrestre",
+    "Operador": "Agencia espacial alemana",
+    "Fecha de lanzamiento": "22 de octubre de 2001",
+    "Masa en el lanzamiento": "94 kg",
+    "Propulsión": "Sin propulsión",
+    "Sistema de referencia orbital": "Circular",
+    "Periapsis": "551 Km",
+    "Inclinación orbital": "97,8 Grados",
+    "Instrumentos": "Dos cámaras infrarrojas y dos cámaras para el espectro visible"
+  },
+  "resumen": "BIRD (Bispectral Infrared Detector) es un minisatélite experimental alemán de 94 kg de masa usado para probar nuevos sensores relacionados con la observación terrestre, en particular la detección de radiación infrarroja procedente de incendios forestales y otros fenómenos de naturaleza térmica y para el estudio de grandes cambios en la vegetación.\nPorta dos cámaras infrarrojas y otras dos cámaras de observación en el espectro visible para la obtención de imágenes estereoscópicas. BIRD procesa los datos a bordo utilizando una red neuronal.\nFue lanzado el 22 de octubre de 2001 a bordo de un cohete PSLV indio (sexto lanzamiento de este tipo de cohete) desde Sriharikota, junto con el satélite indio TES y el microsatélite PROBA desarrollado conjuntamente entre la ESA y Bélgica.",
+  "secciones": [
+    {
+      "titulo": "Especificaciones",
+      "nivel": 2,
+      "texto": "Masa: 94 kg (30 kg corresponden a instrumentos)\nPerigeo: 551 km\nApogeo: 580 km\nInclinación orbital: 97,8 grados\nOrbita: sincronizada con el Sol."
+    }
+  ],
+  "num_palabras": 145
+}

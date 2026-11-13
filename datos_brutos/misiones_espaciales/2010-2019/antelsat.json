@@ -1,0 +1,58 @@
+{
+  "id": "doc_1250",
+  "titulo": "AntelSat",
+  "titulo_wikipedia_en": null,
+  "fecha_lanzamiento": "2014-06-19",
+  "año_lanzamiento": 2014,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Otro vuelo espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/AntelSat",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Desactivado",
+    "Tipo de misión": "Observación de la Tierra y comunicación para radioaficionados.",
+    "Operador": "Antel",
+    "Fabricante": "Facultad de Ingeniería (Universidad de la República)",
+    "Fecha de lanzamiento": "19 de junio de 2014 a las 19:11 UTC",
+    "Lugar de lanzamiento": "Yasny, sitio 13, Base Aérea de Dombarovsky, Rusia",
+    "Vehículo de lanzamiento": "Dnepr",
+    "Duración planificada": "10 meses",
+    "ID COSPAR": "2014-033AA",
+    "Masa en el lanzamiento": "1,7 kg",
+    "Dimensiones": "20x10x10 cm",
+    "Duración de la misión": "302 días, 22 horas",
+    "Potencia": "Paneles solares",
+    "Sistema de referencia orbital": "Órbita heliosíncrona",
+    "Apoapsis": "621 km",
+    "Periodo orbital": "97,7 minutos"
+  },
+  "resumen": "AntelSat fue el primer satélite uruguayo, desarrollado por la Facultad de Ingeniería de la Universidad de la República y ANTEL. Consistía de un CubeSat 2U dotado de baliza de telemetría en modo CW, dos cámaras y un transpondedor para radioaficionados.\nFue lanzado el 19 de junio de 2014 a las 19:11 UTC en un cohete Dnepr-1 desde Yasny, Rusia, y desplegado desde UniSat-6 el 20 de junio de 2014 a las 21:06 UTC.Luego de realizar las 4444 vueltas orbitales, la Facultad de Ingeniería dio por terminada las operaciones con el satélite, dejando de transmitir datos el 18 de abril de 2015. A pesar de esto, algunos radioaficionados recibieron señales del satélite hasta el 18 de junio de 2015.\nEl indicativo de radioaficionado otorgado fue CX1SAT por la URSEC.",
+  "secciones": [
+    {
+      "titulo": "Historia",
+      "nivel": 2,
+      "texto": "El proyecto AntelSat surgió en 2007, sus principales objetivos fueron el desarrollo de habilidades en ingeniería de radio y aeroespacial en el país para promover el entusiasmo en la educación STEM en todos los niveles, proveer imágenes para la agroindustria y brindar servicios a la comunidad de radioaficionados (Digipeater APRS AX.25, baliza de telemetría, informe de señal de enlace ascendente, enlace descendente SSTV). Por orden de la empresa líder en telecomunicaciones de Uruguay, ANTEL, se produjo en la Facultad de Ingeniería de la Universidad República. Verificado y certificado por la Universidad Politécnica de California antes de su lanzamiento.\nLa misión fue puramente experimental y un demostrador tecnológico de todos los subsistemas de satélites, que fueron diseñados a medida localmente.\nEn 2014, el vehículo se lanzó como carga útil con otros 36 satélites. Este lanzamiento en ese momento fue un récord en el número de vehículos lanzados. Junto con AntelSat, se lanzaron el primer satélite belga, QB50P1, y el primer satélite de Irak, Tigrisat. Después del lanzamiento, el satélite se separó del bus de despliegue italiano UniSat-6 y entró en la órbita sincrónica solar calculada.\nEl primer contacto con el satélite se realizó el 21 de junio de 2014 y la última comunicación con la estación terrestre fue el 18 de abril de 2015. La Facultad de Ingeniería anunció la finalización de la misión el 16 de julio de 2015."
+    },
+    {
+      "titulo": "Construcción",
+      "nivel": 2,
+      "texto": "Antelsat fue un nanosatélite típico basado en la plataforma CubeSat 2U, que pesaba 1,7 kg. La fuente de alimentación fue proporcionada por paneles solares ubicados a lo largo del casco. La orientación con la Tierra se realizó a través del campo magnético mediante electroimanes.\nEl satélite tenía dos cámaras: una en el rango visible y otra en el rango infrarrojo. Para realizar el control de actitud utilizó un magnetómetro y fotodetectores, y un sistema de control activo de 3 ejes mediante torque magnético. También tenía varios transmisores y receptores. Los dos receptores VHF RX1 y RX2 así como los dos transmisores UHF BCN y TXD tenían cada uno una antena monopolar de λ/4 de longitud. Dos transmisores de banda S, cada uno con una antena de parche, se diseñaron de forma redundante para que solo uno de ellos esté en funcionamiento.\nEl receptor RX1 VHF funcionaba en una frecuencia no publicada y se utilizaba para controlar el satélite de forma remota.\nLa radiobaliza BCN trabajaba en la banda de los 70 cm con una potencia de 200 mW a frecuencia de 437.280 MHz. Envió el indicativo uruguayo CX1SAT y algunos mensajes de estado en código morse.\nEl transmisor TXD funcionó con una potencia de 1 vatio en la frecuencia 437.575 MHz. Esto se utilizó para transmitir datos a través de radio por paquetes en el protocolo AX.25 o imágenes SSTV de una de las dos cámaras integradas. Los radioaficionados podían solicitar la transmisión de imágenes a través del receptor RX2.\nEl receptor RX2 trabajó en 145.860 MHz en modo semidúplex con TXD.\nEl transmisor TXS funcionó a 2.403.000 MHz con una potencia de 1 vatio y una velocidad de transmisión de 500 kbit/s.\nEl proyecto comprendió el desarrollo de cada módulo y componentes del satélite, tanto de su estructura como de sus sistemas. El satélite fue construido por un equipo de 60 personas integrado por ingenieros de ANTEL, docentes y estudiantes de la Facultad de Ingeniería.\nEl costo del satélite fue de alrededor de 1,5 millones de dólares de los cuales US$ 695.000 fueron parte de un convenio firmado entre Antel y la UdelaR, donde Antel aportaba el dinero y UdelaR realizaba la aviónica entre otras."
+    },
+    {
+      "titulo": "Operación",
+      "nivel": 2,
+      "texto": "El satélite fue lanzado el 19 de junio de 2014 con un cohete Dnepr desde el cosmódromo Jasny de la Base Aérea de Dombarovsky. No fue lanzado directamente desde el cohete, sino que fue desplegado desde el satélite transportador italiano UniSat-6 al día siguiente. La puesta en servicio se llevó a cabo sin problemas y los datos de telemetría fueron recibidos por radioaficionados de todo el mundo.\nLa comunicación se interrumpió el 18 de abril de 2015. Al parecer, los componentes habían alcanzado su vida útil en condiciones espaciales. El proyecto fue declarado terminado. Durante el tiempo de funcionamiento, el satélite había transmitido 480.000 valores medidos y 60 imágenes.\nLa última señal captada del CX1SAT fue el 18 de junio de 2015 por el radioaficionado CX2SC, captando la radiobaliza en código morse."
+    },
+    {
+      "titulo": "Diseño",
+      "nivel": 2,
+      "texto": "AntelSat fue equipado con dos cámaras CCD digitales que operaron en el espectro óptico e infrarrojo cercano. Se ubicaron dentro del dispositivo como carga útil. Examinaron la Tierra con fines agroindustriales y rastrearon el clima. Además, se instalaron dos pequeños repetidores para radioaficionados. Operaron en la banda S a 2,4 GHz. Indicativo CX1SAT.\nTiene un ID NORAD de 40034 y sus detalles técnicos incluían predicciones de 10 días para su seguimiento.\nEl Sistema de Control y Determinación de Actitud (ADCS) de AntelSat fue diseñado y desarrollado para controlar su actitud en órbita."
+    }
+  ],
+  "num_palabras": 947
+}

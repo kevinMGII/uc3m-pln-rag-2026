@@ -1,0 +1,49 @@
+{
+  "id": "doc_0863",
+  "titulo": "SAC-A",
+  "titulo_wikipedia_en": null,
+  "fecha_lanzamiento": "1998-12-04",
+  "año_lanzamiento": 1998,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite experimental",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/SAC-A",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Destruido",
+    "Tipo de misión": "Experimental",
+    "Operador": "CONAE",
+    "Fecha de lanzamiento": "4 de diciembre de 1998",
+    "Duración planificada": "8 meses (planeada)\n10 meses (vida final)",
+    "ID COSPAR": "1998-069B",
+    "Masa en el lanzamiento": "68 kg",
+    "Sistema de referencia orbital": "Órbita baja terrestre",
+    "Inclinación orbital": "51,6°",
+    "Tipo de fin de misión": "reingreso",
+    "Fecha de reentrada": "25 de octubre de 1999"
+  },
+  "resumen": "SAC-A era un satélite experimental pequeño desarrollado por la CONAE, que fue lanzado por el transbordador Endeavour en la misión STS-88 en diciembre de 1998. Este pequeño satélite llevó a cabo experimentos que fueron la base para los satélites SAC-C y SAC-D / Aquarius.",
+  "secciones": [
+    {
+      "titulo": "Historia",
+      "nivel": 2,
+      "texto": "El 16 de octubre de 1997 la NASA y la CONAE firmaron un memorándum de entendimiento para el desarrollo y lanzamiento del satélite. Según el acuerdo, el Centro de vuelo espacial Goddard proporcionaría asistencia técnica y desarrollaría el sistema de eyección para desplegar el satélite en órbita.\nSAC-A fue el segundo satélite construido por INVAP. Su misión era probar sistemas ópticos, de generación de energía, transmisión de datos a tierra para futuras misiones satelitales argentinas, como el SAC-C. El diseño e integración final del satélite fue de 8 meses y tuvo un costo de 15 millones de USD."
+    },
+    {
+      "titulo": "Instrumentos",
+      "nivel": 2,
+      "texto": "El satélite es un cilindro de 68 kg estabilizado por rotación, su energía es proporcionada por paneles solares. Su carga útil consistía de:\nUn receptor DGPS que permite al satélite determinar su posición de forma autónoma\nUna cámara diseñada para evaluar el rendimiento del sistema en el espacio\nCeldas fotovoltaicas fabricadas en Argentina para evaluar su rendimiento en el espacio\nUn magnetómetro para medir el campo magnético de la Tierra\nSistema de radio para seguimiento de ballenas en peligro de extinción"
+    },
+    {
+      "titulo": "Desarrollo de la misión",
+      "nivel": 2,
+      "texto": "El satélite fue lanzado el 4 de diciembre de 1998 en la misión STS-88 del transbordador espacial, cuyo objetivo principal era el ensamblaje del Nodo Unity. El satélite fue desplegado del transbordador el 14 de diciembre, en una órbita de 388 km × 401 km con una inclinación de 51,6°. Su control se realizó desde el Centro Espacial Teófilo Tabanera, en los últimos dos meses de su funcionamiento la CONAE lo aprovechó para enseñar telemetría y control de satélites a estudiantes. El satélite se quemó al entrar en la atmósfera el 25 de octubre de 1999, habiendo transmitido de manera correcta datos e imágenes."
+    }
+  ],
+  "num_palabras": 327
+}

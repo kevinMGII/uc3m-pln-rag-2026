@@ -1,0 +1,42 @@
+{
+  "id": "doc_0764",
+  "titulo": "Intelsat 703",
+  "titulo_wikipedia_en": "NSS-703",
+  "fecha_lanzamiento": "1994-10-06",
+  "año_lanzamiento": 1994,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de comunicaciones",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Intelsat_703",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Desarmado",
+    "Operador": "Intelsat (1994-1998)\nSES World Skies (1998-2014)",
+    "Plataforma (bus)": "SSL-1300",
+    "Fecha de lanzamiento": "6 de octubre de 1994, 06:35:02 UTC",
+    "Lugar de lanzamiento": "Cabo Cañaveral LC-36B",
+    "Vehículo de lanzamiento": "Atlas 2AS (Atlas IIAS)",
+    "Duración planificada": "15 años de vida de diseño",
+    "ID NSSDC": "1994-064A",
+    "Masa en el lanzamiento": "3.695 kilogramos",
+    "Sistema de referencia orbital": "Geoestacionario",
+    "Periapsis": "36.042,7 kilómetros",
+    "Apoapsis": "36.091 kilómetros",
+    "Inclinación orbital": "5,9 grados",
+    "Periodo orbital": "1.450,1 minutos",
+    "Órbita RAAN": "47° oeste",
+    "Banda de transmisión": "26 C banda\n10 banda Ku",
+    "Trans cobertura": "América, África, Europa, Océano Atlántico",
+    "Datos interplanetarios": "tipo: orbitador | objeto: Satélite artificial",
+    "Tipo de fin de misión": "reingreso",
+    "Fecha de reentrada": "Octubre de 2014"
+  },
+  "resumen": "NSS-703 (también conocido como Intelsat 703, IS-703 e Intelsat 7-F3) es un satélite de comunicación geoestacionario que fue construido por Space Systems/Loral (SSL). Se encuentra en la posición orbital de 29,5 grados de longitud este y actualmente se encuentra en una órbita inclinada. El mismo es propiedad de Intelsat y luego se vendió a SES World Skies el 30 de noviembre de 1998. El satélite se basó en la plataforma LS-1300 y su vida útil estimada fue de 15 años.\nEl satélite se lanzó con éxito al espacio el 6 de octubre de 1994, a las 06:35:02, utilizando un vehículo Atlas II de la Estación de la Fuerza Aérea de Cabo Cañaveral, Estados Unidos. Tenía una masa de lanzamiento de 3.695 kg.\nEl NSS-703 está equipado con 26 transpondedores en banda C y 10 en banda Ku para proporcionar transmisión, servicios de negocio a hogar, telecomunicaciones, redes VSAT.",
+  "secciones": [],
+  "num_palabras": 148
+}

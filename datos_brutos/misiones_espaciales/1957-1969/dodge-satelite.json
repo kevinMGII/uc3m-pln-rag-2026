@@ -1,0 +1,38 @@
+{
+  "id": "doc_0207",
+  "titulo": "Dodge (satélite)",
+  "titulo_wikipedia_en": "DODGE",
+  "fecha_lanzamiento": "1967-07-01",
+  "año_lanzamiento": 1967,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite militar",
+    "Satélite experimental",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Dodge_(satélite)",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Inactivo",
+    "Tipo de misión": "Experimental",
+    "Operador": "USAF",
+    "Fecha de lanzamiento": "1 de julio de 1967",
+    "Lugar de lanzamiento": "Cabo Cañaveral",
+    "Vehículo de lanzamiento": "Titan",
+    "ID NSSDC": "1967-066F",
+    "Masa en el lanzamiento": "102 kg",
+    "Sistema de referencia orbital": "Geosincrónica"
+  },
+  "resumen": "Dodge (acrónimo de Department Of Defense Gravity Experiment) fue un satélite artificial estadounidense lanzado el 1 de julio de 1967 a bordo de un cohete Titan III-C desde cabo Kennedy.\nLa misión de Dodge era explorar la estabilización por gradiente gravitatorio en una órbita casi sincrónica. Portaba diez brazos extensibles que podían desplegarse o retraerse a lo largo de tres ejes diferentes. Los datos obtenidos fueron fundamentales para el control de futuros satélites funcionando en órbitas de gran altura. El satélite también llevaba dos cámaras de televisión para determinar la alineación del satélite. Una de las cámaras proporcionó la primera imagen completa en color de la Tierra.\nUn mes después del lanzamiento, el satélite se había estabilizado correctamente y las cámaras de televisión estaban funcionando según lo planeado.",
+  "secciones": [
+    {
+      "titulo": "Especificaciones",
+      "nivel": 2,
+      "texto": "Masa: 102 kg\nPerigeo: 33.257 km\nApogeo: 33.670 km\nInclinación orbital: 12 grados\nPeriodo: 1319,1 min"
+    }
+  ],
+  "num_palabras": 144
+}

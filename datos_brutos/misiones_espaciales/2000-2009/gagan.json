@@ -1,0 +1,32 @@
+{
+  "id": "doc_0911",
+  "titulo": "GAGAN",
+  "titulo_wikipedia_en": "GPS-aided GEO augmented navigation",
+  "fecha_lanzamiento": "2001",
+  "año_lanzamiento": 2001,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/GAGAN",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Navegación Satelital Regional",
+    "Operador": "ISRO\nAAI\nRaytheon Technologies",
+    "Coste": "₹774 crore (US$110 millones)",
+    "Rango suborbital": "~26600 km",
+    "Fecha de lanzamiento": "2001"
+  },
+  "resumen": "GAGAN (GPS Aided Geo Augmented Navigation) es un Sistema de Aumentación Basado en Satélites (SBAS) desarrollado por la Agencia India de Investigación Espacial (ISRO) y está ideado como un complemento para la red GPS para proporcionar una mayor precisión y seguridad en las señales de posicionamiento y navegación por satélite.\nEl fin es el de satisfacer los requisitos de precisión y seguridad en la navegación por satélite de las compañías aéreas y los proveedores de servicios de tráfico aéreo (ATS) en el espacio aéreo de la India, incluyendo el espacio del océano Índico, así como amplias partes de la Región Asia/Pacífico.\nGAGAN se ha diseñado para satisfacer los SARPS de la Organización de Aviación Civil Internacional (OACI) y que permita relacionarse con WAAS, EGNOS y MSAS.",
+  "secciones": [
+    {
+      "titulo": "Fases de implantación",
+      "nivel": 2,
+      "texto": "El programa GAGAN se implantó en tres fases:\nSistema de demostración de tecnología (TDS). Un sistema de configuración mínima que demostra la capacidad del sistema para aproximaciones de precisión (Categoría I) en una región limitada del espacio aéreo de la India y constituye una prueba del concepto. La fase TDS concluyeron hacia el año 2005.\nFase experimental inicial (IEP). En esta fase se amplía el TDS para abarcar todo el espacio aéreo de la India y se añaden al sistema las redundancias necesarias. La IEP finalizó un año después de desarrollarse el TDS.\nFase operacional final (FOP). Se prevé que, durante esta fase, el programa GAGAN alcance su pleno desarrollo. El sistema sería objeto de amplios ensayos y se evaluaría respecto a los SARPS de la OACI antes de declarar que se ha alcanzado el nivel operacional. Se prevé que esta fase se termine un año después de la fase IEP.\nActualmente, habiendo llevado a cabo un examen detallado del diseño de la carga útil, la ISRO estaba en la etapa de adquisición de los componentes críticos para fabricar la carga útil de navegación que se instalará en el satélite GSAT-4, que se lanzará en 2005 en una órbita situada en 82° Este. Dado que la India está situada cerca de la línea del ecuador terrestre, las actividades ionosféricas tendrían un efecto importante en las señales GPS recibidas encima del espacio aéreo de la India.\nCon objeto de evaluar adecuadamente el efecto de la ionosfera en las señales GPS y reducir su efecto, se ha iniciado la elaboración de un modelo ionosférico basado en los datos compilados en gran número de localidades durante un amplio período de tiempo. Teniendo presente lo expuesto, se preveía establecer 20 estaciones para compilar datos ionosféricos cubriendo la totalidad del país."
+    }
+  ],
+  "num_palabras": 422
+}

@@ -1,0 +1,32 @@
+{
+  "id": "doc_1068",
+  "titulo": "Wide-band Internetworking Engineering Test and Demonstration Satellite",
+  "titulo_wikipedia_en": "WINDS",
+  "fecha_lanzamiento": "2008-02-23",
+  "año_lanzamiento": 2008,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de comunicaciones",
+    "Satélite experimental",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Wide-band_Internetworking_Engineering_Test_and_Demonstration_Satellite",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Activo",
+    "Tipo de misión": "Comunicaciones, experimental",
+    "Operador": "JAXA",
+    "Fecha de lanzamiento": "23 de febrero de 2008",
+    "Lugar de lanzamiento": "Tanegashima",
+    "Vehículo de lanzamiento": "H-2A",
+    "ID NSSDC": "2008-007A",
+    "Masa en el lanzamiento": "2700 kg",
+    "Sistema de referencia orbital": "Geoestacionaria"
+  },
+  "resumen": "Wide-band Internetworking Engineering Test and Demonstration Satellite o WINDS, también conocido como Kizuna, es un satélite de comunicaciones experimental japonés lanzado el 23 de febrero de 2008 mediante un cohete H-2A desde la base de Tanegashima.\nLa misión de Kizuna es demostrar la viabilidad de proporcionar acceso de banda ancha a Internet mediante la frecuencia de la banda Ka a áreas remotas de Japón y el sureste asiático utilizando antenas receptoras pequeñas, de hasta 45 cm de diámetro, para alcanzar tasas de recepción de hasta 155 Mbit/s y de hasta 6 Mbit/s de subida.",
+  "secciones": [],
+  "num_palabras": 94
+}

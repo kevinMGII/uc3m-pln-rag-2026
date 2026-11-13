@@ -1,0 +1,48 @@
+{
+  "id": "doc_0299",
+  "titulo": "Cosmos 321",
+  "titulo_wikipedia_en": "Kosmos 321",
+  "fecha_lanzamiento": "1970-01-20",
+  "año_lanzamiento": 1970,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite experimental",
+    "Satélite (programa Cosmos)",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Cosmos_321",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Reentrado en la atmósfera",
+    "Tipo de misión": "Estudio de la magnetósfera terrestre.",
+    "Fecha de lanzamiento": "20 de enero de 1970",
+    "Lugar de lanzamiento": "Cosmódromo de Plesetsk",
+    "Vehículo de lanzamiento": "Cosmos 2I",
+    "ID NSSDC": "1970-006A",
+    "Masa en el lanzamiento": "400 kg",
+    "Tipo de fin de misión": "Reentrada",
+    "Fecha de reentrada": "23 de marzo de 1970"
+  },
+  "resumen": "Cosmos 321 (en cirílico, Космос 321) fue un satélite artificial soviético perteneciente a la clase de satélites DS (el primero de los dos de tipo DS-U2-MG) y lanzado el 20 de enero de 1970 mediante un cohete Cosmos 2I desde el cosmódromo de Plesetsk.",
+  "secciones": [
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "La misión de Cosmos 321 consistió en estudiar los polos de la magnetósfera terrestre."
+    },
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "El satélite tenía una masa de 400 kg (aunque otras fuentes indican 365 kg) y fue inyectado inicialmente en una órbita con un perigeo de 280 km y un apogeo de 507 km, con una inclinación orbital de 71 grados y un periodo de 92,07 minutos.\nA bordo llevaba un magnetómetro cuántico de cesio.\nCosmos 321 reentró en la atmósfera el 23 de marzo de 1970."
+    },
+    {
+      "titulo": "Resultados científicos",
+      "nivel": 2,
+      "texto": "Cosmos 321 estudió la subtormenta magnética del 4 de marzo de 1970 y la del 8-10 de marzo de ese mismo año. El satélite también estudió los electrochorros, el efecto de las corrientes longitudinales magnetosféricas e ionosféricas y el efecto de una anillo de corriente no ionosférico. También midió por primera vez los efectos de un electrochorro ionosférico ecuatorial sobre la ionosfera y su efecto de inducción en la Tierra."
+    }
+  ],
+  "num_palabras": 194
+}

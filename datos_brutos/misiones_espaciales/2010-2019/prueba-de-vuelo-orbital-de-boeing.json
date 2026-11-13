@@ -1,0 +1,53 @@
+{
+  "id": "doc_1394",
+  "titulo": "Prueba de vuelo orbital de Boeing",
+  "titulo_wikipedia_en": "Boeing Orbital Flight Test",
+  "fecha_lanzamiento": "2019-12-20",
+  "año_lanzamiento": 2019,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada",
+    "Estación espacial",
+    "Nave de carga a la ISS"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Prueba_de_vuelo_orbital_de_Boeing",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Vuelo de prueba",
+    "Nº SATCAT": "44900",
+    "Fabricante": "Boeing",
+    "Nave": "CST-100 Starliner Calypso",
+    "Fecha de lanzamiento": "20 de diciembre de 2019, 11:36:43 UTC",
+    "Vehículo de lanzamiento": "Atlas V N22 (AV-080)",
+    "Lugar de lanzamiento": "Cabo Cañaveral, SLC-41",
+    "Contratista del lanzamiento": "United Launch Alliance",
+    "Fecha de aterrizaje": "22 de diciembre de 2019, 12:58 UTC",
+    "Lugar de aterrizaje": "Campo de Misiles de Arenas Blancas",
+    "Inclinación orbital": "51.6°",
+    "Sistema de referencia orbital": "Geocéntrica",
+    "Régimen orbital": "Órbita baja terrestre",
+    "Programa": "Desarrollo de tripulación comercial",
+    "Misión anterior": "Boeing-PAT",
+    "Misión siguiente": "SpaceX-IFA",
+    "Programa (2)": "Starliner",
+    "Misión anterior (2)": "Boeing-PAT",
+    "Misión siguiente (2)": "Boeing-OFT-2"
+  },
+  "resumen": "La prueba de vuelo orbital de Boeing (en inglés: Boeing Orbital Flight Test, abreviado Boe-OFT o simplemente OFT) fue la primera misión orbital del Boeing CST-100 Starliner. Este vuelo sin tripulación vería el lanzamiento de Starliner, su acoplamiento a la Estación Espacial Internacional y su regreso a tierra firme en los Estados Unidos. El lanzamiento de la misión se realizó el 20 de diciembre de 2019 a las 11:36 UTC. La misión estaba planificada para durar ocho días, pero un problema en la nave obligó a cancelar la misión, teniendo que retornar a la Tierra tras sólo unas 48 horas en órbita.",
+  "secciones": [
+    {
+      "titulo": "Misión",
+      "nivel": 2,
+      "texto": "OFT fue el primer vuelo de un Atlas V sin cofia, y su primer vuelo con una etapa superior Centauro de dos motores. Se requiere el Centauro de doble motor para los vuelos de Starliner para proporcionar una trayectoria de lanzamiento tal que permita un aborto de la misión de forma segura en cualquier punto de esta.\nLa misión original era la siguiente: el primer Atlas V N22, designado AV-080, lanzaría la nave espacial CST-100 Starliner en un vuelo de prueba sin tripulación a la Estación Espacial Internacional. La cápsula se acoplaría a la Estación, luego regresaría a la Tierra para aterrizar en el oeste de los Estados Unidos; esto como antesala de la futura misión tripulada Boe-CFT. Starliner permanecería acoplada a la ISS hasta el 28 de diciembre de 2019, desacoplándose a las 17:44 UTC, para reingresar a la Tierra y aterrizar en el Campo de Misiles de Arenas Blancas, en Nuevo México, EE. UU., cinco horas después de abandonar la Estación.\nCabe señalar que esta nave, junto con la Crew Dragon de SpaceX, fueron seleccionadas por la NASA en septiembre de 2014 para llevar astronautas a la ISS desde los Estados Unidos, bajo el programa de Desarrollo de Tripulación Comercial (Commercial Crew Development Program).\nSu lanzamiento se realizó el 20 de diciembre de 2019 a las 11:36 UTC, esperando arribar a la Estación tras un viaje de 26 horas. La nave llevaba un maniquí de pruebas, y alrededor de 270 kg de carga, consistente en alimentos, ropa y equipos para el monitoreo de radiación. El domingo 22 de diciembre de 2019, a las 12:23 UTC, Starliner realizó un encendido retrógrado para iniciar su retorno a la Tierra. Tres minutos más tarde, la nave descartó su módulo de servicio. A las 12:53 UTC, Starliner desplegó sus 3 paracaídas, aterrizando 4 minutos después en los terrenos del campo de misiles de Arenas Blancas."
+    },
+    {
+      "titulo": "Problemas en la nave",
+      "nivel": 2,
+      "texto": "Tras un lanzamiento sin inconvenientes, y luego de separarse la nave Starliner del cohete Atlas V, NASA informaba que la nave no estaba en su órbita deseada. Un problema en el reloj de eventos de la misión forzó a la nave a quemar más propelente de lo planificado, forzando a Boeing y a NASA a abortar el encuentro con la Estación, planificando su retorno a la Tierra para el domingo 22 de diciembre. La nave logró ser puesta en una órbita estable de 216 por 186 km, planificándose una serie de pruebas mientras durase su estadía en el espacio. El administrador de la NASA, Jim Bridenstine, aseguró en ese momento que, de haber habido astronautas a bordo de la nave, ellos hubieran sabido lidiar con el problema, pudiendo haber tomado el control completo de la nave y de sus encendidos de motores.\n11\nUna investigación conjunta de la NASA y Boeing, reveló, el 7 de febrero de 2020, que se han identificado tres anomalías en la prueba de vuelo orbital:\nUn error con el reloj de misión transcurrida (MET), que fijó incorrectamente el tiempo del despegue del cohete Atlas V casi 11 horas antes del lanzamiento real.\nUn problema de software dentro de la secuencia de descarte del módulo de servicio (SM), que tradujo incorrectamente la secuencia de eliminación del SM al controlador de propulsión integrado (IPC) del SM.\nUn problema de enlace directo de espacio a tierra (S/G) intermitente, que impidió la capacidad del equipo de Control de Vuelo para comandar y controlar el vehículo.\nEl 6 de marzo de 2020, representantes de NASA y Boeing revelan que la investigación conjunta concluyó que Boeing debe tomar 61 acciones correctivas tras los problemas de la misión OFT, en los próximos meses, para así asegurar que, cuando decidan que la nave Starliner vuele en futuras misiones, lo haga de forma segura. Doug Loverro, administrador adjunto de la NASA para exploración humana y operaciones, señaló que, para la agencia, la misión fue calificada como «un incidente riesgoso de alta visibilidad», añadiendo que: \"Podemos estar de acuerdo en que fue un incidente riesgoso. Pudimos haber perdido la nave en dos ocasiones durante la misión\". No obstante, no se concluyó si era necesario o no el repetir la prueba OFT.\nUn mes después de lo anterior, Boeing comunica que ha decidido repetir la prueba OFT, usando la cápsula destinada originalmente para la misión tripulada de prueba Boe-CFT. Pese a que aún trabajan con NASA en acordar una planificación de la misión, Boeing espera poder realizarla durante el otoño boreal de 2020."
+    }
+  ],
+  "num_palabras": 842
+}

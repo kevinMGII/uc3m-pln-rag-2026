@@ -1,0 +1,33 @@
+{
+  "id": "doc_1022",
+  "titulo": "Daichi",
+  "titulo_wikipedia_en": "Advanced Land Observing Satellite",
+  "fecha_lanzamiento": "2006-01-24",
+  "año_lanzamiento": 2006,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de observación terrestre",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Daichi",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Muerto en órbita",
+    "Tipo de misión": "Observación terrestre",
+    "Operador": "JAXA",
+    "Fecha de lanzamiento": "24 de enero de 2006",
+    "Lugar de lanzamiento": "Tanegashima",
+    "Vehículo de lanzamiento": "H-IIA",
+    "Masa en el lanzamiento": "3850 kg",
+    "Periapsis": "693 km",
+    "Apoapsis": "697 km",
+    "Inclinación orbital": "98,2 grados",
+    "Periodo orbital": "98,7 minutos"
+  },
+  "resumen": "Advanced Land Observation Satellite (ALOS), también llamado Daichi, es un satélite artificial japonés dedicado a la observación terrestre. Fue lanzado el 24 de enero de 2006 mediante un cohete H-II desde la base de Tanegashima. El lanzamiento fue retrasado tres veces debido a problemas meteorológicos y de sensores.\nDaichi lleva un radar de apertura sintética de banda L, una cámara óptica capaz de una resolución de 2,5 metros y un radiómetro para el visible y el infrarrojo cercano con una resolución de 10 metros.",
+  "secciones": [],
+  "num_palabras": 84
+}

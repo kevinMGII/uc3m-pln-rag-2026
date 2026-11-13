@@ -1,0 +1,45 @@
+{
+  "id": "doc_1160",
+  "titulo": "STS-335",
+  "titulo_wikipedia_en": null,
+  "fecha_lanzamiento": "2011-05-23",
+  "año_lanzamiento": 2011,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Otro vuelo espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/STS-335",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Lugar de lanzamiento": "LC-39B",
+    "Fecha de lanzamiento": "NET 23 de mayo de 2011",
+    "Nave": "Atlantis",
+    "Fecha de aterrizaje": "NET 30 de mayo de 2011",
+    "Duración de la misión": "7 días",
+    "Inclinación orbital": "51,6 grados",
+    "Órbitas completadas": "TBD",
+    "Distancia recorrida": "TBD"
+  },
+  "resumen": "STS-335 o LON-335 es el nombre de la misión de rescate si ocurriese la necesidad de un vuelo de emergencia del transbordador espacial Atlantis ante un problema importante durante la misión STS-134 llevada a cabo por el Endeavour, la cual es la penúltima misión del programa STS. Atlantis se encontraría esperando su lanzamiento en la plataforma LC-39B, mientras Endeavour esté en el espacio.\nDebido a que podría producirse un fallo inesperado e hipotético en el fuselaje o algún otro mecanismo de Endeavour, tras el cual, este último no pueda regresar a salvo a la tierra, la tripulación no podría sobrevivir mucho tiempo dentro de un vehículo orbital dañado. En lugar de ello, la NASA ha elaborado un plan para llevar a cabo una posible misión de rescate similar a las propuestas para misiones de rescate antes de los vuelos a la ISS. La misión de rescate se iniciaría tan sólo siete días después de que el Endeavour se encontrase en problemas, ya que el tiempo máximo que la tripulación puede permanecer a bordo de un vehículo orbital dañado es de 23 a 28 días.\nPara octubre de 2008 se previó que el transbordador de rescate sería rodado al Complejo de lanzamiento 39B dos semanas antes que el transbordador de la misión original (en este caso STS-134), el cual queda ubicado normalmente en el Complejo de Lanzamiento 39A, creando un escenario poco frecuente de dos transbordadores en dos plataformas de lanzamiento al mismo tiempo.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Véase también: Tripulación del transbordador espacial\nChris Ferguson (3) - Comandante\nDouglas Hurley (2) - Piloto\nSandra Magnus (3) - Especialista 1 de misión\nRex Walheim (3) - Especialista 2 de misión"
+    },
+    {
+      "titulo": "Proceso de la misión",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "Proceso del transbordador",
+      "nivel": 3,
+      "texto": "Actualmente el Atlantis está dentro de la Instalación de proceso del Orbitador 1 (El cual es un hangar comúnmente llamado OPF-1), donde se está haciendo un seguimiento y mantenimiento del orbitador alistándolo para su próximo \"Rollover\" (Rodaje OPF-VAB) para su futuro ensamblaje con algún ET y sus SRB, para la misión STS-335 o en todo caso para la posible STS-135. El 14 de julio de 2010, en el OPF-1, los técnicos remueven el motor principal número 3 de Atlantis, para procedimientos de manutención. Hasta hace un tiempo, uno de los focos de discusión en esta misión, era el ET que llevaría. Se habían Barajado múltiples opciones entre las cuales se encontraban:\nEl ET-122: Fue originalmente un tanque destinado para otra misión STS, pero fue dañado por el huracán Katrina cuando pedazos de hormigón cayeron desde el techo donde se alojaba. Actualmente, El Michoud Assembly Facility Está reacondicionando el tanque para regresarlo a servicio para cuando sea la LON-335.\nLos parciales tanques externos ET-139, ET-140, y ET-141: Estos tanques han sido preparados exclusivamente solo como aceleración de unas posibles futuras misiones del Transbordador; Misiones que el congreso aprobó recientemente por si es necesario una extensión del programa del transbordador.\nEl ET-94: El cual implicaría que el peso de la carga sea menor debido a que es un SWET (Standard Wheigt External Tank)\nA casi 2 meses después de la extracción del SSME, el 20 de septiembre de 2010, sale del hangar de proceso en el MAF (Michoud Assemby Facility) de New Orleans, el reacondicionado ET-122 que es uno y hasta ahora, el ET más probable que usara Atlantis para su STS-335. El tanque, viajó 900 millas por el agua, en la barcaza Pegasus, para llegar al KSC. Entonces luego de 7 días de viaje, el ET-122 llega al KSC para ser trasladado al VAB. 2 días después, los técnicos e ingenieros, colocan al ET-122 para hacerle pruebas de distinta naturaleza a fin de conseguir datos de suma importancia para el proceso. El 7 de diciembre comienza la instalación de los motores principales para Altantis, en el OPF-1. Actualmente se espera que el Rollover (Rodaje OPF-VAB), de Atlantis, ocurra entre mediados de febrero a principios de marzo, contemporáneo al Rollover de Endeavour."
+    }
+  ],
+  "num_palabras": 645
+}

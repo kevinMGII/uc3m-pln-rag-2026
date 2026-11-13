@@ -1,0 +1,72 @@
+{
+  "id": "doc_1484",
+  "titulo": "FACSAT-2",
+  "titulo_wikipedia_en": null,
+  "fecha_lanzamiento": "2023-04-15",
+  "año_lanzamiento": 2023,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de observación terrestre",
+    "Satélite experimental",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/FACSAT-2",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Observación terrestre",
+    "Estado": "Misión finalizada",
+    "Operador": "Fuerza Aeroespacial Colombiana",
+    "ID COSPAR": "2023-054AD",
+    "Nº SATCAT": "56205",
+    "Duración de la misión": "926 días",
+    "Tipo de nave": "CubeSat 6U",
+    "Fabricante": "GomSpace / Fuerza Aeroespacial Colombiana",
+    "Masa en el lanzamiento": "7,49 kg",
+    "Dimensiones": "aprox. 10 × 20 × 30 cm",
+    "Fecha de lanzamiento": "15 de abril de 2023",
+    "Vehículo de lanzamiento": "Falcon 9",
+    "Lugar de lanzamiento": "Base de la Fuerza Espacial Vandenberg, California, Estados Unidos",
+    "Contratista del lanzamiento": "SpaceX",
+    "Fecha de despliegue": "15 de abril de 2023",
+    "Tipo de fin de misión": "Reentrada atmosférica",
+    "Fecha de reentrada": "27 de octubre de 2025",
+    "Sistema de referencia orbital": "Órbita geocéntrica",
+    "Régimen orbital": "Órbita terrestre baja heliosíncrona",
+    "Periapsis": "481,7 km",
+    "Apoapsis": "498,4 km",
+    "Inclinación orbital": "97,4°",
+    "Periodo orbital": "94,3 min"
+  },
+  "resumen": "FACSAT-2, también denominado Chiribiquete, fue un nanosatélite CubeSat de observación terrestre operado por la Fuerza Aeroespacial Colombiana (FAC). Fue desarrollado conjuntamente por la FAC y la empresa danesa GomSpace como continuación del programa iniciado con FACSAT-1.\nFue lanzado el 15 de abril de 2023 desde la Base de la Fuerza Espacial Vandenberg, en California, a bordo de un Falcon 9 de SpaceX como parte de la misión compartida Transporter-7.\nSu misión combinó imágenes multiespectrales del territorio colombiano con mediciones en el infrarrojo de onda corta para estudios ambientales, incluidos los relacionados con gases de efecto invernadero.\nFACSAT-2 reingresó en la atmósfera terrestre el 27 de octubre de 2025, después de 926 días en órbita.",
+  "secciones": [
+    {
+      "titulo": "Desarrollo",
+      "nivel": 2,
+      "texto": "FACSAT-2 fue concebido como la segunda misión del programa FACSAT de la Fuerza Aeroespacial Colombiana. El proyecto buscaba ampliar las capacidades adquiridas con FACSAT-1 y aumentar la participación de personal colombiano en el diseño, integración y operación de misiones espaciales.\nEn octubre de 2020, GomSpace anunció un contrato con la FAC y la Corporación de Alta Tecnología para la Defensa (CODALTEC) para iniciar el diseño de la misión y un programa de transferencia de tecnología. El contrato inicial tenía un valor de 6,9 millones de coronas suecas.\nEn diciembre del mismo año se firmó un segundo contrato, por 3,91 millones de coronas suecas, para actividades científicas y parte de la fase de diseño crítico.\nEn diciembre de 2021, GomSpace recibió un contrato adicional de 6,1 millones de coronas suecas para las fases de integración y validación, transferencia de conocimiento, operaciones iniciales en órbita y preparación de las operaciones de la misión."
+    },
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "FACSAT-2 utilizaba el formato CubeSat de seis unidades (6U). Su misión estaba orientada principalmente a la observación y análisis del territorio colombiano.\nEl satélite llevaba dos instrumentos principales:\nuna cámara electroóptica multiespectral MultiScape100 CIS, fabricada por Simera Sense, con una resolución espacial aproximada de entre 4,7 y 5 metros por píxel y un rango espectral de 450 a 900 nm;\nun espectrómetro Argus 2000, fabricado por Thoth Technology, que operaba entre 1000 y 1700 nm en el infrarrojo de onda corta.\nLa cámara disponía de siete bandas multiespectrales en el visible e infrarrojo cercano y una banda pancromática. Su anchura de observación era de aproximadamente 19,4 km.\nEl Argus 2000 permitía obtener firmas espectrales para estudios relacionados con gases de efecto invernadero. La combinación de ambos instrumentos estaba destinada a aplicaciones como análisis ambiental, agricultura, uso del suelo y estudios multitemporales del territorio.\nEl diseño también incluyó aportes desarrollados en Colombia, entre ellos elementos del segmento de comunicaciones en bandas S y X, software para el cifrado de datos y una tarjeta de interfaz entre el bus del satélite y el espectrómetro Argus 2000."
+    },
+    {
+      "titulo": "Lanzamiento y órbita",
+      "nivel": 2,
+      "texto": "FACSAT-2 fue lanzado el 15 de abril de 2023 a las 06:47 UTC desde la Base de la Fuerza Espacial Vandenberg, en California. Voló como una de las cargas de la misión Transporter-7 de SpaceX y fue desplegado mediante un sistema EXOpod Nova de Exolaunch.\nColombia registró el satélite ante la Oficina de Naciones Unidas para Asuntos del Espacio Exterior con la designación internacional 2023-054AD. Su número en el catálogo de satélites de Estados Unidos fue 56205.\nTras su despliegue quedó en una órbita heliosíncrona baja, con un perigeo inicial de 481,7 km, un apogeo de 498,4 km, una inclinación de 97,4° y un período orbital de 94,3 minutos."
+    },
+    {
+      "titulo": "Operación",
+      "nivel": 2,
+      "texto": "El satélite era controlado desde el segmento terrestre de la Fuerza Aeroespacial Colombiana en Cali. Durante su operación obtuvo imágenes multiespectrales y datos espectrales destinados a estudios del territorio y del medio ambiente.\nEn su informe de gestión correspondiente a 2023, la FAC señaló que la puesta en órbita de FACSAT-2 permitió desarrollar nuevas capacidades para la gestión y ejecución de misiones satelitales.\nDurante la primera mitad de 2025 la FAC todavía informaba que proporcionaba soporte técnico y operativo al satélite y utilizaba el software de control de misión KAIROS para su operación."
+    },
+    {
+      "titulo": "Reentrada atmosférica",
+      "nivel": 2,
+      "texto": "FACSAT-2 reingresó en la atmósfera el 27 de octubre de 2025, 926 días después de su lanzamiento.\nUn estudio publicado en 2026 por investigadores del Observatorio Astronómico Nacional reconstruyó su decaimiento orbital a partir de 3696 conjuntos de elementos orbitales. Los autores concluyeron que la actividad solar durante el ciclo solar 25 fue mayor que la prevista en los modelos usados para estimar la duración de la órbita. Esto aumentó la densidad de la atmósfera superior y, con ello, el arrastre atmosférico sobre el satélite.\nEl estudio estimó que FACSAT-2 estuvo expuesto a un flujo solar medio superior al escenario previsto antes de la misión. También encontró que varias tormentas geomagnéticas aceleraron temporalmente la pérdida de altitud.\nLa Fuerza Aeroespacial Colombiana describió posteriormente el final de la misión como un proceso de reentrada asociado al decaimiento orbital de satélites en órbita terrestre baja."
+    }
+  ],
+  "num_palabras": 794
+}

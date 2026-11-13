@@ -1,0 +1,42 @@
+{
+  "id": "doc_0909",
+  "titulo": "SAC-C",
+  "titulo_wikipedia_en": null,
+  "fecha_lanzamiento": "2000-11-21",
+  "año_lanzamiento": 2000,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de observación terrestre",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/SAC-C",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Baja",
+    "Tipo de misión": "Observación terrestre",
+    "Operador": "CONAE",
+    "Fecha de lanzamiento": "21 de noviembre de 2000",
+    "Duración planificada": "5 años, vida final de 13 años.",
+    "ID COSPAR": "2000-075B",
+    "Masa en el lanzamiento": "485 kg",
+    "Dimensiones": "Base: 1,85 m x 1,68 m y 2,2 m de altura.",
+    "Inclinación orbital": "98,2"
+  },
+  "resumen": "El SAC-C (Satélite de Aplicaciones Científicas - C) es un satélite de observación terrestre argentino cuyo principal objetivo era el estudio de las condiciones del ambiente y de la biosfera terrestre y marina. El instrumento principal fue un escáner multiespectral desarrollado por la agencia espacial de Argentina, CONAE.\nCon un peso de 485 kg, el satélite también transportó varias cargas útiles proporcionadas por la NASA y otras agencias espaciales. Fue lanzado el 21 de noviembre de 2000 por un Delta II. Se mantuvo en operaciones durante casi trece años, a pesar de que se le estimaba un tiempo de vida de tan solo cinco años.",
+  "secciones": [
+    {
+      "titulo": "Historia",
+      "nivel": 2,
+      "texto": "En el marco del acuerdo de cooperación firmado entre la CONAE y la NASA en agosto de 1991, ambas agencias espaciales llevaron a cabo un taller en Buenos Aires en diciembre de 1993 para definir futuras misiones conjuntas. En dicho taller se decidió que la nueva misión denominada SAC-C consistiría de una cámara multiespectral de resolución media como instrumento principal, un experimento de GPS provisto por el Laboratorio de Propulsión a Reacción y una carga útil de mapeo magnético desarrollado por el Instituto danés de investigación espacial y la NASA.\nMientras el SAC-B se encontraba todavía en su etapa de pruebas previo al lanzamiento, en 1995 la CONAE comenzó a discutir con INVAP las características del nuevo satélite, quien una vez más sería el contratista principal del proyecto. El 28 de octubre de 1996, CONAE y NASA firmaron un memorando de entendimiento para llevar a cabo el desarrollo del satélite.\nEn julio de 1999, la CONAE accedió a un pedido de NASA de cambiar algunos de los parámetros orbitales del satélite para que este formara parte de la \"Constelación Matutina\", una constelación de satélites para la observación de la Tierra conformada por los satélites Landsat 7, EO-1 y Terra (EOS AM-1). El 14 de julio de 2000 se firmó el acuerdo entre ambas agencias espaciales para incluir el satélite en la constelación.\nDurante el desarrollo se agregaron distintos instrumentos y experimentos científicos extras. El Centro Nacional de Estudios Espaciales de Francia proporcionó el instrumento ICARE, la Agencia Espacial Italiana proveyó dos experimentos de control y orientación de satélites, y fue la encargada parcial del desarrollo de los paneles solares del satélite. A su vez, la CONAE decidió incluir otras dos cámaras. La Agencia Espacial Brasileña y el Instituto Nacional de Investigación Espacial del Brasil permitieron el uso de sus laboratorios para realizar los ensayos ambientales del SAC-C y su carga útil.\nEl satélite fue transportado a la Base de la Fuerza Aérea Vandenberg por un C-130 Hercules de la Fuerza Aérea Argentina, siendo lanzado el 21 de noviembre de 2000 por un Delta II junto a los satélites Earth Observing-1 y Munin a las 15:24 hora oficial argentina, la separación del lanzador ocurrió una hora después sobre el norte de Canadá, colocando al satélite de 485 kg en una órbita de 705 km con una inclinación de 98,2 grados.\nEl 27 de junio de 2005, el SAC-C abandonó la \"constelación matutina\" tras una serie de maniobras que lo ubicaron en una nueva órbita de 707,6 km y una inclinación de 98 grados.\nA principios de 2013, el satélite se encontraba corriéndose de su órbita operacional y con su instrumento principal semioperativo. Originalmente la CONAE esperaba que un parche de software solucionara estos problemas, pero se decidió iniciar los trabajos para la preparación de su bajada de órbita y apagado final porque se había concluido que su salud se deterioraba y se había llegado al fin de su vida útil. Sin embargo, el 15 de agosto del 2013 la comunicación con el satélite se perdió repentinamente, habiendo cumplido sus misiones principales y superando ampliamente su vida útil original de cinco años."
+    },
+    {
+      "titulo": "Instrumentos",
+      "nivel": 2,
+      "texto": "MMRS (Multispectral Medium Resolution Scanner): es el instrumento principal del SAC-C. Se trata de una cámara multiespectral de resolución media que utiliza una técnica de disparo \"en rastrillo\". Las imágenes se toman en 5 bandas espectrales, incluidas tres en luz visible y dos en infrarroja. El sensor de 2028 píxeles de largo proporciona una resolución de entre 175 y 350 metros. Fue fabricado por la CONAE y tiene una masa de 22 kg.\nHRTC (High-Resolution Technological Camera): cámara pancromática de alta resolución con una masa de 8,5 kg, cuyas imágenes se utilizan para facilitar la interpretación de las tomas MMRS.\nHSC (High Sensitivity Camera): es una pequeña cámara desarrollada por la CONAE destinada a medir con una resolución espacial de 300 m la intensidad lumínica del lado nocturno de varios fenómenos: luces de ciudades, incendios forestales, rayos y auroras polares.\nØrsted-2 (Magnetic Mapping Payload): desarrollado por el Instituto danés de investigación espacial, es un magnetómetro vectorial diseñado para medir con precisión el campo magnético de la Tierra.\nIST (Italian Star Tracker): rastreador de estrellas diseñado para orientar al satélite, desarrollado por la Agencia Espacial Italiana.\nINES (Italian Navigation Experiment): es un receptor GPS experimental desarrollado por la Agencia Espacial Italiana que se utiliza para aplicaciones geodésicas.\nGOLPE (GPS Occultation and Passive reflection Experiment): es un experimento de la NASA que utiliza la recepción de señales GPS para deducir el perfil de la atmósfera (densidad, presión, temperatura).\nICARE (Influence of Space Radiation on Advanced Components): es un experimento de la agencia espacial francesa, CNES, destinado a estudiar el impacto de la radiación en componentes y materiales electrónicos.\nWTE (Whale Tracker Experiment): es un experimento de la CONAE destinado a seguir la migración de la ballena franca austral utilizando un receptor GPS y un transmisor de radio instalado en algunas de ellas."
+    }
+  ],
+  "num_palabras": 925
+}

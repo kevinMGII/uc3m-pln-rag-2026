@@ -1,0 +1,42 @@
+{
+  "id": "doc_0760",
+  "titulo": "Advanced Photovoltaic Experiment",
+  "titulo_wikipedia_en": "Advanced Photovoltaic & Electronic Experiment",
+  "fecha_lanzamiento": "1994-08-03",
+  "año_lanzamiento": 1994,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Otro vuelo espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Advanced_Photovoltaic_Experiment",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Inactivo",
+    "Tipo de misión": "Tecnológico",
+    "Operador": "NASA",
+    "Fecha de lanzamiento": "3 de agosto de 1994",
+    "Lugar de lanzamiento": "Point Arguello",
+    "Vehículo de lanzamiento": "Pegasus",
+    "Duración planificada": "3 años",
+    "ID NSSDC": "1994-046A",
+    "Masa en el lanzamiento": "260 kg",
+    "Sistema de referencia orbital": "Elíptica",
+    "Periapsis": "360 km",
+    "Apoapsis": "2534 km",
+    "Inclinación orbital": "69,98 grados",
+    "Periodo orbital": "114,82 minutos",
+    "Datos interplanetarios": "tipo: orbitador | objeto: Tierra"
+  },
+  "resumen": "Advanced Photovoltaic Experiment o APEX fue un satélite artificial dedicado a probar nuevas células solares y componentes electrónicos en un entorno de radiación para mejorar el diseño de futuros vehículos espaciales. La órbita altamente elíptica de APEX permitió también investigar el efecto del plasma espacial en circuitos operando a alto voltaje cuando el satélite estaba en el perigeo y el efecto de la radiación espacial cuando estaba en el apogeo.\nEl satélite llevaba el experimento PASP (Photovoltaic Array Space Power) Plus para el estudio de la forma en que el rendimiento de las células solares se degrada en el entorno espacial. Se probaron 12 tipos de diferentes de células solares, incluyendo cuatro tipos de células de silicio, tres de arseniuro de galio, tres de nuevos materiales (fosfuro de indio y otros dos tipos diferentes) y dos con diseños de concentrador. APEX también portaba el experimento CRUX (Cosmic Ray Upset Experiment), patrocinado por el centro de vuelo espacial Goddard de la NASA, y el experimento FERRO (Thin-Film Ferroelectric Experiment), desarrollado por la Escuela Naval de Posgraduados.\nDurante la misión la nave sufrió dos incidentes, uno relacionado con anomalías en un sensor de la batería y otro con un chip de memoria, resolviéndose ambos sin más problemas.\nLa nave estaba basada en el bus PegaStar de la empresa Orbital Sciences, pesaba 260 kg y fue lanzada por un cohete Pegasus el 3 de agosto de 1994.",
+  "secciones": [
+    {
+      "titulo": "Parámetros orbitales",
+      "nivel": 2,
+      "texto": "Perigeo: 360 km\nApogeo: 2534 km\nInclinación orbital: 69,98 grados\nPeríodo: 114,82 minutos"
+    }
+  ],
+  "num_palabras": 247
+}

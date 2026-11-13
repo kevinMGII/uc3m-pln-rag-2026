@@ -1,0 +1,40 @@
+{
+  "id": "doc_0063",
+  "titulo": "Vostok 4",
+  "titulo_wikipedia_en": "Vostok 4",
+  "fecha_lanzamiento": "1962-08-11",
+  "año_lanzamiento": 1962,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Vostok_4",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Indicativo": "Беркут (Berkut)",
+    "Lugar de lanzamiento": "Baikonur LC1",
+    "Masa en el lanzamiento": "4 728 kg",
+    "Fecha de lanzamiento": "12 de agosto de 1962\n08:02:33 UTC",
+    "Fecha de aterrizaje": "15 de agosto de 1962\n06:59 UTC\n48°9′N 71°51′E",
+    "Duración de la misión": "2 días, 22 horas y 56 minutos",
+    "Inclinación orbital": "64,95°",
+    "Órbitas completadas": "48",
+    "Apoapsis": "236,7 km",
+    "Periapsis": "179,8 km",
+    "Programa": "Programa Vostok",
+    "Misión anterior": "Vostok 3",
+    "Misión siguiente": "Vostok 5"
+  },
+  "resumen": "Vostok 4 (en ruso: Восток-4) fue una misión espacial del programa Vostok. Fue lanzada en agosto de 1962, un día después de la misión Vostok 3 con el cosmonauta Pável Popóvich a bordo, la primera vez que dos naves espaciales tripuladas estaban en órbita al mismo tiempo. Las dos cápsulas de Vostok se situaron a 6,5 km una de la otra y lograron establecer un contacto por radio.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Piloto: Pável Popóvich.\nTripulación de respaldo: Vladímir Komarov."
+    }
+  ],
+  "num_palabras": 76
+}

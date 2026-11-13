@@ -1,0 +1,29 @@
+{
+  "id": "doc_0474",
+  "titulo": "Soyuz 20",
+  "titulo_wikipedia_en": "Soyuz 20",
+  "fecha_lanzamiento": "1975-11-17",
+  "año_lanzamiento": 1975,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Soyuz_20",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Masa en el lanzamiento": "6700 kg",
+    "Fecha de lanzamiento": "17 de noviembre de 1975",
+    "Nave": "Soyuz 7K-T/A9",
+    "Fecha de aterrizaje": "16 de febrero de 1976",
+    "Duración de la misión": "90,5 días",
+    "Programa": "Programa Soyuz",
+    "Misión anterior": "Proyecto de pruebas Apolo-Soyuz",
+    "Misión siguiente": "Soyuz 21"
+  },
+  "resumen": "Soyuz 20 fue una misión de una nave Soyuz 7K-T modificada (Soyuz 7K-T/A9) lanzada el 17 de noviembre de 1975 sin tripular desde el cosmódromo de Baikonur.\nLa misión consistió en comprobar el comportamiento de la nave en misiones de larga duración y bajo diferentes condiciones de vuelo. Llevó una carga biológica consistente en varios animales.\nLa nave fue recuperada con éxito el 16 de febrero de 1976 a las 2:24 GMT.",
+  "secciones": [],
+  "num_palabras": 72
+}

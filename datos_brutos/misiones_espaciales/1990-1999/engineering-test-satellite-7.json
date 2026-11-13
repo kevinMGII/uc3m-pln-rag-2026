@@ -1,0 +1,41 @@
+{
+  "id": "doc_0841",
+  "titulo": "Engineering Test Satellite 7",
+  "titulo_wikipedia_en": "ETS-VII",
+  "fecha_lanzamiento": "1997-11-27",
+  "año_lanzamiento": 1997,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite experimental",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Engineering_Test_Satellite_7",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Inactivo",
+    "Tipo de misión": "Experimentos tecnológicos",
+    "Operador": "NASDA",
+    "Fecha de lanzamiento": "27 de noviembre de 1997",
+    "Lugar de lanzamiento": "Tanegashima",
+    "Vehículo de lanzamiento": "H-2",
+    "ID NSSDC": "1997-074B",
+    "Configuración": "Cúbica",
+    "Masa en el lanzamiento": "2540 kg",
+    "Periapsis": "545 km",
+    "Apoapsis": "548 km",
+    "Inclinación orbital": "35 grados",
+    "Periodo orbital": "95,5 minutos"
+  },
+  "resumen": "Engineering Test Satellite 7 o ETS-7 es un satélite artificial experimental japonés lanzado el 27 de noviembre de 1997 mediante un cohete H-2 desde Tanegashima para probar nuevas tecnologías, en particular métodos automáticos de encuentros y acoplamientos en el espacio.\nETS-7 iba equipado con un brazo robótico de 2 metros de largo que portaba varios instrumentos relacionados con los experimentos de encuentro y acoplamiento automáticos. Fue el primer satélite en contar con un brazo robótico y la primera nave no tripulada en realizar operaciones de acoplamiento automáticas con éxito. La vida prevista del satélite era de 1,5 años, aunque permaneció activo durante casi cinco.\nEl satélite constaba de dos partes: el objetivo y el cazador. El cazador estaba formado por el cuerpo principal del satélite y fue apodado Hikoboshi, y era la parte que montaba el brazo robótico. El objetivo era más pequeño y fue apodado Orihime. El cazador disponía de dos paneles solares, mientras que el objetivo usaba uno.",
+  "secciones": [
+    {
+      "titulo": "Experimentos",
+      "nivel": 2,
+      "texto": "Se llevaron a cabo tres operaciones de acoplamiento automático. También tuvieron lugar otros experimentos tecnológicos, realizándose todos antes de finales de marzo de 1999."
+    }
+  ],
+  "num_palabras": 184
+}

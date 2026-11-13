@@ -1,0 +1,51 @@
+{
+  "id": "doc_1259",
+  "titulo": "Intelsat 30",
+  "titulo_wikipedia_en": null,
+  "fecha_lanzamiento": "2014-10-16",
+  "año_lanzamiento": 2014,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Estación espacial",
+    "Satélite de comunicaciones",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Intelsat_30",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Comunicaciones",
+    "Operador": "Intelsat",
+    "Fabricante": "Space Systems/Loral",
+    "Fecha de lanzamiento": "16 de octubre de 2014",
+    "Lugar de lanzamiento": "Kourou, Guayana Francesa",
+    "Vehículo de lanzamiento": "Ariane-5ECA",
+    "Duración planificada": "15 años",
+    "ID COSPAR": "2014-061A",
+    "Masa en el lanzamiento": "6320 kg",
+    "Sistema de referencia orbital": "Geoestacionaria",
+    "Órbita RAAN": "95° Oeste",
+    "Trans cobertura": "Américas"
+  },
+  "resumen": "Intelsat 30 (también llamado IS-30, DLA 1 e ISDLA 1) es un satélite de comunicaciones geoestacionario. Fue construido por Space Systems/Loral (SSL). Está colocado en la posición orbital de 95 grados de longitud oeste y es propiedad de las plataforma satelital Intelsat. Está basado en el LS-1300 y su vida útil estimada es de 15 años.",
+  "secciones": [
+    {
+      "titulo": "Historia",
+      "nivel": 2,
+      "texto": "Space Systems/Loral (SS/L) anunció en septiembre de 2011 la firma de un contrato para suministrar tres satélites híbridos en alta potencia en las bandas C y Ku llamados Intelsat 30 y 31 o DLA 1 y 2 para prestar servicios de televisión \"Direct-to-Home (DTH)\" por parte de DirecTV en América Latina. Los satélites serán operados por Intelsat.\nLos transpondedores de la banda Ku serán utilizados para ampliar las ofertas de entretenimiento \"DTH\" y suministrar servicios de back up y restauración. El lanzamiento del segundo satélite está previsto para 2015 y ambos se ubicaran junto al satélite Intelsat Galaxy 3C en la posición orbital de 95° de longitud oeste que DirecTV viene utilizando desde 2002.\nLos 10 transpondedores de la banda C del satélite Intelsat 30 son para uso de Intelsat con el objetivo de expandir su negocio en el creciente mercado latinoamericano."
+    },
+    {
+      "titulo": "Lanzamiento",
+      "nivel": 2,
+      "texto": "El satélite se lanzó el 16 de octubre de 2014, por medio del cohete Ariane 5 ECA de la empresa francesa Arianespace desde el Centro Espacial de Kourou en la Guayana Francesa junto con el satélite ARSAT-1. Tiene una masa de lanzamiento de 6300 kg."
+    },
+    {
+      "titulo": "Capacidad y cobertura",
+      "nivel": 2,
+      "texto": "El Intelsat 30 está equipado con 10 transpondedores en banda C y 72 en banda Ku para fortalecer servicios de DTH en la costa sudoeste de los Estados Unidos, en América del Sur (excluyendo Brasil) y en parte del Caribe."
+    }
+  ],
+  "num_palabras": 283
+}

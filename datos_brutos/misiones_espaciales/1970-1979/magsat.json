@@ -1,0 +1,33 @@
+{
+  "id": "doc_0549",
+  "titulo": "Magsat",
+  "titulo_wikipedia_en": "Explorer 61",
+  "fecha_lanzamiento": "1979-10-30",
+  "año_lanzamiento": 1979,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de observación terrestre",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Magsat",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Reentrado en la atmósfera",
+    "Tipo de misión": "Estudio del campo magnético terrestre",
+    "Operador": "NASA",
+    "Fecha de lanzamiento": "30 de octubre de 1979",
+    "Lugar de lanzamiento": "Vandenberg",
+    "Vehículo de lanzamiento": "Scout",
+    "Duración planificada": "8 meses",
+    "ID NSSDC": "1979-094A",
+    "Masa en el lanzamiento": "181 kg",
+    "Tipo de fin de misión": "reingreso",
+    "Fecha de reentrada": "11 de junio de 1980"
+  },
+  "resumen": "Magsat (Magnetic Field Satellite, satélite del campo magnético), también conocido como Explorer 61 y AEM-3 (Applications Explorer Mission-3) fue un satélite artificial de la NASA lanzado el 30 de octubre de 1979 mediante un cohete Scout desde la base de Vandenberg y que reentró en la atmósfera el 11 de junio de 1980.\nMagsat estaba dedicado a tomar datos del campo magnético terrestre en zonas cerca de la superficie terrestre y a estudiar anomalías magnéticas de la corteza. Poseía dos magnetómetros situados en un mástil para evitar interferencias de la electrónica del satélite. El satélite se orientaba espacialmente utilizando dos cámaras seguidoras de estrellas.\nJunto con el satélite Ørsted ha ayudado a explicar la disminución del campo magnético de la Tierra.",
+  "secciones": [],
+  "num_palabras": 121
+}

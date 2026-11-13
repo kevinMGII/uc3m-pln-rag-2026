@@ -1,0 +1,41 @@
+{
+  "id": "doc_0765",
+  "titulo": "Solidaridad II",
+  "titulo_wikipedia_en": null,
+  "fecha_lanzamiento": "1994-10-07",
+  "año_lanzamiento": 1994,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de comunicaciones",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Solidaridad_II",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Inactivo",
+    "Tipo de misión": "Comunicaciones",
+    "Operador": "Satmex",
+    "Fecha de lanzamiento": "7 de octubre de 1994",
+    "Lugar de lanzamiento": "ELA-2, Centro Espacial de Guayana",
+    "Vehículo de lanzamiento": "Ariane 4",
+    "Duración de la misión": "19 años",
+    "ID NSSDC": "1994-065A",
+    "Masa en el lanzamiento": "1,670 kg",
+    "Dimensiones": "3 m x 7 m",
+    "Potencia": "2,500 vatios",
+    "Sistema de referencia orbital": "Geoestacionaria",
+    "Instrumentos": "48 transpondedores"
+  },
+  "resumen": "El Solidaridad II es un satélite de comunicaciones, gemelo del Solidaridad I, parte de la segunda generación de satélites mexicanos llamada Satélites Solidaridad.\nFue construido y puesto en órbita bajo contrato dado por la Secretaría de Comunicaciones y Transportes, construido también por el Grupo de Espacio y Comunicaciones de Hughes Aircraft Co. y fue lanzado el 7 de octubre de 1994 a las 01:07 UTC desde un cohete Ariane 4 en el Puerto espacial de Kourou.",
+  "secciones": [
+    {
+      "titulo": "Fin de la vida útil",
+      "nivel": 2,
+      "texto": "La vida útil del satélite Solidaridad 2 se estimó que concluyera a finales de 2008. Ante la inminencia de este evento, el Gobierno mexicano inició en 2007 la evaluación de las alternativas para garantizar en el corto, mediano y largo plazo, la continuidad de los servicios satelitales, considerando la situación financiera de SATMEX, la relevancia de la banda L y la preservación de las posiciones orbitales para México.\nPara ello se tomó la previsión de ordenar a SATMEX poner el satélite en una órbita inclinada a partir de marzo de 2008 y con ello permitir la continuidad de los servicios de banda L mediante la extensión de la vida útil del satélite Solidaridad 2 aun cuando con ello se limitó la posibilidad de utilizar las bandas C y Ku.\nEl satélite prestó servicios a particulares y al gobierno, pero actualmente sólo opera, debido al cercano final de vida útil, en órbita inclinada para las instituciones del gobierno de México como la Secretaría de defensa, la Procuraduría General de la República, la Secretaría de Seguridad Pública y la Marina Armada de México en la Banda L, siendo el único satélite restante que puede operar señales cifradas, voz y datos para éstas instituciones gubernamentales, cuya vida útil termina en el año 2013, por lo que el gobierno mexicano lanzó la convocatoria para la construcción y operación de la próxima generación de satélites que provean la operación de la Banda L de la que carecen los satélites Satmex 5 y Satmex 6.\nLa vida útil del Satélite Solidaridad 2 concluyó el viernes 29 de noviembre de 2013, 23:59hrs."
+    }
+  ],
+  "num_palabras": 341
+}

@@ -1,0 +1,49 @@
+{
+  "id": "doc_1519",
+  "titulo": "Nova-C",
+  "titulo_wikipedia_en": "Intuitive Machines Nova-C",
+  "fecha_lanzamiento": "2024-02-15",
+  "año_lanzamiento": 2024,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración del sistema solar",
+    "Exploración lunar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Nova-C",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Módulo de aterrizaje lunar",
+    "Operador": "NASA",
+    "Fabricante": "Intuitive Machines",
+    "Fecha de lanzamiento": "15 de febrero de 2024",
+    "Vehículo de lanzamiento": "Falcon 9",
+    "Masa en el lanzamiento": "1,500 kg (3,300 lb)"
+  },
+  "resumen": "El Intuitive Machines Nova-C, o simplemente Nova-C, es un módulo de aterrizaje lunar, diseñado por la compañía privada Intuitive Machines, para entregar pequeñas cargas comerciales a la superficie de la Luna. El módulo de aterrizaje para la misión lunar IM-1, llamado Odiseo, fue lanzado el 15 de febrero de 2024, alcanzó la órbita lunar el 21 de febrero y alunizó en la superficie el 22 de febrero.\nIntuitive Machines fue una de las 9 empresas contratistas seleccionadas por la NASA en noviembre de 2018, y Nova-C es uno de los primeros tres tipos de módulos de aterrizaje seleccionados para el nuevo programa de la NASA llamado Commercial Lunar Payload Services. El lanzamiento estaba planeado para un cohete Falcon 9, de SpaceX, en julio de 2021.\nSin embargo debido a diversos contratiempos el vuelo se postergó para febrero de 2024\nEstá previsto que el segundo módulo de aterrizaje Nova-C con la misión IM-2 se lance en enero de 2025. La misión IM-3 está programada para lanzamiento a finales de 2025 o inicios de 2026. Los tres módulos de aterrizaje se lanzarán en el vehículo de lanzamiento Falcon 9 de SpaceX.",
+  "secciones": [
+    {
+      "titulo": "Visión general",
+      "nivel": 2,
+      "texto": "El módulo de aterrizaje lunar Nova-C fue diseñado por Intuitive Machines y hereda la tecnología desarrollada por el Proyecto Morpheus de la NASA. Cuenta con un sistema propulsor de naves espaciales que utiliza metano y oxígeno líquido, y una tecnología autónoma de aterrizaje y detección de peligros. Después del aterrizaje, el módulo de aterrizaje es capaz de reubicarse realizando un despegue vertical, crucero y aterrizaje vertical. El metano y el oxígeno también podrían fabricarse potencialmente en la Luna y Marte.\nNova-C es capaz de brindar cobertura de datos las 24 horas del día, los 7 días de la semana para la carga útil de su cliente, y puede contener una carga útil de 100 kg. El diseño del módulo de aterrizaje Nova-C proporciona una plataforma tecnológica que se escala a clases de módulo de aterrizaje medianas y grandes, capaz de acomodar cargas útiles más grandes."
+    },
+    {
+      "titulo": "Misión IM-1",
+      "nivel": 2,
+      "texto": "Nova-C fue seleccionado en mayo de 2019 para CLPS de la NASA como uno de los primeros tres módulos de aterrizaje de este programa, que tiene la tarea de entregar pequeñas cargas útiles para explorar y probar tecnologías para procesar algunos recursos naturales de la Luna. El otro módulo de aterrizaje seleccionado es el Peregrine de Astrobotic.\nSu primer vuelo estaba planeado para julio de 2021, pero debido a varios retrasos el lanzamiento se postergó para 2023.\nNova-C llevó en la misión IM-1 hasta cinco instrumentos patrocinados por la NASA para aterrizar en Malapert (cráter), cerca del polo sur lunar Además, el módulo de aterrizaje también llevó algunas cargas útiles de otros clientes, incluidos EagleCAM y 1–2 rovers Spacebit. El módulo de aterrizaje funcionará durante un día lunar, lo que equivale a unos 14 días terrestres."
+    },
+    {
+      "titulo": "Misión IM-2",
+      "nivel": 2,
+      "texto": "Intuitive Machines fue seleccionado en octubre de 2020 para aterrizar su segundo módulo de aterrizaje Nova-C cerca del polo sur lunar. A partir de julio de 2023, se espera que IM-2 se lance a principios de 2024.\nLas cargas útiles principales serán el taladro de hielo PRIME-1, que intentará recolectar hielo debajo de la superficie lunar con la ayuda del espectrómetro de masas MSolo.\nCanadensys, contratista principal de ILO-1, está trabajando para entregar \"una carga útil óptica de bajo costo lista para volar para la misión ILO-1, robusta para el entorno del Polo Sur de la Luna\". Potencialmente podría estar listo para su integración en la misión IM-2.\nLa carga útil µNova se separará del módulo de aterrizaje Nova-C después del aterrizaje y funcionará como un módulo de aterrizaje de tolva independiente, explorando múltiples áreas de difícil acceso, como cráteres profundos en la superficie lunar.\nEn esta misión se desplegará un satélite de comunicaciones lunares para facilitar las comunicaciones entre el módulo de aterrizaje y las estaciones terrestres en la Tierra."
+    },
+    {
+      "titulo": "Misión IM-3",
+      "nivel": 2,
+      "texto": "En agosto de 2021, Intuitive Machines seleccionó a SpaceX para lanzar su tercera misión lunar, IM-3, a principios de 2024.\nEntregará cargas útiles a Reiner Gamma para el programa Commercial Lunar Payload Services, dentro de las cuales se encuentran 3 mini rovers CADRE que tendrán la misión de explorar de manera autónoma y conjunta el territorio lunar."
+    }
+  ],
+  "num_palabras": 698
+}

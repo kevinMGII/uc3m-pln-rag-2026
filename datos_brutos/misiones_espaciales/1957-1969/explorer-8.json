@@ -1,0 +1,36 @@
+{
+  "id": "doc_0032",
+  "titulo": "Explorer 8",
+  "titulo_wikipedia_en": "Explorer 8",
+  "fecha_lanzamiento": "1960-11-03",
+  "año_lanzamiento": 1960,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de observación terrestre",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Explorer_8",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Inactivo",
+    "Tipo de misión": "Observación terrestre",
+    "Operador": "NASA",
+    "Fecha de lanzamiento": "3 de noviembre de 1960",
+    "Lugar de lanzamiento": "Cabo Cañaveral",
+    "Vehículo de lanzamiento": "Juno",
+    "Duración planificada": "54 días",
+    "ID NSSDC": "1960-014A",
+    "Masa en el lanzamiento": "41 kg",
+    "Dimensiones": "76 cm de diámetro",
+    "Periapsis": "358,5 km",
+    "Apoapsis": "650,6 km",
+    "Inclinación orbital": "49,9 grados",
+    "Periodo orbital": "94,6 minutos"
+  },
+  "resumen": "Explorer 8, también denominado S 30, es un satélite artificial de la NASA lanzado el 3 de noviembre de 1960 mediante un cohete Juno desde Cabo Cañaveral.\nLa misión de Explorer 8 fue realizar mediciones de la densidad de electrones, su temperatura, la concentración y masa de iones y la distribución y masa de micrometeoritos en la ionosfera, a altitudes de entre 400 y 1600 km.\nEl satélite tenía una masa de 41 kg y estaba alimentado exclusivamente por baterías de mercurio. Tenía la forma de dos conos truncados unidos por la base. La parte exterior estaba hecha de aluminio y tenía un diámetro de 76 cm. Disponía de un transmisor a 108 MHz, con una potencia de unos 100 mW. Las baterías limitaron la vida del satélite a 54 días. No se utilizaron paneles solares para evitar posibles efectos sobre los experimentos producidos por asimetrías en la carga eléctrica sobre los paneles.\nLa instrumentación incluía una sonda de impedancia de radiofrecuencia, un monitor de iones, una sonda de potencial retardado, sonda de temperatura de electrones, un monitor de corriente de electrones, un fotomultiplicador, un detector de micrometeoritos mediante micrófono, un medidor de campo eléctrico y un detector de horizonte solar.\nLas baterías se agotaron el 27 de diciembre de 1960.",
+  "secciones": [],
+  "num_palabras": 211
+}

@@ -1,0 +1,33 @@
+{
+  "id": "doc_0702",
+  "titulo": "Satellite pour Astronomie Radio Amateur",
+  "titulo_wikipedia_en": null,
+  "fecha_lanzamiento": "1991-07-17",
+  "año_lanzamiento": 1991,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Telescopio espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Satellite_pour_Astronomie_Radio_Amateur",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Observatorio espacial",
+    "Fecha de lanzamiento": "17 de julio de 1991",
+    "Lugar de lanzamiento": "Puerto espacial de Kourou",
+    "Vehículo de lanzamiento": "Ariane 4",
+    "ID NSSDC": "1991-050E",
+    "Configuración": "Cúbica",
+    "Masa en el lanzamiento": "26 kg",
+    "Dimensiones": "45 cm de lado",
+    "Periapsis": "728,8 km",
+    "Apoapsis": "734 km",
+    "Inclinación orbital": "98,2 grados",
+    "Periodo orbital": "99,3 minutos"
+  },
+  "resumen": "Satellite pour Astronomie Radio Amateur o SARA (Satélite de radioastronomía amateur, en francés) es un satélite artificial francés lanzado el 17 de julio de 1991 desde el puerto espacial de Kourou en un Ariane 4.\nSARA portaba un experimento de radioastronomía diseñado para observar las radioemisiones de Júpiter.\nEl satélite en sí tenía forma de cubo de 45 cm de lado, y con las antenas desplegadas su longitud alcanzaba los 10 metros.",
+  "secciones": [],
+  "num_palabras": 72
+}

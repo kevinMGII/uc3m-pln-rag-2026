@@ -1,0 +1,46 @@
+{
+  "id": "doc_1109",
+  "titulo": "DRAGONSat",
+  "titulo_wikipedia_en": "DRAGONSat",
+  "fecha_lanzamiento": "2009-07-30",
+  "año_lanzamiento": 2009,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/DRAGONSat",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Fecha de lanzamiento": "30 de julio de 2009",
+    "Lugar de lanzamiento": "Centro Espacial Kennedy, Florida",
+    "Vehículo de lanzamiento": "Transbordador Espacial Endeavour",
+    "Sistema de referencia orbital": "Geosincrónica,\nÓrbita baja"
+  },
+  "resumen": "DRAGONSat (Dual RF Astrodynamic GPS Orbital Navigator Satellite es un par de picosatélites que demostrarán su autonomía (ARD) en órbitas bajas terrestres (LEO) para la NASA. Recogerá información de vuelo con un receptor GPS diseñado especialmente para aplicación espacial para recoger información de vuelo en el medio espacial. ARDes una de las dos aeronaves espaciales capaces volar a baja cota sin intervención de personas. Un DRAGONSat fue construido por la Universidad de Texas y el otro fue construido por la Universidad de Texas A&M, lanzados en el SSPL. Estos proyectos no tendrán relación con ningún otro satélite en el espacio sin el beneficio de la intervención humana.\nDRAGONSat está planeado que sea un programa de ocho años con lanzamientos de satélites cada dos años aproximadamente. La primera de las tres misiones comprobará los componentes individuales y los subsistemas mientras que la misión final culminará con el ensamblaje exitoso de dos satélites. Cada misión ayuda a culminar la anterior en una misión totalmente autónoma de acercamiento y ensamblaje. Ambas universidades han sido obligadas a utilizar receptores GPS diseñados por la NASA para determinar su funcionalidad. Uno de los objetivos principales es demostrar la capacidad de navegación en tiempo real así como la precisión relativa de navegación entre los dos satélites.",
+  "secciones": [
+    {
+      "titulo": "Operaciones",
+      "nivel": 2,
+      "texto": "DRAGONSat es un par de satélites de 12 x 12x 12 centímetros que fueron lanzados en la cubierta de carga del Transbordador espacial. Ambos satélites son de aluminio y tienen una masa aproximada de 7,5 kg. Cada picosatélite está cubierto de células fotovoltaicas y que permitirá incrementar la vida activa en órbita. Cada satélite también tiene una antena dipolo y dos antenas para el receptor GPS. Los satélites fueron lanzados por el SSPL en su cubierta de carga."
+    },
+    {
+      "titulo": "Protocolos",
+      "nivel": 3,
+      "texto": "Ambos DRAGONSat han sido lanzados juntos en el SSPL en una de las paredes laterales de la bodega de carga. Los datos recolectados pueden ser descargados en las estaciones de tierra capaces de contactar con los satélites."
+    },
+    {
+      "titulo": "Especificaciones",
+      "nivel": 2,
+      "texto": "Fuente sección\nDRAGONSat-1 \"BEVO-1\"\nPaís: EE. UU.\nAplicaciones: Tecnología de ensamblaje espacial\nOperador: Universidad de Texas\nContratista: Universidad de Texas\nEquipamiento: Receptor DRAGON GPS\nConfiguración: cubo de 12 cm.\nPropulsión: ninguna\nVida: 8 años\nMasa: 5 kg\nDRAGONSat-2 \"AggieSat-2\"\nPaís: EE. UU.\nAplicación: tecnología de ensamblaje espacial\nOperador: Universidad de Texas A&M\nContratista: Universidad de Texas A&M\nEquipamiento: Receptor DRAGON GPS\nConfiguración: cubo de 12 cm.\nPropulsión: Ninguna\nVida: 8 años\nMasa: 3,5 kg"
+    },
+    {
+      "titulo": "Lanzamientos",
+      "nivel": 2,
+      "texto": "Trasbordador STS-127\nEl 30 de julio de 2009 STS-127 Vuelo día 16 el primer par de DRAGONSats fueron puestos en órbita. El Tranbordador Endeavour los puso en órbita a las EDT. Para su misión de estudio del ensamblaje aeroespacial multianual. El despliegue se produjo por encima de Sudamérica a una altitud de 350 km."
+    }
+  ],
+  "num_palabras": 452
+}

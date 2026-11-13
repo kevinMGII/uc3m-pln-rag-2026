@@ -1,0 +1,45 @@
+{
+  "id": "doc_0899",
+  "titulo": "TDRS-8",
+  "titulo_wikipedia_en": "TDRS-8",
+  "fecha_lanzamiento": "2000-06-30",
+  "año_lanzamiento": 2000,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Estación espacial",
+    "Satélite de comunicaciones",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/TDRS-8",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Operador": "NASA",
+    "Fabricante": "Boeing",
+    "Fecha de lanzamiento": "30 de junio de 2000",
+    "Lugar de lanzamiento": "Cabo Cañaveral, SLC-36A",
+    "Vehículo de lanzamiento": "Atlas IIA",
+    "Duración planificada": "11 años",
+    "ID NSSDC": "2000-034A",
+    "Masa en el lanzamiento": "3,192 kilogramos",
+    "Sistema de referencia orbital": "Geoestacionario",
+    "Inclinación orbital": "5.4°",
+    "Órbita RAAN": "171° Oeste (? -?)\n270.8° Oeste"
+  },
+  "resumen": "TDRS-8, conocido antes del lanzamiento como TDRS-H, es un satélite de comunicaciones estadounidense operado por la NASA como parte del Tracking and Data Relay Satellite System. Fue construido por Boeing basado en el bus de satélite BSS-601.",
+  "secciones": [
+    {
+      "titulo": "Lanzamiento",
+      "nivel": 2,
+      "texto": "Su lanzamiento fue contratado por International Launch Services, utilizando un cohete portador Atlas IIA. El lanzamiento tuvo lugar el 30 de junio de 2000, a las 12:55 GMT del Complejo de lanzamiento espacial 36A en la Estación de la Fuerza Aérea de Cabo Cañaveral.\nFue el primer satélite TDRS de segunda generación que se lanzó. Debido a un mal funcionamiento de la antena de múltiples fases de acceso múltiple, la nave espacial no proporcionó el nivel de rendimiento esperado para dieciocho de los servicios de comunicaciones que debía proporcionar. El mismo problema se encontró y se corrigió en los satélites TDRS-9 y TDRS-10 antes de sus lanzamientos."
+    },
+    {
+      "titulo": "Órbita",
+      "nivel": 2,
+      "texto": "Después de su lanzamiento, se elevó a la órbita geoestacionaria por medio del motor de apogeo R-4D a bordo, y se colocó a 150° Oeste para pruebas en órbita. Después de completar las pruebas, se movió a 171° Oeste desde donde proporciona servicios de comunicaciones a naves espaciales en órbita terrestre, incluyendo el transbordador espacial y la estación espacial internacional."
+    }
+  ],
+  "num_palabras": 204
+}

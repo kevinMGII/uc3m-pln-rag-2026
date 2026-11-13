@@ -1,0 +1,46 @@
+{
+  "id": "doc_0083",
+  "titulo": "ERS 5",
+  "titulo_wikipedia_en": null,
+  "fecha_lanzamiento": "1963-05-09",
+  "año_lanzamiento": 1963,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de observación terrestre",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/ERS_5",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Estudios atmosféricos",
+    "Operador": "Departamento de Defensa de los Estados Unidos",
+    "Fecha de lanzamiento": "9 de mayo de 1963",
+    "Lugar de lanzamiento": "Point Arguello",
+    "Vehículo de lanzamiento": "Atlas",
+    "ID NSSDC": "1963-014B",
+    "Configuración": "Esférica",
+    "Masa en el lanzamiento": "0,68 kg",
+    "Dimensiones": "0,31 m de diámetro",
+    "Periapsis": "337,6 km",
+    "Apoapsis": "5581,7 km",
+    "Inclinación orbital": "84,4 grados",
+    "Periodo orbital": "149,5 minutos"
+  },
+  "resumen": "ERS 5 fue un satélite artificial del Departamento de Defensa de los Estados Unidos lanzado el 9 de mayo de 1963 mediante un cohete Atlas desde Point Arguello junto con otros dos satélites.",
+  "secciones": [
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "ERS 5 fue utilizado para estudiar el efecto de la presión de radiación solar en las características orbitales (excentricidad, período, altura...). También llevaba un experimento dedicado al estudio de la degradación de células solares en el entorno espacial, devolviendo datos durante los primeros 92 días en órbita."
+    },
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "ERS 5 tenía forma de esfera de 0,31 m de diámetro."
+    }
+  ],
+  "num_palabras": 91
+}

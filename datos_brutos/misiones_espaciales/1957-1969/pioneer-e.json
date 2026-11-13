@@ -1,0 +1,30 @@
+{
+  "id": "doc_0282",
+  "titulo": "Pioneer E",
+  "titulo_wikipedia_en": null,
+  "fecha_lanzamiento": "1969-08-27",
+  "año_lanzamiento": 1969,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Pioneer_E",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Destruida durante el lanzamiento",
+    "Operador": "NASA",
+    "Fecha de lanzamiento": "27 de agosto de 1969",
+    "Lugar de lanzamiento": "Cabo Cañaveral",
+    "Vehículo de lanzamiento": "Delta",
+    "ID NSSDC": "PIONE",
+    "Configuración": "Cilíndrica",
+    "Masa en el lanzamiento": "148 kg",
+    "Dimensiones": "0,94 m de diámetro x 0,81 m de alto, con mástiles de hasta 1,8 m de longitud"
+  },
+  "resumen": "Pioneer E fue una sonda espacial de la NASA lanzada el 27 de agosto de 1969 mediante un cohete Delta desde Cabo Cañaveral y que resultó destruida durante el lanzamiento, tras la explosión deliberada del lanzador por motivos de seguridad.\nPioneer E habría sido la quinta sonda de una serie de sondas (formada por Pioneer 6, Pioneer 7, Pioneer 8 y Pioneer 9) con la misión de realizar el primer estudio detallado del viento solar, el campo magnético interplanetario y los rayos cósmicos, proporcionando datos prácticos sobre las tormentas solares.\nDurante el lanzamiento el sistema hidráulico de control del cohete lanzador falló, produciendo el desvío de su trayectoria. Por motivos de seguridad se envió la señal de destrucción del cohete desde el control de tierra.",
+  "secciones": [],
+  "num_palabras": 125
+}

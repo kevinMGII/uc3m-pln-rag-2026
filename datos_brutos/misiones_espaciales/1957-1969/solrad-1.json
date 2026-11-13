@@ -1,0 +1,89 @@
+{
+  "id": "doc_0026",
+  "titulo": "SOLRAD 1",
+  "titulo_wikipedia_en": "SOLRAD 1",
+  "fecha_lanzamiento": "1960-06-22",
+  "año_lanzamiento": 1960,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/SOLRAD_1",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Rayos X solares",
+    "Operador": "Laboratorio de Investigación Naval (NRL)",
+    "Designación Harvard": "1960 Eta 2",
+    "ID COSPAR": "1960-007B",
+    "Nº SATCAT": "00046",
+    "Duración de la misión": "10 meses (alcanzado)\n64 años y 22 días (en órbita)",
+    "Tipo de nave": "SOLRAD",
+    "Fabricante": "Laboratorio de Investigación Naval (NRL)",
+    "Masa en el lanzamiento": "19,05 kg (42,0 libras)",
+    "Dimensiones": "51 cm (20 pulgadas) de diámetro",
+    "Potencia": "6 vatios",
+    "Fecha de lanzamiento": "22 de junio de 1960, 05:54 GMT",
+    "Vehículo de lanzamiento": "Thor-Ablestar",
+    "Lugar de lanzamiento": "Cabo Cañaveral, LC-17B",
+    "Contratista del lanzamiento": "Douglas Aircraft Company",
+    "Fin declarado": "Abril de 1961",
+    "Sistema de referencia orbital": "Órbita geocéntrica",
+    "Régimen orbital": "Órbita terrestre baja",
+    "Periapsis": "614 km (382 millas)",
+    "Apoapsis": "1.061 km (659 millas)",
+    "Inclinación orbital": "66.69°",
+    "Periodo orbital": "101.7 minutos"
+  },
+  "resumen": "SOLRAD (SOLar RADiation) 1 es la denominación pública de SOLRAD/GRAB 1, una combinación de satélite científico y de vigilancia puesto en órbita el 22 de junio de 1960. Fue el primer satélite en observar con éxito los rayos X solares, el primero en llevar a cabo vigilancia desde la órbita, y el primero en ser lanzado con otro satélite instrumentado (el satélite de navegación no relacionado, Transit 2A).\nDesarrollado por el Laboratorio de Investigación Naval (NRL) de la Marina de los Estados Unidos, el satélite fue en muchos aspectos un sucesor directo del Proyecto Vanguard del NRL, el primer programa de satélites estadounidense. La misión científica del satélite fue un éxito, enviando datos útiles hasta noviembre de 1960 que determinaron la producción normal de rayos X solares y confirmaron la conexión entre el aumento de la actividad de rayos X solares y los apagones de radio.\nEl paquete científico SOLRAD a bordo del satélite sirvió de cobertura al paquete de vigilancia electrónica Galactic Radiation and Background (GRAB), cuya misión era cartografiar la red de radares de defensa aérea de la Unión Soviética. La misión GRAB también tuvo éxito, funcionando hasta el 22 de septiembre de 1960, y revelando que la red soviética de radares de defensa antiaérea era más extensa de lo que se esperaba. SOLRAD/GRAB 1 fue desactivado en abril de 1961, convirtiéndose en el primer satélite desactivado por control remoto.",
+  "secciones": [
+    {
+      "titulo": "Antecedentes",
+      "nivel": 2,
+      "texto": "En 1957, la Unión Soviética comenzó a desplegar el misil tierra-aire S-75 Dvina, controlado por radares de control de tiro Fan Song. Este desarrollo hizo más peligrosa la penetración de bombarderos estadounidenses en el espacio aéreo soviético. Las Fuerzas Aéreas de Estados Unidos iniciaron un programa de catalogación de la ubicación aproximada y las frecuencias de funcionamiento individuales de estos radares, utilizando aviones de reconocimiento electrónico que volaban cerca de las fronteras de la Unión Soviética. Este programa proporcionó información sobre los radares en la periferia de la Unión Soviética, pero faltaba información sobre los emplazamientos en el interior del país. Se llevaron a cabo algunos experimentos utilizando radiotelescopios en busca de reflejos serendípicos de radares soviéticos en la Luna, pero esto resultó ser una solución inadecuada al problema.\nEn marzo de 1958, mientras el Laboratorio de Investigación Naval de los Estados Unidos (NRL) estaba fuertemente involucrado en el Proyecto Vanguard, el esfuerzo de la Armada de los Estados Unidos para lanzar un satélite, el ingeniero del NRL Reid D. Mayo determinó que un derivado del Vanguard podría ser utilizado para cartografiar emplazamientos de misiles soviéticos. Mayo había desarrollado previamente un sistema para submarinos que les permitía eludir a los aviones antisubmarinos captando sus señales de radar. Físicamente pequeño y mecánicamente robusto, podía adaptarse para caber dentro del pequeño armazón del Vanguard.\nMayo presentó la idea a Howard Lorenzen, jefe de la rama de contramedidas del NRL. Lorenzen promovió la idea en el Departamento de Defensa, y seis meses después se aprobó el concepto con el nombre de «Chivato» El presidente Eisenhower aprobó el pleno desarrollo del programa el 24 de agosto de 1959.\nTras una filtración de The New York Times, Eisenhower canceló el proyecto. El proyecto se reinició con el nombre de «Walnut» (al componente del satélite se le dio el nombre de «DYNO» después de que se hubiera implementado una mayor seguridad, incluyendo una mayor supervisión y la restricción del acceso al personal «necesario para conocer». Los lanzamientos espaciales estadounidenses no estaban clasificados en ese momento, y se deseaba una misión de cobertura de co-vuelo que compartiera el espacio con DYNO para ocultar la misión de vigilancia electrónica de DYNO de sus objetivos previstos.\nEl estudio del espectro electromagnético del Sol ofrecía una oportunidad de cobertura ideal. La Marina había querido determinar el papel de las erupciones solares en las interrupciones de las comunicaciones por radio y el nivel de peligro que suponía la radiación ultravioleta y de rayos X para los satélites y los astronautas. Hasta entonces no había sido posible realizar un estudio de este tipo, ya que la atmósfera terrestre bloquea la salida de rayos X y ultravioleta del Sol de la observación desde tierra. Además, la radiación solar es impredecible y fluctúa rápidamente, por lo que los cohetes de sondeo suborbitales no son adecuados para la tarea de observación. Se necesitaba un satélite para el estudio continuo y a largo plazo del espectro solar completo.\nEl NRL ya disponía de un observatorio solar específico, el Vanguard 3, lanzado en 1959. El Vanguard 3 llevaba detectores de rayos X y ultravioleta, aunque estaban completamente saturados por la radiación de fondo del cinturón de radiación de Van Allen. El desarrollo del satélite DYNO a partir del diseño del Vanguard corrió a cargo del ingeniero del NRL Martin Votaw, al frente de un equipo de ingenieros y científicos del Proyecto Vanguard que no habían emigrado a la NASA. El satélite de doble propósito fue rebautizado como GRAB («Galactic Radiation And Background»), a veces llamado GREB («Galactic Radiation Experiment Background»), y referido en su capacidad científica como SOLRAD («SOLar RADiation»)\nEl 13 de abril de 1960 se lanzó con éxito un simulador de masa ficticia SOLRAD, acoplado al Transit 1B, probando la técnica de lanzamiento de satélites dobles. El 5 de mayo de 1960, sólo cuatro días después de que el derribo del vuelo U-2 de Gary Powers sobre la Unión Soviética pusiera de manifiesto la vulnerabilidad de la vigilancia basada en aviones, el presidente Eisenhower aprobó el lanzamiento de un satélite SOLRAD operativo."
+    },
+    {
+      "titulo": "Naves espaciales",
+      "nivel": 2,
+      "texto": "Al igual que el Vanguard 3, el SOLRAD/GRAB 1 era aproximadamente esférico, de 51 cm (20 pulgadas) de diámetro, y estaba alimentado por seis parches circulares de células solares. SOLRAD/GRAB 1 era ligeramente más ligero, con una masa de 19,05 kg (42,0 lb) (frente a los 23,7 kg (52 lb) del Vanguard). Las células solares alimentaban nueve baterías D en serie (12 voltios en total) proporcionando 6 vatios de potencia.\nEl paquete científico SOLRAD del satélite incluía dos fotómetros Lyman-alfa (cámaras de iones de óxido nítrico) para el estudio de la luz ultravioleta en el rango de longitudes de onda de 1050-1350 Å y un fotómetro de rayos X (una cámara de iones de argón) en el rango de longitudes de onda de 2-8 Å, todos ellos montados alrededor del ecuador del satélite.\nEl equipo de vigilancia GRAB del satélite estaba diseñado para detectar los radares de defensa aérea soviéticos que emitían en la banda S (1550-3900 MHz) en un área circular de 6.500 km (4.000 mi) de diámetro bajo él. Un receptor en el satélite fue sintonizado a la frecuencia aproximada de los radares, y su salida se utilizó para activar un transmisor separado de muy alta frecuencia (VHF) en la nave espacial. A medida que sobrevolaba la Unión Soviética, el satélite detectaba los impulsos de los radares de misiles y los retransmitía inmediatamente a las estaciones terrestres estadounidenses situadas en su radio de acción, que grababan las señales y las enviaban al NRL para su análisis. Aunque el receptor del GRAB era omnidireccional, al buscar las mismas señales en múltiples pasadas y compararlas con la ubicación conocida del satélite, se podía determinar la ubicación aproximada de los radares, junto con su frecuencia exacta de repetición de pulsos.\nLa telemetría se enviaba a través de cuatro antenas tipo látigo de 63,5 cm (25,0 pulgadas) de longitud montadas en el ecuador de SOLRAD. La telemetría científica se enviaba en 108 MHz, la frecuencia estándar del Año Geofísico Internacional utilizada por Vanguard. Los comandos desde tierra y la vigilancia electrónica se recogían a través de antenas más pequeñas en 139 MHz. Los datos recibidos en tierra se grababan en cinta magnética y se enviaban por correo al NRL, donde se evaluaban, duplicaban y remitían a la Agencia de Seguridad Nacional (NSA) en Fort Meade, Maryland, y al Mando Aéreo Estratégico en la Base Aérea de Offut Omaha, Nebraska, para su posterior análisis y procesamiento.\nComo la mayoría de las primeras naves espaciales automáticas, SOLRAD/GRAB 1, aunque con giro estabilizado, carecía de sistemas de control de actitud, por lo que escaneaba todo el cielo sin centrarse en una fuente concreta. Para que los científicos pudieran interpretar correctamente la fuente de los rayos X detectados por SOLRAD/GRAB 1, la nave espacial llevaba una fotocélula de vacío para determinar el momento en que el Sol incidía sobre sus fotómetros y el ángulo en que la luz solar incidía sobre ellos."
+    },
+    {
+      "titulo": "Lanzamiento y puesta en órbita",
+      "nivel": 2,
+      "texto": "SOLRAD/GRAB 1 fue lanzado a las 05:54 GMT del 22 de junio de 1960, mediante el sistema de lanzamiento Thor-Ablestar desde Cabo Cañaveral LC-17B. El lanzamiento marcó la primera vez que dos satélites instrumentados habían sido llevados a órbita en el mismo propulsor. SOLRAD/GRAB 1 dio inicialmente una vuelta a la Tierra cada 101,7 minutos, variando de 614 km (382 mi) a 1.046 km (650 mi) de altitud; esto supuso una desviación de la órbita circular prevista de 930 km (580 mi), causada por fallos en la segunda etapa del propulsor, pero no afectó a los objetivos del satélite."
+    },
+    {
+      "titulo": "Resultados científicos",
+      "nivel": 2,
+      "texto": "SOLRAD/GRAB 1, el primer observatorio solar orbital del mundo, transmitió más de 500 lotes de datos científicos entre junio y noviembre de 1960, después de lo cual resultó imposible determinar el ángulo con el que el Sol incidía sobre los experimentos de SOLRAD. No obstante, SOLRAD/GRAB 1 continuó enviando datos hasta abril de 1961, cuando la nave fue desactivada desde tierra. Era la primera vez que se desactivaba un satélite a distancia.\nEl satélite comunicaba los resultados en tiempo real, lo que significaba que los datos sólo podían recibirse cuando había una estación de seguimiento dentro del alcance, ya fuera una de las estaciones Minitrack de Vanguard o algunos otros receptores aislados. Así, sólo de uno a diez minutos por órbita, aproximadamente el 1,2% del tiempo activo del satélite, devolvía observaciones solares. Los deflectores magnéticos resultaron eficaces, permitiendo que SOLRAD/GRAB 1 se convirtiera en el primer satélite en observar con éxito los rayos X solares. Sin embargo, también interactuaron con el campo magnético de la Tierra, haciendo que el satélite precesara (se tambaleara alrededor de su eje como una peonza) de modo que sus sensores estaban en la sombra la mitad del tiempo que el satélite estaba a la luz del sol."
+    },
+    {
+      "titulo": "Rayos X",
+      "nivel": 3,
+      "texto": "Aproximadamente el 20% de las transmisiones de datos de SOLRAD contenían mediciones de rayos X, suficientes para establecer los niveles normales de radiación de rayos X del Sol (en el rango de detección de 2-8 Å) durante los momentos de inactividad: menos de 6x10-11 Julios/cm²/s. Cuando se observó una emisión de rayos X muy superior a esta línea de base, normalmente estaba correlacionada con la actividad solar visible desde tierra. Los datos también mostraron que la emisión de rayos X podía cambiar significativamente en tan sólo un minuto, lo que subraya la necesidad de una observación constante.\nCuando la emisión de rayos X detectable superaba tres veces la tasa normal, se producían desvanecimientos radioeléctricos, lo que confirmaba la relación entre la variabilidad de los rayos X solares y la fuerza de las capas termosféricas ionizadas de la Tierra. Se descubrió que estos desvanecimientos no sólo estaban causados por erupciones solares, sino también por regiones de prominencia solar activas, oleadas brillantes y subexplosiones en el borde (o limbo) del Sol."
+    },
+    {
+      "titulo": "Ultravioleta",
+      "nivel": 3,
+      "texto": "SOLRAD/GRAB 1 no encontró una correlación entre la emisión ultravioleta solar y las perturbaciones termosféricas, y los detectores Lyman-alfa fueron excluidos de la misión posterior SOLRAD 3/GRAB 2."
+    },
+    {
+      "titulo": "Control de pruebas nucleares",
+      "nivel": 3,
+      "texto": "Durante su diseño y desarrollo, se esperaba que el SOLRAD/GRAB 1 fuera capaz de identificar pruebas atómicas sobre el suelo, que producían fuertes emisiones de rayos X en las bandas que el satélite podía detectar. Si entrara en vigor un tratado de prohibición de pruebas nucleares entre Estados Unidos y la Unión Soviética, SOLRAD/GRAB 1 o sus sucesores podrían detectar entonces las pruebas no autorizadas de los soviéticos. Sin embargo, en los datos de SOLRAD/GRAB 1 no se encontraron de forma concluyente picos correspondientes a pruebas atómicas soviéticas conocidas. Tras la ratificación del Tratado de Prohibición Parcial de los Ensayos Nucleares en 1963, los satélites Vela-Hotel se construyeron específicamente para esta tarea."
+    },
+    {
+      "titulo": "Resultados de GRAB",
+      "nivel": 2,
+      "texto": "SOLRAD/GRAB 1 fue el primer satélite de vigilancia operativo del mundo. Por temor a que los soviéticos descubrieran la misión de espionaje del satélite, y consciente de los problemas causados por el incidente del U-2, el presidente Eisenhower insistió en que cada transmisión del GRAB fuera aprobada personalmente por él, y que las transmisiones no se hicieran en pases sucesivos. Así, aunque el equipo de vigilancia del satélite funcionó durante los 92 días transcurridos desde el lanzamiento hasta su fallo el 22 de septiembre de 1960, el GRAB 1 solo devolvió 22 lotes de datos, el primero de ellos entregado el 5 de julio de 1960[21] a la estación de Wahiawa, Hawái, muy lejos del alcance de la detección soviética. Incluso este primer esfuerzo de vigilancia limitada saturó la capacidad de los equipos de tierra para analizar y procesar los datos y produjo información valiosa, incluyendo la revelación de que la actividad de defensa aérea soviética era más extensa de lo esperado."
+    },
+    {
+      "titulo": "Legado y situación actual",
+      "nivel": 2,
+      "texto": "La serie SOLRAD/GRAB voló cuatro veces más, finalizando con la misión SOLRAD 4B lanzada el 26 de abril de 1962. De las cinco misiones SOLRAD/GRAB, sólo SOLRAD/GRAB 1 y SOLRAD 3/GRAB 2 fueron un éxito, las demás no alcanzaron la órbita. En 1962, todos los proyectos estadounidenses de reconocimiento aéreo se consolidaron bajo la Oficina Nacional de Reconocimiento (NRO), que decidió continuar y ampliar la misión GRAB a partir de julio de 1962 con un conjunto de satélites de nueva generación, cuyo nombre en clave era POPPY. Con el inicio de POPPY, los experimentos SOLRAD ya no se llevarían a cabo en satélites espía electrónicos, sino que tendrían sus propios satélites, lanzados junto con las misiones POPPY para proporcionar cierta cobertura a la misión. A partir de SOLRAD 8, lanzado en noviembre de 1965, los últimos cinco satélites SOLRAD fueron satélites científicos lanzados individualmente, tres de los cuales también recibieron números del programa Explorer de la NASA. El último de esta serie final de satélites SOLRAD voló en 1976. En total, hubo trece satélites operativos de la serie SOLRAD. El programa GRAB fue desclasificado en 1998.\nA partir de 2023, SOLRAD/GRAB 1 (COSPAR ID 1960-007B) sigue en órbita. La copia de seguridad de la misión SOLRAD/GRAB 1 está expuesta en el Museo Nacional del Aire y el Espacio de Estados Unidos."
+    }
+  ],
+  "num_palabras": 2388
+}

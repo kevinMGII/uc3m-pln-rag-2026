@@ -1,0 +1,48 @@
+{
+  "id": "doc_1542",
+  "titulo": "Europa Lander",
+  "titulo_wikipedia_en": "Europa Lander",
+  "fecha_lanzamiento": "2025",
+  "año_lanzamiento": 2025,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Exploración del sistema solar"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Europa_Lander",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "1": "Concepto de misión de Europa Lander (representación del artista)",
+    "Estado": "Propuesto",
+    "Tipo de misión": "Reconocimiento del satélite Europa de Júpiter",
+    "Operador": "NASA/JPL, APL",
+    "Fabricante": "Jet Propulsion Laboratory, APL",
+    "Fecha de lanzamiento": "2027 (propuesto)"
+  },
+  "resumen": "El Europa Lander es un concepto de misión de astrobiología propuesto por la NASA a Europa, una luna helada de Júpiter. Si se financia y desarrolla como una gran misión científica estratégica, se lanzaría en 2027 para complementar los estudios de la misión orbital Europa Clipper y realizar análisis en el sitio. El presupuesto de la NASA para el año fiscal 2021 no exige ni asigna fondos a la misión, lo que deja su futuro incierto.\nLos objetivos de la misión son buscar firmas biológicas en el subsuelo ≈10 cm, caracterizar la composición del material cercano al subsuelo sin hielo y determinar la proximidad de agua líquida y material de reciente erupción cerca de la ubicación del módulo de aterrizaje.",
+  "secciones": [
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "La misión del módulo de aterrizaje tendría tres objetivos científicos principales:\nBuscar biofirmas.\nEvaluar la habitabilidad de Europa mediante técnicas in situ exclusivamente disponibles para una misión de aterrizaje.\nCaracterizar las propiedades de la superficie y el subsuelo a escala del módulo de aterrizaje para apoyar la exploración futura de Europa."
+    },
+    {
+      "titulo": "Nave",
+      "nivel": 2,
+      "texto": "Las fases clave del vuelo son: lanzamiento, crucero, desorbita, descenso y aterrizaje. La nave espacial constaría de varios módulos que serían abandonados en diferentes fases de su secuencia de aterrizaje y deorbitación. La pila completa sería impulsada por el Carrier Stage, que también cuenta con paneles solares. Después de la inyección en órbita alrededor de Júpiter, la nave pasaría unos dos años ajustando su órbita y velocidad antes de intentar aterrizar en Europa.\nEn preparación para su aterrizaje, el Carrier Stage sería abandonado, dejando la pila de naves espaciales en una configuración llamada Deorbit Vehicle (DOV) que desaceleraría e iniciaría el descenso. El módulo del motor para esta fase, llamado Deorbit Stage (DOS) se abandonaría después de la combustión, dejando lo que se llama Powered Descent Vehicle (PDV), que comprende el módulo de aterrizaje y el sistema de grúa aérea. El sistema de grúa aérea bajaría el módulo de aterrizaje con una correa hasta un aterrizaje suave con una precisión de 100 m.\nEl módulo de aterrizaje contaría con un brazo robótico, que le permitiría extraer varias muestras superficiales poco profundas a una profundidad máxima de 10 cm y entregarlas a su laboratorio a bordo."
+    },
+    {
+      "titulo": "Instrumentos científicos",
+      "nivel": 2,
+      "texto": "El concepto de misión requeriría financiación y un mayor desarrollo para lanzarse. Uno de los requisitos clave es operar en el entorno de radiación en la superficie de la luna. El entorno de radiación en Europa es extremo, por lo que el módulo de aterrizaje puede necesitar protección adicional como el Juno Radiation Vault en el orbitador Juno de Júpiter. La bóveda ayudó a reducir la exposición a la radiación de los sistemas vulnerables, especialmente la electrónica del orbitador.\nLa NASA anunció en mayo de 2017 a la comunidad científica que pensara en posibles instrumentos Europa Lander. Los informes del estudio de concepto se pusieron a disposición en junio de 2019."
+    },
+    {
+      "titulo": "Lanzamiento",
+      "nivel": 2,
+      "texto": "El lanzador sería el Space Launch System (SLS), con un lanzamiento sugerido en 2025. Una trayectoria calculada posibilitaria un lanzamiento a bordo del SLS en 2025, la gravedad de la Tierra asistirá a la nave en 2027 y la llegada de Júpiter / Europa en 2030."
+    }
+  ],
+  "num_palabras": 523
+}

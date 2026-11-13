@@ -1,0 +1,42 @@
+{
+  "id": "doc_0318",
+  "titulo": "Cosmos 357",
+  "titulo_wikipedia_en": "Kosmos 357",
+  "fecha_lanzamiento": "1970-08-19",
+  "año_lanzamiento": 1970,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite (programa Cosmos)",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Cosmos_357",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Reentrado en la atmósfera",
+    "Tipo de misión": "Militar",
+    "Fecha de lanzamiento": "19 de agosto de 1970",
+    "Lugar de lanzamiento": "Cosmódromo de Plesetsk",
+    "Vehículo de lanzamiento": "Kosmos-2I",
+    "ID NSSDC": "1970-063A",
+    "Masa en el lanzamiento": "400 kg",
+    "Tipo de fin de misión": "reingreso",
+    "Fecha de reentrada": "24 de noviembre de 1970"
+  },
+  "resumen": "Cosmos 357 (en cirílico, Космос 357) fue un satélite artificial militar soviético perteneciente a la clase de satélites DS (de tipo DS-P1-Yu) y lanzado el 19 de agosto de 1970 mediante un cohete Kosmos-2I desde el cosmódromo de Plesetsk.",
+  "secciones": [
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "Cosmos 357 fue parte de un sistema de satélites utilizados como objetivos de prueba para el sistema de radares antibalísticos soviéticos. Los satélites del tipo DS-P1-Yu fueron desarrollados por V. M. Kovtunenko en la OKB-586 y fueron utilizados hasta 1978, con un total de 78 lanzamientos."
+    },
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "El satélite tenía una masa de 400 kg (aunque otras fuentes indican 325 kg) y fue inyectado inicialmente en una órbita con un perigeo de 272 km y un apogeo de 476 km, con una inclinación orbital de 71 grados y un periodo de 92,04 minutos.\nCosmos 357 reentró en la atmósfera el 24 de noviembre de 1970."
+    }
+  ],
+  "num_palabras": 143
+}

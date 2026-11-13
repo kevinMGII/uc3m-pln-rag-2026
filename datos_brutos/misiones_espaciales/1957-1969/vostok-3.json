@@ -1,0 +1,39 @@
+{
+  "id": "doc_0061",
+  "titulo": "Vostok 3",
+  "titulo_wikipedia_en": "Vostok 3",
+  "fecha_lanzamiento": "1962-08-11",
+  "año_lanzamiento": 1962,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Vostok_3",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Indicativo": "Сокол (Sokol - \"Halcón\")",
+    "Masa en el lanzamiento": "4 722 kg",
+    "Fecha de lanzamiento": "11 de agosto de 1962\n08:30 UTC\nBaikonur LC1",
+    "Fecha de aterrizaje": "15 de agosto de 1962\n06:52 UTC\n42°2′ N 75°45′ E",
+    "Duración de la misión": "3 días, 22 horas y 22 minutos",
+    "Inclinación orbital": "64,98°",
+    "Órbitas completadas": "64",
+    "Apoapsis": "234,6 km",
+    "Periapsis": "180,7 km",
+    "Programa": "Programa Vostok",
+    "Misión anterior": "Vostok 2",
+    "Misión siguiente": "Vostok 4"
+  },
+  "resumen": "Vostok 3 fue una misión del Programa espacial de la URSS. La nave fue tripulada por Andrián Nikoláyev. El 12 de agosto de 1962 la Vostok 3 se encontró en el espacio con Vostok 4 y ese momento fue la primera vez en la Historia que dos naves tripuladas orbitaban la Tierra al mismo tiempo.",
+  "secciones": [
+    {
+      "titulo": "Tripulación",
+      "nivel": 2,
+      "texto": "Piloto: Andrián Nikoláyev.\nPiloto de respaldo: Valeri Bikovski.\nPiloto de reserva: Borís Volinov."
+    }
+  ],
+  "num_palabras": 68
+}

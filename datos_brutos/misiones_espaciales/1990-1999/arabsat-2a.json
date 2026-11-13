@@ -1,0 +1,52 @@
+{
+  "id": "doc_0803",
+  "titulo": "Arabsat 2A",
+  "titulo_wikipedia_en": null,
+  "fecha_lanzamiento": "1996-07-09",
+  "año_lanzamiento": 1996,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Estación espacial",
+    "Satélite de comunicaciones",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Arabsat_2A",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Comunicaciones",
+    "Operador": "Intelsat",
+    "Fabricante": "Arabsat",
+    "Fecha de lanzamiento": "9 de julio de 1996",
+    "Lugar de lanzamiento": "Kourou, Guayana Francesa",
+    "Vehículo de lanzamiento": "Ariane-44L",
+    "Duración planificada": "10 años",
+    "ID COSPAR": "1996-040A",
+    "Configuración": "Spacebus-3000A",
+    "Masa en el lanzamiento": "2100 kg",
+    "Propulsión": "S400",
+    "Sistema de referencia orbital": "Geoestacionaria",
+    "Órbita RAAN": "26° Este"
+  },
+  "resumen": "El Arabsat 2A fue un satélite de comunicación geoestacionario construido por Aerospatiale. Está localizado en la posición orbital de 26 grados de longitud este, operado por Arabsat. El satélite fue baseado na plataforma Spacebus-3000A y su expectativa de vida útil era de 10 años.\nEl mismo salió de servicio en junio de 2005 y fue transferido para una órbita cementerio.",
+  "secciones": [
+    {
+      "titulo": "Historia",
+      "nivel": 2,
+      "texto": "Un contrato para la construcción de dos satélites para la serie Arabsat 2 fue firmado con la Aerospatiale en abril de 1993. La sonda utilizaba la plataforma Spacebus-3000A de Aérospatiale con 22 transponders en banda C (incluyendo ocho transponders moderados de 52 W de potencia) y 12 transpondedores en banda Ku. El satélite Arabsat 2A tenía una masa de más de dos toneladas en la estación. Las dimensiones máximas del mismo era de 1,8 m y 2,3 m, y el intervalo del panel solar era de 25 m para una capacidad de energía eléctrica de 5 kW."
+    },
+    {
+      "titulo": "Lanzamiento",
+      "nivel": 2,
+      "texto": "El satélite fue lanzado con éxito al espacio el día 9 de julio de 1996, por medio de un vehículo Ariane-44L H10-3, lanzado desde el Centro Espacial de Kourou, en Guyana Francesa, conjuntamente con el satélite Türksat 1C. Él tenía una masa de lanzamiento de 2.500 kg."
+    },
+    {
+      "titulo": "Capacidad y cobertura",
+      "nivel": 2,
+      "texto": "El Arabsat 2A es equipado con 22 transpondedores en banda C e 12 en banda Ku para prestar servicios de telecomunicaciones al Medio Oriente."
+    }
+  ],
+  "num_palabras": 228
+}

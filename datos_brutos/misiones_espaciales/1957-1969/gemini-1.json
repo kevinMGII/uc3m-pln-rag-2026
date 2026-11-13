@@ -1,0 +1,48 @@
+{
+  "id": "doc_0105",
+  "titulo": "Gemini 1",
+  "titulo_wikipedia_en": "Gemini 1",
+  "fecha_lanzamiento": "1964-04-08",
+  "año_lanzamiento": 1964,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Otro vuelo espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Gemini_1",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Lugar de lanzamiento": "LC 19",
+    "Fecha de lanzamiento": "8 de abril de 1964\n16:1:01.69 UTC\nCabo Cañaveral",
+    "Fecha de aterrizaje": "12 de abril de 1964\n~15:00:00 UTC\nAtlántico Sur",
+    "Duración de la misión": "~3 días 23 horas",
+    "Inclinación orbital": "32.59 deg",
+    "Órbitas completadas": "~64",
+    "Apoapsis": "320.6 km",
+    "Periapsis": "160.5 km",
+    "Misión anterior": "MA9",
+    "Misión siguiente": "Gemini 2",
+    "Programa": "Programa Gemini"
+  },
+  "resumen": "Gemini 1 fue la primera misión del programa Gemini de la NASA. Fue un vuelo de prueba sin tripulación de la nave Gemini, cuyos objetivos principales eran probar la integridad estructural de la nueva nave y del vehículo de lanzamiento Titan II modificado. También fue la primera prueba de los nuevos sistemas de seguimiento y comunicación para el programa Gemini y sirvió de entrenamiento para las tripulaciones de apoyo en tierra para las primeras misiones tripuladas.\nEl lanzamiento estaba previsto para diciembre de 1963, pero las dificultades en el desarrollo de la nave y de su propulsor provocaron un retraso de cuatro meses. Gemini 1 se lanzó desde el Complejo de Lanzamiento 19 en Cabo Kennedy (ahora Cañaveral), Florida, el 8 de abril de 1964. La nave permaneció unida a la segunda etapa del cohete. La misión duró tres órbitas mientras se tomaban datos de prueba, pero la nave permaneció en el espacio durante casi 64 órbitas hasta que su órbita decayó debido al arrastre atmosférico. La nave no estaba destinada a ser recuperada, y se perforaron agujeros en su escudo térmico para asegurarse de que no sobreviviría a la reentrada.",
+  "secciones": [
+    {
+      "titulo": "Antecedentes",
+      "nivel": 2,
+      "texto": "El proyecto Gemini se concibió como un puente entre el proyecto Mercury de un solo asiento y el proyecto Apollo de tres asientos. Con un diseño extrapolado en gran medida de su predecesora, la nave Gemini permitiría a dos astronautas realizar las maniobras inherentes a la misión lunar Apollo: encuentro, acoplamiento y cambio de órbita. Además, Géminis mantendría a los astronautas en el espacio durante vuelos prolongados, aproximándose a la duración prevista de las misiones Apolo.:55-74\nSu capacidad para dos personas y sus mayores capacidades significaban que Géminis sería una nave sustancialmente más pesada que Mercury, demasiado pesada para ser puesta en órbita por el cohete Atlas de Mercury. Se necesitaba un sustituto. El recién desarrollado ICBM Titán II (que también había sido elegido por las Fuerzas Aéreas para su proyecto de avión espacial X-20) era un sustituto atractivo. Tenía un empuje unas dos veces y media superior al del Atlas, una construcción mecánica mucho más sencilla y la capacidad de almacenar propulsantes indefinidamente. Además, los propulsores del Titán II se mezclaban con menos violencia que los del Atlas, lo que significaba que una explosión del propulsor, en caso de producirse, sería menos violenta. Esto hacía obsoleta la pesada torre de escape utilizada en el programa Mercury; en su lugar, podían utilizarse asientos eyectables.:41-42\nEl objetivo principal de la primera misión Gemini era probar en vuelo el vehículo lanzador Titan II modificado y la solidez estructural básica de la cápsula Gemini en condiciones de lanzamiento y orbitales. En consecuencia, la primera cápsula Géminis podría ser una estructura para ser repetida en gran medida.:181 Los objetivos secundarios de la misión incluían la prueba de los sistemas de guiado remoto, los sistemas de redundancia del Titán y la evaluación del sistema de detección de averías del Géminis-Titán."
+    },
+    {
+      "titulo": "Antes del vuelo",
+      "nivel": 2,
+      "texto": "La nave espacial Gemini 1 fue construida específicamente para la misión sin tripulación. La mayoría de los sistemas internos se sustituyeron por maniquíes y lastres que aproximaban el peso y el equilibrio de la nave espacial tripulada. En lugar de las tumbonas de la tripulación, se instalaron dos plataformas de instrumentos para la transmisión por telemetría de la presión, vibración, aceleración, temperatura y cargas estructurales experimentadas durante el corto vuelo. Se instaló un escudo térmico, pero se le practicaron cuatro grandes agujeros para garantizar su destrucción durante la reentrada.:81Incluso con los sistemas simplificados, este primer Gemini sufrió un retraso de varias semanas en las pruebas. Sin embargo, no fue la nave la que retrasó la fecha de lanzamiento, prevista inicialmente para diciembre de 1963. Fueron más bien las pruebas y la verificación del vehículo lanzador Titán II. Ensamblado el 21 de mayo de 1963, el primer vehículo de lanzamiento Titan-Gemini requirió pruebas y repeticiones exhaustivas, y no fue hasta octubre cuando estuvo listo para su transporte al lugar de lanzamiento, donde todavía había que realizar considerables preparativos.:185 Además, existía la preocupación de que el Titan II produjera demasiada oscilación vertical (pogo) para ser utilizable en absoluto, y se consideró la posibilidad de utilizar el cohete Saturno I en su lugar, al menos para las primeras misiones. Sin embargo, el 1 de noviembre de 1963, la Fuerza Aérea hizo volar un cohete Titán II con tubos verticales en sus conductos de oxidante y acumuladores mecánicos en sus conductos de combustible, lo que suprimió el efecto pogo.\nLa ineficaz gestión del proyecto amenazó con retrasar aún más el lanzamiento del primer Gemini, que en noviembre ya se había retrasado hasta el 28 de febrero de 1964. El director de Gemini, Charles Mathews, reunió a varios equipos dispares en un único Comité de Coordinación del Vehículo de Lanzamiento de Gemini, con canales de gestión y comunicación claramente definidos.: 188 Esta medida garantizó que no se perdería más tiempo debido a una autoridad incierta, a la duplicación de esfuerzos o a decisiones contradictorias. Sin embargo, los problemas que surgieron durante las pruebas hicieron que la fecha de lanzamiento se retrasara aún más.: 189 El cohete Titan II no estuvo listo para las pruebas finales de preparación hasta el 3 de marzo de 1964, el mismo día en que la nave espacial Géminis número 1 llegó al complejo de lanzamiento para acoplarse a su cohete.:190 Un equipo de pruebas defectuoso causó un retraso adicional de dos semanas. A finales de marzo, superados todos los obstáculos importantes, la fecha de lanzamiento de Géminis 1 se fijó para el 7 de abril.:195 La resolución de un fallo en el piloto automático secundario causó un último día de retraso. Finalmente, a mediodía del día 7, el Comité de Revisión de la Misión Géminis 1 determinó por unanimidad que todos los sistemas estaban preparados para el vuelo."
+    },
+    {
+      "titulo": "Misión y resultados",
+      "nivel": 2,
+      "texto": "Tras una cuenta atrás impecable, el cohete Titan II de la Gemini 1 despegó del Complejo de Lanzamiento 19 de Cabo Kennedy (ahora Cañaveral):194 a las 11:00:01 EDT del 8 de abril de 1964.:197 La primera etapa se eyectó al cabo de dos minutos y medio, con el cohete a 35 millas náuticas (64 km) de altura y 49 millas náuticas (91 km) de alcance. En ese momento, se produjo una inesperada pérdida de señal de la nave durante tres segundos. Más tarde se determinó que este breve apagón de las comunicaciones fue causado por iones cargados procedentes de la separación y puesta en marcha de la segunda etapa, similar al apagón que se produce durante la reentrada de la nave espacial. Todos los vuelos Gemini posteriores tendrían el mismo breve apagón.\nLa nave alcanzó la órbita cinco minutos y medio después del lanzamiento. El vehículo de lanzamiento había impartido un exceso de 7 metros (24 pies) por segundo de velocidad al Gemini 1, colocando la nave espacial en una órbita con un apogeo de 170 millas náuticas (320 km) en lugar de las 161 millas náuticas (299 km) previstas. Esto alargó la vida útil de Gemini 1 de los tres días y medio previstos a cuatro.\nLa misión formal de Géminis 1 había terminado mucho antes. Su batería sólo había sido diseñada para durar una única órbita, y sólo las tres primeras órbitas -de cuatro horas y 50 minutos de duración- formaban parte del plan de vuelo Géminis 1 y su segunda etapa fueron seguidas por la Red de Vuelos Espaciales Tripulados hasta su reentrada sobre el Atlántico Sur, a medio camino entre Sudamérica y África, el 12 de abril de 1964, durante su 64.ª órbita.:199\nComo resultado del éxito del vuelo, el Titan II fue considerado \"man-rated\" (seguro para su uso en vuelos espaciales tripulados).:200 La cápsula Géminis no sería homologada hasta el lanzamiento de Géminis 2 nueve meses después, el 19 de enero de 1965.:209\nLa misión Gemini 1 contó con el apoyo de 5.176 personas del Departamento de Defensa de los Estados Unidos, así como de once aviones y tres barcos proporcionados por el Departamento de Defensa.:Apéndice G-299"
+    }
+  ],
+  "num_palabras": 1326
+}

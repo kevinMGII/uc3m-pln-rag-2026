@@ -1,0 +1,26 @@
+{
+  "id": "doc_0301",
+  "titulo": "Osumi (satélite)",
+  "titulo_wikipedia_en": "Ohsumi (satellite)",
+  "fecha_lanzamiento": "1970-02-11",
+  "año_lanzamiento": 1970,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Otro vuelo espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Osumi_(satélite)",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Geociencias",
+    "Operador": "Instituto de Ciencias Espaciales y Aeronáuticas, Universidad de Tokio (ahora parte de JAXA)",
+    "Contratista del lanzamiento": "ISAS",
+    "Última señal": "12 de febrero de 1970",
+    "Fecha de reentrada": "2 de agosto de 2003"
+  },
+  "resumen": "Ōsumi fue el primer satélite japonés puesto en órbita en 1970. Nombrado por la provincia de Ōsumi en las islas del sur de Japón. Fue lanzado el 11 de febrero de 1970 a las 04:25 UTC con un cohete Lambda 4S-5 desde Centro Espacial Uchinoura por el Instituto de Ciencia Aeronáutica y Espacial de la Universidad de Tokio, ahora parte de la Agencia de Exploración Aeroespacial de Japón (JAXA). Japón se convirtió en la cuarta nación después de la URSS, Estados Unidos de América y Francia en lanzar un satélite artificial en órbita exitosa por su cuenta.",
+  "secciones": [],
+  "num_palabras": 97
+}

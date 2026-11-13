@@ -1,0 +1,32 @@
+{
+  "id": "doc_0812",
+  "titulo": "ORFEUS",
+  "titulo_wikipedia_en": null,
+  "fecha_lanzamiento": "1996-11-19",
+  "año_lanzamiento": 1996,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Telescopio espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/ORFEUS",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Finalizado.",
+    "Tipo de misión": "Observación astronómica",
+    "Operador": "Agencia espacial alemana",
+    "Fecha de lanzamiento": "19 de noviembre de 1996",
+    "Duración planificada": "6 días",
+    "Propulsión": "Sin Propulsión",
+    "Sistema de referencia orbital": "Circular",
+    "Periapsis": "346 Km",
+    "Inclinación orbital": "28,5 Grados",
+    "Periodo orbital": "91,6 minutos",
+    "Instrumentos": "Espectrómetro para ultravioleta extremo\nEspectrómetro para ultravioleta lejano\nEspectrógrafo ultravioleta."
+  },
+  "resumen": "ORFEUS (Orbiting and Retrievable Far and Extreme UV Spectrometer) fue un observatorio espacial alemán que voló a bordo de la misión STS-80 (lanzada el 19 de noviembre de 1996) del transbordador espacial. Integrado en una plataforma SPAS (Shuttle Pallet Satellite), estaba diseñado para ser soltado desde el transbordador mediante el Canadarm y ser recuperado tras seis días de vuelo libre.\nEl instrumento principal del observatorio era un telescopio de 1 metro de diámetro con dos espectrómetros, uno para el ultravioleta extremo (400 a 1150 angstroms) y otro para el ultravioleta lejano (900 a 1250 angstroms). También portaba un espectrógrafo (Princeton Interstellar Medium Absorption Profile Spectrograph) para el estudio de la estructura fina de las líneas de absorción ultravioleta en los espectros estelares producidas por el medio interestelar.",
+  "secciones": [],
+  "num_palabras": 127
+}

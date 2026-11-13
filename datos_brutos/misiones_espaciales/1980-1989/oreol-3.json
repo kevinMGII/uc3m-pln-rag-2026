@@ -1,0 +1,46 @@
+{
+  "id": "doc_0568",
+  "titulo": "Oreol 3",
+  "titulo_wikipedia_en": null,
+  "fecha_lanzamiento": "1981-09-21",
+  "año_lanzamiento": 1981,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de observación terrestre",
+    "Satélite (programa Cosmos)",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Oreol_3",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Inactivo",
+    "Tipo de misión": "Estudios de la magnetosfera y la ionosfera terrestre.",
+    "Operador": "Unión Soviética y Francia",
+    "Fecha de lanzamiento": "21 de septiembre de 1981",
+    "Lugar de lanzamiento": "Cosmódromo de Plesetsk",
+    "Vehículo de lanzamiento": "Tsiklon",
+    "ID NSSDC": "1981-094A",
+    "Masa en el lanzamiento": "1000 kg",
+    "Periapsis": "395 km",
+    "Apoapsis": "1400,5 km",
+    "Inclinación orbital": "82,5 grados",
+    "Periodo orbital": "102,8 minutos"
+  },
+  "resumen": "Oreol 3, también conocido como Aureole 3 y ARCAD 3, fue el nombre de un satélite artificial fruto de la colaboración entre la soviético y Francia y construido con el bus AUOS. Fue lanzado bajo el programa Intercosmos de cooperación internacional el 21 de septiembre de 1981 desde el cosmódromo de Plesetsk mediante un cohete Tsiklon.",
+  "secciones": [
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "La misión de Oreol 3 era estudiar la magnetosfera e ionosfera terrestres y la naturaleza de las auroras polares mediante la medición de la densidad y temperatura de electrones y la velocidad del plasma, de partículas energéticas en el rango entre 0,1 eV y 255 keV y de electrones con energías por encima de 500 keV, de los campos eléctricos y magnéticos (de 0 a 10 Hz), de ondas ELF y VLF entre 0,01 y 16 kHz, de los campos eléctricos a frecuencias de 0,1 a 16 MHz y mediante la realización de fotometría auroral a longitudes de onda de 4278, 4861 y 6300 angstroms."
+    },
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "La porción central del satélite consistía en un cilindro presurizado de 1,6 m de diámetro por 2,7 m de altura, del que sobresalían las antenas de telemetría y comunicación, los paneles solares y seis mástiles con los instrumentos científicos. La nave se estabilizaba en los tres ejes mediante el uso de momentos de fuerza magnéticos y gradiente gravitatorio. Los paneles solares producían hasta 250 vatios de potencia, alimentando baterías de 28 voltios. El satélite llevaba 12 experimentos: 4 soviéticos, 7 franceses y uno construido conjuntamente entre ambas partes."
+    }
+  ],
+  "num_palabras": 249
+}

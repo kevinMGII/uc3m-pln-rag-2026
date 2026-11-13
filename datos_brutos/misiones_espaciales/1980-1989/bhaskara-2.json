@@ -1,0 +1,38 @@
+{
+  "id": "doc_0573",
+  "titulo": "Bhaskara 2",
+  "titulo_wikipedia_en": null,
+  "fecha_lanzamiento": "1981-11-20",
+  "año_lanzamiento": 1981,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de observación terrestre",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Bhaskara_2",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Reentrado en la atmósfera",
+    "Tipo de misión": "Experimental y observación terrestre",
+    "Operador": "ISRO",
+    "Fecha de lanzamiento": "20 de noviembre de 1981",
+    "Lugar de lanzamiento": "Cosmódromo de Kapustin Yar",
+    "Vehículo de lanzamiento": "Kosmos 3",
+    "ID NSSDC": "1981-115A",
+    "Masa en el lanzamiento": "444 kg",
+    "Tipo de fin de misión": "reingreso",
+    "Fecha de reentrada": "Reingreso = 30 de noviembre de 1991"
+  },
+  "resumen": "Bhaskara 2 fue un satélite artificial de la ISRO (agencia espacial india) lanzado el 20 de noviembre de 1981 mediante un cohete Kosmos 3 desde el cosmódromo de Kapustin Yar. Recibió el nombre por dos matemáticos indios con el mismo nombre, Bhaskara I y Bhaskara II. Reentró en la atmósfera el 30 de noviembre de 1991.",
+  "secciones": [
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "El objetivo de Bhaskara 2 era realizar experimentos relacionados con la observación terrestre."
+    }
+  ],
+  "num_palabras": 69
+}

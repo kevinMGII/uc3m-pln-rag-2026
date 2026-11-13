@@ -1,0 +1,33 @@
+{
+  "id": "doc_0478",
+  "titulo": "Communications Technology Satellite",
+  "titulo_wikipedia_en": "Communications Technology Satellite",
+  "fecha_lanzamiento": "1976-01-17",
+  "año_lanzamiento": 1976,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de comunicaciones",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Communications_Technology_Satellite",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Finalizado",
+    "Tipo de misión": "Comunicaciones",
+    "Operador": "Agencia espacial canadiense",
+    "Fecha de lanzamiento": "17 de enero de 1976",
+    "Lugar de lanzamiento": "Cabo Cañaveral",
+    "Vehículo de lanzamiento": "Delta",
+    "ID NSSDC": "1976-004A",
+    "Masa en el lanzamiento": "680 kg",
+    "Dimensiones": "1,17 m de alto x 1,8 m de diámetro x 6,5 m de largo (con los paneles extendidos)",
+    "Potencia": "1200 vatios",
+    "Sistema de referencia orbital": "Geoestacionaria"
+  },
+  "resumen": "CTS (Communications Technology Satellite) o Hermes fue un satélite de comunicaciones experimental canadiense lanzado el 17 de enero de 1976 mediante un cohete Delta desde Cabo Cañaveral a una órbita geoestacionaria.\nEstaba destinado a probar un nuevo concepto en las comunicaciones por satélite: el uso de pequeñas antenas terrestres gracias a emisiones de alta potencia desde el satélite. Para conseguirlo se utilizaron varios avances:\nUso de grandes paneles solares flexibles para generar grandes potencias (hasta 1200 vatios). Estos paneles fueron proporcionados por la ESA. Los satélites de comunicaciones previos estaban limitados debido a que utilizaban células solares instaladas sobre la misma superficie del satélite, no en paneles.\nUn sistema de estabilización en los tres ejes para permitir una iluminación continua sobre los paneles solares y asegurar la estabilidad del haz de transmisión.\nUn transmisor de alta potencia con un nuevo diseño para el tubo de ondas, que generaba 200 vatios de potencia. El transmisor fue proporcionado por la NASA.\nLa emisión en una nueva banda de frecuencia, más alta (12-14 GHz) que las frecuencias utilizadas hasta el momento, sin interferir con los sistemas de microondas terrestres ya existentes.\nEn su momento, Hermes fue el satélite de comunicaciones más potente lanzado, y el primero en funcionar en banda Ku.",
+  "secciones": [],
+  "num_palabras": 208
+}

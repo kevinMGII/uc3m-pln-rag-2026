@@ -1,0 +1,38 @@
+{
+  "id": "doc_0029",
+  "titulo": "Courier 1B",
+  "titulo_wikipedia_en": "Courier 1B",
+  "fecha_lanzamiento": "1960-10-04",
+  "año_lanzamiento": 1960,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de comunicaciones",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Courier_1B",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Finalizado.",
+    "Tipo de misión": "Satélite de comunicaciones",
+    "Operador": "Ejército de los Estados Unidos",
+    "Fecha de lanzamiento": "4 de octubre de 1960",
+    "Lugar de lanzamiento": "Cabo Cañaveral",
+    "Vehículo de lanzamiento": "Delta",
+    "Duración planificada": "17 días",
+    "ID NSSDC": "1960-013A",
+    "Configuración": "Esférica",
+    "Masa en el lanzamiento": "230 kg",
+    "Dimensiones": "1960-013A",
+    "Potencia": "Níquel-Cadmio",
+    "Periapsis": "967 km",
+    "Apoapsis": "1214 km",
+    "Inclinación orbital": "28,3 grados",
+    "Periodo orbital": "107,1 minutos"
+  },
+  "resumen": "Courier 1B fue un satélite de comunicaciones experimental del ejército de los Estados Unidos. Fue lanzado el 4 de octubre de 1960 desde cabo Cañaveral mediante un cohete Delta y se convirtió en el primer satélite de comunicaciones en funcionar como un repetidor activo. Un intento de lanzamiento previo con un satélite idéntico el 18 de agosto del mismo año terminó en fracaso por explosión del cohete portador, otro Delta, a los 2,5 minutos del lanzamiento.\nEl satélite tenía forma esférica e iba recubierto con unas 19.000 células solares. Fue el primer satélite en utilizar baterías de níquel-cadmio. La tasa de transmisión efectiva del satélite era de 55.000 bps.\nDespués de 17 días y 228 órbitas el satélite dejó de responder a los comandos enviados desde tierra. Se cree que la causa fue la desincronización del reloj que controlaba los códigos de acceso al satélite, ocasionando que su sistema de control considerase los comandos como intentos de acceso no válidos.",
+  "secciones": [],
+  "num_palabras": 160
+}

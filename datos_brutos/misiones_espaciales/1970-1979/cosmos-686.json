@@ -1,0 +1,42 @@
+{
+  "id": "doc_0444",
+  "titulo": "Cosmos 686",
+  "titulo_wikipedia_en": "Kosmos 686",
+  "fecha_lanzamiento": "1974-09-26",
+  "año_lanzamiento": 1974,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite (programa Cosmos)",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Cosmos_686",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Reentrado en la atmósfera",
+    "Tipo de misión": "Militar",
+    "Fecha de lanzamiento": "26 de septiembre de 1974",
+    "Lugar de lanzamiento": "Cosmódromo de Plesetsk",
+    "Vehículo de lanzamiento": "Cosmos-2I",
+    "ID NSSDC": "1974-074A",
+    "Masa en el lanzamiento": "400 kg",
+    "Tipo de fin de misión": "reingreso",
+    "Fecha de reentrada": "1 de mayo de 1975"
+  },
+  "resumen": "Cosmos 686 (en cirílico, Космос 686) fue un satélite artificial militar soviético perteneciente a la clase de satélites DS (de tipo DS-P1-Yu) y lanzado el 26 de septiembre de 1974 mediante un cohete Cosmos-2I desde el cosmódromo de Plesetsk.",
+  "secciones": [
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "Cosmos 686 fue parte de un sistema de satélites utilizados como objetivos de prueba para el sistema de radares antibalísticos soviéticos. Los satélites del tipo DS-P1-Yu fueron desarrollados por V. M. Kovtunenko en la OKB-586 y fueron utilizados hasta 1978, con un total de 78 lanzamientos.\nEl propósito declarado por la Unión Soviética ante la Organización de las Naciones Unidas en el momento del lanzamiento era realizar \"investigaciones de la atmósfera superior y el espacio exterior\"."
+    },
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "El satélite tenía una masa de 400 kg y fue inyectado inicialmente en una órbita con un perigeo de 281 km y un apogeo de 515 km, con una inclinación orbital de 71 grados y un periodo de 92,1 minutos.\nCosmos 686 reentró en la atmósfera el 1 de mayo de 1975."
+    }
+  ],
+  "num_palabras": 167
+}

@@ -1,0 +1,34 @@
+{
+  "id": "doc_0675",
+  "titulo": "Lusat 1",
+  "titulo_wikipedia_en": "Lusat",
+  "fecha_lanzamiento": "1990",
+  "año_lanzamiento": 1990,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de comunicaciones",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Lusat_1",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Semioperacional",
+    "Tipo de misión": "Radioaficionados",
+    "Operador": "AMSAT Argentina, Carlos A Huertas",
+    "Lugar de lanzamiento": "Puerto espacial de Kourou, Guayana Francesa, Francia",
+    "Vehículo de lanzamiento": "Ariane 4",
+    "ID COSPAR": "1990-005G",
+    "Masa en el lanzamiento": "~10 kg",
+    "Periapsis": "776 km",
+    "Apoapsis": "794 km",
+    "Inclinación orbital": "98.2",
+    "Periodo orbital": "100.56 min",
+    "Banda de transmisión": "VHF-UHF"
+  },
+  "resumen": "El satélite LUSAT-1 (o escrito y pronunciado más correctamente: L.U.SAT) es el primer satélite argentino.\nProyectado y construido por la filial argentina de AMSAT, a los fines de proveer comunicaciones a radioaficionados. Fue puesto en órbita por la empresa Arianespace utilizando el lanzador Ariane 4. El nombre L.U.SAT-1, se debe a que LU es el código de radio de Argentina, SAT de \"satélite\" y 1 por ser el primero. lanzado el 22 desde el Puerto espacial de Kourou, Guayana Francesa.\nTodavía se puede escuchar su beacon en los 437.125 kHz.",
+  "secciones": [],
+  "num_palabras": 90
+}

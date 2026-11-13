@@ -1,0 +1,42 @@
+{
+  "id": "doc_1347",
+  "titulo": "Hispasat 1F",
+  "titulo_wikipedia_en": "Hispasat 30W-6",
+  "fecha_lanzamiento": "2018-03-06",
+  "año_lanzamiento": 2018,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Estación espacial",
+    "Satélite de comunicaciones",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Hispasat_1F",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Activo",
+    "Tipo de misión": "Satélite de comunicaciones",
+    "Operador": "Hispasat",
+    "Fabricante": "SSL",
+    "Plataforma (bus)": "SSL 1300",
+    "Fecha de lanzamiento": "6 de marzo de 2018\n05:33 UTC",
+    "Lugar de lanzamiento": "Estación de la Fuerza Aérea de Cabo Cañaveral",
+    "Vehículo de lanzamiento": "Falcon 9 Full Thrust",
+    "Duración planificada": "15 años",
+    "Masa en el lanzamiento": "6.092 kg (lanzamiento)",
+    "Potencia": "11,5 kW",
+    "Sistema de referencia orbital": "Geoestacionaria\n30º Oeste",
+    "Banda de transmisión": "Ku, Ka y C"
+  },
+  "resumen": "El Hispasat 30W-6, anteriormente conocido como Hispasat 1F, es un satélite de comunicaciones español operado por Hispasat.",
+  "secciones": [
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "Fue lanzado con un Falcon 9 Full Thrust el 6 de marzo de 2018 y reemplaza al satélite Hispasat 1D en la posición geoestacionaria 30° Oeste. Proporciona servicios de televisión, banda ancha, redes corporativas y otras aplicaciones de telecomunicaciones. La zona de cobertura incluye Europa, el norte de África y América. El satélite está equipado con 4 motores de propulsión de plasma SPT-100. La carga útil son 40 transpondedores en banda Ku, 6 en banda Ka, 1 en banda Ka-BSS y 10 en banda C."
+    }
+  ],
+  "num_palabras": 102
+}

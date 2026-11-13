@@ -1,0 +1,44 @@
+{
+  "id": "doc_0303",
+  "titulo": "Dial MIKA",
+  "titulo_wikipedia_en": null,
+  "fecha_lanzamiento": "1970-03-10",
+  "año_lanzamiento": 1970,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite experimental",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Dial_MIKA",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Reentrado en la atmósfera",
+    "Tipo de misión": "Experimental",
+    "Fecha de lanzamiento": "10 de marzo de 1970",
+    "Lugar de lanzamiento": "Puerto espacial de Kourou",
+    "Vehículo de lanzamiento": "Diamant",
+    "ID NSSDC": "1970-017B",
+    "Configuración": "Cilíndrico",
+    "Masa en el lanzamiento": "111 kg",
+    "Dimensiones": "1,5 m de largo por 0,8 m de diámetro",
+    "Tipo de fin de misión": "reingreso",
+    "Fecha de reentrada": "9 de septiembre de 1974"
+  },
+  "resumen": "Dial MIKA fue un satélite artificial experimental y de monitorización construido conjuntamente por la República Federal de Alemania y Francia. Fue lanzado el 10 de marzo de 1970 a bordo de un cohete Diamant B desde el puerto espacial de Kourou, en la Guayana Francesa. Fue lanzado junto con el satélite Dial WIKA.\nEl nombre proviene de las contracciones de los palabras francesas Diamant (diamante) y Allemande (alemán) y las palabras alemanas Mini (pequeño) y Kaspel (cápsula).",
+  "secciones": [
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "El objetivo de Dial MIKA fue comprobar y estudiar el rendimiento del lanzador Diamant B."
+    },
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "El satélite tenía forma cilíndrica y pesaba unos 111 kg. Las baterías, el diseño térmico y el propio perfil de la misión limitaron el tiempo de vida del satélite a una hora tras el despegue."
+    }
+  ],
+  "num_palabras": 127
+}

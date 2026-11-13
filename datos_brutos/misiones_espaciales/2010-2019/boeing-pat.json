@@ -1,0 +1,39 @@
+{
+  "id": "doc_1389",
+  "titulo": "Boeing PAT",
+  "titulo_wikipedia_en": "Boeing Pad Abort Test",
+  "fecha_lanzamiento": "2019-11-04",
+  "año_lanzamiento": 2019,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Otro vuelo espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Boeing_PAT",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Demostración de tecnología",
+    "Nave": "CST-100 Starliner",
+    "Fabricante": "Boeing",
+    "Fecha de lanzamiento": "4 de noviembre de 2019 14:15:00 UTC",
+    "Lugar de lanzamiento": "Campo de Misiles de Arenas Blancas",
+    "Fecha de aterrizaje": "4 de noviembre de 2019 14:16:19 UTC",
+    "Lugar de aterrizaje": "Campo de Misiles de Arenas Blancas",
+    "Programa": "Desarrollo de tripulación comercial",
+    "Misión anterior": "SpaceX Demo-1",
+    "Misión siguiente": "Boeing-OFT",
+    "Programa (2)": "Starliner",
+    "Misión siguiente (2)": "Boeing-OFT"
+  },
+  "resumen": "La Prueba de Aborto de Plataforma (oficialmente conocida como Boeing Pad Abort Test y abreviado Boe-PAT) fue una prueba de la CST-100 Starliner y sus motores de escape realizada por Boeing como parte del desarrollo del programa de tripulación comercial. Fue el primer vuelo de la cápsula y uno de los últimos hitos antes de realizar la prueba de vuelo orbital. El principal objetivo de la misión era demostrar que la Starliner podía escapar con sus ocupantes de una emergencia en la plataforma de lanzamiento antes del propio lanzamiento.\nDespués de un lanzamiento exitoso, solo dos de los tres paracaídas principales se desplegaron. A pesar de esto, la NASA y Boeing consideraron la prueba un éxito, ya que la Starliner estaba diseñada para funcionar solo con dos paracaídas si fuese necesario.",
+  "secciones": [
+    {
+      "titulo": "Historia",
+      "nivel": 2,
+      "texto": "En septiembre de 2011, Boeing anunció la conclusión de una serie de pruebas orientadas a validar el diseño del airbag que para la caída de la Starliner en el último momento. En mayo de 2019 todas las pruebas principales se habían completado utilizando sistemas reales preparados para el vuelo. Estos eventos abrían el camino a las diferentes pruebas de aborto en plataforma y vuelo y a los vuelos de prueba tripulado y no tripulado.\nLa prueba tuvo lugar el 4 de noviembre de 2019. Los motores de escape se encendieron correctamente y después se realizó la separación del módulo de servicio. Uno de los tres paracaídas falló al abrirse pero la cápsula pudo aterrizar con solo dos. El airbag ayudó a frenar la dura caída y el aterrizaje se evaluó como seguro con la NASA declarando la prueba un éxito. El calendario no se vería afectado por ese error de fabricación en un paracaídas, que tras una investigación se atribuyó a error humano. Un pin que conectaba el primer paracaídas con el principal no se había conectado correctamente y el fallo no se había detectado debido a una cubierta protectora."
+    }
+  ],
+  "num_palabras": 321
+}

@@ -1,0 +1,43 @@
+{
+  "id": "doc_0978",
+  "titulo": "SCISAT-1",
+  "titulo_wikipedia_en": "SCISAT-1",
+  "fecha_lanzamiento": "2003-08-13",
+  "año_lanzamiento": 2003,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de observación terrestre",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/SCISAT-1",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Activo",
+    "Tipo de misión": "Observación terrestre",
+    "Operador": "Agencia Espacial de Canadá",
+    "Fecha de lanzamiento": "13 de agosto de 2003",
+    "Masa en el lanzamiento": "150 kg",
+    "Sistema de referencia orbital": "Terrestre",
+    "Periapsis": "642 Km",
+    "Inclinación orbital": "73,9 Grados",
+    "Periodo orbital": "97,7 minutos",
+    "Instrumentos": "ACE (Atmospheric Chemistry Experiment)"
+  },
+  "resumen": "SCISAT-1 es un satélite artificial de Canadá con la finalidad de medir y estudiar los procesos químicos que controlan la distribución de ozono en la atmósfera terrestre, sobre todo a altas latitudes. El experimento del satélite destinado a este estudio se denomina ACE (Atmospheric Chemistry Experiment), por lo que al satélite a veces se le denomina también SCISAT ACE. Fue lanzado el 13 de agosto de 2003 a bordo de un cohete Pegasus.",
+  "secciones": [
+    {
+      "titulo": "Especificaciones",
+      "nivel": 2,
+      "texto": "Masa total: 150 kg\nPotencia máxima: 70 vatios"
+    },
+    {
+      "titulo": "Parámetros orbitales",
+      "nivel": 2,
+      "texto": "Perigeo: 642 km\nApogeo: 654 km\nInclinación orbital: 73,9 grados\nPeriodo: 97,7 minutos"
+    }
+  ],
+  "num_palabras": 94
+}

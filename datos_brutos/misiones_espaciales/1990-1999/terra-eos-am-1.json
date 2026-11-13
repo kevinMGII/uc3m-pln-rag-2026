@@ -1,0 +1,45 @@
+{
+  "id": "doc_0889",
+  "titulo": "Terra (EOS AM-1)",
+  "titulo_wikipedia_en": "Terra (satellite)",
+  "fecha_lanzamiento": "1999-12-18",
+  "año_lanzamiento": 1999,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de observación terrestre",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Terra_(EOS_AM-1)",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Operador": "NASA",
+    "Fecha de lanzamiento": "18 de diciembre de 1999",
+    "Lugar de lanzamiento": "Base Vandenberg de la Fuerza Aérea",
+    "Vehículo de lanzamiento": "Atlas II AS",
+    "ID COSPAR": "1999-068A",
+    "Masa en el lanzamiento": "4.864 kg",
+    "Excentricidad": "0",
+    "Periapsis": "654 kilómetros",
+    "Apoapsis": "685 kilómetros",
+    "Inclinación orbital": "98,2°",
+    "Periodo orbital": "98,1 minutos",
+    "Instrumentos": "ASTER\nCERES\nMISR\nMODIS\nMOPITT"
+  },
+  "resumen": "Terra (EOS AM-1) es un satélite multinacional de la NASA de investigación científica por satélite. Funciona en una órbita polar alrededor de la Tierra sincronizada con el Sol. Esto significa que recorre una trayectoria que pasa por ambos polos caracterizada por aparecer cada día sobre un punto dado del ecuador siempre a la misma hora local.",
+  "secciones": [
+    {
+      "titulo": "Lanzamiento",
+      "nivel": 2,
+      "texto": "El nombre de \"Terra\" viene del latín y significa tierra. El satélite fue lanzado desde la Base Aérea Vandenberg el 18 de diciembre de 1999, a bordo de un vehículo Atlas IIAS y comenzó a recopilar datos el 24 de febrero de 2000. Se colocó en una órbita casi polar, sincrónica con el sol, a una altitud de 705 km (438 mi), con un nodo descendente a las 10:30 am."
+    },
+    {
+      "titulo": "Misión",
+      "nivel": 2,
+      "texto": "Terra lleva una carga útil de cinco sensores remotos destinados a supervisar el estado de la Tierra del medio ambiente y los cambios climáticos.\nASTER (Radiómetro espacial avanzado de emisiones y reflexiones térmicas). Crea imágenes de alta resolución de nubes, hielo, agua y la superficie terrestre utilizando tres subsistemas de sensores diferentes: el infrarrojo de onda corta (SWIR), el infrarrojo térmico (TIR) y el infrarrojo visible y cercano. Cubren 14 bandas multiespectrales, desde el visible hasta el infrarrojo térmico. El SWIR dejó de funcionar en 2008. ASTER fue proporcionado por el Ministerio de Economía, Comercio e Industria de Japón.\nCERES (Sistema de energía radiante de las nubes y la Tierra)\nMISR (Espectrorradiómetro de imágenes multiángulo.)\nMODIS (Espectrorradiómetro de imágenes de resolución moderada)\nMOPITT (Mediciones de la contaminación en la tropósfera)\nLos datos del satélite ayudan a los científicos a entender mejor la propagación de la contaminación en todo el mundo. Los estudios han utilizado instrumentos de Terra para examinar las tendencias en la contaminación global por monóxido de carbono y aerosoles. Los datos recopilados por Terra se convertirán en un nuevo conjunto de datos globales de 15 años."
+    }
+  ],
+  "num_palabras": 314
+}

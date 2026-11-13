@@ -1,0 +1,55 @@
+{
+  "id": "doc_1393",
+  "titulo": "CBERS-4A",
+  "titulo_wikipedia_en": null,
+  "fecha_lanzamiento": "2019-12-20",
+  "año_lanzamiento": 2019,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de observación terrestre",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/CBERS-4A",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Satélite de observación terrestre",
+    "Operador": "Academia China de Tecnología Espacial - Instituto Nacional de Investigación Espacial del Brasil",
+    "Fecha de lanzamiento": "20 de diciembre de 2019",
+    "Lugar de lanzamiento": "Centro de Lanzamiento de Satélites de Taiyuan, China",
+    "Vehículo de lanzamiento": "Larga Marcha 4B",
+    "Masa en el lanzamiento": "2.000 kg",
+    "Sistema de referencia orbital": "Órbita heliosincrónica"
+  },
+  "resumen": "China–Brazil Earth Resources Satellite 4A (CBERS-4A) (en español \"Satélite de Recursos Terrestres China-Brasil 4A\", es un satélite de observación terrestre, resultado de un acuerdo entre China-Brasil y será el sucesor del CBERS-4, lanzado el 7 de diciembre de 2014.",
+  "secciones": [
+    {
+      "titulo": "Historia",
+      "nivel": 2,
+      "texto": "La Agencia Espacial Brasileña (AEB) y la Administración Espacial Nacional de China (CNSA) decidieron, de común acuerdo, comenzar el trabajo de desarrollo, construcción y montaje del satélite CBERS-4A. La decisión fue tomada en una reunión realizada el día 20 de abril de 2015 en el Instituto Nacional de Investigaciones Espaciales (INPE), en Son José de los Campos (SP), conducida por el presidente de la AEB, José Raimundo Braga, y por el vicedirector de la CNSA, Wu Yanhua.\nEn esta reunión también fue aprobado el informe de trabajo del CBERS-4A, preparado por los ingenieros y técnicos del INPE y de la Academia China de Tecnología Espacial (CAST).\nEl protocolo complementario, que dará base jurídica al satélite CBERS-4A, fue firmado por los gobiernos de los dos países en mayo de 2015 en Brasil, en una visita de alto nivel, una destacada autoridad del gobierno chino. Posteriormente, el documento fue analizado por el Congreso Nacional."
+    },
+    {
+      "titulo": "Desarrollo",
+      "nivel": 2,
+      "texto": "En Brasil, el desarrollo del programa CBERS es responsabilidad del INPE. Los estudios del satélite ya fueron finalizados por el INPE en asociación con la CAST, responsable del programa en China, y ya fueron iniciadas las discusiones del proyecto a detalle. Después del análisis de los gobiernos de ambos países, fue presentado un protocolo complementario para incluir la misión CBERS-4A en el acuerdo bilateral entre Brasil y China, informa Leonel Perondi, director del INPE."
+    },
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "El programa CBERS suministra imágenes vía satélite para monitorear el medio ambiente, ver zonas de deforestación, desastres naturales, la expansión de la agricultura y de las ciudades, entre otras aplicaciones.\nEl acuerdo entre Brasil y China permite la distribución global de los datos CBERS, con el objetivo de proporcionar a países en desarrollo los beneficios del uso de imágenes de satélites.\nWu Yanhua, vice-administrador de la CNSA, destacó el programa CBERS como un ejemplo bien sucedido de cooperación Sur-Sur en cuestión de alta tecnología. El dirigente chino, también afirmó, que el programa es muy importante para la asociación estratégica entre Brasil y China.\nEl CBERS-4A será el sucesor de CBERS-4, lanzado con éxito en diciembre de 2014, y que tiene una vida útil estimada de tres años. El nuevo satélite debe garantizar la continuidad del suministro de imágenes a los usuarios de los datos CBERS, que son cada vez más numerosos."
+    },
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "El CBERS-4A está equipado con cargas útiles suministradas por Brasil y China. Así como ocurrió con los satélites antecesores, la división de responsabilidad en el desarrollo del satélite será del 50% para cada país. En consonancia con la propuesta, Brasil debe suministrar las cámaras MUX y WFI, que ya fueron usadas en los CBERS-3 y 4, y también el Sistema de Recolección de Datos. China debe incluyó una cámara de alta resolución (HRC).\nEl INPE desarrolla el programa CBERS en asociación con empresas brasileñas, conforme su política enfocada a la capacitación de la industria nacional. Construida por Opto Electrónica, la MUX es la primera cámara para satélite enteramente desarrollada y producida en Brasil. Se trata de una cámara multiespectral con cuatro bandas para cubrir el rango de largura de onda del azul para el infrarrojo (a partir de 450 nm a 890 nm) con una resolución de 20 m en el suelo y una anchura de rango terreno de 120 km.\nLa WFI es una versión avanzada del instrumento desarrollado para los CBERS-1 y 2, con cuatro bandas espectrales y resolución en el suelo de 64 m y un rango de 866 km. La cámara suministra una resolución espacial mejorada en comparación con los sensores a bordo de los CBERS-1 y 2 (260 m en misiones anteriores), manteniendo, sin embargo, su alta resolución temporal de 5 días. La WFI fue construida a través de un consorcio formado por Opto Electrónica y Ecuatorial Sistemas."
+    },
+    {
+      "titulo": "Lanzamiento de",
+      "nivel": 2,
+      "texto": "El satélite CBERS-4A fue lanzado exitosamente lanzado el 20 de diciembre de 2019, año en que también serán conmemorados los 30 años de la cooperación espacial entre Brasil y China. Será lanzado por medio de un vehículo de lanzamiento espacial Larga Marcha 4B desde el Centro de Lanzamiento de Taiyuan, en China."
+    }
+  ],
+  "num_palabras": 711
+}

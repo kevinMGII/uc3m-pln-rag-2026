@@ -1,0 +1,44 @@
+{
+  "id": "doc_0109",
+  "titulo": "Cosmos 36",
+  "titulo_wikipedia_en": "Kosmos 36",
+  "fecha_lanzamiento": "1964-07-30",
+  "año_lanzamiento": 1964,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite militar",
+    "Satélite (programa Cosmos)",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Cosmos_36",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Reentrado en la atmósfera",
+    "Tipo de misión": "Militar",
+    "Fecha de lanzamiento": "30 de julio de 1964",
+    "Lugar de lanzamiento": "Cosmódromo de Kapustin Yar",
+    "Vehículo de lanzamiento": "Kosmos-2I",
+    "Duración planificada": "213 días",
+    "ID NSSDC": "1964-042A",
+    "Masa en el lanzamiento": "325 kg",
+    "Tipo de fin de misión": "reingreso",
+    "Fecha de reentrada": "28 de febrero de 1965"
+  },
+  "resumen": "Cosmos 36 (en cirílico, Космос 36) fue un satélite artificial militar soviético perteneciente a la clase de satélites DS (el primero de tipo DS-P1-Yu) y lanzado el 30 de julio de 1964 mediante un cohete Kosmos-2I desde el cosmódromo de Kapustin Yar.",
+  "secciones": [
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "Cosmos 36 fue parte de un sistema de satélites utilizados como objetivos de prueba para el sistema de radares antibalísticos soviéticos. Los satélites del tipo DS-P1-Yu fueron desarrollados por V. M. Kovtunenko en la OKB-586 y fueron utilizados hasta 1978, con un total de 78 lanzamientos.\nEl propósito declarado por la Unión Soviética ante la Organización de las Naciones Unidas en el momento del lanzamiento era realizar \"investigaciones de la atmósfera superior y el espacio exterior\"."
+    },
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "El satélite tenía una masa de 325 kg. El satélite fue inyectado inicialmente en una órbita con un perigeo de 259 km y un apogeo de 503 km, con una inclinación orbital de 49 grados y un periodo de 92 minutos.\nCosmos 36 reentró en la atmósfera el 28 de febrero de 1965."
+    }
+  ],
+  "num_palabras": 171
+}

@@ -1,0 +1,46 @@
+{
+  "id": "doc_0381",
+  "titulo": "Intercosmos 7",
+  "titulo_wikipedia_en": null,
+  "fecha_lanzamiento": "1972-06-30",
+  "año_lanzamiento": 1972,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite (programa Cosmos)"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Intercosmos_7",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Reentrado en la atmósfera",
+    "Tipo de misión": "Estudio del Sol y de la atmósfera superior de la Tierra.",
+    "Fecha de lanzamiento": "30 de junio de 1972",
+    "Lugar de lanzamiento": "Cosmódromo de Kapustin Yar",
+    "Vehículo de lanzamiento": "Cosmos 2",
+    "ID NSSDC": "1972-047A",
+    "Masa en el lanzamiento": "375 kg",
+    "Tipo de fin de misión": "reingreso",
+    "Fecha de reentrada": "5 de octubre de 1972"
+  },
+  "resumen": "Intercosmos 7 fue un satélite artificial científico soviético perteneciente al programa Intercosmos y a la clase de satélites DS (el tercero de tipo DS-U3-IK) y lanzado el 30 de junio de 1972 mediante un cohete Cosmos 2 desde el cosmódromo de Kapustin Yar.",
+  "secciones": [
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "El objetivo de Intercosmos 7 fue estudiar la radiación solar en el rango de los rayos X y ultravioleta y su interacción con las capas altas de la atmósfera terrestre."
+    },
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "El satélite fue un proyecto conjunto entre la URSS, la República Democrática de Alemania y Checoslovaquia. Tenía una masa de 375 kg y fue inyectado inicialmente en una órbita con un perigeo de 267 km y un apogeo de 568 km, con una inclinación orbital de 48,4 grados y un periodo de 92,6 minutos. Hubo algunos problemas de recepción de las señales del satélite.\nIntercosmos 7 reentró en la atmósfera el 5 de octubre de 1972."
+    },
+    {
+      "titulo": "Resultados científicos",
+      "nivel": 2,
+      "texto": "Intercosmos 7 obtuvo espectros de rayos X y ultravioleta solares y midió su polarización, así como la temperatura de los electrones de la corona solar mediante su fotómetro de rayos X."
+    }
+  ],
+  "num_palabras": 180
+}

@@ -1,0 +1,38 @@
+{
+  "id": "doc_0436",
+  "titulo": "Explorer 52",
+  "titulo_wikipedia_en": "Explorer 52",
+  "fecha_lanzamiento": "1974-06-03",
+  "año_lanzamiento": 1974,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de observación terrestre",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Explorer_52",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Inactivo",
+    "Tipo de misión": "Estudio de la magnetosfera terrestre",
+    "Operador": "NASA",
+    "Fecha de lanzamiento": "3 de junio de 1974",
+    "Lugar de lanzamiento": "Vandenberg",
+    "Vehículo de lanzamiento": "Scout",
+    "ID NSSDC": "1974-040A",
+    "Masa en el lanzamiento": "22,7 kg",
+    "Potencia": "22 a 36 vatios",
+    "Periapsis": "469 km",
+    "Apoapsis": "125 569 km",
+    "Inclinación orbital": "89 grados",
+    "Periodo orbital": "3032 minutos",
+    "Instrumentos": "Magnetómetro, analizador de plasma y detector de ELF-VLF",
+    "Banda de transmisión": "100 y 400 MHz",
+    "Ancho de banda": "100 a 200 bps"
+  },
+  "resumen": "Explorer 52, también denominado Hawkeye, fue un satélite artificial de la NASA dedicado al estudio de la magnetósfera terrestre. Fue lanzado el 3 de junio de 1974 a bordo de un cohete Scout desde la base aérea de Vanderberg.\nLa misión principal del satélite era medir los campos y partículas de los polos de la magnetosfera terrestre a distancias de hasta 21 radios terrestres (unos 126 000 km). Como misiones secundarias se dedicó a hacer mediciones de campo magnético y distribución de plasma en el viento solar y a estudiar las radioemisiones de tipo 3 producidas por las corrientes de electrones en el medio interplanetario.\nEl satélite portaba un magnetómetro, un analizador de plasma y un detector de ondas ELF-VLF. Se estabilizaba mediante giro, con un periodo de 11 segundos. Disponía de un sensor óptico para determinar su posición, pero se averió el 3 de septiembre de 1974. A partir de entonces se utilizaron las medidas del magnetómetro para el posicionamiento de la nave. Utilizaba paneles solares para la producción de energía, de entre 22 y 36 vatios de potencia.\nExplorer 52 participó en el International Magnetospheric Study (IMS), un esfuerzo internacional para el estudio de la magnetosfera terrestre, y durante la primera mitad de 1977 las mediciones se limitaron intervalos especiales para el IMS.\nLos datos se tomaban en tiempo real y se transmitían a frecuencias de 136 y 400 MHz, a tasas de 100 o 200 bps.",
+  "secciones": [],
+  "num_palabras": 239
+}

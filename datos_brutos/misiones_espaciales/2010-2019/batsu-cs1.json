@@ -1,0 +1,62 @@
+{
+  "id": "doc_1349",
+  "titulo": "Batsú-CS1",
+  "titulo_wikipedia_en": "Irazú (satellite)",
+  "fecha_lanzamiento": "2018-04-02",
+  "año_lanzamiento": 2018,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite experimental",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Batsú-CS1",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Activo",
+    "Tipo de misión": "Monitoreo del cambio climático",
+    "Operador": "Instituto Tecnológico de Costa Rica",
+    "Fabricante": "Asociación Centroamericana de Aeronáutica y del Espacio",
+    "Fecha de lanzamiento": "11 de mayo de 2018",
+    "Lugar de lanzamiento": "Cabo Cañaveral, Estados Unidos",
+    "Vehículo de lanzamiento": "Cohete Falcon 9",
+    "Masa en el lanzamiento": "1 kg",
+    "Trans cobertura": "América Central"
+  },
+  "resumen": "Batsú-CS1, también conocido como Proyecto Irazú, es el primer satélite artificial de Costa Rica, concebido en 2009 por la Asociación Centroamericana de Aeronáutica y del Espacio (ACAE) y con la participación del Instituto Tecnológico de Costa Rica (TEC), institución con quien ACAE suscribió un convenio de cooperación en 2013 para el desarrollo de proyectos espaciales. Con la colaboración del Instituto de Tecnología de Kyushu, de Japón, el satélite fue lanzado al espacio, junto al satélite 1KUNS-PF de Kenia, por medio del cohete Falcon 9 en el centro espacial John F. Kennedy, en Cabo Cañaveral, Estados Unidos.",
+  "secciones": [
+    {
+      "titulo": "Historia",
+      "nivel": 2,
+      "texto": "La creación del primer satélite costarricense fue primeramente impulsada tras la fundación de la Asociación Centroamericana de Aeronáutica y del Espacio, en el año 2009. En abril de 2013, la ACAE y el Instituto Tecnológico de Costa Rica firman un convenio de cooperación para habilitar mecanismos de colaboración para el desarrollo de proyectos, entre ellos la elaboración de nanosatélites y picosatélites y la construcción de una agencia espacial para el año 2021. Desde entonces, la manufacturación del satélite dio inicio.\nPara abril de 2014, se reporta un avance del 20% en el desarrollo del satélite. Este tendría una inversión que ronda el $1,5 millón, y el cual tendría tendrá forma de cubo, de tipo CubeSat. El satélite permitiría conocer el diagnóstico en tiempo real de los flujos de dióxido de carbono de los bosques tropicales de Costa Rica. Además, la presidenta de Costa Rica, Laura Chinchilla, y el ministro de Ministerio de Industria, Ambiente, Energía y Telecomunicaciones (MINAET), René Castro, firmaron un decreto el cual le daba a la iniciativa el carácter de \"interés público\".\nEn octubre de 2015, la Asociación Centroamericana de Aeronáutica y del Espacio fue ratificada como miembro oficial de la Federación Internacional de Astronáutica (IAF). Como parte de esta incorporación, en adelante, investigadores costarricenses podrían acceder a una plataforma mundial de contactos para atraer empresas e investigadores espaciales al país.\nA partir del 21 de marzo de 2016, inició una campaña en la plataforma digital Kickstarter para recaudar fondos para el proyecto. Desde entonces, el proyecto recibió el nombre de Proyecto Irazú.\nEn marzo de 2017, el satélite inicia su etapa de desarrollo, al ya contarse con los componentes para trabajar en su ensamblaje. En octubre de 2017, el satélite ya ensamblado es enviado al laboratorio Kibo, el módulo japonés de la Estación Espacial Internacional (ISS), el cual pasaría por pruebas de vibración y térmicas, entre otras, que emulan el ambiente espacial; esto para verificar que el satélite sobreviva a las condiciones.\nA inicios de 2018, la ACAE dio inicio a un concurso entre los estudiantes costarricenses para que estos dieran propuestas para un nombre para el satélite, ya que su nombre no oficial era \"Proyecto Irazú\". El nombre escogido fue dado a conocer el 11 de mayo del mismo año, el cual fue \"Batsú-CS1\".\nEn marzo de 2018, la ACAE informa que el satélite superó pruebas técnicas realizadas en el Instituto Tecnológico de Kyushu en Japón y será lanzado a la Estación Espacial Internacional el 2 de abril."
+    },
+    {
+      "titulo": "Lanzamiento",
+      "nivel": 2,
+      "texto": "El 2 de abril de 2018, el satélite Proyecto Irazú es lanzado al espacio a bordo de una nave espacial Dragon CRS-14 impulsada por un cohete Falcon 9 de la empresa Space Exploration Technologies (SpaceX). El satélite costarricense fue lanzado junto al 1KUNS-PF de Kenia. El lanzamiento se efectuó desde Cabo Cañaveral, en Florida, Estados Unidos, a las 2:35 p. m. hora de Costa Rica, desde la plataforma del Space Launch Complex 40.\nEl 11 de mayo fue puesto en órbita el satélite Batsú-CS1 desde la Estación Espacial Internacional. El lanzamiento fue grabado por la Agencia Espacial Japonesa (JAXA). Tras el lanzamiento, el satélite hizo contacto con el centro de control en Costa Rica."
+    },
+    {
+      "titulo": "Reacciones",
+      "nivel": 3,
+      "texto": "La embajada de Japón en Costa Rica emitió un comunicado de prensa relacionado con este acontecimiento. \"La embajada de Japón felicita calurosamente a todos los involucrados en este logro histórico y transmite la alegría y satisfacción del Gobierno y pueblo japonés por haber sido parte de este proyecto\".\nEl físico y ex-astronauta costarricense Franklin Chang se refirió a este hito: “Es maravilloso ver el fruto de mucho esfuerzo, perseverancia y además calidad técnica de parte de este grupo de jóvenes costarricenses. El llevar un proyecto de esta magnitud a término es muy difícil y lo han logrado. ¡Qué gran orgullo! Mis felicitaciones a ACAE, al ITCR y a todos los involucrados en el proyecto. Definitivamente, ¡así se hace! ¡Sí se puede!”\nCarlos Enrique Alvarado, el presidente de la Asociación Centroamericana de Aeronáutica y del Espacio detalló que \"Es algo muy emocionante porque es la culminación de un proceso de años de estudio y trabajo\"."
+    },
+    {
+      "titulo": "Manufacturación",
+      "nivel": 2,
+      "texto": "La manufacturación del satélite fue llevada a cabo por el Instituto Tecnológico de Costa Rica. La carcasa del satélite fue construida por el Instituto Nacional de Aprendizaje (INA) y los sistemas del satélite fueron desarrollados y probados en las instalaciones del SETEC-Lab. Mientras que el ensamblaje, también a cargo de ingenieros del TEC, se realizó en un cuarto limpio facilitado por la empresa MOOG Medical, ubicada en la Zona Franca El Coyol, en Alajuela. En noviembre de 2017 se realizaron las pruebas finales del satélite en el Instituto Tecnológico de Kyushu (conocido como Kyutech), de Japón.\nEl Batsú-CS1 es un satélite que tiene forma de cubo y que mide solamente 10 centímetros por cada lado, precisamente esta tecnología se llama CubeSat. El objetivo de que sea tan pequeño es para reducir los costos de las misiones que se llevan a cabo fuera de la Tierra. Este proyecto se inició desde el 2009 cuando la ACAE fue conformada, y desde esa fecha el satélite ha tenido que pasar por diferentes etapas como el diseño, ensamblaje y pruebas.\nLa manufacturación del satélite fue asesorada por diversos científicos costarricenses y de otros países, entre ellos el exastronauta costarricense Franklin Chang, la física costarricense Sandra Cauffman, el ingeniero en sistemas costarricense Andrés Mora, el japonés Mengu Cho, el estadounidense Eberhard Gill y el inglés Gugliemo Aglietti."
+    },
+    {
+      "titulo": "Objetivo",
+      "nivel": 2,
+      "texto": "En general, el proyecto posee 3 componentes: uno espacial que es el satélite en sí; una estación remota ubicada en Los Chiles de Alajuela, al norte de Costa Rica, que es el bosque donde se recogerán los datos de crecimiento forestal y captura de carbono; y una estación en tierra que estará ubicada en el TEC, y que es el centro de operaciones donde se recibirá la información para ser analizada y procesada por los científicos e investigadores.\nDurante seis meses el satélite estudiará cómo se comporta la fijación de carbono en árboles de la zona norte de Costa Rica. En dicha plantación se instalaron 10 dendrómetros (instrumentos para medir el crecimiento de los árboles y la captura de carbono), cinco de ellos fueron diseñados y construidos por estudiantes del Instituto Tecnológico de Costa Rica. Allí mismo funcionará una estación meteorológica, que analizará el crecimiento forestal en relación con las variables climáticas.\nEL satélite abarca dos grandes necesidades de Costa Rica: Por un lado, permitirá desarrollar las capacidades en profesionales y estudiantes costarricenses para llevar a cabo proyectos de tecnología espacial; y por otro, su misión científica responde a la meta país de alcanzar la carbono neutralidad, ya que servirá como plataforma para obtener datos de variables ambientales, crecimiento forestal y secuestro de carbono en los bosques del país."
+    },
+    {
+      "titulo": "Nombre del satélite",
+      "nivel": 2,
+      "texto": "Tras la ACAE realizar un concurso para proponer un nombre para el satélite, se dio a conocer que el nombre escogido sería \"Batsú-CS1\", el cual proviene de la palabra 'colibrí' en el idioma bribrí de Costa Rica, acompañado de 'CS1', que significa cubo satélite 1, por la forma del satélite."
+    }
+  ],
+  "num_palabras": 1268
+}

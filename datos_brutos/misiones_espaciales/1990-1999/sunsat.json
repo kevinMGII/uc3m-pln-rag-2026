@@ -1,0 +1,30 @@
+{
+  "id": "doc_0874",
+  "titulo": "Sunsat",
+  "titulo_wikipedia_en": "SUNSAT",
+  "fecha_lanzamiento": "1999-02-23",
+  "año_lanzamiento": 1999,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite experimental",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Sunsat",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Experimental",
+    "Operador": "Universidad de Stellenbosch",
+    "Fecha de lanzamiento": "23 de febrero de 1999",
+    "Lugar de lanzamiento": "Vandenberg",
+    "Vehículo de lanzamiento": "Delta",
+    "ID NSSDC": "1999-008C",
+    "Masa en el lanzamiento": "64 kg",
+    "Dimensiones": "45 x 45 x 60 cm"
+  },
+  "resumen": "Sunsat (acrónimo de Stellenbosch UNiversity SATellite) fue un microsatélite construido por estudiantes de la Universidad de Stellenbosch, en Sudáfrica. Fue lanzado el 23 de febrero de 1999 desde la base de Vandenberg mediante un cohete Delta.\nEl microsatélite llevaba una cámara y un transmisor, entre otros experimentos.",
+  "secciones": [],
+  "num_palabras": 47
+}

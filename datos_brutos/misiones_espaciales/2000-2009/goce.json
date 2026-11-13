@@ -1,0 +1,59 @@
+{
+  "id": "doc_1091",
+  "titulo": "GOCE",
+  "titulo_wikipedia_en": "GOCE",
+  "fecha_lanzamiento": "2009-03-17",
+  "año_lanzamiento": 2009,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de observación terrestre",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/GOCE",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Destruido al reingresar a la Tierra",
+    "Tipo de misión": "Observación terrestre",
+    "Operador": "ESA",
+    "Fecha de lanzamiento": "17 de marzo de 2009",
+    "Configuración": "sección octogonal",
+    "Masa en el lanzamiento": "1000 kg aprox.",
+    "Dimensiones": "5 m largo x 1 m diámetro",
+    "Propulsión": "2 propulsores RF-ion, 1 micropropulsor proporcional",
+    "Sistema de referencia orbital": "Circular, síncrona solar, alba-atardecer",
+    "Excentricidad": "0,0",
+    "Periapsis": "295 km",
+    "Inclinación orbital": "96,5 Grados",
+    "Periodo orbital": "100 minutos",
+    "Instrumentos": "Gradiómetro\nReceptor GPS\nLaser retroreflector",
+    "Tipo de fin de misión": "reingreso",
+    "Fecha de reentrada": "11 de noviembre de 2013"
+  },
+  "resumen": "GOCE (Gravity field and steady-state Ocean Circulation Explorer, Explorador de la Circulación Oceánica y de Gravedad) es un satélite de la Agencia Espacial Europea (ESA) dedicado a la medida del campo gravitatorio terrestre. Fue lanzada el 17 de marzo de 2009 mediante un cohete ruso Rockot (antiguo misil balístico), después de haber sido pospuesta su fecha prevista inicial del 27 de octubre de 2008 debido a problemas en el cohete lanzador.\nSu construcción corrió a cargo de un consorcio de 45 empresas, entre las que destacan Thales Alenia Space y EADS Astrium Space.\nDespués de que el tanque de combustible de xenón se agotara, el satélite empezó a perder altitud produciéndose una reentrada el 11 de noviembre de 2013, sobre las 01:00 CET, destruyéndose en la atmósfera alta.",
+  "secciones": [
+    {
+      "titulo": "Objetivos de la misión",
+      "nivel": 2,
+      "texto": "La misión del satélite tiene los siguientes objetivos:\nDeterminar las anomalías del campo gravitatorio terrestre con una precisión de 10-5m/s2.\nDeterminar el geoide con una precisión de 1 a 2 cm y una resolución espacial mejor que 100 km."
+    },
+    {
+      "titulo": "Instrumentación",
+      "nivel": 2,
+      "texto": "Para llevar a cabo su misión dispone de los siguientes instrumentos:\nGradiómetro: 3 pares de 3 ejes servocontrolados con acelerómetros capacitivos, cada par separado una distancia de 5 dm\nReceptor GPS de 12 canales con calidad geodética\nRetroreflector láser"
+    },
+    {
+      "titulo": "Lanzamiento",
+      "nivel": 2,
+      "texto": "El satélite GOCE fue lanzado a las 14:21 GMT del 17 de marzo de 2009 desde el Cosmódromo de Plesetsk utilizando un cohete ruso de tipo Rokot (que es un misil balístico intercontinental de tipo UR-100N modificado para usos civiles tras el tratado de reducción de armamento estratégico) que propulsó al satélite en dirección norte sobre el ártico liberándolo a 280 kilómetros de altura en órbita circumpolar. El primer intento de lanzamiento se produjo el 16 de marzo de 2009, pero fue abortado debido a un fallo en la torre de despegue.\nEl lanzamiento finalmente tuvo por objetivo situar a GOCE en una órbita heliosíncrona con una inclinación de 96.70 grados y nodo ascendente a 18:00. El satélite debía separarse de su cohete lanzador a 295 kilómetros de altura y su órbita decaer durante 45 días hasta la altitud operativa de 270 kilómetros. Para mantener la baja altitud de su órbita GOCCE cuenta con un propusor de iones con el que contrarrestar los efectos del rozamiento con la atmósfera para quedar afectado únicamente por el campo gravitatorio."
+    },
+    {
+      "titulo": "Energía",
+      "nivel": 2,
+      "texto": "GOCE lleva fijados a la parte del cuerpo principal que está orientada hacia el sol paneles solares con capacidad para producir 1300 vatios.\nAdemás cuenta con un motor eléctrico de propulsión de iones que funciona lanzando a más de 40000 m/s partículas de xenón cargadas cuya función es compensar las pérdidas de impulso causadas por la baja órbita. Como combustible para este motor cuenta con un tanque con 40 kg de xenón que una vez consumido marcará el final de la vida operativa del satélite, estimada en unos 20 meses.\nLas placas solares que lleva se encuentran dispuestas en un panel de 5 metros por 1 metro y actúan como aletas pensadas para estabilizar la nave durante su tránsito por la ionosfera."
+    }
+  ],
+  "num_palabras": 505
+}

@@ -1,0 +1,40 @@
+{
+  "id": "doc_0784",
+  "titulo": "SURFSAT",
+  "titulo_wikipedia_en": null,
+  "fecha_lanzamiento": "1995-11-04",
+  "año_lanzamiento": 1995,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite experimental",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/SURFSAT",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Inactivo",
+    "Tipo de misión": "Experimental",
+    "Operador": "NASA",
+    "Fecha de lanzamiento": "4 de noviembre de 1995",
+    "Lugar de lanzamiento": "Vandenberg",
+    "Vehículo de lanzamiento": "Delta",
+    "ID NSSDC": "1995-059B",
+    "Masa en el lanzamiento": "55 kg",
+    "Periapsis": "940,5 km",
+    "Apoapsis": "1500,2 km",
+    "Inclinación orbital": "100,3 grados",
+    "Periodo orbital": "109,7 minutos"
+  },
+  "resumen": "SURFSAT (acrónimo de Summer Undergraduate Research Fellowship SATellite) fue un satélite artificial construido por alumnos universitarios y el JPL para realizar experimentos con la Red del Espacio Profundo de la NASA. Fue lanzado el 4 de noviembre de 1995 mediante un cohete Delta desde la base de Vandenberg.\nEl satélite fue diseñado para imitar las señales de las sondas interplanetarias y emitir señales de radiofrecuencia con potencia de milivatios en las bandas X, Ku y Ka. Las señales servirían como base para realizar experimentos y pruebas para implementar mejoras en las estaciones de comunicación espacial de la NASA y probar las nuevas antenas de 11 metros para banda Ka.",
+  "secciones": [
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "El satélite consistía en dos cajas de aluminio unidas a la segunda etapa del cohete lanzador. El conjunto se estabilizaba mediante gradiente gravitatorio y la electrónica estaba alimentada mediante paneles solares, proporcionando hasta 15 vatios de potencia. El satélite disponía de tres antenas omnidireccionales (dos en la caja primaria y la otra en la secundaria) tanto para emitir como para recibir datos. El control térmico del satélite se efectuaba de manera pasiva. No disponía de sistema de propulsión, baterías ni determinación ni control de actitud.\nCada caja llevaba un transpondedor. El transpondedor primario operaba en banda X (8 GHz) y banda Ka (32 GHz). El transpondedor secundario operaba en banda Ku (15 GHz)."
+    }
+  ],
+  "num_palabras": 222
+}

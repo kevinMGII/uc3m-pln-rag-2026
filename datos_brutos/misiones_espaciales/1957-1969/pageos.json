@@ -1,0 +1,45 @@
+{
+  "id": "doc_0168",
+  "titulo": "PAGEOS",
+  "titulo_wikipedia_en": "PAGEOS",
+  "fecha_lanzamiento": "1966-06-24",
+  "año_lanzamiento": 1966,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/PAGEOS",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Operador": "NASA",
+    "Fecha de lanzamiento": "24 de junio de 1966 00:14:00 (UTC)",
+    "Lugar de lanzamiento": "Vandenberg AFB",
+    "Vehículo de lanzamiento": "Thor-Agena D",
+    "ID NSSDC": "02253",
+    "Masa en el lanzamiento": "56,7 kg",
+    "Dimensiones": "30,48 m de diámetro",
+    "Sistema de referencia orbital": "Geodésico",
+    "Excentricidad": "0.00301",
+    "Periapsis": "4.207 km",
+    "Apoapsis": "4.271 km",
+    "Inclinación orbital": "87,14°",
+    "Periodo orbital": "181,43 min"
+  },
+  "resumen": "PAGEOS (Por sus siglas en inglés \"PAssive Geodetic Earth Orbiting Satellite\") fue un satélite aerostático lanzado por la NASA en junio de 1966.",
+  "secciones": [
+    {
+      "titulo": "Diseño",
+      "nivel": 2,
+      "texto": "Pageos tenía un diámetro de exactamente 30,48 m, consistía en una película de plástico mylar de 12,7 μm de espesor recubierta con aluminio depositado con vapor que incluía un volumen de 14 800 m³ y se usó para la triangulación de Weltnetz der Satellitentriangulation (Red Mundial de Triangulación de Satélites) - una cooperación global organizada por Hellmut Schmid (Suiza y EE. UU.) 1969-1973.\nTerminada en 1974, la red conectó 46 estaciones (3000–5000 km de distancia) de todos los continentes con una precisión de 3–5 m (aproximadamente 20 veces mejor que las triangulaciones terrestres en ese momento)."
+    },
+    {
+      "titulo": "Órbita",
+      "nivel": 2,
+      "texto": "La nave espacial PAGEOS se colocó en una órbita polar (inclinación 85–86°) con una altura de aprox. 4000 km, que había ido disminuyendo gradualmente durante sus 9 años de operación. El satélite se desintegró parcialmente en julio de 1975, a lo que siguió una segunda ruptura que se produjo en enero de 1976 y provocó la liberación de una gran cantidad de fragmentos. La mayoría de estos reingresaron durante la siguiente década. Los datos de PAGEOS han sido rastreados 11 veces.\nLos predecesores de PAGEOS en la triangulación de satélites fueron los globos Echo 1 (1960, 30 m) y Echo 2 (1964, 40 m), que también se utilizaron para las telecomunicaciones pasivas. Su magnitud aparente (brillo) era +1, mientras que la de Pageos magnitud +2 (como la estrella Polaris) debido a su órbita más alta. Por lo tanto, Pageos podría observarse simultáneamente desde el suelo en lugares como Europa y América del Norte. PAGEOS apareció como una estrella de movimiento lento (a primera vista parecería ser estacionario). Su período orbital fue de aproximadamente tres horas. Debido a su alta órbita e inclinación polar, evitaría la sombra de la Tierra y se observaría en cualquier momento de la noche (los satélites de órbita baja solo se pueden observar poco después de la puesta del Sol y antes de su salida). A principios de la década de 1970, PAGEOS varió desde la segunda magnitud aparente hasta la visibilidad más allá de un período de unos pocos minutos.\nEn 2016, uno de los fragmentos más grandes de PAGEOS desorbitó."
+    }
+  ],
+  "num_palabras": 375
+}

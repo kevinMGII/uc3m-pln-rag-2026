@@ -1,0 +1,39 @@
+{
+  "id": "doc_0550",
+  "titulo": "Intercosmos 20",
+  "titulo_wikipedia_en": null,
+  "fecha_lanzamiento": "1979-11-01",
+  "año_lanzamiento": 1979,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de observación terrestre",
+    "Satélite (programa Cosmos)",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Intercosmos_20",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Reentrado en la atmósfera",
+    "Tipo de misión": "Experimental",
+    "Operador": "Unión Soviética",
+    "Fecha de lanzamiento": "1 de noviembre de 1979",
+    "Lugar de lanzamiento": "Cosmódromo de Plesetsk",
+    "Vehículo de lanzamiento": "Kosmos 3",
+    "ID NSSDC": "1979-096A",
+    "Masa en el lanzamiento": "1100 kg",
+    "Tipo de fin de misión": "reingreso",
+    "Fecha de reentrada": "5 de marzo de 1981"
+  },
+  "resumen": "Intercosmos 20 fue el nombre de un satélite artificial soviético construido con el bus AUOS y lanzado bajo el programa Intercosmos de cooperación internacional el 1 de noviembre de 1979 desde el cosmódromo de Plesetsk mediante un cohete Kosmos 3. El satélite contó con la colaboración de Checoslovaquia, Hungría, Rumanía y la República Democrática Alemana. Reentró en la atmósfera el 5 de marzo de 1981.",
+  "secciones": [
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "La misión de Intercosmos 20 consistió en probar nuevos métodos para el estudio de los océanos y la superficie terrestre, probando además la recogida de datos automática emitidos por estaciones terrestres y marítimas."
+    }
+  ],
+  "num_palabras": 98
+}

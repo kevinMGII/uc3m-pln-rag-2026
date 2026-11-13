@@ -1,0 +1,32 @@
+{
+  "id": "doc_0018",
+  "titulo": "Explorer 6",
+  "titulo_wikipedia_en": "Explorer 6",
+  "fecha_lanzamiento": "1959-08-07",
+  "año_lanzamiento": 1959,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de observación terrestre",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Explorer_6",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Reentrado en la atmósfera",
+    "Tipo de misión": "Observación terrestre",
+    "Operador": "NASA",
+    "Fecha de lanzamiento": "7 de agosto de 1959",
+    "Lugar de lanzamiento": "Cabo Cañaveral",
+    "Vehículo de lanzamiento": "Thor",
+    "ID NSSDC": "1959-004A",
+    "Masa en el lanzamiento": "64 kg",
+    "Tipo de fin de misión": "reingreso",
+    "Fecha de reentrada": "30 de junio de 1961"
+  },
+  "resumen": "Explorer 6, también conocido como S 2, fue un satélite artificial de la NASA lanzado el 7 de agosto de 1959 mediante un cohete Thor desde Cabo Cañaveral. Fue el primer satélite en obtener una fotografía de la Tierra desde el espacio.\nLa misión de Explorer 6 fue la de estudiar la radiación del entorno espacial, los rayos cósmicos galácticos, la propagación de ondas de radio en la atmósfera superior y el flujo de micrometeoritos. También probó un dispositivo para fotografiar la capa de nubes de la Tierra.\nEl satélite tenía forma esférica, se estabilizaba mediante giro (168 revoluciones por minuto) y utilizaba cuatro paneles solares que sobresalían del ecuador del satélite y que alimentaban las baterías del satélite.\nCada uno de los experimentos que llevaba el satélite, salvo el experimento de cámara de televisión, proporcionaban dos tipos de señal: una analógica y otra digital. Para transmitir la telemetría digital y la señal de televisión se utilizaba un transmisor UHF (que funcionaba durante unas horas al día), y para la analógica, dos transmisores VHF (que funcionaban continuamente).\nTras el lanzamiento se comprobó que solo tres de los cuatro paneles solares se habían desplegado, con lo que solo se dispuso del 63% de la energía prevista, y el porcentaje disminuyó con el tiempo, por lo que la relación señal/ruido empeoró, afectando a casi todos los datos, sobre todo durante el apogeo.\nUno de los transmisores VHF falló el 11 de septiembre de 1959. El último contacto con Explorer 6 tuvo lugar el 6 de octubre de 1959, tras recoger y enviar 827 horas de datos analógicos y 23 horas de datos digitales. El satélite reentró en la atmósfera el 30 de junio de 1961.",
+  "secciones": [],
+  "num_palabras": 283
+}

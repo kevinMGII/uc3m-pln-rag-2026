@@ -1,0 +1,39 @@
+{
+  "id": "doc_1172",
+  "titulo": "RAX-2",
+  "titulo_wikipedia_en": "RAX-2",
+  "fecha_lanzamiento": "2011-10-28",
+  "año_lanzamiento": 2011,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite experimental",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/RAX-2",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Inactivo desde 2013",
+    "Tipo de misión": "Investigación de la ionosfera",
+    "Operador": "Universidad de Míchigan y SRI International",
+    "Fabricante": "United Launch Alliance",
+    "Plataforma (bus)": "3U CubeSat",
+    "Fecha de lanzamiento": "28 de octubre de 2011",
+    "Lugar de lanzamiento": "Vandenberg SLC-2W",
+    "Vehículo de lanzamiento": "Delta II",
+    "ID NSSDC": "2011-061D",
+    "Masa en el lanzamiento": "3 kg",
+    "Inclinación orbital": "101,71 grados"
+  },
+  "resumen": "RAX-2 (Radio Aurora Explorer 2) es un satélite CubeSat construido como una colaboración entre SRI International y los estudiantes de la Facultad de Ingeniería de la Universidad de Míchigan. Fue lanzado el 28 de octubre de 2011 a las 09:48:02 UTC por un cohete Delta II.",
+  "secciones": [
+    {
+      "titulo": "Diseño",
+      "nivel": 2,
+      "texto": "Con la excepción de los paneles solares, los diseños de RAX-1 y RAX-2 son en gran medida idénticos. RAX-1 y RAX-2 son 3U CubeSats estándar con dimensiones físicas de aproximadamente 10 cm x 10 cm x 34 cm y una masa de 2,8 kg."
+    }
+  ],
+  "num_palabras": 90
+}

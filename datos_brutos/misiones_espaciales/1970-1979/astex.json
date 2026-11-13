@@ -1,0 +1,45 @@
+{
+  "id": "doc_0361",
+  "titulo": "ASTEX",
+  "titulo_wikipedia_en": null,
+  "fecha_lanzamiento": "1971-10-17",
+  "año_lanzamiento": 1971,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite experimental",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/ASTEX",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Inactivo",
+    "Tipo de misión": "Experimental",
+    "Operador": "USAF",
+    "Fecha de lanzamiento": "17 de octubre de 1971",
+    "Lugar de lanzamiento": "Base Aérea de Vandenberg",
+    "Vehículo de lanzamiento": "Delta",
+    "ID NSSDC": "1971-089A",
+    "Masa en el lanzamiento": "1500 kg",
+    "Periapsis": "733,9 km",
+    "Apoapsis": "756,5 km",
+    "Inclinación orbital": "92,7 grados",
+    "Periodo orbital": "99,6 minutos"
+  },
+  "resumen": "ASTEX, también conocido como S71-2, es un satélite artificial de la Fuerza Aérea de los Estados Unidos lanzado el 17 de octubre de 1971 desde la Base Aérea de Vandenberg mediante un cohete Delta.",
+  "secciones": [
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "El objetivo de ASTEX fue probar diversas nuevas tecnologías para su uso en el espacio, como un nuevo sensor infrarrojo o un nuevo sistema de control térmico."
+    },
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "El satélite tenía una masa de 1500 kg y portaba un panel solar flexible desplegable de 457 metros de largo, que fue probado en varios ciclos de despliegue y recogida para probar su funcionamiento. También probó un nuevo sistema de comunicaciones y estudió la manera en que las partículas energéticas interactúan con la ionosfera.\nLa nave dejó de funcionar el 20 de diciembre de 1973 tras el envío de un comando al satélite para indicarle al transmisor que dejase de transmitir."
+    }
+  ],
+  "num_palabras": 142
+}

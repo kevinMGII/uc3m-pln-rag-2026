@@ -1,0 +1,37 @@
+{
+  "id": "doc_0775",
+  "titulo": "Cosmos 2312",
+  "titulo_wikipedia_en": "Kosmos 2312",
+  "fecha_lanzamiento": "1995-05-24",
+  "año_lanzamiento": 1995,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite (programa Cosmos)",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Cosmos_2312",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Sistema de alerta temprana",
+    "ID COSPAR": "1995-026A",
+    "Nº SATCAT": "23584",
+    "Duración de la misión": "4 años",
+    "Apogeo suborbital": "653 km",
+    "Tipo de nave": "US-K",
+    "Masa en el lanzamiento": "1.900 kg (4.200 lb)",
+    "Fecha de lanzamiento": "24 de mayo de 1995",
+    "Vehículo de lanzamiento": "Molniya-M/Blok 2BL",
+    "Lugar de lanzamiento": "Cosmódromo de Plesetsk",
+    "Sistema de referencia orbital": "Geocéntrica",
+    "Régimen orbital": "Molniya",
+    "Periapsis": "39.708 km",
+    "Inclinación orbital": "62,9 grados",
+    "Periodo orbital": "717,90 minutos"
+  },
+  "resumen": "Kosmos 2312 (Космос 2312) es un satélite ruso de alerta temprana de misiles US-K, lanzado en 1995 como parte del programa Oko de las Fuerzas Espaciales Rusas. El satélite está diseñado para identificar lanzamientos de misiles mediante telescopios ópticos y sensores infrarrojos.\nEl lanzamiento de Kosmos 2312 se realizó desde el Sitio 16/2 del Cosmódromo de Plesetsk, Rusia. Se utilizó un cohete portador Molniya-M con una etapa superior 2BL para el lanzamiento, que tuvo lugar a las 20:10 UTC del 24 de mayo de 1995. El lanzamiento colocó con éxito el satélite en una órbita de Molniya. Posteriormente, recibió la designación Cosmos y el designador internacional 1995-026A. El Comando Espacial de Estados Unidos le asignó el Satellite Catalog Number 23584.",
+  "secciones": [],
+  "num_palabras": 120
+}

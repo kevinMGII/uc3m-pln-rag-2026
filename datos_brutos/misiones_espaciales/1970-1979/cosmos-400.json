@@ -1,0 +1,46 @@
+{
+  "id": "doc_0340",
+  "titulo": "Cosmos 400",
+  "titulo_wikipedia_en": "Kosmos 400",
+  "fecha_lanzamiento": "1971-03-18",
+  "año_lanzamiento": 1971,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite militar",
+    "Satélite (programa Cosmos)",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Cosmos_400",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Inactivo",
+    "Tipo de misión": "Militar",
+    "Fecha de lanzamiento": "18 de marzo de 1971",
+    "Lugar de lanzamiento": "Cosmódromo de Plesetsk",
+    "Vehículo de lanzamiento": "Kosmos-3",
+    "ID NSSDC": "1971-020A",
+    "Configuración": "Poliedro hexagonal",
+    "Masa en el lanzamiento": "750 kg",
+    "Periapsis": "988 km",
+    "Apoapsis": "1010,4 km",
+    "Inclinación orbital": "65,8 grados",
+    "Periodo orbital": "104,9 minutos"
+  },
+  "resumen": "Cosmos 400 (en cirílico, Космос 400) fue un satélite artificial militar soviético perteneciente a la clase de satélites DS (el segundo del tipo DS-P1-M) y lanzado el 18 de marzo de 1971 mediante un cohete Kosmos-3 desde el cosmódromo de Plesetsk.",
+  "secciones": [
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "Cosmos 400 fue parte de un sistema de satélites utilizados como objetivos de prueba para el programa de armas antisatélite IS y para armas antimisiles. Los satélites del tipo DS-P1-M no se limitaban a ser satélites pasivos, sino que tenían sensores para registrar la dirección e intensidad del impacto entre otros parámetros. El sistema estuvo en funcionamiento hasta 1983, año en que la Unión Soviética abandonó el programa de armas antisatélite. El propósito declarado por la Unión Soviética ante la Organización de las Naciones Unidas en el momento del lanzamiento era realizar \"investigaciones de la atmósfera superior y el espacio exterior\"."
+    },
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "El satélite tenía una masa de 750 kg (aunque otras fuentes apuntan a 650 kg) y forma de poliedro hexagonal. El satélite fue inyectado inicialmente en una órbita con un perigeo de 995 km y un apogeo de 1016 km, con una inclinación orbital de 65,8 grados y un periodo de 104,99 minutos.\nCosmos 400 fue el objetivo del interceptor antisatélites Cosmos 404, lanzado el 4 de abril de 1971. El interceptor se acercó a una distancia mínima de Cosmos 400 de 8 km para luego reentrar en la atmósfera"
+    }
+  ],
+  "num_palabras": 232
+}

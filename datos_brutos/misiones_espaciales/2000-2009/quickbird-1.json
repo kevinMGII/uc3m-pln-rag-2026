@@ -1,0 +1,43 @@
+{
+  "id": "doc_0908",
+  "titulo": "QuickBird 1",
+  "titulo_wikipedia_en": null,
+  "fecha_lanzamiento": "2000-11-20",
+  "año_lanzamiento": 2000,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de observación terrestre",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/QuickBird_1",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Fallido",
+    "Tipo de misión": "Teledetección.",
+    "Operador": "DigitalGlobe",
+    "Fecha de lanzamiento": "20 de noviembre de 2000",
+    "Lugar de lanzamiento": "Cosmódromo de Plesetsk",
+    "Vehículo de lanzamiento": "Cosmos 3",
+    "ID NSSDC": "2000-074A",
+    "Masa en el lanzamiento": "950 kg",
+    "Tipo de fin de misión": "reingreso",
+    "Fecha de reentrada": "21 de noviembre de 2000"
+  },
+  "resumen": "QuickBird 1 fue el segundo satélite artificial comercial de teledetección desarrollado por la empresa EarthWatch, más tarde conocida como DigitalGlobe. Fue lanzado el 20 de noviembre de 2000 mediante un cohete Cosmos 3 desde el Cosmódromo de Plesetsk. El satélite no alcanzó la órbita prevista debido a un fallo en la segunda etapa del cohete portador y cayó a tierra el día siguiente a su lanzamiento.",
+  "secciones": [
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "La misión de QuickBird 1 era realizar fotografías de alta resolución para comercializarlas con diversos fines."
+    },
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "El satélite no entró en la órbita prevista debido a un fallo en la segunda etapa del cohete Cosmos 3 que lo transportaba, quedando en una órbita muy inferior y reentrando en la atmósfera al día siguiente del lanzamiento."
+    }
+  ],
+  "num_palabras": 121
+}

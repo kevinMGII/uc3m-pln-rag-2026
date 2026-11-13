@@ -1,0 +1,37 @@
+{
+  "id": "doc_0754",
+  "titulo": "CORONAS-I",
+  "titulo_wikipedia_en": null,
+  "fecha_lanzamiento": "1994-03-02",
+  "año_lanzamiento": 1994,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Telescopio espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/CORONAS-I",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Reentrado en la atmósfera",
+    "Tipo de misión": "Observatorio espacial",
+    "Operador": "Roscosmos",
+    "Fecha de lanzamiento": "2 de marzo de 1994",
+    "Lugar de lanzamiento": "Cosmódromo de Plesetsk",
+    "Vehículo de lanzamiento": "Tskilon",
+    "ID NSSDC": "1994-014A",
+    "Masa en el lanzamiento": "2160 kg",
+    "Tipo de fin de misión": "reingreso",
+    "Fecha de reentrada": "4 de marzo de 2001"
+  },
+  "resumen": "CORONAS-I (también conocido como KORONAS-I) fue el nombre de un observatorio espacial solar ruso construido con el bus AUOS y lanzado el 2 de marzo de 1994 desde el cosmódromo de Plesetsk mediante un cohete Tsiklon. El satélite contó con colaboración ucraniana y reentró en la atmósfera el 4 de marzo de 2001.",
+  "secciones": [
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "La misión de CORONAS-I fue la de realizar observaciones del Sol y realizar estudios de la ionosfera y magnetosfera terrestres."
+    }
+  ],
+  "num_palabras": 73
+}

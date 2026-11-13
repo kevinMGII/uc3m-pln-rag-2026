@@ -1,0 +1,49 @@
+{
+  "id": "doc_1004",
+  "titulo": "XTAR-EUR",
+  "titulo_wikipedia_en": "XTAR-EUR",
+  "fecha_lanzamiento": "2005",
+  "año_lanzamiento": 2005,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de comunicaciones",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/XTAR-EUR",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Activo",
+    "Operador": "Hisdesat",
+    "Fabricante": "Space Systems/Loral",
+    "Plataforma (bus)": "LS-1300",
+    "Duración planificada": "15 años",
+    "Masa en el lanzamiento": "1.412 kg",
+    "Dimensiones": "5,4 x 2,9 x 2,2 m",
+    "Potencia": "3,6 kW",
+    "Sistema de referencia orbital": "Geostacionaria",
+    "Semieje mayor": "42.164 km",
+    "Periapsis": "35.782,6 km",
+    "Apoapsis": "35.803,7 km",
+    "Inclinación orbital": "0º",
+    "Periodo orbital": "1.436,1 minutos",
+    "Órbita RAAN": "29º E",
+    "Banda de transmisión": "Banda X"
+  },
+  "resumen": "El XTAR-EUR es un satélite de comunicaciones desarrollado por España y Estados Unidos para proporcionar un canal de telecomunicaciones seguras sobre el océano Índico.\nInicialmente era operado por XTAR LLC, empresa copropiedad de Loral Space & Communications (56%) y de Hisdesat (44%). En el año 2020 Hisdesat adquirió la totalidad del satélite.\nSu lanzamiento, así como el lanzamiento del Spainsat, era parte de un esfuerzo de España para reforzar los lazos de comunicación con sus aliados de todo el mundo, especialmente en cuestiones de seguridad nacional.",
+  "secciones": [
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "El satélite se basa en el modelo LS-1300 de Space Systems/Loral. En consecuencia, tiene forma de caja (5,4 x 2,9 x 2,2 m) y un peso total de 1.412 kg (3.631 kg en el lanzamiento). Los lados de la caja contienen dos paneles solares retráctiles que proporcionan hasta 3,6 kW de potencia, mientras que la base inferior (orientada en dirección anti-radial) contiene el módulo de comunicación.\nDicho módulo es compatible con los sistemas SATCOM empleados por la OTAN y contiene 12 transpondedores de banda X de 72 MHz de banda ancha cada uno (siendo 4 reservados para uso del Ministerio de Defensa y ofreciendo los otros 8 a potenciales socios) y una antena de 2,4 m de diámetro. El sistema permite la polarización RHCP y LHCP mientras cubre un área de 63095 m² RCS (dos haces globales desde el este de Brasil y el Océano Atlántico, a través de África y Oriente Medio hasta Singapur, un haz a lo largo del Mar Mediterráneo y cuatro haces orientables con posibilidad de superposición).\nSistemas adicionales proporcionan estabilidad en vuelo de 3 ejes."
+    },
+    {
+      "titulo": "Misión",
+      "nivel": 2,
+      "texto": "El satélite se lanzó el 12 de febrero de 2005 a las 21:03 UT a bordo de un cohete Ariane-5 ECA desde el Centro Espacial de Guyana.\nSu órbita es geoestacionaria y su posición es la 29º E. Su altitud es de unos 35.800 km (35.782,6 km en el perigeo y 35.803,7 km en el apogeo), su inclinación es 0º, su período es 1.436,1 minutos y su semieje mayor es de 42.164 km.\nDurante su misión, el XTAR-EUR es monitorizado desde Arganda del Rey y la estación de Maspalomas. Sin embargo, las compañías operadoras están basadas en Washington D. C., Madrid y Palo Alto.\nSe espera que el satélite tenga una vida operativa superior a 15 años hasta que se produzca su baja, prevista para 2023."
+    }
+  ],
+  "num_palabras": 392
+}

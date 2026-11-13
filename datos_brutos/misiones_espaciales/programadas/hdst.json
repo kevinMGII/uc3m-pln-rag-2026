@@ -1,0 +1,42 @@
+{
+  "id": "doc_1660",
+  "titulo": "HDST",
+  "titulo_wikipedia_en": "Large Ultraviolet Optical Infrared Surveyor",
+  "fecha_lanzamiento": "2039",
+  "año_lanzamiento": 2039,
+  "estado": "programada",
+  "tipo_mision": [
+    "Telescopio espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/HDST",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Telescopio espacial",
+    "Operador": "NASA",
+    "Duración de la misión": "5 años (misión principal) (propuesta)\n10 años consumibles\nObjetivo de vida útil de 25 años para componentes no reparables",
+    "Fecha de lanzamiento": "2039 (propuesto)",
+    "Vehículo de lanzamiento": "SLS Block 2 (propuesto),\nSpaceX Starship (propuesto)",
+    "Sistema de referencia orbital": "Geocéntrica (2 puntos Lagrange",
+    "Diámetro del telescopio": "8-15 m",
+    "Longitudes de onda": "Ultravioleta, luz visible, infrarrojo cercano",
+    "Instrumentos": "LUVOIR",
+    "Instrumentos lista": "ECLIPS (Extreme Coronagraph for LIving Planetary Systems)\nHDI (High-Definition Imager)\nLUMOS (Espectrógrafo ultravioleta de objetos múltiples para el LUVOIR)\nPOLLUX (espectropolarímetro ultravioleta de alta resolución) (CNES)"
+  },
+  "resumen": "El Large Ultraviolet Optical Infrared Surveyor, comúnmente conocido como LUVOIR es un concepto de telescopio espacial de longitud de onda múltiple desarrollado por la NASA bajo el liderazgo de un equipo de ciencia y tecnología. Es uno de los cuatro grandes conceptos de misiones espaciales de astrofísica que se están estudiando en preparación por la National Academy of Sciences para la Astronomy and Astrophysics Decadal Survey. Si bien LUVOIR es un concepto para un observatorio de propósito general, tiene el objetivo científico clave de caracterizar una amplia gama de exoplanetas, incluidos aquellos que podrían ser habitables. Un objetivo adicional es permitir una amplia gama de astrofísica, desde la reionización, a través de la formación y evolución de galaxias, hasta la formación de estrellas y la formación de planetas. También serían posibles imágenes de gran alcance y observaciones espectroscópicas de los cuerpos del sistema solar. LUVOIR es parte de una de las misiones del Programa Flagship. El equipo de estudio de LUVOIR ha producido diseños para dos variantes de LUVOIR: una con un espejo telescópico de 15m de diámetro (LUVOIR-A) y uno con espejo de 8 m de diámetro (LUVOIR-B). LUVOIR podrá observar a través de la luz ultravioleta,la luz visible, el infrarrojo cercano y las longitudes de onda de luz. El informe final sobre el estudio del concepto de la misión LUVOIR de 5 años se publicó públicamente el 26 de agosto de 2019.",
+  "secciones": [
+    {
+      "titulo": "Desarrollo",
+      "nivel": 2,
+      "texto": ""
+    },
+    {
+      "titulo": "LUVOIR-A",
+      "nivel": 3,
+      "texto": "Un influyente grupo de astrónomos estadounidenses ha presentado su proyecto para diseñar el más grande y mejor telescopio espacial de la historia; El Telescopio Espacial de Alta Definición o HDST (posteriormente renombrado como LUVOIR-A) que estaría compuesto por 54 espejos segmentados con una apertura 12 metros, lo que ofrecerá imágenes 24 veces más nítidas que las del telescopio espacial Hubble.\nEl HDST sería cinco veces más grande y 100 veces más sensible que el Hubble, con un espejo de casi 12 metros de diámetro y orbitara en el Sol, a 1.600.000 km de la Tierra. El HDST sería lo suficientemente grande como para encontrar y estudiar las decenas de planetas similares a la Tierra que se encuentran más cercanos a la Tierra. Podría resolver objetos de sólo 300 años luz de diámetro — el núcleo de una pequeña galaxia o nube de gas en el camino a colapsar en una estrella y planetas, en el universo observable — y estaría equipado con un coronógrafo interno, un disco que bloquea la luz de la estrella central, por lo que un planeta oscuro será más visible, y tal vez con el tiempo, una herramienta para las estrellas que flotara kilómetros por delante del telescopio para realizar la misma función. La inversión en esta tecnología de supresión de la luz estelar ahora podría evitar los sobrecostos que llevaron a que el telescopio Webb casi fuese cancelado en 2011. Estimaciones de los costos iniciales indican una inversión de aproximadamente US$10 mil millones.\nEl voto a favor del telescopio se realizó en el “From Cosmic Birth to Living Earths,” un informe sobre el futuro de astronomía encargado por AURA, que dirige el Hubble y otros observatorios en nombre de la NASA y la Fundación Nacional de Ciencias.\nEl grupo de AURA está comenzando el proceso de selección a través del informe, donde se eligen y se financian grandes proyectos científicos. Cada 10 años, un comité de la Academia Nacional de Ciencias encuesta a la comunidad astronómica y produce una lista de deseos priorizados para la próxima década. Esta encuesta, que se producirá en el año 2020, ofrece una guía para el Congreso y la NASA.\nEl HDST podría finalmente responder a la pregunta de si los seres humanos estamos solos en el universo, analizando directamente las atmósferas de docenas de planetas extrasolares en busca de signos de vida. También podría cambiar radicalmente nuestra comprensión científica sobre la evolución del universo."
+    }
+  ],
+  "num_palabras": 639
+}

@@ -1,0 +1,29 @@
+{
+  "id": "doc_0484",
+  "titulo": "P 76-5",
+  "titulo_wikipedia_en": null,
+  "fecha_lanzamiento": "1976-05-22",
+  "año_lanzamiento": 1976,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite experimental",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/P_76-5",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Inactivo",
+    "Operador": "USAF",
+    "Fecha de lanzamiento": "22 de mayo de 1976",
+    "Lugar de lanzamiento": "Vandenberg",
+    "Vehículo de lanzamiento": "Scout",
+    "ID NSSDC": "1976-047A",
+    "Masa en el lanzamiento": "73 kg"
+  },
+  "resumen": "P 76-5 fue el nombre de un satélite artificial de la USAF lanzado el 22 de mayo de 1976 desde la base de Vandenberg mediante un cohete Scout.\nLa misión de P 76-5 era de la de realizar experimentos de propagación de señales de comunicación y de radar a través de plasma.",
+  "secciones": [],
+  "num_palabras": 52
+}

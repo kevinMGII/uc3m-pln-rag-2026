@@ -1,0 +1,26 @@
+{
+  "id": "doc_1478",
+  "titulo": "Topografía de aguas superficiales y océanos",
+  "titulo_wikipedia_en": "Surface Water and Ocean Topography",
+  "fecha_lanzamiento": "2022-12-16",
+  "año_lanzamiento": 2022,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Otro vuelo espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Topografía_de_aguas_superficiales_y_océanos",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {},
+  "resumen": "La misión Topografía de las Aguas Superficiales y Oceánicas (SWOT, por sus siglas en inglés), conocida en español como FODA; es un altímetro satelital desarrollado y operado conjuntamente por la NASA y el CNES, la agencia espacial francesa, en asociación con la Agencia Espacial Canadiense (CSA) y la Agencia Espacial del Reino Unido (UKSA). Los objetivos de la misión son:\nRealizar un estudio global de las aguas superficiales de la Tierra\nObservar los detalles de la topografía de la superficie del océano y\nMedir cómo las masas de agua superficiales terrestres cambian con el tiempo.\nMientras que misiones satelitales anteriores como los altímetros de la serie Jason ( TOPEX/Poseidon, Jason-1, Jason-2, Jason-3 ) han proporcionado variaciones en las elevaciones de la superficie del agua de ríos y lagos en ubicaciones seleccionadas, SWOT proporcionará las primeras observaciones verdaderamente globales de los cambios. Niveles de agua, pendientes de arroyos y extensiones de inundaciones en ríos, lagos y llanuras aluviales. En los océanos del mundo, el FODA observará la circulación oceánica a escalas sin precedentes de 15–25 kilómetros (9,3–15,5 mi), aproximadamente un orden de magnitud más fino que los satélites actuales. Lo hace mediante interferometría de radar de apertura sintética. Debido a que utiliza tecnología de altimetría de amplia franja, SWOT observará casi por completo los océanos y cuerpos de agua dulce del mundo con mediciones repetidas de elevación de alta resolución, lo que permitirá observar variaciones.",
+  "secciones": [
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "Los objetivos científicos de la misión son:\nLa misión de SWOT es realizar el primer estudio global de la superficie terrestre, midiendo con precisión los cambios en los cuerpos de agua a lo largo del tiempo. El satélite estudiará el 90% de la superficie terrestre, incluyendo lagos, ríos, reservas de agua y océanos al menos dos veces cada 21 días para mejorar los modelos de circulación oceánica y las predicciones meteorológicas y climáticas, así como para evaluar la gestión del agua dulce en todo el mundo[1][2][4][5].\nEl satélite lleva a bordo los siguientes instrumentos:\nKaRIn (Ka-band Radar Interferometer), un radar de apertura sintética en banda Ka.\nPoseidon-3C, un altímetro para medir a altura sobre o a superficie mariña.\nUn radiómetro de microondas para medir la cantidad de vapor de auga a lo largo del trayecto del altímetro para corrixir o atraso dos pulsos de radar.\nDORIS (Doppler Orbitography and Radiopositioning Integrated by Satellite), una antena para seguimiento Doppler y determinar con precisión la órbita del satélite y hacer correcciones al altímetro polos efectos de la ionosfera.\nGPSP (GPS Payload receiver), un receptor GPS para determinar la órbita con precisión.\nLRA (Laser Retroreflector Array), un retrorreflector láser para oel seguimiento desde las estaciones en tierra."
+    }
+  ],
+  "num_palabras": 438
+}

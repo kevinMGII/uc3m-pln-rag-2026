@@ -1,0 +1,48 @@
+{
+  "id": "doc_0498",
+  "titulo": "Cosmos 900",
+  "titulo_wikipedia_en": null,
+  "fecha_lanzamiento": "1977-03-29",
+  "año_lanzamiento": 1977,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de observación terrestre",
+    "Satélite (programa Cosmos)",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Cosmos_900",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Reentrado en la atmósfera",
+    "Tipo de misión": "Observación terrestre",
+    "Operador": "Unión Soviética",
+    "Fecha de lanzamiento": "29 de marzo de 1977",
+    "Lugar de lanzamiento": "Cosmódromo de Plesetsk",
+    "Vehículo de lanzamiento": "Kosmos 3",
+    "ID NSSDC": "1977-023A",
+    "Masa en el lanzamiento": "900 kg",
+    "Tipo de fin de misión": "Reingreso",
+    "Fecha de reentrada": "11 de octubre de 1979",
+    "Periapsis": "468km",
+    "Apoapsis": "530 km",
+    "Inclinación orbital": "83°",
+    "Periodo orbital": "94 m"
+  },
+  "resumen": "Cosmos 900 fue el nombre de un satélite científico soviético creado para el estudio de las regiones más cercanas de la magnetosfera, incluyendo las zonas polares.\nFue construido con el bus AUOS y lanzado bajo el programa Intercosmos de cooperación internacional el 29 de marzo de 1977 desde el cosmódromo de Plesetsk mediante un cohete Kosmos 3. Reentró en la atmósfera el 11 de octubre de 1979.",
+  "secciones": [
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "La misión de Cosmos 900 consistía en estudiar las capas altas de la atmósfera terrestre y también para el estudio de las regiones más cercanas de la magnetosfera, incluidas las zonas polares."
+    },
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "El satélite, de 900 kg de peso, llevaba diferentes experimentos, como un analizador de potencial retardado, una sonda de temperatura de electrones de alta frecuencia, una trampa iónica esférica, una sonda electrostática cilíndrica, un espectrómetro diferencial de energía, un espectrómetro electrostático panorámico, un contador de protones y electrones y un fotómetro auroral."
+    }
+  ],
+  "num_palabras": 151
+}

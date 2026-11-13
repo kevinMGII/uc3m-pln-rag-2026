@@ -1,0 +1,58 @@
+{
+  "id": "doc_0722",
+  "titulo": "KITSAT-1",
+  "titulo_wikipedia_en": "KITSAT-1",
+  "fecha_lanzamiento": "1992-08-10",
+  "año_lanzamiento": 1992,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/KITSAT-1",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Finalizado",
+    "Tipo de misión": "Demostración tecnológica",
+    "Operador": "SaTReC (KAIST Satellite Technology Research Center)",
+    "Duración planificada": "5 años",
+    "Nave": "KITSAT-1",
+    "Plataforma (bus)": "SSTL-70",
+    "Fabricante": "Surrey Satellite Technology (SSTL)",
+    "Masa en el lanzamiento": "48,6 kg",
+    "Dimensiones": "35,2 x 35,6 x 67cm",
+    "Fecha de lanzamiento": "10 de agosto de 1992 23:08:07 UTC",
+    "Vehículo de lanzamiento": "Ariane 42P H-10",
+    "Lugar de lanzamiento": "Centro Espacial Guayanés, ELA-2",
+    "Contratista del lanzamiento": "Arianespace",
+    "Sistema de referencia orbital": "Geocéntrica",
+    "Régimen orbital": "Órbita Baja Terrestre",
+    "Periapsis": "1316 km",
+    "Apoapsis": "1328 km",
+    "Inclinación orbital": "66,00°",
+    "Periodo orbital": "112 minutos",
+    "Programa": "Programa KITSAT",
+    "Misión siguiente": "KITSAT-2"
+  },
+  "resumen": "KITSAT-1 o KITSAT-A (Satélite del Instituto Coreano de Tecnología) es el primer satélite surcoreano lanzado. Una vez lanzado, el satélite recibió el sobrenombre de «Nuestra Estrella» ( 우리별 ). El KITSAT-1 opera en una órbita baja terrestre (LEO) de 1.316 km por 1.328 km. De los 12 satélites lanzados por Corea del Sur, el KITSAT-1 es el que se encuentra en la órbita más alta. Aunque el KITSAT-1 mantiene el equilibrio gracias a las fuerzas del gradiente gravitatorio, puede utilizarse el par magnético para controlar la posición en caso necesario. La vida útil prevista del KITSAT-1 era de sólo cinco años, pero la comunicación con el satélite se mantuvo durante 12 años. Desde el lanzamiento del KITSAT-1, Corea del Sur ha lanzado otros 36 satélites hasta 2020.",
+  "secciones": [
+    {
+      "titulo": "Descripción",
+      "nivel": 2,
+      "texto": "KITSAT-1 se considera un satélite pequeño o microsatélite. KITSAT-1 es el satélite de órbita terrestre baja más pequeño lanzado por Corea del Sur."
+    },
+    {
+      "titulo": "Instrumentos",
+      "nivel": 3,
+      "texto": "El sistema de computador de a bordo (OBC) del KITSAT-1 utiliza un OBC186 como OBC principal y un OBC80 como sistema de computador de a bordo de reserva.\nKITSAT-1 transportaba un Experimento de Almacenamiento y Comunicación Digital (Digital Store Forward Communication Experiment - DSFCE), un Sistema de Imágenes Terrestre CCD ( CCD Earth Imaging System - CEIS), un Experimento de Procesamiento de Señales Digitales (Digital Signal Processing Experiment - DSPE) y un Experimento de Rayos Cósmicos (Cosmic Ray Experiment - CRE).\nEl CCD Earth Imaging System está equipado con dos cámaras diferentes. Estas cámaras son una gran angular con una resolución de 4 km/píxel y una cámara de alta resolución con una resolución de 400 m/píxel. Las dos cámaras CCD del KITSAT-1 están situadas en la parte inferior del satélite, de modo que las cámaras deben apuntar siempre hacia la Tierra.\nA bordo había equipos para el Experimento de Rayos Cósmicos (CRE). El objetivo principal del experimento era vigilar y estudiar la radiación espacial en una órbita terrestre baja de 1.320 km. Estas mediciones de la radiación espacial debían realizarse a corto y largo plazo. El CRE es capaz de medir protones de alta energía, rayos cósmicos galácticos procedentes del espacio profundo y rayos cósmicos solares procedentes de erupciones solares.\nLa carga útil CRE consta de dos subsistemas. Los dos subsistemas son el Experimento de Partículas Cósmicas (CPE) y el Experimento de Dosis Total (TDE). El CPE se utiliza para medir el espectro de Transferencia Lineal de Energía (LET) en cortos periodos de tiempo, y el TDE se utiliza para medir la dosis total acumulada de radiación ionizante en largos periodos de tiempo."
+    },
+    {
+      "titulo": "Lanzamiento",
+      "nivel": 2,
+      "texto": "Lanzado en 1992, KITSAT-1, acrónimo de Korea Institute of Technology Satellite-1, fue el primer satélite desarrollado por SaTReC. Desarrollado mediante un programa de colaboración entre SaTReC y la Universidad de Surrey (Reino Unido), el principal objetivo del programa KITSAT-1 era adquirir tecnología de satélites mediante la formación y educación de ingenieros de satélites.\nKITSAT-1 se situó en una órbita de 1.320 km con una inclinación orbital de 66°. Esta órbita se encuentra justo dentro del cinturón interior de radiación de Van Allen.\nEl éxito del programa espacial KITSAT-1 marcó el inicio del desarrollo de la carrera espacial de Corea del Sur.\nKITSAT-1 fue lanzado desde el Centro Espacial Guayanés (CSG) el 10 de agosto de 1992 en un vehículo lanzador Ariane 42P H-10 junto con el satélite TOPEX/Poseidon de la NASA y el satélite S80/T de Francia. Su peso en el lanzamiento fue de 48,6 kg y sus dimensiones de 35,2 cm x 35,6 cm x 67 cm."
+    }
+  ],
+  "num_palabras": 581
+}

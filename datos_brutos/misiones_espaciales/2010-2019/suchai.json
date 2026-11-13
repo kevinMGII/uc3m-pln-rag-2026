@@ -1,0 +1,54 @@
+{
+  "id": "doc_1324",
+  "titulo": "Suchai",
+  "titulo_wikipedia_en": null,
+  "fecha_lanzamiento": "2017-06-23",
+  "año_lanzamiento": 2017,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Otro vuelo espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Suchai",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Inactivo",
+    "Tipo de misión": "Prototipo de uso científico y educacional",
+    "Operador": "Facultad de Ciencias Físicas y Matemáticas, Universidad de Chile",
+    "Fecha de lanzamiento": "23 de junio de 2017\nCentro Espacial Satish Dhawan, India",
+    "Duración planificada": "1 año",
+    "Configuración": "Cubesat de 1U",
+    "Masa en el lanzamiento": "1 kg",
+    "Dimensiones": "10x10x10 cm",
+    "Sistema de referencia orbital": "Baja (505 km de altitud), SSO",
+    "Instrumentos": "Sonda de Langmuir para estudio de la ionosfera",
+    "Tipo de fin de misión": "reingreso",
+    "Fecha de reentrada": "2018"
+  },
+  "resumen": "SUCHAI (de la sigla en inglés para Satellite of the University of Chile for Aerospace Investigation, «Satélite de la Universidad de Chile para la Investigación Aeroespacial»; y de la palabra en mapudungún suyai, «esperanza») es el primer satélite artificial diseñado y desarrollado localmente en Chile. Se trata de un nanosatélite de 1000 cm³ (volumen de 1 litro) y alrededor de 1 kg, construido bajo el estándar Cubesat por el Laboratorio de Exploración Espacial y Planetaria de la Facultad de Ciencias Físicas y Matemáticas de la Universidad de Chile.",
+  "secciones": [
+    {
+      "titulo": "Puesta en órbita",
+      "nivel": 2,
+      "texto": "SUCHAI-1 fue puesto en órbita por un cohete PSLV (PSLV-C38) de la Agencia India de Investigación Espacial, a las 09:30 (hora local) del 23 de junio de 2017, desde la primera plataforma del Centro Espacial Satish Dhawan, ubicado en Sriharikota, India."
+    },
+    {
+      "titulo": "El proyecto",
+      "nivel": 2,
+      "texto": "El proyecto, coordinado por el profesor Marcos Díaz Quezada, implicó una inversión de aproximadamente USD$ 150.000, aportada por la Universidad de Chile, muy inferior a la de un satélite tradicional, y tiene como principal objetivo la formación de profesionales con capacidad en el área de diseño y construcción satelital.\nEl día viernes 6 de octubre de 2023, aproximadamente a las seis de la mañana, hora de Chile Continental, SUCHAI 1 se desintegró en su intento de reingresar a la Tierra, luego de más de seis años en el espacio. El nanosatélite ya había terminado su misión en octubre de 2018, tras 457 días en operación."
+    },
+    {
+      "titulo": "Carga científica",
+      "nivel": 3,
+      "texto": "SUCHAI considera, fuera de los subsistemas de energía, comunicación y computador a bordo, la siguiente carga útil de investigación científica: una sonda Langmuir que se despliega a 5 cm de la superficie del satélite para estudiar los electrones de la ionósfera, un experimento de evaluación de electrónica fuera de equilibrio, un experimento termal (disipación del calor en aparatos eléctricos en ambientes de vacío y microgravedad), una pequeña cámara (que no puede ser orientada a voluntad, pero se espera tome imágenes de la Tierra) y un navegador GPS."
+    },
+    {
+      "titulo": "Futuro",
+      "nivel": 3,
+      "texto": "El Laboratorio de Exploración Espacial y Planetaria a principios del 2015 señaló que obtuvo recursos de fondos concursables de la Comisión Nacional de Investigación Científica y Tecnológica de Chile para desarrollar dos nuevos satélites tras SUCHAI. Estos nuevos satélites serán dos Cubesats de tres unidades (3U) con lo cual se conforma el primer programa espacial incubado en la Universidad de Chile. En esa misma fecha el subsecretario de Telecomunicaciones y coordinador de Comité de Ministros para el Desarrollo Espacial, Pedro Huichalaf, señaló que la iniciativa SUCHAI había significado un impulso adicional en la preparación de unas nuevas políticas públicas espaciales para Chile, que calificó como \"buenas noticias\" que debiera ser anunciada al público en el 2015."
+    }
+  ],
+  "num_palabras": 437
+}

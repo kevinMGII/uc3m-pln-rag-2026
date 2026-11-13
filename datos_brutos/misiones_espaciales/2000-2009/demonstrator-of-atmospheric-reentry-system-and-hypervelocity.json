@@ -1,0 +1,39 @@
+{
+  "id": "doc_0940",
+  "titulo": "Demonstrator of Atmospheric Reentry System and Hypervelocity",
+  "titulo_wikipedia_en": null,
+  "fecha_lanzamiento": "2002-02-04",
+  "año_lanzamiento": 2002,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Otro vuelo espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Demonstrator_of_Atmospheric_Reentry_System_and_Hypervelocity",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Inactivo",
+    "Tipo de misión": "Estudio de la reentrada",
+    "Operador": "ISAS (posteriormente JAXA)",
+    "Fecha de lanzamiento": "4 de febrero de 2002",
+    "Lugar de lanzamiento": "Centro Espacial de Tanegashima",
+    "Vehículo de lanzamiento": "H-2",
+    "ID NSSDC": "2002-003B"
+  },
+  "resumen": "Demonstrator of Atmospheric Reentry System and Hypervelocity (conocido por su acrónimo, DASH) fue una nave experimental perteneciente a la antigua agencia japonesa ISAS (ahora integrada en la Agencia Japonesa de Exploración Aeroespacial) lanzada el 4 de febrero de 2002 a bordo de un cohete H-2 desde el Centro Espacial de Tanegashima.",
+  "secciones": [
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "La misión de DASH fue probar el sistema de reentrada atmosférica de la sonda Hayabusa, destinada a estudiar el asteroide (25143) Itokawa y traer de vuelta a la Tierra muestras de material del asteroide."
+    },
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "La nave estaba formada por dos partes:\nla parte principal, con un motor de desorbitación de combustible sólido y dos cohetes de ajuste orbital.\nla cápsula de reentrada, de 0,4 m de diámetro y 0,2 m de alto y una masa de 16 kg.\nEl perfil de la misión incluía desorbitar la nave tres días tras su puesta en órbita y separar la cápsula de reentrada para que regresase a tierra a una velocidad de 10 km/s. Estaba previsto que cayese en Hodh el Gharbi, una región de Mauritania, pero la cápsula no se separó de la parte principal por un fallo en el cableado y la misión fracasó."
+    }
+  ],
+  "num_palabras": 194
+}

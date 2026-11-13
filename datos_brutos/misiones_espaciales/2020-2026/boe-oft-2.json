@@ -1,0 +1,45 @@
+{
+  "id": "doc_1456",
+  "titulo": "Boe-OFT-2",
+  "titulo_wikipedia_en": "Boeing Orbital Flight Test 2",
+  "fecha_lanzamiento": "2022-05-19",
+  "año_lanzamiento": 2022,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Estación espacial",
+    "Nave de carga a la ISS"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Boe-OFT-2",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Fabricante": "Boeing",
+    "Nave": "CST-100 Starliner",
+    "Duración de la misión": "6 días (planeado)",
+    "Vehículo de lanzamiento": "Atlas V N22",
+    "Lugar de lanzamiento": "Cabo Cañaveral, SLC-41",
+    "Fecha de aterrizaje": "TBA",
+    "Lugar de aterrizaje": "Campo de Misiles de Arenas Blancas",
+    "Inclinación orbital": "51.6°",
+    "Sistema de referencia orbital": "Geocéntrica",
+    "Régimen orbital": "Órbita baja terrestre",
+    "Programa": "Desarrollo de tripulación comercial",
+    "Misión anterior": "SpX Demo-2",
+    "Misión siguiente": "Boe-CFT",
+    "Programa (2)": "Starliner",
+    "Misión anterior (2)": "Boe-OFT",
+    "Misión siguiente (2)": "Boe-CFT",
+    "Acoplamiento": "objetivo acople: ISS | tipo acople: acople | puerto acople: Harmony frontal o cénit | tiempo acoplado: 4 días (planeado)"
+  },
+  "resumen": "La segunda prueba de vuelo orbital de Boeing (en inglés: Boeing Orbital Flight Test-2, abreviado Boe-OFT-2 o simplemente OFT-2) será la segunda misión orbital del Boeing CST-100 Starliner. Este vuelo sin tripulación será la repetición del primer vuelo que debido a varios fallos de seguridad grave durante su realización no consiguió los objetivos. El lanzamiento de la Starliner, deberá completar su acoplamiento a la Estación Espacial Internacional y su regreso a tierra firme en los Estados Unidos para conseguir la autorización para el vuelo Boe-CFT tripulado, necesario para la certificación de vuelos tripulados de la NASA, para que la nave de Boeing pueda llevar astronautas a la ISS en un futuro. Originalmente el lanzamiento estaba planeado para otoño de 2020, una serie de retrasos en el proyecto obligaron a posponerlo de manera indefinida. En la actualidad el lanzamiento está planeado para no antes del y se espera que la misión dure seis días.",
+  "secciones": [
+    {
+      "titulo": "Problemas en la primera misión",
+      "nivel": 2,
+      "texto": "Tras un lanzamiento sin inconvenientes, y tras separarse la nave Starliner del cohete Atlas V, la NASA informó que la nave no estaba en su órbita deseada. Un problema en el reloj de eventos de la misión forzó a la nave a quemar más propelente de lo planificado, forzando a Boeing y a NASA a abortar el encuentro con la Estación, planificando su retorno a la Tierra para el domingo 22 de diciembre. La nave logró ser puesta en una órbita estable de 216 por 186 km, planificándose una serie de pruebas mientras durase su estadía en el espacio. El administrador de la NASA, Jim Bridenstine, aseguró en ese momento que, de haber habido astronautas a bordo de la nave, ellos hubieran sabido lidiar con el problema, pudiendo haber tomado el control completo de la nave y de sus encendidos de motores.\n11\nUna investigación conjunta de la NASA y Boeing, reveló, el 7 de febrero de 2020, que se han identificado tres anomalías en la prueba de vuelo orbital:\nUn error con el reloj de misión transcurrida (MET), que fijo incorrectamente el tiempo del despegue del cohete Atlas V casi 11 horas antes del lanzamiento real.\nUn problema de software dentro de la secuencia de descarte del módulo de servicio (SM), que tradujo incorrectamente la secuencia de eliminación del SM al controlador de propulsión integrado (IPC) del SM.\nUn problema de enlace directo de espacio a tierra (S/G) intermitente, que impidió la capacidad del equipo de Control de Vuelo para comandar y controlar el vehículo.\nEl 6 de marzo de 2020, representantes de NASA y Boeing revelan que la investigación conjunta concluyó que Boeing debe tomar 61 acciones correctivas tras los problemas de la misión OFT, en los próximos meses, para así asegurar que, cuando decidan que la nave Starliner vuele en futuras misiones, lo haga de forma segura. Doug Loverro, administrador adjunto de la NASA para exploración humana y operaciones, señaló que, para la agencia, la misión fue calificada como «un incidente riesgoso de alta visibilidad», añadiendo que: \"Podemos estar de acuerdo en que fue un incidente grave. Pudimos haber perdido la nave en dos ocasiones durante la misión\". No obstante, no se concluyó si era necesario o no el repetir la prueba OFT.\nUn mes después de lo anterior, Boeing comunica que ha decidido repetir la prueba OFT, usando la cápsula destinada originalmente para la misión tripulada de prueba Boe-CFT."
+    }
+  ],
+  "num_palabras": 556
+}

@@ -1,0 +1,48 @@
+{
+  "id": "doc_0237",
+  "titulo": "Cosmos 219",
+  "titulo_wikipedia_en": "Kosmos 219",
+  "fecha_lanzamiento": "1968-04-26",
+  "año_lanzamiento": 1968,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de observación terrestre",
+    "Satélite (programa Cosmos)",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Cosmos_219",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Reentrado en la atmósfera",
+    "Tipo de misión": "Estudios de partículas",
+    "Fecha de lanzamiento": "26 de abril de 1968",
+    "Lugar de lanzamiento": "Cosmódromo de Kapustin Yar",
+    "Vehículo de lanzamiento": "Cosmos-2I",
+    "ID NSSDC": "1968-038A",
+    "Masa en el lanzamiento": "400 kg",
+    "Tipo de fin de misión": "reingreso",
+    "Fecha de reentrada": "2 de marzo de 1969"
+  },
+  "resumen": "Cosmos 219 (en cirílico, Космос 219) fue un satélite artificial científico soviético perteneciente a la clase de satélites DS (el segundo y último de tipo DS-U2-D) y lanzado el 26 de abril de 1968 mediante un cohete Cosmos-2I desde el cosmódromo de Kapustin Yar.",
+  "secciones": [
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "La misión de Cosmos 219 fue realizar estudios sobre la radiación en el espacio."
+    },
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "El satélite tenía una masa de 400 kg (aunque otras fuentes indican 300 kg) y fue inyectado inicialmente en una órbita con un perigeo de 222 km y un apogeo de 1770 km, con una inclinación orbital de 48,8 grados y un periodo de 104,62 minutos.\nCosmos 219 reentró en la atmósfera el 2 de marzo de 1969."
+    },
+    {
+      "titulo": "Resultados científicos",
+      "nivel": 2,
+      "texto": "Cosmos 219 realizó mediciones que llevaron a estudios sobre la intensidad de la radiación en el espacio. La órbita del cohete lanzador del satélite y su decaimiento también fue objeto de estudio."
+    }
+  ],
+  "num_palabras": 148
+}

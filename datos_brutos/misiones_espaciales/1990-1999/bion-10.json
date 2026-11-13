@@ -1,0 +1,43 @@
+{
+  "id": "doc_0729",
+  "titulo": "Bion 10",
+  "titulo_wikipedia_en": "Kosmos 2229",
+  "fecha_lanzamiento": "1992-12-29",
+  "año_lanzamiento": 1992,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite científico",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Bion_10",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Retornado a la Tierra",
+    "Tipo de misión": "Experimentos biológicos",
+    "Operador": "Academia de Ciencias de Rusia",
+    "Fecha de lanzamiento": "29 de diciembre de 1992",
+    "Lugar de lanzamiento": "Cosmódromo de Plesetsk",
+    "Vehículo de lanzamiento": "Soyuz",
+    "ID NSSDC": "1992-095A",
+    "Masa en el lanzamiento": "6000 kg",
+    "Tipo de fin de misión": "reingreso",
+    "Fecha de reentrada": "12 de enero de 1993"
+  },
+  "resumen": "Bion 10 (en ruso: Бион 10), también conocido como Cosmos 2229, fue el nombre de un satélite artificial ruso perteneciente a la serie de satélites Bion. Fue lanzado el 29 de diciembre de 1992 desde el cosmódromo de Plesetsk mediante un cohete Soyuz y regresó a la Tierra el 12 de enero de 1993. Contó con la participación de nueve países diferentes y de la ESA.",
+  "secciones": [
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "Bion 10 llevaba a bordo dos monos (Ivasha y Krosha) para el estudio de la adaptación de los organismos vivos a las condiciones del vuelo espacial. También portaba varios insectos, anfibios, plantas y cultivos celulares."
+    },
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "Bion 10 estaba basada, como todas las naves de la serie Bion, en los satélites de reconocimiento Zenit."
+    }
+  ],
+  "num_palabras": 119
+}

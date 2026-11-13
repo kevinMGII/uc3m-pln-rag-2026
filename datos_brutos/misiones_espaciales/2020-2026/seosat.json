@@ -1,0 +1,55 @@
+{
+  "id": "doc_1418",
+  "titulo": "SeoSat",
+  "titulo_wikipedia_en": "SEOSat-Ingenio",
+  "fecha_lanzamiento": "2020-11-17",
+  "año_lanzamiento": 2020,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de observación terrestre",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/SeoSat",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Destruido",
+    "Tipo de misión": "Observación de la Tierra",
+    "Operador": "INTA-CDTI",
+    "Fabricante": "Airbus Defence and Space",
+    "Fecha de lanzamiento": "17 de noviembre de 2020, 01:52 GMT",
+    "Lugar de lanzamiento": "Centro Espacial Guayanés",
+    "Vehículo de lanzamiento": "Vega",
+    "Duración planificada": "7 años",
+    "Configuración": "Hexagonal",
+    "Masa en el lanzamiento": "700 kg",
+    "Propulsión": "Hidrazina",
+    "Sistema de referencia orbital": "Órbita terrestre baja"
+  },
+  "resumen": "El SeoSat (Spanish Earth Observation Satellite) o Ingenio era un satélite artificial español de observación de la Tierra que debía proporcionar imágenes ópticas multiespectrales de alta resolución a diferentes organismos, civiles e institucionales del gobierno español. Este satélite formaba parte del programa PNOTS y fue financiado por el gobierno español, quien mantuvo responsabilidad total en el desarrollo financiero y programático.",
+  "secciones": [
+    {
+      "titulo": "Historia",
+      "nivel": 2,
+      "texto": "En 2007 se llegó a un acuerdo entre la Agencia Espacial Europea (ESA) y el Centro para el Desarrollo Tecnológico Industrial español (CDTI), en el cual la ESA daría soporte técnico y de gestión a la fase de implementación del sector terrestre así como del segmento espacial de SeoSat/Ingenio. Siguiendo las normas de adjudicación de la ESA, ESA y CDTI seleccionaron a CASA Espacio como contratista principal para el desarrollo de las fases B/C/D/E1 del segmento espacial de SeoSat. Astrium CASA Espacio es la principal empresa del sector espacial español por lo que, debido a sus capacidades y desarrollo industrial espacial cumple con las características necesarias para afrontar el desarrollo e integración de las exigencias que requiere un programa espacial como es el del satélite SeoSat/Ingenio.\nSeoSat/Ingenio era el primer satélite español de observación terrestre que proporcionaría principalmente imágenes ópticas de alta resolución multiespectral de España. Las diferentes imágenes serían utilizadas por las instituciones civiles españolas y usuarios del gobierno, además de potencialmente una potente capacidad operacional el GMES (Global Monitoring for Environment and Security) y GEOSS (Globar Earth Observation System of Systems) con prioridades en las zonas de América del Sur y central así como el norte de África.\nLa misión diseñada por CASA Espacio proporcionaría imágenes ópticas de gran resolución multiespectral, dando servicios de cartografía, gestión urbanística, agricultura, mapeo forestal, gestión acuífera, monitorización del entorno, y gestión de los riesgos y la seguridad durante un periodo de misión de al menos 7 años. El satélite SeoSat/Ingenio estaba caracterizado por una configuración modular permitiendo el desarrollo en paralelo e integración de los diferentes subsistemas que lo componen. El programa SeoSat/Ingenio se desarrollaba en las instalaciones de CASA Espacio en las cuales se integraba en su totalidad.\nSeoSat/Ingenio ha generado una gran malla industrial ya que en su desarrollo participaron importantes empresas consolidadas en el sector espacial y aeroespacial español, así como ha impulsado el desarrollo de diferentes empresas en el negocio espacial, tales como Crisa, Deimos Space, GMV, HV Sistemas, Thales Alenia Space España, Inventia Kinetics, INTA, Iberespacio, Indra (segmento de tierra). La aportación de todas estas empresas ha potenciado el desarrollo del negocio espacial español acercando a España a las primeras potencias espaciales europeas."
+    },
+    {
+      "titulo": "Lanzamiento",
+      "nivel": 2,
+      "texto": "Su lanzamiento estuvo previsto en 2013, 2015 y 2017, sin que se realizara. En 2016 estaba previsto para 2018.\nTras su traslado el 23 de septiembre de 2020 desde la Base Aérea de Torrejón de Ardoz (Madrid) hasta el Centro Espacial Guayanés de Kourou, el satélite SeoSat fue lanzado junto con el satélite francés TARANIS a las 01:52 GMT del 17 de noviembre de ese mismo año mediante un cohete Vega. El vuelo tenía previsto desplegar los dos satélites en sendas órbitas heliosíncronas muy similares a unos 670 km (empezando a los 54 minutos hasta los 102 después del despegue), tras lo cual la etapa superior se habría encendido de nuevo para volver a entrar en la atmósfera terrestre. Sin embargo, el cohete se desvió de su trayectoria ocho minutos después del lanzamiento, provocando la irremediable pérdida del satélite."
+    },
+    {
+      "titulo": "Carga útil principal",
+      "nivel": 2,
+      "texto": "La carga útil del satélite, desarrollada por SENER, era un instrumento multiespectral con alta resolución en amplia franja. En el territorio español tomaría imágenes de 55 km de ancho, con el instrumento que estaba compuesto por un canal pancromático y cuatro canales espectrales."
+    },
+    {
+      "titulo": "Carga útil complementaria",
+      "nivel": 2,
+      "texto": "De los tres instrumentos científicos aprobados inicialmente (SENSOSOL, UVAS y TTT), únicamente el primero viajaba a bordo de Ingenio."
+    }
+  ],
+  "num_palabras": 627
+}

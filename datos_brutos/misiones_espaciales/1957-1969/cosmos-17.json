@@ -1,0 +1,47 @@
+{
+  "id": "doc_0085",
+  "titulo": "Cosmos 17",
+  "titulo_wikipedia_en": "Kosmos 17",
+  "fecha_lanzamiento": "1963-05-22",
+  "año_lanzamiento": 1963,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite (programa Cosmos)",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Cosmos_17",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Reentrado en la atmósfera",
+    "Tipo de misión": "Militar / científico",
+    "Fecha de lanzamiento": "22 de mayo de 1963",
+    "Lugar de lanzamiento": "Kapustin Yar",
+    "Vehículo de lanzamiento": "Kosmos-2I",
+    "ID NSSDC": "1963-017A",
+    "Masa en el lanzamiento": "322 kg",
+    "Tipo de fin de misión": "reingreso",
+    "Fecha de reentrada": "2 de junio de 1965"
+  },
+  "resumen": "Cosmos 17 (en cirílico, Космос 17) fue un satélite artificial soviético perteneciente a la clase de satélites DS y lanzado el 22 de mayo de 1963 mediante un cohete Kosmos-2I desde Kapustin Yar.",
+  "secciones": [
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "El objetivo de Cosmos 17 fue realizar experimentos de comunicación y navegación para cubrir las necesidades de las fuerzas nucleares soviéticas. También realizó estudios sobre rayos cósmicos, sobre la radiación proveniente de las pruebas nucleares, sobre los cinturones de radiación y sobre la ionosfera."
+    },
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "Cosmos 17 tenía una masa de 322 kg y reentró en la atmósfera el 2 de junio de 1965. Para los estudios ionosféricos empleó un transmisor Mayak funcionando a 20,005 MHz. El satélite fue inyectado en una órbita con un perigeo de 251 km y un apogeo de 658 km, con una inclinación orbital de 48,9 grados y un período de 93,7 minutos."
+    },
+    {
+      "titulo": "Resultados",
+      "nivel": 2,
+      "texto": "Entre los resultados obtenidos por Cosmos 17 se encuentran los datos obtenidos sobre los cinturones de radiación de la Tierra y sobre los rayos cósmicos."
+    }
+  ],
+  "num_palabras": 165
+}

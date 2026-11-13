@@ -1,0 +1,42 @@
+{
+  "id": "doc_0170",
+  "titulo": "AS-203",
+  "titulo_wikipedia_en": "AS-203",
+  "fecha_lanzamiento": "1966-07-05",
+  "año_lanzamiento": 1966,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/AS-203",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Vehículo de lanzamiento": "Saturno IB",
+    "Nave": "AS-203",
+    "Misión anterior": "Apolo 1A",
+    "Misión siguiente": "Apolo 3",
+    "Programa": "Apolo"
+  },
+  "resumen": "AS-203 (también conocido como SA-203 o Apolo 2) fue un vuelo sin tripulación del cohete Saturno IB el 5 de julio de 1966. No llevaba ningún módulo de mando y servicio, ya que su propósito era verificar el diseño de la capacidad de reinicio de la etapa del cohete S-IVB que luego se usaría en el programa Apolo para impulsar a los astronautas desde la órbita terrestre a una trayectoria hacia la Luna. Logró sus objetivos, pero el escenario fue destruido accidentalmente después de cuatro órbitas.",
+  "secciones": [
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "El propósito del vuelo del AS-203 fue investigar los efectos de la ingravidez en el combustible de hidrógeno líquido en el tanque de segunda etapa S-IVB-200. Las misiones lunares utilizarían una versión modificada del S-IVB-200, el S-IVB-500, como la tercera etapa del vehículo de lanzamiento Saturno V. Esto requirió que el escenario se disparara brevemente para poner la nave espacial en una órbita terrestre estacionaria, antes de reiniciar el motor para volar a la Luna. Para diseñar esta capacidad, los ingenieros necesitaban verificar que las medidas anti-salpicaduras diseñadas para controlar la ubicación del hidrógeno en el tanque fueran adecuadas, y que las líneas de combustible y los motores pudieran mantenerse a las temperaturas adecuadas para permitir el reinicio del motor.\nPara mantener los propulsores residuales en los tanques en órbita, no habría carga útil del módulo de mando y servicio como había en AS-201 y AS-202. Este fue reemplazado por un cono de nariz aerodinámico. Además, la carga completa de oxidante de oxígeno líquido se acortó levemente para que la cantidad de hidrógeno restante se aproximara a la de la órbita estacionaria del Saturno V. El tanque estaba equipado con 88 sensores y dos cámaras de televisión para registrar el comportamiento del combustible.\nEste también fue el primer lanzamiento de un Saturno IB de la plataforma 37B."
+    },
+    {
+      "titulo": "Preparación",
+      "nivel": 2,
+      "texto": "En la primavera de 1966, se tomó la decisión de lanzar el AS-203 antes que el AS-202, ya que el CSM que iba a volar en el AS-202 se retrasó. La etapa S-IVB llegó a Cabo Kennedy el 6 de abril de 1966; la primera etapa S-IB llegó seis días después, y la Unidad de Instrumentos llegó dos días después.\nEl 19 de abril, los técnicos comenzaron a montar el amplificador en la plataforma 37B. Una vez más, el régimen de prueba encontró problemas que habían afectado a AS-201, incluidas las juntas de soldadura agrietadas en las placas de circuito impreso, que requirieron el reemplazo de más de 8000.\nEn junio de 1966, se podían ver tres cohetes Saturno instalados en varias plataformas a lo largo del Cabo: en la plataforma 39A había una maqueta de tamaño completo del Saturno V; AS-202 estaba en la plataforma 34; y AS-203 estaba en la 37B."
+    },
+    {
+      "titulo": "Vuelo",
+      "nivel": 2,
+      "texto": "El cohete se lanzó en el primer intento el 5 de julio. El S-IVB y la Unidad de Instrumentos (UI) se insertaron en una órbita circular de 185,2 km.\nLos objetivos de la prueba de diseño del S-IVB se llevaron a cabo en las dos primeras órbitas, y se descubrió que el hidrógeno se comportaba principalmente como se predijo, con suficiente control sobre su ubicación y las temperaturas del motor necesarias para el reinicio. Las siguientes dos órbitas se utilizaron para experimentos adicionales para obtener información para su uso en futuros diseños de etapas criogénicas. Estos incluyeron un experimento en costa libre para observar y controlar la aceleración negativa del combustible causada por la pequeña cantidad de resistencia aerodinámica del vehículo; una prueba rápida de despresurización del tanque de combustible; y una prueba de presurización del tanque de combustible cerrado.\nEl experimento del tanque de combustible cerrado implicó presurizar el tanque de hidrógeno cerrando sus respiraderos, mientras se despresuriza el tanque de oxígeno al permitir que continúe ventilando. Se esperaba que la diferencia de presión entre los dos tanques (medida tan alta como 271,7 kPa) colapsara el mamparo común que los separa, como sucedió en una prueba en tierra. La ruptura debe haber ocurrido durante la pérdida de señal de dos minutos entre el Centro de naves espaciales tripuladas y la estación de seguimiento de Trinidad. La imagen del radar de Trinidad indicaba que el vehículo estaba dividido en varias piezas y que la telemetría nunca se recuperó. La NASA concluyó que una chispa o un impacto debieron haber encendido los propulsores, provocando una explosión.\nA pesar de la destrucción del escenario, la misión fue catalogada como un éxito, habiendo logrado todos sus objetivos principales y validando el concepto de diseño de la versión reiniciable S-IVB-500. En septiembre, Douglas Aircraft Company, que construyó el S-IVB, declaró que el diseño estaba listo para usarse en el Saturno V para enviar hombres a la Luna."
+    }
+  ],
+  "num_palabras": 779
+}

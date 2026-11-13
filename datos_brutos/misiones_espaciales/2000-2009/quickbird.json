@@ -1,0 +1,41 @@
+{
+  "id": "doc_0931",
+  "titulo": "QuickBird",
+  "titulo_wikipedia_en": "QuickBird",
+  "fecha_lanzamiento": "2001-10-18",
+  "año_lanzamiento": 2001,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de observación terrestre",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/QuickBird",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Fallido",
+    "Tipo de misión": "Teledetección.",
+    "Operador": "DigitalGlobe",
+    "Fecha de lanzamiento": "18 de octubre de 2001",
+    "Lugar de lanzamiento": "Base Vandenberg de la Fuerza Aérea, California",
+    "Vehículo de lanzamiento": "Delta II",
+    "Masa en el lanzamiento": "1028 kg",
+    "Ancho de banda": "Carga de datos:320 Mbit/s banda X,\nHousekeeping: X-band from 4,16 and 256 kbit/s,\n2 kbit/s S-band uplink"
+  },
+  "resumen": "El QuickBird es un satélite comercial de teledetección propiedad de DigitalGlobe que fue puesto en órbita el 18 de octubre de 2001 con un cohete Delta II, fabricado por Boeing desde la Base de la Fuerza Aérea de Vandenberg, en California, a las 11:51 de la mañana.\nEn realidad QuickBird no fue el primero, sino que tuvo un antecesor que fue destruido al no alcanzar el cohete la órbita deseada y la misión fracasó, aumentando considerablemente los costes y dejando a DigitalGlobe en un punto muy incierto e inseguro, pero el segundo intento fue fructuoso y satisfactorio.\nEn esta ocasión, el Delta-7320-10 (288) realizó exitosamente su misión, colocando en la trayectoria esperada al QuickBird-2. Construido sobre una plataforma BCP2000, de la empresa Ball, el satélite pesó 1028 kg al lanzamiento y quedó situado en una órbita polar heliosincrónica a unos 465 km de la superficie terrestre.\nEl lanzamiento del QuickBird significó un enorme auge para DigitalGlobe en su cuota de mercado, multiplicando sus clientes a un servicio tan innovador como es el de la fotografía a tan alta resolución de cualquier parte del planeta, e incluso estuvo en un par de veces subvencionada por la CIA.\nEl satélite estana preparado para recolectar a 1 m de resolución, pero luego de una licencia obtenida en 2000, por el Departamento de Comercio/NASA, DigitalGlobe pudo lanzar el QuickBird II con una recolución de 6,1 dm pancromática y 24 dm multiespectral (originalmente planeado con una resolución de 4 m.",
+  "secciones": [
+    {
+      "titulo": "Extensión de la Misión",
+      "nivel": 2,
+      "texto": "En abril de 2011, el Quickbird fue puesto desde una órbita de 450 km a 482 km. Ese proceso, arrancado en marzo de 2001, extendió la vida útil del satélite. Antes de la operación se esperaba que la vida útil de Quickbird cayera hacia mediados de 2012, pero después de la exitosa misión, la nueva órbita prolongó la vida del satélite hasta principios de 2015."
+    },
+    {
+      "titulo": "Decaimiento",
+      "nivel": 2,
+      "texto": "La última imagen adquirida fue el 17 de diciembre de 2014 y QuickBird reentró a la atmósfera terrestre el 27 de enero de 2015."
+    }
+  ],
+  "num_palabras": 334
+}

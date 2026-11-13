@@ -1,0 +1,79 @@
+{
+  "id": "doc_1055",
+  "titulo": "TerraSAR-X",
+  "titulo_wikipedia_en": "TerraSAR-X",
+  "fecha_lanzamiento": "2007-06-15",
+  "año_lanzamiento": 2007,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de observación terrestre",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/TerraSAR-X",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Observación de la Tierra",
+    "Fecha de lanzamiento": "15 de junio de 2007 con cohete Dnepr Cosmódromo de Baikonur, Kazajistán",
+    "Masa en el lanzamiento": "1.230 kg",
+    "Sistema de referencia orbital": "Órbita terrestre baja a 514 km.",
+    "Inclinación orbital": "97,44°",
+    "Periodo orbital": "94,92 minutos"
+  },
+  "resumen": "TerraSAR-X es un satélite radar de observación de la Tierra construido en el marco de la colaboración público-privada entre el Centro Aeroespacial Alemán (DLR) y EADS Astrium. TerraSAR-X fue lanzado el 15 de junio de 2007 y está operativo desde enero de 2008. Junto con su satélite gemelo TanDEM-X, lanzado el 21 de junio de 2010, TerraSAR-X ha adquirido la base de datos WorldDEM, el Modelo Digital de Elevación global. Los derechos de explotación comercial exclusivos son propiedad de Airbus Defence and Space.",
+  "secciones": [
+    {
+      "titulo": "Satélite y misión",
+      "nivel": 2,
+      "texto": "Diseñado para llevar a cabo su tarea durante cinco años, TerraSAR-X se desplaza sobre una órbita polar, crepuscular y heliosíncrona a 514 km de altitud. Se desplaza a lo largo del límite entre día y noche de la Tierra, y presenta siempre la misma cara hacia el Sol para obtener un suministro energético constante. Proporciona de forma fiable imágenes radar con una resolución que puede alcanzar 1m, con independencia de las condiciones meteorológicas y lumínicas. Su tiempo de acceso a cualquier lugar de la Tierra es de dos días y medio como máximo (dos días con un 95% de probabilidad). La longitud de onda de la antena Banda X es de 31mm y su frecuencia es de 9,6 GHz."
+    },
+    {
+      "titulo": "Ventajas de la tecnología radar",
+      "nivel": 2,
+      "texto": "Los sensores radar funcionan independientemente de la cobertura nubosa y de las condiciones lumínicas. Las adquisiciones pueden llevarse a cabo en cualquier momento del día o de la noche. Pueden realizarse diferentes análisis, como el SAR, la polarización o la interferometría."
+    },
+    {
+      "titulo": "TanDEM-X, WorldDEM y PAZ",
+      "nivel": 2,
+      "texto": "Satélite gemelo de TerraSAR-X, TanDEM-X se situó el 21 de junio de 2010 sobre la misma órbita en formación cerrada, a una distancia de unos centenares de metros. Esta constelación única de satélites permite la generación de WorldDEM ™, el Modelo Digital de Elevación (MDE) global y homogéneo. Disponible a partir de 2014, WorldDEM ofrece una precisión vertical relativa de 2m y absoluta de 10m, con mosaicos de 12 por 12 metros.\nEl satélite español PAZ (operador: Hisdesat) se situará sobre la misma órbita que TerraSAR-X a inicios de 2014. Juntos, los satélites forman una constelación con una cobertura y una capacidad optimizada significativa."
+    },
+    {
+      "titulo": "Innovaciones con TerraSAR X",
+      "nivel": 2,
+      "texto": "TerraSAR-X aporta algunas novedades técnicas e industriales. Una de estas innovaciones es una especie de imagen con zum, con una resolución y una extensión intercambiables en una relación 1:10. Es decir, puede adquirir un área más grande con menos resolución o una más pequeña con la máxima resolución posible.\nAdemás, la antena puede alinearse de forma electrónica dentro de un rango de ángulo, de modo que el punto de vista es ajustable. Los satélites radar anteriores solo pueden orientar la antena en una dirección."
+    },
+    {
+      "titulo": "Digitalización y trayectoria",
+      "nivel": 2,
+      "texto": "Gracias al sensor radar ajustable, junto con otros ajustes de trayectoria (precesión por el achatamiento de la Tierra), cualquier lugar del planeta puede observarse en un plazo de uno a tres días.\nPara cualquier punto específico sobre el ecuador de la Tierra, TerraSAR-X dispone de un ciclo de revisita de 11 días. El plazo de revisita disminuye hacia los polos. Por ejemplo, el norte de Europa tiene un plazo de revisita de entre tres y cuatro días, normalmente."
+    },
+    {
+      "titulo": "Segmento de tierra",
+      "nivel": 2,
+      "texto": "Los controles y el mecanismo de operación en tierra de TerraSAR-X fueron desarrollados por el DLR en Oberpfaffenhofen. Están compuestos por el Equipo Operativo de la Misión, el Segmento de Tierra de Carga Útil, y el Segmento de Calibración y Operación del Instrumento. Los organismos responsables del desarrollo del segmento de tierra son el Centro Alemán de Operaciones Espaciales (GSOC, por sus siglas en inglés), el Centro Alemán de Datos por Sensor Remoto (DFD, por sus siglas en alemán), así como Institutos para Metodología de Sensor Remoto (MF, por sus siglas en alemán) y el Instituto para Ingeniería de Alta Frecuencia y Sistemas Radar (HR, por sus siglas en alemán), que forman parte del DLR."
+    },
+    {
+      "titulo": "Aplicaciones",
+      "nivel": 2,
+      "texto": "Entre las aplicaciones de las imágenes radar en alta resolución de TerraSAR-X se incluyen:\nCartografía topográfica: actualizaciones cartográficas en 2D y 3D, a escalas de hasta 1:25.000.\nMovimiento de superficie: gracias a las diferentes imágenes adquiridas por TerraSAR-X sobre la misma área a lo largo del tiempo, pueden detectarse desplazamientos en la superficie provocados por minería en la subsuperficie, extracción de petróleo o gas, construcción de infraestructuras o ingeniería subterránea[2].\nDetección de cambios: supervisión de proyectos de construcción a gran escala y redes de infraestructuras, seguimiento y documentación de cambios y desarrollos.\nCobertura terrestre y cartografía del uso de la tierra: informaciones precisas y actualizadas sobre cobertura terrestre y uso de la tierra, también sobre lugares donde resulta difícil recabar informaciones mediante el uso de otras tecnologías a causa de una cobertura nubosa permanente.\nAplicaciones de defensa y seguridad: entre las aplicaciones se incluye la planificación efectiva de misiones, la evaluación rápida de desastres naturales o provocados por el hombre, o el control de fronteras a través de la detección de rutas (cambios), vallas y objetos móviles.\nRespuesta inmediata en caso de emergencia: gracias a su breve plazo de revisita, TerraSAR-X es una fuente fiable de información en caso de desastres naturales o provocados por el hombre (por ejemplo, terremotos, inundaciones, conflictos bélicos, etc.). El satélite proporciona información fiable para gestionar tanto el desastre como la respuesta, que permite reconocer y evaluar los daños sobre áreas habitadas e infraestructuras viales, identificar áreas concretas, y coordinar las acciones de rescate de forma eficiente.\nAplicaciones medioambientales: por ejemplo, aplicaciones de supervisión de bosques, inundaciones o calidad del agua\nActualmente, se están evaluando otras aplicaciones: supervisión del tráfico, aplicaciones marítimas, supervisión de la vegetación"
+    },
+    {
+      "titulo": "Uso científico de los datos TerraSAR-X",
+      "nivel": 2,
+      "texto": "El DLR coordina el uso científico de los datos TerraSAR-X a través del Sistema del Servicio Científico de TerraSAR-X. Los nuevos datos de calidad que suministra TerraSAR-X ofrecen una enorme cantidad de incentivos para emprender nuevas investigaciones, por ejemplo en los ámbitos de la ecología, la geología, la hidrología y la oceanografía. Los movimientos más pequeños de la superficie de la Tierra (tectónica de placas, vulcanismo, terremotos) son otros campos científicos de aplicación."
+    },
+    {
+      "titulo": "Uso comercial de los datos TerraSAR-X",
+      "nivel": 2,
+      "texto": "Para garantizar el éxito comercial de la misión, EADS Astrium fundó en 2001 Infoterra, una filial que controla al 100 %. Esta compañía es responsable de desarrollar un mercado comercial para los datos TerraSAR-X, así como para los productos y servicios de geoinformación basados en TerraSAR-X.\nRADAR significa Radio Detection and Ranging (Detección y Medición de Distancias por Radio), y normalmente contiene:\nMedición de distancias (EDM) por medio del tiempo que tarda el reflejo de una señal en regresar;\nMedición de direcciones a través del ajuste de la antena y, recientemente, también análisis diferentes como SAR, polarización, interferometría, etc.\nLos satélites con tecnología radar son todavía relativamente nuevos en comparación con los sistemas ópticos de cámara. La resolución (nitidez del detalle) es en principio más baja, pero el radar tiene otras ventajas: no depende de la iluminación y las condiciones meteorológicas, de modo que las adquisiciones pueden llevarse a cabo en cualquier momento del día o de la noche, y con independencia de la cobertura nubosa. Esto contribuye significativamente a la fiabilidad del sistema, una propiedad indispensable para muchas aplicaciones y usuarios.\nLas técnicas de los primeros satélites radar fueron, entre otras, la altimetría (altura sobre el nivel del mar), como en el caso del satélite SEASAT de la NASA (lanzado en 1978), dedicado a medir la velocidad y la dirección de las olas y el viento, y obtener datos del suelo. Hoy en día, por ejemplo, podemos medir la velocidad de otros satélites en mm/seg con exactitud (GRACE) y la lenta deformación de los volcanes. Las fuerzas armadas de muchos países han utilizado el radar desde finales de los años 30 y los satélites RADAR como mínimo desde 1978."
+    },
+    {
+      "titulo": "Pros y contras de la tecnología del radar",
+      "nivel": 2,
+      "texto": "Búsqueda de alcance (EDM) en función del tiempo que la señal reflectada necesitaba para regresar.\nMedidas de dirección sobre el ajuste de la antena, y recientemente,\ntambién diferentes análisis de SAR, polarización, Interferidor, etc.\nLos satélites con tecnología de radar son relativamente nuevos comparados con los sistemas de cámaras ópticas. La resolución es en principio pequeña, pero el radar tiene otras ventajas: la reducción de frecuencia, hace más fácil la penetración de radiaciones en la superficie terrestre incluyendo la vegetación y minerales para encontrar elementos desconocidos (minas, minerales,...).\nLos primeros satélites con tecnología radar fueron el altímetro, el SEASAT de la NASA (lanzado en 1978), control de ondas, viento o minerales. Hoy en día podemos hasta controlar la velocidad de los satélites en mm/seg (GRACE), y las más leves deformaciones de volcanes. Los militares han utilizado radares desde finales de los treinta y los satélites RADAR al menos desde 1978."
+    }
+  ],
+  "num_palabras": 1408
+}

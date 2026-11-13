@@ -1,0 +1,58 @@
+{
+  "id": "doc_0865",
+  "titulo": "EUTELSAT 115 West A",
+  "titulo_wikipedia_en": null,
+  "fecha_lanzamiento": "1998-12-05",
+  "año_lanzamiento": 1998,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Otro vuelo espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/EUTELSAT_115_West_A",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Activo",
+    "Tipo de misión": "Satélite de comunicaciones",
+    "Operador": "Eutelsat Americas",
+    "Plataforma (bus)": "HS-601HP (Boeing 601HP)",
+    "Fecha de lanzamiento": "5 de diciembre de 1998",
+    "Lugar de lanzamiento": "ELA-2, Centro Espacial de Guayana",
+    "Vehículo de lanzamiento": "Ariane 4 42L",
+    "Duración planificada": "15 años",
+    "ID NSSDC": "1998-070A",
+    "Masa en el lanzamiento": "1.950 kg",
+    "Dimensiones": "26 m x 9.4 m",
+    "Potencia": "8 kW (32 baterías NiH)",
+    "Propulsión": "Motor de apogeo líquido",
+    "Sistema de referencia orbital": "Geoestacionaria",
+    "Periapsis": "35,783.3 km",
+    "Apoapsis": "35,803.6 km",
+    "Inclinación orbital": "0.0°",
+    "Periodo orbital": "1,436.1 min",
+    "Órbita RAAN": "114.9 Oeste",
+    "Trans nombre": "48",
+    "Banda de transmisión": "Banda Ku, Banda C"
+  },
+  "resumen": "El EUTELSAT 115 West A (antes Satmex 5) es un satélite de comunicaciones mexicano construido por la entonces Hughes Space and Communications Company (ahora Boeing Space and Intelligence Systems) para la operadora satelital Satmex. El 2 de enero de 2014 Satmex pasa a formar parte de Eutelsat, cambiando su nombre a Eutelsat Americas y cambiando los nombres de toda su flota satelital.\nSatmex 5 fue solicitado en agosto de 1996 y construido en la \"Integrated Satellite Factory\" propiedad de Hughes, en California. Al igual que con los programas Morelos y Solidaridad, el equipo de trabajo estuvo conformado por personal de Hughes e ingenieros mexicanos, México envió a más de 10 ingenieros para participar en el diseño e integración del satélite.\nDebido a su capacidad de transmisión, permite que los servicios direct-to-home sean recibidos por antenas terrestres de 60 centímetros o más pequeñas.\nEl 27 de enero de 2010, Satmex informó de una falla en el sistema de propulsión primario (XIPS), el cual lo mantenía en órbita, sin embargo continuó en operaciones debido a que entró en funciones el sistema de propulsión químico de respaldo, que tiene una duración de 2.5 años; debido a esto, Satmex solicitó la construcción del Satmex 8 que eventualmente reemplazará al Satmex 5.",
+  "secciones": [
+    {
+      "titulo": "Objetivo",
+      "nivel": 2,
+      "texto": "Ofrecer servicios mejorados de: Comunicacionales, entre otros, con alto rendimiento y confiabilidad."
+    },
+    {
+      "titulo": "Lanzamiento",
+      "nivel": 2,
+      "texto": "El 5 de diciembre de 1998 a las 19:43 UTC, el Satmex 5 fue lanzado al espacio a bordo de un vehículo Ariane 4 42L desde el Puerto espacial de Kourou en la Guyana Francesa, ocupando la órbita 116.8°W."
+    },
+    {
+      "titulo": "Especificaciones",
+      "nivel": 2,
+      "texto": "Operador: Eutelsat Americas\nFabricante: Hughes Space and Communications Company\nModelo: HS-601HP (Boeing 601HP)\nDimensiones: 26 m largo x 9.4 m ancho\nPeso: 1,950.0 kg\nTranspondedores: Banda Ku: 24 (132.5w), Banda C: 24 (36w)\nPotencia: 8 kW\nBaterías: 32 baterías NiH, 4 paneles solares con celdas de GaAs\nPropulsión: Motor de apogeo de combustible líquido (Xenón-Ion, primario), 110 Lbf\nEstabilización: Tri-axial\nPosición orbital: 114.9°\nTiempo de vida: 15 años\nOtros nombres: Morelos 3, 25558, Satmex 5"
+    }
+  ],
+  "num_palabras": 333
+}

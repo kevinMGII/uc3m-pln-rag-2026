@@ -1,0 +1,29 @@
+{
+  "id": "doc_0087",
+  "titulo": "RADOSE",
+  "titulo_wikipedia_en": null,
+  "fecha_lanzamiento": "1963-06-15",
+  "año_lanzamiento": 1963,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Otro vuelo espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/RADOSE",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Reentrado en la atmósfera",
+    "Tipo de misión": "Medición de radiación",
+    "Operador": "USAF, US Navy",
+    "Fecha de lanzamiento": "15 de junio de 1963",
+    "Lugar de lanzamiento": "Vandenberg",
+    "Vehículo de lanzamiento": "Tor",
+    "ID NSSDC": "1963-021D",
+    "Masa en el lanzamiento": "25 kg"
+  },
+  "resumen": "RADOSE, también denominado RADOSE 112, fue un satélite artificial conjunto de la USAF y la US Navy lanzado el 15 de junio de 1963 mediante un cohete Tor desde la base de Vandenberg. Reentró en la atmósfera el 30 de julio del mismo año.\nLa misión de RADOSE fue la de realizar mediciones de radiación en órbita baja terrestre.",
+  "secciones": [],
+  "num_palabras": 59
+}

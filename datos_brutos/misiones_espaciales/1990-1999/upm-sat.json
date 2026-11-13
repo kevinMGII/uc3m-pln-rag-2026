@@ -1,0 +1,47 @@
+{
+  "id": "doc_0777",
+  "titulo": "UPM-Sat",
+  "titulo_wikipedia_en": "UPM-Sat",
+  "fecha_lanzamiento": "1995-07-07",
+  "año_lanzamiento": 1995,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de comunicaciones",
+    "Satélite experimental",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/UPM-Sat",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Inactivo",
+    "Tipo de misión": "Comunicaciones, experimental",
+    "Operador": "Universidad Politécnica de Madrid",
+    "Fecha de lanzamiento": "7 de julio de 1995",
+    "Lugar de lanzamiento": "Puerto espacial de Kourou",
+    "Vehículo de lanzamiento": "Ariane 4",
+    "Duración planificada": "213 días",
+    "ID NSSDC": "1995-033C",
+    "Masa en el lanzamiento": "47 kg",
+    "Periapsis": "663 km",
+    "Apoapsis": "676 km",
+    "Inclinación orbital": "98,1 grados",
+    "Periodo orbital": "98,1 minutos"
+  },
+  "resumen": "UPM-Sat es una serie de microsatélites españoles desarrollados por la Universidad Politécnica de Madrid, en colaboración con el Instituto Nacional de Técnica Aeroespacial, con fines educativos, científicos y tecnológicos.",
+  "secciones": [
+    {
+      "titulo": "UPM-Sat 1",
+      "nivel": 2,
+      "texto": "El UPM-Sat 1, también llamado UPM/LB-Sat, fue lanzado el 7 de julio de 1995 desde la Guayana Francesa en el vuelo V75 de un lanzador Ariane IV-40. Tenía un peso de 47 kg. Tuvo una vida operativa en órbita de 213 días, con una órbita polar heliosíncrona a 670 kilómetros de altitud, completando una vuelta alrededor de la Tierra cada 98 minutos."
+    },
+    {
+      "titulo": "UPM-Sat 2",
+      "nivel": 2,
+      "texto": "El proyecto UPM-Sat 2 trataba de desarrollar un satélite de menos de 50 kg de masa y dimensiones totales inferiores a 0.5 m x 0.5 m x 0.6 m.\nEl satélite UPM-Sat 2, llamado también M.A.T.I.A.S., originalmente tenía su lanzamiento previsto para 1999. Finalmente fue lanzado el 3 de septiembre de 2020 en un cohete Vega."
+    }
+  ],
+  "num_palabras": 147
+}

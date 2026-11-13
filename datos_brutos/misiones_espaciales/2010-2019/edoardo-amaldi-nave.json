@@ -1,0 +1,34 @@
+{
+  "id": "doc_1183",
+  "titulo": "Edoardo Amaldi (nave)",
+  "titulo_wikipedia_en": "Edoardo Amaldi ATV",
+  "fecha_lanzamiento": "2012-03-23",
+  "año_lanzamiento": 2012,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Misión tripulada",
+    "Estación espacial",
+    "Nave de carga a la ISS"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Edoardo_Amaldi_(nave)",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "ATV",
+    "Operador": "ESA",
+    "Fabricante": "EADS Astrium (prime),\nThales Alenia Space, Arianespace (LSP)",
+    "Fecha de lanzamiento": "23 de marzo de 2012",
+    "Lugar de lanzamiento": "Kourou ELA-3",
+    "Vehículo de lanzamiento": "Ariane 5ES",
+    "ID COSPAR": "2012-010A",
+    "Masa en el lanzamiento": "20000",
+    "Régimen orbital": "LEO",
+    "Tipo de fin de misión": "reingreso",
+    "Fecha de reentrada": "3 de octubre de 2012"
+  },
+  "resumen": "La Edoardo Amaldi, o Automated Transfer Vehicle 003 (ATV-003), fue un vehículo espacial europeo de suministros que recibe su nombre del científico italiano Edoardo Amaldi. que fue lanzado el 23 de marzo de 2012 y se acopló al módulo ruso de la ISS el 29 de marzo de 2012 en una misión para proveer a la Estación Espacial Internacional (ISS) con combustibles, agua, aire, y otros cargamentos. Es el tercer ATV, el primero fue la Julio Verne y el segundo la Johannes Kepler. Reentró en la atmósfera terrestre el 3 de octubre de 2012, tras cumplir exitosamente su misión.\nLa Edoardo Amaldi fue construida en Bremen (Alemania) y Turín (Italia), y fue lanzada por Arianespace, en nombre de la Agencia Espacial Europea, en un cohete Ariane 5ES desde el Puerto espacial de Kourou en Kourou, Guyana francesa.",
+  "secciones": [],
+  "num_palabras": 137
+}

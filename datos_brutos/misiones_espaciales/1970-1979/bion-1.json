@@ -1,0 +1,43 @@
+{
+  "id": "doc_0420",
+  "titulo": "Bion 1",
+  "titulo_wikipedia_en": "Kosmos 605",
+  "fecha_lanzamiento": "1973-10-31",
+  "año_lanzamiento": 1973,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite científico",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Bion_1",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Retornado a la Tierra",
+    "Tipo de misión": "Experimentos biológicos",
+    "Operador": "Unión Soviética",
+    "Fecha de lanzamiento": "31 de octubre de 1973",
+    "Lugar de lanzamiento": "Cosmódromo de Plesetsk",
+    "Vehículo de lanzamiento": "Soyuz",
+    "ID NSSDC": "1973-083A",
+    "Masa en el lanzamiento": "5500 kg",
+    "Tipo de fin de misión": "reingreso",
+    "Fecha de reentrada": "22 de noviembre de 1973"
+  },
+  "resumen": "Bion 1 (Бион 1, en ruso), también conocido como Cosmos 605, fue el nombre de un satélite artificial soviético perteneciente a la serie de satélites Bion. Fue lanzado el 31 de octubre de 1973 desde el cosmódromo de Plesetsk mediante un cohete Soyuz. Regresó a la Tierra el 22 de noviembre de 1973.",
+  "secciones": [
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "La misión de Bion 1 consistió en realizar diversos estudios biológicos. A bordo llevaba varias docenas de ratas, varias cajas con tortugas, hongos, cuatro escarabajos y esporas de bacterias. Proporcionó datos sobre las reacciones de mamíferos, reptiles, insectos, hongos y bacterias a periodos prolongados de ingravidez."
+    },
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "Bion 1 estaba basada, como todas las naves de la serie Bion, en los satélites de reconocimiento Zenit."
+    }
+  ],
+  "num_palabras": 117
+}

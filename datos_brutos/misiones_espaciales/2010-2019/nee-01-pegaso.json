@@ -1,0 +1,37 @@
+{
+  "id": "doc_1211",
+  "titulo": "NEE-01 Pegaso",
+  "titulo_wikipedia_en": "NEE-01 Pegaso",
+  "fecha_lanzamiento": "2013-04-26",
+  "año_lanzamiento": 2013,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite experimental"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/NEE-01_Pegaso",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Semi-operativo",
+    "Tipo de misión": "Pruebas técnicas/Educación",
+    "Operador": "Agencia Espacial Civil Ecuatoriana",
+    "Fabricante": "Estado del Ecuador,\nInnovative Solutions In Space.",
+    "Plataforma (bus)": "1U CubeSat",
+    "Fecha de lanzamiento": "25 de abril de 2013, 23h13 GMT-5",
+    "Lugar de lanzamiento": "Centro de Lanzamiento de Satélites de Jiuquan",
+    "Vehículo de lanzamiento": "Chang Zheng 2D",
+    "Duración planificada": "1 año",
+    "Masa en el lanzamiento": "1266.6 g",
+    "Dimensiones": "10 x 10 x 75 cm",
+    "Sistema de referencia orbital": "Órbita baja terrestre (LEO)",
+    "Periapsis": "636 km",
+    "Apoapsis": "660 km",
+    "Inclinación orbital": "98,05 grados",
+    "Periodo orbital": "97.5 minutos"
+  },
+  "resumen": "El NEE-01 Pegaso (NEE — Nave Espacial Ecuatoriana y Pegaso) es un nanosatélite provisto de una cámara para transmitir vídeo en tiempo real desde una órbita baja terrestre (LEO). Es el primer satélite artificial construido en Ecuador, en 2011, por la ONG Agencia Espacial Civil Ecuatoriana (EXA). Fue lanzado como carga secundaria a bordo de un cohete Larga Marcha 2D de la República Popular China en abril de 2013, se proyectó que estuviera en órbita al menos un año, y dejó de transmitir en mayo del año 2013 después de una colisión con basura espacial.\nEl lanzamiento de NEE-01 Pegaso se realizó desde el cosmódromo de Jiuquan en China, acompañado de la carga principal, el satélite chino Gaofen-1, y otras dos cargas secundarias, los nanosatélites Turksat-3USAT de Turquía y CubeBug-1 'Capitán Beto' de Argentina. EXA y la empresa privada invirtieron 80.000 USD en su construcción, mientras que el Gobierno del Ecuador aportó con un aproximado de 700.000 USD para el lanzamiento, seguros, logística y pruebas de certificación. Además, el gobierno de Ecuador decretó una cadena nacional para dar cobertura televisada a su lanzamiento.\nEl 16 de mayo de 2013 difundió sus primeras imágenes en tiempo real desde el espacio durante 6 minutos mientras orbitaba sobre el territorio ecuatoriano, días después se inició un cruce de opiniones entre EXA y miembros del Observatorio Astronómico de Quito, respecto tanto del aporte científico como del financiamiento público del nanosatélite. El Joint Space Operations Center de los Estados Unidos notificó a la EXA que el 23 de mayo del mismo año, NEE-01 Pegaso pasaría muy cerca de los restos de un cohete soviético Tsyklon-3. Finalmente la colisión no fue directa pero el aparato perdió su orientación y no se pudo captar su trasmisión desde ese momento. EXA intentó recuperar su señal en el periodo de tres 3 meses posterior al incidente. En septiembre de 2013 EXA lo consideró perdido.\nEl 25 de enero de 2014, EXA logró recuperar la porción de audio de la señal del NEE-01 Pegaso a través del cubesat NEE-02 Krysaor.",
+  "secciones": [],
+  "num_palabras": 340
+}

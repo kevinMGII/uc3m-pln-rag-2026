@@ -1,0 +1,54 @@
+{
+  "id": "doc_1240",
+  "titulo": "UAPSAT-1",
+  "titulo_wikipedia_en": "UAPSat-1",
+  "fecha_lanzamiento": "2014-01-09",
+  "año_lanzamiento": 2014,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite experimental"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/UAPSAT-1",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Activo",
+    "Operador": "Universidad Alas Peruanas",
+    "Fecha de lanzamiento": "19 de diciembre de 2013",
+    "Lugar de lanzamiento": "Centro de lanzamiento espacial Wallops Estados Unidos",
+    "Vehículo de lanzamiento": "Antares",
+    "Duración planificada": "8 meses nominal.",
+    "Masa en el lanzamiento": "1 kg",
+    "Dimensiones": "10x10x10cm por lado",
+    "Sistema de referencia orbital": "desorvitado",
+    "Periodo orbital": "90 minutos",
+    "Banda de transmisión": "H",
+    "Datos interplanetarios": "tipo: orbitador | objeto: Satélite meteorológico"
+  },
+  "resumen": "UAPSAT 1 es un satélite peruano lanzado el 9 de enero del 2014. Su misión es recolectar información sobre el clima en el espacio.\nEl proyecto fue realizado por los estudiantes y catedráticos de la Universidad Alas Peruanas y tuvo un costo de 160 mil dólares. Para ponerlo en órbita se utilizó el cohete \"Antares\" lanzado desde el centro de lanzamiento espacial wallops, ubicado en el Estado de Virginia, Estados Unidos.",
+  "secciones": [
+    {
+      "titulo": "Nasa",
+      "nivel": 2,
+      "texto": "El UAPSAT-1 es el primer satélite certificado por la Nasa\n."
+    },
+    {
+      "titulo": "Construcción",
+      "nivel": 2,
+      "texto": "Fue encargado a la compañía colombiana Sequoia Space especializada en producción y desarrollo espacial: Posteriormente, el nanosatelite fue enviado al Perú."
+    },
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "UAPSAT es un picosatmisores y receptores de radio, un sistema de control de potencia e imanes que estabilizan al satélite para alinearlo con el campo magnético terrestre.\nSu órbita será cuasi circular y de tipo LEO, a una altitud de 700 kilómetros, pasando sobre los polos de la Tierra. Su velocidad le permitirá completar una órbita cada 90 minutos. Es controlado a través de una Estación Terrena dedicada que incluye la Banda-S, instalada en los laboratorios de la Universidad Alas Peruanas, en el distrito de Pueblo Libre en Lima.\n.\n."
+    },
+    {
+      "titulo": "Lanzamiento",
+      "nivel": 2,
+      "texto": "Fue lanzado desde el Centro de Lanzamiento Espacial Wallops, en una operación supervisada por la NASA en el estado de Virginia, Estados Unidos. El cohete llevó al satélite en cuatro días a la Estación Espacial Internacional en la cápsula Cygnus, tras lo que será depositado en un brazo robótico que lo pondrá en órbita con la misión de recolectar información sobre el clima en el espacio y su implicancia en la Tierra de ese modo dio a los alumnos de la universidad Alas Peruanas una mejor visión de desarrollo tecnológico a nivel mundial pero se cayó a las dos días del lanzamiento."
+    }
+  ],
+  "num_palabras": 296
+}

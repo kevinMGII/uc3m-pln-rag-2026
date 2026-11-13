@@ -1,0 +1,47 @@
+{
+  "id": "doc_0343",
+  "titulo": "Cosmos 408",
+  "titulo_wikipedia_en": "Kosmos 408",
+  "fecha_lanzamiento": "1971-04-24",
+  "año_lanzamiento": 1971,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite (programa Cosmos)",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Cosmos_408",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Reentrado en la atmósfera",
+    "Tipo de misión": "Militar",
+    "Fecha de lanzamiento": "24 de abril de 1971",
+    "Lugar de lanzamiento": "Cosmódromo de Plesetsk",
+    "Vehículo de lanzamiento": "Kosmos-2I",
+    "ID NSSDC": "1971-037A",
+    "Masa en el lanzamiento": "400 kg",
+    "Tipo de fin de misión": "reingreso",
+    "Fecha de reentrada": "29 de diciembre de 1971"
+  },
+  "resumen": "Cosmos 408 (en cirílico, Космос 408) fue un satélite artificial militar soviético perteneciente a la clase de satélites DS (de tipo DS-P1-Yu) y lanzado el 24 de abril de 1971 mediante un cohete Kosmos-2I desde el cosmódromo de Plesetsk.",
+  "secciones": [
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "Cosmos 408 fue parte de un sistema de satélites utilizados como objetivos de prueba para el sistema de radares antibalísticos soviéticos. Los satélites del tipo DS-P1-Yu fueron desarrollados por V. M. Kovtunenko en la OKB-586 y fueron utilizados hasta 1978, con un total de 78 lanzamientos.\nEl propósito declarado por la Unión Soviética ante la Organización de las Naciones Unidas en el momento del lanzamiento era realizar \"investigaciones de la atmósfera superior y el espacio exterior\"."
+    },
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "El satélite tenía una masa de 400 kg (aunque otras fuentes indican 250 kg) y fue inyectado inicialmente en una órbita con un perigeo de 211 km y un apogeo de 1542 km, con una inclinación orbital de 82 grados y un periodo de 102,1 minutos.\nCosmos 408 reentró en la atmósfera el 29 de diciembre de 1971."
+    },
+    {
+      "titulo": "Resultados científicos",
+      "nivel": 2,
+      "texto": "La observación del decaimiento orbital del cohete lanzador de Cosmos 408 sirvió para realizar estudios de densidad atmosférica y de los vientos en la atmósfera superior."
+    }
+  ],
+  "num_palabras": 199
+}

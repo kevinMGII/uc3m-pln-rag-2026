@@ -1,0 +1,50 @@
+{
+  "id": "doc_0769",
+  "titulo": "Astrid 2",
+  "titulo_wikipedia_en": "Astrid (satellites)",
+  "fecha_lanzamiento": "1995-01-24",
+  "año_lanzamiento": 1995,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de observación terrestre",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Astrid_2",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Observación del entorno de plasma terrestre",
+    "Operador": "Corporación espacial sueca",
+    "Fecha de lanzamiento": "10 de diciembre de 1998",
+    "Lugar de lanzamiento": "Cosmódromo de Plesetsk",
+    "Vehículo de lanzamiento": "Cosmos 3",
+    "ID NSSDC": "1998-072B",
+    "Masa en el lanzamiento": "30 kg",
+    "Periapsis": "982, km",
+    "Apoapsis": "1017,1 km",
+    "Inclinación orbital": "83 grados",
+    "Periodo orbital": "105 minutos",
+    "Ancho de banda": "128 kbit/s de bajada y 10 kbit/s de subida"
+  },
+  "resumen": "Astrid 2 es un microsatélite artificial sueco lanzado el 10 de diciembre de 1998 mediante un cohete Cosmos 3 desde el cosmódromo de Plesetsk, en Rusia. Estaba basado en el satélite Astrid.",
+  "secciones": [
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "La misión de Astrid 2 era realizar mediciones de alta resolución de los campos magnético y eléctrico terrestres en la región auroral, hacer mediciones de la densidad de electrones de la función de distribución de electrones e iones y realizar observaciones ultravioleta de las auroras y la atmósfera."
+    },
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "El satélite se estabilizaba mediante rotación y se orientaba mediante un sensor solar. La energía era proporcionada por paneles solares que producían hasta 90 vatios de potencia. Las comunicaciones se llevaban a cabo a velocidades de 128 kbit/s de bajada y hasta 10 kbit/s de subida."
+    },
+    {
+      "titulo": "Instrumentación",
+      "nivel": 2,
+      "texto": "Astrid 2 llevaba estos instrumentos científicos:\nEMMA: experimento para medir campos magnéticos y eléctricos.\nLINDA: sonda Langmuir consistente en dos esferas de 10 mm de diámetro montadas en sendos mástiles, ambas esferas separadas una distancia de 2,9 m.\nMEDUSA: espectrómetro de iones y electrones.\nPIA: fotómetros para el estudio de las auroras y realizar estudios de absorción atmosférica"
+    }
+  ],
+  "num_palabras": 184
+}

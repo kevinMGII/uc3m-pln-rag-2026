@@ -1,0 +1,43 @@
+{
+  "id": "doc_0668",
+  "titulo": "Bion 9",
+  "titulo_wikipedia_en": "Kosmos 2044",
+  "fecha_lanzamiento": "1989-09-15",
+  "año_lanzamiento": 1989,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite científico",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Bion_9",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Retornado a la Tierra",
+    "Tipo de misión": "Experimentos biológicos",
+    "Operador": "Unión Soviética, NASA, ESA",
+    "Fecha de lanzamiento": "15 de septiembre de 1989",
+    "Lugar de lanzamiento": "Cosmódromo de Plesetsk",
+    "Vehículo de lanzamiento": "Soyuz",
+    "ID NSSDC": "1989-075A",
+    "Masa en el lanzamiento": "6000 kg",
+    "Tipo de fin de misión": "reingreso",
+    "Fecha de reentrada": "29 de septiembre de 1989"
+  },
+  "resumen": "Bion 9 (en ruso: Бион 9), también conocido como Cosmos 2044, fue el nombre de un satélite artificial soviético perteneciente a la serie de satélites Bion. Fue lanzado el 15 de septiembre de 1989 desde el cosmódromo de Plesetsk mediante un cohete Soyuz y contó con la colaboración de Hungría, la República Democrática Alemana, Canadá, Polonia, Reino Unido, Estados Unidos, Rumanía, Checoslovaquia y la ESA. Regresó a la Tierra el 29 de septiembre de 1989.",
+  "secciones": [
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "Bion 9 continuó los experimentos biológicos de sus predecesores en campos como el mareo, la reproducción, la regeneración, la inmunología y la readaptación a la gravedad normal. Entre los especímenes que viajaron a bordo se encontraban diez ratas, tritones, peces, moscas de la fruta, hormigas, gusanos, varios tipos de semillas, cultivos celulares y un par de macacos a los que se llamó Zhankonya y Zabiyaka."
+    },
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "Bion 9 estaba basada, como todas las naves de la serie Bion, en los satélites de reconocimiento Zenit. La esfera que contenía los especímenes, de 2,3 metros de diámetro, fue recuperada tras 14 días en órbita, pero un fallo del control térmico supuso la muerte de varios de los especímenes."
+    }
+  ],
+  "num_palabras": 190
+}

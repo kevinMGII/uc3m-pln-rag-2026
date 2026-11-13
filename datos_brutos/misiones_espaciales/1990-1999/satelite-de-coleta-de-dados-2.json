@@ -1,0 +1,26 @@
+{
+  "id": "doc_0846",
+  "titulo": "Satélite de Coleta de Dados 2",
+  "titulo_wikipedia_en": null,
+  "fecha_lanzamiento": "1998",
+  "año_lanzamiento": 1998,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Otro vuelo espacial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Satélite_de_Coleta_de_Dados_2",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Activo",
+    "Tipo de misión": "Teledetección",
+    "Operador": "Brasil",
+    "Duración planificada": "3 años iniciales",
+    "Régimen orbital": "Órbita geocéntrica"
+  },
+  "resumen": "El Satélite de Coleta de Dados 2 (SCD-2) (portugués para Satélite de Recopilación de Datos 2) es un satélite brasileño que fue puesto en órbita el 22 de octubre de 1998, por medio de un cohete Pegasus. Su estructura es prácticamente idéntica a la del SCD-1, pero con la incorporación de mejoras con respecto al proyecto original y con grandes aportes de la industria brasileña. Como su hermano mayor, el SCD-2 recoge datos ambientales de las plataformas instaladas en el territorio nacional y los retransmite a las estaciones del Instituto Nacional de Investigación Espacial del Brasil (INPE). Su vida útil de acuerdo al proyecto era de dos años, pero sigue en actividad al 24 de septiembre de 2008.\nPreviamente, en noviembre de 1997, se había intentado lanzar una versión previa del satélite, el SCD-2A empleando el cohete brasileño VLS-1 V01, en la misión denominada Brasil, desde el Centro de Lanzamiento de Alcântara (CLA), pero el cohete debió ser destruido durante el vuelo debido a un fallo.",
+  "secciones": [],
+  "num_palabras": 166
+}

@@ -1,0 +1,45 @@
+{
+  "id": "doc_0798",
+  "titulo": "AMOS 1",
+  "titulo_wikipedia_en": "AMOS-1 (satellite)",
+  "fecha_lanzamiento": "1996-05-16",
+  "año_lanzamiento": 1996,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de comunicaciones",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/AMOS_1",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Activo",
+    "Tipo de misión": "Comunicaciones",
+    "Fecha de lanzamiento": "16 de mayo de 1996",
+    "Lugar de lanzamiento": "Puerto espacial de Kourou",
+    "Vehículo de lanzamiento": "Ariane 4",
+    "ID NSSDC": "1996-030B",
+    "Masa en el lanzamiento": "471 kg",
+    "Periapsis": "35.780,4 km",
+    "Apoapsis": "35.805,2 km",
+    "Inclinación orbital": "1 grado",
+    "Periodo orbital": "1436 minutos",
+    "Datos interplanetarios": "tipo: orbitador | objeto: Tierra"
+  },
+  "resumen": "AMOS 1 (עמוס 1 en hebreo) es un satélite de comunicaciones israelí lanzado el 16 de mayo de 1996 mediante un cohete Ariane 4 desde el puerto espacial de Kourou, en la Guayana francesa, a una órbita geoestacionaria. Fue el primer satélite de comunicaciones israelí.",
+  "secciones": [
+    {
+      "titulo": "Objetivos",
+      "nivel": 2,
+      "texto": "El objetivo de AMOS es proporcionar comunicaciones de voz e imagen a Israel y otros países."
+    },
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "AMOS 1 está estabilizado en los tres ejes y tiene siete transpondedores para banda Ku."
+    }
+  ],
+  "num_palabras": 76
+}

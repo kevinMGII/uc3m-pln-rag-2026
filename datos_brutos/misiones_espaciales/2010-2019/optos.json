@@ -1,0 +1,63 @@
+{
+  "id": "doc_1231",
+  "titulo": "OPTOS",
+  "titulo_wikipedia_en": "OPTOS",
+  "fecha_lanzamiento": "2013-11-21",
+  "año_lanzamiento": 2013,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite experimental",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/OPTOS",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Activo",
+    "Tipo de misión": "Tecnológica y Científica",
+    "Operador": "Instituto Nacional de Técnica Aeroespacial de España",
+    "Plataforma (bus)": "CubeSat 3U",
+    "Fecha de lanzamiento": "21 de noviembre de 2013",
+    "Duración planificada": "1 año",
+    "Configuración": "Prisma cuadrangular",
+    "Masa en el lanzamiento": "3.5 kg",
+    "Dimensiones": "10 x 10 x 34,5 cm",
+    "Potencia": "7.2 W (Iones de Li)",
+    "Sistema de referencia orbital": "Órbita heliosíncrona",
+    "Semieje mayor": "7048.147 km",
+    "Excentricidad": "0.00",
+    "Inclinación orbital": "98.07º",
+    "Periodo orbital": "1 hora 38 minutos"
+  },
+  "resumen": "El satélite artificial OPTOS es un picosatélite cuyo diseño así como desarrollo y operación se realizan en el Instituto Nacional de Técnica Aeroespacial, INTA. En las instalaciones del INTA también está situada la estación de tierra.\nOPTOS sigue el estándar CubeSat con una configuración triple de 10 x 10 x 34,5 cm y 3,5 kg de peso.\nEl objetivo principal de OPTOS es el de ser un demostrador tecnológico, para demostrar, fundamentalmente, que un picosatélite de estas dimensiones es capaz de presentar capacidades y características al mismo nivel que los satélites de mayor tamaño, manteniendo las ventajas de tiempo de desarrollo y presupuesto que los satélites de pequeño tamaño proporcionan. En este sentido, en OPTOS se presentan y desarrollan tecnologías punteras en el campo de la miniaturización espacial, incluyendo, entre otras, un novedoso control de actitud miniaturizado, un computador de arquitectura distribuida y un sistema de comunicación interna basado en tecnología wireless.",
+  "secciones": [
+    {
+      "titulo": "Historia",
+      "nivel": 2,
+      "texto": "El proyecto fue dirigido por César Martínez Fernández. OPTOS fue lanzado con éxito el 21 de noviembre de 2013 por medio de un cohete Dnepr-1 y se mantiene activo en órbita de forma satisfactoria desde entonces.\nEl jueves 21 de noviembre de 2013 a las 21:32 hora española el OPTOS se comunicó con éxito. Una vez probado el éxito de OPTOS se prevé mantener de forma estable una línea de satélites con las mismas características, de tal forma que facilite el acceso al espacio a empresas y universidades, basándose en un corto tiempo de desarrollo y en un bajo coste, además de proporcionar al mismo tiempo una alta fiabilidad."
+    },
+    {
+      "titulo": "Órbita",
+      "nivel": 2,
+      "texto": "La órbita es de tipo heliosíncrono, que es la más adecuada para la toma de imágenes (debe tenerse en cuenta que una de las cargas útiles es una cámara pancromática).\nLas características definitorias de la órbita son:\nTipo: circular heliosíncrona (LTAN: 22:15 horas)\nInclinación: 98°\nAltura: 670 km (LEO)\nLa vida útil estimada del satélite es de 1 año, aunque ha sido ampliamente superada en vuelo.\nEl control de actitud del satélite se lleva a cabo teniendo en cuenta tres imposiciones:\nEn condiciones nominales, el satélite se orientará de forma que la superficie de los paneles solares iluminada sea la mayor posible, de forma que se optimice la generación de potencia.\nEn condiciones de observación, el satélite se orientará de forma que puedan tomarse fotografías del área objetivo (nominalmente, España) con la cámara pancromática APIS (una de las cargas útiles) situada en la cara superior del satélite.\nEn condiciones nominales, se evitará que la luz del Sol incida directamente en el objetivo de la cámara pancromática, debido a la alta sensibilidad de su electrónica."
+    },
+    {
+      "titulo": "Plataforma",
+      "nivel": 2,
+      "texto": "OPTOS es un picosatélite basado en el estándar CubeSat 3U (de 3 unidades) con unas dimensiones de 34,5 x 10 x 10 cm y un peso aproximado de 3.5 kg.\nLas cuatro caras largas del satélite están cubiertas, cada una de ellas, por un panel solar compuesto de 6 células de triple unión de GaAs. En las mejores condiciones, estos paneles proporcionan un máximo de 7.2 W de potencia. Asimismo, el satélite consta de un juego de paneles desplegables a lo largo del eje Z, equivalentes a los anteriores, que doblan la capacidad de generación de potencia.\nEl control de actitud del satélite está basado, para la determinación de actitud, en un conjunto de sensores formado por un magnetómetro, dos sensores solares y un sensor de presencia solar, mientras que la actitud objetivo es conseguida por medio de un conjunto de actuadores formado por una rueda de inercia orientada con el eje largo del satélite (Z) y tres magnetopares (en tres ejes perpendiculares). La precisión obtenida es de 5º por eje en la determinación y de 15º por eje en el control.\nEl procesamiento de datos interno está basado en un computador de arquitectura distribuida, formado por una unidad central (EPH) basada en una FPGA y varias unidades distribuidas (una por cada una de las tarjetas que forman parte de la electrónica del sistema ) basadas en CPLDs. Los datos son distribuidos entre todas las unidades por medio de un bus CAN.\nLas comunicaciones internas están basadas en un novedoso sistema, desarrollado por el INTA, de comunicación inalámbrica entre tarjetas. Las señales se envían por un camino óptico, emitidas por un emisor infrarrojo por la tarjeta emisora, y recibidas por un fotodiodo por la tarjeta receptora. La coherencia de las comunicaciones y jerarquía de señales se asegura por medio de un protocolo bus CAN reducido.\nLas comunicaciones con la estación de tierra se realizan por medio de un transceptor half-duplex que emite con una potencia de 0,5 W (27 dBm) y es capaz de recibir señales de hasta -115 dBm. OPTOS está equipado con una antena formada por 4 monopolos que emite y recibe en una frecuencia de 402 MHz (banda UHF), permitiendo un bit rate máximo de 4 kbps en subida y 5 kbps en bajada."
+    },
+    {
+      "titulo": "Experimentos científicos",
+      "nivel": 2,
+      "texto": "OPTOS está equipado con cuatro cargas útiles:\nUna cámara pancromática de resolución 270 m (APIS - Athermalized Panchromatic Imaging System) situada en la cara superior del satélite, basada en la tecnología CMOS, cuyos objetivos son la adquisición de imágenes en vuelo, la calificación de materiales ópticos y el análisis de la degradación de los cristales de la cámara.\nUn dosímetro (ODM - OPTOS Dose Monitoring) ubicado en dos zonas del satélite de forma estratégica, una en la parte central del mismo y otra junto a la cámara. Esta carga útil tiene como objetivos el desarrollar un dosímetro con componentes comerciales RadFETS (RADIATION-SENSING FIELD-EFFECT TRANSISTOR), y posteriormente correlar los datos con los obtenidos mediante la simulación con el software Geant 4.\nUna fibra óptica (FIBOS - Fiber Bragg Gratings for Optical Sensing) que medirá temperaturas gracias al cambio de longitud de onda reflejada por una Fiber Bragg Grating (FBG).\nUn sensor magnético (GMR - Giant Magneto-Resistance) basado en componentes comerciales COTS, el cual medirá el campo magnético terrestre."
+    },
+    {
+      "titulo": "Líneas de desarrollo",
+      "nivel": 2,
+      "texto": "Una vez se demuestre, por medio de OPTOS, la viabilidad de la plataforma para llevar a cabo misiones hasta ahora siempre asignadas a satélites de mayor tamaño, se prevé continuar la línea con nuevos satélites en órbita (con un corto periodo de desarrollo) poniendo en vuelo nuevas cargas útiles.\nAsimismo, se prevé el desarrollo de una plataforma OPTOS mejorada (denominada OPTOS segunda generación o, directamente, OPTOS 2G), que, entre otras mejoras, incluirá las siguientes:\nUn sistema de paneles solares desplegables de doble cara que multiplicará por tres la superficie de células solares disponibles, pudiendo llegar a producir una potencia de hasta 18 W.\nUn subsistema de control de actitud al que, aparte de lo ya existente, la única rueda de inercia será sustituida por un array de cuatro ruedas de inercia, además de añadírsele un rastreador de estrellas, pudiendo con estas mejoras llegar a precisiones en la determinación y control de actitud del orden de arcosegundos.\nUn parche en banda S que, sumado al transpondedor en UHF, permitirá comunicación full-duplex, dando lugar a un bit rate de hasta el orden de Mbps."
+    }
+  ],
+  "num_palabras": 1161
+}

@@ -1,0 +1,30 @@
+{
+  "id": "doc_1140",
+  "titulo": "FASTRAC-1",
+  "titulo_wikipedia_en": null,
+  "fecha_lanzamiento": "2010-11-20",
+  "año_lanzamiento": 2010,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite experimental",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/FASTRAC-1",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Tipo de misión": "Tecnología",
+    "Operador": "NASA",
+    "Fecha de lanzamiento": "20 de noviembre de 2010",
+    "Lugar de lanzamiento": "Kodiak Launch Complex",
+    "Vehículo de lanzamiento": "Minotaur IV",
+    "ID NSSDC": "2010-062F",
+    "Masa en el lanzamiento": "58 kilogramos",
+    "Inclinación orbital": "72 grados"
+  },
+  "resumen": "FASTRAC es un par de nanosatélites (respectivamente llamados Sara-Lily y Emma ) desarrollados y construidos por estudiantes de la Universidad de Texas en Austin. El proyecto forma parte de un programa patrocinado por el Laboratorio de Investigación de la Fuerza Aérea (AFRL), cuyo objetivo es liderar el desarrollo de tecnología espacial asequible. La misión FASTRAC investigará específicamente las tecnologías que facilitan la operación de múltiples satélites en formación. Estas tecnologías habilitantes incluyen navegación relativa, comunicaciones de enlace cruzado, determinación de actitud y empuje. Debido al alto costo de levantar la masa en órbita, hay una fuerte iniciativa para miniaturizar el peso total de las naves espaciales. La utilización de formaciones de satélites, en lugar de grandes satélites individuales, reduce el riesgo de falla de un solo punto y permite el uso de hardware de bajo costo.",
+  "secciones": [],
+  "num_palabras": 136
+}

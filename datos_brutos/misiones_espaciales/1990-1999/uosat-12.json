@@ -1,0 +1,34 @@
+{
+  "id": "doc_0878",
+  "titulo": "UoSAT-12",
+  "titulo_wikipedia_en": "UoSAT-12",
+  "fecha_lanzamiento": "1999-04-21",
+  "año_lanzamiento": 1999,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite de observación terrestre",
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/UoSAT-12",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Operador": "Universidad de Surrey",
+    "Fabricante": "Surrey Satellite Technology Ltd",
+    "Fecha de lanzamiento": "21 de abril de 1999",
+    "Lugar de lanzamiento": "Baikonur",
+    "Vehículo de lanzamiento": "Dnepr-1",
+    "ID NSSDC": "1999-021A",
+    "Masa en el lanzamiento": "325 kg",
+    "Sistema de referencia orbital": "OTB a 650 km",
+    "Periapsis": "659 km",
+    "Apoapsis": "661 km",
+    "Inclinación orbital": "65˚",
+    "Periodo orbital": "97'"
+  },
+  "resumen": "El UoSAT-12 es el duodécimo satélite de una serie de ellos lanzados para la Universidad de Surrey, diseñado y construido por la Surrey Satellite Technology Ltd (SSTL). Fue lanzado a una órbita terrestre baja por un cohete Dnepr-1 el 21 de abril de 1999.\nLa misión del UoSAT-12 consistió en la realización de varias pruebas y demostración de nuevas tecnologías ópticas. Se probaron varias cámaras y un sistema de transferencia a 1 Mbit/s (experimento MERLION). Se instaló un módulo de Protocolo de Internet, permitiendo la realización de experimentos desde el centro de vuelo espacial Goddard en el marco del proyecto OMNI (Operating Missions as Nodes on the Internet).\nEstas tecnologías fueron posteriormente adaptadas por la SSTL al diseño de la Disaster Monitoring Constellation (Constelación de Satélites para el seguimiento de Catástrofes).",
+  "secciones": [],
+  "num_palabras": 131
+}

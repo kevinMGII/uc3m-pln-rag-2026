@@ -1,0 +1,59 @@
+{
+  "id": "doc_0637",
+  "titulo": "Ajisai",
+  "titulo_wikipedia_en": "Ajisai",
+  "fecha_lanzamiento": "1986-08-12",
+  "año_lanzamiento": 1986,
+  "estado": "realizada",
+  "tipo_mision": [
+    "Satélite artificial"
+  ],
+  "idioma_original": "español",
+  "traduccion": null,
+  "fuente": "Wikipedia en español",
+  "url_fuente": "https://es.wikipedia.org/wiki/Ajisai",
+  "licencia": "CC BY-SA 4.0 (texto de Wikipedia)",
+  "ficha_tecnica": {
+    "Estado": "Activo",
+    "Tipo de misión": "Geodesia",
+    "Operador": "JAXA",
+    "Fecha de lanzamiento": "12 de agosto de 1986",
+    "Duración planificada": "Varias cadadécadas",
+    "ID COSPAR": "8606101",
+    "Nº SATCAT": "1500",
+    "Configuración": "Esférica",
+    "Masa en el lanzamiento": "685 kg",
+    "Dimensiones": "Diámetro 2,15 m",
+    "Propulsión": "Sin Propulsión",
+    "Sistema de referencia orbital": "Circular",
+    "Excentricidad": "0.001",
+    "Periapsis": "1490 Km",
+    "Inclinación orbital": "50 grados",
+    "Periodo orbital": "116 minutos",
+    "Instrumentos": "1436 retrorreflectores\n318 espejos"
+  },
+  "resumen": "Ajisai es un satélite geodésico pasivo japonés dedicado a las Mediciones Láser a Satélites. Ajisai es también la palabra japonesa para la Hydrangea u hortensia. Antes de su lanzamiento, el satélite se llamaba EGS, siglas en inglés para Experimental Geodetic Satellite, una vez en órbita el satélite fue rebautizado.",
+  "secciones": [
+    {
+      "titulo": "Características",
+      "nivel": 2,
+      "texto": "Ajisai tienen un cuerpo esférico con un diámetro de 2,15 metros y una masa de 685 kilogramos. Su exterior está cubierto con 1436 retrorreflectores y 318 espejos.\nLos satélites no tienen a bordo ningún sensor o dispositivo electrónico, y no tienen sistemas de control de actitud. Se mueven en órbita circular libre alrededor de la tierra, a una altitud aproximada de 1490 km. Su periodicidad es de 116 minutos, es decir, pasan por un mismo punto cada 11,3 horas aproximadamente."
+    },
+    {
+      "titulo": "Objetivos de la misión",
+      "nivel": 2,
+      "texto": "El satélite Ajisai tiene dos misiones primarias:\nEl primer objetivo, ya logrado, fue probar el vehículo de lanzamiento de dos etapas H-I.\nEl segundo objetivo, es a largo plazo, y consiste en determinar la posición exacta de varias aisladas islas japónesas.\nAjisai puede ser usado también para observaciones direccionales y observaciones fotométricas, usando los espejos que se encuentran en la superficie del satélite."
+    },
+    {
+      "titulo": "Instrumentos de medición",
+      "nivel": 2,
+      "texto": "Ajisai fue construido para ser usado en el sistema de Mediciones Láser a Satélites, por tanto, los únicos «instrumentos» a bordo son los 1436 retrorreflectores, y los 318 espejos que recubren su superficie.\nLas Mediciones Láser a Satélites (siglas en inglés SRL) básicamente consisten en enviar pulsos o destellos de luz láser desde estaciones en tierra a los satélites. Estos rayos láser vuelven a la estación en tierra después de golpear los retrorreflectores; el tiempo que demora el haz de luz en ir y volver es medido con mucha precisión y con esto es posible determinar la distancia que separa al satélite de la estación en tierra con un margen de error de solo unos milímetros.\nLas estaciones terrestres SLR están situadas en muchos países (Alemania, Argentina, Australia, Chile, China, EE. UU., Egipto, Francia, Italia, Japón, México, Perú, Polonia entre otros) y están agrupadas en el ILRS (siglas en inglés \"The International Laser Ranging Service\"). Los datos de estas estaciones están disponibles para los investigadores."
+    },
+    {
+      "titulo": "Información del lanzamiento",
+      "nivel": 2,
+      "texto": "Ajisai fue lanzado el 12 de agosto de 1986 con el vehículo de lanzamiento de dos etapas H-I junto con otros dos satélites, el JAS-1a y el Jindai."
+    }
+  ],
+  "num_palabras": 385
+}
