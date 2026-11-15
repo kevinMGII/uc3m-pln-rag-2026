@@ -3,6 +3,7 @@
 import argparse
 import json
 import re
+import sys
 from contextlib import nullcontext
 from pathlib import Path, PurePosixPath
 from tempfile import NamedTemporaryFile
@@ -10,6 +11,9 @@ from zipfile import BadZipFile, ZipFile
 
 
 WORDS_PER_CHUNK = 300
+MIN_WORDS_PER_CHUNK = 200
+MAX_WORDS_PER_CHUNK = 400
+OVERLAP_WORDS = 45  # 15 % del tamaño objetivo.
 WORD = re.compile(r"\b\w+(?:[’'-]\w+)*\b")
 
 
@@ -49,31 +53,55 @@ def read_documents(corpus):
         }
 
 
-def segment(document, exact):
-    """Agrupa palabras consecutivas y conserva el texto original del intervalo."""
+def word_ranges(word_count):
+    """Devuelve intervalos de palabras con solapamiento y sin restos pequeños."""
+    if word_count <= MAX_WORDS_PER_CHUNK:
+        return [(0, word_count)]
+
+    ranges = []
+    start = 0
+    while word_count - start > WORDS_PER_CHUNK:
+        ranges.append((start, start + WORDS_PER_CHUNK))
+        start += WORDS_PER_CHUNK - OVERLAP_WORDS
+
+    if word_count - start >= MIN_WORDS_PER_CHUNK:
+        ranges.append((start, word_count))
+    else:
+        # Absorber el resto evita añadir un fragmento casi redundante.
+        previous_start, _ = ranges.pop()
+        if word_count - previous_start <= MAX_WORDS_PER_CHUNK:
+            ranges.append((previous_start, word_count))
+        else:
+            # Repartir el último tramo en dos, conservando 45 palabras comunes.
+            middle = previous_start + (
+                word_count - previous_start + OVERLAP_WORDS + 1
+            ) // 2
+            ranges.extend([
+                (previous_start, middle),
+                (middle - OVERLAP_WORDS, word_count),
+            ])
+    return ranges
+
+
+def segment(document, exact=False):
+    """Conserva texto y metadatos; el argumento obsoleto exact ya no descarta nada."""
     text = document["text"]
     words = list(WORD.finditer(text))
+    # Los tamaños son del fragmento; el mapa de páginas se proyecta más abajo.
     provenance = {
-        key: document[key] for key in ("doc_id", "title", "source", "url")
+        key: value for key, value in document.items()
+        if key not in ("text", "word_count", "page_offsets")
     }
-    if document.get("revision_url"):
-        provenance["revision_url"] = document["revision_url"]
 
-    for offset in range(0, len(words), WORDS_PER_CHUNK):
-        group = words[offset : offset + WORDS_PER_CHUNK]
-        if exact and len(group) < WORDS_PER_CHUNK:
-            break
-
-        number = offset // WORDS_PER_CHUNK + 1
+    for number, (offset, next_offset) in enumerate(word_ranges(len(words)), start=1):
         # Cut at the next word so punctuation and paragraph breaks are preserved.
-        start = 0 if offset == 0 else group[0].start()
-        next_offset = offset + len(group)
+        start = 0 if offset == 0 else words[offset].start()
         end = words[next_offset].start() if next_offset < len(words) else len(text)
         chunk = {
             **provenance,
             "chunk_id": f"{document['doc_id']}__{number:04d}",
             "chunk_index": number,
-            "word_count": len(group),
+            "word_count": next_offset - offset,
             "char_start": start,
             "char_end": end,
             "text": text[start:end],
@@ -137,14 +165,20 @@ def main():
     parser.add_argument("salida", type=Path, help="Ruta de salida .jsonl")
     parser.add_argument(
         "--exactos", action="store_true",
-        help="Descarta el último fragmento si tiene menos de 300 palabras",
+        help="Obsoleto: conserva todo el contenido con la estrategia de 200–400 palabras",
     )
     args = parser.parse_args()
+    if args.exactos:
+        print(
+            "Aviso: --exactos está obsoleto y ya no descarta contenido; "
+            "se aplica la misma segmentación con solapamiento.",
+            file=sys.stderr,
+        )
     try:
         docs, chunks, short, empty = write_chunks(args.corpus, args.salida, args.exactos)
     except (OSError, BadZipFile, KeyError, TypeError, ValueError) as error:
         parser.exit(1, f"Error al segmentar el corpus: {error}\n")
-    print(f"{docs} documentos | {chunks} fragmentos | {short} finales cortos")
+    print(f"{docs} documentos | {chunks} fragmentos | {short} fragmentos de menos de 300 palabras")
     if empty:
         print(f"{empty} documentos no produjeron ningún fragmento.")
     print(f"Salida: {args.salida.resolve()}")
