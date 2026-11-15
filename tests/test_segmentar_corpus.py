@@ -117,16 +117,17 @@ class SegmentTests(unittest.TestCase):
         self.assertEqual(reconstructed, text)
 
     def test_short_documents_are_preserved_whole(self):
-        for word_count in (0, 1, 28, 199, 200, 299, 300, 301, 399, 400):
+        for word_count in (1, 28, 199, 200, 299, 300, 301, 399, 400):
             with self.subTest(words=word_count):
                 document = make_document(word_count)
                 self.assert_document_chunks(document, list(segment(document)))
 
-    def test_empty_and_nonlexical_text_are_preserved(self):
-        for text in ("", " \t\r\n", "…!? — 🚀"):
+    def test_empty_and_nonlexical_text_produce_no_chunks(self):
+        for text in ("", " \t\r\n", "…!? — 🚀", make_document(0)["text"]):
             with self.subTest(text=text):
-                document = {**make_document(0), "text": text}
-                self.assert_document_chunks(document, list(segment(document)))
+                document = {**make_document(0), "text": text, "word_count": 350}
+                self.assertEqual(WORD.findall(text), [])
+                self.assertEqual(list(segment(document)), [])
 
     def test_all_lengths_and_repeated_tail_boundaries(self):
         # Barre todos los restos posibles durante varios saltos de 255 palabras.
@@ -199,12 +200,6 @@ class SegmentTests(unittest.TestCase):
         self.assertEqual(chunks[0]["pages"], [1])
         self.assertEqual(chunks[1]["pages"], [1, 2])
 
-    def test_exact_argument_no_longer_discards_content(self):
-        for word_count in (0, 28, 299, 400, 401, 556):
-            with self.subTest(words=word_count):
-                document = make_document(word_count)
-                self.assertEqual(list(segment(document, True)), list(segment(document, False)))
-
     def test_identifiers_are_unique_across_documents(self):
         ids = []
         for doc_id, size in (("doc_1", 28), ("doc_2", 401), ("doc_3", 809)):
@@ -217,7 +212,7 @@ class SegmentTests(unittest.TestCase):
 
 class WriteChunksTests(unittest.TestCase):
     def test_directory_and_zip_produce_identical_jsonl_and_totals(self):
-        documents = [make_document(n, f"doc_{i}") for i, n in enumerate((28, 401, 809))]
+        documents = [make_document(n, f"doc_{i}") for i, n in enumerate((28, 0, 401, 809))]
         expected = [chunk for doc in documents for chunk in segment(doc)]
         with TemporaryDirectory() as temporary:
             root = Path(temporary)
@@ -231,7 +226,7 @@ class WriteChunksTests(unittest.TestCase):
                 with self.subTest(source=source):
                     output = root / f"{source.name}.jsonl"
                     totals = write_chunks(source, output)
-                    self.assertEqual(totals, (3, 6, 4, 0))
+                    self.assertEqual(totals, (4, 6, 4, 1))
                     rows = [json.loads(line) for line in output.read_text(encoding="utf-8").splitlines()]
                     self.assertEqual(rows, expected)
 
@@ -261,28 +256,34 @@ class WriteChunksTests(unittest.TestCase):
                 self.assertFalse(output.exists())
                 self.assertEqual(list(root.glob("*.tmp")), [])
 
-    def test_cli_exactos_warns_and_preserves_all_documents(self):
+    def test_cli_skips_empty_documents_and_reports_count(self):
         with TemporaryDirectory() as temporary:
             root = Path(temporary)
             corpus = root / "corpus"
-            write_fixture(corpus, [make_document(28, "corto"), make_document(556, "largo")])
-            normal = root / "normal.jsonl"
-            compatible = root / "exactos.jsonl"
-            for output, flags in ((normal, []), (compatible, ["--exactos"])):
-                result = subprocess.run(
-                    [sys.executable, "-B", str(SCRIPT), str(corpus), str(output), *flags],
-                    capture_output=True, text=True, encoding="utf-8",
-                    env={**os.environ, "PYTHONIOENCODING": "utf-8"},
-                    check=False,
-                )
-                self.assertEqual(result.returncode, 0, result.stderr)
-                self.assertIn("2 documentos | 3 fragmentos", result.stdout)
-                self.assertIn("1 fragmentos de menos de 300 palabras", result.stdout)
-                if flags:
-                    self.assertIn("--exactos está obsoleto", result.stderr)
-                else:
-                    self.assertEqual(result.stderr, "")
-            self.assertEqual(normal.read_bytes(), compatible.read_bytes())
+            documents = [
+                {**make_document(0, "vacio"), "text": ""},
+                make_document(28, "corto"),
+                {**make_document(0, "espacios"), "text": " \t\r\n"},
+                make_document(556, "largo"),
+                {**make_document(0, "sin_palabras"), "text": "…!? — 🚀"},
+            ]
+            write_fixture(corpus, documents)
+            output = root / "salida.jsonl"
+            result = subprocess.run(
+                [sys.executable, "-B", str(SCRIPT), str(corpus), str(output)],
+                capture_output=True, text=True, encoding="utf-8",
+                env={**os.environ, "PYTHONIOENCODING": "utf-8"},
+                check=False,
+            )
+            self.assertEqual(result.returncode, 0, result.stderr)
+            self.assertEqual(result.stderr, "")
+            self.assertIn("5 documentos | 3 fragmentos", result.stdout)
+            self.assertIn("1 fragmentos de menos de 300 palabras", result.stdout)
+            self.assertIn("3 documentos no produjeron ningún fragmento.", result.stdout)
+            rows = [json.loads(line) for line in output.read_text(encoding="utf-8").splitlines()]
+            expected = [chunk for doc in documents for chunk in segment(doc)]
+            self.assertEqual(rows, expected)
+            self.assertEqual([chunk["doc_id"] for chunk in rows], ["corto", "largo", "largo"])
 
     def test_legacy_index_by_decade_is_still_readable(self):
         with TemporaryDirectory() as temporary:

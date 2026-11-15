@@ -3,7 +3,6 @@
 import argparse
 import json
 import re
-import sys
 from contextlib import nullcontext
 from pathlib import Path, PurePosixPath
 from tempfile import NamedTemporaryFile
@@ -83,10 +82,12 @@ def word_ranges(word_count):
     return ranges
 
 
-def segment(document, exact=False):
-    """Conserva texto y metadatos; el argumento obsoleto exact ya no descarta nada."""
+def segment(document):
+    """Conserva texto y metadatos; omite documentos sin palabras reconocibles."""
     text = document["text"]
     words = list(WORD.finditer(text))
+    if not words:
+        return
     # Los tamaños son del fragmento; el mapa de páginas se proyecta más abajo.
     provenance = {
         key: value for key, value in document.items()
@@ -116,7 +117,7 @@ def segment(document, exact=False):
         yield chunk
 
 
-def write_chunks(corpus_path, output_path, exact=False):
+def write_chunks(corpus_path, output_path):
     """Escribe JSONL y publica el resultado solo tras procesar el índice completo."""
     if output_path.exists():
         raise FileExistsError(f"La salida ya existe: {output_path}")
@@ -143,7 +144,7 @@ def write_chunks(corpus_path, output_path, exact=False):
                 document_ids.add(doc_id)
 
                 previous_total = total_chunks
-                for chunk in segment(document, exact):
+                for chunk in segment(document):
                     output.write(json.dumps(chunk, ensure_ascii=False) + "\n")
                     total_chunks += 1
                     short_chunks += chunk["word_count"] < WORDS_PER_CHUNK
@@ -163,19 +164,9 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("corpus", type=Path, help="ZIP o carpeta con indice.json")
     parser.add_argument("salida", type=Path, help="Ruta de salida .jsonl")
-    parser.add_argument(
-        "--exactos", action="store_true",
-        help="Obsoleto: conserva todo el contenido con la estrategia de 200–400 palabras",
-    )
     args = parser.parse_args()
-    if args.exactos:
-        print(
-            "Aviso: --exactos está obsoleto y ya no descarta contenido; "
-            "se aplica la misma segmentación con solapamiento.",
-            file=sys.stderr,
-        )
     try:
-        docs, chunks, short, empty = write_chunks(args.corpus, args.salida, args.exactos)
+        docs, chunks, short, empty = write_chunks(args.corpus, args.salida)
     except (OSError, BadZipFile, KeyError, TypeError, ValueError) as error:
         parser.exit(1, f"Error al segmentar el corpus: {error}\n")
     print(f"{docs} documentos | {chunks} fragmentos | {short} fragmentos de menos de 300 palabras")
