@@ -11,12 +11,12 @@ Proyecto de Procesamiento de Lenguaje Natural (UC3M, 2026/27). Aplicación RAG c
 | `scripts/segmentar_corpus.py` | Divide los documentos en fragmentos de 300 palabras conservando `doc_id`, título y URL |
 | `fragmentos_base/misiones_300.jsonl` | Fragmentos (unidad de indexación): 18.992 fragmentos de 3.314 documentos |
 | `notebooks/01_preprocesado_spacy.ipynb` | Preprocesado con spaCy de fragmentos y consultas (Hito 1) |
-| `preprocesado/` | Resultados del preprocesado, que usan los baselines TF-IDF y BM25 |
+| `salidas_preprocesado/` | Resultados del preprocesado, que usan los baselines TF-IDF y BM25 |
 | `scripts/baselines.py` | Baselines de recuperación: preprocesado de consultas, TF-IDF + coseno, BM25 y ranking por documento |
 | `notebooks/02_baselines_tfidf_bm25.ipynb` | Baselines TF-IDF + coseno y BM25: implementación documentada y rankings por consulta (Hito 1) |
 | `resultados/` | Rankings por consulta de cada baseline (se generan cuando existe `queries.jsonl`) |
 
-### Contenido de `preprocesado/`
+### Contenido de `salidas_preprocesado/`
 
 | Fichero | Contenido |
 |---|---|

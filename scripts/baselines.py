@@ -38,7 +38,7 @@ WHITESPACE_RE = re.compile(r'\s+')
 class QueryPreprocessor:
     """Texto bruto -> tokens, igual que se hizo con los fragmentos del corpus.
 
-    Carga de `preprocesado/` la configuración, el modelo de n-gramas y el
+    Carga de `salidas_preprocesado/` la configuración, el modelo de n-gramas y el
     diccionario que generó el notebook 01, para no repetir ningún parámetro aquí.
     """
 
