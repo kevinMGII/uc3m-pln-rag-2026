@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "implementation_version": 1,
+  "input": {
+    "sha256": "39bfe809fb032480fa6db0b5ae659bc0a5dd4d7e485ac50bad33c5ec941dabf3",
+    "n_fragments": 18992,
+    "n_documents": 3314
+  },
+  "parameters": {
+    "spacy_model": "en_core_web_sm",
+    "valid_pos": [
+      "NOUN",
+      "VERB",
+      "ADJ",
+      "PROPN"
+    ],
+    "min_token_len": 2,
+    "keep_identifiers": true,
+    "max_identifier_len": 4,
+    "ocr_resegment": true,
+    "specific_stopwords": [
+      "et",
+      "al",
+      "fig",
+      "figure",
+      "table",
+      "page",
+      "ref",
+      "eq",
+      "etc"
+    ]
+  },
+  "spacy_version": "3.8.18",
+  "model": {
+    "name": "en_core_web_sm",
+    "loaded_name": "core_web_sm",
+    "version": "3.8.0",
+    "language": "en",
+    "pipeline": [
+      "tok2vec",
+      "tagger",
+      "attribute_ruler",
+      "lemmatizer"
+    ]
+  },
+  "wordninja_version": "2.0.0"
+}

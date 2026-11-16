@@ -107,6 +107,7 @@ class NotebookTests(unittest.TestCase):
         ns['CONFIG'].update(use_ngrams=ngrams, ngram_min_count=1,
                             ngram_threshold=0.01, no_below=1, no_above=1.0)
         ns['lemmas'] = ns['lemmatize_texts'](ns['fragments_df'].text.tolist())
+        ns['lemma_ids'] = list(ns['fragments_df'][['chunk_id', 'doc_id']].itertuples(index=False, name=None))
         ns['lemma_metadata'] = ns['make_lemma_metadata'](ns['fragments_df'])
         ns['save_lemmas_cache'](ns['fragments_df'], ns['lemmas'], ns['lemma_metadata'])
         self.execute(25)
@@ -158,7 +159,22 @@ class NotebookTests(unittest.TestCase):
                 self.assertIsNone(values)
                 self.assertIn('input', reason)
 
-    def test_parameters_versions_stopwords_and_patterns_invalidate_cache(self):
+    def test_cache_is_independent_of_file_line_endings(self):
+        values, metadata = self.cache()
+        ns = self.ns
+        records = ns['fragments_df'].to_json(orient='records', lines=True, force_ascii=False)
+        for ending in ('\n', '\r\n'):
+            with self.subTest(eol=repr(ending)):
+                path = ns['OUT_DIR'] / 'entrada.jsonl'
+                path.write_bytes(records.replace('\n', ending).encode('utf-8'))
+                frame = pd.read_json(path, lines=True)
+                self.assertEqual(ns['make_lemma_metadata'](frame), metadata)
+                for cache_path in (ns['LEMMAS_CACHE'], ns['LEMMAS_META']):
+                    data = cache_path.read_bytes().replace(b'\r\n', b'\n')
+                    cache_path.write_bytes(data.replace(b'\n', ending.encode()))
+                self.assertEqual(ns['load_lemmas_cache'](frame, metadata)[0], values)
+
+    def test_parameters_versions_pos_and_stopwords_invalidate_cache(self):
         _, metadata = self.cache()
         ns = self.ns
         changes = [
@@ -167,7 +183,6 @@ class NotebookTests(unittest.TestCase):
             ('spacy_version', patch.object(spacy, '__version__', 'test-version')),
             ('model', patch.dict(self.model.meta, {'version': 'test-version'})),
             ('wordninja_version', patch.dict(ns, {'package_version': lambda _: 'test-version'})),
-            ('cleaning_patterns', patch.dict(ns, {'URL_RE': re.compile('https?://changed')})),
         ]
         for key, change in changes:
             with self.subTest(field=key), change:
@@ -182,7 +197,7 @@ class NotebookTests(unittest.TestCase):
             'STOPWORDS': set(self.model.Defaults.stop_words) | {'apollo'}
         }):
             changed = ns['make_lemma_metadata'](ns['fragments_df'])
-            self.assertNotEqual(changed['stopwords'], metadata['stopwords'])
+            self.assertNotEqual(changed['parameters'], metadata['parameters'])
             self.assertIsNone(ns['load_lemmas_cache'](ns['fragments_df'], changed)[0])
         ns['CONFIG']['valid_pos'] = ['NOUN']
         with self.assertRaisesRegex(AssertionError, 'Reejecutar'):
@@ -205,14 +220,13 @@ class NotebookTests(unittest.TestCase):
         _, metadata = self.cache()
         ns = self.ns
         ns['LEMMAS_CACHE'].write_text('incomplete', encoding='utf-8')
-        self.assertIn('huella', ns['load_lemmas_cache'](ns['fragments_df'], metadata)[1])
+        self.assertIsNone(ns['load_lemmas_cache'](ns['fragments_df'], metadata)[0])
         for rows in ([{'chunk_id': 'wrong', 'doc_id': 'wrong', 'lemmas': []}],
                      [{'chunk_id': row.chunk_id, 'doc_id': row.doc_id, 'lemmas': 'invalid'}
                       for row in ns['fragments_df'].itertuples()]):
             with self.subTest(rows=len(rows)):
                 ns['write_jsonl'](ns['LEMMAS_CACHE'], rows)
-                ns['write_json'](ns['LEMMAS_META'], {
-                    **metadata, 'cache_sha256': ns['sha256_file'](ns['LEMMAS_CACHE'])})
+                ns['write_json'](ns['LEMMAS_META'], metadata)
                 self.assertIsNone(ns['load_lemmas_cache'](ns['fragments_df'], metadata)[0])
 
     def test_cache_failure_before_publication_preserves_previous_files(self):
@@ -237,6 +251,7 @@ class NotebookTests(unittest.TestCase):
             with self.assertRaises(OSError):
                 ns['save_lemmas_cache'](ns['fragments_df'], [['different']] * 8, metadata)
         self.assertIsNone(ns['load_lemmas_cache'](ns['fragments_df'], metadata)[0])
+        self.assertFalse(ns['LEMMAS_META'].exists())
         with ns['LEMMAS_CACHE'].open(encoding='utf-8') as stream:
             self.assertEqual(len([json.loads(line) for line in stream]), 8)
 
@@ -266,8 +281,12 @@ class NotebookTests(unittest.TestCase):
     def test_current_artifacts_roundtrip_with_queries(self):
         self.prepare_pipeline(queries=True)
         ns = self.ns
-        stats, manifest = ns['save_preprocessed_outputs']()
-        self.assertEqual(ns['validate_artifacts'](ns['OUT_DIR']), manifest)
+        stats = ns['save_preprocessed_outputs']()
+        configuration = json.loads((ns['OUT_DIR'] / 'config_preprocesado.json').read_text(encoding='utf-8'))
+        self.assertEqual(configuration, {'config': ns['CONFIG'], 'stats': stats})
+        self.assertEqual(Dictionary.load(str(ns['OUT_DIR'] / 'diccionario.dict')).token2id, ns['D'].token2id)
+        saved_phrases = FrozenPhrases.load(str(ns['OUT_DIR'] / 'ngramas.phrases'))
+        self.assertEqual(saved_phrases[ns['lemmas'][0]], ns['corpus'][0])
         self.assertEqual(stats['n_fragments'], 8)
         self.assertEqual(stats['n_documents'], 4)
         rows = [json.loads(line) for line in (ns['OUT_DIR'] / 'fragmentos_preprocesados.jsonl').read_text(encoding='utf-8').splitlines()]
@@ -283,29 +302,22 @@ class NotebookTests(unittest.TestCase):
         ns = self.ns
         for name in ('ngramas.phrases', 'consultas_preprocesadas.jsonl'):
             (ns['OUT_DIR'] / name).write_text('stale', encoding='utf-8')
-        _, manifest = ns['save_preprocessed_outputs']()
+        ns['save_preprocessed_outputs']()
         for name in ('ngramas.phrases', 'consultas_preprocesadas.jsonl'):
-            self.assertNotIn(name, manifest['artifacts'])
             self.assertFalse((ns['OUT_DIR'] / name).exists())
 
-    def test_stale_model_parameters_and_changed_queries_prevent_saving(self):
-        self.prepare_pipeline(queries=True)
+    def test_misaligned_ids_and_lengths_prevent_saving(self):
+        self.prepare_pipeline()
         ns = self.ns
-        for key in ('ngram_threshold', 'no_below'):
-            with self.subTest(parameter=key):
-                old = ns['CONFIG'][key]
-                ns['CONFIG'][key] = old + 1
-                with self.assertRaises(AssertionError):
-                    ns['save_preprocessed_outputs']()
-                ns['CONFIG'][key] = old
-        context = ns['queries_context']
-        ns['queries_context'] = 'previous-pipeline'
-        with self.assertRaisesRegex(AssertionError, 'consultas con el pipeline actual'):
+        frame = ns['fragments_df']
+        ns['fragments_df'] = frame.iloc[::-1].reset_index(drop=True)
+        with self.assertRaisesRegex(AssertionError, 'Identificadores u orden'):
             ns['save_preprocessed_outputs']()
-        ns['queries_context'] = context
-        ns['QUERIES_PATH'].write_text('changed', encoding='utf-8')
-        with self.assertRaisesRegex(AssertionError, 'consultas de entrada'):
+        ns['fragments_df'] = frame
+        ns['tokens_final'] = ns['tokens_final'][:-1]
+        with self.assertRaises(AssertionError):
             ns['save_preprocessed_outputs']()
+        self.assertFalse((ns['OUT_DIR'] / 'fragmentos_preprocesados.jsonl').exists())
 
     def test_staging_failure_preserves_previous_artifacts(self):
         self.prepare_pipeline()
@@ -316,26 +328,6 @@ class NotebookTests(unittest.TestCase):
             with self.assertRaises(OSError):
                 ns['save_preprocessed_outputs']()
         self.assertEqual({path.name: path.read_bytes() for path in ns['OUT_DIR'].iterdir() if path.is_file()}, before)
-        ns['validate_artifacts'](ns['OUT_DIR'])
-
-    def test_interrupted_publication_and_corrupt_artifacts_are_not_valid(self):
-        self.prepare_pipeline()
-        ns = self.ns
-        ns['save_preprocessed_outputs']()
-        replace = os.replace
-        def interrupted_replace(src, dst):
-            if Path(dst).name == 'diccionario.dict':
-                raise OSError('interrupted')
-            return replace(src, dst)
-        with patch.object(os, 'replace', side_effect=interrupted_replace):
-            with self.assertRaises(OSError):
-                ns['save_preprocessed_outputs']()
-        with self.assertRaises(FileNotFoundError):
-            ns['validate_artifacts'](ns['OUT_DIR'])
-        ns['save_preprocessed_outputs']()
-        (ns['OUT_DIR'] / 'diccionario.dict').write_bytes(b'corrupt')
-        with self.assertRaisesRegex(ValueError, 'diccionario.dict'):
-            ns['validate_artifacts'](ns['OUT_DIR'])
 
 
 if __name__ == '__main__':

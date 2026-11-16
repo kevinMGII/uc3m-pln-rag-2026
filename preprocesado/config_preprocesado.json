@@ -29,12 +29,21 @@
     "no_above": 0.5
   },
   "stats": {
-    "n_fragments": 14522,
-    "n_documents": 2397,
-    "vocab_before_filter": 87309,
-    "vocab_after_filter": 45943,
-    "n_ngrams": 13679,
-    "mean_tokens_per_fragment": 135.0,
-    "spacy_version": "3.8.18"
+    "n_fragments": 18992,
+    "n_documents": 3314,
+    "vocab_before_filter": 93435,
+    "vocab_after_filter": 57168,
+    "n_ngrams": 16634,
+    "mean_tokens_per_fragment": 134.8,
+    "median_tokens_per_fragment": 141.0,
+    "empty_fragments_after_preprocessing": 1,
+    "ocr": {
+      "fragments_with_angle_brackets": 990,
+      "fragments_with_spaced_letters": 3356,
+      "press_kit_fragments": 3218,
+      "press_kit_fragments_with_spaced_letters": 2198
+    },
+    "spacy_version": "3.8.18",
+    "gensim_version": "4.4.0"
   }
 }
