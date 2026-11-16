@@ -15,6 +15,9 @@ Proyecto de Procesamiento de Lenguaje Natural (UC3M, 2026/27). Aplicación RAG c
 | `scripts/baselines.py` | Baselines de recuperación: preprocesado de consultas, TF-IDF + coseno, BM25 y ranking por documento |
 | `notebooks/02_baselines_tfidf_bm25.ipynb` | Baselines TF-IDF + coseno y BM25: implementación documentada y rankings por consulta (Hito 1) |
 | `resultados/` | Rankings por consulta de cada baseline (se generan cuando existe `queries.jsonl`) |
+| `queries.jsonl` | Consultas de evaluación *known-item*, con el documento relevante y el fragmento de origen |
+| `consultas/` | Cómo se crearon y revisaron las consultas: candidatos, decisiones y comprobaciones (ver `consultas/README.md`) |
+| `scripts/muestrear_fragmentos.py`, `scripts/generar_consultas.py`, `scripts/revisar_consultas.py` | Muestreo de fragmentos, generación de las consultas con ollama y comprobaciones automáticas |
 
 ### Contenido de `salidas_preprocesado/`
 
@@ -49,6 +52,10 @@ Sigue el notebook *Text Vectorization I* de la asignatura, adaptado al corpus:
 
 Para regenerar los resultados, ejecutad el notebook desde `notebooks/` (unos 5 minutos en CPU; con la caché `lemas_spacy.jsonl`, unos segundos).
 
+### Consultas de evaluación (`queries.jsonl`)
+
+Consultas en inglés. Se eligieron 56 fragmentos al azar (muestreo estratificado por fuente, primero el documento y después el fragmento), se descartaron 21 por ambiguos o sin contenido útil, y un modelo de pesos abiertos servido con ollama (`llama3.1:8b`) escribió la consulta de cada uno de los 35 restantes con la instrucción de no copiar el texto. El proceso, el prompt, los motivos de descarte y la revisión manual están en `consultas/README.md`.
+
 ### Baselines (`notebooks/02_baselines_tfidf_bm25.ipynb` y `scripts/baselines.py`)
 
 Siguen la sección 4 del notebook *Text Vectorization I*. La unidad de indexación es el fragmento, así que el IDF y la longitud media se calculan sobre fragmentos.
@@ -65,6 +72,6 @@ Con `queries.jsonl` en la raíz, el notebook guarda en `resultados/` los fichero
 
 - [x] Corpus y fragmentación
 - [x] Preprocesado de documentos y consultas con spaCy
-- [ ] Consultas de evaluación (`queries.jsonl`)
+- [x] Consultas de evaluación (`queries.jsonl`), generadas con ollama y revisadas
 - [x] Baselines TF-IDF y BM25 (falta generar los rankings con `queries.jsonl`)
 - [ ] Evaluación (Recall@5, Recall@10, MRR) y `MILESTONE_1.md`

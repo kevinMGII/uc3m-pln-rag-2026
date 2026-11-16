@@ -1,0 +1,35 @@
+{"qid": "q01", "query": "US astronaut's 20-minute spacewalk and subsequent reentry preparations in a small cabin with limited radio communications.", "relevant_ids": ["doc_1838"], "source_chunk": "doc_1838__0009"}
+{"qid": "q02", "query": "US space agency planned to extend the life of a space station with a remote-controlled booster system and shuttle flights", "relevant_ids": ["doc_2258"], "source_chunk": "doc_2258__0032"}
+{"qid": "q03", "query": "Ukrainian remote sensing spacecraft sent up in August 1995 whose Chilean companion payload never separated from it", "relevant_ids": ["doc_2939"], "source_chunk": "doc_2939__0001"}
+{"qid": "q04", "query": "Soviet Union launched first satellite used as radar calibration target in low earth orbit for anti-ballistic missile tests in 1964", "relevant_ids": ["doc_1805"], "source_chunk": "doc_1805__0001"}
+{"qid": "q05", "query": "first uncrewed test of a Soyuz spacecraft in an elliptical orbit around Earth in March 1968", "relevant_ids": ["doc_2056"], "source_chunk": "doc_2056__0001"}
+{"qid": "q06", "query": "Indian Earth imaging satellite built from an engineering model, lost in September 1993 when its rocket's first flight failed", "relevant_ids": ["doc_2841"], "source_chunk": "doc_2841__0002"}
+{"qid": "q07", "query": "spacecraft with X-ray detectors exposed to space for 11 months and later scanned on Earth in Switzerland", "relevant_ids": ["doc_2783"], "source_chunk": "doc_2783__0003"}
+{"qid": "q08", "query": "Chinese orbital station crew changeover with a record number of astronauts aboard and four spacewalks in their half-year stay", "relevant_ids": ["doc_1429"], "source_chunk": "doc_1429__0003"}
+{"qid": "q09", "query": "Spacecraft carrying dry cargo including Japanese food for astronaut arriving in March 2009 docked at ISS module", "relevant_ids": ["doc_0442"], "source_chunk": "doc_0442__0002"}
+{"qid": "q10", "query": "spacecraft launched by NASA in 2013 that revealed complex features at the Sun's interface region", "relevant_ids": ["doc_0833"], "source_chunk": "doc_0833__0003"}
+{"qid": "q11", "query": "American communications satellite launched by Proton-M rocket from Baikonur Cosmodrome in June 2009", "relevant_ids": ["doc_0530"], "source_chunk": "doc_0530__0001"}
+{"qid": "q12", "query": "television satellite sent up from French Guiana in November 2012 to take over an older one's slot serving Europe", "relevant_ids": ["doc_0731"], "source_chunk": "doc_0731__0001"}
+{"qid": "q13", "query": "Italian laser-ranged satellite and its July 2022 successor for testing general relativity and geodynamics", "relevant_ids": ["doc_0749"], "source_chunk": "doc_0749__0002"}
+{"qid": "q14", "query": "American navigation satellite launched on October 4 2012 with a launch mass of 1630 kilograms", "relevant_ids": ["doc_0789"], "source_chunk": "doc_0789__0001"}
+{"qid": "q15", "query": "Pakistan's first domestic Earth observation satellite launched from China in January 2025 with Chinese rocket support", "relevant_ids": ["doc_1572"], "source_chunk": "doc_1572__0001"}
+{"qid": "q16", "query": "Brazilian communications satellite sent up from French Guiana in December 2016 on a European heavy rocket", "relevant_ids": ["doc_1076"], "source_chunk": "doc_1076__0001"}
+{"qid": "q17", "query": "communications satellite with dual L-band and Ka-band capabilities launched on December 22 2021 from Tanegashima", "relevant_ids": ["doc_1342"], "source_chunk": "doc_1342__0001"}
+{"qid": "q18", "query": "designing masks for stellar and custom targets with specific pixel selection workflow steps", "relevant_ids": ["doc_3286"], "source_chunk": "doc_3286__0004"}
+{"qid": "q19", "query": "importer classes for different types of models and their implementation in Java and MATLAB programming languages", "relevant_ids": ["doc_3283"], "source_chunk": "doc_3283__0009"}
+{"qid": "q20", "query": "satellite laser altimetry data from January 2019 used to estimate water depths in Antarctic lakes and ice shelf", "relevant_ids": ["doc_3302"], "source_chunk": "doc_3302__0013"}
+{"qid": "q21", "query": "spacecraft launched from Vandenberg Air Force Base in June 2004 with a specific vehicle configuration", "relevant_ids": ["doc_3191"], "source_chunk": "doc_3191__0033"}
+{"qid": "q22", "query": "earlier infrared astronomy missions compared with the sensitivity of NASA's 2009 all-sky survey telescope", "relevant_ids": ["doc_3174"], "source_chunk": "doc_3174__0034"}
+{"qid": "q23", "query": "orbiter mission with specific instruments to monitor Martian atmosphere and surface for nearly two Earth years starting in 2000", "relevant_ids": ["doc_3212"], "source_chunk": "doc_3212__0004"}
+{"qid": "q24", "query": "service structure and umbilical tower at the launch complex used for the first crewed Apollo flight", "relevant_ids": ["doc_3221"], "source_chunk": "doc_3221__0072"}
+{"qid": "q25", "query": "timeline for discarding the lunar module, its crash on the Moon and the homeward burn of the third landing attempt", "relevant_ids": ["doc_3226"], "source_chunk": "doc_3226__0031"}
+{"qid": "q26", "query": "twin Soviet flights in 1962 where one cosmonaut spotted the other ship and came back early after a codeword mix-up", "relevant_ids": ["doc_1757"], "source_chunk": "doc_1757__0003"}
+{"qid": "q27", "query": "India's 1996 Earth resources satellite that also carried an instrument for X-ray astronomy", "relevant_ids": ["doc_2969"], "source_chunk": "doc_2969__0001"}
+{"qid": "q28", "query": "vietnamese cube satellite launched from iss in july 2012 with low earth orbit and failed communication", "relevant_ids": ["doc_0735"], "source_chunk": "doc_0735__0001"}
+{"qid": "q29", "query": "Nepalese satellite launched from Virginia in 2019 to study the country's geography and develop advanced satellites", "relevant_ids": ["doc_1263"], "source_chunk": "doc_1263__0002"}
+{"qid": "q30", "query": "Chinese company provided in-orbit delivery services for an international customer in Africa that was later replaced by another satellite.", "relevant_ids": ["doc_0375"], "source_chunk": "doc_0375__0002"}
+{"qid": "q31", "query": "Indian communications satellite lost in launch failure on December 25 2010 with 36 C band transponders", "relevant_ids": ["doc_0585"], "source_chunk": "doc_0585__0001"}
+{"qid": "q32", "query": "Two small satellites launched by Swedish and French space agencies on Dnepr rocket in June 2010 for formation flying test", "relevant_ids": ["doc_0610"], "source_chunk": "doc_0610__0001"}
+{"qid": "q33", "query": "trends in visible bands of a satellite instrument after power cycling and launch changes over time", "relevant_ids": ["doc_3289"], "source_chunk": "doc_3289__0004"}
+{"qid": "q34", "query": "measuring lunar gravity field accurately to determine structure and thermal evolution of a terrestrial planet's interior", "relevant_ids": ["doc_3168"], "source_chunk": "doc_3168__0022"}
+{"qid": "q35", "query": "radar signals bounced off the lunar surface to study regolith depth on the flight that tested a hand-pulled equipment cart", "relevant_ids": ["doc_3227"], "source_chunk": "doc_3227__0089"}
