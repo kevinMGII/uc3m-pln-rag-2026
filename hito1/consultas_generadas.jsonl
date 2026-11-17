@@ -1,0 +1,100 @@
+{"cid": "c001", "doc_id": "doc_0488", "chunk_id": "doc_0488__0002", "model": "llama3.1:8b", "query": "Satellite mission details: launch date, orbit, transponders, and name changes for a European satellite fleet"}
+{"cid": "c002", "doc_id": "doc_1309", "chunk_id": "doc_1309__0001", "model": "llama3.1:8b", "query": "X37B OTV6 mission details: launch date, duration, orbit parameters, landing site, and classification"}
+{"cid": "c003", "doc_id": "doc_2059", "chunk_id": "doc_2059__0001", "model": "llama3.1:8b", "query": "Space mission details for Soyuz 7K-L1 spacecraft launched in November 1968 with lunar flyby and biological payload."}
+{"cid": "c004", "doc_id": "doc_2097", "chunk_id": "doc_2097__0003", "model": "llama3.1:8b", "query": "Spacecraft experiment details and antenna specifications for Nimbus 3 mission"}
+{"cid": "c005", "doc_id": "doc_2651", "chunk_id": "doc_2651__0004", "model": "llama3.1:8b", "query": "Technical issues with Astra 1A satellite, including overheating and power system anomalies, between 1993 and 2004."}
+{"cid": "c006", "doc_id": "doc_0421", "chunk_id": "doc_0421__0016", "model": "llama3.1:8b", "query": "Gamma-ray detector technology used in Large Area Telescope on NASA's space mission"}
+{"cid": "c007", "doc_id": "doc_0915", "chunk_id": "doc_0915__0001", "model": "llama3.1:8b", "query": "Details of GSAT-16 space mission, including launch date and orbital parameters"}
+{"cid": "c008", "doc_id": "doc_2462", "chunk_id": "doc_2462__0002", "model": "llama3.1:8b", "query": "Salyut 6 space station mission details including crew and docking procedures"}
+{"cid": "c009", "doc_id": "doc_2546", "chunk_id": "doc_2546__0005", "model": "llama3.1:8b", "query": "Specifications of HIRS/2, MSU, and SSU instruments on NOAA satellites for atmospheric temperature measurement"}
+{"cid": "c010", "doc_id": "doc_2280", "chunk_id": "doc_2280__0005", "model": "llama3.1:8b", "query": "Salyut space station gun system and its operation during Soyuz missions in 1974"}
+{"cid": "c011", "doc_id": "doc_1723", "chunk_id": "doc_1723__0001", "model": "llama3.1:8b", "query": "Spacecraft characteristics and mission details for Kosmos 2, a Soviet technology demonstration satellite."}
+{"cid": "c012", "doc_id": "doc_3209", "chunk_id": "doc_3209__0026", "model": "llama3.1:8b", "query": "Space mission objectives and design of the SeaWinds instrument on QuikScat satellite"}
+{"cid": "c013", "doc_id": "doc_2346", "chunk_id": "doc_2346__0001", "model": "llama3.1:8b", "query": "Details of Soviet early warning satellite Kosmos 903 launched in April 1977 and its orbital parameters."}
+{"cid": "c014", "doc_id": "doc_2244", "chunk_id": "doc_2244__0002", "model": "llama3.1:8b", "query": "Details about the Mars 5 space mission including its instruments and launch details in 1973."}
+{"cid": "c015", "doc_id": "doc_2993", "chunk_id": "doc_2993__0002", "model": "llama3.1:8b", "query": "Space Shuttle mission to Mir space station with details on crew and scientific experiments conducted."}
+{"cid": "c016", "doc_id": "doc_3181", "chunk_id": "doc_3181__0038", "model": "llama3.1:8b", "query": "Mars Phoenix mission landing and surface operations plan"}
+{"cid": "c017", "doc_id": "doc_3147", "chunk_id": "doc_3147__0003", "model": "llama3.1:8b", "query": "Space Shuttle STS-96 mission details including payloads, launch date, and experiments on board."}
+{"cid": "c018", "doc_id": "doc_2011", "chunk_id": "doc_2011__0001", "model": "llama3.1:8b", "query": "First Australian satellite mission details November 1967 launch Sparta rocket Woomera Test Range"}
+{"cid": "c019", "doc_id": "doc_3077", "chunk_id": "doc_3077__0001", "model": "llama3.1:8b", "query": "Details of the Eurostar-2000 bus communications satellite launched on April 28, 1998."}
+{"cid": "c020", "doc_id": "doc_3167", "chunk_id": "doc_3167__0039", "model": "llama3.1:8b", "query": "Organic material detection on Mars using Curiosity rover's SAM instrument and control experiments"}
+{"cid": "c021", "doc_id": "doc_2403", "chunk_id": "doc_2403__0004", "model": "llama3.1:8b", "query": "Details of the HEAO C-3 space mission's scientific objectives and experimental setup"}
+{"cid": "c022", "doc_id": "doc_1807", "chunk_id": "doc_1807__0001", "model": "llama3.1:8b", "query": "Spacecraft failure details for Luna E-6 No.5 lunar landing mission in 1964"}
+{"cid": "c023", "doc_id": "doc_0983", "chunk_id": "doc_0983__0003", "model": "llama3.1:8b", "query": "Results from the DAMPE space mission's scientific discoveries and measurements of cosmic particle spectra"}
+{"cid": "c024", "doc_id": "doc_0011", "chunk_id": "doc_0011__0001", "model": "llama3.1:8b", "query": "Russian Communications Satellite Ekspress-A2 Mission Details"}
+{"cid": "c025", "doc_id": "doc_2516", "chunk_id": "doc_2516__0005", "model": "llama3.1:8b", "query": "STS-8 mission payload and experiments description, including PFTA and Getaway Special payloads details."}
+{"cid": "c026", "doc_id": "doc_0331", "chunk_id": "doc_0331__0023", "model": "llama3.1:8b", "query": "STS-121 space mission audio files and contingency planning documents"}
+{"cid": "c027", "doc_id": "doc_0454", "chunk_id": "doc_0454__0002", "model": "llama3.1:8b", "query": "Expedition 17 crew members and their roles in the Soyuz TMA-12 mission to ISS"}
+{"cid": "c028", "doc_id": "doc_1177", "chunk_id": "doc_1177__0008", "model": "llama3.1:8b", "query": "SpaceX Falcon Heavy maiden flight payload and its cultural significance as a work of art"}
+{"cid": "c029", "doc_id": "doc_0402", "chunk_id": "doc_0402__0003", "model": "llama3.1:8b", "query": "Status of AAUSAT-II CubeSat mission from launch to current operational status"}
+{"cid": "c030", "doc_id": "doc_1842", "chunk_id": "doc_1842__0008", "model": "llama3.1:8b", "query": "Details of Gemini 6A's rendezvous with Gemini 7 spacecraft in December 1965 mission."}
+{"cid": "c031", "doc_id": "doc_0048", "chunk_id": "doc_0048__0004", "model": "llama3.1:8b", "query": "STS-88 mission log December 2000: crew interactions with Expedition 1 space station"}
+{"cid": "c032", "doc_id": "doc_2807", "chunk_id": "doc_2807__0001", "model": "llama3.1:8b", "query": "Progress M-12 mission details: Soyuz-U2 launch, Mir space station resupply, orbital parameters"}
+{"cid": "c033", "doc_id": "doc_2009", "chunk_id": "doc_2009__0001", "model": "llama3.1:8b", "query": "Surveyor 4 lunar lander mission details including launch date and impact site"}
+{"cid": "c034", "doc_id": "doc_2783", "chunk_id": "doc_2783__0002", "model": "llama3.1:8b", "query": "Design and experiments of the EURECA space mission, including its thermal control and attitude control systems."}
+{"cid": "c035", "doc_id": "doc_1288", "chunk_id": "doc_1288__0001", "model": "llama3.1:8b", "query": "Information about the TIBA-1 space mission, including its launch details and technical specifications."}
+{"cid": "c036", "doc_id": "doc_0862", "chunk_id": "doc_0862__0001", "model": "llama3.1:8b", "query": "SpaceX Falcon 9 rocket launch details for SES-8 communications satellite mission in December 2013"}
+{"cid": "c037", "doc_id": "doc_1628", "chunk_id": "doc_1628__0008", "model": "llama3.1:8b", "query": "Space mission experiment results: scanner and VLF receiver performance issues in low Earth orbit"}
+{"cid": "c038", "doc_id": "doc_1031", "chunk_id": "doc_1031__0001", "model": "llama3.1:8b", "query": "Boeing 702SP space mission details, launched June 15, 2016 with Falcon 9 rocket"}
+{"cid": "c039", "doc_id": "doc_1425", "chunk_id": "doc_1425__0001", "model": "llama3.1:8b", "query": "Brown University space mission details: CubeSat SBUDNIC launch, purpose, and lifespan"}
+{"cid": "c040", "doc_id": "doc_1461", "chunk_id": "doc_1461__0001", "model": "llama3.1:8b", "query": "Details about the Turkish Earth observation satellite launched in April 2023 with high-resolution capabilities"}
+{"cid": "c041", "doc_id": "doc_3298", "chunk_id": "doc_3298__0004", "model": "llama3.1:8b", "query": "GRACE-FO mission impact on Antarctic ice sheet mass change estimates compared to SLR and altimetry products"}
+{"cid": "c042", "doc_id": "doc_1542", "chunk_id": "doc_1542__0001", "model": "llama3.1:8b", "query": "Details of final US Space Force launch using Atlas V rocket in 2024"}
+{"cid": "c043", "doc_id": "doc_3056", "chunk_id": "doc_3056__0001", "model": "llama3.1:8b", "query": "Satellite mission details: AfriStar, geostationary orbit, digital radio broadcasting, Worldspace operator"}
+{"cid": "c044", "doc_id": "doc_2104", "chunk_id": "doc_2104__0002", "model": "llama3.1:8b", "query": "Space mission details: communications satellite launch, specifications, and operation in geostationary orbit."}
+{"cid": "c045", "doc_id": "doc_2613", "chunk_id": "doc_2613__0001", "model": "llama3.1:8b", "query": "Details of Japanese space mission launched on August 12, 1986 aboard an H-I rocket"}
+{"cid": "c046", "doc_id": "doc_0313", "chunk_id": "doc_0313__0001", "model": "llama3.1:8b", "query": "Russian communications satellite launched in 2006 by Soyuz-2 rocket"}
+{"cid": "c047", "doc_id": "doc_2962", "chunk_id": "doc_2962__0001", "model": "llama3.1:8b", "query": "Details of Japan's 1996 hypersonic flight experiment spacecraft, including mission details and specifications."}
+{"cid": "c048", "doc_id": "doc_1395", "chunk_id": "doc_1395__0001", "model": "llama3.1:8b", "query": "European Space Agency heliophysics CubeSat mission details, including launch and disposal dates."}
+{"cid": "c049", "doc_id": "doc_0368", "chunk_id": "doc_0368__0001", "model": "llama3.1:8b", "query": "GLONASS satellite launch details December 25 2007 Baikonur Cosmodrome"}
+{"cid": "c050", "doc_id": "doc_2284", "chunk_id": "doc_2284__0001", "model": "llama3.1:8b", "query": "Crewed spaceflight to Salyut 3 space station in August 1974, mission details and outcome"}
+{"cid": "c051", "doc_id": "doc_2204", "chunk_id": "doc_2204__0004", "model": "llama3.1:8b", "query": "Soviet space mission debris re-entry incidents in New Zealand and the Indian Ocean"}
+{"cid": "c052", "doc_id": "doc_1197", "chunk_id": "doc_1197__0001", "model": "llama3.1:8b", "query": "SpaceX mission SSO-A: details about temporary satellite launched into Earth's orbit in 2018"}
+{"cid": "c053", "doc_id": "doc_1179", "chunk_id": "doc_1179__0001", "model": "llama3.1:8b", "query": "SES-14 mission details: spacecraft properties, launch date, orbital parameters, and mission objectives"}
+{"cid": "c054", "doc_id": "doc_1874", "chunk_id": "doc_1874__0001", "model": "llama3.1:8b", "query": "Details of the OV1-2 space mission launched by the USAF in October 1965"}
+{"cid": "c055", "doc_id": "doc_0578", "chunk_id": "doc_0578__0004", "model": "llama3.1:8b", "query": "SpaceX mission Falcon 9 Dragon spacecraft anomalies June 2010 UFO sightings"}
+{"cid": "c056", "doc_id": "doc_2642", "chunk_id": "doc_2642__0001", "model": "llama3.1:8b", "query": "Progress 29 spacecraft mission to Mir space station resupply details April 1987"}
+{"cid": "c057", "doc_id": "doc_2884", "chunk_id": "doc_2884__0010", "model": "llama3.1:8b", "query": "Space mission data processing and transmission systems for search and rescue operations and space environment monitoring"}
+{"cid": "c058", "doc_id": "doc_2935", "chunk_id": "doc_2935__0001", "model": "llama3.1:8b", "query": "Progress M-29 spacecraft mission details including launch, docking with Mir space station, and deorbit"}
+{"cid": "c059", "doc_id": "doc_2366", "chunk_id": "doc_2366__0008", "model": "llama3.1:8b", "query": "Space mission instrument descriptions and data catalogs for Jupiter and Saturn exploration"}
+{"cid": "c060", "doc_id": "doc_1266", "chunk_id": "doc_1266__0001", "model": "llama3.1:8b", "query": "Progress MS-13 space mission details, including launch date, duration, and cargo specifications"}
+{"cid": "c061", "doc_id": "doc_0102", "chunk_id": "doc_0102__0005", "model": "llama3.1:8b", "query": "Technical issues with instruments on Aqua satellite between 2007 and 2016"}
+{"cid": "c062", "doc_id": "doc_2912", "chunk_id": "doc_2912__0001", "model": "llama3.1:8b", "query": "APstar 2 spacecraft launch details including manufacturer, launch date, and orbital parameters"}
+{"cid": "c063", "doc_id": "doc_1511", "chunk_id": "doc_1511__0001", "model": "llama3.1:8b", "query": "European Space Agency Earth observation mission utilizing AI apps on a 6U CubeSat launched in August 2024"}
+{"cid": "c064", "doc_id": "doc_1490", "chunk_id": "doc_1490__0001", "model": "llama3.1:8b", "query": "GPS Block III satellite launch details January 2023"}
+{"cid": "c065", "doc_id": "doc_1889", "chunk_id": "doc_1889__0003", "model": "llama3.1:8b", "query": "Spacewalk difficulties during Voskhod 2 mission details including crew member's suit issues"}
+{"cid": "c066", "doc_id": "doc_1730", "chunk_id": "doc_1730__0001", "model": "llama3.1:8b", "query": "Details of Soviet space mission Kosmos 6, launched June 30, 1962, with DS-P1 satellite properties"}
+{"cid": "c067", "doc_id": "doc_0372", "chunk_id": "doc_0372__0003", "model": "llama3.1:8b", "query": "Spacecraft mission logs for STP-1 launch on Atlas V from Cape Canaveral Air Force Station in 2007"}
+{"cid": "c068", "doc_id": "doc_1634", "chunk_id": "doc_1634__0004", "model": "llama3.1:8b", "query": "Pioneer 4 space mission details and technical specifications"}
+{"cid": "c069", "doc_id": "doc_2400", "chunk_id": "doc_2400__0001", "model": "llama3.1:8b", "query": "Soviet US-K early warning satellite mission details, Oko programme, Molniya orbit"}
+{"cid": "c070", "doc_id": "doc_2272", "chunk_id": "doc_2272__0001", "model": "llama3.1:8b", "query": "Spacecraft Soyuz 7K-S orbital test flight details Soviet space program August 1974"}
+{"cid": "c071", "doc_id": "doc_2042", "chunk_id": "doc_2042__0001", "model": "llama3.1:8b", "query": "Soviet space program lunar orbiter mission details April 1968"}
+{"cid": "c072", "doc_id": "doc_0477", "chunk_id": "doc_0477__0001", "model": "llama3.1:8b", "query": "Russian satellite launched May 2008 with amateur radio transponders and Sputnik 1 commemoration payload"}
+{"cid": "c073", "doc_id": "doc_1743", "chunk_id": "doc_1743__0001", "model": "llama3.1:8b", "query": "Spacecraft Mars 2MV-4 No.1 mission details Soviet Union 1962 failure and orbital parameters"}
+{"cid": "c074", "doc_id": "doc_2075", "chunk_id": "doc_2075__0001", "model": "llama3.1:8b", "query": "Launch details for Soviet space mission Kosmos-275 in March 1969"}
+{"cid": "c075", "doc_id": "doc_3288", "chunk_id": "doc_3288__0007", "model": "llama3.1:8b", "query": "Space mission document: OLI spectroradiometric sensitivity to changes in chlorophyll levels"}
+{"cid": "c076", "doc_id": "doc_3073", "chunk_id": "doc_3073__0011", "model": "llama3.1:8b", "query": "Lunar gravity mapping mission data from Clementine and Lunar Prospector space missions"}
+{"cid": "c077", "doc_id": "doc_2459", "chunk_id": "doc_2459__0001", "model": "llama3.1:8b", "query": "Soyuz 39 space mission details: crew, spacecraft, launch date, duration, and orbital parameters"}
+{"cid": "c078", "doc_id": "doc_2012", "chunk_id": "doc_2012__0003", "model": "llama3.1:8b", "query": "Saturn V space mission to test Apollo spacecraft and launch vehicle performance in lunar trajectory"}
+{"cid": "c079", "doc_id": "doc_1631", "chunk_id": "doc_1631__0010", "model": "llama3.1:8b", "query": "Explorer 7 mission results and findings on Van Allen Belts and cosmic ray experiments"}
+{"cid": "c080", "doc_id": "doc_2149", "chunk_id": "doc_2149__0002", "model": "llama3.1:8b", "query": "Zond 8 space mission details and objectives for lunar exploration in 1970"}
+{"cid": "c081", "doc_id": "doc_1060", "chunk_id": "doc_1060__0004", "model": "llama3.1:8b", "query": "Space mission logs for Kounotori 6's ISS berthing and departure operations in December 2016 to February 2017"}
+{"cid": "c082", "doc_id": "doc_1721", "chunk_id": "doc_1721__0002", "model": "llama3.1:8b", "query": "Successful first launch of a Kosmos-2I rocket with DS-2 satellite payload details"}
+{"cid": "c083", "doc_id": "doc_2311", "chunk_id": "doc_2311__0001", "model": "llama3.1:8b", "query": "Soviet space mission to Salyut 4 space station in January-February 1975"}
+{"cid": "c084", "doc_id": "doc_1963", "chunk_id": "doc_1963__0001", "model": "llama3.1:8b", "query": "Intelsat II F-3 satellite mission details, launch date, orbit parameters, and operational life"}
+{"cid": "c085", "doc_id": "doc_2102", "chunk_id": "doc_2102__0004", "model": "llama3.1:8b", "query": "OV1 satellite mission details including solar cell power generation and gravity-gradient stabilization system"}
+{"cid": "c086", "doc_id": "doc_2122", "chunk_id": "doc_2122__0001", "model": "llama3.1:8b", "query": "Kosmos 348 space mission details including launch date, spacecraft properties, and orbital parameters."}
+{"cid": "c087", "doc_id": "doc_0104", "chunk_id": "doc_0104__0001", "model": "llama3.1:8b", "query": "Details of ADEOS II space mission objectives and instruments launched by NASDA in 2002"}
+{"cid": "c088", "doc_id": "doc_2358", "chunk_id": "doc_2358__0001", "model": "llama3.1:8b", "query": "Details of Soyuz space mission launched on December 10, 1977 with crew of two cosmonauts."}
+{"cid": "c089", "doc_id": "doc_0920", "chunk_id": "doc_0920__0001", "model": "llama3.1:8b", "query": "Geostationary weather satellite mission details for Himawari 8 launched by Japan Meteorological Agency"}
+{"cid": "c090", "doc_id": "doc_3137", "chunk_id": "doc_3137__0001", "model": "llama3.1:8b", "query": "Progress M-42 spacecraft mission details July 1999 Baikonur launch to Mir space station"}
+{"cid": "c091", "doc_id": "doc_0529", "chunk_id": "doc_0529__0003", "model": "llama3.1:8b", "query": "RazakSAT space mission technical issues and limitations in Malaysia orbit and image accuracy"}
+{"cid": "c092", "doc_id": "doc_0201", "chunk_id": "doc_0201__0001", "model": "llama3.1:8b", "query": "Lockheed Martin A2100 geostationary communications satellite launched in February 2004 details"}
+{"cid": "c093", "doc_id": "doc_2887", "chunk_id": "doc_2887__0001", "model": "llama3.1:8b", "query": "Information about NASDA's 1994 H-II launched re-entry demonstrator prototype with orbital parameters."}
+{"cid": "c094", "doc_id": "doc_2144", "chunk_id": "doc_2144__0001", "model": "llama3.1:8b", "query": "Soviet uncrewed lunar spacecraft specifications and mission details"}
+{"cid": "c095", "doc_id": "doc_2747", "chunk_id": "doc_2747__0009", "model": "llama3.1:8b", "query": "Spacecraft mission details: Jupiter swing-by maneuver and polar exploration of the Sun"}
+{"cid": "c096", "doc_id": "doc_2939", "chunk_id": "doc_2939__0001", "model": "llama3.1:8b", "query": "Ukrainian space mission details: Sich-1 satellite launch parameters and orbital characteristics"}
+{"cid": "c097", "doc_id": "doc_2549", "chunk_id": "doc_2549__0001", "model": "llama3.1:8b", "query": "Soyuz-U rocket launch of Progress cargo spacecraft to resupply Salyut 7 space station in 1984"}
+{"cid": "c098", "doc_id": "doc_1759", "chunk_id": "doc_1759__0003", "model": "llama3.1:8b", "query": "Explorer 19 space mission details including orbital parameters and tracking methods used"}
+{"cid": "c099", "doc_id": "doc_1926", "chunk_id": "doc_1926__0001", "model": "llama3.1:8b", "query": "Details about the Zenit-2 spacecraft launched from Baikonur Cosmodrome in November 1966"}
+{"cid": "c100", "doc_id": "doc_0584", "chunk_id": "doc_0584__0002", "model": "llama3.1:8b", "query": "Details on H-IIA rocket mission including deployment of multiple satellites in May 2010"}
