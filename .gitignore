@@ -218,3 +218,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Caché de lemas de spaCy que genera hito1.ipynb
+cache/
