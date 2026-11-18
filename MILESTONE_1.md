@@ -1,4 +1,4 @@
-# Hito 1 - Baseline de recuperación
+# Hito 1: Baseline de recuperación
 
 **Aplicación:** chatbot sobre documentación de misiones espaciales - **Notebook:** `hito1.ipynb` - **Commit evaluado:** `<completar>`
 
