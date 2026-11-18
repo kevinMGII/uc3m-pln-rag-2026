@@ -27,6 +27,10 @@ BM25 supera a TF-IDF en todas las métricas, y la ventaja es mayor con K = 5. Co
 - **Fallos comunes:** hay dos causas. (1) Documentos casi equivalentes o consultas poco específicas (Gemini 6A y 7, Kosmos 2434-2436, naves Progress MS), que cuentan como fallo porque cada consulta tiene un solo documento relevante. (2) Desajustes de vocabulario (*Guiana Space Centre* / *Kourou*), agravados porque los n-gramas sustituyen a los unigramas.
 - **Sesgo del muestreo:** como se muestrean documentos, 95 de las 100 consultas salen de Wikipedia, aunque los PDF suman el 48 % de los fragmentos.
 - **MRR:** se calcula sobre el top 10 (MRR@10).
+  
+## Siguiente paso
+
+El siguiente paso es realizar el Hito 2, en el que se debe montar el chatbot RAG como tal. Este sistema usa embeddings para encontrar los fragmentos relevantes sobre nuestro dominio (misiones espaciales) y un modelo de pesos abierto para responder. Luego con las mismas consultas del Hito 1 hay que comparar la busqueda con TF-IDF y BM25, y hacer una primera evaluación de las respuestas.
 
 ## Uso de herramientas de IA generativa
 
