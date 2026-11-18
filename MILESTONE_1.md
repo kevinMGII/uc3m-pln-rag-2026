@@ -32,4 +32,4 @@ BM25 supera a TF-IDF en todas las métricas, y la ventaja es mayor con K = 5. Co
 
 - **llama3.1:8b** (servidor ollama de la UC3M): generación de las 100 consultas de evaluación, revisadas después por el equipo como se describe arriba.
 - **Claude Opus 5.5 (Anthropic):** apoyo en la extracción de los documentos del corpus, en la revisión del código del notebook y en el ajuste del preprocesado de los notebooks de clase a las características y particularidades de nuestro dominio específico. El equipo ha revisado y validado el código y los resultados.
-- - **GPT 6.1 Sol (OpenAI):** utilizado en la extracción de los documentos del corpus, así como la extracción de los fragmentos debido al volumen de los mismos. Además, esta utilización ha estado supervisada en todo momento por el equipo.
+- **GPT 6.1 Sol (OpenAI):** utilizado en la extracción de los documentos del corpus, así como la extracción de los fragmentos debido al volumen de los mismos. Además, esta utilización ha estado supervisada en todo momento por el equipo.
