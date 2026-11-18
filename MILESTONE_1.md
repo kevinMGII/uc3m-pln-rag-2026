@@ -36,4 +36,6 @@ El siguiente paso es realizar el Hito 2, en el que se debe montar el chatbot RAG
 
 - **llama3.1:8b** (servidor ollama de la UC3M): generación de las 100 consultas de evaluación, revisadas después por el equipo como se describe arriba.
 - **Claude Opus 5.5 (Anthropic):** apoyo en la extracción de los documentos del corpus, en la revisión del código del notebook y en el ajuste del preprocesado de los notebooks de clase a las características y particularidades de nuestro dominio específico. El equipo ha revisado y validado el código y los resultados.
-- **GPT 6.1 Sol (OpenAI):** utilizado en la extracción de los documentos del corpus, así como la extracción de los fragmentos debido al volumen de los mismos. Además, esta utilización ha estado supervisada en todo momento por el equipo.
+- **GPT 6.1 Sol (OpenAI):** utilizado mediante Codex para apoyar dos tareas del proyecto:
+  - **Extracción del corpus.** Ayudó a extraer y organizar los textos del corpus de 3.314 documentos sobre misiones espaciales (corpus/), bajo supervisión del equipo.
+  - **Asistencia en el código**: Se utilizó Codex con supervisión de forma general como apoyo en la escritura y revisión del código del proyecto, entre los que destaca el código necesario para realizar la fragmentación de manera adecuada.
