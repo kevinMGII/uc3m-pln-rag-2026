@@ -1,6 +1,8 @@
 # Hito 1: Baseline de recuperación
 
-**Aplicación:** chatbot sobre documentación de misiones espaciales - **Notebook:** `hito1.ipynb` - **Commit evaluado:** `<completar>`
+- **Aplicación:** chatbot sobre documentación de misiones espaciales - **Notebook:** `hito1.ipynb` - **Commit evaluado:** `<completar>` 
+- **Integrantes del grupo:** Marcos Romo Poveda, Antonio de Mariano Pérez, Izan Sanchez Alvaro y Kevin Medina García
+
 
 ## Qué se ha hecho
 
