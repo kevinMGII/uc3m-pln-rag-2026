@@ -221,3 +221,6 @@ __marimo__/
 
 # Caché de lemas de spaCy que genera hito1.ipynb
 cache/
+
+# Base de datos vectorial (Chroma) que genera hito2.ipynb
+chroma_db/
