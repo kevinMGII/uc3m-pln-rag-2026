@@ -7,4 +7,7 @@ wordninja==2.0.0
 numpy==2.5.4
 pandas==3.1.1
 requests==2.34.2
+# Hito 2 (instala también torch y transformers)
+sentence-transformers==6.3.0
+chromadb==1.5.9
 jupyter
